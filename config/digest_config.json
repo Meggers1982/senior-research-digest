@@ -1,0 +1,33 @@
+{
+  "_comment": "Edit this file to change digest behaviour. Commit the change and the next run picks it up.",
+
+  "subject_focus": "",
+
+  "_focus_comment": "Leave subject_focus empty to rotate through focus_rotation daily. Set it to a specific topic (e.g. 'dementia') to always search that topic.",
+
+  "focus_rotation": [
+    "",
+    "dementia",
+    "fall prevention",
+    "cardiovascular disease",
+    "depression",
+    "nutrition",
+    "sleep",
+    "palliative care",
+    "osteoporosis",
+    "sarcopenia",
+    "cognitive decline",
+    "hearing loss",
+    "vision loss",
+    "polypharmacy"
+  ],
+
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+
+  "days_back": 90,
+
+  "to_email": "REDACTED@example.com",
+
+  "from_email": "Senior Living Research <onboarding@resend.dev>"
+}

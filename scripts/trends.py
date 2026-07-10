@@ -1,5 +1,6 @@
 """Compare a freshly generated digest against the most recent prior digest on the
-same subject_focus, producing a short "Research Trends & Continuity" section."""
+same subject_focus, and surface any cross-study pattern within the new digest that
+might justify a standalone feature pitch."""
 
 import re
 from datetime import datetime
@@ -10,24 +11,42 @@ import anthropic
 
 
 SYSTEM_PROMPT = """\
-You are a research editor comparing two research digests written weeks apart on the
-same topic, each summarizing recent PubMed studies for an audience of older adults,
-families, caregivers, and senior living professionals.
+You are a research editor producing a short synthesis to run at the end of a senior
+living research digest, for an audience of older adults, families, caregivers, and
+senior living professionals.
 
-Compare the studies in the NEW digest against the studies in the PREVIOUS digest and
-identify genuine connections only — do not force a link where none exists.
+You will be given the digest just written (NEW DIGEST) and, if one exists, the most
+recent digest on the same topic (PREVIOUS DIGEST). Write exactly two sections, using
+this Markdown structure and headers verbatim:
 
-Organize findings under any of these headers that apply (omit any with nothing to report):
+## Research Trends & Continuity
 
-**Convergent findings** — new studies that replicate or reinforce previous conclusions.
-**Advances** — new studies that extend, refine, or add meaningful nuance to previous findings.
-**Counterpoints** — new studies that contradict, complicate, or weaken previous conclusions.
-**New themes** — topics or angles not covered in the previous digest.
+Compare the studies in the NEW digest against the studies in the PREVIOUS digest.
+Identify genuine connections only — do not force a link where none exists. Organize
+under any of these that apply (omit any with nothing to report): **Convergent
+findings**, **Advances**, **Counterpoints**, **New themes**. Name the specific study
+headlines and PMIDs from both digests for each point. If there is no previous digest,
+write only: "_No prior digest on this topic to compare against yet — this is the
+first run._"
 
-For each point, name the specific study headlines (and PMIDs) from both digests being
-connected. Keep it tight — a handful of bullet points total, not a rewrite of either
-digest. If there is genuinely no meaningful connection between the two digests, say so
-plainly rather than inventing one.
+## Bigger Picture: Feature Pitch
+
+Independent of the comparison above, look across ONLY the studies in the NEW digest
+as a batch. Do several of them, taken together, point to a broader trend, an emerging
+or underreported issue, or a storyline that would justify a standalone feature —
+something bigger than any single study's own "story angles"?
+
+If yes, write:
+**The pattern:** what the cross-study thread is, naming the specific study headlines
+and PMIDs from the NEW digest that support it (2-3 sentences).
+**Why pitch this now:** why this is timely or newsworthy as a larger feature, not just
+as individual items (1-2 sentences).
+**Angle:** how a longer feature piece could be framed, and for which audience
+(1-2 sentences).
+
+If the studies in this batch are disconnected single findings with no genuine
+cross-study pattern, write only: "_No cross-study feature angle identified in this
+batch._" Do not manufacture a pattern that isn't really there.
 """
 
 
@@ -82,27 +101,21 @@ def generate_trends_section(
     api_key: str,
     model: str = "claude-opus-4-5",
 ) -> str:
-    """Return a markdown "Research Trends & Continuity" section comparing this
-    digest against the most recent prior digest on the same topic."""
+    """Return markdown covering (1) how this digest's studies compare to the most
+    recent prior digest on the same topic, and (2) whether this digest's own studies,
+    taken together, suggest a bigger cross-study trend worth pitching as a feature."""
 
     topic_label = subject_focus if subject_focus else "broad senior living"
     found = _find_previous_digest(subject_focus, outputs_dir)
-
-    if found is None:
-        return (
-            "## Research Trends & Continuity\n\n"
-            f"_No prior digest on **{topic_label}** was found to compare against — "
-            "this is the first run on this topic._"
-        )
-
-    previous_path, previous_content = found
-    previous_date = _extract_field(previous_content, "Run date") or previous_path.stem
+    previous_block = (
+        found[1] if found is not None else "(none — this is the first digest on this topic)"
+    )
 
     client = anthropic.Anthropic(api_key=api_key)
     user_message = (
         f"Topic: {topic_label}\n\n"
         f"{'=' * 60}\nNEW DIGEST (just written):\n\n{digest_content}\n\n"
-        f"{'=' * 60}\nPREVIOUS DIGEST ({previous_date}):\n\n{previous_content}\n"
+        f"{'=' * 60}\nPREVIOUS DIGEST:\n\n{previous_block}\n"
         f"{'=' * 60}"
     )
 
@@ -116,8 +129,4 @@ def generate_trends_section(
     if response.stop_reason == "max_tokens":
         print("  WARNING: trends section truncated — consider raising max_tokens.")
 
-    return (
-        "## Research Trends & Continuity\n"
-        f"_Comparing against the {previous_date} digest on this topic._\n\n"
-        + body.strip()
-    )
+    return body.strip()

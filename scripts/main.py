@@ -16,6 +16,7 @@ from email_sender import send_digest_email
 
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUTS_DIR = REPO_ROOT / "outputs"
+TOPIC_MEMORY_DIR = REPO_ROOT / "topic_memory"
 CONFIG_PATH = REPO_ROOT / "config" / "digest_config.json"
 
 # Rotating subject focuses — one is chosen each day by day-of-year.
@@ -176,6 +177,7 @@ def main() -> None:
         subject_focus=subject_focus,
         digest_content=digest_content,
         outputs_dir=OUTPUTS_DIR,
+        memory_dir=TOPIC_MEMORY_DIR,
         api_key=anthropic_api_key,
     )
     digest_content = digest_content.rstrip() + "\n\n---\n\n" + trends_section + "\n"

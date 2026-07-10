@@ -73,6 +73,10 @@ CONTINUATION_PROMPT = (
     "written, and do not restart from the beginning."
 )
 
+# Cache the (static) system prompt so continuation retries re-read it from
+# cache instead of reprocessing it at full price on every retry.
+SYSTEM_PROMPT_BLOCKS = [{"type": "text", "text": SYSTEM_PROMPT, "cache_control": {"type": "ephemeral"}}]
+
 
 def _extract_header_field(digest: str, field: str) -> str:
     """Extract a labelled field from the digest header."""
@@ -137,11 +141,19 @@ def run_fact_check(
         f"{'=' * 60}"
     )
 
-    messages = [{"role": "user", "content": user_message}]
+    # The initial message is large (full digest + all original abstracts) — mark
+    # it cacheable alongside the system prompt so retries below don't reprocess
+    # it at full price.
+    messages = [
+        {
+            "role": "user",
+            "content": [{"type": "text", "text": user_message, "cache_control": {"type": "ephemeral"}}],
+        }
+    ]
     response = client.messages.create(
         model=model,
         max_tokens=16000,
-        system=SYSTEM_PROMPT,
+        system=SYSTEM_PROMPT_BLOCKS,
         messages=messages,
     )
     chunk = response.content[0].text if response.content else ""
@@ -157,7 +169,7 @@ def run_fact_check(
         response = client.messages.create(
             model=model,
             max_tokens=16000,
-            system=SYSTEM_PROMPT,
+            system=SYSTEM_PROMPT_BLOCKS,
             messages=messages,
         )
         chunk = response.content[0].text if response.content else ""

@@ -129,11 +129,21 @@ def generate_digest(
         f"{'=' * 60}"
     )
 
-    messages = [{"role": "user", "content": user_message}]
+    # Cache the system prompt and the (large) initial abstracts message so that
+    # continuation retries below re-read this prefix from cache instead of
+    # reprocessing it at full price on every retry. Continuation turns are small
+    # and left uncached to keep the request under the API's breakpoint limit.
+    system_blocks = [{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}]
+    messages = [
+        {
+            "role": "user",
+            "content": [{"type": "text", "text": user_message, "cache_control": {"type": "ephemeral"}}],
+        }
+    ]
     response = client.messages.create(
         model=model,
         max_tokens=16000,
-        system=system,
+        system=system_blocks,
         messages=messages,
     )
     chunk = response.content[0].text if response.content else ""
@@ -149,7 +159,7 @@ def generate_digest(
         response = client.messages.create(
             model=model,
             max_tokens=16000,
-            system=system,
+            system=system_blocks,
             messages=messages,
         )
         chunk = response.content[0].text if response.content else ""

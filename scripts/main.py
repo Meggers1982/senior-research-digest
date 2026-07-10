@@ -10,6 +10,7 @@ from journals import ISSNS
 from pubmed import search_by_issns, fetch_summaries, fetch_abstracts_for_pmids
 from digest_generator import generate_digest
 from fact_checker import run_fact_check
+from trends import generate_trends_section
 from email_sender import send_digest_email
 
 
@@ -149,13 +150,10 @@ def main() -> None:
     )
     print(f"Digest generated — {len(selected_pmids)} studies selected")
 
-    # Save digest
     month_year = datetime.now().strftime("%B %Y")
     focus_tag = f" — {subject_focus.title()}" if subject_focus else ""
     digest_filename = f"Senior Living Research Digest{focus_tag} — {month_year}.md"
     digest_path = unique_output_path(OUTPUTS_DIR / digest_filename)
-    digest_path.write_text(digest_content, encoding="utf-8")
-    print(f"Digest saved: outputs/{digest_path.name}")
 
     # ── Step 5: Run fact checker ──────────────────────────────────────────────
     print("\nRunning fact checker...")
@@ -172,7 +170,20 @@ def main() -> None:
     fact_check_path.write_text(fact_check_content, encoding="utf-8")
     print(f"Fact check saved: outputs/{fact_check_path.name}")
 
-    # ── Step 6: Send email ────────────────────────────────────────────────────
+    # ── Step 6: Compare against the prior digest on this topic ───────────────
+    print("\nGenerating trends & continuity section...")
+    trends_section = generate_trends_section(
+        subject_focus=subject_focus,
+        digest_content=digest_content,
+        outputs_dir=OUTPUTS_DIR,
+        api_key=anthropic_api_key,
+    )
+    digest_content = digest_content.rstrip() + "\n\n---\n\n" + trends_section + "\n"
+
+    digest_path.write_text(digest_content, encoding="utf-8")
+    print(f"Digest saved: outputs/{digest_path.name}")
+
+    # ── Step 7: Send email ────────────────────────────────────────────────────
     if to_email and resend_api_key:
         label = f"Senior Living{focus_tag}"
         print("\nSending email...")

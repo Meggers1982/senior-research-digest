@@ -57,11 +57,21 @@ After all entries, write a citation table:
 |---|------|---------|------|-----|
 [one row per entry]
 
+Do not include your own top-level title or heading (e.g. a line starting with
+"# Senior Living Research Digest") anywhere in your response — the output file
+already has this title in its header. Start directly with the first entry.
+
 Finally, append a JSON block (used internally — do not explain it):
 ```json
 {"selected_pmids": ["pmid1", "pmid2"]}
 ```
 """
+
+MAX_CONTINUATIONS = 3
+CONTINUATION_PROMPT = (
+    "Continue exactly where you left off. Do not repeat any content already "
+    "written, and do not restart from the beginning."
+)
 
 
 def generate_digest(
@@ -119,16 +129,41 @@ def generate_digest(
         f"{'=' * 60}"
     )
 
+    messages = [{"role": "user", "content": user_message}]
     response = client.messages.create(
         model=model,
-        max_tokens=8000,
+        max_tokens=16000,
         system=system,
-        messages=[{"role": "user", "content": user_message}],
+        messages=messages,
     )
+    chunk = response.content[0].text if response.content else ""
+    body = chunk
 
-    body = response.content[0].text
+    continuations = 0
+    while response.stop_reason == "max_tokens" and continuations < MAX_CONTINUATIONS:
+        # Echo back only THIS turn's partial text as the assistant message —
+        # not the full accumulated body — so the conversation history mirrors
+        # what actually happened turn-by-turn and doesn't duplicate content.
+        messages.append({"role": "assistant", "content": chunk})
+        messages.append({"role": "user", "content": CONTINUATION_PROMPT})
+        response = client.messages.create(
+            model=model,
+            max_tokens=16000,
+            system=system,
+            messages=messages,
+        )
+        chunk = response.content[0].text if response.content else ""
+        body += chunk
+        continuations += 1
 
-    # Extract selected PMIDs from the trailing JSON block
+    if response.stop_reason == "max_tokens":
+        print(
+            "  WARNING: digest response still truncated after "
+            f"{MAX_CONTINUATIONS} continuation(s) — output may be incomplete."
+        )
+
+    # Extract selected PMIDs from the trailing JSON block (search the full
+    # accumulated text, not just the last continuation chunk)
     selected_pmids = list(abstracts.keys())
     json_match = re.search(r"```json\s*(\{[^`]+\})\s*```", body, re.DOTALL)
     if json_match:
@@ -138,5 +173,16 @@ def generate_digest(
         except json.JSONDecodeError:
             pass
         body = body[: json_match.start()].rstrip()
+
+    # Strip a leading H1 title line if the model included its own (belt and
+    # suspenders alongside the system prompt instruction not to) — the file
+    # header above already carries this title.
+    stripped = body.lstrip("\n")
+    first_line_end = stripped.find("\n")
+    first_line = stripped if first_line_end == -1 else stripped[:first_line_end]
+    if re.match(r"^#\s+.*Senior Living Research Digest", first_line.strip()):
+        rest = "" if first_line_end == -1 else stripped[first_line_end + 1 :]
+        rest = rest.lstrip("\n")
+        body = rest
 
     return header + body, selected_pmids

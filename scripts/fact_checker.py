@@ -67,6 +67,12 @@ After all entries, write:
 **Entries cleared:** [N]
 """
 
+MAX_CONTINUATIONS = 3
+CONTINUATION_PROMPT = (
+    "Continue exactly where you left off. Do not repeat any content already "
+    "written, and do not restart from the beginning."
+)
+
 
 def _extract_header_field(digest: str, field: str) -> str:
     """Extract a labelled field from the digest header."""
@@ -80,6 +86,7 @@ def run_fact_check(
     ncbi_api_key: Optional[str],
     anthropic_api_key: str,
     model: str = "claude-opus-4-5",
+    subject_focus: str = "",
 ) -> str:
     """Fact-check a digest and return the fact-check report as markdown."""
 
@@ -88,11 +95,9 @@ def run_fact_check(
     # Parse header fields from the digest
     primary_audience = _extract_header_field(digest_content, "Primary audience")
     secondary_audience = _extract_header_field(digest_content, "Secondary audience")
-    category_line = ""
-    for line in digest_content.split("\n")[:3]:
-        if line.startswith("# "):
-            category_line = line.lstrip("# ").replace(" Research Digest", "").strip()
-            break
+    category_line = (
+        f"Senior Living Research Digest{' — ' + subject_focus.title() if subject_focus else ''}"
+    )
 
     run_date = datetime.now().strftime("%Y-%m-%d")
     month_year = datetime.now().strftime("%B %Y")
@@ -113,7 +118,7 @@ def run_fact_check(
     )
 
     report_header = (
-        f"# Fact-Check Report: {category_line} Research Digest — {month_year}\n"
+        f"# Fact-Check Report: {category_line} — {month_year}\n"
         f"**Checked:** {run_date} | **Studies reviewed:** {len(selected_pmids)}\n"
         f"**Primary audience:** {primary_audience} | **Secondary audience:** {secondary_audience}\n\n"
         "---\n\n"
@@ -132,11 +137,37 @@ def run_fact_check(
         f"{'=' * 60}"
     )
 
+    messages = [{"role": "user", "content": user_message}]
     response = client.messages.create(
         model=model,
-        max_tokens=8000,
+        max_tokens=16000,
         system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": user_message}],
+        messages=messages,
     )
+    chunk = response.content[0].text if response.content else ""
+    report_body = chunk
 
-    return report_header + response.content[0].text
+    continuations = 0
+    while response.stop_reason == "max_tokens" and continuations < MAX_CONTINUATIONS:
+        # Echo back only THIS turn's partial text as the assistant message —
+        # not the full accumulated report — so history mirrors what actually
+        # happened turn-by-turn and doesn't duplicate content.
+        messages.append({"role": "assistant", "content": chunk})
+        messages.append({"role": "user", "content": CONTINUATION_PROMPT})
+        response = client.messages.create(
+            model=model,
+            max_tokens=16000,
+            system=SYSTEM_PROMPT,
+            messages=messages,
+        )
+        chunk = response.content[0].text if response.content else ""
+        report_body += chunk
+        continuations += 1
+
+    if response.stop_reason == "max_tokens":
+        print(
+            "  WARNING: fact-check response still truncated after "
+            f"{MAX_CONTINUATIONS} continuation(s) — output may be incomplete."
+        )
+
+    return report_header + report_body

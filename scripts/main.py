@@ -164,6 +164,7 @@ def main() -> None:
         selected_pmids=selected_pmids,
         ncbi_api_key=ncbi_api_key,
         anthropic_api_key=anthropic_api_key,
+        subject_focus=subject_focus,
     )
 
     fact_check_filename = digest_path.stem + " Fact Check.md"

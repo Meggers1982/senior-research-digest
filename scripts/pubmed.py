@@ -7,11 +7,13 @@ from typing import Optional
 
 
 EUTILS_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
-_RATE_DELAY = 0.4  # seconds between calls (safe for 3 req/sec without API key)
+_RATE_DELAY_NO_KEY = 0.4  # seconds between calls (safe for 3 req/sec without API key)
+_RATE_DELAY_WITH_KEY = 0.11  # seconds between calls (safe for 10 req/sec with API key)
 
 
 def _get(url: str, params: dict, timeout: int = 30) -> requests.Response:
-    time.sleep(_RATE_DELAY)
+    delay = _RATE_DELAY_WITH_KEY if params.get("api_key") else _RATE_DELAY_NO_KEY
+    time.sleep(delay)
     resp = requests.get(url, params=params, timeout=timeout)
     resp.raise_for_status()
     return resp

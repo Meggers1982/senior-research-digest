@@ -25,6 +25,7 @@ def markdown_to_html(md: str) -> str:
     in_table = False
     table_header_done = False
     in_code_block = False
+    in_list = False
     paragraph_lines: list[str] = []
 
     def flush_paragraph():
@@ -38,6 +39,9 @@ def markdown_to_html(md: str) -> str:
         # Code blocks
         if line.startswith("```"):
             flush_paragraph()
+            if in_list:
+                html.append("</ul>")
+                in_list = False
             if not in_code_block:
                 html.append("<pre style='background:#f4f4f4;padding:12px;border-radius:4px;overflow-x:auto'><code>")
                 in_code_block = True
@@ -60,6 +64,9 @@ def markdown_to_html(md: str) -> str:
                 continue
             if not in_table:
                 flush_paragraph()
+                if in_list:
+                    html.append("</ul>")
+                    in_list = False
                 html.append(
                     "<table style='border-collapse:collapse;width:100%;margin:12px 0;font-size:14px'>"
                     "<thead>"
@@ -80,6 +87,10 @@ def markdown_to_html(md: str) -> str:
             html.append("</tbody></table>")
             in_table = False
             table_header_done = False
+
+        if in_list and not re.match(r"^[-*]\s+", line):
+            html.append("</ul>")
+            in_list = False
 
         # Horizontal rule
         if re.match(r"^-{3,}$", line.strip()):
@@ -102,7 +113,10 @@ def markdown_to_html(md: str) -> str:
 
         # List items
         if re.match(r"^[-*]\s+", line):
-            flush_paragraph()
+            if not in_list:
+                flush_paragraph()
+                html.append("<ul style='margin:8px 0;padding-left:20px'>")
+                in_list = True
             content = re.sub(r"^[-*]\s+", "", line)
             html.append(f"<li style='margin:4px 0'>{_md_inline(content)}</li>")
             continue
@@ -119,6 +133,8 @@ def markdown_to_html(md: str) -> str:
         html.append("</tbody></table>")
     if in_code_block:
         html.append("</code></pre>")
+    if in_list:
+        html.append("</ul>")
 
     return "\n".join(html)
 

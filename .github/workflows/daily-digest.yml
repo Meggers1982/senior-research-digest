@@ -52,3 +52,11 @@ jobs:
           git add outputs/ topic_memory/ docs/
           git diff --cached --quiet || git commit -m "digest: $(date -u +%Y-%m-%d)"
           git push
+
+      - name: Deploy dashboard to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_ILjarBqrMdxa47xLA4bqqQfq
+          VERCEL_PROJECT_ID: prj_wWFV5jrdnYlKq2pX3wZSVCo0sR6v
+        working-directory: docs
+        run: npx --yes vercel@latest deploy --prod --token="$VERCEL_TOKEN" --yes

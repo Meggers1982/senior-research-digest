@@ -12,6 +12,7 @@ from digest_generator import generate_digest
 from fact_checker import run_fact_check
 from trends import generate_trends_section
 from email_sender import send_digest_email
+from build_dashboard_data import main as rebuild_dashboard_data
 
 
 REPO_ROOT = Path(__file__).parent.parent
@@ -185,7 +186,11 @@ def main() -> None:
     digest_path.write_text(digest_content, encoding="utf-8")
     print(f"Digest saved: outputs/{digest_path.name}")
 
-    # ── Step 7: Send email ────────────────────────────────────────────────────
+    # ── Step 7: Rebuild dashboard data ───────────────────────────────────────
+    print("\nRebuilding dashboard data...")
+    rebuild_dashboard_data()
+
+    # ── Step 8: Send email ────────────────────────────────────────────────────
     if to_email and resend_api_key:
         label = f"Senior Living{focus_tag}"
         print("\nSending email...")

@@ -1,0 +1,382 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="robots" content="noindex, nofollow" />
+<title>Senior Living Research Digest — Dashboard</title>
+<style>
+  :root {
+    --bg: #f7f5f2;
+    --panel: #ffffff;
+    --border: #e4ddd3;
+    --text: #2b2622;
+    --muted: #6f6759;
+    --accent: #7a5c3e;
+    --accent-soft: #efe6d9;
+    --good: #2f7a4f;
+    --warn: #a5710f;
+    --bad: #b23b3b;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #1c1a17;
+      --panel: #262320;
+      --border: #3a352e;
+      --text: #efe9e0;
+      --muted: #a89d8c;
+      --accent: #d9b98a;
+      --accent-soft: #332c22;
+      --good: #6fcf94;
+      --warn: #e0ac4f;
+      --bad: #e07a7a;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1c1a17; --panel: #262320; --border: #3a352e; --text: #efe9e0;
+    --muted: #a89d8c; --accent: #d9b98a; --accent-soft: #332c22;
+    --good: #6fcf94; --warn: #e0ac4f; --bad: #e07a7a;
+  }
+  :root[data-theme="light"] {
+    --bg: #f7f5f2; --panel: #ffffff; --border: #e4ddd3; --text: #2b2622;
+    --muted: #6f6759; --accent: #7a5c3e; --accent-soft: #efe6d9;
+    --good: #2f7a4f; --warn: #a5710f; --bad: #b23b3b;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.45;
+  }
+  header {
+    padding: 20px 24px 16px;
+    border-bottom: 1px solid var(--border);
+    background: var(--panel);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  header h1 { margin: 0 0 4px; font-size: 1.3rem; }
+  header p { margin: 0; color: var(--muted); font-size: 0.85rem; }
+  .layout {
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    gap: 0;
+    align-items: start;
+  }
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; }
+  }
+  .sidebar {
+    border-right: 1px solid var(--border);
+    padding: 16px;
+    max-height: calc(100vh - 80px);
+    overflow-y: auto;
+    position: sticky;
+    top: 80px;
+  }
+  @media (max-width: 860px) {
+    .sidebar { position: static; max-height: none; border-right: none; border-bottom: 1px solid var(--border); }
+  }
+  .controls { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
+  input[type="search"], select {
+    width: 100%;
+    padding: 8px 10px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--panel);
+    color: var(--text);
+    font-size: 0.9rem;
+  }
+  .run-list { display: flex; flex-direction: column; gap: 8px; }
+  .run-card {
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 10px 12px;
+    cursor: pointer;
+    background: var(--panel);
+    transition: border-color 0.15s;
+  }
+  .run-card:hover { border-color: var(--accent); }
+  .run-card.active { border-color: var(--accent); background: var(--accent-soft); }
+  .run-card .rc-title { font-weight: 600; font-size: 0.88rem; margin-bottom: 3px; }
+  .run-card .rc-meta { font-size: 0.75rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
+  .badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    padding: 1px 7px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border: 1px solid var(--border);
+  }
+  main { padding: 24px 28px 60px; min-width: 0; }
+  .empty-state { color: var(--muted); padding: 40px 0; text-align: center; }
+  .run-header { margin-bottom: 20px; }
+  .run-header h2 { margin: 0 0 8px; font-size: 1.4rem; }
+  .run-header .meta-row { display: flex; gap: 14px; flex-wrap: wrap; color: var(--muted); font-size: 0.85rem; }
+  .fact-summary {
+    margin-top: 10px;
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+  .study {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--panel);
+    padding: 16px 18px;
+    margin-bottom: 14px;
+  }
+  .study h3 { margin: 0 0 8px; font-size: 1.05rem; }
+  .study .study-meta { font-size: 0.78rem; color: var(--muted); margin-bottom: 10px; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .study .study-meta a { color: var(--accent); text-decoration: none; }
+  .study .study-meta a:hover { text-decoration: underline; }
+  .verdict { font-size: 0.75rem; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--border); }
+  .verdict.good { color: var(--good); }
+  .verdict.warn { color: var(--warn); }
+  .verdict.bad { color: var(--bad); }
+  .study .field-label { font-weight: 600; font-size: 0.82rem; margin-top: 10px; }
+  .study .field-body { font-size: 0.9rem; margin-top: 2px; }
+  .story-angle { margin-top: 6px; padding-left: 10px; border-left: 2px solid var(--border); font-size: 0.88rem; }
+  .story-angle b { color: var(--accent); }
+  .section-block {
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--panel);
+    padding: 16px 18px;
+    margin-top: 22px;
+    font-size: 0.9rem;
+  }
+  .section-block h4 { margin: 0 0 8px; font-size: 1rem; }
+  .section-block b { color: var(--accent); }
+  .section-block ul { margin: 4px 0 10px 18px; padding: 0; }
+  .citation-table { width: 100%; border-collapse: collapse; margin-top: 22px; font-size: 0.82rem; }
+  .citation-table th, .citation-table td { border: 1px solid var(--border); padding: 6px 8px; text-align: left; }
+  .citation-table th { background: var(--accent-soft); }
+  details.raw-toggle { margin-top: 10px; font-size: 0.82rem; color: var(--muted); }
+  details.raw-toggle summary { cursor: pointer; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Senior Living Research Digest</h1>
+  <p>Full run history — every digest ever generated, browsable by topic and date.</p>
+</header>
+<div class="layout">
+  <aside class="sidebar">
+    <div class="controls">
+      <input type="search" id="search" placeholder="Search headline, PMID, journal…" />
+      <select id="topic-filter">
+        <option value="">All topics</option>
+      </select>
+    </div>
+    <div id="run-count" style="color: var(--muted); font-size: 0.78rem; margin-bottom: 8px;"></div>
+    <div class="run-list" id="run-list"></div>
+  </aside>
+  <main id="main">
+    <div class="empty-state">Loading digest history…</div>
+  </main>
+</div>
+<script>
+const state = { data: null, filtered: [], activeId: null };
+
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+
+function verdictClass(verdict) {
+  if (!verdict) return "";
+  if (verdict.includes("✅")) return "good";
+  if (verdict.includes("⚠️")) return "warn";
+  if (verdict.includes("❌")) return "bad";
+  return "";
+}
+
+function renderSidebar() {
+  const topicSelect = document.getElementById("topic-filter");
+  topicSelect.innerHTML = '<option value="">All topics</option>' +
+    state.data.topics.map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`).join("");
+
+  const list = document.getElementById("run-list");
+  list.innerHTML = state.filtered.map(r => `
+    <div class="run-card ${r.id === state.activeId ? "active" : ""}" data-id="${r.id}">
+      <div class="rc-title">${escapeHtml(r.topic || "Broad")}</div>
+      <div class="rc-meta">
+        <span>${escapeHtml(r.run_date || "—")}</span>
+        <span class="badge">${r.study_count} studies</span>
+        ${r.fact_check && r.fact_check.summary ? `<span class="badge">${escapeHtml(r.fact_check.summary.total_issues || "")} issues</span>` : ""}
+      </div>
+    </div>
+  `).join("") || '<div class="empty-state">No runs match.</div>';
+
+  document.getElementById("run-count").textContent =
+    `${state.filtered.length} of ${state.data.run_count} runs`;
+
+  list.querySelectorAll(".run-card").forEach(el => {
+    el.addEventListener("click", () => {
+      state.activeId = el.dataset.id;
+      renderSidebar();
+      renderMain();
+    });
+  });
+}
+
+function renderTrendsBlock(raw) {
+  if (!raw) return "";
+  // Render **Label:** paragraphs and "- " bullet lists without a full markdown parser.
+  const lines = raw.split("\n");
+  let html = "";
+  let inList = false;
+  for (const line of lines) {
+    const trimmed = line.trim();
+    if (!trimmed) continue;
+    const bullet = trimmed.match(/^-\s+(.*)$/);
+    if (bullet) {
+      if (!inList) { html += "<ul>"; inList = true; }
+      html += `<li>${inlineMd(bullet[1])}</li>`;
+    } else {
+      if (inList) { html += "</ul>"; inList = false; }
+      html += `<p>${inlineMd(trimmed)}</p>`;
+    }
+  }
+  if (inList) html += "</ul>";
+  return html;
+}
+
+function inlineMd(text) {
+  return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+}
+
+function renderStudy(study, factCheck) {
+  const verdict = factCheck && factCheck.verdicts_by_pmid ? factCheck.verdicts_by_pmid[study.pmid] : null;
+  return `
+    <div class="study">
+      <h3>${study.number}. ${escapeHtml(study.title)}</h3>
+      <div class="study-meta">
+        <span>${escapeHtml(study.journal)}</span>
+        <span>${escapeHtml(study.published)}</span>
+        ${study.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${escapeHtml(study.pmid)}/" target="_blank" rel="noopener">PMID ${escapeHtml(study.pmid)}</a>` : ""}
+        ${study.doi ? `<span>DOI: ${escapeHtml(study.doi)}</span>` : ""}
+        ${verdict ? `<span class="verdict ${verdictClass(verdict)}">${escapeHtml(verdict)}</span>` : ""}
+      </div>
+      <div class="field-label">The study</div>
+      <div class="field-body">${escapeHtml(study.the_study) || "—"}</div>
+      <div class="field-label">Why it matters</div>
+      <div class="field-body">${escapeHtml(study.why_it_matters) || "—"}</div>
+      <div class="field-label">Story angles</div>
+      <div class="story-angle"><b>To audience:</b> ${escapeHtml(study.story_angle_primary) || "—"}</div>
+      <div class="story-angle"><b>About audience:</b> ${escapeHtml(study.story_angle_secondary) || "—"}</div>
+      <div class="field-label">Caveats</div>
+      <div class="field-body">${escapeHtml(study.caveats) || "—"}</div>
+    </div>
+  `;
+}
+
+function renderMain() {
+  const main = document.getElementById("main");
+  const run = state.data.runs.find(r => r.id === state.activeId);
+  if (!run) {
+    main.innerHTML = '<div class="empty-state">Select a run from the list to view its studies.</div>';
+    return;
+  }
+
+  const factSummary = run.fact_check && run.fact_check.summary
+    ? `<div class="fact-summary">Fact check: ${escapeHtml(run.fact_check.summary.total_issues)} total issues · ${escapeHtml(run.fact_check.summary.entries_requiring_revision)} entries need revision · ${escapeHtml(run.fact_check.summary.entries_cleared)} cleared</div>`
+    : (run.fact_check ? `<div class="fact-summary">Fact check available (no summary table found)</div>` : "");
+
+  const studiesHtml = run.studies.map(s => renderStudy(s, run.fact_check)).join("");
+
+  const citationHtml = run.citation_table.length ? `
+    <table class="citation-table">
+      <thead><tr><th>PMID</th><th>Journal</th><th>Date</th><th>DOI</th></tr></thead>
+      <tbody>
+        ${run.citation_table.map(c => `<tr><td>${escapeHtml(c.pmid)}</td><td>${escapeHtml(c.journal)}</td><td>${escapeHtml(c.date)}</td><td>${escapeHtml(c.doi)}</td></tr>`).join("")}
+      </tbody>
+    </table>
+  ` : "";
+
+  const trendsHtml = run.trends_raw ? `
+    <div class="section-block">
+      <h4>Research Trends &amp; Continuity</h4>
+      ${renderTrendsBlock(run.trends_raw)}
+    </div>
+  ` : "";
+
+  const pitchHtml = run.feature_pitch_raw ? `
+    <div class="section-block">
+      <h4>Bigger Picture: Feature Pitch</h4>
+      ${renderTrendsBlock(run.feature_pitch_raw)}
+    </div>
+  ` : "";
+
+  const rawFactCheckHtml = run.fact_check && run.fact_check.raw ? `
+    <details class="raw-toggle">
+      <summary>View full fact-check report</summary>
+      <pre style="white-space: pre-wrap; font-family: inherit;">${escapeHtml(run.fact_check.raw)}</pre>
+    </details>
+  ` : "";
+
+  main.innerHTML = `
+    <div class="run-header">
+      <h2>${escapeHtml(run.title)}</h2>
+      <div class="meta-row">
+        <span>Run date: ${escapeHtml(run.run_date)}</span>
+        <span>Coverage: ${escapeHtml(run.coverage_window)}</span>
+        <span>Journals searched: ${escapeHtml(run.journals_searched)}</span>
+        <span>Articles screened: ${escapeHtml(run.articles_screened)}</span>
+        <span>Studies selected: ${run.study_count}</span>
+      </div>
+      ${factSummary}
+    </div>
+    ${studiesHtml}
+    ${citationHtml}
+    ${trendsHtml}
+    ${pitchHtml}
+    ${rawFactCheckHtml}
+  `;
+}
+
+function applyFilters() {
+  const query = document.getElementById("search").value.trim().toLowerCase();
+  const topic = document.getElementById("topic-filter").value;
+
+  state.filtered = state.data.runs.filter(r => {
+    if (topic && r.topic !== topic) return false;
+    if (!query) return true;
+    const haystack = [
+      r.title, r.focus, r.topic,
+      ...r.studies.flatMap(s => [s.title, s.pmid, s.journal])
+    ].join(" ").toLowerCase();
+    return haystack.includes(query);
+  });
+
+  if (!state.filtered.some(r => r.id === state.activeId)) {
+    state.activeId = state.filtered.length ? state.filtered[0].id : null;
+  }
+
+  renderSidebar();
+  renderMain();
+}
+
+async function init() {
+  const res = await fetch("data/digests.json");
+  state.data = await res.json();
+  state.filtered = state.data.runs;
+  state.activeId = state.filtered.length ? state.filtered[0].id : null;
+
+  document.getElementById("search").addEventListener("input", applyFilters);
+  document.getElementById("topic-filter").addEventListener("change", applyFilters);
+
+  renderSidebar();
+  renderMain();
+}
+
+init().catch(err => {
+  document.getElementById("main").innerHTML =
+    `<div class="empty-state">Failed to load digest data: ${escapeHtml(err.message)}</div>`;
+});
+</script>
+</body>
+</html>

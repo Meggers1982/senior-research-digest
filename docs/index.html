@@ -157,6 +157,30 @@
   .citation-table th { background: var(--accent-soft); }
   details.raw-toggle { margin-top: 10px; font-size: 0.82rem; color: var(--muted); }
   details.raw-toggle summary { cursor: pointer; }
+  #scroll-top-btn {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    border: 1px solid var(--border);
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 1.2rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(8px);
+    transition: opacity 0.15s, transform 0.15s, visibility 0.15s;
+    z-index: 20;
+  }
+  #scroll-top-btn.visible { opacity: 1; visibility: visible; transform: translateY(0); }
+  #scroll-top-btn:hover { border-color: var(--accent); }
 </style>
 </head>
 <body>
@@ -179,6 +203,7 @@
     <div class="empty-state">Loading digest history…</div>
   </main>
 </div>
+<button id="scroll-top-btn" title="Back to top" aria-label="Back to top">&#8593;</button>
 <script>
 const state = { data: null, filtered: [], activeId: null };
 
@@ -360,6 +385,16 @@ function applyFilters() {
   renderMain();
 }
 
+function initScrollTopButton() {
+  const btn = document.getElementById("scroll-top-btn");
+  window.addEventListener("scroll", () => {
+    btn.classList.toggle("visible", window.scrollY > 400);
+  });
+  btn.addEventListener("click", () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
+}
+
 async function init() {
   const res = await fetch("data/digests.json");
   state.data = await res.json();
@@ -368,6 +403,7 @@ async function init() {
 
   document.getElementById("search").addEventListener("input", applyFilters);
   document.getElementById("topic-filter").addEventListener("change", applyFilters);
+  initScrollTopButton();
 
   renderSidebar();
   renderMain();

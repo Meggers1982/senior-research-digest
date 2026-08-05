@@ -47,6 +47,14 @@ and PMIDs from the NEW digest that support it (2-3 sentences).
 as individual items (1-2 sentences).
 **Angle:** how a longer feature piece could be framed, and for which audience
 (1-2 sentences).
+**Potential outlets:** 3-4 real, currently active publications this specific pitch
+could go to, each its own bullet with a short reason tied to THIS angle (not a
+generic "they cover health topics"). Mix consumer press aimed at older adults or
+caregivers with senior-care trade press where relevant — e.g. Next Avenue, AARP
+(The Magazine or aarp.org), Being Patient, Considerable, KFF Health News, McKnight's
+Senior Living, Senior Housing News, NYT Well, Washington Post Well+Being — but
+don't limit yourself to this list, and don't name an outlet that wouldn't
+plausibly run this particular angle.
 
 If the studies in this batch are disconnected single findings with no genuine
 cross-study pattern, write only: "_No cross-study feature angle identified in this

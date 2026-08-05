@@ -27,7 +27,8 @@ and publishes every run to a browsable dashboard.
    digest to the most recent prior digest on the same topic and to a running
    per-topic memory file (`topic_memory/<topic>.md`), producing a "Research
    Trends & Continuity" section plus a "Bigger Picture: Feature Pitch" if the
-   batch suggests a larger story.
+   batch suggests a larger story. When there is a pitch, it also suggests 3-4
+   real outlets that specific angle could go to, for pitching ideation.
 6. **Rebuilds the dashboard** (`build_dashboard_data.py`) — parses every
    digest + fact-check in `outputs/` into `docs/data/digests.json`.
 7. **Emails the digest** (`email_sender.py`) via Resend, if `to_email` and

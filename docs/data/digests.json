@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.md",
-  "run_count": 26,
+  "run_count": 27,
   "topics": [
     "cardiovascular disease",
     "cognitive decline",
@@ -17,6 +17,439 @@
     "vision loss"
   ],
   "runs": [
+    {
+      "id": "senior-living-research-digest-sarcopenia-august-2026",
+      "filename": "Senior Living Research Digest \u2014 Sarcopenia \u2014 August 2026.md",
+      "title": "Senior Living Research Digest \u2014 Sarcopenia \u2014 August 2026",
+      "run_date": "2026-08-07",
+      "coverage_window": "Last 90 days",
+      "journals_searched": "146",
+      "articles_screened": "40",
+      "focus": "sarcopenia",
+      "topic": "sarcopenia",
+      "is_broad": false,
+      "primary_audience": "older adults and seniors",
+      "secondary_audience": "families, caregivers, and senior living professionals",
+      "study_count": 20,
+      "studies": [
+        {
+          "number": 1,
+          "title": "Biological aging measured from blood tests linked to early muscle loss in adults under 40",
+          "journal": "GeroScience",
+          "published": "July 15, 2026",
+          "pmid": "42449042",
+          "doi": "10.1007/s11357-026-02420-7",
+          "the_study": "Researchers followed 165,015 adults (average age 40) who underwent chest CT scans between 2010 and 2020, with 61,669 having repeat scans over a median 4.1 years. Using blood-based biological aging markers and imaging, they found that people whose biological age exceeded their chronological age had higher odds of muscle loss (myopenia) and fatty muscle infiltration (myosteatosis), even among participants younger than 40.",
+          "why_it_matters": "This research suggests that biological aging\u2014detectable through routine blood work\u2014may identify younger adults at risk for muscle deterioration decades before traditional sarcopenia concerns arise.",
+          "story_angle_primary": "If you've had blood work showing markers of \"accelerated aging,\" this may be worth discussing with your doctor as part of a broader conversation about maintaining muscle health.",
+          "story_angle_secondary": "For senior living professionals, this research supports considering biological age markers in early wellness screening programs, potentially identifying residents who might benefit most from strength-building interventions.",
+          "caveats": "Observational design (cannot establish causation); single center; muscle measurements derived from chest CT images rather than gold-standard methods."
+        },
+        {
+          "number": 2,
+          "title": "New 6-question screening tool catches sarcopenia risk in community settings",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "July 27, 2026",
+          "pmid": "42508218",
+          "doi": "10.1016/j.jnha.2026.100928",
+          "the_study": "Chinese researchers developed and validated an ultra-brief 6-item sarcopenia screening questionnaire in community-dwelling older adults. At a cut-off score of 10 or higher, the tool achieved 87% sensitivity against Asian sarcopenia criteria and 97% sensitivity against European criteria, with good overall accuracy (AUC 0.80\u20130.92).",
+          "why_it_matters": "A quick, equipment-free screening tool could help community health workers and primary care providers identify older adults who need further muscle assessment, catching problems earlier.",
+          "story_angle_primary": "Simple screening questionnaires at community centers or doctor visits may soon help flag whether you need a closer look at muscle health\u2014no special equipment required.",
+          "story_angle_secondary": "Senior living communities could adopt brief questionnaires like this to streamline initial sarcopenia screening during resident intake or annual wellness checks.",
+          "caveats": "Cross-sectional design; validation limited to Chinese populations; may not generalize to other ethnic groups."
+        },
+        {
+          "number": 3,
+          "title": "Blood pressure medications (ARBs) associated with lower sarcopenia rates in hospitalized older adults",
+          "journal": "Aging Clinical and Experimental Research",
+          "published": "July 8, 2026",
+          "pmid": "42414787",
+          "doi": "10.1007/s40520-026-03452-x",
+          "the_study": "In a cross-sectional study of 206 hospitalized patients aged 65 and older (40% sarcopenic), researchers found that angiotensin receptor blocker (ARB) use\u2014a common blood pressure medication\u2014was independently associated with lower odds of sarcopenia, even after adjusting for age, sex, and number of medications. Polypharmacy itself was not linked to sarcopenia.",
+          "why_it_matters": "This suggests certain blood pressure medications might offer muscle-protective benefits, though the finding needs confirmation in larger, longitudinal studies before influencing prescribing decisions.",
+          "story_angle_primary": "If you take blood pressure medication, don't change anything based on this single study\u2014but it's interesting to know researchers are exploring whether some medications may have muscle-health benefits.",
+          "story_angle_secondary": "Clinicians and pharmacists in senior care settings may want to track emerging evidence on ARBs and muscle preservation when optimizing medication regimens for older patients.",
+          "caveats": "Small sample (N=206); cross-sectional (cannot establish causation); single-center; hospitalized patients may not represent community-dwelling older adults."
+        },
+        {
+          "number": 4,
+          "title": "Replacing just 10 minutes of sitting with moderate activity linked to better muscle function",
+          "journal": "Journal of Geriatric Physical Therapy",
+          "published": "June 19, 2026",
+          "pmid": "42314003",
+          "doi": "10.1519/JPT.0000000000000508",
+          "the_study": "Using accelerometer data from 527 community-dwelling adults aged 65\u201384 in rural Japan, researchers modeled what happens when sedentary time is swapped for physical activity. Replacing just 10 minutes per day of sitting or light activity with moderate-to-vigorous activity was associated with faster gait speed and lower sarcopenia prevalence.",
+          "why_it_matters": "This provides a concrete, achievable target: even modest increases in brisk walking or exercise may support muscle function and reduce sarcopenia risk.",
+          "story_angle_primary": "Consider trading 10 minutes of sitting for a brisk walk or other moderate activity daily\u2014it may help maintain your walking speed and muscle function.",
+          "story_angle_secondary": "Activity directors in senior living could use this \"10-minute swap\" message to motivate residents, emphasizing that small changes in daily movement patterns can add up.",
+          "caveats": "Cross-sectional analysis (cannot establish causation); rural Japanese population may not generalize; self-selected sample."
+        },
+        {
+          "number": 5,
+          "title": "Longer hospital stays linked to weaker muscles\u2014especially in adults 80+",
+          "journal": "Aging Clinical and Experimental Research",
+          "published": "June 25, 2026",
+          "pmid": "42348081",
+          "doi": "10.1007/s40520-026-03442-z",
+          "the_study": "Among 1,071 older inpatients (aged 65+) in Denmark, researchers found that longer hospital stays were associated with lower gait speed and chair-stand performance, particularly in those 80 and older. Higher grip strength and chair-stand ability at admission predicted shorter hospitalizations.",
+          "why_it_matters": "This reinforces the importance of maintaining\u2014or rebuilding\u2014strength during and after hospitalization, especially for the oldest patients.",
+          "story_angle_primary": "If you or a loved one is hospitalized, ask about in-hospital physical therapy or mobility programs\u2014staying active during a hospital stay may help you leave sooner and stronger.",
+          "story_angle_secondary": "Hospital-based geriatric teams and post-acute rehabilitation providers should prioritize early mobility interventions, particularly for patients 80 and older, to prevent hospital-associated deconditioning.",
+          "caveats": "Cross-sectional data (cannot prove causation); single-center study."
+        },
+        {
+          "number": 6,
+          "title": "Vision and hearing problems most common \"early warning\" of declining capacity in healthy older adults",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "July 23, 2026",
+          "pmid": "42492227",
+          "doi": "10.1016/j.jnha.2026.100931",
+          "the_study": "In 1,607 community-dwelling Chinese adults aged 60+ who met healthy aging standards, researchers assessed five domains of \"intrinsic capacity\" (cognition, mobility, vitality, psychology, sensory function). Over 92% had at least one impairment\u2014most commonly sensory (81%). Those with impairments across multiple domains had significantly higher odds of falls and possible sarcopenia.",
+          "why_it_matters": "Even among generally healthy older adults, sensory decline (vision and hearing) may be an early marker of broader functional decline, suggesting regular screening could catch problems before they cascade.",
+          "story_angle_primary": "Don't dismiss vision or hearing changes as \"just aging\"\u2014addressing these early may help preserve your overall functional independence.",
+          "story_angle_secondary": "Senior living communities should integrate routine vision and hearing assessments into wellness programs, treating sensory impairment as a potential gateway to broader functional decline.",
+          "caveats": "Cross-sectional design (cannot establish causation); Chinese population may not generalize to other groups."
+        },
+        {
+          "number": 7,
+          "title": "Sarcopenia linked to higher risk of respiratory diseases including COPD and asthma",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "July 2, 2026",
+          "pmid": "42391675",
+          "doi": "10.1016/j.jnha.2026.100919",
+          "the_study": "Following 317,628 UK Biobank participants over a median 14 years, researchers found that both probable and confirmed sarcopenia were associated with poorer lung function and significantly higher risks of developing COPD (37% higher), asthma (35% higher), and interstitial lung disease (74% higher). Inflammatory markers like C-reactive protein partially explained these associations.",
+          "why_it_matters": "Muscle health and lung health appear interconnected, reinforcing that sarcopenia prevention may have benefits beyond mobility.",
+          "story_angle_primary": "Maintaining muscle strength may help protect your lungs too\u2014another reason to prioritize strength-building activities as you age.",
+          "story_angle_secondary": "Pulmonary rehabilitation and senior fitness programs may benefit from integrating sarcopenia screening, recognizing the shared risk factors between muscle and lung decline.",
+          "caveats": "Observational design (cannot establish causation); sarcopenia defined using UK Biobank-specific methods."
+        },
+        {
+          "number": 8,
+          "title": "CT scans reveal thigh muscle shrinkage predicts grip strength and mobility decline over 5 years",
+          "journal": "Aging Clinical and Experimental Research",
+          "published": "June 13, 2026",
+          "pmid": "42287341",
+          "doi": "10.1007/s40520-026-03425-0",
+          "the_study": "In 120 older adults followed for 5 years with CT scans, researchers found significant reductions in muscle size and density across multiple body regions. Among women, decreases in thigh muscle size were associated with declining grip strength and slower walking speed. Among men, reduced density of the psoas muscle (a core hip flexor) predicted grip strength loss.",
+          "why_it_matters": "Different muscle groups may matter differently for men and women, suggesting personalized approaches to muscle preservation could be valuable.",
+          "story_angle_primary": "Keeping your thigh and core muscles strong may be especially important for maintaining your grip strength and walking ability as you age.",
+          "story_angle_secondary": "Physical therapists working with older adults should consider sex-specific patterns of muscle loss when designing strengthening programs.",
+          "caveats": "Small sample (N=120); observational design; single-center study."
+        },
+        {
+          "number": 9,
+          "title": "Sarcopenia and sarcopenic obesity both linked to higher dementia risk",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "May 19, 2026",
+          "pmid": "42155951",
+          "doi": "10.1016/j.jnha.2026.100879",
+          "the_study": "Among 420,916 UK Biobank participants followed for nearly 14 years, those with possible sarcopenia had 44% higher dementia risk, while severe sarcopenia carried over 3-fold higher risk. Sarcopenic obesity (low muscle combined with obesity) showed the highest risk of all\u201469% higher than having neither condition. These associations held for both Alzheimer's disease and vascular dementia.",
+          "why_it_matters": "This large-scale study strengthens the evidence connecting muscle health to brain health, suggesting sarcopenia prevention may be one avenue for reducing dementia risk.",
+          "story_angle_primary": "Maintaining muscle strength isn't just about mobility\u2014emerging evidence suggests it may also matter for your brain health over time.",
+          "story_angle_secondary": "Memory care planning and dementia prevention programs in senior living may benefit from incorporating sarcopenia screening and muscle-strengthening interventions.",
+          "caveats": "Observational design (cannot establish causation); sarcopenia assessment based on proxy measures available in UK Biobank."
+        },
+        {
+          "number": 10,
+          "title": "Low vitamin D linked to sarcopenia risk\u2014especially in people with diabetes",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "June 6, 2026",
+          "pmid": "42229217",
+          "doi": "10.1016/j.jnha.2026.100886",
+          "the_study": "Analyzing 7,520 older adults from two national cohorts (US and UK), researchers found that low vitamin D (\u226450 nmol/L) was associated with higher sarcopenia odds. Among people with diabetes, this association was stronger. Animal experiments confirmed that vitamin D deficiency worsened muscle deterioration in aged diabetic rats, while supplementation improved muscle strength and reduced fat infiltration.",
+          "why_it_matters": "Vitamin D status may be particularly important for muscle preservation in older adults with diabetes\u2014a group already at elevated sarcopenia risk.",
+          "story_angle_primary": "If you have diabetes, ask your doctor whether checking your vitamin D level makes sense as part of your overall health management.",
+          "story_angle_secondary": "Clinical teams in senior care should consider vitamin D screening for residents with diabetes, given the potentially amplified sarcopenia risk in this population.",
+          "caveats": "Epidemiological component is cross-sectional; experimental validation in rats may not directly translate to humans."
+        },
+        {
+          "number": 11,
+          "title": "Exercise plus protein supplementation outperforms either alone for muscle preservation and fall prevention",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "May 28, 2026",
+          "pmid": "42208412",
+          "doi": "10.1016/j.jnha.2026.100862",
+          "the_study": "This umbrella review synthesized 41 systematic reviews covering approximately 4,475 primary studies. Combined exercise with protein supplementation (\u22651.2 g/kg/day) showed superior improvements in muscle mass and grip strength compared to either intervention alone. Balance and multicomponent exercise reduced fall rates by 23\u201334%, while vitamin D supplementation (\u2265700 IU/day) reduced falls by 13%.",
+          "why_it_matters": "This comprehensive synthesis provides strong evidence that a multi-pronged approach\u2014exercise, adequate protein, and vitamin D\u2014offers the best protection against sarcopenia and falls.",
+          "story_angle_primary": "The evidence supports a combination approach: regular exercise (including balance training), enough protein at meals, and adequate vitamin D work better together than any single strategy.",
+          "story_angle_secondary": "Senior living dining services and fitness programming should coordinate to deliver integrated interventions\u2014sufficient protein-rich foods plus structured balance and resistance exercise.",
+          "caveats": "Umbrella review quality depends on underlying studies; direct evidence that reversing sarcopenia prevents falls remains limited."
+        },
+        {
+          "number": 12,
+          "title": "Poor housing and water quality linked to higher sarcopenia risk in middle-aged and older adults",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "June 25, 2026",
+          "pmid": "42349091",
+          "doi": "10.1016/j.jnha.2026.100911",
+          "the_study": "Using data from 12,883 Chinese adults aged 45+ in cross-sectional analysis and 6,248 in a 4-year cohort study, researchers found that poor living environmental quality\u2014including unclean drinking water, solid fuel use for cooking/heating, and substandard housing\u2014was independently associated with higher sarcopenia risk in a dose-response manner. Building type and water source showed the strongest effects.",
+          "why_it_matters": "Environmental factors often overlooked in muscle health discussions may contribute to sarcopenia risk, highlighting opportunities for public health intervention.",
+          "story_angle_primary": "Your home environment matters for muscle health\u2014access to clean water and adequate housing may play a role in maintaining strength as you age.",
+          "story_angle_secondary": "Senior living developers and housing policy advocates should recognize that housing quality may influence residents' long-term muscle health and functional independence.",
+          "caveats": "Observational design (cannot establish causation); Chinese population; environmental quality measured by self-report and area-level data."
+        },
+        {
+          "number": 13,
+          "title": "Food insecurity doubles risk of early death in older adults",
+          "journal": "Aging Clinical and Experimental Research",
+          "published": "May 27, 2026",
+          "pmid": "42201632",
+          "doi": "10.1007/s40520-026-03422-3",
+          "the_study": "Following 8,686 English adults aged 50+ from 2004\u20132005 onward, researchers found that those reporting food insecurity had 41% higher risk of death from any cause and 126% higher risk of premature death (before age 75) after adjusting for sociodemographic, lifestyle, and health factors.",
+          "why_it_matters": "Food insecurity is a modifiable risk factor with profound health consequences\u2014addressing it could help prevent sarcopenia and improve survival in older adults.",
+          "story_angle_primary": "If affording enough food is ever a challenge, programs like Meals on Wheels, SNAP, or local food banks can help\u2014and may protect your health more than you realize.",
+          "story_angle_secondary": "Senior living social workers and case managers should routinely screen for food insecurity, even among residents who appear financially stable, and connect those at risk with nutritional resources.",
+          "caveats": "Observational design (cannot establish causation); food insecurity measured by single self-reported item."
+        },
+        {
+          "number": 14,
+          "title": "Muscle biopsy study spanning ages 18\u201385 launches to unlock human muscle aging mysteries",
+          "journal": "GeroScience",
+          "published": "June 13, 2026",
+          "pmid": "42287561",
+          "doi": "10.1007/s11357-026-02341-5",
+          "the_study": "The Muscle Ageing and Sarcopenia Study (MASS) Lifecourse has enrolled 260 community-dwelling men and women across the full adult age range (18\u201385 years) in North East England. Participants provided muscle biopsy samples alongside detailed assessments of physical function, health status, and lifestyle factors\u2014creating a unique resource to study human muscle aging.",
+          "why_it_matters": "Most muscle aging research uses animal models; this study provides human tissue samples across the lifespan, potentially accelerating discovery of new treatments for sarcopenia.",
+          "story_angle_primary": "Studies like this bring us closer to understanding why muscles weaken with age\u2014and potentially to treatments that could help you stay stronger longer.",
+          "story_angle_secondary": "Researchers and industry partners now have access to human muscle tissue spanning decades of aging, which could speed development of targeted sarcopenia therapies.",
+          "caveats": "Observational resource study; therapeutic applications remain future-oriented."
+        },
+        {
+          "number": 15,
+          "title": "Long-term blood pressure medication and statin use show different muscle associations",
+          "journal": "GeroScience",
+          "published": "June 29, 2026",
+          "pmid": "42373884",
+          "doi": "10.1007/s11357-026-02387-5",
+          "the_study": "In 1,083 participants from the Berlin Aging Study II (average age 68) followed for 7.4 years, long-term statin use showed no association with any sarcopenia-related parameter\u2014a reassuring finding. However, long-term use of renin-angiotensin system inhibitors (ACE inhibitors or ARBs) was modestly associated with lower lean mass index, primarily in women.",
+          "why_it_matters": "For the millions of older adults taking statins, this provides reassurance about muscle effects; the modest ARB/ACE inhibitor association warrants further study but shouldn't prompt medication changes.",
+          "story_angle_primary": "If you've worried about statins affecting your muscles, this long-term study found no connection to muscle mass, strength, or physical performance.",
+          "story_angle_secondary": "Clinicians can reassure older patients that statins appear muscle-safe in long-term use, while monitoring emerging evidence on blood pressure medications.",
+          "caveats": "Observational design (cannot establish causation); modest association for RASi in women only; single cohort."
+        },
+        {
+          "number": 16,
+          "title": "Sarcopenia nearly doubles cognitive impairment risk in Latin American older adults",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "May 19, 2026",
+          "pmid": "42155950",
+          "doi": "10.1016/j.jnha.2026.100877",
+          "the_study": "A meta-analysis of 8 studies including 13,395 community-dwelling adults from Latin America found that sarcopenia was associated with 2.3-fold higher odds of cognitive impairment. When using the European sarcopenia criteria (EWGSOP2), the association was even stronger (nearly 3-fold higher odds).",
+          "why_it_matters": "This adds region-specific evidence that muscle and brain health are connected, with implications for integrated care approaches in Latin American populations.",
+          "story_angle_primary": "Keeping your muscles strong may help protect your thinking and memory abilities\u2014research from Latin America confirms what studies elsewhere have suggested.",
+          "story_angle_secondary": "Healthcare providers serving Latino older adults should consider cognitive screening for those identified with sarcopenia, and vice versa.",
+          "caveats": "Most included studies were cross-sectional; heterogeneity in sarcopenia and cognitive impairment definitions."
+        },
+        {
+          "number": 17,
+          "title": "Elevated metabolic index linked to new sarcopenia cases over 4 years",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "May 30, 2026",
+          "pmid": "42217315",
+          "doi": "10.1016/j.jnha.2026.100889",
+          "the_study": "Among 5,580 Chinese adults aged 50+ followed for 4 years, those in the highest quarter of a metabolic index combining cholesterol, HDL, and fasting glucose (CHG index) had 29% higher risk of developing sarcopenia. Tracking cumulative CHG over time revealed that those with persistently high levels had 25% higher odds of new sarcopenia.",
+          "why_it_matters": "Simple blood tests already used for cardiovascular risk assessment may also help predict who is at risk for muscle loss.",
+          "story_angle_primary": "Routine blood work that checks your cholesterol and blood sugar may also offer clues about your muscle health trajectory.",
+          "story_angle_secondary": "Primary care providers could flag older patients with unfavorable metabolic profiles for proactive muscle health counseling and monitoring.",
+          "caveats": "Observational design (cannot establish causation); single population (Chinese adults); novel index not yet validated elsewhere."
+        },
+        {
+          "number": 18,
+          "title": "Sarcopenia strongly linked to respiratory muscle weakness",
+          "journal": "Journal of Geriatric Physical Therapy",
+          "published": "July 1, 2026",
+          "pmid": "42358088",
+          "doi": "10.1519/JPT.0000000000000509",
+          "the_study": "Comparing 75 community-dwelling adults aged 65\u201385 classified as sarcopenic, dynapenic (weak but not sarcopenic), or neither, researchers found that the sarcopenic group had significantly lower inspiratory muscle strength and the poorest cardiorespiratory fitness scores on a 2-minute step test. Thigh muscle thickness correlated moderately with respiratory function measures.",
+          "why_it_matters": "Sarcopenia affects more than limb muscles\u2014breathing muscles may also weaken, potentially contributing to shortness of breath and reduced exercise tolerance.",
+          "story_angle_primary": "If you've noticed increased breathlessness with activity, it could be related to overall muscle weakness\u2014talk to your doctor about whether muscle strengthening might help.",
+          "story_angle_secondary": "Pulmonary rehabilitation and geriatric fitness programs should assess both respiratory and skeletal muscle function, as they often decline together.",
+          "caveats": "Small sample (N=75); cross-sectional design; single-center study."
+        },
+        {
+          "number": 19,
+          "title": "Osteoporosis and sarcopenia share genetic links and may accelerate each other",
+          "journal": "Aging Cell",
+          "published": "July 2026",
+          "pmid": "42380078",
+          "doi": "10.1111/acel.70617",
+          "the_study": "Using multi-omics data from the UK Biobank, researchers found that higher lean mass, stronger grip, and faster walking pace were all associated with lower osteoporosis risk\u2014and vice versa, higher bone density protected against sarcopenia. The conditions shared 25% genetic correlation and overlapping circulating biomarkers, with smoking, sleep, and physical activity affecting both similarly.",
+          "why_it_matters": "Bones and muscles decline together through shared pathways, suggesting that interventions benefiting one may help the other.",
+          "story_angle_primary": "Taking care of your muscles helps your bones, and vice versa\u2014the same healthy habits (exercise, not smoking, adequate sleep) benefit both.",
+          "story_angle_secondary": "Bone health and muscle health programs in senior living should be integrated rather than siloed, given their shared biology and risk factors.",
+          "caveats": "Observational design (cannot establish causation); genetic correlation does not prove causation."
+        },
+        {
+          "number": 20,
+          "title": "Adipokine ratios may help identify sarcopenia in older adults with heart, kidney, or metabolic conditions",
+          "journal": "Journal of Nutrition, Health and Aging",
+          "published": "July 1, 2026",
+          "pmid": "42385583",
+          "doi": "10.1016/j.jnha.2026.100921",
+          "the_study": "In 632 older adults (average age 71) with cardiovascular-kidney-metabolic syndrome, researchers found that the ratio of adiponectin to leptin (A/L ratio)\u2014two hormones produced by fat tissue\u2014was associated with different sarcopenia components. Higher leptin was linked to low muscle mass but better physical function, while higher A/L ratio was linked to low strength and function but not low mass.",
+          "why_it_matters": "These fat-derived hormones may serve as accessible blood markers to help identify sarcopenia risk in older adults already managing multiple chronic conditions.",
+          "story_angle_primary": "If you're managing heart, kidney, or metabolic conditions, ask your doctor about comprehensive assessments that look at muscle health too\u2014simple blood markers may eventually help with this.",
+          "story_angle_secondary": "For clinicians caring for complex older patients, adipokine testing could potentially supplement traditional sarcopenia screening, particularly in early-stage metabolic disease.",
+          "caveats": "Cross-sectional design (cannot establish causation); single-center study; adipokines not yet validated as clinical screening tools for sarcopenia."
+        }
+      ],
+      "citation_table": [
+        {
+          "pmid": "42449042",
+          "journal": "GeroScience",
+          "date": "July 15, 2026",
+          "doi": "10.1007/s11357-026-02420-7"
+        },
+        {
+          "pmid": "42508218",
+          "journal": "J Nutr Health Aging",
+          "date": "July 27, 2026",
+          "doi": "10.1016/j.jnha.2026.100928"
+        },
+        {
+          "pmid": "42414787",
+          "journal": "Aging Clin Exp Res",
+          "date": "July 8, 2026",
+          "doi": "10.1007/s40520-026-03452-x"
+        },
+        {
+          "pmid": "42314003",
+          "journal": "J Geriatr Phys Ther",
+          "date": "June 19, 2026",
+          "doi": "10.1519/JPT.0000000000000508"
+        },
+        {
+          "pmid": "42348081",
+          "journal": "Aging Clin Exp Res",
+          "date": "June 25, 2026",
+          "doi": "10.1007/s40520-026-03442-z"
+        },
+        {
+          "pmid": "42492227",
+          "journal": "J Nutr Health Aging",
+          "date": "July 23, 2026",
+          "doi": "10.1016/j.jnha.2026.100931"
+        },
+        {
+          "pmid": "42391675",
+          "journal": "J Nutr Health Aging",
+          "date": "July 2, 2026",
+          "doi": "10.1016/j.jnha.2026.100919"
+        },
+        {
+          "pmid": "42287341",
+          "journal": "Aging Clin Exp Res",
+          "date": "June 13, 2026",
+          "doi": "10.1007/s40520-026-03425-0"
+        },
+        {
+          "pmid": "42155951",
+          "journal": "J Nutr Health Aging",
+          "date": "May 19, 2026",
+          "doi": "10.1016/j.jnha.2026.100879"
+        },
+        {
+          "pmid": "42229217",
+          "journal": "J Nutr Health Aging",
+          "date": "June 6, 2026",
+          "doi": "10.1016/j.jnha.2026.100886"
+        },
+        {
+          "pmid": "42208412",
+          "journal": "J Nutr Health Aging",
+          "date": "May 28, 2026",
+          "doi": "10.1016/j.jnha.2026.100862"
+        },
+        {
+          "pmid": "42349091",
+          "journal": "J Nutr Health Aging",
+          "date": "June 25, 2026",
+          "doi": "10.1016/j.jnha.2026.100911"
+        },
+        {
+          "pmid": "42201632",
+          "journal": "Aging Clin Exp Res",
+          "date": "May 27, 2026",
+          "doi": "10.1007/s40520-026-03422-3"
+        },
+        {
+          "pmid": "42287561",
+          "journal": "GeroScience",
+          "date": "June 13, 2026",
+          "doi": "10.1007/s11357-026-02341-5"
+        },
+        {
+          "pmid": "42373884",
+          "journal": "GeroScience",
+          "date": "June 29, 2026",
+          "doi": "10.1007/s11357-026-02387-5"
+        },
+        {
+          "pmid": "42155950",
+          "journal": "J Nutr Health Aging",
+          "date": "May 19, 2026",
+          "doi": "10.1016/j.jnha.2026.100877"
+        },
+        {
+          "pmid": "42217315",
+          "journal": "J Nutr Health Aging",
+          "date": "May 30, 2026",
+          "doi": "10.1016/j.jnha.2026.100889"
+        },
+        {
+          "pmid": "42358088",
+          "journal": "J Geriatr Phys Ther",
+          "date": "July 1, 2026",
+          "doi": "10.1519/JPT.0000000000000509"
+        },
+        {
+          "pmid": "42380078",
+          "journal": "Aging Cell",
+          "date": "July 2026",
+          "doi": "10.1111/acel.70617"
+        },
+        {
+          "pmid": "42385583",
+          "journal": "J Nutr Health Aging",
+          "date": "July 1, 2026",
+          "doi": "10.1016/j.jnha.2026.100921"
+        }
+      ],
+      "trends_raw": "**Convergent findings:**\n- ARBs and sarcopenia protection: Both digests feature the same Turkish hospitalized-patient study (PMID 42414787) showing ARB use associated with lower sarcopenia odds. The NEW digest adds a second medication study (PMID 42373884) that found a *modest association between ARBs/ACE inhibitors and lower lean mass in women*\u2014creating a tension worth tracking rather than a clean confirmation.\n- Sarcopenia-respiratory link: The UK Biobank respiratory disease study (PMID 42391675) appears in both, now joined in the NEW digest by a smaller study specifically on respiratory muscle weakness (PMID 42358088), strengthening evidence that lung and limb muscles decline together.\n- Sarcopenia-dementia connection: Both digests include the UK Biobank dementia study (PMID 42155951) and Latin American cognitive impairment meta-analysis (PMID 42155950), with identical findings.\n- Combined exercise + protein superiority: The umbrella review (PMID 42208412) appears in both digests with consistent conclusions.\n\n**Advances:**\n- The NEW digest introduces a 6-question screening tool validated in Chinese populations (PMID 42508218)\u2014a practical advance beyond the sit-to-stand predictive test (PMID 42114049) that appeared only in the PREVIOUS digest.\n- Biological aging markers from blood tests now linked to muscle loss even in adults under 40 (PMID 42449042, NEW digest only), extending sarcopenia risk identification decades earlier than traditional screening targets.\n\n**Counterpoints:**\n- The PREVIOUS digest's statin-safety study (PMID 42373884) found no muscle harm from statins but noted a modest ARB/ACE inhibitor association with lower lean mass in women. The NEW digest's ARB study (PMID 42414787) shows ARB users having *lower* sarcopenia rates. These findings pull in opposite directions and warrant clarification in future coverage.\n\n**New themes:**\n- Sensory impairment as early warning: Vision/hearing problems linked to sarcopenia risk and falls in healthy older adults (PMID 42492227, NEW digest only).\n- Housing and environmental quality: Poor water quality, solid fuel use, and substandard housing linked to sarcopenia (PMID 42349091)\u2014present in both digests but newly contextualized alongside food insecurity mortality data (PMID 42201632).\n\n---",
+      "feature_pitch_raw": "**The pattern:** Five studies in this batch link sarcopenia to conditions clinicians and patients rarely associate with muscle health: COPD, asthma, and interstitial lung disease (PMID 42391675); respiratory muscle weakness and cardiorespiratory fitness (PMID 42358088); dementia and Alzheimer's disease (PMID 42155951); cognitive impairment in Latin American populations (PMID 42155950); and osteoporosis through shared genetic pathways (PMID 42380078). Taken together, they reframe sarcopenia as a systemic aging marker\u2014a \"check engine light\" for the whole body rather than a standalone mobility concern.\n\n**Why pitch this now:** The UK Biobank studies alone represent over 700,000 participants with 14-year follow-up, shifting this from hypothesis to robust epidemiological pattern. Meanwhile, practical screening tools (PMID 42508218) and evidence-based interventions (PMID 42208412) have matured, giving readers actionable next steps\u2014not just alarming statistics.\n\n**Angle:** \"The Hidden Vital Sign: Why Muscle Strength May Predict Your Brain, Lung, and Bone Health\"\u2014a feature explaining that a simple grip-strength or chair-stand test could reveal risk for conditions patients track obsessively through other means (memory apps, spirometry, bone density scans). Frame as empowering: early detection enables proven interventions (combined exercise + protein + vitamin D).\n\n**Potential outlets:**\n- **Next Avenue** \u2014 Their \"Health & Well-Being\" section regularly covers reframing aging narratives; this \"muscles as systemic indicator\" angle fits their mission of challenging deficit-focused aging stories.\n- **AARP The Magazine** \u2014 Reaches 22 million households; their wellness coverage increasingly emphasizes interconnected health systems, and this pitch offers a concrete action item (ask about grip-strength testing).\n- **McKnight's Senior Living** \u2014 Trade audience of administrators and clinical directors would value the screening-tool news (PMID 42508218) and integrated programming implications (exercise + dining coordination).\n- **KFF Health News** \u2014 Their aging/Medicare beat could explore whether grip-strength screening belongs in Annual Wellness Visits\u2014a policy hook for this clinical-translation story.",
+      "fact_check": {
+        "checked": "2026-08-07",
+        "studies_reviewed": "20",
+        "verdicts_by_pmid": {
+          "42449042": "\u2705 Accurate",
+          "42508218": "\u26a0\ufe0f Minor issues",
+          "42414787": "\u2705 Accurate",
+          "42314003": "\u2705 Accurate",
+          "42348081": "\u2705 Accurate",
+          "42492227": "\u26a0\ufe0f Minor issues",
+          "42391675": "\u2705 Accurate",
+          "42287341": "\u26a0\ufe0f Minor issues",
+          "42155951": "\u2705 Accurate",
+          "42229217": "\u2705 Accurate",
+          "42208412": "\u26a0\ufe0f Minor issues",
+          "42349091": "\u26a0\ufe0f Minor issues",
+          "42201632": "\u2705 Accurate",
+          "42287561": "\u2705 Accurate",
+          "42373884": "\u2705 Accurate",
+          "42155950": "\u26a0\ufe0f Minor issues",
+          "42217315": "\u26a0\ufe0f Minor issues",
+          "42358088": "\u2705 Accurate",
+          "42380078": "\u26a0\ufe0f Minor issues",
+          "42385583": "\u2705 Accurate"
+        },
+        "summary": {
+          "total_issues": "9 (9 Minor, 0 Moderate, 0 Major)",
+          "entries_requiring_revision": "0 (all issues are minor and do not materially change meaning)",
+          "entries_cleared": "20"
+        },
+        "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Sarcopenia \u2014 August 2026\n**Checked:** 2026-08-07 | **Studies reviewed:** 20\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n# Fact-Check Report\n\n### Study 1: Biological aging measured from blood tests linked to early muscle loss in adults under 40\n**PMID:** 42449042 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract. The digest correctly reports the sample size (165,015 with 61,669 having repeat scans), mean age (39.9 rounded to 40), median follow-up (4.1 years), study design, and key findings about biological age acceleration being associated with myopenia and myosteatosis, including in participants <40 years.\n\n---\n\n### Study 2: New 6-question screening tool catches sarcopenia risk in community settings\n**PMID:** 42508218 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. AUC range slightly misreported** \u2014 Severity: Minor\n\n- **As written:** \"good overall accuracy (AUC 0.80\u20130.92)\"\n- **Abstract says:** \"the AUC of the screening instrument ranged from 0.798 to 0.822 based on Asian standards, compared to 0.840 to 0.922 based on European standards\"\n- **Problem:** The digest conflates the two AUC ranges. The 0.80 appears rounded from Asian standards (0.798-0.822), while 0.92 comes from European standards (up to 0.922). This could be clearer.\n- **Suggested fix:** \"good overall accuracy (AUC 0.80\u20130.82 against Asian criteria; 0.84\u20130.92 against European criteria)\"\n\n---\n\n### Study 3: Blood pressure medications (ARBs) associated with lower sarcopenia rates in hospitalized older adults\n**PMID:** 42414787 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (206), population (hospitalized patients aged \u226565), sarcopenia prevalence (39.8% rounded to 40%), and key finding about ARB use being independently associated with lower sarcopenia odds are all correctly reported. The caveats appropriately note the cross-sectional design and limitations.\n\n---\n\n### Study 4: Replacing just 10 minutes of sitting with moderate activity linked to better muscle function\n**PMID:** 42314003 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (527), population (community-dwelling adults aged 65-84 in rural Japan/Tokamachi city), and key findings about 10-minute substitution of sedentary time with MVPA being associated with improved gait speed and reduced sarcopenia prevalence are correctly reported.\n\n---\n\n### Study 5: Longer hospital stays linked to weaker muscles\u2014especially in adults 80+\n**PMID:** 42348081 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (1,071), population (older inpatients aged \u226565 in Denmark), and key findings about associations between longer hospital stays and lower gait speed/chair-stand performance in those \u226580 years are correctly reported. The bidirectional finding about higher grip strength/30CST predicting shorter hospitalizations is also accurately captured.\n\n---\n\n### Study 6: Vision and hearing problems most common \"early warning\" of declining capacity in healthy older adults\n**PMID:** 42492227 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Sensory impairment prevalence slightly misreported** \u2014 Severity: Minor\n\n- **As written:** \"most commonly sensory (81%)\"\n- **Abstract says:** \"sensory impairment being most prevalent (80.9%)\"\n- **Problem:** Minor rounding (80.9% to 81%), but acceptable.\n\n**Issue B. Impairment percentage slightly rounded** \u2014 Severity: Minor\n\n- **As written:** \"Over 92% had at least one impairment\"\n- **Abstract says:** \"Over 92% of participants exhibited impairment in \u22651 IC domain\"\n- **Problem:** This is accurate.\n\nNo significant issues. Framing is appropriate.\n\n---\n\n### Study 7: Sarcopenia linked to higher risk of respiratory diseases including COPD and asthma\n**PMID:** 42391675 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (317,628), follow-up (median 14 years), and specific hazard ratios for COPD (1.37, correctly reported as 37% higher), asthma (1.35, correctly reported as 35% higher), and ILD (1.74, correctly reported as 74% higher) are all accurately presented. The role of inflammatory markers including CRP is appropriately noted.\n\n---\n\n### Study 8: CT scans reveal thigh muscle shrinkage predicts grip strength and mobility decline over 5 years\n**PMID:** 42287341 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Outcome measures slightly simplified** \u2014 Severity: Minor\n\n- **As written:** \"slower walking speed\"\n- **Abstract says:** \"an 121% longer TUG\" (Timed Up and Go test)\n- **Problem:** The digest says \"slower walking speed\" but the abstract specifically refers to TUG performance, not gait speed per se. TUG is a mobility measure that includes walking but is not simply walking speed.\n- **Suggested fix:** \"declining grip strength and mobility (Timed Up and Go performance)\"\n\n---\n\n### Study 9: Sarcopenia and sarcopenic obesity both linked to higher dementia risk\n**PMID:** 42155951 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (420,916), follow-up (13.69 years, correctly rounded to \"nearly 14 years\"), and key findings are accurately reported: possible sarcopenia 44% higher risk (HR 1.44), severe sarcopenia over 3-fold risk (HR 3.06), and sarcopenic obesity 69% higher risk (HR 1.69). The caveats appropriately note the observational design.\n\n---\n\n### Study 10: Low vitamin D linked to sarcopenia risk\u2014especially in people with diabetes\n**PMID:** 42229217 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample sizes (7,520 total from HRS n=3,246 and ELSA n=4,274), vitamin D threshold (\u226450 nmol/L), and the finding that the association was stronger in people with diabetes are all correctly reported. The animal model validation is appropriately described.\n\n---\n\n### Study 11: Exercise plus protein supplementation outperforms either alone for muscle preservation and fall prevention\n**PMID:** 42208412 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Primary study count approximated** \u2014 Severity: Minor\n\n- **As written:** \"41 systematic reviews covering approximately 4,475 primary studies\"\n- **Abstract says:** \"41 systematic reviews for assessment (37 in main synthesis at JBI \u22657; 41 in sensitivity analysis at JBI \u22654), encompassing approximately 4475 unique primary studies\"\n- **Problem:** Accurate, though the nuance about 37 vs 41 reviews is simplified. Acceptable for digest format.\n\n**Issue B. Fall reduction percentages accurate** \u2014 The 23-34% reduction (RaR 0.66-0.77) and 13% vitamin D reduction (RR 0.87) are correctly reported.\n\nNo significant issues.\n\n---\n\n### Study 12: Poor housing and water quality linked to higher sarcopenia risk in middle-aged and older adults\n**PMID:** 42349091 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Age range should specify 45+** \u2014 Severity: Minor\n\n- **As written:** \"middle-aged and older adults\" (headline) but body doesn't specify age\n- **Abstract says:** \"12,883 Chinese adults aged 45+\"\n- **Problem:** The age threshold (45+) could be more explicit in the body text.\n- **Suggested fix:** Add \"aged 45 and older\" in the study description.\n\nOtherwise accurate. Sample sizes (12,883 cross-sectional, 6,248 cohort) and key findings about building type and water source are correctly reported.\n\n---\n\n### Study 13: Food insecurity doubles risk of early death in older adults\n**PMID:** 42201632 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (8,686), population (English adults aged \u226550 from ELSA wave 2, 2004-2005), and key findings (41% higher all-cause mortality risk, HR 1.41; 126% higher premature death risk, HR 2.26) are all correctly reported. The caveat about single-item self-report is appropriately noted.\n\n---\n\n### Study 14: Muscle biopsy study spanning ages 18\u201385 launches to unlock human muscle aging mysteries\n**PMID:** 42287561 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (260), age range (18-85), location (North East England), and study description as an observational resource with muscle biopsy samples are all correctly reported. The framing appropriately positions this as a resource study rather than a findings study.\n\n---\n\n### Study 15: Long-term blood pressure medication and statin use show different muscle associations\n**PMID:** 42373884 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (1,083), population (Berlin Aging Study II), average age (68.3 \u00b1 3.5 correctly rounded to 68), follow-up (7.4 years), and key findings about statins showing no association and RASi showing modest association with lower ALM/BMI primarily in women are all correctly reported.\n\n---\n\n### Study 16: Sarcopenia nearly doubles cognitive impairment risk in Latin American older adults\n**PMID:** 42155950 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Effect size slightly overstated in headline** \u2014 Severity: Minor\n\n- **As written:** \"nearly doubles\" (headline)\n- **Abstract says:** \"OR = 2.30; 95% CI: 1.68-3.15\"\n- **Problem:** An OR of 2.30 is \"more than doubles,\" not \"nearly doubles.\" The body text correctly says \"2.3-fold higher odds.\"\n- **Suggested fix:** Change headline to \"Sarcopenia more than doubles cognitive impairment risk in Latin American older adults\"\n\n**Issue B. EWGSOP2 effect correctly reported** \u2014 The \"nearly 3-fold\" (OR 2.96) for EWGSOP2 criteria is accurate.\n\n---\n\n### Study 17: Elevated metabolic index linked to new sarcopenia cases over 4 years\n**PMID:** 42217315 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Cumulative CHG odds ratio reported instead of HR** \u2014 Severity: Minor\n\n- **As written:** \"25% higher odds of new sarcopenia\"\n- **Abstract says:** \"OR = 1.25, 95% CI: 1.02-1.45\" (for cumulative CHG analysis)\n- **Problem:** The baseline analysis used Cox regression (HR = 1.287 = 29% higher risk), while cumulative analysis used logistic regression (OR = 1.25). The digest conflates \"odds\" terminology but the numbers are accurate.\n\nOtherwise accurate. Sample size (5,580) and 4-year follow-up correctly reported.\n\n---\n\n### Study 18: Sarcopenia strongly linked to respiratory muscle weakness\n**PMID:** 42358088 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (75), age range (65-85), and key findings about sarcopenic group having lower inspiratory muscle strength (S-index, flow, volume) and poorest cardiorespiratory fitness (2MST) are correctly reported. The correlation between thigh muscle thickness and respiratory measures is appropriately characterized.\n\n---\n\n### Study 19: Osteoporosis and sarcopenia share genetic links and may accelerate each other\n**PMID:** 42380078 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Genetic correlation rounded** \u2014 Severity: Minor\n\n- **As written:** \"25% genetic correlation\"\n- **Abstract says:** \"positive genetic correlation (r = 0.25, p = 1.6 \u00d7 10-5)\"\n- **Problem:** The correlation coefficient is 0.25, which the digest expresses as \"25%.\" While technically a correlation of 0.25 could be described this way, it may confuse readers who expect percentages to represent something different. Consider \"genetic correlation of 0.25\" for precision.\n- **Suggested fix:** \"The conditions shared a genetic correlation of 0.25\"\n\nOtherwise accurate in describing bidirectional associations and shared factors.\n\n---\n\n### Study 20: Adipokine ratios may help identify sarcopenia risk in older adults with heart, kidney, or metabolic conditions\n**PMID:** 42385583 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (632), average age (70.60 correctly rounded to 71), and the complex findings about adiponectin, leptin, and A/L ratio associations with different sarcopenia components are appropriately summarized. The caveat about adipokines not yet being validated as clinical screening tools is appropriately included.\n\n---\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Biological aging measured from blood tests... | \u2705 Accurate | \u2014 |\n| 2 | New 6-question screening tool... | \u26a0\ufe0f Minor issues | AUC range conflated |\n| 3 | Blood pressure medications (ARBs)... | \u2705 Accurate | \u2014 |\n| 4 | Replacing just 10 minutes of sitting... | \u2705 Accurate | \u2014 |\n| 5 | Longer hospital stays linked to weaker muscles... | \u2705 Accurate | \u2014 |\n| 6 | Vision and hearing problems... | \u26a0\ufe0f Minor issues | Minor rounding, acceptable |\n| 7 | Sarcopenia linked to higher risk of respiratory diseases... | \u2705 Accurate | \u2014 |\n| 8 | CT scans reveal thigh muscle shrinkage... | \u26a0\ufe0f Minor issues | TUG simplified to \"walking speed\" |\n| 9 | Sarcopenia and sarcopenic obesity... | \u2705 Accurate | \u2014 |\n| 10 | Low vitamin D linked to sarcopenia risk... | \u2705 Accurate | \u2014 |\n| 11 | Exercise plus protein supplementation... | \u26a0\ufe0f Minor issues | Review count nuance simplified |\n| 12 | Poor housing and water quality... | \u26a0\ufe0f Minor issues | Age threshold (45+) not explicit |\n| 13 | Food insecurity doubles risk of early death... | \u2705 Accurate | \u2014 |\n| 14 | Muscle biopsy study spanning ages 18\u201385... | \u2705 Accurate | \u2014 |\n| 15 | Long-term blood pressure medication and statin use... | \u2705 Accurate | \u2014 |\n| 16 | Sarcopenia nearly doubles cognitive impairment risk... | \u26a0\ufe0f Minor issues | Headline understates OR 2.30 |\n| 17 | Elevated metabolic index linked to new sarcopenia... | \u26a0\ufe0f Minor issues | HR/OR terminology mixed |\n| 18 | Sarcopenia strongly linked to respiratory muscle weakness | \u2705 Accurate | \u2014 |\n| 19 | Osteoporosis and sarcopenia share genetic links... | \u26a0\ufe0f Minor issues | Correlation expressed as percentage |\n| 20 | Adipokine ratios may help identify sarcopenia risk... | \u2705 Accurate | \u2014 |\n\n**Total issues:** 9 (9 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 0 (all issues are minor and do not materially change meaning)\n**Entries cleared:** 20"
+      }
+    },
     {
       "id": "senior-living-research-digest-palliative-care-august-2026",
       "filename": "Senior Living Research Digest \u2014 Palliative Care \u2014 August 2026.md",

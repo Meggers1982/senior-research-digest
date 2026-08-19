@@ -98,7 +98,7 @@ def main() -> None:
     primary_audience = config["primary_audience"]
     secondary_audience = config["secondary_audience"]
     days_back = config.get("days_back", 90)
-    to_email = config.get("to_email", "")
+    to_email = os.environ.get("TO_EMAIL", "") or config.get("to_email", "")
     from_email = config.get("from_email", "Senior Living Research <onboarding@resend.dev>")
 
     print(f"\n{'=' * 60}")

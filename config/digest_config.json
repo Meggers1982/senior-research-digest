@@ -27,7 +27,7 @@
 
   "days_back": 90,
 
-  "to_email": "REDACTED@example.com",
+  "_to_email_comment": "Recipient address is set via the TO_EMAIL repo secret, not here.",
 
   "from_email": "Senior Living Research <onboarding@resend.dev>"
 }

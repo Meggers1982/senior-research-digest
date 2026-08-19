@@ -11,7 +11,6 @@ from pubmed import search_by_issns, fetch_summaries, fetch_abstracts_for_pmids
 from digest_generator import generate_digest
 from fact_checker import run_fact_check
 from trends import generate_trends_section
-from email_sender import send_digest_email
 from build_dashboard_data import main as rebuild_dashboard_data
 
 
@@ -86,7 +85,6 @@ def unique_output_path(base_path: Path) -> Path:
 def main() -> None:
     # ── Environment ──────────────────────────────────────────────────────────
     anthropic_api_key = os.environ.get("ANTHROPIC_API_KEY", "")
-    resend_api_key = os.environ.get("RESEND_API_KEY", "")
     ncbi_api_key = os.environ.get("NCBI_API_KEY") or None
 
     if not anthropic_api_key:
@@ -98,8 +96,6 @@ def main() -> None:
     primary_audience = config["primary_audience"]
     secondary_audience = config["secondary_audience"]
     days_back = config.get("days_back", 90)
-    to_email = os.environ.get("TO_EMAIL", "") or config.get("to_email", "")
-    from_email = config.get("from_email", "Senior Living Research <onboarding@resend.dev>")
 
     print(f"\n{'=' * 60}")
     print(f"Senior Living Digest Pipeline — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
@@ -189,23 +185,6 @@ def main() -> None:
     # ── Step 7: Rebuild dashboard data ───────────────────────────────────────
     print("\nRebuilding dashboard data...")
     rebuild_dashboard_data()
-
-    # ── Step 8: Send email ────────────────────────────────────────────────────
-    if to_email and resend_api_key:
-        label = f"Senior Living{focus_tag}"
-        print("\nSending email...")
-        send_digest_email(
-            to_email=to_email,
-            from_email=from_email,
-            category=label,
-            month_year=month_year,
-            digest_content=digest_content,
-            fact_check_content=fact_check_content,
-            resend_api_key=resend_api_key,
-        )
-        print(f"Email sent to {to_email}")
-    else:
-        print("\nSkipping email — RESEND_API_KEY or to_email not configured.")
 
     print("\nDone ✓")
 

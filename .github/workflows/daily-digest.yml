@@ -17,7 +17,7 @@ on:
 
 jobs:
   digest:
-    name: Generate & email senior living digest
+    name: Generate senior living digest
     runs-on: ubuntu-latest
 
     permissions:
@@ -39,9 +39,7 @@ jobs:
       - name: Run digest pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-          TO_EMAIL: ${{ secrets.TO_EMAIL }}
           DIGEST_FOCUS: ${{ github.event.inputs.focus }}
         working-directory: scripts
         run: python main.py

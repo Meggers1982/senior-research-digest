@@ -25,9 +25,5 @@
   "primary_audience": "older adults and seniors",
   "secondary_audience": "families, caregivers, and senior living professionals",
 
-  "days_back": 90,
-
-  "_to_email_comment": "Recipient address is set via the TO_EMAIL repo secret, not here.",
-
-  "from_email": "Senior Living Research <onboarding@resend.dev>"
+  "days_back": 90
 }

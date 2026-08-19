@@ -2,8 +2,8 @@
 
 Automated pipeline that searches PubMed for recent senior-care research, uses
 Claude to write a plain-language digest for older adults and their caregivers,
-fact-checks its own output against the source abstracts, emails the result,
-and publishes every run to a browsable dashboard.
+fact-checks its own output against the source abstracts, and publishes every
+run to a browsable dashboard.
 
 ## How it works
 
@@ -31,9 +31,7 @@ and publishes every run to a browsable dashboard.
    real outlets that specific angle could go to, for pitching ideation.
 6. **Rebuilds the dashboard** (`build_dashboard_data.py`) — parses every
    digest + fact-check in `outputs/` into `docs/data/digests.json`.
-7. **Emails the digest** (`email_sender.py`) via Resend, if `to_email` and
-   `RESEND_API_KEY` are configured.
-8. **Commits everything back** — `outputs/`, `topic_memory/`, and `docs/` are
+7. **Commits everything back** — `outputs/`, `topic_memory/`, and `docs/` are
    committed and pushed by the workflow so history accumulates in the repo.
 
 Nothing is ever overwritten: if two digests would land on the same filename
@@ -83,7 +81,6 @@ renders them the same way.
 ```bash
 pip install -r requirements.txt
 export ANTHROPIC_API_KEY=...
-export RESEND_API_KEY=...      # optional — omit to skip sending email
 export NCBI_API_KEY=...        # optional — raises PubMed rate limit from 3 to 10 req/sec
 cd scripts
 python3 main.py
@@ -102,13 +99,6 @@ Edit `config/digest_config.json` and commit — the next run picks it up:
 - `primary_audience` / `secondary_audience` — who the two story-angle bullets
   per study are written for.
 - `days_back` — PubMed lookback window (days).
-- `to_email` / `from_email` — where the digest email is sent. Leave
-  `to_email` empty to skip sending.
-
-**Note:** `to_email` is a personal address committed in plain text in this
-config file. Since this repo is private that's currently low-risk, but don't
-flip the repo to public without moving it out first (e.g. into a GitHub
-Secret + env var).
 
 ## Required secrets (GitHub Actions)
 
@@ -116,7 +106,6 @@ Set these under repo Settings → Secrets and variables → Actions:
 
 - `ANTHROPIC_API_KEY` — required, used for digest generation, fact-checking,
   and trends synthesis.
-- `RESEND_API_KEY` — optional, needed only to send the email.
 - `NCBI_API_KEY` — optional, raises the PubMed rate limit.
 
 ## Repo layout
@@ -129,11 +118,10 @@ scripts/
   digest_generator.py      Claude prompt + call that writes the digest
   fact_checker.py          Claude prompt + call that fact-checks the digest
   trends.py                Claude prompt + call for trends/feature-pitch + topic memory
-  email_sender.py          sends the digest via Resend
   build_dashboard_data.py  parses outputs/*.md into docs/data/digests.json
 outputs/                   every digest + fact-check ever generated (.md)
 topic_memory/              per-topic running memory used by trends.py
 docs/                      static dashboard (index.html + data/digests.json), deployed to Vercel
-config/digest_config.json  audience, rotation, email settings
+config/digest_config.json  audience and rotation settings
 .github/workflows/         daily cron (daily-digest.yml)
 ```

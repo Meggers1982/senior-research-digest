@@ -59,6 +59,8 @@
     z-index: 10;
   }
   header h1 { margin: 0 0 4px; font-size: 1.3rem; }
+  header h1 a { color: inherit; text-decoration: none; }
+  header h1 a:hover { text-decoration: underline; }
   header p { margin: 0; color: var(--muted); font-size: 0.85rem; }
   .layout {
     display: grid;
@@ -115,8 +117,23 @@
   main { padding: 24px 28px 60px; min-width: 0; }
   .empty-state { color: var(--muted); padding: 40px 0; text-align: center; }
   .run-header { margin-bottom: 20px; }
+  .run-header-top { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
   .run-header h2 { margin: 0 0 8px; font-size: 1.4rem; }
   .run-header .meta-row { display: flex; gap: 14px; flex-wrap: wrap; color: var(--muted); font-size: 0.85rem; }
+  .export-btn {
+    flex-shrink: 0;
+    padding: 7px 14px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .export-btn:hover { border-color: var(--accent); }
+  .export-btn:disabled { opacity: 0.6; cursor: default; }
   .fact-summary {
     margin-top: 10px;
     font-size: 0.82rem;
@@ -185,7 +202,7 @@
 </head>
 <body>
 <header>
-  <h1>Senior Living Research Digest</h1>
+  <h1><a href="#" id="home-link">Senior Living Research Digest</a></h1>
   <p>Full run history — every digest ever generated, browsable by topic and date.</p>
 </header>
 <div class="layout">
@@ -204,6 +221,7 @@
   </main>
 </div>
 <button id="scroll-top-btn" title="Back to top" aria-label="Back to top">&#8593;</button>
+<script src="https://unpkg.com/docx@8.5.0/build/index.umd.js"></script>
 <script>
 const state = { data: null, filtered: [], activeId: null };
 
@@ -345,7 +363,10 @@ function renderMain() {
 
   main.innerHTML = `
     <div class="run-header">
-      <h2>${escapeHtml(run.title)}</h2>
+      <div class="run-header-top">
+        <h2>${escapeHtml(run.title)}</h2>
+        <button id="export-docx-btn" class="export-btn">Export .docx</button>
+      </div>
       <div class="meta-row">
         <span>Run date: ${escapeHtml(run.run_date)}</span>
         <span>Coverage: ${escapeHtml(run.coverage_window)}</span>
@@ -361,6 +382,151 @@ function renderMain() {
     ${pitchHtml}
     ${rawFactCheckHtml}
   `;
+
+  const exportBtn = document.getElementById("export-docx-btn");
+  if (exportBtn) exportBtn.addEventListener("click", () => exportRunToDocx(run));
+}
+
+function mdRuns(text) {
+  const parts = String(text || "").split(/(\*\*.+?\*\*)/g).filter(p => p !== "");
+  if (!parts.length) return [new docx.TextRun("")];
+  return parts.map(p => {
+    const m = p.match(/^\*\*(.+)\*\*$/);
+    return m ? new docx.TextRun({ text: m[1], bold: true }) : new docx.TextRun(p);
+  });
+}
+
+function mdLiteParagraphs(raw) {
+  const paras = [];
+  for (const line of String(raw || "").split("\n")) {
+    const trimmed = line.trim();
+    if (!trimmed) continue;
+    const bullet = trimmed.match(/^-\s+(.*)$/);
+    paras.push(bullet
+      ? new docx.Paragraph({ children: mdRuns(bullet[1]), bullet: { level: 0 }, spacing: { after: 60 } })
+      : new docx.Paragraph({ children: mdRuns(trimmed), spacing: { after: 120 } }));
+  }
+  return paras;
+}
+
+function docxLabelBody(label, body) {
+  return [
+    new docx.Paragraph({ children: [new docx.TextRun({ text: label, bold: true })], spacing: { before: 160, after: 40 } }),
+    new docx.Paragraph({ text: body || "—", spacing: { after: 80 } }),
+  ];
+}
+
+function docxStudyMeta(study, verdict) {
+  const children = [];
+  const push = (text) => {
+    if (children.length) children.push(new docx.TextRun({ text: "   ·   ", color: "888888" }));
+    children.push(new docx.TextRun({ text, color: "555555", size: 18 }));
+  };
+  if (study.journal) push(study.journal);
+  if (study.published) push(study.published);
+  if (study.pmid) {
+    if (children.length) children.push(new docx.TextRun({ text: "   ·   ", color: "888888" }));
+    children.push(new docx.ExternalHyperlink({
+      link: `https://pubmed.ncbi.nlm.nih.gov/${study.pmid}/`,
+      children: [new docx.TextRun({ text: `PMID ${study.pmid}`, color: "0563C1", underline: {}, size: 18 })],
+    }));
+  }
+  if (study.doi) push(`DOI: ${study.doi}`);
+  if (verdict) push(verdict);
+  return new docx.Paragraph({ children, spacing: { after: 120 } });
+}
+
+function docxStudySection(study, factCheck) {
+  const verdict = factCheck && factCheck.verdicts_by_pmid ? factCheck.verdicts_by_pmid[study.pmid] : null;
+  return [
+    new docx.Paragraph({ text: `${study.number}. ${study.title}`, heading: docx.HeadingLevel.HEADING_2, spacing: { before: 280, after: 60 } }),
+    docxStudyMeta(study, verdict),
+    ...docxLabelBody("The study", study.the_study),
+    ...docxLabelBody("Why it matters", study.why_it_matters),
+    new docx.Paragraph({ children: [new docx.TextRun({ text: "Story angles", bold: true })], spacing: { before: 160, after: 40 } }),
+    new docx.Paragraph({ children: [new docx.TextRun({ text: "To audience: ", bold: true }), new docx.TextRun(study.story_angle_primary || "—")], spacing: { after: 40 } }),
+    new docx.Paragraph({ children: [new docx.TextRun({ text: "About audience: ", bold: true }), new docx.TextRun(study.story_angle_secondary || "—")], spacing: { after: 80 } }),
+    ...docxLabelBody("Caveats", study.caveats),
+  ];
+}
+
+function docxCitationTable(rows) {
+  if (!rows || !rows.length) return [];
+  const headerRow = new docx.TableRow({
+    children: ["PMID", "Journal", "Date", "DOI"].map(h => new docx.TableCell({
+      shading: { fill: "EFE6D9" },
+      children: [new docx.Paragraph({ children: [new docx.TextRun({ text: h, bold: true })] })],
+    })),
+  });
+  const bodyRows = rows.map(r => new docx.TableRow({
+    children: [r.pmid, r.journal, r.date, r.doi].map(v => new docx.TableCell({
+      children: [new docx.Paragraph(String(v || ""))],
+    })),
+  }));
+  return [
+    new docx.Paragraph({ text: "Citations", heading: docx.HeadingLevel.HEADING_2, spacing: { before: 280, after: 80 } }),
+    new docx.Table({ width: { size: 100, type: docx.WidthType.PERCENTAGE }, rows: [headerRow, ...bodyRows] }),
+  ];
+}
+
+async function exportRunToDocx(run) {
+  const btn = document.getElementById("export-docx-btn");
+  if (btn) { btn.disabled = true; btn.textContent = "Exporting…"; }
+  try {
+    if (typeof docx === "undefined") throw new Error("docx library failed to load");
+
+    const sections = [
+      new docx.Paragraph({ text: run.title, heading: docx.HeadingLevel.TITLE, spacing: { after: 120 } }),
+      new docx.Paragraph({
+        children: [
+          new docx.TextRun(`Run date: ${run.run_date || "—"}`),
+          new docx.TextRun("    |    "), new docx.TextRun(`Coverage: ${run.coverage_window || "—"}`),
+          new docx.TextRun("    |    "), new docx.TextRun(`Journals searched: ${run.journals_searched || "—"}`),
+          new docx.TextRun("    |    "), new docx.TextRun(`Articles screened: ${run.articles_screened || "—"}`),
+          new docx.TextRun("    |    "), new docx.TextRun(`Studies selected: ${run.study_count}`),
+        ],
+        spacing: { after: 80 },
+      }),
+    ];
+
+    if (run.fact_check && run.fact_check.summary) {
+      const s = run.fact_check.summary;
+      sections.push(new docx.Paragraph({
+        children: [new docx.TextRun({
+          text: `Fact check: ${s.total_issues} total issues · ${s.entries_requiring_revision} entries need revision · ${s.entries_cleared} cleared`,
+          italics: true, color: "6f6759",
+        })],
+        spacing: { after: 200 },
+      }));
+    }
+
+    run.studies.forEach(s => sections.push(...docxStudySection(s, run.fact_check)));
+    sections.push(...docxCitationTable(run.citation_table));
+
+    if (run.trends_raw) {
+      sections.push(new docx.Paragraph({ text: "Research Trends & Continuity", heading: docx.HeadingLevel.HEADING_2, spacing: { before: 320, after: 80 } }));
+      sections.push(...mdLiteParagraphs(run.trends_raw));
+    }
+    if (run.feature_pitch_raw) {
+      sections.push(new docx.Paragraph({ text: "Bigger Picture: Feature Pitch", heading: docx.HeadingLevel.HEADING_2, spacing: { before: 320, after: 80 } }));
+      sections.push(...mdLiteParagraphs(run.feature_pitch_raw));
+    }
+
+    const doc = new docx.Document({ sections: [{ properties: {}, children: sections }] });
+    const blob = await docx.Packer.toBlob(doc);
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `${(run.title || "digest").replace(/[\\/:*?"<>|]/g, "-")}.docx`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 4000);
+  } catch (err) {
+    alert("Failed to export .docx: " + err.message);
+  } finally {
+    if (btn) { btn.disabled = false; btn.textContent = "Export .docx"; }
+  }
 }
 
 function applyFilters() {
@@ -403,6 +569,13 @@ async function init() {
 
   document.getElementById("search").addEventListener("input", applyFilters);
   document.getElementById("topic-filter").addEventListener("change", applyFilters);
+  document.getElementById("home-link").addEventListener("click", (e) => {
+    e.preventDefault();
+    document.getElementById("search").value = "";
+    document.getElementById("topic-filter").value = "";
+    applyFilters();
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  });
   initScrollTopButton();
 
   renderSidebar();

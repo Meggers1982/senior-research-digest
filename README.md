@@ -92,7 +92,35 @@ python3 main.py
 ```
 
 Set `DIGEST_FOCUS` to override today's rotation (e.g.
-`DIGEST_FOCUS="fall prevention" python3 main.py`).
+`DIGEST_FOCUS="falls" python3 main.py`). An empty value is treated as "no
+override" and falls through to the rotation, so the broad digest cannot be
+forced this way — it only runs when the rotation lands on it.
+
+### Choosing topic wording
+
+A focus is ANDed into the PubMed query as an exact phrase match
+(`"<focus>"[Title/Abstract]`) with no synonym or MeSH expansion, so the exact
+string decides how many articles a topic can draw from. Measured over one
+90-day window across all 146 journals:
+
+| Wording | Articles |
+| --- | --- |
+| `falls` | 267 |
+| `fall prevention` | 76 |
+| `cognitive decline` | 531 |
+| `mild cognitive impairment` | 338 |
+| `vision loss` | 33 |
+
+`falls` replaced `fall prevention` in the rotation on 2026-08-21 for this
+reason. Note that closely related phrasings pull largely separate literature —
+a topic is only as broad as its literal string. Aim for roughly 75+ articles;
+the pipeline reads up to 40 abstracts and selects ~22 studies, so a thinner
+pool produces a thin digest.
+
+Renaming a rotation topic breaks two continuity links, both keyed to the focus
+string: `topic_memory/<slug>.md` (rename the file to match) and the prior-digest
+lookup in `trends.py`, which matches the `Focus` field exactly and so will not
+see digests filed under the old name.
 
 ## Configuration
 

@@ -11,7 +11,7 @@ on:
       focus:
         description: >
           Subject focus override (leave blank to use today's rotation).
-          Examples: "dementia", "fall prevention", "nutrition"
+          Examples: "dementia", "falls", "nutrition"
         required: false
         default: ""
 

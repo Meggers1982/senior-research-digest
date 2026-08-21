@@ -24,7 +24,7 @@ CONFIG_PATH = REPO_ROOT / "config" / "digest_config.json"
 DEFAULT_FOCUS_ROTATION = [
     "",                                  # Broad — all senior living topics
     "dementia",
-    "fall prevention",
+    "falls",
     "cardiovascular disease",
     "depression",
     "nutrition",

@@ -19,6 +19,9 @@ jobs:
   digest:
     name: Generate senior living digest
     runs-on: ubuntu-latest
+    # Healthy runs finish in ~6 min; cap the job so a hang fails fast
+    # instead of burning the 6-hour default (see the 2026-08-08 run).
+    timeout-minutes: 30
 
     permissions:
       contents: write   # Needed to commit digest files back to the repo
@@ -37,6 +40,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run digest pipeline
+        timeout-minutes: 20
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
@@ -53,6 +57,7 @@ jobs:
           git push
 
       - name: Deploy dashboard to Vercel
+        timeout-minutes: 10
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: team_ILjarBqrMdxa47xLA4bqqQfq

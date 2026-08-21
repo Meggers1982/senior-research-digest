@@ -37,6 +37,11 @@ run to a browsable dashboard.
 Nothing is ever overwritten: if two digests would land on the same filename
 (e.g. two broad runs in the same month), `main.py` appends "(Part N)".
 
+A healthy run finishes in about six minutes. The workflow caps itself with
+`timeout-minutes` (30 for the job, 20 for the pipeline step, 10 for the Vercel
+deploy) so a hung run fails fast instead of sitting on GitHub's six-hour
+default.
+
 ## Dashboard
 
 `docs/index.html` is a static, no-build dashboard that reads

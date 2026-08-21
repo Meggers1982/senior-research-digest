@@ -129,4 +129,5 @@ topic_memory/              per-topic running memory used by trends.py
 docs/                      static dashboard (index.html + data/digests.json), deployed to Vercel
 config/digest_config.json  audience and rotation settings
 .github/workflows/         daily cron (daily-digest.yml)
+.gitignore                 keeps the local Vercel CLI link dir (.vercel) untracked
 ```

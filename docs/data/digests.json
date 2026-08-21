@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/*.md",
-  "run_count": 34,
+  "run_count": 35,
   "topics": [
     "cardiovascular disease",
     "cognitive decline",
@@ -1652,6 +1652,639 @@
           "entries_cleared": "16"
         },
         "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Hearing Loss \u2014 August 2026\n**Checked:** 2026-08-21 | **Studies reviewed:** 20\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n# Fact-Check Report\n\n### Study 1: Eating More Flavonoid-Rich Foods Linked to Lower Risk of Hearing Loss\n**PMID:** 42235109 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Mediation percentage rounded** \u2014 Severity: Minor\n\n- **As written:** \"C-reactive protein mediating about 5% of the association\"\n- **Abstract says:** \"accounting for 4.8% of the total effect\"\n- **Problem:** The digest rounded 4.8% to \"about 5%,\" which is acceptable but slightly imprecise.\n- **Suggested fix:** \"C-reactive protein mediating 4.8% of the association\" (or retain \"about 5%\" as acceptable rounding)\n\n**Issue B. Follow-up period stated as average rather than total** \u2014 Severity: Minor\n\n- **As written:** \"for an average of 11 years\"\n- **Abstract says:** \"During 613,590 person-years of follow-up\"\n- **Problem:** The abstract reports total person-years, not average follow-up duration. The digest's \"11 years\" (613,590 \u00f7 55,859 \u2248 11) is a reasonable calculation but is presented as directly stated when it's inferred.\n- **Suggested fix:** \"over approximately 614,000 person-years of follow-up (averaging about 11 years per participant)\"\n\n---\n\n### Study 2: Hearing Loss Consistently Linked to Depression Across Three Countries\n**PMID:** 42119796 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract. The odds ratios for poor hearing (1.52-1.64) are correctly stated as ranging from 1.52 to 1.64 (CHARLS 1.52, HRS 1.64, ELSA 1.55).\n\n---\n\n### Study 3: Hearing Aids May Reduce Frailty Risk in Older Adults\n**PMID:** 42423142 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The 24% higher odds (OR 1.24), the 52-item frailty index, and the attenuation of association among hearing aid users are all correctly stated. The caveat appropriately notes cross-sectional design.\n\n---\n\n### Study 4: Gamified Brain-and-Hearing Training Shows Promise for Older Adults\n**PMID:** 42302249 | **Verdict:** \u274c Significant issues\n\n**Issue A. Industry funding misattributed** \u2014 Severity: Major\n\n- **As written:** \"industry funding from Sonova AG (hearing device manufacturer)\"\n- **Abstract says:** \"JSG reports Regeneron: 1-time honorarium. Other authors declare no conflicts of interest.\"\n- **Problem:** The digest incorrectly states industry funding from Sonova AG. The abstract mentions only a one-time honorarium from Regeneron for one author (JSG), with no mention of Sonova AG funding.\n- **Suggested fix:** Remove \"industry funding from Sonova AG (hearing device manufacturer)\" from Caveats. If noting conflicts, state: \"One author reported a one-time honorarium from Regeneron.\"\n\n**Issue B. Gender composition reversed** \u2014 Severity: Moderate\n\n- **As written:** Not explicitly stated in digest body, but abstract shows majority male\n- **Abstract says:** \"mean age 67.65, SD 4.78 years; 45/60, 75% male\"\n- **Problem:** The digest states \"mean age 68\" (acceptable rounding from 67.65) but should note the unusual gender distribution if relevant to generalizability.\n- **Suggested fix:** Consider adding to Caveats: \"predominantly male sample (75%)\"\n\n---\n\n### Study 5: Osteoporosis Treatment May Protect Against Hearing Loss\n**PMID:** 42574660 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Effect size for zoledronic acid slightly misstated** \u2014 Severity: Minor\n\n- **As written:** \"hearing loss risk was 13% lower than untreated patients\"\n- **Abstract says:** \"HR: 0.87, 95% CI: 0.81-0.93\"\n- **Problem:** HR 0.87 represents a 13% lower hazard, which is correctly stated. No error.\n\n**Issue B. Denosumab effect size misstated** \u2014 Severity: Minor\n\n- **As written:** \"denosumab showed similar benefits in men (9% lower risk)\"\n- **Abstract says:** \"denosumab (HR: 0.91, 95% CI: 0.85-0.97)\"\n- **Problem:** HR 0.91 represents a 9% lower risk overall, not specifically in men. The abstract specifies denosumab was only statistically significant in males, but the HR reported appears to be for the overall comparison. The digest conflates the overall effect size with the sex-specific significance.\n- **Suggested fix:** \"denosumab users had 9% lower risk overall (HR 0.91), though the association reached statistical significance only in male patients\"\n\n---\n\n### Study 6: Four Distinct Depression Trajectories Found in Older Adults with Hearing Loss\n**PMID:** 42226155 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The four trajectories (increasing, severe-stable, no symptoms stable, decreasing), sample size (N=1,556), and protective/risk factors are correctly stated.\n\n---\n\n### Study 7: Self-Reported Hearing Loss Tied to More Sedentary Time\n**PMID:** 42363407 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Odds ratio for sedentary behavior misstated** \u2014 Severity: Moderate\n\n- **As written:** \"81% higher odds of sitting 8+ hours daily\"\n- **Abstract says:** \"hearing loss was associated with high sedentary behavior (OR, 1.81; 95% CI, 1.16-2.82)\"\n- **Problem:** OR 1.81 does not equal 81% higher odds. An OR of 1.81 represents 81% higher odds only if interpreted as (1.81-1.00) \u00d7 100 = 81%, which is the correct interpretation. This is actually accurate.\n\nNo factual errors found upon re-review. Framing is consistent with the abstract.\n\n**Verdict revised:** \u2705 Accurate\n\n---\n\n### Study 8: Patterns of Loneliness and Social Isolation Differ by Race Among Adults with Hearing Loss\n**PMID:** 40645228 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The sample size (N=1,817), data source (2022 HRS), objective hearing measurement, and racial/ethnic patterns are correctly stated.\n\n---\n\n### Study 9: Older Adults with Hearing Loss Constantly Self-Advocating in Healthcare Settings\n**PMID:** 42167081 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (N=15), qualitative design, pilot nature, and key themes are correctly represented.\n\n---\n\n### Study 10: Biological Aging Markers Linked to Hearing Loss\u2014and to Dementia, Heart Disease, Diabetes\n**PMID:** 42419408 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Cohort sizes (NHANES N=2,530; HRS N=2,849), hazard ratios (dementia HR 2.94, CVD HR 1.43, diabetes HR 1.14), and the 28-50% mediation by chronological age are correctly stated. The caveat appropriately notes the exploratory nature.\n\n---\n\n### Study 11: Viewing Age-Related Losses Realistically May Prompt Hearing Help-Seeking\n**PMID:** 42275258 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (N=503), mean age (64), odds ratios (1.06 for formal help-seeking, 1.13 for hearing aid use), hearing difficulty proportions (80.5% mild), and gender composition (69.4% female) are correctly stated.\n\n---\n\n### Study 12: Hearing Loss Identified as Key Modifiable Dementia Risk Factor Across 14 Countries\n**PMID:** 42437564 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (214,251), number of countries (14), 12 risk factors, and >50% with at least two risk factors are correctly stated. Framing appropriately avoids overstating hearing loss as causally linked to dementia.\n\n---\n\n### Study 13: Public Awareness of Hearing Loss as Dementia Risk Factor Remains Low\n**PMID:** 41966599 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Study counts (155 studies), participant total (164,644), country count (41), and recognition rates for physical activity (71.5%) and social isolation (66.6%) are correctly stated. The abstract explicitly mentions \"limited knowledge emerged particularly regarding dementia-specific risk factors like hearing loss\" from qualitative studies.\n\n---\n\n### Study 14: Hearing Loss Linked to Elder Financial and Emotional Mistreatment\n**PMID:** 41981819 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (5,231), data source (NSHAP), mistreatment rates (28% vs. 20%), and associations between sensory impairment and financial mistreatment are correctly stated.\n\n---\n\n### Study 15: Systematic Review Supports Hearing Aid Benefits for Cognition and Auditory Processing\n**PMID:** 42447643 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Number of papers (61), date range (2005-2025), and conclusions about benefits for neurocognitive functions and auditory processing are correctly stated.\n\n---\n\n### Study 16: Machine Learning Model Can Prioritize Who Needs Hearing Screening\n**PMID:** 42535298 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (N=60), AUC (0.825), comparison to logistic regression (AUC 0.700), and key predictors are correctly stated. The small sample caveat is appropriately noted.\n\n---\n\n### Study 17: Different Hearing Devices Show Similar Cognitive Performance in Users\n**PMID:** 42621042 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Total sample (617), breakdown by device type (387 HA, 127 CI, 103 bimodal), age cutoff (70 years), and findings about age-stratified differences are correctly stated. Industry co-funding from Cochlear Ltd. is appropriately noted in Caveats.\n\n---\n\n### Study 18: Brain Network Changes Detected in Age-Related Hearing Loss Using EEG\n**PMID:** 42609411 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample sizes (45 ARHL, 50 controls), EEG methodology, and findings about microstate dynamics and transition probabilities are correctly represented.\n\n---\n\n### Study 19: Individual Hearing Decline Patterns Predict Brain and Cognitive Changes\n**PMID:** 42591333 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Industry involvement understated** \u2014 Severity: Minor\n\n- **As written:** \"industry involvement (Oticon)\"\n- **Abstract says:** \"Authors RN and EN were employed by Oticon A/S\"\n- **Problem:** The caveat mentions \"involvement\" but two authors were directly employed by Oticon, which is stronger than mere involvement.\n- **Suggested fix:** \"two authors employed by Oticon A/S (hearing device manufacturer)\"\n\n---\n\n### Study 20: Brain Structure Changes Identified in Presbycusis Patients\n**PMID:** 42568626 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample sizes (129 presbycusis, 121 controls), MRI methodology, and findings about GMV reduction and network reorganization are correctly stated.\n\n---\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Flavonoid-Rich Foods Linked to Lower Risk of Hearing Loss | \u26a0\ufe0f Minor issues | Mediation % rounded; follow-up period inferred |\n| 2 | Hearing Loss Consistently Linked to Depression | \u2705 Accurate | \u2014 |\n| 3 | Hearing Aids May Reduce Frailty Risk | \u2705 Accurate | \u2014 |\n| 4 | Gamified Brain-and-Hearing Training | \u274c Significant issues | Industry funding incorrectly attributed to Sonova AG |\n| 5 | Osteoporosis Treatment May Protect Against Hearing Loss | \u26a0\ufe0f Minor issues | Denosumab effect description slightly conflated |\n| 6 | Four Distinct Depression Trajectories | \u2705 Accurate | \u2014 |\n| 7 | Self-Reported Hearing Loss Tied to More Sedentary Time | \u2705 Accurate | \u2014 |\n| 8 | Patterns of Loneliness and Social Isolation Differ by Race | \u2705 Accurate | \u2014 |\n| 9 | Older Adults Constantly Self-Advocating in Healthcare | \u2705 Accurate | \u2014 |\n| 10 | Biological Aging Markers Linked to Hearing Loss | \u2705 Accurate | \u2014 |\n| 11 | Viewing Age-Related Losses Realistically | \u2705 Accurate | \u2014 |\n| 12 | Hearing Loss as Key Modifiable Dementia Risk Factor | \u2705 Accurate | \u2014 |\n| 13 | Public Awareness of Hearing Loss as Dementia Risk Factor | \u2705 Accurate | \u2014 |\n| 14 | Hearing Loss Linked to Elder Mistreatment | \u2705 Accurate | \u2014 |\n| 15 | Systematic Review Supports Hearing Aid Benefits | \u2705 Accurate | \u2014 |\n| 16 | Machine Learning Model for Hearing Screening | \u2705 Accurate | \u2014 |\n| 17 | Different Hearing Devices Show Similar Cognitive Performance | \u2705 Accurate | \u2014 |\n| 18 | Brain Network Changes in Age-Related Hearing Loss | \u2705 Accurate | \u2014 |\n| 19 | Individual Hearing Decline Patterns Predict Brain Changes | \u26a0\ufe0f Minor issues | Industry employment understated |\n| 20 | Brain Structure Changes in Presbycusis | \u2705 Accurate | \u2014 |\n\n**Total issues:** 5 (3 Minor, 1 Moderate, 1 Major)\n**Entries requiring revision:** 4 (Studies 1, 4, 5, 19)\n**Entries cleared:** 16"
+      }
+    },
+    {
+      "id": "senior-living-research-digest-dementia-august-2026",
+      "filename": "Senior Living Research Digest \u2014 Dementia \u2014 August 2026.md",
+      "title": "Senior Living Research Digest \u2014 Dementia \u2014 August 2026",
+      "run_date": "2026-08-21",
+      "coverage_window": "Last 90 days",
+      "journals_searched": "146",
+      "articles_screened": "40",
+      "focus": "dementia",
+      "topic": "dementia",
+      "is_broad": false,
+      "primary_audience": "older adults and seniors",
+      "secondary_audience": "families, caregivers, and senior living professionals",
+      "study_count": 30,
+      "studies": [
+        {
+          "number": 1,
+          "title": "Frail older adults living alone may face higher dementia risk, study suggests",
+          "journal": "Journal of Frailty & Aging",
+          "published": "August 19, 2026",
+          "pmid": "42616643",
+          "doi": "10.1016/j.tjfa.2026.100185",
+          "the_study": "Australian researchers followed 967 community-dwelling older adults (average age not specified) without dementia for up to 12 years. They assessed frailty using physical measures including grip strength, walking speed, and exhaustion, and tracked who developed dementia over time. Frail individuals had 74% higher dementia risk than robust individuals overall. While the statistical test for interaction between frailty and living situation was not significant, exploratory analyses found that frailty predicted dementia among those living alone but not among those living with others.",
+          "why_it_matters": "This research highlights that frail older adults who live alone may be especially vulnerable to cognitive decline, suggesting this group could benefit from targeted monitoring and support.",
+          "story_angle_primary": "If you're experiencing physical frailty\u2014such as weakness, slow walking, or fatigue\u2014and you live alone, staying connected with healthcare providers, family, or community programs may be particularly important for your overall brain health.",
+          "story_angle_secondary": "Senior living professionals and families should consider frailty screening as part of care planning, especially for older adults living independently. Combined physical and social support programs may help address this dual vulnerability.",
+          "caveats": "Observational design (cannot establish causation); the formal interaction test was non-significant, so findings comparing living situations are exploratory and require replication; some authors report advisory relationships with pharmaceutical companies."
+        },
+        {
+          "number": 2,
+          "title": "Negative family dynamics linked to harmful caregiver behaviors in dementia care",
+          "journal": "Aging & Mental Health",
+          "published": "August 17, 2026",
+          "pmid": "42607070",
+          "doi": "10.1080/13607863.2026.2691371",
+          "the_study": "Researchers surveyed 99 family caregivers of people with Alzheimer's disease in Hong Kong twice over six months. They measured potentially harmful behaviors (psychological or physical) by caregivers, caregiver burden, the person with dementia's challenging behaviors, and the quality of caregivers' relationships with other family members. Negative family exchanges\u2014not caregiver burden or the care recipient's symptoms\u2014independently predicted harmful caregiver behaviors at follow-up.",
+          "why_it_matters": "This finding suggests that toxic family dynamics, rather than the stress of caregiving alone, may drive harmful behaviors. Interventions that address family communication and conflict could protect people with dementia.",
+          "story_angle_primary": "If you're receiving care from family, open and supportive communication among all family members\u2014not just your primary caregiver\u2014may help ensure you receive the safest, most respectful care.",
+          "story_angle_secondary": "Family caregiving programs should consider involving the broader family network, not just the primary caregiver. Addressing unresolved family tensions and improving communication may reduce the risk of harmful behaviors in dementia care.",
+          "caveats": "Small sample (N=99); single geographic and cultural context (Hong Kong); observational design (cannot establish causation); self-reported measures of harmful behaviors."
+        },
+        {
+          "number": 3,
+          "title": "Social media use may boost positive caregiving experiences, especially for isolated caregivers",
+          "journal": "The Journals of Gerontology, Series B",
+          "published": "August 17, 2026",
+          "pmid": "42606574",
+          "doi": "10.1093/geronb/gbag163",
+          "the_study": "Researchers surveyed 417 family caregivers of people with dementia in Hong Kong and Mainland China three times over six months. They found that social media use at baseline predicted greater positive aspects of caregiving six months later, partly by increasing perceived social support. This benefit was strongest among caregivers with smaller offline social networks.",
+          "why_it_matters": "For caregivers who feel socially isolated, social media may offer meaningful connections that enhance their caregiving experience\u2014suggesting a practical, accessible resource for emotional support.",
+          "story_angle_primary": "If you're caring for someone with dementia and feel isolated, using social media to connect with friends, family, or support groups may help you feel more supported and find more meaning in your caregiving role.",
+          "story_angle_secondary": "Senior care organizations could consider promoting digital literacy and online support communities, particularly for caregivers with limited in-person social networks. Social media use could be incorporated into caregiver support programming.",
+          "caveats": "Observational design (cannot establish causation); self-reported measures; sample from Hong Kong and Mainland China may not generalize to other cultural contexts."
+        },
+        {
+          "number": 4,
+          "title": "Stopping statins at age 75 or older did not increase death risk over three years",
+          "journal": "The Lancet Healthy Longevity",
+          "published": "July 2026",
+          "pmid": "42580354",
+          "doi": "10.1016/j.lanhl.2026.100884",
+          "the_study": "In this French randomized trial, 1,160 adults aged 75 or older who had been taking statins for at least a year for primary prevention (meaning they had no prior heart disease, stroke, or dementia) were randomly assigned to continue or stop their statin. After three years, death rates were nearly identical in both groups (7.9% continued vs. 7.2% stopped), and the trial confirmed that stopping statins was not inferior to continuing them.",
+          "why_it_matters": "For older adults without cardiovascular disease, stopping statins may be a reasonable option, supporting individualized conversations between patients and physicians about the benefits and burdens of long-term medications.",
+          "story_angle_primary": "If you're 75 or older and taking a statin for prevention\u2014not because you've had a heart attack or stroke\u2014this study suggests stopping may be a safe option worth discussing with your doctor, especially if you're concerned about side effects or taking many medications.",
+          "story_angle_secondary": "Senior living professionals and families can encourage older adults to review their medications with physicians, particularly long-term preventive drugs. Deprescribing conversations may reduce pill burden without compromising safety for appropriate candidates.",
+          "caveats": "Open-label design (participants and doctors knew who stopped); participants with dementia were excluded, so findings may not apply to that group; results apply only to primary prevention (not those with prior cardiovascular disease); government-funded."
+        },
+        {
+          "number": 5,
+          "title": "Dementia risk remains elevated in people over 90, with disparities by race and sex",
+          "journal": "The Lancet Healthy Longevity",
+          "published": "July 2026",
+          "pmid": "42551464",
+          "doi": "10.1016/j.lanhl.2026.100882",
+          "the_study": "Researchers followed 805 adults aged 90 or older from diverse backgrounds in Northern California for an average of two years. About 17% developed dementia during follow-up. Women had nearly twice the dementia risk of men. Black participants had higher risk than Asian participants. Carrying the APOE \u03b52 gene variant was protective, while the \u03b54 variant showed a trend toward higher risk but did not reach statistical significance. Education level was not associated with dementia risk in this age group.",
+          "why_it_matters": "Even among the oldest old, dementia risk varies by sex and race, underscoring the need for continued screening and surveillance\u2014and pointing to persistent health disparities that require attention.",
+          "story_angle_primary": "If you've reached your 90s, staying engaged with healthcare and cognitive screenings remains important. Dementia risk doesn't disappear with exceptional longevity.",
+          "story_angle_secondary": "Senior living providers and families should not assume that reaching very old age means dementia risk has peaked. Women and Black older adults may warrant particular attention in screening and care planning.",
+          "caveats": "Relatively short follow-up (mean 2 years); single health system population in California; some subgroups had small numbers, limiting statistical power."
+        },
+        {
+          "number": 6,
+          "title": "Direct oral anticoagulants linked to lower dementia risk in atrial fibrillation patients",
+          "journal": "GeroScience",
+          "published": "August 8, 2026",
+          "pmid": "42570194",
+          "doi": "10.1007/s11357-026-02468-5",
+          "the_study": "Australian researchers analyzed health records from over 21,600 adults (average age 74, 46% women) newly diagnosed with atrial fibrillation. Over about six years of follow-up, those who started direct oral anticoagulants (DOACs) had 37% lower dementia risk than those who did not take blood thinners, while warfarin users had 31% higher risk. The benefit was particularly strong in adults aged 75 and older and was consistent regardless of baseline lifestyle-related dementia risk factors.",
+          "why_it_matters": "For older adults with atrial fibrillation, newer blood thinners may offer cognitive protection beyond their known cardiovascular benefits\u2014important information for treatment decisions.",
+          "story_angle_primary": "If you have atrial fibrillation and are discussing blood thinners with your doctor, ask about the potential cognitive benefits of direct oral anticoagulants compared to older medications like warfarin.",
+          "story_angle_secondary": "Clinicians and families should be aware that anticoagulant choice in atrial fibrillation may have implications for dementia risk, adding another consideration to treatment discussions for older adults.",
+          "caveats": "Observational design (cannot establish causation); based on Australian population, may not generalize elsewhere; dementia identified from insurance claims, which may miss some cases."
+        },
+        {
+          "number": 7,
+          "title": "Brain MRI white matter measure may help predict dementia risk",
+          "journal": "GeroScience",
+          "published": "August 8, 2026",
+          "pmid": "42568005",
+          "doi": "10.1007/s11357-026-02447-w",
+          "the_study": "Israeli researchers compared brain MRI scans from 176 people with dementia, 176 age-matched cognitively healthy older adults, and 176 younger healthy adults. A measure called fractional anisotropy (FA), which reflects the integrity of the brain's white matter, was the strongest predictor of dementia in statistical models\u2014outperforming demographic and clinical variables. FA declined progressively from young adults to healthy older adults to those with dementia.",
+          "why_it_matters": "A single brain imaging measure from routine MRI could potentially help identify individuals at higher dementia risk, possibly enabling earlier intervention.",
+          "story_angle_primary": "If you're having a brain MRI, ask your doctor whether measures of white matter health are available and what they might mean for your cognitive outlook.",
+          "story_angle_secondary": "For clinicians and researchers, this study supports the value of advanced MRI analysis in dementia risk assessment, though it remains a research tool rather than a standard clinical test at present.",
+          "caveats": "Retrospective, single-center study; cannot establish causation; clinical utility of this measure in practice has not yet been demonstrated; sample from one hospital in Israel."
+        },
+        {
+          "number": 8,
+          "title": "Late-night eating and skipping breakfast linked to higher dementia risk in Japan",
+          "journal": "GeroScience",
+          "published": "July 28, 2026",
+          "pmid": "42518136",
+          "doi": "10.1007/s11357-026-02438-x",
+          "the_study": "Researchers analyzed data from over 283,000 Japanese adults aged 65 and older who reported their eating habits during routine health checkups. Over about six years, those who ate dinner within two hours of bedtime three or more times per week had 17% higher dementia risk, and those who skipped breakfast three or more times weekly had 13% higher risk, compared to those without these habits.",
+          "why_it_matters": "Meal timing is a modifiable lifestyle factor. These findings suggest that regular meal patterns may be relevant for brain health, though more research is needed to confirm a causal link.",
+          "story_angle_primary": "While this study cannot prove cause and effect, maintaining regular meal times\u2014including eating dinner earlier and having breakfast\u2014may support brain health alongside other healthy habits.",
+          "story_angle_secondary": "Senior living communities and family caregivers can reinforce regular meal schedules, which may contribute to cognitive wellness alongside their known nutritional and social benefits.",
+          "caveats": "Observational design (cannot establish causation); meal timing was self-reported at one point in time; Japanese population may not generalize to other settings."
+        },
+        {
+          "number": 9,
+          "title": "Distinct cognitive aging trajectories linked to lifestyle factors in older adults",
+          "journal": "GeroScience",
+          "published": "August 7, 2026",
+          "pmid": "42566156",
+          "doi": "10.1007/s11357-026-02455-w",
+          "the_study": "German researchers tracked cognitive function in 696 dementia-free adults over an average of 13 years, with testing every two years. Using statistical clustering, they identified subgroups with different cognitive trajectories. Those who maintained the best cognitive function reported faster walking speed, higher quality of life, more frequent sports and mentally stimulating activities, and higher intake of plant-based foods at the start of the study, compared to those with low baseline cognition and progressive decline.",
+          "why_it_matters": "This research reinforces that physical activity, mental engagement, and diet are associated with better long-term cognitive outcomes, though more research is needed to confirm causality.",
+          "story_angle_primary": "Staying physically active, engaging in mentally stimulating activities, and eating more plant-based foods are associated with better cognitive aging\u2014simple habits that may help maintain your mental sharpness over time.",
+          "story_angle_secondary": "Senior living programs can emphasize walking, group exercise, cognitively enriching activities, and plant-forward nutrition as part of holistic wellness programming aimed at supporting cognitive health.",
+          "caveats": "Observational design (cannot establish causation); participants self-selected lifestyle behaviors; German cohort may not generalize to all populations."
+        },
+        {
+          "number": 10,
+          "title": "Sleep quality and housework linked to memory in older adults",
+          "journal": "GeroScience",
+          "published": "August 12, 2026",
+          "pmid": "42587261",
+          "doi": "10.1007/s11357-026-02454-x",
+          "the_study": "Researchers assessed 221 community-dwelling Chinese adults aged 60\u201380 on verbal learning and memory, sleep quality, physical activity, and diet. Poor sleep quality was associated with poorer delayed memory recall, while more moderate-to-vigorous housework was associated with better memory recognition. A moderate proportion of protein from plant sources (about 35\u201340%) was associated with the best memory performance.",
+          "why_it_matters": "Simple, everyday factors\u2014good sleep, staying active through housework, and a balanced diet\u2014may help support memory in later life.",
+          "story_angle_primary": "Prioritizing restful sleep, staying active with daily tasks like housework, and balancing your protein sources between plants and animal foods may support your memory as you age.",
+          "story_angle_secondary": "Senior care providers can incorporate sleep hygiene education, encourage physical activity through daily tasks, and promote balanced nutrition as part of cognitive wellness initiatives.",
+          "caveats": "Cross-sectional design (cannot establish causation); modest effect sizes; single cultural context (Chinese older adults); self-reported lifestyle measures."
+        },
+        {
+          "number": 11,
+          "title": "Lifestyle interventions can help people with memory concerns adopt healthier habits",
+          "journal": "Ageing Research Reviews",
+          "published": "August 12, 2026",
+          "pmid": "42586247",
+          "doi": "10.1016/j.arr.2026.103298",
+          "the_study": "Researchers systematically reviewed 23 randomized controlled trials of lifestyle interventions for older adults with mild cognitive impairment or subjective cognitive decline. Interventions that combined education, structured training, and practical support\u2014such as tailored programs and tools\u2014were most effective at improving diet and physical activity. However, evidence that these behavior changes translated into cognitive improvement remained low certainty.",
+          "why_it_matters": "Well-designed lifestyle programs can help people with early memory concerns adopt healthier behaviors, though the direct impact on cognition still needs more research.",
+          "story_angle_primary": "If you're worried about your memory, participating in structured lifestyle programs that offer education, practical tools, and social support may help you build healthier habits\u2014even if the direct effect on cognition is still being studied.",
+          "story_angle_secondary": "Senior living and memory care programs should consider evidence-based interventions that address capability, opportunity, and motivation together. Tailored, supportive approaches are more likely to succeed than generic advice.",
+          "caveats": "Few studies recorded ethnicity or socioeconomic status, limiting generalizability; certainty of evidence for cognitive outcomes was low; authors were involved in one included study."
+        },
+        {
+          "number": 12,
+          "title": "Public dementia awareness campaigns need clearer, consistent definitions",
+          "journal": "Aging & Mental Health",
+          "published": "August 6, 2026",
+          "pmid": "42561388",
+          "doi": "10.1080/13607863.2026.2712568",
+          "the_study": "Swiss researchers systematically reviewed 22 studies describing community-based dementia awareness campaigns and educational programs worldwide. They found that definitions of \"dementia awareness\" varied widely, often relying on indirect measures like knowledge, attitudes, or behavioral intentions. The team developed a new conceptual model distinguishing core awareness dimensions from their causes and consequences.",
+          "why_it_matters": "Clearer, shared definitions of dementia awareness can help public health campaigns and community programs become more consistent and effective.",
+          "story_angle_primary": "When you encounter dementia awareness campaigns, know that awareness goes beyond facts\u2014it includes attitudes, emotional responses, and actions. Programs that address all these dimensions may be most helpful.",
+          "story_angle_secondary": "Senior living professionals and community organizations designing dementia education should consider the multiple dimensions of awareness\u2014cognitive, emotional, social, and behavioral\u2014to maximize impact.",
+          "caveats": "Review focused on campaign descriptions, not effectiveness; heterogeneous study designs limited comparisons; proposed model requires further validation."
+        },
+        {
+          "number": 13,
+          "title": "How older adults interpret and respond to memory concerns: a qualitative study",
+          "journal": "Aging & Mental Health",
+          "published": "August 6, 2026",
+          "pmid": "42561181",
+          "doi": "10.1080/13607863.2026.2710255",
+          "the_study": "UK researchers interviewed 20 community-dwelling adults aged 60 or older with self-perceived memory difficulties but no diagnosed impairment. Participants described cognitive changes as gradual, shaped by life transitions and social comparisons. Fear and frustration were common, sometimes leading to social withdrawal. Media portrayals and ageist stereotypes increased worry and stigma. Coping strategies included mentally stimulating activities, memory aids, and comparing themselves to peers.",
+          "why_it_matters": "Understanding how older adults interpret and cope with memory concerns can help shape supportive, non-stigmatizing interventions that address emotional and social dimensions\u2014not just cognitive symptoms.",
+          "story_angle_primary": "If you notice memory changes, know that worry and frustration are common\u2014but so are effective coping strategies like staying mentally active and using memory aids. Media stereotypes don't define your experience.",
+          "story_angle_secondary": "Programs for people with early memory concerns should address fears, ageism, and emotional wellbeing, not just cognitive training. Group-based and metacognitive approaches may help counter stigma and isolation.",
+          "caveats": "Small qualitative sample (N=20); UK population may not generalize; self-reported experiences subject to recall and social desirability bias."
+        },
+        {
+          "number": 14,
+          "title": "Lifestyle, resilience, and social traits linked to healthy aging biomarkers",
+          "journal": "GeroScience",
+          "published": "August 5, 2026",
+          "pmid": "42554773",
+          "doi": "10.1007/s11357-026-02442-1",
+          "the_study": "Italian researchers studied 401 dementia-free adults aged 83\u201387, measuring lifestyle habits, psychological resilience, social attachment, and over 120 blood biomarkers. Healthy lifestyle habits were associated with favorable inflammatory and metabolic markers; psychological resilience and secure social attachment were linked to lower inflammation. However, these biomarker changes did not statistically explain the positive effects on cognition, mental health, or walking speed.",
+          "why_it_matters": "Maintaining healthy habits and strong emotional and social connections may benefit both brain and body in very old age, though the biological pathways remain complex.",
+          "story_angle_primary": "Staying active, eating well, and nurturing close relationships may support your health into your 80s and beyond\u2014reinforcing the value of everyday habits and connections.",
+          "story_angle_secondary": "Senior living programs should foster not just physical health, but also emotional resilience and social engagement, which appear to have independent benefits for healthy aging.",
+          "caveats": "Cross-sectional design (cannot establish causation); Italian cohort may not generalize; biomarker-outcome relationships were not statistically mediated."
+        },
+        {
+          "number": 15,
+          "title": "Lower education amplifies genetic dementia risk, especially in women",
+          "journal": "GeroScience",
+          "published": "July 31, 2026",
+          "pmid": "42538506",
+          "doi": "10.1007/s11357-026-02452-z",
+          "the_study": "Researchers analyzed data from over 181,000 UK Biobank participants aged 55 and older, examining how lifestyle, health, and socioeconomic factors interacted with APOE \u03b54, the strongest genetic risk factor for Alzheimer's disease. Low educational attainment had the largest interaction effect\u2014up to 32% of the genetic risk association in some analyses. In women, deprivation, abnormal sleep, anxiety, and depression also amplified genetic risk.",
+          "why_it_matters": "Education and mental health may modify genetic dementia risk, suggesting that social and psychological interventions could help mitigate inherited vulnerability\u2014particularly for women.",
+          "story_angle_primary": "Even if you carry genetic risk for dementia, maintaining mental health, managing sleep, and staying mentally engaged may help reduce your overall risk.",
+          "story_angle_secondary": "Public health efforts to address educational disparities, depression, and sleep disorders may be especially important for women and those with genetic susceptibility to dementia.",
+          "caveats": "Observational design (cannot establish causation); UK Biobank participants are predominantly White and healthier than the general population; interaction effects are exploratory."
+        },
+        {
+          "number": 16,
+          "title": "Persistent loneliness and social isolation linked to greater cognitive decline",
+          "journal": "Aging & Mental Health",
+          "published": "July 21, 2026",
+          "pmid": "42480060",
+          "doi": "10.1080/13607863.2026.2700451",
+          "the_study": "Researchers systematically reviewed 20 longitudinal studies examining trajectories of social isolation, loneliness, and cognitive function in older adults. Persistent or increasing loneliness and isolation were consistently associated with greater cognitive decline and higher dementia risk. Mediators included depression, physical health indicators, and markers of biological aging.",
+          "why_it_matters": "Long-term patterns of social disconnection\u2014not just single-point measures\u2014appear to be important for brain health, underscoring the need for sustained interventions.",
+          "story_angle_primary": "Staying socially connected over time, not just occasionally, may help protect your memory and thinking. Addressing loneliness early may be especially important.",
+          "story_angle_secondary": "Senior living professionals and families should focus on sustained social engagement rather than one-time events. Ongoing monitoring for isolation and depression can help identify those at risk.",
+          "caveats": "Review of observational studies (cannot establish causation); heterogeneity in how studies measured social isolation and loneliness; publication bias possible."
+        },
+        {
+          "number": 17,
+          "title": "Digital mindfulness app helps dementia caregivers reduce stress",
+          "journal": "JMIR Aging",
+          "published": "July 21, 2026",
+          "pmid": "42478935",
+          "doi": "10.2196/83618",
+          "the_study": "Researchers analyzed weekly data from 46 family caregivers of people with dementia who used a digital mindfulness app (Healthy Minds Program for Caregivers) for 12 weeks. Stress and mindfulness improved most during the first 3\u20134 weeks. Each 10 minutes of weekly app use was associated with higher mindfulness and lower stress, and this benefit persisted throughout the trial\u2014particularly for those with high baseline stress.",
+          "why_it_matters": "Digital mindfulness tools offer a flexible, accessible way for dementia caregivers to build stress-management skills, with benefits appearing early and lasting with continued use.",
+          "story_angle_primary": "If you're caring for someone with dementia, using a mindfulness app for just a few minutes each day may help reduce your stress\u2014especially if you start when stress is high.",
+          "story_angle_secondary": "Caregiver support programs can recommend digital mindfulness apps as a low-cost, accessible complement to other resources, emphasizing that early and consistent use may maximize benefits.",
+          "caveats": "Secondary analysis of a small feasibility trial (N=46); no control group for these analyses; self-reported outcomes; one author is affiliated with the app developer."
+        },
+        {
+          "number": 18,
+          "title": "Periodic contact with friends and family may help protect cognition",
+          "journal": "The Journals of Gerontology, Series B",
+          "published": "July 21, 2026",
+          "pmid": "42478745",
+          "doi": "10.1093/geronb/gbag143",
+          "the_study": "Researchers analyzed data from 1,820 U.S. adults aged 57\u201385 over three waves of the National Social Life, Health, and Aging Project. Neither overall network size nor average contact frequency consistently predicted cognitive function. However, having more \"intermittent confidants\"\u2014people with whom one interacts weekly or monthly\u2014was associated with better cognition and lower risk of cognitive impairment at follow-up.",
+          "why_it_matters": "Maintaining a circle of people with whom you stay in periodic touch may be more important for brain health than sheer network size or constant daily contact.",
+          "story_angle_primary": "You don't have to talk to everyone every day\u2014staying in touch with friends and family on a weekly or monthly basis may help support your thinking and memory.",
+          "story_angle_secondary": "Senior living and community programs can encourage older adults to maintain a broad network of periodic contacts, not just close daily relationships. Strategies to strengthen intermittent connections may benefit cognitive health.",
+          "caveats": "Observational design (cannot establish causation); intermittent contacts were self-reported; U.S. sample may not generalize to other cultures."
+        },
+        {
+          "number": 19,
+          "title": "Eye-tracking cognitive games show promise for tracking Parkinson's dementia",
+          "journal": "GeroScience",
+          "published": "July 20, 2026",
+          "pmid": "42477234",
+          "doi": "10.1007/s11357-026-02417-2",
+          "the_study": "Italian researchers tested a home-based video game platform (SmartMe&You) using eye-tracking technology in 34 healthy older adults and 68 patients with Parkinson's disease-related cognitive impairment or dementia. Game performance distinguished patients from healthy participants with over 90% accuracy and correlated with standard cognitive test scores and brain wave patterns associated with cognitive decline.",
+          "why_it_matters": "Simple, at-home video games could enable ongoing monitoring of cognitive health in people with Parkinson's, potentially catching changes earlier than periodic clinic visits.",
+          "story_angle_primary": "If you have Parkinson's disease, home-based brain games may someday help track your cognitive health between doctor visits\u2014though this technology is still being developed.",
+          "story_angle_secondary": "Clinicians and senior living staff should watch for emerging digital tools that can supplement traditional cognitive assessments, particularly for people with Parkinson's and related conditions.",
+          "caveats": "Relatively small sample sizes; cross-sectional design (cannot establish causation); technology still in research phase; one author is affiliated with the platform developer."
+        },
+        {
+          "number": 20,
+          "title": "Blood protein panel distinguishes major dementia types",
+          "journal": "Nature Aging",
+          "published": "August 2026",
+          "pmid": "42477094",
+          "doi": "10.1038/s43587-026-01162-7",
+          "the_study": "An international team analyzed blood samples from over 1,300 people with Alzheimer's disease, dementia with Lewy bodies, frontotemporal dementia, and healthy controls across multiple centers. They identified over 200 proteins with altered levels in disease and developed a 21-protein panel that could distinguish between dementia types. The panel was validated in an independent cohort of 805 additional participants.",
+          "why_it_matters": "A blood test that helps differentiate dementia types could streamline diagnosis, reduce the need for invasive or expensive tests, and guide appropriate treatment.",
+          "story_angle_primary": "In the future, a simple blood test may help doctors determine what type of dementia you or a loved one has, making diagnosis faster and less burdensome.",
+          "story_angle_secondary": "Senior living and healthcare professionals should be aware that blood-based dementia biomarkers are advancing rapidly and may soon change clinical practice.",
+          "caveats": "Validation in independent cohorts strengthens findings, but clinical implementation will require further testing; some authors have industry relationships."
+        },
+        {
+          "number": 21,
+          "title": "Dementia prevention app designed for accessibility shows strong usability in diverse older adults",
+          "journal": "JMIR Aging",
+          "published": "July 23, 2026",
+          "pmid": "42492485",
+          "doi": "10.2196/92800",
+          "the_study": "UK researchers tested a dementia prevention app (ENHANCE) with 10 adults aged 60\u201380 from diverse socioeconomic and ethnic backgrounds over one week. All participants met minimum use targets, and most engaged voluntarily with additional features. Satisfaction was high, and nine out of ten intended to continue using the app. Users valued coach support, expert information, peer stories, and rewarding game design.",
+          "why_it_matters": "A dementia prevention app designed with accessibility and diversity in mind can engage older adults across backgrounds, supporting broader public health efforts.",
+          "story_angle_primary": "Digital brain health apps can be user-friendly and helpful, especially when they offer personal support and stories from others like you. If you're interested in reducing dementia risk, such apps may be worth exploring.",
+          "story_angle_secondary": "Senior living and public health programs should consider digital interventions designed with inclusivity in mind, incorporating human coaching and peer narratives to maximize engagement.",
+          "caveats": "Very small pilot sample (N=10); one-week use period; longer-term engagement and effectiveness not yet tested."
+        },
+        {
+          "number": 22,
+          "title": "Daily digital monitoring of dementia symptoms is feasible in nursing homes",
+          "journal": "JMIR Aging",
+          "published": "July 23, 2026",
+          "pmid": "42492088",
+          "doi": "10.2196/98024",
+          "the_study": "Swedish researchers piloted a digital tool for daily symptom monitoring in four nursing home units over 90 days, with staff recording behavioral and psychological symptoms of dementia for eight residents. Staff completed over 21,000 individual ratings, with 75% average adherence. The tool was seen as meaningful and easy to use, though organizational routines and team stability were key to sustained engagement.",
+          "why_it_matters": "Daily digital symptom tracking can be integrated into dementia care, providing real-time data to inform care decisions\u2014though organizational support is essential.",
+          "story_angle_primary": "If you or a loved one lives in a care facility, digital symptom tracking could help staff notice changes in behavior or mood sooner and respond more quickly.",
+          "story_angle_secondary": "Senior living administrators should consider implementing daily digital symptom monitoring, with attention to organizational routines and staff training to ensure sustainability.",
+          "caveats": "Small pilot (4 units, 8 residents); Swedish context may not generalize; staff adherence varied; authors developed the tool."
+        },
+        {
+          "number": 23,
+          "title": "Bilingualism may slow memory decline, but benefits vary by ethnicity",
+          "journal": "The Journals of Gerontology, Series B",
+          "published": "July 25, 2026",
+          "pmid": "42500984",
+          "doi": "10.1093/geronb/gbag150",
+          "the_study": "Researchers analyzed data from over 4,100 U.S. adults aged 50 and older from the Health and Aging Brain Study\u2013Health Disparities, a diverse cohort including Hispanic, Black, Asian, and White participants. Bilingualism was not associated with dementia risk at baseline. Cross-sectionally, Hispanic bilinguals had higher cognitive scores, but Black bilinguals had lower memory scores. Longitudinally, bilingualism was associated with slower episodic memory decline across groups.",
+          "why_it_matters": "Bilingualism may offer some protection against memory decline, but its effects differ by cultural and ethnic context, underscoring the need for inclusive research.",
+          "story_angle_primary": "If you speak more than one language, continuing to use both may help maintain your memory over time\u2014though the benefits may depend on your background and experiences.",
+          "story_angle_secondary": "Researchers and clinicians should consider cultural context when evaluating the cognitive effects of bilingualism. One-size-fits-all conclusions may not apply.",
+          "caveats": "Observational design (cannot establish causation); self-reported bilingualism; cross-sectional and longitudinal findings differ; diverse U.S. sample may not generalize elsewhere."
+        },
+        {
+          "number": 24,
+          "title": "Time-restricted eating may reprogram brain blood vessel cells",
+          "journal": "GeroScience",
+          "published": "July 24, 2026",
+          "pmid": "42496831",
+          "doi": "10.1007/s11357-026-02425-2",
+          "the_study": "Researchers exposed human brain blood vessel cells in the laboratory to serum from older adults who practiced time-restricted eating (eating within a limited daily window) and from controls. Serum from the time-restricted eating group triggered metabolic and stress-adaptive changes in the cells, including activation of protective pathways and reduced activity of growth-promoting signals.",
+          "why_it_matters": "Time-restricted eating may influence brain blood vessel health through circulating factors, suggesting a possible mechanism by which this dietary pattern could protect against cognitive decline\u2014though this remains theoretical.",
+          "story_angle_primary": "Time-restricted eating\u2014limiting when you eat each day\u2014may have effects on your blood vessels and brain that go beyond weight management, though more research is needed to confirm health benefits.",
+          "story_angle_secondary": "Researchers and clinicians interested in dietary interventions for brain health should watch for emerging evidence on time-restricted eating, which may act through novel biological pathways.",
+          "caveats": "Laboratory study using cells, not people; cannot establish clinical benefit in humans; small sample; mechanism is theoretical."
+        },
+        {
+          "number": 25,
+          "title": "WorkDEM Compass: a new tool to help people with young-onset dementia stay employed",
+          "journal": "Aging & Mental Health",
+          "published": "August 3, 2026",
+          "pmid": "42546122",
+          "doi": "10.1080/13607863.2026.2711810",
+          "the_study": "Dutch researchers co-created the \"WorkDEM Compass,\" a website with tools and resources to support continued employment for people with young-onset dementia. Development involved employees with dementia, caregivers, employers, HR professionals, healthcare providers, and occupational experts. The Compass includes a signal card for recognizing dementia at work, an inspiration kit for job accommodations, legal and financial information, and communication aids.",
+          "why_it_matters": "Premature job loss is common for people diagnosed with dementia before age 65. This practical resource aims to help them stay in the workforce longer, supporting dignity, identity, and financial security.",
+          "story_angle_primary": "If you or someone you know is diagnosed with dementia while still working, resources like the WorkDEM Compass can help navigate conversations with employers and explore options for staying on the job.",
+          "story_angle_secondary": "HR professionals, occupational health teams, and senior care organizations should consider tools like the WorkDEM Compass to support employees with young-onset dementia and promote inclusive workplaces.",
+          "caveats": "Tool developed in the Netherlands; feasibility and impact not yet formally evaluated; generalizability to other countries and workplaces unknown."
+        },
+        {
+          "number": 26,
+          "title": "Nutritional problems in frontotemporal dementia linked to depression, not just eating behavior changes",
+          "journal": "Aging & Mental Health",
+          "published": "August 4, 2026",
+          "pmid": "42552670",
+          "doi": "10.1080/13607863.2026.2711816",
+          "the_study": "Turkish researchers assessed nutritional status in 68 patients with behavioral variant frontotemporal dementia using a standardized screening tool. About 62% had nutritional impairment. Lower body mass index and higher depression scores\u2014not cognitive function\u2014were independently associated with poor nutrition. Regional brain atrophy related to eating behavior was not linked to nutritional status.",
+          "why_it_matters": "Nutritional problems in frontotemporal dementia may stem from depression and emotional factors, not just changes in eating behavior, suggesting that mental health screening and support could help.",
+          "story_angle_primary": "If you have frontotemporal dementia and are losing weight or eating poorly, addressing depression and emotional wellbeing\u2014not just eating habits\u2014may help improve your nutrition.",
+          "story_angle_secondary": "Clinicians and caregivers should screen for depression and emotional distress in people with frontotemporal dementia who have nutritional problems, rather than attributing them solely to behavioral symptoms.",
+          "caveats": "Retrospective, cross-sectional design (cannot establish causation); single-center Turkish sample; relatively small sample (N=68)."
+        },
+        {
+          "number": 27,
+          "title": "Oculomotor training produces different effects by dementia risk stage",
+          "journal": "GeroScience",
+          "published": "August 12, 2026",
+          "pmid": "42587262",
+          "doi": "10.1007/s11357-026-02474-7",
+          "the_study": "Spanish researchers enrolled 29 adults with mild cognitive impairment (MCI) in an 8-week eye-tracking-based cognitive training program. Participants were stratified into higher- and lower-risk groups based on cognitive screening scores. Both groups improved on cognitive tests. Lower-risk participants showed decreases in blood tau markers (associated with Alzheimer's pathology), while higher-risk participants showed increases, suggesting that training effects may differ depending on disease stage.",
+          "why_it_matters": "This suggests that the same intervention may have different biological effects depending on how advanced cognitive decline is, with implications for personalized treatment.",
+          "story_angle_primary": "If you have mild cognitive impairment, cognitive training may help\u2014but the effects could depend on where you are in the progression. Early intervention may be especially beneficial.",
+          "story_angle_secondary": "Clinicians and researchers should consider disease stage when evaluating or recommending cognitive interventions, as effects may not be uniform across all patients.",
+          "caveats": "Small sample (N=29); single-arm design (no control group); short follow-up; one author is affiliated with the training platform developer."
+        },
+        {
+          "number": 28,
+          "title": "Prebiotic fiber bread may reduce hostility, but not cognition, in older adults",
+          "journal": "Journal of Nutrition, Health & Aging",
+          "published": "August 13, 2026",
+          "pmid": "42594505",
+          "doi": "10.1016/j.jnha.2026.100939",
+          "the_study": "UK researchers randomized 53 adults aged 60\u201380 without dementia and with low fiber intake to eat either fiber-enriched or regular bread rolls daily for 12 weeks. The fiber group showed a decrease in hostility (a mood measure), while the placebo group showed an increase. However, the placebo group improved more on memory tests. Most other outcomes, including inflammation and other mood measures, were unchanged.",
+          "why_it_matters": "Prebiotic fiber may have selective effects on mood in older adults, though cognitive and inflammatory benefits were not observed in this small trial.",
+          "story_angle_primary": "Adding fiber to your diet might help with mood, though this study found no clear benefit for memory or inflammation. Fiber remains important for overall health.",
+          "story_angle_secondary": "Nutrition programs for seniors may consider fiber's potential mood benefits, but should not expect cognitive improvements based on this evidence alone.",
+          "caveats": "Small sample (N=53); 12-week intervention may be too short for cognitive effects; one author is affiliated with the fiber product company."
+        },
+        {
+          "number": 29,
+          "title": "Dementia burden rising in Mexico, with persistent regional and sex disparities",
+          "journal": "Aging & Mental Health",
+          "published": "August 9, 2026",
+          "pmid": "42571702",
+          "doi": "10.1080/13607863.2026.2710256",
+          "the_study": "Mexican researchers analyzed Global Burden of Disease data from 1990\u20132023 to estimate trends in Alzheimer's disease and other dementias across Mexico. While age-standardized rates declined over time, absolute case numbers rose due to population aging. Women had higher mortality and disability. A sharp increase in dementia-related disability was observed after 2020, potentially linked to COVID-19-era healthcare disruptions and social isolation.",
+          "why_it_matters": "Mexico faces a growing dementia burden, with persistent disparities by sex and region, underscoring the need for targeted prevention and care strategies.",
+          "story_angle_primary": "If you live in Mexico, know that dementia remains a major health concern\u2014especially for women and in underserved regions. Staying engaged with healthcare and risk reduction efforts is important.",
+          "story_angle_secondary": "Policymakers and senior care organizations in Mexico should prioritize dementia prevention, early diagnosis, and care infrastructure, with attention to regional and sex-based inequalities.",
+          "caveats": "Based on modeled estimates, not direct measurement; regional data may be less reliable; observational, cannot establish causation."
+        },
+        {
+          "number": 30,
+          "title": "Bilingualism may build brain resilience against dementia",
+          "journal": "Ageing Research Reviews",
+          "published": "August 4, 2026",
+          "pmid": "42551537",
+          "doi": "10.1016/j.arr.2026.103282",
+          "the_study": "This review synthesizes evidence from behavioral, brain imaging, and clinical studies on bilingualism and cognitive aging. The authors propose that lifelong bilingualism promotes \"neural efficiency\"\u2014shifting cognitive control from high-cost frontal brain regions to more efficient circuits\u2014and \"neural reserve\"\u2014building redundancy in brain networks. Together, these may explain why bilinguals often show more brain pathology at dementia diagnosis yet maintain function longer.",
+          "why_it_matters": "Understanding how bilingualism protects the brain may inform strategies to build cognitive resilience in all older adults, not just those who speak multiple languages.",
+          "story_angle_primary": "If you're bilingual, continuing to use both languages may help your brain adapt and stay resilient against decline. If you're not, other forms of cognitive challenge may offer similar benefits.",
+          "story_angle_secondary": "Senior living and brain health programs can highlight the value of cognitively demanding activities\u2014including language learning\u2014as a way to build resilience against dementia.",
+          "caveats": "Narrative review synthesizing diverse evidence; proposed mechanisms are theoretical and require further testing; not all bilingual experiences are equivalent."
+        }
+      ],
+      "citation_table": [
+        {
+          "pmid": "42616643",
+          "journal": "Journal of Frailty & Aging",
+          "date": "Aug 19, 2026",
+          "doi": "10.1016/j.tjfa.2026.100185"
+        },
+        {
+          "pmid": "42607070",
+          "journal": "Aging & Mental Health",
+          "date": "Aug 17, 2026",
+          "doi": "10.1080/13607863.2026.2691371"
+        },
+        {
+          "pmid": "42606574",
+          "journal": "The Journals of Gerontology, Series B",
+          "date": "Aug 17, 2026",
+          "doi": "10.1093/geronb/gbag163"
+        },
+        {
+          "pmid": "42580354",
+          "journal": "The Lancet Healthy Longevity",
+          "date": "Jul 2026",
+          "doi": "10.1016/j.lanhl.2026.100884"
+        },
+        {
+          "pmid": "42551464",
+          "journal": "The Lancet Healthy Longevity",
+          "date": "Jul 2026",
+          "doi": "10.1016/j.lanhl.2026.100882"
+        },
+        {
+          "pmid": "42570194",
+          "journal": "GeroScience",
+          "date": "Aug 8, 2026",
+          "doi": "10.1007/s11357-026-02468-5"
+        },
+        {
+          "pmid": "42568005",
+          "journal": "GeroScience",
+          "date": "Aug 8, 2026",
+          "doi": "10.1007/s11357-026-02447-w"
+        },
+        {
+          "pmid": "42518136",
+          "journal": "GeroScience",
+          "date": "Jul 28, 2026",
+          "doi": "10.1007/s11357-026-02438-x"
+        },
+        {
+          "pmid": "42566156",
+          "journal": "GeroScience",
+          "date": "Aug 7, 2026",
+          "doi": "10.1007/s11357-026-02455-w"
+        },
+        {
+          "pmid": "42587261",
+          "journal": "GeroScience",
+          "date": "Aug 12, 2026",
+          "doi": "10.1007/s11357-026-02454-x"
+        },
+        {
+          "pmid": "42586247",
+          "journal": "Ageing Research Reviews",
+          "date": "Aug 12, 2026",
+          "doi": "10.1016/j.arr.2026.103298"
+        },
+        {
+          "pmid": "42561388",
+          "journal": "Aging & Mental Health",
+          "date": "Aug 6, 2026",
+          "doi": "10.1080/13607863.2026.2712568"
+        },
+        {
+          "pmid": "42561181",
+          "journal": "Aging & Mental Health",
+          "date": "Aug 6, 2026",
+          "doi": "10.1080/13607863.2026.2710255"
+        },
+        {
+          "pmid": "42554773",
+          "journal": "GeroScience",
+          "date": "Aug 5, 2026",
+          "doi": "10.1007/s11357-026-02442-1"
+        },
+        {
+          "pmid": "42538506",
+          "journal": "GeroScience",
+          "date": "Jul 31, 2026",
+          "doi": "10.1007/s11357-026-02452-z"
+        },
+        {
+          "pmid": "42480060",
+          "journal": "Aging & Mental Health",
+          "date": "Jul 21, 2026",
+          "doi": "10.1080/13607863.2026.2700451"
+        },
+        {
+          "pmid": "42478935",
+          "journal": "JMIR Aging",
+          "date": "Jul 21, 2026",
+          "doi": "10.2196/83618"
+        },
+        {
+          "pmid": "42478745",
+          "journal": "The Journals of Gerontology, Series B",
+          "date": "Jul 21, 2026",
+          "doi": "10.1093/geronb/gbag143"
+        },
+        {
+          "pmid": "42477234",
+          "journal": "GeroScience",
+          "date": "Jul 20, 2026",
+          "doi": "10.1007/s11357-026-02417-2"
+        },
+        {
+          "pmid": "42477094",
+          "journal": "Nature Aging",
+          "date": "Aug 2026",
+          "doi": "10.1038/s43587-026-01162-7"
+        },
+        {
+          "pmid": "42492485",
+          "journal": "JMIR Aging",
+          "date": "Jul 23, 2026",
+          "doi": "10.2196/92800"
+        },
+        {
+          "pmid": "42492088",
+          "journal": "JMIR Aging",
+          "date": "Jul 23, 2026",
+          "doi": "10.2196/98024"
+        },
+        {
+          "pmid": "42500984",
+          "journal": "The Journals of Gerontology, Series B",
+          "date": "Jul 25, 2026",
+          "doi": "10.1093/geronb/gbag150"
+        },
+        {
+          "pmid": "42496831",
+          "journal": "GeroScience",
+          "date": "Jul 24, 2026",
+          "doi": "10.1007/s11357-026-02425-2"
+        },
+        {
+          "pmid": "42546122",
+          "journal": "Aging & Mental Health",
+          "date": "Aug 3, 2026",
+          "doi": "10.1080/13607863.2026.2711810"
+        },
+        {
+          "pmid": "42552670",
+          "journal": "Aging & Mental Health",
+          "date": "Aug 4, 2026",
+          "doi": "10.1080/13607863.2026.2711816"
+        },
+        {
+          "pmid": "42587262",
+          "journal": "GeroScience",
+          "date": "Aug 12, 2026",
+          "doi": "10.1007/s11357-026-02474-7"
+        },
+        {
+          "pmid": "42594505",
+          "journal": "Journal of Nutrition, Health & Aging",
+          "date": "Aug 13, 2026",
+          "doi": "10.1016/j.jnha.2026.100939"
+        },
+        {
+          "pmid": "42571702",
+          "journal": "Aging & Mental Health",
+          "date": "Aug 9, 2026",
+          "doi": "10.1080/13607863.2026.2710256"
+        },
+        {
+          "pmid": "42551537",
+          "journal": "Ageing Research Reviews",
+          "date": "Aug 4, 2026",
+          "doi": "10.1016/j.arr.2026.103282"
+        }
+      ],
+      "trends_raw": "**Convergent findings:**\n- Both digests reinforce that **lifestyle factors protect cognition**: the previous digest highlighted moderate-to-vigorous exercise blunting decline even in people with brain amyloid (PMID 42185590), while the new digest adds evidence on walking speed, plant-based diets, mentally stimulating activities (PMID 42566156), meal timing (PMID 42518136), and sleep quality (PMID 42587261). The message across runs is consistent\u2014everyday habits matter.\n- **Socioeconomic and educational disadvantage amplify dementia risk**: the previous digest linked lifelong low SES to higher dementia risk partly through cardiovascular health (PMID 42227878) and subjective cognitive decline (PMID 42289977). The new digest extends this by showing low education magnifies genetic (APOE \u03b54) risk, especially in women (PMID 42538506).\n- **Digital mindfulness tools help dementia caregivers**: the previous digest featured a smartphone mindfulness app reducing caregiver stress (PMIDs 42247635, 42227877). The new digest replicates this with a 12-week mindfulness app trial showing early, sustained benefits, particularly for high-stress caregivers (PMID 42478935).\n- **Persistent social disconnection harms cognition**: the previous digest noted resilience and social support buffer trauma's cognitive effects (PMID 42261258). The new digest's systematic review confirms that persistent or increasing loneliness/isolation\u2014not just point-in-time measures\u2014predict greater cognitive decline and dementia risk (PMID 42480060).\n\n**Advances:**\n- **Blood-based dementia biomarkers**: the new digest introduces a validated 21-protein blood panel distinguishing Alzheimer's, Lewy body, and frontotemporal dementia (PMID 42477094)\u2014a practical diagnostic advance not covered previously.\n- **Anticoagulant choice and dementia**: the new digest reports DOACs linked to 37% lower dementia risk versus no anticoagulation in atrial fibrillation patients, while warfarin was associated with higher risk (PMID 42570194)\u2014a novel, clinically actionable finding.\n- **Statin deprescribing trial**: the previous digest discussed antipsychotic deprescribing safety (PMID 42302797). The new digest adds a randomized trial showing stopping statins in adults 75+ for primary prevention did not increase mortality over three years (PMID 42580354), broadening the deprescribing evidence base.\n\n**Counterpoints:**\n- **Bilingualism effects are nuanced**: the new digest's longitudinal study (PMID 42500984) found bilingualism slowed memory decline overall but cross-sectionally Black bilinguals had lower memory scores, complicating the uniformly positive framing in the accompanying review on bilingualism and neural reserve (PMID 42551537). The previous digest did not address bilingualism.\n\n**New themes:**\n- **Family dynamics\u2014not just caregiver burden\u2014drive harmful caregiving behaviors** (PMID 42607070): a fresh angle on elder mistreatment prevention.\n- **Frailty \u00d7 living alone interaction**: frail older adults living alone may face especially elevated dementia risk (PMID 42616643), highlighting a vulnerable subgroup.\n- **Young-onset dementia employment support**: the WorkDEM Compass tool (PMID 42546122) addresses workforce participation\u2014an underexplored practical domain.\n- **Dementia disparities in the oldest-old**: even past age 90, women and Black adults face higher dementia risk (PMID 42551464), extending disparity research into a rarely studied age band.\n\n---",
+      "feature_pitch_raw": "**The pattern:** Multiple studies in this batch converge on the idea that **who surrounds you\u2014and how you connect with them\u2014shapes dementia risk and caregiving quality**. Frail older adults living alone face heightened dementia risk (PMID 42616643). Persistent loneliness and isolation accelerate cognitive decline (PMID 42480060). Periodic contact with intermittent confidants\u2014not sheer network size\u2014predicts better cognition (PMID 42478745). Negative family dynamics, rather than caregiver burden, drive harmful caregiver behaviors (PMID 42607070). And social media use can boost caregiving experiences for isolated caregivers (PMID 42606574).\n\n**Why pitch this now:** Post-pandemic attention to social isolation is fading from headlines, yet these studies show the cognitive stakes remain high\u2014and offer concrete, actionable nuances (intermittent contact matters; family conflict is a lever; digital connection can substitute). A feature could re-energize the conversation with fresh evidence and practical guidance.\n\n**Angle:** \"It's Not Just Loneliness\u2014The Surprising Social Factors That Protect (or Harm) Aging Brains.\" A feature exploring how the *quality, frequency, and structure* of social ties\u2014plus family dynamics around caregiving\u2014affect dementia risk, with guidance for older adults, families, and care providers on what to prioritize.\n\n**Potential outlets:**\n- **Next Avenue** \u2014 routinely covers social isolation and caregiving; this angle adds research-backed specificity beyond \"stay connected.\"\n- **AARP The Magazine / aarp.org** \u2014 massive reach to older adults and family caregivers; the intermittent-contact finding is counterintuitive and shareable.\n- **McKnight's Senior Living** \u2014 trade audience would value actionable implications for programming (e.g., designing for periodic contact, screening family dynamics).\n- **KFF Health News** \u2014 covers health equity and aging policy; the frailty-plus-living-alone vulnerability and caregiver-harm findings have policy resonance.\n\n---",
+      "fact_check": {
+        "checked": "2026-08-21",
+        "studies_reviewed": "30",
+        "verdicts_by_pmid": {
+          "42616643": "\u2705 Accurate",
+          "42607070": "\u2705 Accurate",
+          "42606574": "\u2705 Accurate",
+          "42580354": "\u2705 Accurate",
+          "42551464": "\u26a0\ufe0f Minor issues",
+          "42570194": "\u2705 Accurate",
+          "42568005": "\u2705 Accurate",
+          "42518136": "\u2705 Accurate",
+          "42566156": "\u2705 Accurate",
+          "42587261": "\u26a0\ufe0f Minor issues",
+          "42586247": "\u2705 Accurate",
+          "42561388": "\u2705 Accurate",
+          "42561181": "\u2705 Accurate",
+          "42554773": "\u2705 Accurate",
+          "42538506": "\u2705 Accurate",
+          "42480060": "\u2705 Accurate",
+          "42478935": "\u26a0\ufe0f Minor issues",
+          "42478745": "\u2705 Accurate",
+          "42477234": "\u2705 Accurate",
+          "42477094": "\u2705 Accurate",
+          "42492485": "\u2705 Accurate",
+          "42492088": "\u2705 Accurate",
+          "42500984": "\u2705 Accurate",
+          "42496831": "\u2705 Accurate",
+          "42546122": "\u2705 Accurate",
+          "42552670": "\u26a0\ufe0f Minor issues",
+          "42587262": "\u2705 Accurate",
+          "42594505": "\u2705 Accurate",
+          "42571702": "\u2705 Accurate",
+          "42551537": "\u2705 Accurate"
+        },
+        "summary": {
+          "total_issues": "5 (5 Minor, 0 Moderate, 0 Major)",
+          "entries_requiring_revision": "0 (all issues are minor and do not materially affect accuracy)",
+          "entries_cleared": "30"
+        },
+        "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Dementia \u2014 August 2026\n**Checked:** 2026-08-21 | **Studies reviewed:** 30\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n# Fact-Check Report\n\n### Study 1: Frail older adults living alone may face higher dementia risk, study suggests\n**PMID:** 42616643 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract. The digest correctly reports the 74% higher dementia risk (HR=1.74), the non-significant interaction test, and appropriately characterizes the stratified analyses as \"exploratory.\" The caveat about advisory relationships with pharmaceutical companies is accurately included.\n\n---\n\n### Study 2: Negative family dynamics linked to harmful caregiver behaviors in dementia care\n**PMID:** 42607070 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract. Sample size (N=99), population (Hong Kong), design (two-wave longitudinal), and the key finding that negative family exchanges\u2014not burden or BPSD\u2014predicted harmful behaviors are accurately reported.\n\n---\n\n### Study 3: Social media use may boost positive caregiving experiences, especially for isolated caregivers\n**PMID:** 42606574 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample size (N=417), locations (Hong Kong and Mainland China), three-wave design over six months, and the moderation finding (benefit strongest for those with smaller offline networks) are accurately reported.\n\n---\n\n### Study 4: Stopping statins at age 75 or older did not increase death risk over three years\n**PMID:** 42580354 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest correctly reports: N=1,160 for analysis, age 75+, randomized trial, 3-year follow-up, mortality rates (7.9% vs 7.2%), non-inferiority finding, primary prevention population, and exclusion of those with dementia. Funding source (French Ministry of Health) appropriately noted.\n\n---\n\n### Study 5: Dementia risk remains elevated in people over 90, with disparities by race and sex\n**PMID:** 42551464 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Dementia incidence percentage** \u2014 Severity: Minor\n\n- **As written:** \"About 17% developed dementia during follow-up.\"\n- **Abstract says:** \"138 (17%) developed dementia\"\n- **Problem:** This is accurate. However, the digest states the comparison was \"Black participants had higher risk than Asian participants\" without noting this was the only significant racial comparison reported.\n- **Suggested fix:** No fix needed; the comparison stated is accurate per the abstract (sHR 1.75, 1.07-2.88 for Black vs Asian).\n\n**Issue B. APOE \u03b54 finding characterization** \u2014 Severity: Minor\n\n- **As written:** \"the \u03b54 variant showed a trend toward higher risk but did not reach statistical significance\"\n- **Abstract says:** \"not significantly higher in APOE \u03b54 carriers than in non-carriers (sHR 1.51, 0.92-2.47)\"\n- **Problem:** Using \"trend\" is reasonable interpretation but slightly editorial; the abstract simply states it was \"not significant.\"\n- **Suggested fix:** \"the \u03b54 variant was associated with higher point estimates but did not reach statistical significance\"\n\n---\n\n### Study 6: Direct oral anticoagulants linked to lower dementia risk in atrial fibrillation patients\n**PMID:** 42570194 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest correctly reports: N>21,600 (abstract: 21,671), mean age 74 (abstract: 74.2), 46% women (abstract: 45.9%), follow-up ~6 years, DOAC associated with 37% lower risk (HR 0.63 = 37% reduction), warfarin with 31% higher risk (HR 1.31), benefit stronger in those \u226575, and consistent across LIBRA strata.\n\n---\n\n### Study 7: Brain MRI white matter measure may help predict dementia risk\n**PMID:** 42568005 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample sizes (176 per group), the finding that FA was the strongest predictor, AUC of 0.970, and the stepwise decline across groups are all accurately reported from the abstract.\n\n---\n\n### Study 8: Late-night eating and skipping breakfast linked to higher dementia risk in Japan\n**PMID:** 42518136 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N>283,000 (abstract: 283,166), mean age 72.8, ~6 years follow-up, late-night dinner HR 1.17, skipping breakfast HR 1.13, and definitions (\u22653 times/week, within 2 hours of bedtime) are all accurately reported.\n\n---\n\n### Study 9: Distinct cognitive aging trajectories linked to lifestyle factors in older adults\n**PMID:** 42566156 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=696, ~13 years average follow-up, testing every 2 years, and the lifestyle factors associated with best-performing group (walking speed, quality of life, sports, cognitive activities, plant-based foods) are accurately reported from the abstract.\n\n---\n\n### Study 10: Sleep quality and housework linked to memory in older adults\n**PMID:** 42587261 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Plant protein ratio specificity** \u2014 Severity: Minor\n\n- **As written:** \"A moderate proportion of protein from plant sources (about 35\u201340%) was associated with the best memory performance.\"\n- **Abstract says:** \"plant protein-to-total protein ratio retained a significant nonlinear (inverted U-shaped) association with Recognition, with performance peaking at a moderate proportion of plant protein (approximately 0.35-0.40)\"\n- **Problem:** The digest correctly reports this but doesn't specify this was for Recognition specifically, not all memory measures.\n- **Suggested fix:** \"A moderate proportion of protein from plant sources (about 35\u201340%) was associated with the best memory recognition performance.\"\n\n---\n\n### Study 11: Lifestyle interventions can help people with memory concerns adopt healthier habits\n**PMID:** 42586247 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest correctly reports 23 RCTs (abstract: \"26 studies described 23 randomised controlled trials\"), low certainty evidence for cognitive outcomes, and that interventions addressing capability, opportunity, and motivation were more effective. The caveat about authors' involvement in one included study is appropriately disclosed.\n\n---\n\n### Study 12: Public dementia awareness campaigns need clearer, consistent definitions\n**PMID:** 42561388 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=22 studies, the finding of heterogeneous definitions, and the development of a conceptual model distinguishing antecedents, core dimensions, and consequences are accurately reported.\n\n---\n\n### Study 13: How older adults interpret and respond to memory concerns: a qualitative study\n**PMID:** 42561181 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=20, UK population, age \u226560, purposive sampling using the SCD Questionnaire, and key themes (gradual changes, fear/frustration, media influence, coping strategies) are accurately reported.\n\n---\n\n### Study 14: Lifestyle, resilience, and social traits linked to healthy aging biomarkers\n**PMID:** 42554773 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=401, age 83-87, 120+ biomarkers measured, and the key finding that biomarkers did not statistically mediate the effects on cognition, mental health, or walking speed are accurately reported.\n\n---\n\n### Study 15: Lower education amplifies genetic dementia risk, especially in women\n**PMID:** 42538506 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N>181,000 (abstract: 181,006), UK Biobank, age \u226555, low educational attainment with largest interaction effect (up to 32%), and sex-specific findings for women (deprivation, sleep, anxiety, depression) are accurately reported.\n\n---\n\n### Study 16: Persistent loneliness and social isolation linked to greater cognitive decline\n**PMID:** 42480060 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Twenty studies reviewed, longitudinal designs, persistent/increasing isolation associated with greater decline and higher dementia risk, and mediators (depression, health indicators, biological aging markers) are accurately reported.\n\n---\n\n### Study 17: Digital mindfulness app helps dementia caregivers reduce stress\n**PMID:** 42478935 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. App benefit timing** \u2014 Severity: Minor\n\n- **As written:** \"Stress and mindfulness improved most during the first 3\u20134 weeks.\"\n- **Abstract says:** \"Stress had the greatest decrease between baseline and week 3 (-2 points on average), whereas mindfulness had the greatest increase between baseline and week 4 (+2.5 points on average).\"\n- **Problem:** Minor\u2014digest correctly captures the 3-4 week window but combines the two measures.\n- **Suggested fix:** No change needed; this is an acceptable summary.\n\n**Issue B. Per 10 minutes specification** \u2014 Severity: Minor\n\n- **As written:** \"Each 10 minutes of weekly app use was associated with higher mindfulness and lower stress\"\n- **Abstract says:** \"For every 10 minutes of HMP-C utilization between baseline and week 1, mindfulness and stress ratings were 0.14 points higher (P<.001) and 0.14 points lower (P<.001), respectively\"\n- **Problem:** The abstract specifies this was for \"between baseline and week 1\" utilization, not ongoing weekly use throughout. The relationship persisted but with smaller effect sizes over time.\n- **Suggested fix:** \"Each 10 minutes of app use in the first week was associated with 0.14 points higher mindfulness and 0.14 points lower stress, and this benefit persisted throughout the trial.\"\n\n---\n\n### Study 18: Periodic contact with friends and family may help protect cognition\n**PMID:** 42478745 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=1,820, age 57-85, three waves of NSHAP, and the key finding that intermittent confidants (weekly/monthly contact) were associated with better cognition while overall network size and average contact frequency were not consistently associated are accurately reported.\n\n---\n\n### Study 19: Eye-tracking cognitive games show promise for tracking Parkinson's dementia\n**PMID:** 42477234 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Sample sizes (34 healthy, 68 PDCD patients), >90% accuracy in distinguishing groups, correlation with MMSE and EEG markers, and the developer affiliation disclosure are accurately reported.\n\n---\n\n### Study 20: Blood protein panel distinguishes major dementia types\n**PMID:** 42477094 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N>1,300 (abstract: 1,318) in discovery cohort, N=805 in validation, >200 dysregulated proteins, 21-protein panel, and inclusion of multiple dementia types are accurately reported. Industry relationships appropriately noted in caveats.\n\n---\n\n### Study 21: Dementia prevention app designed for accessibility shows strong usability in diverse older adults\n**PMID:** 42492485 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=10, age 60-80, one week use period, diverse backgrounds (6 from ethnic minority backgrounds, range of deprivation levels), all met minimum use targets, 9/10 intended to continue, and key engagement factors are accurately reported.\n\n---\n\n### Study 22: Daily digital monitoring of dementia symptoms is feasible in nursing homes\n**PMID:** 42492088 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Four units, 8 residents, 90 days, >21,000 item-level ratings (abstract: 21,993), 75% average adherence, and developer involvement appropriately disclosed.\n\n---\n\n### Study 23: Bilingualism may slow memory decline, but benefits vary by ethnicity\n**PMID:** 42500984 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N>4,100 (abstract: 4,140 cross-sectional, 1,760 longitudinal), diverse cohort, no association with dementia status, cross-sectional ethnic variation, and longitudinal association with slower episodic memory decline are accurately reported.\n\n---\n\n### Study 24: Time-restricted eating may reprogram brain blood vessel cells\n**PMID:** 42496831 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest accurately describes this as a laboratory study using cells treated with human serum, identifies the metabolic and stress-adaptive changes, and appropriately caveats that clinical benefit in humans cannot be established.\n\n---\n\n### Study 25: WorkDEM Compass: a new tool to help people with young-onset dementia stay employed\n**PMID:** 42546122 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Dutch development, co-creation methodology, stakeholder involvement, and the four main components (signal card, inspiration kit, legal/financial information, communication aids) are accurately reported.\n\n---\n\n### Study 26: Nutritional problems in frontotemporal dementia linked to depression, not just eating behavior changes\n**PMID:** 42552670 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Sample size discrepancy** \u2014 Severity: Minor\n\n- **As written:** \"Turkish researchers assessed nutritional status in 68 patients with behavioral variant frontotemporal dementia\"\n- **Abstract says:** \"94 patients with bvFTD were included... Of these, 68 patients with available MNA-SF data were included in the final analyses\"\n- **Problem:** The digest reports the final analytic sample (N=68) correctly but doesn't mention the initial sample of 94.\n- **Suggested fix:** No change strictly needed; reporting the analytic sample is appropriate.\n\n**Issue B. Nutritional impairment percentage** \u2014 Severity: Minor\n\n- **As written:** \"About 62% had nutritional impairment\"\n- **Abstract says:** \"Nutritional impairment was identified in 61.8% of patients\"\n- **Problem:** Rounding 61.8% to \"about 62%\" is acceptable.\n- **Suggested fix:** None needed.\n\n---\n\n### Study 27: Oculomotor training produces different effects by dementia risk stage\n**PMID:** 42587262 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=29 MCI patients, 8-week training, stratification by MoCA/MoCA-MIS scores, divergent tau responses by risk stratum, and developer affiliation are accurately reported.\n\n---\n\n### Study 28: Prebiotic fiber bread may reduce hostility, but not cognition, in older adults\n**PMID:** 42594505 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. N=53, age 60-80, 12-week intervention, hostility finding (treatment decreased, placebo increased), memory finding (placebo improved more), and industry affiliation are accurately reported.\n\n---\n\n### Study 29: Dementia burden rising in Mexico, with persistent regional and sex disparities\n**PMID:** 42571702 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Time period (1990-2023), GBD data source, findings on sex disparities (women higher mortality/disability), age-standardized rate declines despite absolute increases, and post-2020 increase potentially linked to COVID-19 disruptions are accurately reported.\n\n---\n\n### Study 30: Bilingualism may build brain resilience against dementia\n**PMID:** 42551537 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest accurately characterizes this as a narrative review synthesizing evidence on neural efficiency and neural reserve mechanisms, and appropriately caveats that proposed mechanisms are theoretical.\n\n---\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Frail older adults living alone may face higher dementia risk | \u2705 Accurate | \u2014 |\n| 2 | Negative family dynamics linked to harmful caregiver behaviors | \u2705 Accurate | \u2014 |\n| 3 | Social media use may boost positive caregiving experiences | \u2705 Accurate | \u2014 |\n| 4 | Stopping statins at age 75 or older did not increase death risk | \u2705 Accurate | \u2014 |\n| 5 | Dementia risk remains elevated in people over 90 | \u26a0\ufe0f Minor issues | Minor wording on APOE \u03b54 \"trend\" |\n| 6 | Direct oral anticoagulants linked to lower dementia risk | \u2705 Accurate | \u2014 |\n| 7 | Brain MRI white matter measure may help predict dementia risk | \u2705 Accurate | \u2014 |\n| 8 | Late-night eating and skipping breakfast linked to higher dementia risk | \u2705 Accurate | \u2014 |\n| 9 | Distinct cognitive aging trajectories linked to lifestyle factors | \u2705 Accurate | \u2014 |\n| 10 | Sleep quality and housework linked to memory | \u26a0\ufe0f Minor issues | Plant protein finding specific to Recognition |\n| 11 | Lifestyle interventions can help people with memory concerns | \u2705 Accurate | \u2014 |\n| 12 | Public dementia awareness campaigns need clearer definitions | \u2705 Accurate | \u2014 |\n| 13 | How older adults interpret and respond to memory concerns | \u2705 Accurate | \u2014 |\n| 14 | Lifestyle, resilience, and social traits linked to healthy aging biomarkers | \u2705 Accurate | \u2014 |\n| 15 | Lower education amplifies genetic dementia risk | \u2705 Accurate | \u2014 |\n| 16 | Persistent loneliness and social isolation linked to cognitive decline | \u2705 Accurate | \u2014 |\n| 17 | Digital mindfulness app helps dementia caregivers reduce stress | \u26a0\ufe0f Minor issues | App use timing specificity |\n| 18 | Periodic contact with friends and family may help protect cognition | \u2705 Accurate | \u2014 |\n| 19 | Eye-tracking cognitive games show promise for tracking Parkinson's dementia | \u2705 Accurate | \u2014 |\n| 20 | Blood protein panel distinguishes major dementia types | \u2705 Accurate | \u2014 |\n| 21 | Dementia prevention app shows strong usability | \u2705 Accurate | \u2014 |\n| 22 | Daily digital monitoring of dementia symptoms is feasible | \u2705 Accurate | \u2014 |\n| 23 | Bilingualism may slow memory decline | \u2705 Accurate | \u2014 |\n| 24 | Time-restricted eating may reprogram brain blood vessel cells | \u2705 Accurate | \u2014 |\n| 25 | WorkDEM Compass: a new tool for young-onset dementia employment | \u2705 Accurate | \u2014 |\n| 26 | Nutritional problems in frontotemporal dementia | \u26a0\ufe0f Minor issues | Minor sample size presentation |\n| 27 | Oculomotor training produces different effects by dementia risk stage | \u2705 Accurate | \u2014 |\n| 28 | Prebiotic fiber bread may reduce hostility | \u2705 Accurate | \u2014 |\n| 29 | Dementia burden rising in Mexico | \u2705 Accurate | \u2014 |\n| 30 | Bilingualism may build brain resilience | \u2705 Accurate | \u2014 |\n\n**Total issues:** 5 (5 Minor, 0 Moderate, 0 Major)\n**Entries requiring revision:** 0 (all issues are minor and do not materially affect accuracy)\n**Entries cleared:** 30"
       }
     },
     {

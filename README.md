@@ -54,9 +54,18 @@ page.
 
 It's deployed to Vercel from this repo (private repo — GitHub Pages isn't
 available on the free plan for private repos, which is why Vercel is used
-instead of Pages). Every push to `main` (including the bot's daily commit)
-triggers a redeploy, so the live dashboard always reflects the latest
-`outputs/`.
+instead of Pages). Vercel's Git integration is deliberately **disconnected**,
+so pushing to `main` does *not* redeploy. The only thing that publishes is an
+explicit `vercel deploy --prod` run from inside `docs/` (where the `.vercel`
+link file lives) — either by hand, or from the "Deploy dashboard to Vercel"
+step of `daily-digest.yml`. In practice the daily workflow run is what keeps
+the live dashboard current with `outputs/`; a manual code change to the
+dashboard needs a manual deploy to show up before then.
+
+Don't reconnect Git integration without first moving the `.vercel` link to the
+repo root and setting Root Directory to `docs`. With it connected at the repo
+root, every push spawns a competing build that finds no `index.html`, succeeds
+empty, and steals the production alias — which reads as a 404 on the live site.
 
 To view it locally without deploying anything:
 

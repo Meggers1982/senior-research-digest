@@ -55,6 +55,13 @@ page. Prose blocks render `**bold**` and `*italic*` from the source markdown
 horizontal scroll area so wide tables don't push the whole page sideways on
 phones.
 
+The run list is keyboard-operable (tab to a run, Enter or Space to open it)
+and the sticky offsets read the header's measured height from a `--header-h`
+CSS variable rather than a hardcoded guess, so nothing tucks underneath it
+when the header grows at narrow widths. On phones the list is capped at 45vh
+with its own scroll, so the digest itself stays near the top of the page
+instead of sitting below every run card.
+
 It's deployed to Vercel from this repo (private repo — GitHub Pages isn't
 available on the free plan for private repos, which is why Vercel is used
 instead of Pages). Vercel's Git integration is deliberately **disconnected**,

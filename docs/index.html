@@ -7,6 +7,8 @@
 <title>Senior Living Research Digest — Dashboard</title>
 <style>
   :root {
+    /* Measured from the live header on load/resize; the literal is the desktop fallback. */
+    --header-h: 91px;
     --bg: #f7f5f2;
     --panel: #ffffff;
     --border: #e4ddd3;
@@ -74,13 +76,15 @@
   .sidebar {
     border-right: 1px solid var(--border);
     padding: 16px;
-    max-height: calc(100vh - 80px);
+    max-height: calc(100vh - var(--header-h));
     overflow-y: auto;
     position: sticky;
-    top: 80px;
+    top: var(--header-h);
   }
   @media (max-width: 860px) {
     .sidebar { position: static; max-height: none; border-right: none; border-bottom: 1px solid var(--border); }
+    /* Stacked above the digest on phones, so cap it instead of pushing content off-screen. */
+    .sidebar .run-list { max-height: 45vh; overflow-y: auto; }
   }
   .controls { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; }
   input[type="search"], select {
@@ -102,6 +106,16 @@
     transition: border-color 0.15s;
   }
   .run-card:hover { border-color: var(--accent); }
+  .run-card:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .sr-only {
+    position: absolute;
+    width: 1px; height: 1px;
+    padding: 0; margin: -1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
+  }
   .run-card.active { border-color: var(--accent); background: var(--accent-soft); }
   .run-card .rc-title { font-weight: 600; font-size: 0.88rem; margin-bottom: 3px; }
   .run-card .rc-meta { font-size: 0.75rem; color: var(--muted); display: flex; gap: 8px; flex-wrap: wrap; }
@@ -167,7 +181,7 @@
     font-size: 0.9rem;
   }
   .section-block h4 { margin: 0 0 8px; font-size: 1rem; }
-  #feature-pitch { scroll-margin-top: 124px; }
+  #feature-pitch { scroll-margin-top: calc(var(--header-h) + 12px); }
   .jump-link {
     display: inline-block;
     margin-top: 10px;
@@ -223,7 +237,9 @@
 <div class="layout">
   <aside class="sidebar">
     <div class="controls">
+      <label class="sr-only" for="search">Search digests by headline, PMID, or journal</label>
       <input type="search" id="search" placeholder="Search headline, PMID, journal…" />
+      <label class="sr-only" for="topic-filter">Filter by topic</label>
       <select id="topic-filter">
         <option value="">All topics</option>
       </select>
@@ -259,7 +275,8 @@ function renderSidebar() {
 
   const list = document.getElementById("run-list");
   list.innerHTML = state.filtered.map(r => `
-    <div class="run-card ${r.id === state.activeId ? "active" : ""}" data-id="${r.id}">
+    <div class="run-card ${r.id === state.activeId ? "active" : ""}" data-id="${r.id}"
+         role="button" tabindex="0" aria-current="${r.id === state.activeId ? "true" : "false"}">
       <div class="rc-title">${escapeHtml(r.topic || "Broad")}</div>
       <div class="rc-meta">
         <span>${escapeHtml(r.run_date || "—")}</span>
@@ -273,10 +290,21 @@ function renderSidebar() {
     `${state.filtered.length} of ${state.data.run_count} runs`;
 
   list.querySelectorAll(".run-card").forEach(el => {
-    el.addEventListener("click", () => {
-      state.activeId = el.dataset.id;
+    const select = () => {
+      // Check before re-rendering: the rebuild below detaches el and clears activeElement.
+      const hadFocus = document.activeElement === el;
+      const id = el.dataset.id;
+      state.activeId = id;
       renderSidebar();
       renderMain();
+      if (hadFocus) {
+        const next = document.querySelector(`.run-card[data-id="${id}"]`);
+        if (next) next.focus();
+      }
+    };
+    el.addEventListener("click", select);
+    el.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); select(); }
     });
   });
 }
@@ -589,11 +617,21 @@ function applyFilters() {
   renderMain();
 }
 
+function syncHeaderHeight() {
+  const header = document.querySelector("header");
+  if (!header) return;
+  const apply = () => document.documentElement.style.setProperty(
+    "--header-h", header.getBoundingClientRect().height + "px");
+  apply();
+  if (window.ResizeObserver) new ResizeObserver(apply).observe(header);
+  else window.addEventListener("resize", apply);
+}
+
 function initScrollTopButton() {
   const btn = document.getElementById("scroll-top-btn");
   window.addEventListener("scroll", () => {
     btn.classList.toggle("visible", window.scrollY > 400);
-  });
+  }, { passive: true });
   btn.addEventListener("click", () => {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
@@ -615,6 +653,7 @@ async function init() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
   initScrollTopButton();
+  syncHeaderHeight();
 
   renderSidebar();
   renderMain();

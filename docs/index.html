@@ -183,6 +183,7 @@
   .jump-link:hover { border-color: var(--accent); }
   .section-block b { color: var(--accent); }
   .section-block ul { margin: 4px 0 10px 18px; padding: 0; }
+  .table-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; }
   .citation-table { width: 100%; border-collapse: collapse; margin-top: 22px; font-size: 0.82rem; }
   .citation-table th, .citation-table td { border: 1px solid var(--border); padding: 6px 8px; text-align: left; }
   .citation-table th { background: var(--accent-soft); }
@@ -303,7 +304,10 @@ function renderTrendsBlock(raw) {
 }
 
 function inlineMd(text) {
-  return escapeHtml(text).replace(/\*\*(.+?)\*\*/g, "<b>$1</b>");
+  // Bold first, so the leftover single asterisks are unambiguously emphasis.
+  return escapeHtml(text)
+    .replace(/\*\*([^*]+?)\*\*/g, "<b>$1</b>")
+    .replace(/\*([^*]+?)\*/g, "<i>$1</i>");
 }
 
 function renderStudy(study, factCheck) {
@@ -346,12 +350,14 @@ function renderMain() {
   const studiesHtml = run.studies.map(s => renderStudy(s, run.fact_check)).join("");
 
   const citationHtml = run.citation_table.length ? `
+    <div class="table-scroll">
     <table class="citation-table">
       <thead><tr><th>PMID</th><th>Journal</th><th>Date</th><th>DOI</th></tr></thead>
       <tbody>
         ${run.citation_table.map(c => `<tr><td>${escapeHtml(c.pmid)}</td><td>${escapeHtml(c.journal)}</td><td>${escapeHtml(c.date)}</td><td>${escapeHtml(c.doi)}</td></tr>`).join("")}
       </tbody>
     </table>
+    </div>
   ` : "";
 
   const trendsHtml = run.trends_raw ? `
@@ -417,11 +423,14 @@ function renderMain() {
 }
 
 function mdRuns(text) {
-  const parts = String(text || "").split(/(\*\*.+?\*\*)/g).filter(p => p !== "");
+  const parts = String(text || "").split(/(\*\*[^*]+?\*\*|\*[^*]+?\*)/g).filter(p => p !== "");
   if (!parts.length) return [new docx.TextRun("")];
   return parts.map(p => {
-    const m = p.match(/^\*\*(.+)\*\*$/);
-    return m ? new docx.TextRun({ text: m[1], bold: true }) : new docx.TextRun(p);
+    const b = p.match(/^\*\*([^*]+)\*\*$/);
+    if (b) return new docx.TextRun({ text: b[1], bold: true });
+    const i = p.match(/^\*([^*]+)\*$/);
+    if (i) return new docx.TextRun({ text: i[1], italics: true });
+    return new docx.TextRun(p);
   });
 }
 

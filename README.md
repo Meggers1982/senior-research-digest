@@ -50,7 +50,10 @@ not just the latest — filter by topic, search by headline/PMID/journal, and
 see each study's fact-check verdict inline. When a run includes a feature
 pitch, a "Jump to Feature Pitch" link appears in the run header and scrolls
 straight to the **Bigger Picture: Feature Pitch** block at the bottom of the
-page.
+page. Prose blocks render `**bold**` and `*italic*` from the source markdown
+(both on screen and in the .docx export), and the citation table gets its own
+horizontal scroll area so wide tables don't push the whole page sideways on
+phones.
 
 It's deployed to Vercel from this repo (private repo — GitHub Pages isn't
 available on the free plan for private repos, which is why Vercel is used

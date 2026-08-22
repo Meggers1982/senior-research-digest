@@ -47,7 +47,10 @@ default.
 `docs/index.html` is a static, no-build dashboard that reads
 `docs/data/digests.json` and lets you browse **every digest ever generated**,
 not just the latest — filter by topic, search by headline/PMID/journal, and
-see each study's fact-check verdict inline.
+see each study's fact-check verdict inline. When a run includes a feature
+pitch, a "Jump to Feature Pitch" link appears in the run header and scrolls
+straight to the **Bigger Picture: Feature Pitch** block at the bottom of the
+page.
 
 It's deployed to Vercel from this repo (private repo — GitHub Pages isn't
 available on the free plan for private repos, which is why Vercel is used

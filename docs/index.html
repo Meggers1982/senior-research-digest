@@ -167,6 +167,20 @@
     font-size: 0.9rem;
   }
   .section-block h4 { margin: 0 0 8px; font-size: 1rem; }
+  #feature-pitch { scroll-margin-top: 100px; }
+  .jump-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--accent);
+    text-decoration: none;
+    border: 1px solid var(--border);
+    background: var(--accent-soft);
+    border-radius: 999px;
+    padding: 4px 12px;
+  }
+  .jump-link:hover { border-color: var(--accent); }
   .section-block b { color: var(--accent); }
   .section-block ul { margin: 4px 0 10px 18px; padding: 0; }
   .citation-table { width: 100%; border-collapse: collapse; margin-top: 22px; font-size: 0.82rem; }
@@ -348,11 +362,15 @@ function renderMain() {
   ` : "";
 
   const pitchHtml = run.feature_pitch_raw ? `
-    <div class="section-block">
+    <div class="section-block" id="feature-pitch">
       <h4>Bigger Picture: Feature Pitch</h4>
       ${renderTrendsBlock(run.feature_pitch_raw)}
     </div>
   ` : "";
+
+  const jumpLinkHtml = run.feature_pitch_raw
+    ? `<a class="jump-link" href="#feature-pitch">Jump to Feature Pitch &#8595;</a>`
+    : "";
 
   const rawFactCheckHtml = run.fact_check && run.fact_check.raw ? `
     <details class="raw-toggle">
@@ -375,6 +393,7 @@ function renderMain() {
         <span>Studies selected: ${run.study_count}</span>
       </div>
       ${factSummary}
+      ${jumpLinkHtml}
     </div>
     ${studiesHtml}
     ${citationHtml}
@@ -385,6 +404,13 @@ function renderMain() {
 
   const exportBtn = document.getElementById("export-docx-btn");
   if (exportBtn) exportBtn.addEventListener("click", () => exportRunToDocx(run));
+
+  const jumpLink = main.querySelector(".jump-link");
+  if (jumpLink) jumpLink.addEventListener("click", (e) => {
+    e.preventDefault();
+    const target = document.getElementById("feature-pitch");
+    if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+  });
 }
 
 function mdRuns(text) {

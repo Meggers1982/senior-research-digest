@@ -167,7 +167,7 @@
     font-size: 0.9rem;
   }
   .section-block h4 { margin: 0 0 8px; font-size: 1rem; }
-  #feature-pitch { scroll-margin-top: 100px; }
+  #feature-pitch { scroll-margin-top: 124px; }
   .jump-link {
     display: inline-block;
     margin-top: 10px;
@@ -178,7 +178,7 @@
     border: 1px solid var(--border);
     background: var(--accent-soft);
     border-radius: 999px;
-    padding: 4px 12px;
+    padding: 9px 14px;
   }
   .jump-link:hover { border-color: var(--accent); }
   .section-block b { color: var(--accent); }
@@ -409,7 +409,10 @@ function renderMain() {
   if (jumpLink) jumpLink.addEventListener("click", (e) => {
     e.preventDefault();
     const target = document.getElementById("feature-pitch");
-    if (target) target.scrollIntoView({ behavior: "smooth", block: "start" });
+    if (!target) return;
+    const header = document.querySelector("header");
+    const offset = (header ? header.getBoundingClientRect().height : 0) + 12;
+    window.scrollTo({ top: target.getBoundingClientRect().top + window.scrollY - offset, behavior: "smooth" });
   });
 }
 

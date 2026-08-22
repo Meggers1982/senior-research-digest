@@ -1,6 +1,11 @@
-"""Parse every digest (and matching fact-check) in outputs/ into a single JSON
-file the static dashboard (docs/) reads. Rebuilds from scratch each run so it
-stays correct even if past output files are edited or renamed by hand."""
+"""Parse every digest (and matching fact-check) in outputs/ into the JSON the
+static dashboard (docs/) reads. Rebuilds from scratch each run so it stays
+correct even if past output files are edited or renamed by hand.
+
+Output is split so the dashboard's first load stays flat as runs accumulate:
+`index.json` holds only what the sidebar and the search box need (roughly 5%
+of the total), and each run's full body goes to `runs/<id>.json`, fetched on
+demand when that run is opened."""
 
 import json
 import re
@@ -8,7 +13,10 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUTS_DIR = REPO_ROOT / "outputs"
-DASHBOARD_DATA_PATH = REPO_ROOT / "docs" / "data" / "digests.json"
+DASHBOARD_DATA_DIR = REPO_ROOT / "docs" / "data"
+DASHBOARD_INDEX_PATH = DASHBOARD_DATA_DIR / "index.json"
+DASHBOARD_RUNS_DIR = DASHBOARD_DATA_DIR / "runs"
+LEGACY_DATA_PATH = DASHBOARD_DATA_DIR / "digests.json"
 
 HEADER_FIELD_RE = re.compile(r"\*\*([^*:]+):\*\*\s*([^\n|]+)")
 STUDY_SPLIT_RE = re.compile(r"^### (\d+)\.\s*(.+)$", re.MULTILINE)
@@ -166,7 +174,30 @@ def _parse_digest_file(path: Path) -> dict:
     }
 
 
-def build() -> dict:
+def _search_blob(run: dict) -> str:
+    """Everything the search box matches on, flattened at build time so the
+    index doesn't have to carry the full study objects."""
+    parts = [run.get("title", ""), run.get("focus", ""), run.get("topic", "")]
+    for study in run.get("studies", []):
+        parts.extend([study.get("title", ""), study.get("pmid", ""), study.get("journal", "")])
+    return " ".join(p for p in parts if p).lower()
+
+
+def _index_entry(run: dict) -> dict:
+    fact_check = run.get("fact_check") or {}
+    summary = fact_check.get("summary") or {}
+    return {
+        "id": run["id"],
+        "title": run.get("title", ""),
+        "topic": run.get("topic", ""),
+        "run_date": run.get("run_date", ""),
+        "study_count": run.get("study_count", 0),
+        "total_issues": summary.get("total_issues", ""),
+        "search": _search_blob(run),
+    }
+
+
+def build() -> list:
     runs = []
     for path in sorted(OUTPUTS_DIR.glob("*.md")):
         if path.name.endswith("Fact Check.md"):
@@ -175,21 +206,52 @@ def build() -> dict:
 
     runs.sort(key=lambda r: (r["run_date"], r["filename"]), reverse=True)
 
-    topics = sorted({r["topic"] for r in runs if r["topic"]})
+    # Two outputs can slugify to the same id; keep them addressable as separate
+    # files rather than letting the later one overwrite the earlier.
+    seen = {}
+    for run in runs:
+        base = run["id"]
+        seen[base] = seen.get(base, 0) + 1
+        if seen[base] > 1:
+            run["id"] = f"{base}-{seen[base]}"
 
-    return {
-        "generated_from": "outputs/*.md",
-        "run_count": len(runs),
-        "topics": topics,
-        "runs": runs,
-    }
+    return runs
 
 
 def main() -> None:
-    data = build()
-    DASHBOARD_DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
-    DASHBOARD_DATA_PATH.write_text(json.dumps(data, indent=2), encoding="utf-8")
-    print(f"Wrote {len(data['runs'])} runs to {DASHBOARD_DATA_PATH.relative_to(REPO_ROOT)}")
+    runs = build()
+
+    DASHBOARD_RUNS_DIR.mkdir(parents=True, exist_ok=True)
+    written = set()
+    for run in runs:
+        path = DASHBOARD_RUNS_DIR / f"{run['id']}.json"
+        path.write_text(json.dumps(run, indent=2), encoding="utf-8")
+        written.add(path.name)
+
+    # Drop run files whose source markdown was renamed or deleted.
+    stale = [p for p in DASHBOARD_RUNS_DIR.glob("*.json") if p.name not in written]
+    for path in stale:
+        path.unlink()
+
+    index = {
+        "generated_from": "outputs/*.md",
+        "run_count": len(runs),
+        "topics": sorted({r["topic"] for r in runs if r["topic"]}),
+        "runs": [_index_entry(r) for r in runs],
+    }
+    DASHBOARD_INDEX_PATH.write_text(json.dumps(index, indent=2), encoding="utf-8")
+
+    # Superseded by index.json + runs/; removing it stops the old whole-history
+    # blob from being re-committed on every daily run.
+    if LEGACY_DATA_PATH.exists():
+        LEGACY_DATA_PATH.unlink()
+
+    index_kb = DASHBOARD_INDEX_PATH.stat().st_size / 1024
+    print(
+        f"Wrote {len(runs)} runs to {DASHBOARD_RUNS_DIR.relative_to(REPO_ROOT)}/ "
+        f"and {DASHBOARD_INDEX_PATH.relative_to(REPO_ROOT)} ({index_kb:.0f} KB)"
+        + (f"; pruned {len(stale)} stale run file(s)" if stale else "")
+    )
 
 
 if __name__ == "__main__":

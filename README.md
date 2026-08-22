@@ -30,7 +30,8 @@ run to a browsable dashboard.
    batch suggests a larger story. When there is a pitch, it also suggests 3-4
    real outlets that specific angle could go to, for pitching ideation.
 6. **Rebuilds the dashboard** (`build_dashboard_data.py`) — parses every
-   digest + fact-check in `outputs/` into `docs/data/digests.json`.
+   digest + fact-check in `outputs/` into `docs/data/index.json` plus one
+   file per run under `docs/data/runs/`.
 7. **Commits everything back** — `outputs/`, `topic_memory/`, and `docs/` are
    committed and pushed by the workflow so history accumulates in the repo.
 
@@ -45,7 +46,7 @@ default.
 ## Dashboard
 
 `docs/index.html` is a static, no-build dashboard that reads
-`docs/data/digests.json` and lets you browse **every digest ever generated**,
+`docs/data/index.json` and lets you browse **every digest ever generated**,
 not just the latest — filter by topic, search by headline/PMID/journal, and
 see each study's fact-check verdict inline. When a run includes a feature
 pitch, a "Jump to Feature Pitch" link appears in the run header and scrolls
@@ -61,6 +62,13 @@ CSS variable rather than a hardcoded guess, so nothing tucks underneath it
 when the header grows at narrow widths. On phones the list is capped at 45vh
 with its own scroll, so the digest itself stays near the top of the page
 instead of sitting below every run card.
+
+Data is split so first load stays flat as runs accumulate: `index.json` carries
+only what the sidebar and search need (~118 KB, including a prebuilt search
+blob per run), and a run's full body is fetched from `data/runs/<id>.json` when
+you open it, then cached for the session. The .docx library is vendored under
+`docs/vendor/` and loaded on the first export rather than on page load, so no
+CDN sits in the critical path.
 
 It's deployed to Vercel from this repo (private repo — GitHub Pages isn't
 available on the free plan for private repos, which is why Vercel is used
@@ -84,7 +92,7 @@ cd docs && python3 -m http.server 8000
 # open http://localhost:8000
 ```
 
-To rebuild `docs/data/digests.json` by hand (e.g. after editing a past
+To rebuild the dashboard data by hand (e.g. after editing a past
 digest):
 
 ```bash
@@ -173,10 +181,10 @@ scripts/
   digest_generator.py      Claude prompt + call that writes the digest
   fact_checker.py          Claude prompt + call that fact-checks the digest
   trends.py                Claude prompt + call for trends/feature-pitch + topic memory
-  build_dashboard_data.py  parses outputs/*.md into docs/data/digests.json
+  build_dashboard_data.py  parses outputs/*.md into docs/data/index.json + runs/
 outputs/                   every digest + fact-check ever generated (.md)
 topic_memory/              per-topic running memory used by trends.py
-docs/                      static dashboard (index.html + data/digests.json), deployed to Vercel
+docs/                      static dashboard (index.html + data/), deployed to Vercel
 config/digest_config.json  audience and rotation settings
 .github/workflows/         daily cron (daily-digest.yml)
 .gitignore                 keeps the local Vercel CLI link dir (.vercel) untracked

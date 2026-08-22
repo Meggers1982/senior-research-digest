@@ -252,9 +252,18 @@
   </main>
 </div>
 <button id="scroll-top-btn" title="Back to top" aria-label="Back to top">&#8593;</button>
-<script src="https://unpkg.com/docx@8.5.0/build/index.umd.js"></script>
 <script>
-const state = { data: null, filtered: [], activeId: null };
+const state = { data: null, filtered: [], activeId: null, runs: new Map(), loadSeq: 0 };
+
+// Run bodies live in their own files; fetch once, then serve from the cache.
+async function loadRun(id) {
+  if (state.runs.has(id)) return state.runs.get(id);
+  const res = await fetch(`data/runs/${encodeURIComponent(id)}.json`);
+  if (!res.ok) throw new Error(`could not load run (${res.status})`);
+  const run = await res.json();
+  state.runs.set(id, run);
+  return run;
+}
 
 function escapeHtml(s) {
   return (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
@@ -281,7 +290,7 @@ function renderSidebar() {
       <div class="rc-meta">
         <span>${escapeHtml(r.run_date || "—")}</span>
         <span class="badge">${r.study_count} studies</span>
-        ${r.fact_check && r.fact_check.summary ? `<span class="badge">${escapeHtml(r.fact_check.summary.total_issues || "")} issues</span>` : ""}
+        ${r.total_issues ? `<span class="badge">${escapeHtml(r.total_issues)} issues</span>` : ""}
       </div>
     </div>
   `).join("") || '<div class="empty-state">No runs match.</div>';
@@ -342,7 +351,7 @@ function renderStudy(study, factCheck) {
   const verdict = factCheck && factCheck.verdicts_by_pmid ? factCheck.verdicts_by_pmid[study.pmid] : null;
   return `
     <div class="study">
-      <h3>${study.number}. ${escapeHtml(study.title)}</h3>
+      <h3>${escapeHtml(String(study.number))}. ${escapeHtml(study.title)}</h3>
       <div class="study-meta">
         <span>${escapeHtml(study.journal)}</span>
         <span>${escapeHtml(study.published)}</span>
@@ -363,13 +372,27 @@ function renderStudy(study, factCheck) {
   `;
 }
 
-function renderMain() {
+async function renderMain() {
   const main = document.getElementById("main");
-  const run = state.data.runs.find(r => r.id === state.activeId);
-  if (!run) {
+  const id = state.activeId;
+  if (!id) {
     main.innerHTML = '<div class="empty-state">Select a run from the list to view its studies.</div>';
     return;
   }
+
+  // Guards against a slow fetch for an earlier run painting over a later one.
+  const seq = ++state.loadSeq;
+  let run;
+  try {
+    if (!state.runs.has(id)) main.innerHTML = '<div class="empty-state">Loading digest…</div>';
+    run = await loadRun(id);
+  } catch (err) {
+    if (seq === state.loadSeq) {
+      main.innerHTML = `<div class="empty-state">Failed to load this digest: ${escapeHtml(err.message)}</div>`;
+    }
+    return;
+  }
+  if (seq !== state.loadSeq) return;
 
   const factSummary = run.fact_check && run.fact_check.summary
     ? `<div class="fact-summary">Fact check: ${escapeHtml(run.fact_check.summary.total_issues)} total issues · ${escapeHtml(run.fact_check.summary.entries_requiring_revision)} entries need revision · ${escapeHtml(run.fact_check.summary.entries_cleared)} cleared</div>`
@@ -535,11 +558,29 @@ function docxCitationTable(rows) {
   ];
 }
 
+// 725 KB that only an export needs, so it is fetched on first use rather than
+// on every page load. Vendored locally: no CDN in the critical path.
+let docxLoader = null;
+function loadDocxLibrary() {
+  if (typeof docx !== "undefined") return Promise.resolve();
+  if (docxLoader) return docxLoader;
+  docxLoader = new Promise((resolve, reject) => {
+    const el = document.createElement("script");
+    el.src = "vendor/docx-8.5.0.umd.js";
+    el.onload = () => typeof docx === "undefined"
+      ? reject(new Error("docx library loaded but did not register"))
+      : resolve();
+    el.onerror = () => { docxLoader = null; reject(new Error("docx library failed to load")); };
+    document.head.appendChild(el);
+  });
+  return docxLoader;
+}
+
 async function exportRunToDocx(run) {
   const btn = document.getElementById("export-docx-btn");
   if (btn) { btn.disabled = true; btn.textContent = "Exporting…"; }
   try {
-    if (typeof docx === "undefined") throw new Error("docx library failed to load");
+    await loadDocxLibrary();
 
     const sections = [
       new docx.Paragraph({ text: run.title, heading: docx.HeadingLevel.TITLE, spacing: { after: 120 } }),
@@ -602,11 +643,7 @@ function applyFilters() {
   state.filtered = state.data.runs.filter(r => {
     if (topic && r.topic !== topic) return false;
     if (!query) return true;
-    const haystack = [
-      r.title, r.focus, r.topic,
-      ...r.studies.flatMap(s => [s.title, s.pmid, s.journal])
-    ].join(" ").toLowerCase();
-    return haystack.includes(query);
+    return (r.search || "").includes(query);
   });
 
   if (!state.filtered.some(r => r.id === state.activeId)) {
@@ -638,7 +675,8 @@ function initScrollTopButton() {
 }
 
 async function init() {
-  const res = await fetch("data/digests.json");
+  const res = await fetch("data/index.json");
+  if (!res.ok) throw new Error(`index.json returned ${res.status}`);
   state.data = await res.json();
   state.filtered = state.data.runs;
   state.activeId = state.filtered.length ? state.filtered[0].id : null;

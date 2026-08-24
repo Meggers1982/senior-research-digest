@@ -23,6 +23,14 @@ for this topic (TOPIC MEMORY, which may be empty if this is the first run). Writ
 exactly two visible sections plus one hidden block, using this structure and headers
 verbatim:
 
+
+## Spelling
+Write in American English: "analyze", "behavior", "randomized", "center", "program",
+"generalize". Many of these journals are British and their abstracts are not written
+that way — convert as you write in your own voice. Never change spelling inside
+something reproduced verbatim: journal titles (e.g. *Behaviour Research and Therapy*),
+trial, instrument and cohort names, and direct quotations keep their original form.
+
 ## Research Trends & Continuity
 
 Compare the studies in the NEW digest against the studies in the PREVIOUS digest.
@@ -95,7 +103,7 @@ was empty, base it only on the NEW digest.
 
 
 def _extract_field(text: str, field: str) -> str:
-    """Extract a labelled field from a digest's header (mirrors fact_checker.py)."""
+    """Extract a labeled field from a digest's header (mirrors fact_checker.py)."""
     match = re.search(rf"\*\*{re.escape(field)}:\*\*\s*([^\n|]+)", text)
     return match.group(1).strip() if match else ""
 

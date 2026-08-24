@@ -47,6 +47,16 @@ and PMIDs from the NEW digest that support it (2-3 sentences).
 as individual items (1-2 sentences).
 **Angle:** how a longer feature piece could be framed, and for which audience
 (1-2 sentences).
+**Potential headlines:** 3 working headlines for the FEATURE itself, not for any
+single study inside it — each its own bullet. Vary them rather than writing one
+headline three ways: one plain and concrete about what the evidence shows, one
+that leads with the counterintuitive turn, one that names what is at stake for
+the reader. Each should be specific enough to tell this feature apart from a
+generic piece on the topic. Avoid the colon-plus-subtitle formula unless it
+genuinely earns its place, avoid "Here's what X means for Y" constructions, and
+do not promise anything the studies behind this pitch would not support.
+Register: plain language an older adult or a family caregiver would read
+without a medical dictionary. Warm but not patronizing, and never alarmist.
 **Potential outlets:** 3-4 real, currently active publications this specific pitch
 could go to, each its own bullet with a short reason tied to THIS angle (not a
 generic "they cover health topics"). Mix consumer press aimed at older adults or

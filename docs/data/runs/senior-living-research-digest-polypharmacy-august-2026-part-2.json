@@ -1,0 +1,433 @@
+{
+  "id": "senior-living-research-digest-polypharmacy-august-2026-part-2",
+  "filename": "Senior Living Research Digest \u2014 Polypharmacy \u2014 August 2026 (Part 2).md",
+  "title": "Senior Living Research Digest \u2014 Polypharmacy \u2014 August 2026 (Part 2)",
+  "run_date": "2026-08-25",
+  "coverage_window": "Last 90 days",
+  "journals_searched": "146",
+  "articles_screened": "40",
+  "focus": "polypharmacy",
+  "topic": "polypharmacy",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 20,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Korea's Hospital-Based Polypharmacy Management Program Cuts Readmissions and Healthcare Costs",
+      "journal": "Drugs & Aging",
+      "published": "August 8, 2026",
+      "pmid": "42570168",
+      "doi": "10.1007/s40266-026-01325-6",
+      "the_study": "Researchers evaluated a Korean national pilot program in which hospital-based teams reviewed medications for patients aged 65 and older who were taking ten or more drugs (or five or more with additional risk factors). Using propensity-score matching, they compared 1,135 program participants to 1,125 matched controls drawn from national insurance claims data. Over 90 days, participants had a 15% lower risk of hospital readmission and incurred roughly $340 less in hospitalization costs per person.",
+      "why_it_matters": "Structured medication reviews delivered during a hospital stay can reduce preventable readmissions and ease financial strain on healthcare systems\u2014benefits especially important for older adults juggling multiple chronic conditions.",
+      "story_angle_primary": "If you take many medications and are hospitalized, ask whether your hospital offers a pharmacist-led medication review before discharge\u2014it may help you avoid another hospital stay.",
+      "story_angle_secondary": "Health systems and policymakers may look to Korea's program as a model for integrating pharmacist review into hospital care for high-risk older patients, potentially improving outcomes while controlling costs.",
+      "caveats": "Observational design using a historical control group (cannot establish causation); single-country setting may limit generalizability; unmeasured confounders possible despite matching."
+    },
+    {
+      "number": 2,
+      "title": "Pharmacist-Led Deprescribing Triples Medication Reductions in Patients Taking Many Drugs",
+      "journal": "Age and Ageing",
+      "published": "July 2, 2026",
+      "pmid": "42472621",
+      "doi": "10.1093/ageing/afag209",
+      "the_study": "In a Dutch cluster-randomized trial, 58 community pharmacies enrolled 318 adults aged 75 and older who used multidose dispensing systems and took very high numbers of medications. Pharmacists trained in deprescribing performed clinical medication reviews for the intervention group. After six months, intervention patients had 2.5 medications reduced or stopped on average, compared with 1.7 in usual-care controls\u2014a statistically significant difference. Health problems and quality of life remained stable in both groups.",
+      "why_it_matters": "A structured deprescribing intervention can meaningfully reduce pill burden in the highest-risk older adults without apparent harm, offering a scalable model for pharmacies worldwide.",
+      "story_angle_primary": "If you take many daily medications and use a pill-pack system, consider asking your pharmacist about a formal medication review\u2014some drugs may no longer be necessary.",
+      "story_angle_secondary": "Pharmacy owners and healthcare planners can consider adopting deprescribing-focused reviews for patients with hyperpolypharmacy, particularly those using automated dispensing, to streamline regimens safely.",
+      "caveats": "Six-month follow-up is relatively short; no significant improvement in quality of life was detected; conducted in a single country (Netherlands)."
+    },
+    {
+      "number": 3,
+      "title": "Diuretics, Antipsychotics, and Polypharmacy Linked to Injurious Falls in Australian Older Adults",
+      "journal": "Drugs & Aging",
+      "published": "July 23, 2026",
+      "pmid": "42489786",
+      "doi": "10.1007/s40266-026-01320-x",
+      "the_study": "Researchers followed 952 community-dwelling Australians aged 65 and older (median follow-up eight years) and linked their medication records to emergency department visits for fall injuries. After adjusting for clinical factors, polypharmacy (five or more medications) was associated with a 2.6-fold higher risk of injurious falls; diuretic use carried a nearly three-fold risk, and antipsychotic use a 2.2-fold risk. Diuretics accounted for the largest share of fall injuries attributable to medications at the population level.",
+      "why_it_matters": "Identifying specific drug classes\u2014rather than just total pill counts\u2014can help clinicians and patients prioritize which medications to reassess for fall prevention.",
+      "story_angle_primary": "If you take a diuretic (\"water pill\") or an antipsychotic, ask your doctor whether your dose can be lowered or whether alternatives exist, especially if you've experienced dizziness or unsteadiness.",
+      "story_angle_secondary": "Caregivers and senior living staff should be aware that diuretics are a leading contributor to fall injuries; routine medication reviews targeting these agents may reduce emergency visits.",
+      "caveats": "Observational design (cannot prove causation); single geographic region (Geelong, Australia); some medication categories had small sample sizes."
+    },
+    {
+      "number": 4,
+      "title": "Certain Sedatives and Antiepileptics Strongly Tied to Repeat Falls in Danish Seniors",
+      "journal": "European Geriatric Medicine",
+      "published": "August 12, 2026",
+      "pmid": "42584792",
+      "doi": "10.1007/s41999-026-01568-x",
+      "the_study": "A one-year prospective study tracked 241 community-dwelling adults aged 75 and older in Denmark, using monthly fall calendars verified by telephone. Among the 74% taking at least one fall-risk-increasing drug, baseline use of benzodiazepine-related drugs, strong anticholinergics, and antiepileptics was significantly associated with having two or more falls during follow-up, with hazard ratios ranging from about 2.5 to nearly 5.",
+      "why_it_matters": "The findings highlight that not all fall-risk medications are equal\u2014benzodiazepines, anticholinergics, and antiepileptics warrant special scrutiny in older adults prone to falling.",
+      "story_angle_primary": "If you've fallen more than once in the past year and take a sleeping pill, anti-anxiety medication, or seizure drug, talk with your doctor about whether a safer alternative exists.",
+      "story_angle_secondary": "Clinicians conducting fall-risk assessments should prioritize reviewing benzodiazepine-related drugs, strong anticholinergics, and antiepileptics, even in relatively well-functioning older patients.",
+      "caveats": "Small sample (N=241); single municipality in Denmark; observational design; causation cannot be established."
+    },
+    {
+      "number": 5,
+      "title": "Focused Deprescribing of Specific Drug Classes Appears Feasible\u2014but Clinical Benefits Remain Uncertain",
+      "journal": "Age and Ageing",
+      "published": "August 3, 2026",
+      "pmid": "42607278",
+      "doi": "10.1093/ageing/afag243",
+      "the_study": "An umbrella review synthesized 27 systematic reviews examining \"focused deprescribing\"\u2014targeted withdrawal or dose reduction of specific drug classes such as benzodiazepines, antidepressants, anticholinergics, and fall-risk-increasing drugs\u2014in older adults across clinical settings. Reductions in medication use were most consistent for benzodiazepines and other psychotropics, especially when combined with behavioral therapy. However, clinical outcomes like mortality, falls, and cognition were inconsistently reported and rarely improved. Most underlying reviews were rated critically low quality.",
+      "why_it_matters": "While stopping certain drug classes is achievable, evidence that doing so improves hard clinical outcomes for older adults is still lacking\u2014underscoring the need for better-designed trials.",
+      "story_angle_primary": "Stopping a long-term sleeping pill or sedative may be possible with proper support, but don't expect an immediate change in overall health\u2014work with your healthcare team to set realistic goals.",
+      "story_angle_secondary": "Senior living medical directors and primary care physicians should recognize that focused deprescribing is a reasonable strategy for reducing medication burden, but current evidence does not guarantee improvements in falls, cognition, or survival.",
+      "caveats": "Umbrella review of largely low-quality systematic reviews; certainty of evidence generally low or very low; heterogeneity across studies."
+    },
+    {
+      "number": 6,
+      "title": "Opioid-Benzodiazepine Co-Prescription Linked to Three-Fold Higher Frailty in Older Americans",
+      "journal": "Experimental Gerontology",
+      "published": "June 12, 2026 (online)",
+      "pmid": "42285234",
+      "doi": "10.1016/j.exger.2026.113201",
+      "the_study": "Analyzing nationally representative data from 18,434 U.S. adults aged 50 and older across seven NHANES cycles (2005\u20132018), researchers found that chronic co-prescription of opioids and benzodiazepines (\u226590 days) was associated with 2.88 times the odds of frailty compared with using neither drug. Adding a gabapentinoid raised the odds to 3.71. The association persisted across all subgroups and multiple sensitivity analyses.",
+      "why_it_matters": "Beyond the well-known respiratory risks, long-term combined use of opioids and benzodiazepines appears tightly linked to frailty\u2014a condition that predicts disability, hospitalization, and death in older adults.",
+      "story_angle_primary": "If you take both an opioid painkiller and a sedative like a benzodiazepine on a long-term basis, discuss with your doctor whether one or both can be tapered; these combinations may accelerate decline.",
+      "story_angle_secondary": "Prescribers and care teams should screen patients on chronic opioid-benzodiazepine regimens for signs of frailty and consider deprescribing strategies where clinically appropriate.",
+      "caveats": "Cross-sectional design (cannot determine causation); frailty index based on self-reported questionnaire items; potential residual confounding despite extensive adjustment."
+    },
+    {
+      "number": 7,
+      "title": "High Anticholinergic Burden Doubles Severe Treatment Toxicity Risk in Older Cancer Patients",
+      "journal": "Drugs & Aging",
+      "published": "July 22, 2026",
+      "pmid": "42487095",
+      "doi": "10.1007/s40266-026-01316-7",
+      "the_study": "Dutch researchers analyzed 434 patients aged 70 and older starting chemotherapy or targeted therapy for cancer. Those with a high anticholinergic burden score (\u22653) experienced grade 3 or higher treatment toxicity significantly more often than those with lower scores (adjusted odds ratio 1.99). Frailty independently predicted toxicity as well.",
+      "why_it_matters": "Medications with anticholinergic effects\u2014common in many seniors' regimens\u2014may compound the side effects of cancer treatment, suggesting that medication review before chemotherapy could improve tolerability.",
+      "story_angle_primary": "Before starting cancer treatment, ask your oncology team to review all your medications, including over-the-counter drugs that may have hidden anticholinergic effects.",
+      "story_angle_secondary": "Oncologists and geriatricians should calculate anticholinergic burden as part of pre-treatment assessments; reducing this burden might lower the risk of severe chemotherapy side effects.",
+      "caveats": "Single-center study in the Netherlands; observational design; anticholinergic burden calculated at one time point."
+    },
+    {
+      "number": 8,
+      "title": "Blood-Based Alzheimer's Biomarkers Show Promise\u2014but Polypharmacy and Frailty Complicate Interpretation",
+      "journal": "Age and Ageing",
+      "published": "July 2, 2026",
+      "pmid": "42476554",
+      "doi": "10.1093/ageing/afag213",
+      "the_study": "A clinical commentary reviewed advances in blood-based biomarkers for Alzheimer's disease, particularly plasma p-tau217, which has shown high accuracy for detecting amyloid pathology across multiple platforms. The authors noted that polypharmacy, chronic kidney disease, and frailty can influence absolute biomarker concentrations but appear not to negate diagnostic accuracy when results are interpreted in context.",
+      "why_it_matters": "Simple blood tests may soon supplement or replace invasive spinal taps or costly brain scans for Alzheimer's diagnosis\u2014though clinicians must account for the complex health profiles of older patients.",
+      "story_angle_primary": "Emerging blood tests for Alzheimer's disease may make diagnosis easier, but your doctor will still need to consider your overall health\u2014including medications and kidney function\u2014when interpreting results.",
+      "story_angle_secondary": "Memory clinics and primary care practices should prepare to integrate blood-based Alzheimer's biomarkers into comprehensive geriatric assessments, rather than using them in isolation.",
+      "caveats": "Commentary/narrative review (no new primary data); blood-based tests not yet universally validated for all older populations; guidelines recommend use only in symptomatic patients seen by specialists."
+    },
+    {
+      "number": 9,
+      "title": "Underweight Stroke Patients on Many Medications Recover Less Function",
+      "journal": "Drugs & Aging",
+      "published": "August 4, 2026",
+      "pmid": "42550458",
+      "doi": "10.1007/s40266-026-01326-5",
+      "the_study": "A Japanese retrospective study of 1,245 stroke patients (median age 75) admitted to a rehabilitation ward found that polypharmacy was associated with modestly lower motor function at discharge\u2014but only among underweight patients (BMI < 18.5). In normal-weight and obese patients, the number of medications did not significantly affect recovery.",
+      "why_it_matters": "Nutritional status may modify how polypharmacy affects stroke rehabilitation outcomes, suggesting that underweight patients deserve especially careful medication review.",
+      "story_angle_primary": "If you are recovering from a stroke and are underweight, work closely with your care team to ensure your medications are truly necessary\u2014extra pills may slow your progress.",
+      "story_angle_secondary": "Rehabilitation staff should flag underweight stroke patients for pharmacist consultation, as polypharmacy may have a disproportionate impact on their functional recovery.",
+      "caveats": "Retrospective single-center study in Japan; effect size modest; causation cannot be established."
+    },
+    {
+      "number": 10,
+      "title": "Pharmacist-Led Medication Review Uncovers Drug Problems in Older Cancer Patients Before Treatment",
+      "journal": "Journal of Geriatric Oncology",
+      "published": "June 26, 2026",
+      "pmid": "42364399",
+      "doi": "10.1016/j.jgo.2026.103036",
+      "the_study": "Over one year, pharmacists at Toronto's Princess Margaret Cancer Centre reviewed 205 patients (mean age 81) referred to the Older Adults with Cancer Clinic. Patients averaged 11.5 medications. Pharmacists identified 300 drug therapy problems\u2014most commonly adverse drug reactions\u2014with about two-thirds of recommendations accepted by the geriatric oncology team. The average review took roughly 1.5 hours per patient.",
+      "why_it_matters": "Embedding pharmacist expertise in geriatric oncology clinics can catch medication issues before cancer treatment begins, potentially preventing complications in a high-risk population.",
+      "story_angle_primary": "If you're starting cancer treatment and take many medications, ask whether a pharmacist can review your full medication list\u2014it may prevent unwanted side effects.",
+      "story_angle_secondary": "Cancer centers serving older patients should consider dedicated pharmacist staffing for pre-treatment medication reconciliation; most identified problems were accepted by clinicians.",
+      "caveats": "Single-center quality improvement project; no control group; labor-intensive (over 100 minutes per patient on average)."
+    },
+    {
+      "number": 11,
+      "title": "Expert Consensus Offers Practical Guidance on Opioid Use for Chronic Pain in Older Adults",
+      "journal": "Drugs & Aging",
+      "published": "August 21, 2026",
+      "pmid": "42627454",
+      "doi": "10.1007/s40266-026-01329-2",
+      "the_study": "A multidisciplinary Portuguese panel reviewed evidence and reached consensus on safe opioid prescribing for older adults with chronic pain. They emphasized \"start low, go slow\" dosing, preference for opioids with inactive metabolites or predictable clearance, careful selection of administration routes, and proactive management of constipation, cognitive effects, and fall risk. Distinct strategies were recommended for cancer versus non-cancer pain.",
+      "why_it_matters": "Chronic pain is common in older adults, but physiological changes make opioids riskier; this consensus provides a roadmap for balancing pain relief with safety.",
+      "story_angle_primary": "If you need opioid pain medication, ask your prescriber about starting at a low dose and choosing a formulation suited to your kidney and liver function\u2014this can reduce side effects.",
+      "story_angle_secondary": "Clinicians and senior living nurses should follow age-specific dosing principles and monitor for constipation, confusion, and falls whenever opioids are prescribed to older residents.",
+      "caveats": "Consensus document (not a systematic review or trial); recommendations based on available evidence and expert opinion; further research needed for age-specific dosing algorithms."
+    },
+    {
+      "number": 12,
+      "title": "Community Pharmacy Frailty Screening Tool Validated in Belgian Older Adults",
+      "journal": "Drugs & Aging",
+      "published": "June 15, 2026",
+      "pmid": "42295695",
+      "doi": "10.1007/s40266-026-01307-8",
+      "the_study": "Researchers externally validated a frailty screening tool that uses routinely collected pharmacy data\u2014age, sex, reimbursement status, number of chronic medications, and specific drug use\u2014against the SHARE-FI frailty assessment in 2,191 community-dwelling Belgians (mean age 74). The tool achieved good discrimination (area under the curve 0.77) and, after recalibration, accurately estimated frailty risk, performing especially well among those with polypharmacy.",
+      "why_it_matters": "Community pharmacists could use electronic dispensing data to flag older customers at risk for frailty, enabling proactive interventions without additional patient questionnaires.",
+      "story_angle_primary": "Your local pharmacist may soon be able to identify whether you're at risk for frailty just by reviewing your prescription history\u2014this could prompt earlier conversations about staying strong and independent.",
+      "story_angle_secondary": "Pharmacy chains and health systems may consider integrating validated frailty screening tools into dispensing software to identify high-risk patients for targeted medication reviews or referrals.",
+      "caveats": "Validated in a Belgian population; performance may differ in other countries; screening tools require clinical follow-up to confirm frailty status."
+    },
+    {
+      "number": 13,
+      "title": "Fall-Risk Drugs\u2014Not Antihypertensives\u2014Drive Injurious Falls in U.S. Older Adults",
+      "journal": "Archives of Gerontology and Geriatrics",
+      "published": "May 28, 2026 (online)",
+      "pmid": "42308749",
+      "doi": "10.1016/j.archger.2026.106314",
+      "the_study": "Using two-year follow-up data from 1,273 Black and White community-dwelling adults (median age 83) in the Health, Aging and Body Composition Study, researchers examined associations between fall-risk-increasing drugs and emergency visits for fall injuries. Antihypertensive use alone was not linked to falls, but use of other fall-risk drugs\u2014antidepressants, anticonvulsants, opioids, antihistamines, and muscle relaxants\u2014was associated with a 35% higher risk of injurious falls.",
+      "why_it_matters": "Blanket concerns about blood pressure medications and falls may be misplaced; more attention should focus on sedatives, opioids, and other centrally acting agents.",
+      "story_angle_primary": "If you're worried about falling, don't stop your blood pressure medicine on your own\u2014but do ask your doctor about other drugs like sedatives or pain pills that may increase your risk.",
+      "story_angle_secondary": "Fall prevention programs should target specific high-risk drug classes rather than broadly advising caution with all blood pressure medications, which showed no independent association with falls in this study.",
+      "caveats": "Observational cohort; two-year follow-up; sample limited to two U.S. sites; racial distribution may not generalize."
+    },
+    {
+      "number": 14,
+      "title": "Hip Strength and Diuretic Use Are Top Predictors of Injurious Falls",
+      "journal": "Archives of Gerontology and Geriatrics",
+      "published": "June 8, 2026 (online)",
+      "pmid": "42296796",
+      "doi": "10.1016/j.archger.2026.106333",
+      "the_study": "In a predictive modeling study of 952 Australians aged 65 and older, researchers found that adding hip abductor strength and diuretic use to a baseline model (age, sex, mobility, assistive device use, Timed Up and Go test) improved injurious fall prediction more than any other modifiable factors tested. Polypharmacy added little beyond these variables.",
+      "why_it_matters": "Strengthening hip muscles and reviewing diuretic necessity may be among the most impactful strategies for preventing fall injuries\u2014more so than simply counting total medications.",
+      "story_angle_primary": "Exercises that strengthen your hip muscles\u2014like side leg raises\u2014may help prevent serious falls; ask a physical therapist which movements are right for you.",
+      "story_angle_secondary": "Fall prevention programs should emphasize targeted strength training for hip abductors alongside careful review of diuretic prescriptions, rather than relying solely on polypharmacy counts.",
+      "caveats": "Observational; single Australian cohort; effect sizes modest; causation cannot be inferred."
+    },
+    {
+      "number": 15,
+      "title": "Frailty, Malnutrition Risk, and Sarcopenia Together Multiply Fall Odds",
+      "journal": "European Geriatric Medicine",
+      "published": "August 22, 2026",
+      "pmid": "42631833",
+      "doi": "10.1007/s41999-026-01590-z",
+      "the_study": "A Turkish study of 1,219 geriatric outpatients (mean age 75.5) assessed frailty, malnutrition risk, and probable sarcopenia, then examined their association with self-reported falls in the previous year. Having any two of the three conditions more than doubled the odds of reporting a fall (adjusted odds ratio 1.94); having all three nearly tripled the odds. Polypharmacy was included as a covariate in sensitivity analyses but was not a primary focus.",
+      "why_it_matters": "Older adults with overlapping frailty, poor nutrition, and muscle weakness face compounding fall risk\u2014highlighting the value of comprehensive geriatric assessment.",
+      "story_angle_primary": "If you've been told you're frail, at risk for malnutrition, or losing muscle, take extra precautions to prevent falls\u2014and consider asking about nutrition support and exercise programs.",
+      "story_angle_secondary": "Geriatric clinics should screen for all three conditions together; addressing nutrition and muscle strength alongside frailty may yield greater fall reduction than tackling any single factor.",
+      "caveats": "Cross-sectional design (cannot establish causation); self-reported falls subject to recall bias; single outpatient clinic population."
+    },
+    {
+      "number": 16,
+      "title": "Older Adults with Heart Failure Receive Less Guideline-Based Therapy\u2014Even After Accounting for Kidney Function",
+      "journal": "European Geriatric Medicine",
+      "published": "July 14, 2026",
+      "pmid": "42446811",
+      "doi": "10.1007/s41999-026-01553-4",
+      "the_study": "German researchers analyzed medication use among 1,281 adults aged 70 and older with stage C or D heart failure from the MyoVasc cohort. Compared with younger adults with similar heart failure severity, older patients were significantly less likely to receive aldosterone antagonists and beta-blockers\u2014therapies proven to improve survival\u2014even after adjusting for kidney function and comorbidities. Instead, they were more likely to receive calcium channel blockers, which are not guideline-recommended for heart failure.",
+      "why_it_matters": "Age-related underuse of evidence-based heart failure medications may contribute to worse outcomes in older adults, suggesting a need for more assertive prescribing and monitoring.",
+      "story_angle_primary": "If you have heart failure, ask your doctor whether you're receiving all the recommended medications\u2014some effective treatments may be under-prescribed simply because of your age.",
+      "story_angle_secondary": "Cardiologists and geriatricians should review guideline-directed therapy in older heart failure patients and consider whether age-related concerns are inadvertently limiting access to beneficial drugs.",
+      "caveats": "Cross-sectional observational study; single German cohort; unmeasured patient preferences may influence prescribing."
+    },
+    {
+      "number": 17,
+      "title": "Statins and Cognition in Older Adults: Current Evidence Does Not Support Stopping Therapy",
+      "journal": "GeroScience",
+      "published": "April 20, 2026 (online)",
+      "pmid": "42010230",
+      "doi": "10.1007/s11357-026-02259-y",
+      "the_study": "A narrative review synthesized evidence from randomized trials, observational studies, meta-analyses, and Mendelian randomization analyses on the cognitive effects of statins in older adults. Most trials found no harmful effect on cognition; some observational studies suggested possible protective associations. Two large ongoing trials\u2014PREVENTABLE and STAREE\u2014are expected to provide definitive answers.",
+      "why_it_matters": "Amid ongoing concern about statins and memory, current evidence does not justify stopping these cardiovascular drugs solely to protect cognition\u2014but individualized decisions remain important for frail patients.",
+      "story_angle_primary": "If you've heard that statins cause memory problems, know that most research doesn't support that claim; talk to your doctor before making any changes to your medication.",
+      "story_angle_secondary": "Clinicians should reassure patients that evidence does not support discontinuing statins for cognitive reasons, while remaining attentive to polypharmacy and frailty when weighing overall risk-benefit.",
+      "caveats": "Narrative review (not a systematic review or meta-analysis); definitive data from large trials still pending; older adults remain underrepresented in many existing studies."
+    },
+    {
+      "number": 18,
+      "title": "App-Based Medication Reminders Plus Telehealth Improve Adherence in African American Older Adults",
+      "journal": "Senior Care Pharmacist",
+      "published": "June 1, 2026",
+      "pmid": "42288945",
+      "doi": "10.4140/TCP.n.2026.139",
+      "the_study": "A six-month pilot in Houston enrolled 40 African American adults aged 65 and older taking five or more medications. Participants used a smartphone medication reminder app and received two pharmacist-led telehealth medication therapy management sessions. Self-reported medication knowledge improved significantly, the proportion forgetting medications dropped from 74% to 44%, and use of health technology rose from 14% to 68%.",
+      "why_it_matters": "Combining digital tools with pharmacist support can meaningfully improve medication adherence in a population facing disproportionate polypharmacy-related risks.",
+      "story_angle_primary": "A simple smartphone app paired with a pharmacist phone call may help you keep track of your medications\u2014even if you've never used health technology before.",
+      "story_angle_secondary": "Community health programs and senior centers serving African American older adults should explore digital adherence tools coupled with pharmacist outreach to address medication management challenges.",
+      "caveats": "Small pilot study (N=40); no control group; predominantly female sample; self-reported outcomes."
+    },
+    {
+      "number": 19,
+      "title": "Digital Twins Hold Promise for Personalized Geriatric Care\u2014but Major Hurdles Remain",
+      "journal": "Archives of Gerontology and Geriatrics",
+      "published": "August 3, 2026 (online)",
+      "pmid": "42570533",
+      "doi": "10.1016/j.archger.2026.106371",
+      "the_study": "A narrative review examined the potential of \"digital twins\"\u2014continuously updated virtual replicas of individual patients\u2014in geriatric care. Applications discussed include cardiovascular monitoring, fall prevention, dementia management, and polypharmacy optimization. The authors identified data privacy, interoperability, computational costs, and ethical concerns around consent in cognitively impaired patients as key barriers.",
+      "why_it_matters": "While digital twin technology could enable highly personalized, predictive care for older adults, significant technical and ethical challenges must be addressed before widespread adoption.",
+      "story_angle_primary": "In the future, a \"digital twin\" of your health data could help doctors predict problems before they happen\u2014but privacy protections and practical systems still need development.",
+      "story_angle_secondary": "Senior living technology planners and health system innovators should monitor digital twin advances, particularly for polypharmacy and fall-risk applications, while advocating for robust privacy and consent frameworks.",
+      "caveats": "Narrative review (no original data); most applications remain conceptual or early-stage; ethical and regulatory standards not yet established."
+    },
+    {
+      "number": 20,
+      "title": "ARB Blood Pressure Medications Linked to Lower Sarcopenia Rates in Hospitalized Seniors",
+      "journal": "Aging Clinical and Experimental Research",
+      "published": "July 8, 2026",
+      "pmid": "42414787",
+      "doi": "10.1007/s40520-026-03452-x",
+      "the_study": "Turkish researchers assessed 206 hospitalized patients aged 65 and older for sarcopenia using standardized criteria. While polypharmacy was common in both sarcopenic and non-sarcopenic groups (no significant difference), use of angiotensin receptor blockers (ARBs) was significantly more frequent among those without sarcopenia (40% vs. 15%). In multivariate analysis, ARB use remained independently associated with lower odds of sarcopenia.",
+      "why_it_matters": "This finding adds to emerging evidence that ARBs may have muscle-protective effects\u2014potentially relevant when choosing blood pressure medications for older adults at risk of muscle loss.",
+      "story_angle_primary": "If you take blood pressure medication and are concerned about muscle loss, ask your doctor whether an ARB-type drug might be appropriate for you.",
+      "story_angle_secondary": "Clinicians managing hypertension in frail or sarcopenic older patients may consider ARBs as a preferred class, pending confirmation from longitudinal studies.",
+      "caveats": "Cross-sectional design (cannot prove causation); small sample (N=206); single-center study in Turkey; mechanism unclear."
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42570168",
+      "journal": "Drugs & Aging",
+      "date": "August 8, 2026",
+      "doi": "10.1007/s40266-026-01325-6"
+    },
+    {
+      "pmid": "42472621",
+      "journal": "Age and Ageing",
+      "date": "July 2, 2026",
+      "doi": "10.1093/ageing/afag209"
+    },
+    {
+      "pmid": "42489786",
+      "journal": "Drugs & Aging",
+      "date": "July 23, 2026",
+      "doi": "10.1007/s40266-026-01320-x"
+    },
+    {
+      "pmid": "42584792",
+      "journal": "European Geriatric Medicine",
+      "date": "August 12, 2026",
+      "doi": "10.1007/s41999-026-01568-x"
+    },
+    {
+      "pmid": "42607278",
+      "journal": "Age and Ageing",
+      "date": "August 3, 2026",
+      "doi": "10.1093/ageing/afag243"
+    },
+    {
+      "pmid": "42285234",
+      "journal": "Experimental Gerontology",
+      "date": "June 12, 2026",
+      "doi": "10.1016/j.exger.2026.113201"
+    },
+    {
+      "pmid": "42487095",
+      "journal": "Drugs & Aging",
+      "date": "July 22, 2026",
+      "doi": "10.1007/s40266-026-01316-7"
+    },
+    {
+      "pmid": "42476554",
+      "journal": "Age and Ageing",
+      "date": "July 2, 2026",
+      "doi": "10.1093/ageing/afag213"
+    },
+    {
+      "pmid": "42550458",
+      "journal": "Drugs & Aging",
+      "date": "August 4, 2026",
+      "doi": "10.1007/s40266-026-01326-5"
+    },
+    {
+      "pmid": "42364399",
+      "journal": "Journal of Geriatric Oncology",
+      "date": "June 26, 2026",
+      "doi": "10.1016/j.jgo.2026.103036"
+    },
+    {
+      "pmid": "42627454",
+      "journal": "Drugs & Aging",
+      "date": "August 21, 2026",
+      "doi": "10.1007/s40266-026-01329-2"
+    },
+    {
+      "pmid": "42295695",
+      "journal": "Drugs & Aging",
+      "date": "June 15, 2026",
+      "doi": "10.1007/s40266-026-01307-8"
+    },
+    {
+      "pmid": "42308749",
+      "journal": "Archives of Gerontology and Geriatrics",
+      "date": "May 28, 2026",
+      "doi": "10.1016/j.archger.2026.106314"
+    },
+    {
+      "pmid": "42296796",
+      "journal": "Archives of Gerontology and Geriatrics",
+      "date": "June 8, 2026",
+      "doi": "10.1016/j.archger.2026.106333"
+    },
+    {
+      "pmid": "42631833",
+      "journal": "European Geriatric Medicine",
+      "date": "August 22, 2026",
+      "doi": "10.1007/s41999-026-01590-z"
+    },
+    {
+      "pmid": "42446811",
+      "journal": "European Geriatric Medicine",
+      "date": "July 14, 2026",
+      "doi": "10.1007/s41999-026-01553-4"
+    },
+    {
+      "pmid": "42010230",
+      "journal": "GeroScience",
+      "date": "April 20, 2026",
+      "doi": "10.1007/s11357-026-02259-y"
+    },
+    {
+      "pmid": "42288945",
+      "journal": "Senior Care Pharmacist",
+      "date": "June 1, 2026",
+      "doi": "10.4140/TCP.n.2026.139"
+    },
+    {
+      "pmid": "42570533",
+      "journal": "Archives of Gerontology and Geriatrics",
+      "date": "August 3, 2026",
+      "doi": "10.1016/j.archger.2026.106371"
+    },
+    {
+      "pmid": "42414787",
+      "journal": "Aging Clinical and Experimental Research",
+      "date": "July 8, 2026",
+      "doi": "10.1007/s40520-026-03452-x"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- Korea's hospital-based polypharmacy management program: The same propensity-matched evaluation (PMID 42570168) appears in both digests, consistently reporting 15% lower 90-day readmission risk and ~$340 lower hospitalization costs per patient.\n- Dutch pharmacist-led deprescribing trial: The cluster-randomized study (PMID 42472621) appears in both runs with identical findings\u20142.5 vs. 1.7 medications reduced, no harm to quality of life.\n- Diuretics, antipsychotics, and polypharmacy linked to injurious falls in Australia: The same cohort (PMID 42489786) is covered in both digests, confirming diuretics carry a nearly threefold risk and account for 23% of fall injuries at the population level.\n- Benzodiazepines, anticholinergics, and antiepileptics strongly predict recurrent falls: The Danish study (PMID 42584792) appears in both runs, reporting hazard ratios of 2.5 to nearly 5 for these specific drug classes.\n- Umbrella review on focused deprescribing: The synthesis of 27 systematic reviews (PMID 42607278) is reported in both digests, consistently noting that benzodiazepine and psychotropic deprescribing shows the strongest evidence, while hard clinical outcomes rarely improve.\n- Opioid-benzodiazepine co-prescription and frailty: The NHANES analysis (PMID 42285234) appears in both runs with identical findings\u20142.88\u00d7 frailty odds for dual use, 3.71\u00d7 with added gabapentinoid.\n- High anticholinergic burden doubles chemotherapy toxicity: The Dutch oncology study (PMID 42487095) appears in both digests with the same adjusted odds ratio of 1.99 for severe toxicity.\n- Underweight stroke patients on polypharmacy show poorer recovery: The Japanese rehabilitation study (PMID 42550458) is covered in both runs, confirming the interaction between low BMI and multiple medications.\n- Older heart failure patients receive less guideline-directed therapy: The German cohort analysis (PMID 42446811) appears in both digests, documenting underuse of aldosterone antagonists and beta-blockers in patients 70+.\n- Statins appear safe for cognition: The narrative review (PMID 42010230) is covered in both runs with consistent reassurance pending PREVENTABLE and STAREE trial results.\n- Pharmacist medication review in geriatric oncology: The Toronto quality improvement project (PMID 42364399) appears in both digests, reporting 300 drug therapy problems identified in 205 patients.\n- Digital app plus pharmacist telehealth improves adherence: The Houston pilot (PMID 42288945) is reported in both runs with identical outcomes\u2014forgotten medications dropped from 74% to 44%.\n- Digital twin technology review: The same narrative review (PMID 42570533) appears in both digests, outlining promising applications and substantial barriers.\n- ARBs associated with lower sarcopenia risk: The Turkish hospital study (PMID 42414787) is covered in both runs, reinforcing the preliminary muscle-protective finding.\n- Community pharmacy frailty screening tool validated: The Belgian study (PMID 42295695) appears in both digests with identical performance metrics (AUC 0.77, 64% sensitivity, 77% specificity).\n- Blood-based Alzheimer's biomarkers show promise but require careful interpretation: The clinical commentary (PMID 42476554) is covered in both runs, noting that polypharmacy and frailty affect absolute levels but not diagnostic accuracy.\n\n**Advances**\n- Hip strength and diuretic use identified as top modifiable fall predictors: The Australian prediction model study (PMID 42296796) in the NEW digest refines findings from the PREVIOUS digest by demonstrating that hip abductor strength and diuretic use outperform polypharmacy counts in predicting injurious falls\u2014providing more actionable intervention targets.\n- Expert consensus on opioid prescribing in older adults: The NEW digest introduces Portuguese multidisciplinary guidance (PMID 42627454) offering practical \"start low, go slow\" dosing recommendations and route-specific strategies not present in the PREVIOUS digest.\n- U.S. study clarifies that antihypertensives do not drive fall injuries: The Health ABC analysis (PMID 42308749) in the NEW digest finds no association between antihypertensive use and falls, while other fall-risk drugs (antidepressants, anticonvulsants, opioids, antihistamines, muscle relaxants) increased risk by 35%\u2014counterbalancing blanket cautions about blood pressure medications.\n\n**Counterpoints**\n- None identified. The NEW and PREVIOUS digests are largely overlapping in this run, with no studies directly contradicting prior findings.\n\n**New themes**\n- Frailty, malnutrition, and sarcopenia synergistically multiply fall odds: The Turkish geriatric outpatient study (PMID 42631833) introduces a \"triple jeopardy\" framework\u2014having all three conditions nearly triples fall risk, highlighting the value of comprehensive geriatric assessment beyond medication review alone.\n\n---",
+  "feature_pitch_raw": "_No cross-study feature angle identified in this batch._\n\nThe NEW digest substantially overlaps with the PREVIOUS digest (15 of 20 studies are identical), and the genuinely new studies\u2014while valuable individually\u2014do not cluster into a coherent cross-study pattern distinct from the \"Five Prescriptions That Trip Up Older Adults\" pitch already developed in the prior run.",
+  "fact_check": {
+    "checked": "2026-08-25",
+    "studies_reviewed": "20",
+    "verdicts_by_pmid": {
+      "42570168": "\u26a0\ufe0f Minor issues",
+      "42472621": "\u274c Significant issues",
+      "42489786": "\u26a0\ufe0f Minor issues",
+      "42584792": "\u2705 Accurate",
+      "42607278": "\u2705 Accurate",
+      "42285234": "\u26a0\ufe0f Minor issues",
+      "42487095": "\u2705 Accurate",
+      "42476554": "\u2705 Accurate",
+      "42550458": "\u2705 Accurate",
+      "42364399": "\u26a0\ufe0f Minor issues",
+      "42627454": "\u2705 Accurate",
+      "42295695": "\u2705 Accurate",
+      "42308749": "\u26a0\ufe0f Minor issues",
+      "42296796": "\u2705 Accurate",
+      "42631833": "\u26a0\ufe0f Minor issues",
+      "42446811": "\u2705 Accurate",
+      "42010230": "\u2705 Accurate",
+      "42288945": "\u2705 Accurate",
+      "42570533": "\u2705 Accurate",
+      "42414787": "\u26a0\ufe0f Minor issues"
+    },
+    "summary": {
+      "total_issues": "10 (8 Minor, 1 Moderate [within Study 2], 1 Major)",
+      "entries_requiring_revision": "2 (Study 2 requires headline correction; Study 15 requires OR correction)",
+      "entries_cleared": "18"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Polypharmacy \u2014 August 2026\n**Checked:** 2026-08-25 | **Studies reviewed:** 20\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n# Fact-Check Report\n\n### Study 1: Korea's Hospital-Based Polypharmacy Management Program Cuts Readmissions and Healthcare Costs\n**PMID:** 42570168 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Cost difference amount** \u2014 Severity: Minor\n\n- **As written:** \"incurred roughly $340 less in hospitalization costs per person\"\n- **Abstract says:** \"the intervention group incurred significantly lower hospitalization costs (USD$6400 vs USD$6740, P = 0.005)\"\n- **Problem:** The difference is $340, which matches, but the digest says \"roughly $340\" when the abstract gives an exact figure of $340.\n- **Suggested fix:** \"incurred $340 less in hospitalization costs per person\"\n\nNo other factual errors found. Framing is consistent with the abstract.\n\n---\n\n### Study 2: Pharmacist-Led Deprescribing Triples Medication Reductions in Patients Taking Many Drugs\n**PMID:** 42472621 | **Verdict:** \u274c Significant issues\n\n**Issue A. Headline misrepresents the finding** \u2014 Severity: Major\n\n- **As written:** \"Pharmacist-Led Deprescribing Triples Medication Reductions in Patients Taking Many Drugs\"\n- **Abstract says:** \"mean 2.5 vs. 1.7 per patient; mean difference 0.79\"\n- **Problem:** The headline claims deprescribing \"triples\" medication reductions, but 2.5 vs. 1.7 is approximately a 47% increase (or 1.47-fold), not a tripling. A tripling would require 5.1 reductions (3 \u00d7 1.7).\n- **Suggested fix:** \"Pharmacist-Led Deprescribing Increases Medication Reductions by Nearly 50% in Patients Taking Many Drugs\"\n\n**Issue B. Body text overstates comparison** \u2014 Severity: Moderate\n\n- **As written:** \"intervention patients had 2.5 medications reduced or stopped on average, compared with 1.7 in usual-care controls\"\n- **Abstract says:** Same figures, but context matters given the misleading headline framing.\n- **Problem:** While the numbers are accurate, presenting them directly after a \"triples\" headline reinforces the misinterpretation. The text itself is accurate but needs a headline correction.\n- **Suggested fix:** Body text is accurate; headline requires correction as noted above.\n\n---\n\n### Study 3: Diuretics, Antipsychotics, and Polypharmacy Linked to Injurious Falls in Australian Older Adults\n**PMID:** 42489786 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Slightly imprecise effect size for diuretics** \u2014 Severity: Minor\n\n- **As written:** \"diuretic use carried a nearly three-fold risk\"\n- **Abstract says:** \"diuretic use (aSHR = 2.98, 95% CI: 1.81-4.92)\"\n- **Problem:** 2.98 is very close to three-fold, so \"nearly three-fold\" is acceptable but could be more precise.\n- **Suggested fix:** \"diuretic use carried a nearly three-fold higher risk (2.98-fold)\"\n\nNo other factual errors found. Framing is consistent with the abstract.\n\n---\n\n### Study 4: Certain Sedatives and Antiepileptics Strongly Tied to Repeat Falls in Danish Seniors\n**PMID:** 42584792 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract. The hazard ratios described (ranging from about 2.5 to nearly 5) align with the abstract's reported HRs of 3.34 for benzodiazepine-related drugs, 2.48 for strong anticholinergics, and 4.78 for antiepileptics.\n\n---\n\n### Study 5: Focused Deprescribing of Specific Drug Classes Appears Feasible\u2014but Clinical Benefits Remain Uncertain\n**PMID:** 42607278 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract. The description of 27 systematic reviews, the findings regarding benzodiazepines and psychotropics, and the quality assessments all match the abstract.\n\n---\n\n### Study 6: Opioid-Benzodiazepine Co-Prescription Linked to Three-Fold Higher Frailty in Older Americans\n**PMID:** 42285234 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Age threshold difference** \u2014 Severity: Minor\n\n- **As written:** \"U.S. adults aged 50 and older\"\n- **Abstract says:** \"adults aged \u226550 years\"\n- **Problem:** No error here\u2014these are equivalent.\n\n**Issue B. Odds ratio precision** \u2014 Severity: Minor\n\n- **As written:** \"2.88 times the odds of frailty\"\n- **Abstract says:** \"odds ratio for frailty of 2.88 (95% CI 2.47-3.35)\"\n- **Problem:** The digest correctly states 2.88. However, the headline says \"Three-Fold Higher Frailty\" which is a slight overstatement of 2.88.\n- **Suggested fix:** Headline could read \"Nearly Three-Fold Higher Frailty\" for precision, though this is a minor rounding issue.\n\nNo other factual errors found. Framing is consistent with the abstract.\n\n---\n\n### Study 7: High Anticholinergic Burden Doubles Severe Treatment Toxicity Risk in Older Cancer Patients\n**PMID:** 42487095 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The OR of 1.99 for high ACB score (\u22653) and grade \u22653 toxicity is correctly reported. The framing appropriately notes the observational nature and single-center limitation.\n\n---\n\n### Study 8: Blood-Based Alzheimer's Biomarkers Show Promise\u2014but Polypharmacy and Frailty Complicate Interpretation\n**PMID:** 42476554 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest correctly identifies this as a clinical commentary/narrative review and accurately summarizes the key points about plasma p-tau217 and the factors affecting interpretation in older adults.\n\n---\n\n### Study 9: Underweight Stroke Patients on Many Medications Recover Less Function\n**PMID:** 42550458 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The sample size (1,245), median age (75), Japanese setting, and finding about polypharmacy association only in underweight patients all match the abstract.\n\n---\n\n### Study 10: Pharmacist-Led Medication Review Uncovers Drug Problems in Older Cancer Patients Before Treatment\n**PMID:** 42364399 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Mean medications rounded** \u2014 Severity: Minor\n\n- **As written:** \"Patients averaged 11.5 medications\"\n- **Abstract says:** \"taking a mean 11.5 medications (SD = 4.8)\"\n- **Problem:** Accurate\u2014no issue.\n\n**Issue B. Review time description** \u2014 Severity: Minor\n\n- **As written:** \"The average review took roughly 1.5 hours per patient\" and in caveats \"over 100 minutes per patient on average\"\n- **Abstract says:** \"mean pharmacist review time was 103.1 (SD = 60.3) minutes per patient\"\n- **Problem:** The body says \"roughly 1.5 hours\" (90 minutes) while the abstract says 103.1 minutes. The caveat correctly says \"over 100 minutes.\" The body text is slightly inaccurate.\n- **Suggested fix:** \"The average review took roughly 1 hour 43 minutes (about 103 minutes) per patient\"\n\n---\n\n### Study 11: Expert Consensus Offers Practical Guidance on Opioid Use for Chronic Pain in Older Adults\n**PMID:** 42627454 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The description correctly identifies this as a consensus review from a Portuguese multidisciplinary panel and accurately summarizes the key recommendations.\n\n---\n\n### Study 12: Community Pharmacy Frailty Screening Tool Validated in Belgian Older Adults\n**PMID:** 42295695 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The sample size (2,191), mean age (74), AUC of 0.77, and Belgian setting all match the abstract. The digest correctly notes this is external validation.\n\n---\n\n### Study 13: Fall-Risk Drugs\u2014Not Antihypertensives\u2014Drive Injurious Falls in U.S. Older Adults\n**PMID:** 42308749 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Median age discrepancy** \u2014 Severity: Minor\n\n- **As written:** \"median age 83\"\n- **Abstract says:** \"median age = 83 \u00b1 4 years\"\n- **Problem:** The abstract appears to report this as median \u00b1 something (possibly IQR or SD), written as \"83 \u00b1 4 years.\" The digest drops the variability measure, but the central estimate is correct.\n- **Suggested fix:** Could add \"(\u00b1 4 years)\" for completeness, but this is minor.\n\n**Issue B. Risk increase for other FRIDs** \u2014 Severity: Minor\n\n- **As written:** \"associated with a 35% higher risk of injurious falls\"\n- **Abstract says:** \"other FRIDs use (yes, N= 483/1273; AOR = 1.35; 95%CI: 1.03-1.76) had increased fall injuries\"\n- **Problem:** Accurate translation of OR 1.35 to \"35% higher risk.\"\n\nNo other factual errors found. Framing is consistent with the abstract.\n\n---\n\n### Study 14: Hip Strength and Diuretic Use Are Top Predictors of Injurious Falls\n**PMID:** 42296796 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The sample size (952), Australian setting, and findings about hip abductor strength and diuretic use as top predictors all match the abstract.\n\n---\n\n### Study 15: Frailty, Malnutrition Risk, and Sarcopenia Together Multiply Fall Odds\n**PMID:** 42631833 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Odds ratio for two conditions** \u2014 Severity: Minor\n\n- **As written:** \"Having any two of the three conditions more than doubled the odds of reporting a fall (adjusted odds ratio 1.94)\"\n- **Abstract says:** \"the adjusted odds of reporting a previous-year fall were higher among those with... two conditions (OR 2.22, 95% CI 1.56-3.16)\"\n- **Problem:** The digest says OR 1.94 for two conditions, but the abstract reports OR 2.22 for two conditions. The OR 1.94 in the abstract refers to \"participants with two or three conditions\" compared to \"zero or one condition.\"\n- **Suggested fix:** \"Having any two of the three conditions more than doubled the odds of reporting a fall (adjusted odds ratio 2.22)\"\n\n**Issue B. Odds ratio for three conditions** \u2014 Severity: Minor\n\n- **As written:** \"having all three nearly tripled the odds\"\n- **Abstract says:** \"three conditions (OR 2.41, 95% CI 1.34-4.34)\"\n- **Problem:** 2.41 is not \"nearly tripled\" (which would suggest close to 3.0). It's more accurately described as \"more than doubled.\"\n- **Suggested fix:** \"having all three more than doubled the odds (OR 2.41)\"\n\n---\n\n### Study 16: Older Adults with Heart Failure Receive Less Guideline-Based Therapy\u2014Even After Accounting for Kidney Function\n**PMID:** 42446811 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The sample size (1,281 older adults), German setting (MyoVasc cohort), and findings about underuse of aldosterone antagonists and beta-blockers all match the abstract.\n\n---\n\n### Study 17: Statins and Cognition in Older Adults: Current Evidence Does Not Support Stopping Therapy\n**PMID:** 42010230 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest correctly identifies this as a narrative review and accurately summarizes the key findings and the ongoing PREVENTABLE and STAREE trials.\n\n---\n\n### Study 18: App-Based Medication Reminders Plus Telehealth Improve Adherence in African American Older Adults\n**PMID:** 42288945 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The sample size (40), Houston setting, six-month duration, and key findings (medication knowledge improvement, reduction in forgetting from 74% to 44%, technology use increase from 14% to 68%) all match the abstract. Note: The abstract reports technology use increase from 13.6% to 67.6%, while the digest rounds to 14% to 68%, which is acceptable rounding.\n\n---\n\n### Study 19: Digital Twins Hold Promise for Personalized Geriatric Care\u2014but Major Hurdles Remain\n**PMID:** 42570533 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. The digest correctly identifies this as a narrative review and accurately summarizes the applications and challenges discussed.\n\n---\n\n### Study 20: ARB Blood Pressure Medications Linked to Lower Sarcopenia Rates in Hospitalized Seniors\n**PMID:** 42414787 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Slight imprecision in ARB percentages** \u2014 Severity: Minor\n\n- **As written:** \"use of angiotensin receptor blockers (ARBs) was significantly more frequent among those without sarcopenia (40% vs. 15%)\"\n- **Abstract says:** \"ARB use was more frequent in the non-sarcopenic group (40% vs. 15%; p = 0.005)\"\n- **Problem:** Accurate match.\n\nNo factual errors found. Framing is consistent with the abstract.\n\n---\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Korea's Hospital-Based Polypharmacy Management Program | \u26a0\ufe0f Minor issues | \"Roughly $340\" could be exact |\n| 2 | Pharmacist-Led Deprescribing Triples Medication Reductions | \u274c Significant issues | Headline falsely claims \"triples\" (actually ~47% increase) |\n| 3 | Diuretics, Antipsychotics, and Polypharmacy Linked to Falls | \u26a0\ufe0f Minor issues | Effect size description acceptable |\n| 4 | Certain Sedatives and Antiepileptics Tied to Falls | \u2705 Accurate | \u2014 |\n| 5 | Focused Deprescribing Appears Feasible | \u2705 Accurate | \u2014 |\n| 6 | Opioid-Benzodiazepine Co-Prescription and Frailty | \u26a0\ufe0f Minor issues | Headline rounds 2.88 to \"three-fold\" |\n| 7 | High Anticholinergic Burden and Toxicity | \u2705 Accurate | \u2014 |\n| 8 | Blood-Based Alzheimer's Biomarkers | \u2705 Accurate | \u2014 |\n| 9 | Underweight Stroke Patients and Polypharmacy | \u2705 Accurate | \u2014 |\n| 10 | Pharmacist-Led Medication Review in Cancer Patients | \u26a0\ufe0f Minor issues | Review time \"1.5 hours\" should be ~103 minutes |\n| 11 | Expert Consensus on Opioid Use | \u2705 Accurate | \u2014 |\n| 12 | Community Pharmacy Frailty Screening Tool | \u2705 Accurate | \u2014 |\n| 13 | Fall-Risk Drugs in U.S. Older Adults | \u26a0\ufe0f Minor issues | Minor formatting on age |\n| 14 | Hip Strength and Diuretic Use Predict Falls | \u2705 Accurate | \u2014 |\n| 15 | Frailty, Malnutrition, Sarcopenia and Falls | \u26a0\ufe0f Minor issues | OR for two conditions is 2.22, not 1.94 |\n| 16 | Heart Failure Therapy in Older Adults | \u2705 Accurate | \u2014 |\n| 17 | Statins and Cognition | \u2705 Accurate | \u2014 |\n| 18 | App-Based Medication Reminders | \u2705 Accurate | \u2014 |\n| 19 | Digital Twins in Geriatrics | \u2705 Accurate | \u2014 |\n| 20 | ARB Medications and Sarcopenia | \u26a0\ufe0f Minor issues | Accurate on review |\n\n**Total issues:** 10 (8 Minor, 1 Moderate [within Study 2], 1 Major)\n**Entries requiring revision:** 2 (Study 2 requires headline correction; Study 15 requires OR correction)\n**Entries cleared:** 18"
+  }
+}

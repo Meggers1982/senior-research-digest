@@ -1,18 +1,20 @@
 # Topic Memory: dementia
-_Last updated: 2026-08-21_
+_Last updated: 2026-08-27_
 
 ## Established findings
-- Lifestyle factors (physical activity, diet, sleep, cognitive engagement) consistently associated with slower cognitive decline (PMIDs 42185590, 42566156, 42518136, 42587261)
-- Socioeconomic/educational disadvantage across the lifespan amplifies dementia risk, partly via cardiovascular pathways (PMIDs 42227878, 42289977, 42538506)
-- Digital mindfulness apps reduce caregiver stress; benefits appear early and persist with use (PMIDs 42247635, 42227877, 42478935)
-- Persistent loneliness/social isolation linked to greater cognitive decline; quality and trajectory of connection matter (PMIDs 42261258, 42480060, 42478745)
+- Modifiable lifestyle factors (activity, diet, sleep, cognitive engagement) consistently slow cognitive decline; effects are cumulative (PMIDs 42185590, 42566156, 42518136, 42587261, 42645764)
+- Socioeconomic/educational disadvantage amplifies dementia risk, including genetic (APOE ε4) risk, especially in women (PMIDs 42227878, 42289977, 42538506)
+- Digital mindfulness apps reduce caregiver stress; benefits appear early and persist (PMIDs 42247635, 42227877, 42478935)
+- Persistent loneliness/isolation accelerates decline; intermittent contact with confidants is protective (PMIDs 42480060, 42478745)
+- Self-rated health predicts future dementia risk across 38 countries (PMID 42658024)
 
 ## Emerging threads
-- Blood-based multi-protein panels advancing toward clinical dementia subtyping (PMID 42477094)
-- Anticoagulant type (DOACs vs. warfarin) may differentially affect dementia risk in AF (PMID 42570194)
-- Frailty × living alone as a high-risk subgroup warranting targeted intervention (PMID 42616643)
-- Family dynamics (not just burden) as a modifiable factor in harmful caregiving behaviors (PMID 42607070)
-- Bilingualism's cognitive benefits may vary by race/ethnicity; effects are not uniform (PMID 42500984)
+- Cardiovascular/cerebrovascular disease as mediator between air pollution and dementia (PMID 42632461)
+- Frailty × living alone as high-risk subgroup (PMID 42616643)
+- Family dynamics (not patient behavior) drive harmful caregiver behaviors (PMID 42607070)
+- Antipsychotic risk awareness gaps among staff and families in care homes (PMID 42640817)
+- Frailty assessment—not blanket exclusion—advocated for new anti-amyloid therapies (PMID 42641765)
 
 ## Feature ideas already pitched
-- Aug 2026: Social structure of relationships and dementia risk—intermittent contact, family dynamics, digital substitutes (PMIDs 42616643, 42480060, 42478745, 42607070, 42606574)
+- Aug 21, 2026: Social structure of relationships and dementia risk (intermittent contact, family dynamics, digital substitutes)
+- Aug 27, 2026: Hidden upstream dementia risks (self-rated health, sensory loss, air pollution, frailty-plus-isolation)

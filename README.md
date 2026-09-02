@@ -28,7 +28,10 @@ run to a browsable dashboard.
    per-topic memory file (`topic_memory/<topic>.md`), producing a "Research
    Trends & Continuity" section plus a "Bigger Picture: Feature Pitch" if the
    batch suggests a larger story. When there is a pitch, it also suggests 3-4
-   real outlets that specific angle could go to, for pitching ideation.
+   real outlets that specific angle could go to, for pitching ideation. It
+   then goes back through the new digest's studies one at a time and adds a
+   "Story Ideas by Study" section covering every study with its own
+   pitchable angle, so nothing worth pitching gets missed.
 6. **Rebuilds the dashboard** (`build_dashboard_data.py`) — parses every
    digest + fact-check in `outputs/` into `docs/data/index.json` plus one
    file per run under `docs/data/runs/`.
@@ -49,9 +52,10 @@ default.
 `docs/data/index.json` and lets you browse **every digest ever generated**,
 not just the latest — filter by topic, search by headline/PMID/journal, and
 see each study's fact-check verdict inline. When a run includes a feature
-pitch, a "Jump to Feature Pitch" link appears in the run header and scrolls
-straight to the **Bigger Picture: Feature Pitch** block at the bottom of the
-page. Prose blocks render `**bold**` and `*italic*` from the source markdown
+pitch and/or per-study pitch ideas, matching "Jump to Feature Pitch" and
+"Jump to Story Ideas" links appear in the run header and scroll straight to
+the **Bigger Picture: Feature Pitch** and **Story Ideas by Study** blocks at
+the bottom of the page. Prose blocks render `**bold**` and `*italic*` from the source markdown
 (both on screen and in the .docx export), and the citation table gets its own
 horizontal scroll area so wide tables don't push the whole page sideways on
 phones.

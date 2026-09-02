@@ -181,7 +181,7 @@
     font-size: 0.9rem;
   }
   .section-block h4 { margin: 0 0 8px; font-size: 1rem; }
-  #feature-pitch { scroll-margin-top: calc(var(--header-h) + 12px); }
+  #feature-pitch, #pitch-ideas { scroll-margin-top: calc(var(--header-h) + 12px); }
   .jump-link {
     display: inline-block;
     margin-top: 10px;
@@ -425,9 +425,21 @@ async function renderMain() {
     </div>
   ` : "";
 
-  const jumpLinkHtml = run.feature_pitch_raw
-    ? `<a class="jump-link" href="#feature-pitch">Jump to Feature Pitch &#8595;</a>`
-    : "";
+  const pitchIdeasHtml = run.pitch_ideas_raw ? `
+    <div class="section-block" id="pitch-ideas">
+      <h4>Story Ideas by Study</h4>
+      ${renderTrendsBlock(run.pitch_ideas_raw)}
+    </div>
+  ` : "";
+
+  const jumpLinkHtml = [
+    run.feature_pitch_raw
+      ? `<a class="jump-link" href="#feature-pitch">Jump to Feature Pitch &#8595;</a>`
+      : "",
+    run.pitch_ideas_raw
+      ? `<a class="jump-link" href="#pitch-ideas">Jump to Story Ideas &#8595;</a>`
+      : "",
+  ].join("");
 
   const rawFactCheckHtml = run.fact_check && run.fact_check.raw ? `
     <details class="raw-toggle">
@@ -456,21 +468,22 @@ async function renderMain() {
     ${citationHtml}
     ${trendsHtml}
     ${pitchHtml}
+    ${pitchIdeasHtml}
     ${rawFactCheckHtml}
   `;
 
   const exportBtn = document.getElementById("export-docx-btn");
   if (exportBtn) exportBtn.addEventListener("click", () => exportRunToDocx(run));
 
-  const jumpLink = main.querySelector(".jump-link");
-  if (jumpLink) jumpLink.addEventListener("click", (e) => {
+  main.querySelectorAll(".jump-link").forEach(jumpLink => jumpLink.addEventListener("click", (e) => {
     e.preventDefault();
-    const target = document.getElementById("feature-pitch");
+    const targetId = jumpLink.getAttribute("href").slice(1);
+    const target = document.getElementById(targetId);
     if (!target) return;
     const header = document.querySelector("header");
     const offset = (header ? header.getBoundingClientRect().height : 0) + 12;
     window.scrollTo({ top: target.getBoundingClientRect().top + window.scrollY - offset, behavior: "smooth" });
-  });
+  }));
 }
 
 function mdRuns(text) {
@@ -617,6 +630,10 @@ async function exportRunToDocx(run) {
     if (run.feature_pitch_raw) {
       sections.push(new docx.Paragraph({ text: "Bigger Picture: Feature Pitch", heading: docx.HeadingLevel.HEADING_2, spacing: { before: 320, after: 80 } }));
       sections.push(...mdLiteParagraphs(run.feature_pitch_raw));
+    }
+    if (run.pitch_ideas_raw) {
+      sections.push(new docx.Paragraph({ text: "Story Ideas by Study", heading: docx.HeadingLevel.HEADING_2, spacing: { before: 320, after: 80 } }));
+      sections.push(...mdLiteParagraphs(run.pitch_ideas_raw));
     }
 
     const doc = new docx.Document({ sections: [{ properties: {}, children: sections }] });

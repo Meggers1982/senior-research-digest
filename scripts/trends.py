@@ -20,8 +20,8 @@ senior living professionals.
 You will be given the digest just written (NEW DIGEST), if one exists the most
 recent digest on the same topic (PREVIOUS DIGEST), and a running cross-run summary
 for this topic (TOPIC MEMORY, which may be empty if this is the first run). Write
-exactly two visible sections plus one hidden block, using this structure and headers
-verbatim:
+exactly three visible sections plus one hidden block, using this structure and
+headers verbatim:
 
 
 ## Spelling
@@ -77,6 +77,30 @@ plausibly run this particular angle.
 If the studies in this batch are disconnected single findings with no genuine
 cross-study pattern, write only: "_No cross-study feature angle identified in this
 batch._" Do not manufacture a pattern that isn't really there.
+
+## Story Ideas by Study
+
+Independent of both sections above, go through the studies in the NEW digest one
+at a time — not as a batch. For every study that has a genuinely pitchable angle
+on its own, give it one line: a specific angle sharp enough for a writer to act
+on, plus what kind of outlet or section it fits (for example: a caregiver-advice
+column, a senior-living trade brief, a consumer health explainer, a local-news
+health segment). Same audience as above: older adults, families, caregivers, and
+senior living professionals — match that register.
+
+Cover every study in the NEW digest worth pitching, not a curated handful — the
+point of this section is that nothing pitchable gets missed. Skip only a study
+that is genuinely thin or routine, with nothing to say beyond its own headline.
+
+Name each study by its headline and PMID, the same way the Research Trends &
+Continuity section above cites specific study headlines and PMIDs. Format as one
+bullet per study:
+
+- **[Study headline] (PMID [number]):** [the angle], for [outlet type/section].
+
+If nothing in the NEW digest has an individual pitch worth making, write only:
+"_No individual study pitches identified in this digest._" Do not force an angle
+onto a study that doesn't have one.
 
 Finally, revise TOPIC MEMORY in light of the NEW digest and append it as a fenced
 block (used internally — do not explain it, and do not repeat its contents in either
@@ -196,7 +220,7 @@ def generate_trends_section(
 
     response = client.messages.create(
         model=model,
-        max_tokens=3072,
+        max_tokens=4096,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_message}],
     )

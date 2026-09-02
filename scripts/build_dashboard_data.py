@@ -141,6 +141,7 @@ def _parse_digest_file(path: Path) -> dict:
 
     trends_raw = _parse_named_section(text, "Research Trends & Continuity")
     feature_pitch_raw = _parse_named_section(text, "Bigger Picture: Feature Pitch")
+    pitch_ideas_raw = _parse_named_section(text, "Story Ideas by Study")
 
     fact_check_path = path.with_name(path.stem + " Fact Check.md")
     fact_check = _parse_fact_check(fact_check_path)
@@ -170,6 +171,7 @@ def _parse_digest_file(path: Path) -> dict:
         ],
         "trends_raw": trends_raw,
         "feature_pitch_raw": feature_pitch_raw,
+        "pitch_ideas_raw": pitch_ideas_raw,
         "fact_check": fact_check,
     }
 

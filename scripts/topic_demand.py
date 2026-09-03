@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
@@ -33,7 +34,27 @@ DATE_WINDOW = "today 12-m"
 BATCH_SIZE = 5           # SerpAPI compares at most five terms per TIMESERIES call
 RECENT_POINTS = 8
 MIN_SIGNAL = 3.0         # below this the 0-100 index is noise, not interest
+# Google revises its most recent points upward for days after publishing, and
+# does not always flag them partial_data. Comparing a fresh tail against a
+# settled prior period made all eight measured topics read as falling. Dropping
+# the last point removes most of that bias.
+TRAILING_DROP = 1
 DEFAULT_SEEDS = ["senior health", "elderly health", "older adult health"]
+# Google's related queries drift on the substring "health": seeding "senior
+# health" returned "battery health check iphone", "ai news today" and
+# "openai news today". A candidate has to look like this beat to survive.
+AGING_SIGNAL = re.compile(
+    r"senior|elder|older adult|geriatric|aging|ageing|retire|caregiv|nursing home|"
+    r"assisted living|medicare|dementia|alzheim|parkinson|osteopo|sarcopen|arthrit|"
+    r"aphasia|hospice|palliative|incontinen|frailty|fall(s)? risk|hearing|vision|"
+    r"cognitive|memory loss|mobility",
+    re.I,
+)
+QUERY_NOISE = re.compile(
+    r"\bai\b|openai|chatgpt|iphone|android|laptop|battery|crypto|stock|"
+    r"news today|tips?$|near me",
+    re.I,
+)
 TIMEOUT = 30
 RETRIES = 2
 
@@ -76,6 +97,8 @@ def trend_from_timeline(timeline: list[dict], index: int) -> dict | None:
         extracted = series[index].get("extracted_value")
         if isinstance(extracted, (int, float)):
             values.append(float(extracted))
+    if TRAILING_DROP and len(values) > RECENT_POINTS * 2 + TRAILING_DROP:
+        values = values[:-TRAILING_DROP]
     if len(values) < RECENT_POINTS * 2:
         return None
     recent = values[-RECENT_POINTS:]
@@ -84,9 +107,21 @@ def trend_from_timeline(timeline: list[dict], index: int) -> dict | None:
     prior_mean = sum(prior) / len(prior)
     if recent_mean < MIN_SIGNAL and prior_mean < MIN_SIGNAL:
         return None
-    change = ((recent_mean - prior_mean) / prior_mean * 100) if prior_mean >= 1 else 0.0
-    return {"recent_mean": round(recent_mean, 1), "prior_mean": round(prior_mean, 1),
-            "change_pct": round(change, 1), "peak": round(max(values), 1)}
+
+    def pct(now: float, then: float) -> float:
+        # A term rising from a zero base is not an infinite rise.
+        return round((now - then) / then * 100, 1) if then >= 1 else 0.0
+
+    out = {"recent_mean": round(recent_mean, 1), "prior_mean": round(prior_mean, 1),
+           "change_pct": pct(recent_mean, prior_mean), "peak": round(max(values), 1)}
+    # Same weeks a year earlier: strips seasonality, which an 8-week-over-8-week
+    # comparison cannot separate from a real trend.
+    if len(values) >= 52:
+        year_ago = values[:RECENT_POINTS]
+        year_ago_mean = sum(year_ago) / len(year_ago)
+        out["year_ago_mean"] = round(year_ago_mean, 1)
+        out["yoy_pct"] = pct(recent_mean, year_ago_mean)
+    return out
 
 
 def measure_topics(topics: list[str]) -> dict[str, dict]:
@@ -119,6 +154,8 @@ def rising_queries(seeds: list[str], limit: int = 12) -> list[dict]:
             query = (entry.get("query") or "").strip().lower()
             if not query or query in found:
                 continue
+            if QUERY_NOISE.search(query) or not AGING_SIGNAL.search(query):
+                continue
             found[query] = {"query": query, "seed": seed,
                             "value": entry.get("value"),
                             "extracted_value": entry.get("extracted_value")}
@@ -134,16 +171,20 @@ def render(rotation: dict[str, dict], suggestions: list[dict], missing: list[str
         f"Generated: {datetime.now(UTC).isoformat()}",
         f"Google Trends, geo {GEO}, window {DATE_WINDOW}. Values are Google's relative "
         "0-100 interest index, not search counts — a large percentage rise from a low "
-        "base is still a low base.",
+        "base is still a low base. Read **vs last year** first: the 8-week change "
+        "cannot tell a seasonal dip from a real decline, and Google revises its most "
+        "recent weeks upward, so short-window comparisons skew negative.",
         "",
         "## Current rotation, by change in search interest",
         "",
-        "| Topic | Recent | Prior | Change | Peak |",
-        "| --- | ---: | ---: | ---: | ---: |",
+        "| Topic | Recent | Prior | Change | vs last year | Peak |",
+        "| --- | ---: | ---: | ---: | ---: | ---: |",
     ]
-    for topic, t in sorted(rotation.items(), key=lambda kv: kv[1]["change_pct"], reverse=True):
+    for topic, t in sorted(rotation.items(),
+                           key=lambda kv: kv[1].get("yoy_pct", kv[1]["change_pct"]), reverse=True):
+        yoy = f"{t['yoy_pct']:+.1f}%" if "yoy_pct" in t else "—"
         lines.append(f"| {topic} | {t['recent_mean']} | {t['prior_mean']} | "
-                     f"{t['change_pct']:+.1f}% | {t['peak']} |")
+                     f"{t['change_pct']:+.1f}% | {yoy} | {t['peak']} |")
     if missing:
         lines += ["", f"No usable signal for: {', '.join(missing)} — either below the "
                       f"noise floor of {MIN_SIGNAL} or too few complete data points.", ""]

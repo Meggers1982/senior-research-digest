@@ -32,15 +32,23 @@ def search_by_issns(
     max_per_batch: int = 25,
     max_total: int = 200,
     ncbi_api_key: Optional[str] = None,
+    per_batch_cap: int = 100,
 ) -> list[str]:
     """Search PubMed across a list of ISSNs and return unique PMIDs.
 
     ISSNs are batched into groups of `max_per_batch` to stay within URL limits.
     If `subject_focus` is provided it is ANDed with each batch query.
+
+    Every batch is searched, and the per-batch results (newest first) are
+    merged by fractional rank so each batch contributes in proportion to how
+    much it found, while every batch's newest hits still land near the front.
+    A straight concatenation let the first batch or two fill `max_total` on a
+    high-volume focus (e.g. dementia), so the journals later in `journals.py` —
+    including every dedicated Alzheimer's and sleep title — were never
+    represented downstream, where only the first 40 PMIDs get abstracts.
     """
     start_date, end_date = _date_range(days_back)
-    all_pmids: list[str] = []
-    seen: set[str] = set()
+    batches: list[list[str]] = []
 
     for i in range(0, len(issns), max_per_batch):
         batch = issns[i : i + max_per_batch]
@@ -57,7 +65,8 @@ def search_by_issns(
             "mindate": start_date,
             "maxdate": end_date,
             "datetype": "pdat",
-            "retmax": max_total,
+            "retmax": per_batch_cap,
+            "sort": "pub_date",
             "retmode": "json",
         }
         if ncbi_api_key:
@@ -65,14 +74,25 @@ def search_by_issns(
 
         try:
             resp = _get(f"{EUTILS_BASE}/esearch.fcgi", params)
-            batch_pmids = resp.json().get("esearchresult", {}).get("idlist", [])
-            for pmid in batch_pmids:
-                if pmid not in seen:
-                    seen.add(pmid)
-                    all_pmids.append(pmid)
+            batches.append(resp.json().get("esearchresult", {}).get("idlist", []))
         except Exception as e:
             print(f"  Warning: batch {i//max_per_batch + 1} failed: {e}")
+            batches.append([])
 
+    ranked: list[tuple[float, int, str]] = []
+    for batch_index, batch_pmids in enumerate(batches):
+        if not batch_pmids:
+            continue
+        for rank, pmid in enumerate(batch_pmids):
+            ranked.append((rank / len(batch_pmids), batch_index, pmid))
+    ranked.sort()
+
+    all_pmids: list[str] = []
+    seen: set[str] = set()
+    for _, _, pmid in ranked:
+        if pmid not in seen:
+            seen.add(pmid)
+            all_pmids.append(pmid)
         if len(all_pmids) >= max_total:
             break
 

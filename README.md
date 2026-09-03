@@ -10,9 +10,12 @@ run to a browsable dashboard.
 `.github/workflows/daily-digest.yml` runs `scripts/main.py` on a daily cron
 (09:00 UTC) via GitHub Actions. Each run:
 
-1. **Searches PubMed** (`pubmed.py`) across ~146 curated aging/gerontology
+1. **Searches PubMed** (`pubmed.py`) across ~167 curated aging/gerontology
    journals (`journals.py`) for articles from the last 90 days, optionally
-   filtered to a subject focus.
+   filtered to a subject focus. ISSNs are searched in batches of 25 and the
+   per-batch results are merged by fractional rank, so each batch is
+   represented in proportion to what it found rather than the earliest
+   batches filling the 200-PMID cap on their own.
 2. **Picks today's focus** — either a manual override, a fixed topic from
    `config/digest_config.json`, or the next topic in the daily rotation
    (`main.py`'s `DEFAULT_FOCUS_ROTATION` / `config["focus_rotation"]`).
@@ -135,7 +138,7 @@ forced this way — it only runs when the rotation lands on it.
 A focus is ANDed into the PubMed query as an exact phrase match
 (`"<focus>"[Title/Abstract]`) with no synonym or MeSH expansion, so the exact
 string decides how many articles a topic can draw from. Measured over one
-90-day window across all 146 journals:
+90-day window across the 146 journals in the list as of 2026-08-21:
 
 | Wording | Articles |
 | --- | --- |
@@ -174,6 +177,23 @@ Set these under repo Settings → Secrets and variables → Actions:
 - `ANTHROPIC_API_KEY` — required, used for digest generation, fact-checking,
   and trends synthesis.
 - `NCBI_API_KEY` — optional, raises the PubMed rate limit.
+
+### Journal list
+
+`journals.py` holds `(journal name, ISSN)` pairs — electronic ISSN where one
+exists. A wrong ISSN fails silently: PubMed returns it in `phrasesnotfound`
+and the journal contributes nothing, so check a new entry against
+`https://www.ncbi.nlm.nih.gov/nlmcatalog/journals` and confirm it returns a
+non-zero count for `<issn>[issn]` before adding it.
+
+Audited against the NLM Catalog on 2026-09-03: of the 75 currently
+MEDLINE-indexed journals under NLM's "Geriatrics" broad subject term, the only
+English-language gaps were palliative/hospice nursing titles and the
+*Alzheimer's & Dementia* companion journals. That audit added 21 journals
+(146 → 167) and corrected the Health Affairs ISSN, which PubMed had never
+recognized. Journals with no PubMed content in the last 12 months — *Journal of
+Global Ageing*, *Translational Medicine of Aging*, *Generations* — are kept in
+the list in case they resume publishing.
 
 ## Repo layout
 

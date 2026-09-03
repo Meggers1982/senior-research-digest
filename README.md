@@ -193,3 +193,18 @@ config/digest_config.json  audience and rotation settings
 .github/workflows/         daily cron (daily-digest.yml)
 .gitignore                 keeps the local Vercel CLI link dir (.vercel) untracked
 ```
+
+## Topic demand (optional)
+
+`scripts/topic_demand.py` ranks the `focus_rotation` topics by Google Trends
+search interest and lists rising related queries around "senior health" and
+"elderly health", writing `outputs/topic-demand.md`. It runs weekly, and
+**never edits `config/digest_config.json`** — topic wording drives PubMed yield
+here, so the rotation stays a manual, reviewed edit and this only informs it.
+
+Requires `SERPAPI_API_KEY`; without it the script exits cleanly and the workflow
+commits nothing. Trends values are Google's relative 0-100 index, not search
+counts, so a large percentage rise from a low base is still a low base — terms
+under a noise floor are dropped rather than reported as spikes, as are
+`partial_data` points, which cover an incomplete period and read as a crash.
+

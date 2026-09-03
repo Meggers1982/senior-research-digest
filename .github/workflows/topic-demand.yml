@@ -1,0 +1,44 @@
+name: Topic demand
+
+# Search interest moves over weeks. Weekly is often enough to inform a manual
+# rotation edit, and keeps the shared SerpAPI quota available to the other repos.
+on:
+  schedule:
+    - cron: '0 14 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: srd-topic-demand
+  cancel-in-progress: false
+
+jobs:
+  demand:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Measure topic demand
+        run: python scripts/topic_demand.py
+      - name: Commit the report
+        run: |
+          set -euo pipefail
+          # No key means no report was written; that is a supported state.
+          [ -f outputs/topic-demand.md ] || { echo "No report produced (SERPAPI_API_KEY unset?)"; exit 0; }
+          git config user.name "senior-research-digest-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add outputs/topic-demand.md outputs/topic-demand.json
+          if git diff --cached --quiet; then
+            echo "No change in topic demand"
+          else
+            git commit -m "Update topic demand report"
+            git pull --rebase --autostash origin main
+            git push origin main
+          fi

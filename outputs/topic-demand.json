@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:15:52.047788+00:00",
+  "generated_at": "2026-09-03T20:18:28.560493+00:00",
   "geo": "US",
   "no_signal": [
     "cardiovascular disease",
@@ -9,48 +9,6 @@
     "cognitive decline"
   ],
   "rising_queries": [
-    {
-      "extracted_value": 35300,
-      "query": "ai news today",
-      "seed": "senior health",
-      "value": "Breakout"
-    },
-    {
-      "extracted_value": 7150,
-      "query": "how to check laptop battery health",
-      "seed": "elderly health",
-      "value": "Breakout"
-    },
-    {
-      "extracted_value": 7050,
-      "query": "openai news today",
-      "seed": "senior health",
-      "value": "Breakout"
-    },
-    {
-      "extracted_value": 5150,
-      "query": "battery health check iphone",
-      "seed": "senior health",
-      "value": "Breakout"
-    },
-    {
-      "extracted_value": 700,
-      "query": "health news today",
-      "seed": "senior health",
-      "value": "+700%"
-    },
-    {
-      "extracted_value": 80,
-      "query": "health tips",
-      "seed": "senior health",
-      "value": "+80%"
-    },
-    {
-      "extracted_value": 80,
-      "query": "senior health tips",
-      "seed": "senior health",
-      "value": "+80%"
-    },
     {
       "extracted_value": 60,
       "query": "aphasia",
@@ -66,52 +24,52 @@
   ],
   "rotation": {
     "dementia": {
-      "change_pct": -8.2,
+      "change_pct": -8.9,
       "peak": 15.0,
-      "prior_mean": 13.8,
-      "recent_mean": 12.6
+      "prior_mean": 14.0,
+      "recent_mean": 12.8
     },
     "depression": {
-      "change_pct": -26.4,
+      "change_pct": -25.8,
       "peak": 34.0,
-      "prior_mean": 26.0,
-      "recent_mean": 19.1
+      "prior_mean": 26.6,
+      "recent_mean": 19.8
     },
     "falls": {
-      "change_pct": -1.6,
+      "change_pct": 2.4,
       "peak": 100.0,
-      "prior_mean": 91.4,
-      "recent_mean": 89.9
+      "prior_mean": 89.5,
+      "recent_mean": 91.6
     },
     "hearing loss": {
-      "change_pct": -33.1,
+      "change_pct": -29.9,
       "peak": 100.0,
-      "prior_mean": 83.8,
-      "recent_mean": 56.0
+      "prior_mean": 84.5,
+      "recent_mean": 59.2
     },
     "nutrition": {
-      "change_pct": -38.5,
+      "change_pct": -35.3,
       "peak": 79.0,
-      "prior_mean": 67.9,
-      "recent_mean": 41.8
+      "prior_mean": 68.8,
+      "recent_mean": 44.5
     },
     "polypharmacy": {
-      "change_pct": -28.6,
+      "change_pct": -25.0,
       "peak": 5.0,
       "prior_mean": 3.5,
-      "recent_mean": 2.5
+      "recent_mean": 2.6
     },
     "sleep": {
-      "change_pct": -18.9,
+      "change_pct": -17.5,
       "peak": 100.0,
-      "prior_mean": 87.5,
-      "recent_mean": 71.0
+      "prior_mean": 87.8,
+      "recent_mean": 72.4
     },
     "vision loss": {
-      "change_pct": -54.9,
+      "change_pct": -49.5,
       "peak": 48.0,
-      "prior_mean": 39.4,
-      "recent_mean": 17.8
+      "prior_mean": 39.9,
+      "recent_mean": 20.1
     }
   },
   "window": "today 12-m"

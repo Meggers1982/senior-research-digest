@@ -299,6 +299,23 @@ async function loadRun(id) {
   return run;
 }
 
+/* Display only. run.id, filenames and every sort key stay ISO — reformatting
+   those would break run ordering and the data/runs lookup.
+   Two input shapes reach here: ISO run dates and PubMed's "May 20, 2026". */
+const MONTHS = {jan:1,feb:2,mar:3,apr:4,may:5,jun:6,jul:7,aug:8,sep:9,oct:10,nov:11,dec:12};
+function fmtDate(value) {
+  const raw = (value || "").toString().trim();
+  if (!raw) return "";
+  const iso = raw.slice(0, 10).match(/^(\d{4})-(\d{2})-(\d{2})$/);
+  if (iso) return `${iso[2]}/${iso[3]}/${iso[1].slice(2)}`;
+  const long = raw.match(/^([A-Za-z]{3,9})\s+(\d{1,2}),\s*(\d{4})$/);
+  if (long) {
+    const m = MONTHS[long[1].slice(0, 3).toLowerCase()];
+    if (m) return `${String(m).padStart(2, "0")}/${long[2].padStart(2, "0")}/${long[3].slice(2)}`;
+  }
+  return raw;
+}
+
 function escapeHtml(s) {
   return (s || "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 }
@@ -322,7 +339,7 @@ function renderSidebar() {
          role="button" tabindex="0" aria-current="${r.id === state.activeId ? "true" : "false"}">
       <div class="rc-title">${escapeHtml(r.topic || "Broad")}</div>
       <div class="rc-meta">
-        <span>${escapeHtml(r.run_date || "—")}</span>
+        <span>${escapeHtml(fmtDate(r.run_date) || "—")}</span>
         <span class="badge">${r.study_count} studies</span>
         ${r.total_issues ? `<span class="badge">${escapeHtml(r.total_issues)} issues</span>` : ""}
       </div>
@@ -467,7 +484,7 @@ function renderStudy(study, factCheck) {
       <h3>${escapeHtml(String(study.number))}. ${escapeHtml(study.title)}</h3>
       <div class="study-meta">
         <span>${escapeHtml(study.journal)}</span>
-        <span>${escapeHtml(study.published)}</span>
+        <span>${escapeHtml(fmtDate(study.published))}</span>
         ${study.pmid ? `<a href="https://pubmed.ncbi.nlm.nih.gov/${escapeHtml(study.pmid)}/" target="_blank" rel="noopener">PMID ${escapeHtml(study.pmid)}</a>` : ""}
         ${study.doi ? `<span>DOI: ${escapeHtml(study.doi)}</span>` : ""}
         ${verdict ? `<span class="verdict ${verdictClass(verdict)}">${escapeHtml(verdict)}</span>` : ""}
@@ -518,7 +535,7 @@ async function renderMain() {
     <table class="citation-table">
       <thead><tr><th>PMID</th><th>Journal</th><th>Date</th><th>DOI</th></tr></thead>
       <tbody>
-        ${run.citation_table.map(c => `<tr><td>${escapeHtml(c.pmid)}</td><td>${escapeHtml(c.journal)}</td><td>${escapeHtml(c.date)}</td><td>${escapeHtml(c.doi)}</td></tr>`).join("")}
+        ${run.citation_table.map(c => `<tr><td>${escapeHtml(c.pmid)}</td><td>${escapeHtml(c.journal)}</td><td>${escapeHtml(fmtDate(c.date))}</td><td>${escapeHtml(c.doi)}</td></tr>`).join("")}
       </tbody>
     </table>
     </div>
@@ -556,7 +573,7 @@ async function renderMain() {
         <button id="export-docx-btn" class="export-btn">Export .docx</button>
       </div>
       <div class="meta-row">
-        <span>Run date: ${escapeHtml(run.run_date)}</span>
+        <span>Run date: ${escapeHtml(fmtDate(run.run_date))}</span>
         <span>Coverage: ${escapeHtml(run.coverage_window)}</span>
         <span>Journals searched: ${escapeHtml(run.journals_searched)}</span>
         <span>Articles screened: ${escapeHtml(run.articles_screened)}</span>
@@ -628,7 +645,7 @@ function docxStudyMeta(study, verdict) {
     children.push(new docx.TextRun({ text, color: "555555", size: 18 }));
   };
   if (study.journal) push(study.journal);
-  if (study.published) push(study.published);
+  if (study.published) push(fmtDate(study.published));
   if (study.pmid) {
     if (children.length) children.push(new docx.TextRun({ text: "   ·   ", color: "888888" }));
     children.push(new docx.ExternalHyperlink({
@@ -664,7 +681,7 @@ function docxCitationTable(rows) {
     })),
   });
   const bodyRows = rows.map(r => new docx.TableRow({
-    children: [r.pmid, r.journal, r.date, r.doi].map(v => new docx.TableCell({
+    children: [r.pmid, r.journal, fmtDate(r.date), r.doi].map(v => new docx.TableCell({
       children: [new docx.Paragraph(String(v || ""))],
     })),
   }));
@@ -702,7 +719,7 @@ async function exportRunToDocx(run) {
       new docx.Paragraph({ text: run.title, heading: docx.HeadingLevel.TITLE, spacing: { after: 120 } }),
       new docx.Paragraph({
         children: [
-          new docx.TextRun(`Run date: ${run.run_date || "—"}`),
+          new docx.TextRun(`Run date: ${fmtDate(run.run_date) || "—"}`),
           new docx.TextRun("    |    "), new docx.TextRun(`Coverage: ${run.coverage_window || "—"}`),
           new docx.TextRun("    |    "), new docx.TextRun(`Journals searched: ${run.journals_searched || "—"}`),
           new docx.TextRun("    |    "), new docx.TextRun(`Articles screened: ${run.articles_screened || "—"}`),

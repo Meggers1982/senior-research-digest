@@ -1,0 +1,118 @@
+{
+  "generated_at": "2026-09-03T20:15:52.047788+00:00",
+  "geo": "US",
+  "no_signal": [
+    "cardiovascular disease",
+    "palliative care",
+    "osteoporosis",
+    "sarcopenia",
+    "cognitive decline"
+  ],
+  "rising_queries": [
+    {
+      "extracted_value": 35300,
+      "query": "ai news today",
+      "seed": "senior health",
+      "value": "Breakout"
+    },
+    {
+      "extracted_value": 7150,
+      "query": "how to check laptop battery health",
+      "seed": "elderly health",
+      "value": "Breakout"
+    },
+    {
+      "extracted_value": 7050,
+      "query": "openai news today",
+      "seed": "senior health",
+      "value": "Breakout"
+    },
+    {
+      "extracted_value": 5150,
+      "query": "battery health check iphone",
+      "seed": "senior health",
+      "value": "Breakout"
+    },
+    {
+      "extracted_value": 700,
+      "query": "health news today",
+      "seed": "senior health",
+      "value": "+700%"
+    },
+    {
+      "extracted_value": 80,
+      "query": "health tips",
+      "seed": "senior health",
+      "value": "+80%"
+    },
+    {
+      "extracted_value": 80,
+      "query": "senior health tips",
+      "seed": "senior health",
+      "value": "+80%"
+    },
+    {
+      "extracted_value": 60,
+      "query": "aphasia",
+      "seed": "older adult health",
+      "value": "+60%"
+    },
+    {
+      "extracted_value": 40,
+      "query": "senior mental health",
+      "seed": "senior health",
+      "value": "+40%"
+    }
+  ],
+  "rotation": {
+    "dementia": {
+      "change_pct": -8.2,
+      "peak": 15.0,
+      "prior_mean": 13.8,
+      "recent_mean": 12.6
+    },
+    "depression": {
+      "change_pct": -26.4,
+      "peak": 34.0,
+      "prior_mean": 26.0,
+      "recent_mean": 19.1
+    },
+    "falls": {
+      "change_pct": -1.6,
+      "peak": 100.0,
+      "prior_mean": 91.4,
+      "recent_mean": 89.9
+    },
+    "hearing loss": {
+      "change_pct": -33.1,
+      "peak": 100.0,
+      "prior_mean": 83.8,
+      "recent_mean": 56.0
+    },
+    "nutrition": {
+      "change_pct": -38.5,
+      "peak": 79.0,
+      "prior_mean": 67.9,
+      "recent_mean": 41.8
+    },
+    "polypharmacy": {
+      "change_pct": -28.6,
+      "peak": 5.0,
+      "prior_mean": 3.5,
+      "recent_mean": 2.5
+    },
+    "sleep": {
+      "change_pct": -18.9,
+      "peak": 100.0,
+      "prior_mean": 87.5,
+      "recent_mean": 71.0
+    },
+    "vision loss": {
+      "change_pct": -54.9,
+      "peak": 48.0,
+      "prior_mean": 39.4,
+      "recent_mean": 17.8
+    }
+  },
+  "window": "today 12-m"
+}

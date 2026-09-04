@@ -177,6 +177,11 @@ Set these under repo Settings → Secrets and variables → Actions:
 - `ANTHROPIC_API_KEY` — required, used for digest generation, fact-checking,
   and trends synthesis.
 - `NCBI_API_KEY` — optional, raises the PubMed rate limit.
+- `SERPAPI_API_KEY` — optional, shared with `agingwire-research-intelligence`
+  and `trending-content`. Without it the weekly topic-demand report produces
+  nothing and the coverage check is skipped, so pitch suggestions keep the full
+  candidate list. Roughly 8 Google News searches per daily run plus a weekly
+  Trends batch.
 
 ### Journal list
 
@@ -205,12 +210,17 @@ scripts/
   digest_generator.py      Claude prompt + call that writes the digest
   fact_checker.py          Claude prompt + call that fact-checks the digest
   trends.py                Claude prompt + call for trends/feature-pitch + topic memory
+  outlets.py               pitch targets from the publisher registry, clinical-topic matching
+  web_coverage.py          Google News check — has the press already run these studies?
+  topic_demand.py          weekly Google Trends report on the focus rotation
   build_dashboard_data.py  parses outputs/*.md into docs/data/index.json + runs/
 outputs/                   every digest + fact-check ever generated (.md)
 topic_memory/              per-topic running memory used by trends.py
 docs/                      static dashboard (index.html + data/), deployed to Vercel
 config/digest_config.json  audience and rotation settings
-.github/workflows/         daily cron (daily-digest.yml)
+config/media/              publisher registries, exported from the AgingWire workbooks
+tests/                     outlet matching and coverage-gate tests
+.github/workflows/         daily cron (daily-digest.yml), weekly topic demand (topic-demand.yml)
 .gitignore                 keeps the local Vercel CLI link dir (.vercel) untracked
 ```
 

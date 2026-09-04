@@ -10,6 +10,8 @@ from journals import ISSNS
 from pubmed import search_by_issns, fetch_summaries, fetch_abstracts_for_pmids
 from digest_generator import generate_digest
 from fact_checker import run_fact_check
+import outlets as outlets_mod
+import web_coverage
 from trends import generate_trends_section
 from build_dashboard_data import main as rebuild_dashboard_data
 
@@ -170,12 +172,28 @@ def main() -> None:
 
     # ── Step 6: Compare against the prior digest on this topic ───────────────
     print("\nGenerating trends & continuity section...")
+    # Which studies has the consumer press already written up? The outlets it
+    # finds are excluded from the pitch suggestions below.
+    coverage = web_coverage.check_digest(web_coverage.titles_from_digest(digest_content))
+    if coverage.get("skipped_reason"):
+        print(f"Web coverage: skipped — {coverage['skipped_reason']}")
+    else:
+        already = coverage["outlets"]
+        print(f"Web coverage: checked {coverage['checked']} studies; "
+              f"{len(already)} outlet(s) already reporting"
+              + (f" ({', '.join(sorted(already)[:5])})" if already else ""))
+
+    outlet_candidates = outlets_mod.candidate_block(
+        subject_focus, exclude=coverage.get("outlets") or set()
+    )
+
     trends_section = generate_trends_section(
         subject_focus=subject_focus,
         digest_content=digest_content,
         outputs_dir=OUTPUTS_DIR,
         memory_dir=TOPIC_MEMORY_DIR,
         api_key=anthropic_api_key,
+        outlet_candidates=outlet_candidates,
     )
     digest_content = digest_content.rstrip() + "\n\n---\n\n" + trends_section + "\n"
 

@@ -68,11 +68,12 @@ without a medical dictionary. Warm but not patronizing, and never alarmist.
 **Potential outlets:** 3-4 real, currently active publications this specific pitch
 could go to, each its own bullet with a short reason tied to THIS angle (not a
 generic "they cover health topics"). Mix consumer press aimed at older adults or
-caregivers with senior-care trade press where relevant — e.g. Next Avenue, AARP
-(The Magazine or aarp.org), Being Patient, Considerable, KFF Health News, McKnight's
-Senior Living, Senior Housing News, NYT Well, Washington Post Well+Being — but
-don't limit yourself to this list, and don't name an outlet that wouldn't
-plausibly run this particular angle.
+caregivers with senior-care trade press where relevant. Prefer the candidates
+listed under CANDIDATE OUTLETS below — they come from the AgingWire publisher
+prospecting database, and the note after each is why that outlet was scored a
+good target. You are not limited to that list; name a better-fitting publication
+if you know one. Never name an outlet listed as already reporting these studies,
+and never name one that wouldn't plausibly run this particular angle.
 
 If the studies in this batch are disconnected single findings with no genuine
 cross-study pattern, write only: "_No cross-study feature angle identified in this
@@ -187,6 +188,7 @@ def generate_trends_section(
     memory_dir: Path,
     api_key: str,
     model: str = "claude-opus-4-5",
+    outlet_candidates: str = "",
 ) -> str:
     """Return markdown covering (1) how this digest's studies compare to the most
     recent prior digest on the same topic, and (2) whether this digest's own studies,
@@ -210,8 +212,13 @@ def generate_trends_section(
     )
 
     client = anthropic.Anthropic(api_key=api_key)
+    candidate_block = (
+        f"{'=' * 60}\nCANDIDATE OUTLETS:\n\n{outlet_candidates}\n\n"
+        if outlet_candidates else ""
+    )
     user_message = (
         f"Topic: {topic_label}\n\n"
+        f"{candidate_block}"
         f"{'=' * 60}\nNEW DIGEST (just written):\n\n{digest_content}\n\n"
         f"{'=' * 60}\nPREVIOUS DIGEST:\n\n{previous_block}\n\n"
         f"{'=' * 60}\nTOPIC MEMORY:\n\n{existing_memory}\n"

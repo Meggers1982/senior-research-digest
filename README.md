@@ -214,6 +214,42 @@ config/digest_config.json  audience and rotation settings
 .gitignore                 keeps the local Vercel CLI link dir (.vercel) untracked
 ```
 
+## Pitch targets from the publisher database
+
+`config/media/*.csv` is an export of the AgingWire B2B and B2C publisher
+prospecting workbooks. **The workbooks are the source of truth** —
+`agingwire-research-intelligence` holds a second export of the same files, so
+re-export to both when a workbook changes rather than editing either CSV. The
+repos stay independent; they share reference data, not a runtime dependency.
+
+`scripts/outlets.py` picks pitch targets for the run's focus and injects them
+into the feature-pitch prompt, replacing a hardcoded list of nine example
+outlets. Each candidate carries its tier and the workbook's own
+`Why It Matters / Pitch Angle` note. The prompt still allows the model to name a
+publication the registry does not have.
+
+Matching differs from AgingWire's deliberately. Its topics are the vocabulary
+outlets use ("housing", "workforce", "medicare"), so terms match directly. This
+digest's focus rotation is clinical, and no consumer publication lists
+"sarcopenia" in its coverage. Clinical topics are therefore mapped to the
+consumer subject they belong to, relevance *bands* rather than ranks — ranking on
+raw hit count put Watchlist fitness titles above Next Avenue for osteoporosis,
+and ranking on data fit alone dropped the dementia specialists — and ordering
+inside a band is by how well an outlet takes a data story.
+
+## Has the press already run it?
+
+`scripts/web_coverage.py` asks Google News whether the leading studies have
+already been written up, and every outlet it finds is excluded from the pitch
+suggestions. Pitching a story to the publication that just ran it is the one
+suggestion guaranteed to be wrong.
+
+Google ranks by topical relevance, so results are filtered on headline overlap
+with the study title — without that gate a grip-strength study matches articles
+about grip strengtheners for climbers. Requires `SERPAPI_API_KEY`; without it
+the check is skipped, the run says so, and the pitch simply keeps the full
+candidate list.
+
 ## Topic demand (optional)
 
 `scripts/topic_demand.py` ranks the `focus_rotation` topics by Google Trends

@@ -198,6 +198,16 @@ def run_fact_check(
             print(f"  WARNING: fact-check batch {index} declined ({exc}); "
                   "its studies are reported as unchecked.")
             continue
+        except ValueError as exc:
+            # complete_json raises ValueError when the answer hit max_tokens
+            # (a half-written JSON array cannot be stitched), and
+            # json.JSONDecodeError -- itself a ValueError -- when the payload
+            # will not parse. Either way this batch is unusable, but it is
+            # only one batch: letting it propagate would take the whole run
+            # down and lose the digest entirely.
+            print(f"  WARNING: fact-check batch {index} returned unusable JSON "
+                  f"({exc}); its studies are reported as unchecked.")
+            continue
         records.extend(parsed.get("studies") or [])
 
     # Keep only verdicts for PMIDs actually in this run, and only one each.

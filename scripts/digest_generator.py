@@ -173,6 +173,16 @@ def generate_digest(
         except llm.ModelDeclined as exc:
             print(f"  WARNING: batch {index} declined ({exc}); its studies are omitted.")
             continue
+        except ValueError as exc:
+            # complete_json raises ValueError when the answer hit max_tokens
+            # (a half-written JSON array cannot be stitched), and
+            # json.JSONDecodeError -- itself a ValueError -- when the payload
+            # will not parse. Either way this batch is unusable, but it is
+            # only one batch: letting it propagate would take the whole run
+            # down and lose the digest entirely.
+            print(f"  WARNING: batch {index} returned unusable JSON ({exc}); "
+                  "its studies are omitted.")
+            continue
         records.extend(parsed.get("studies") or [])
 
     # A PMID the model invented is worse than a study left out, so records are

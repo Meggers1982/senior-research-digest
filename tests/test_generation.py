@@ -121,6 +121,39 @@ class DigestBatchingTests(unittest.TestCase):
         _, _, selected, _ = self._run(abstracts, responder)
         self.assertEqual(len(selected), 12)   # the second batch survives
 
+    def test_a_truncated_batch_loses_only_its_own_studies(self):
+        """complete_json refuses to stitch half a JSON array and raises
+        ValueError. The caller has to survive that the way it survives a
+        refusal -- otherwise one oversized batch costs the whole run."""
+        abstracts = {str(40000000 + i): "x" for i in range(24)}
+        calls = {"n": 0}
+
+        def responder(kwargs):
+            calls["n"] += 1
+            if calls["n"] == 1:
+                response = Response({"studies": []})
+                response.stop_reason = "max_tokens"
+                return response
+            return Response({"studies": [study(p) for p in pmids_in(kwargs)]})
+
+        _, _, selected, _ = self._run(abstracts, responder)
+        self.assertEqual(len(selected), 12)   # the second batch survives
+
+    def test_an_unparseable_batch_loses_only_its_own_studies(self):
+        abstracts = {str(40000000 + i): "x" for i in range(24)}
+        calls = {"n": 0}
+
+        def responder(kwargs):
+            calls["n"] += 1
+            if calls["n"] == 1:
+                response = Response({"studies": []})
+                response.content = [Block("{not json")]
+                return response
+            return Response({"studies": [study(p) for p in pmids_in(kwargs)]})
+
+        _, _, selected, _ = self._run(abstracts, responder)
+        self.assertEqual(len(selected), 12)
+
     def test_no_abstracts_produces_a_digest_that_says_so(self):
         client = FakeClient(lambda kw: Response({"studies": []}))
         with mock.patch.object(digest_generator.anthropic, "Anthropic", return_value=client):
@@ -157,6 +190,22 @@ class FactCheckTests(unittest.TestCase):
                                              enumerate(pmids_in(kw), start=1)]}))
         self.assertEqual(len(client.messages.calls), 3)   # 25 / 10, rounded up
         self.assertEqual(len(records), 25)
+
+    def test_a_truncated_batch_leaves_the_other_verdicts_intact(self):
+        pmids = [str(40000000 + i) for i in range(20)]
+        calls = {"n": 0}
+
+        def responder(kwargs):
+            calls["n"] += 1
+            if calls["n"] == 1:
+                response = Response({"studies": []})
+                response.stop_reason = "max_tokens"
+                return response
+            return Response({"studies": [self._verdict(p, i) for i, p in
+                                         enumerate(pmids_in(kwargs), start=1)]})
+
+        _, _, records = self._run(pmids, responder)
+        self.assertEqual(len(records), 10)   # the second batch survives
 
     def test_a_verdict_for_an_unknown_pmid_is_discarded(self):
         _, report, records = self._run(

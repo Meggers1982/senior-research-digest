@@ -106,7 +106,8 @@ class DigestBatchingTests(unittest.TestCase):
         self.assertEqual(selected, ["40000001"])
 
     def test_a_declined_batch_loses_only_its_own_studies(self):
-        abstracts = {str(40000000 + i): "x" for i in range(24)}
+        size = digest_generator.ABSTRACTS_PER_CALL
+        abstracts = {str(40000000 + i): "x" for i in range(size * 2)}
         calls = {"n": 0}
 
         def responder(kwargs):
@@ -119,13 +120,14 @@ class DigestBatchingTests(unittest.TestCase):
             return Response({"studies": [study(p) for p in pmids_in(kwargs)]})
 
         _, _, selected, _ = self._run(abstracts, responder)
-        self.assertEqual(len(selected), 12)   # the second batch survives
+        self.assertEqual(len(selected), size)   # the second batch survives
 
     def test_a_truncated_batch_loses_only_its_own_studies(self):
         """complete_json refuses to stitch half a JSON array and raises
         ValueError. The caller has to survive that the way it survives a
         refusal -- otherwise one oversized batch costs the whole run."""
-        abstracts = {str(40000000 + i): "x" for i in range(24)}
+        size = digest_generator.ABSTRACTS_PER_CALL
+        abstracts = {str(40000000 + i): "x" for i in range(size * 2)}
         calls = {"n": 0}
 
         def responder(kwargs):
@@ -137,10 +139,11 @@ class DigestBatchingTests(unittest.TestCase):
             return Response({"studies": [study(p) for p in pmids_in(kwargs)]})
 
         _, _, selected, _ = self._run(abstracts, responder)
-        self.assertEqual(len(selected), 12)   # the second batch survives
+        self.assertEqual(len(selected), size)   # the second batch survives
 
     def test_an_unparseable_batch_loses_only_its_own_studies(self):
-        abstracts = {str(40000000 + i): "x" for i in range(24)}
+        size = digest_generator.ABSTRACTS_PER_CALL
+        abstracts = {str(40000000 + i): "x" for i in range(size * 2)}
         calls = {"n": 0}
 
         def responder(kwargs):
@@ -152,7 +155,7 @@ class DigestBatchingTests(unittest.TestCase):
             return Response({"studies": [study(p) for p in pmids_in(kwargs)]})
 
         _, _, selected, _ = self._run(abstracts, responder)
-        self.assertEqual(len(selected), 12)
+        self.assertEqual(len(selected), size)
 
     def test_no_abstracts_produces_a_digest_that_says_so(self):
         client = FakeClient(lambda kw: Response({"studies": []}))

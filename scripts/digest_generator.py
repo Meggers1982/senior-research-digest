@@ -80,7 +80,20 @@ STUDY_SCHEMA = {
 
 # A JSON response cannot be stitched back together across turns the way prose
 # could, so the input is batched to keep every answer inside one turn instead.
-ABSTRACTS_PER_CALL = 12
+# Measured against the 1,122 records in the archive on 2026-09-05 rather than
+# picked. A digest record runs a median 1,491 characters and a worst case
+# 2,101. At twelve per call that worst case is ~25 KB -- about 8,400 output
+# tokens once JSON is counted at a pessimistic 3 characters per token, which is
+# more than half the 16,000 max_tokens budget, and the other half has to cover
+# adaptive thinking. Ten fits with room: ~7,000 tokens.
+#
+# It costs nothing in calls: abstracts are capped at 40, so both 10 and 12 come
+# out at four batches for a full run.
+#
+# tests/test_batch_budget.py recomputes this from the archive, so the size
+# cannot drift past the budget as the schema grows. What no offline measurement
+# can see is the thinking spend -- that still wants one live check.
+ABSTRACTS_PER_CALL = 10
 
 
 def generate_digest(

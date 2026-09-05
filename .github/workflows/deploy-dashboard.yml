@@ -1,0 +1,59 @@
+# Publish docs/ to Vercel without running the pipeline.
+#
+# Vercel's Git integration is deliberately disconnected for this repo, so pushing
+# to main does not redeploy. Before this workflow existed the only ways to
+# publish a dashboard change were to wait for the 09:00 UTC digest or to run the
+# Vercel CLI by hand -- and the daily run spends real Anthropic and SerpAPI money
+# to regenerate a digest nobody asked for. A markup or styling change needs
+# neither.
+#
+# Run it from Actions -> "Deploy dashboard" -> Run workflow.
+name: Deploy dashboard
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-dashboard
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write   # the rebuild step may commit refreshed docs/data
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Rebuilding from the committed outputs/ means a scoring or parser change
+      # reaches the dashboard without a pipeline run. It touches no API.
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Rebuild dashboard data
+        working-directory: scripts
+        run: python build_dashboard_data.py
+
+      - name: Commit any data changes
+        run: |
+          git config user.name  "senior-living-digest-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || {
+            git commit -m "dashboard: rebuild data"
+            git push
+          }
+
+      - name: Deploy to Vercel
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_ILjarBqrMdxa47xLA4bqqQfq
+          VERCEL_PROJECT_ID: prj_wWFV5jrdnYlKq2pX3wZSVCo0sR6v
+        working-directory: docs
+        run: npx --yes vercel@latest deploy --prod --token="$VERCEL_TOKEN" --yes

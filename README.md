@@ -142,15 +142,31 @@ Three conventions worth keeping:
 the script in Node over a real run, so a `ReferenceError` fails CI rather than
 showing a blank page. It also pins the three conventions above.
 
+### Publishing it
+
+**Live at <https://docs-one-beryl.vercel.app>.** The Vercel project is called
+`docs`, not `senior-research-digest` — it was auto-named after the directory it
+was first linked from, so neither the repo name nor the project list makes the
+connection obvious.
+
 It's deployed to Vercel from this repo (private repo — GitHub Pages isn't
 available on the free plan for private repos, which is why Vercel is used
-instead of Pages). Vercel's Git integration is deliberately **disconnected**,
-so pushing to `main` does *not* redeploy. The only thing that publishes is an
-explicit `vercel deploy --prod` run from inside `docs/` (where the `.vercel`
-link file lives) — either by hand, or from the "Deploy dashboard to Vercel"
-step of `daily-digest.yml`. In practice the daily workflow run is what keeps
-the live dashboard current with `outputs/`; a manual code change to the
-dashboard needs a manual deploy to show up before then.
+instead of Pages). Vercel's Git integration is deliberately **disconnected**, so
+**pushing to `main` does *not* redeploy.** Three ways to publish:
+
+| | When to use it |
+| --- | --- |
+| Actions → **Deploy dashboard** → Run workflow | A markup, styling or scoring change. Rebuilds `docs/data` from the committed `outputs/` and deploys. Touches no API and costs nothing. |
+| Wait for the 09:00 UTC daily run | A content change — it regenerates the digest anyway. |
+| `cd docs && vercel deploy --prod` | Local, when you already have the CLI logged in. |
+
+`deploy-dashboard.yml` exists because the daily run spends real Anthropic and
+SerpAPI money to regenerate a digest, and a CSS change needs none of that.
+
+The `.vercel` link file lives in `docs/` and is gitignored, so a fresh clone has
+no project link — the CLI will ask, or you can write
+`docs/.vercel/project.json` with the `orgId` and `projectId` from
+`daily-digest.yml`.
 
 Don't reconnect Git integration without first moving the `.vercel` link to the
 repo root and setting Root Directory to `docs`. With it connected at the repo

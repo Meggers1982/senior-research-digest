@@ -149,6 +149,26 @@ def run_fact_check(
     run_date = datetime.now().strftime("%Y-%m-%d")
     month_year = datetime.now().strftime("%B %Y")
 
+    def header(reviewed: int) -> str:
+        # The header used to report the number of abstracts sent, not the number
+        # of studies actually reviewed -- 13 archived reports say "40" against
+        # ~20 verdicts. It counts what was really checked.
+        return (
+            f"# Fact-Check Report: {category_line} — {month_year}\n"
+            f"**Checked:** {run_date} | **Studies reviewed:** {reviewed}\n"
+            f"**Primary audience:** {primary_audience} | "
+            f"**Secondary audience:** {secondary_audience}\n\n"
+            "---\n\n"
+        )
+
+    # A run can legitimately select no studies: the digest prompt says returning
+    # fewer records than abstracts is expected and correct. Without this guard
+    # the batch list below evaluates to [[]] and still spends one full call
+    # asking the model to fact-check nothing.
+    if not selected_pmids:
+        print("  No studies selected; skipping fact check.")
+        return header(0) + factcheck_render.render_report([]), []
+
     # Re-fetch abstracts for every selected PMID
     print(f"  Fetching {len(selected_pmids)} abstracts for fact-check...")
     abstracts: dict[str, str] = {}
@@ -222,14 +242,4 @@ def run_fact_check(
     if missing:
         print(f"  WARNING: {len(missing)} study/studies came back with no verdict.")
 
-    # The header used to report the number of abstracts sent, not the number of
-    # studies actually reviewed -- 13 archived reports say "40" against ~20
-    # verdicts. It now counts what was really checked.
-    report_header = (
-        f"# Fact-Check Report: {category_line} — {month_year}\n"
-        f"**Checked:** {run_date} | **Studies reviewed:** {len(kept)}\n"
-        f"**Primary audience:** {primary_audience} | "
-        f"**Secondary audience:** {secondary_audience}\n\n"
-        "---\n\n"
-    )
-    return report_header + factcheck_render.render_report(kept), kept
+    return header(len(kept)) + factcheck_render.render_report(kept), kept

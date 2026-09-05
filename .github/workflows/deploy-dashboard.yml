@@ -36,9 +36,46 @@ jobs:
         with:
           python-version: "3.11"
 
+      - name: Install dependencies
+        run: pip install -r requirements.txt pytest
+
+      # This workflow exists for scoring and parser changes, which is exactly
+      # what the suite was added to catch -- and it was the one route that
+      # shipped them to production without running it.
+      - name: Run tests
+        run: python -m pytest tests/ -q
+
+      - name: Record the run count before rebuilding
+        id: before
+        run: |
+          python - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, pathlib
+          p = pathlib.Path("docs/data/index.json")
+          runs = json.loads(p.read_text())["runs"] if p.exists() else []
+          print(f"count={len(runs)}")
+          PY
+
       - name: Rebuild dashboard data
         working-directory: scripts
         run: python build_dashboard_data.py
+
+      # build_dashboard_data deletes any runs/*.json not in the freshly built
+      # set, so a parser regression that made build() return nothing would wipe
+      # the archive, publish an empty index, and report success at every step.
+      - name: Refuse to publish a collapsed archive
+        env:
+          BEFORE: ${{ steps.before.outputs.count }}
+        run: |
+          python - <<'PY'
+          import json, os, pathlib, sys
+          before = int(os.environ["BEFORE"])
+          after = len(json.loads(pathlib.Path("docs/data/index.json").read_text())["runs"])
+          print(f"runs before={before} after={after}")
+          # Runs are only ever added, so any drop is a parsing failure rather
+          # than a legitimate edit. One is tolerated for a hand-removed file.
+          if before and after < before - 1:
+              sys.exit(f"FAIL: run count fell {before} -> {after}; refusing to deploy")
+          PY
 
       - name: Commit any data changes
         run: |

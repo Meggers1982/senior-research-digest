@@ -12,6 +12,7 @@ import re
 from pathlib import Path
 
 import scoring
+from topics import normalize_topic  # noqa: F401  (re-exported for callers)
 
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUTS_DIR = REPO_ROOT / "outputs"
@@ -56,13 +57,6 @@ def is_digest(path: Path) -> bool:
     return DIGEST_TITLE_PREFIX.lower() in head.lower() and "**Run date:**" in head
 
 
-# The rotation was reworded from "fall prevention" to "falls" partway through the
-# archive, which gave the topic filter two entries covering the same beat.
-TOPIC_ALIASES = {"fall prevention": "falls"}
-
-
-def normalize_topic(topic: str) -> str:
-    return TOPIC_ALIASES.get(topic.strip().lower(), topic.strip())
 
 
 def _slugify(text: str) -> str:

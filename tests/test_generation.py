@@ -207,6 +207,14 @@ class FactCheckTests(unittest.TestCase):
         _, _, records = self._run(pmids, responder)
         self.assertEqual(len(records), 10)   # the second batch survives
 
+    def test_an_empty_selection_makes_no_api_call(self):
+        """Selecting no studies is a documented outcome. The batch list used to
+        evaluate to [[]], which still spent a full call checking nothing."""
+        client, report, records = self._run([], lambda kw: Response({"studies": []}))
+        self.assertEqual(client.messages.calls, [])
+        self.assertEqual(records, [])
+        self.assertIn("Studies reviewed:** 0", report)
+
     def test_a_verdict_for_an_unknown_pmid_is_discarded(self):
         _, report, records = self._run(
             ["40000001"],

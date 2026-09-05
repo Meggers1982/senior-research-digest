@@ -4,6 +4,7 @@ justify a standalone feature pitch, and maintain a persistent per-topic memory f
 so both of the above can draw on the topic's full history, not just the single most
 recent digest."""
 
+from topics import normalize_topic
 import re
 from datetime import datetime
 from pathlib import Path
@@ -143,7 +144,9 @@ def _find_previous_digest(
     Returns (path, file_content) for the best match, or None if no prior digest
     on this topic exists yet.
     """
-    focus_key = subject_focus.strip().lower()
+    # Both sides go through the same canonical form: a rename mid-archive must
+    # not make the run before it invisible.
+    focus_key = normalize_topic(subject_focus).lower()
     best_path: Optional[Path] = None
     best_content: str = ""
     best_date: Optional[datetime] = None
@@ -152,7 +155,7 @@ def _find_previous_digest(
         if path.name.endswith("Fact Check.md"):
             continue
         text = path.read_text(encoding="utf-8")
-        focus_field = _extract_field(text, "Focus").strip().lower()
+        focus_field = normalize_topic(_extract_field(text, "Focus")).lower()
         is_match = focus_field.startswith("broad") if not focus_key else focus_field == focus_key
         if not is_match:
             continue

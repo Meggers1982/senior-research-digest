@@ -100,9 +100,15 @@ class RunIndexTests(unittest.TestCase):
     sidebar."""
 
     def test_only_digests_become_runs(self):
+        """A run has to carry a date. It does not have to carry studies: the
+        digest prompt says selecting fewer than were sent -- including none --
+        is expected, and this assertion used to run in CI *before* the pipeline
+        step, so the day after a zero-study digest was committed it would have
+        blocked the pipeline from running again at all."""
         for run in bdd.build():
             self.assertTrue(run["run_date"], f"{run['id']} has no run date")
-            self.assertTrue(run["study_count"], f"{run['id']} has no studies")
+            self.assertEqual(run["study_count"], len(run.get("studies", [])),
+                             f"{run['id']} miscounts its studies")
 
     def test_the_topic_demand_report_is_not_a_run(self):
         self.assertNotIn("topic-demand", {r["id"] for r in bdd.build()})

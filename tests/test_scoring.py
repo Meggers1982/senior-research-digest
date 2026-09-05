@@ -71,6 +71,28 @@ class RecencyTests(unittest.TestCase):
     def test_an_ahead_of_print_cover_date_is_not_penalised(self):
         self.assertEqual(scoring.recency("November 2026", "2026-09-05"), 5)
 
+    def test_a_date_carrying_a_day_reads_as_its_real_month(self):
+        """71% of the 1,122 studies in the archive publish as "Month D, YYYY".
+        The month sat one comma away from the year, the pattern required them
+        adjacent, and every one of them fell through to a branch that reported
+        June."""
+        self.assertEqual(scoring._published_month("April 20, 2026"), (2026, 4))
+        self.assertEqual(scoring._published_month("August 2026"), (2026, 8))
+        self.assertEqual(scoring._published_month("Published online April 3rd, 2026"),
+                         (2026, 4))
+
+    def test_an_abbreviated_month_is_understood(self):
+        self.assertEqual(scoring._published_month("Apr 20, 2026"), (2026, 4))
+
+    def test_a_year_with_no_month_is_not_reported_as_june(self):
+        self.assertIsNone(scoring._published_month("2026"))
+
+    def test_a_day_dated_paper_is_not_flattered_by_a_fabricated_month(self):
+        """April read as June made a paper look two months fresher than it is,
+        which is enough to cross a recency bucket."""
+        self.assertEqual(scoring.recency("April 20, 2026", "2026-09-05"),
+                         scoring.recency("April 2026", "2026-09-05"))
+
     def test_an_unreadable_date_scores_zero_not_a_middle_value(self):
         """A date the pipeline could not read is a real gap, unlike a design it
         could not read, which merely wasn't stated."""
@@ -107,6 +129,38 @@ class BandTests(unittest.TestCase):
         self.assertEqual(scoring.score_band(0), "Background")
         seen = [scoring.score_band(v) for v in range(0, 101)]
         self.assertEqual(len(set(seen)), 4)
+
+    def test_a_study_cannot_be_a_lead_when_nobody_checked_coverage(self):
+        """story_score drops an unmeasured component from both halves of the
+        fraction, so a study can reach 100 on everything except the heaviest
+        question nobody asked. Two studies in the archive did. The number stays
+        as measured; the band does not claim more than the evidence supports."""
+        components = {"evidence_type": 5, "journal_tier": 5, "recency": 5,
+                      "sample_size": 5, "coverage_gap": None, "accuracy": None}
+        score = scoring.story_score(components)
+        self.assertEqual(score, 100)
+        self.assertEqual(scoring.score_band(score), "Lead")
+        self.assertEqual(
+            scoring.cap_band(scoring.score_band(score),
+                             scoring.UNCHECKED_COVERAGE_CEILING),
+            "Strong")
+
+    def test_the_ceiling_only_applies_when_coverage_is_unmeasured(self):
+        s = study(the_study="A randomized trial of 5,000 adults",
+                  journal="The New England Journal of Medicine",
+                  published="September 2026")
+        checked = scoring.score_study(s, "2026-09-05", coverage_state="unreported",
+                                      verdict="✅ accurate")
+        unchecked = scoring.score_study(s, "2026-09-05", coverage_state=None,
+                                        verdict="✅ accurate")
+        self.assertEqual(checked["band"], "Lead")
+        self.assertNotEqual(unchecked["band"], "Lead")
+
+    def test_capping_never_promotes(self):
+        for band in scoring.BAND_ORDER:
+            capped = scoring.cap_band(band, "Strong")
+            self.assertGreaterEqual(scoring.BAND_ORDER.index(capped),
+                                    scoring.BAND_ORDER.index(band))
 
     def test_a_score_is_always_in_range(self):
         for state in (None, "unreported", "lightly_reported", "widely_reported"):

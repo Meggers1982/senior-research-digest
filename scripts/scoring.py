@@ -40,6 +40,22 @@ def score_band(score) -> str:
     return "Background"
 
 
+# Strongest first, matching SCORE_BANDS.
+BAND_ORDER = [name for _, name in SCORE_BANDS]
+# The best a study can be called when nobody checked whether the press already
+# ran it. "Lead" is a claim that the story is open, and that is precisely the
+# thing an unchecked study has no evidence for.
+UNCHECKED_COVERAGE_CEILING = "Strong"
+
+
+def cap_band(band: str, ceiling: str) -> str:
+    """Return whichever of the two is weaker."""
+    try:
+        return band if BAND_ORDER.index(band) >= BAND_ORDER.index(ceiling) else ceiling
+    except ValueError:
+        return band
+
+
 def story_score(components: dict) -> int:
     """Weighted components on 0-5, rescaled to 0-100.
 
@@ -160,22 +176,39 @@ def journal_tier(name: str) -> tuple[int, int]:
 
 # --------------------------------------------------------------------- recency
 
-_MONTHS = {m: i for i, m in enumerate(
-    ["january", "february", "march", "april", "may", "june", "july",
-     "august", "september", "october", "november", "december"], start=1)}
+_MONTH_NAMES = ["january", "february", "march", "april", "may", "june", "july",
+                "august", "september", "october", "november", "december"]
+_MONTHS = {m: i for i, m in enumerate(_MONTH_NAMES, start=1)}
+# PubMed abbreviates as often as it spells out, and an unrecognised month is
+# indistinguishable from an unreadable date once it reaches recency().
+_MONTHS |= {m[:3]: i for i, m in enumerate(_MONTH_NAMES, start=1)}
+
+# One pattern for both shapes the archive actually contains: "August 2026" and
+# "April 20, 2026". The day is optional, and it is the reason this needs saying
+# at all -- the older pattern required the month to sit directly against the
+# year, so every date carrying a day fell past it.
+_MONTH_YEAR = re.compile(r"([a-z]+)\s+(?:\d{1,2}(?:st|nd|rd|th)?,?\s+)?(\d{4})")
 
 
 def _published_month(published: str) -> tuple[int, int] | None:
+    """(year, month), or None when the string does not carry both.
+
+    Scanning every match rather than taking the first means a leading word that
+    happens to precede a year -- "Published online 2026 ..." -- cannot shadow the
+    real month further along.
+    """
     text = (published or "").strip().lower()
-    match = re.search(r"([a-z]+)\s+(\d{4})", text)
-    if match and match.group(1) in _MONTHS:
-        return int(match.group(2)), _MONTHS[match.group(1)]
+    for match in _MONTH_YEAR.finditer(text):
+        month = _MONTHS.get(match.group(1))
+        if month:
+            return int(match.group(2)), month
     match = re.search(r"(\d{4})-(\d{2})", text)
     if match:
         return int(match.group(1)), int(match.group(2))
-    match = re.search(r"\b(\d{4})\b", text)
-    if match:
-        return int(match.group(1)), 6
+    # A bare year used to be reported as June, which is a fabricated month
+    # dressed as a measurement: "April 20, 2026" scored as though it published
+    # in June. recency() already treats an unreadable date as a real gap, so a
+    # year with no month is handed back as one.
     return None
 
 
@@ -258,9 +291,18 @@ def score_study(study: dict, run_date: str = "", coverage_state=None, verdict=No
         "accuracy": accuracy(verdict),
     }
     score = story_score(components)
+    # story_score drops an unmeasured component from both halves of the
+    # fraction, which is right -- but it means a study can reach 100 on the
+    # strength of everything except the heaviest question nobody asked. Two
+    # studies in the archive did exactly that. The number stays as measured, so
+    # the row is still reviewable; the band, which is what gets filtered and
+    # pitched on, does not claim more than the evidence supports.
+    band = score_band(score)
+    if components["coverage_gap"] is None:
+        band = cap_band(band, UNCHECKED_COVERAGE_CEILING)
     return {
         "score": score,
-        "band": score_band(score),
+        "band": band,
         "evidence_type": design,
         "sample_size": participants,
         "journal_tier": tier,

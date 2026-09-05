@@ -59,7 +59,7 @@ jobs:
         run: |
           git config user.name  "senior-living-digest-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add outputs/ topic_memory/ docs/
+          git add outputs/ topic_memory/ docs/ state/
           git diff --cached --quiet || git commit -m "digest: $(date -u +%Y-%m-%d)"
           git push
 

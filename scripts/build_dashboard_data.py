@@ -16,6 +16,8 @@ OUTPUTS_DIR = REPO_ROOT / "outputs"
 DASHBOARD_DATA_DIR = REPO_ROOT / "docs" / "data"
 DASHBOARD_INDEX_PATH = DASHBOARD_DATA_DIR / "index.json"
 DASHBOARD_RUNS_DIR = DASHBOARD_DATA_DIR / "runs"
+TOPIC_DEMAND_SRC = OUTPUTS_DIR / "topic-demand.json"
+TOPIC_DEMAND_OUT = DASHBOARD_DATA_DIR / "topic-demand.json"
 LEGACY_DATA_PATH = DASHBOARD_DATA_DIR / "digests.json"
 
 HEADER_FIELD_RE = re.compile(r"\*\*([^*:]+):\*\*\s*([^\n|]+)")
@@ -258,6 +260,25 @@ def build() -> list:
     return runs
 
 
+def copy_topic_demand() -> bool:
+    """topic_demand.py writes a real weekly report that nothing consumed --
+    it was only visible as an empty ghost run. Publish it as its own document,
+    normalising topic names so it lines up with the rotation the dashboard shows.
+    """
+    try:
+        data = json.loads(TOPIC_DEMAND_SRC.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return False
+    data["rotation"] = {
+        normalize_topic(topic): value
+        for topic, value in (data.get("rotation") or {}).items()
+    }
+    data["no_signal"] = sorted({normalize_topic(t) for t in (data.get("no_signal") or [])})
+    TOPIC_DEMAND_OUT.parent.mkdir(parents=True, exist_ok=True)
+    TOPIC_DEMAND_OUT.write_text(json.dumps(data, indent=2), encoding="utf-8")
+    return True
+
+
 def main() -> None:
     runs = build()
 
@@ -279,6 +300,7 @@ def main() -> None:
         "topics": sorted({r["topic"] for r in runs if r["topic"]}),
         "runs": [_index_entry(r) for r in runs],
     }
+    index["has_topic_demand"] = copy_topic_demand()
     DASHBOARD_INDEX_PATH.write_text(json.dumps(index, indent=2), encoding="utf-8")
 
     # Superseded by index.json + runs/; removing it stops the old whole-history

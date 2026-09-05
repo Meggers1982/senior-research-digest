@@ -174,12 +174,16 @@ def main() -> None:
     print("\nGenerating trends & continuity section...")
     # Which studies has the consumer press already written up? The outlets it
     # finds are excluded from the pitch suggestions below.
-    coverage = web_coverage.check_digest(web_coverage.titles_from_digest(digest_content))
+    coverage = web_coverage.check_digest(
+        web_coverage.studies_from_digest(digest_content),
+        days_back=days_back,
+    )
     if coverage.get("skipped_reason"):
         print(f"Web coverage: skipped — {coverage['skipped_reason']}")
     else:
         already = coverage["outlets"]
-        print(f"Web coverage: checked {coverage['checked']} studies; "
+        print(f"Web coverage: {coverage['checked']} checked, "
+              f"{coverage['cached']} from cache, {coverage['skipped']} skipped; "
               f"{len(already)} outlet(s) already reporting"
               + (f" ({', '.join(sorted(already)[:5])})" if already else ""))
 

@@ -1,11 +1,10 @@
 """Generate a senior living research digest using the Claude API."""
 
-import json
-import re
 from datetime import datetime
 
 import anthropic
 
+import digest_render
 import llm
 
 
@@ -31,56 +30,57 @@ that way — convert as you write in your own voice. Never change spelling insid
 something reproduced verbatim: journal titles (e.g. *Behaviour Research and Therapy*),
 trial, instrument and cohort names, and direct quotations keep their original form.
 
-## Entry format (use this exactly for every selected study)
+## What to return
 
-### [Number]. [Compelling, plain-language headline]
+Return one record per selected study. Field by field:
 
-**Journal:** *Name* | **Published:** Date
-**PMID:** [ID] | **DOI:** [DOI or "Not available"]
+- `headline`: compelling, plain-language, not the paper's own title
+- `journal`, `published`, `pmid`, `doi`: exactly as given in the abstract block.
+  Use "Not available" for a missing DOI. Never invent or alter a PMID.
+- `the_study`: what researchers did, who participants were (N=, age range), and
+  the key finding in plain language. 2-4 sentences.
+- `why_it_matters`: practical significance for older adults, families, or senior
+  care professionals. 1-2 sentences.
+- `story_angle_primary`: a direct, empowering angle for [PRIMARY_AUDIENCE] in
+  "you" language — what to do, consider, ask about or watch for. Do NOT imply
+  clinical action on observational data alone.
+- `story_angle_secondary`: an angle for [SECONDARY_AUDIENCE]. A different
+  framing, not the primary angle addressed to a different reader. Where a study
+  supports no real question for them, say so briefly rather than padding.
+- `caveats`: flag any that apply — small N (under 100 for quantitative studies),
+  single-center, observational design (cannot establish causation), industry
+  funding (name the funder), self-reported outcomes, population may not
+  generalize, short follow-up, no control group. "None significant" if none do.
 
-**The study:** What researchers did, who participants were (N=, age range), key
-finding in plain language. 2–4 sentences.
-
-**Why it matters:** Practical significance for older adults, families, or senior care
-professionals. 1–2 sentences.
-
-**Story angles:**
-- **To [PRIMARY_AUDIENCE]:** Direct, empowering angle using "you" language. What can
-  they do, consider, ask about, or watch for? Do NOT imply clinical action based on
-  observational data alone.
-- **About [PRIMARY_AUDIENCE]:** Angle for [SECONDARY_AUDIENCE]. May address caregiving
-  decisions, senior living policy, facility practice, or family guidance. Different
-  framing from the "to" angle — not a rewording.
-
-**Caveats:** Flag any that apply — small N (under 100 for quantitative studies),
-single-center, observational design (cannot establish causation), industry funding
-(name the funder), self-reported outcomes, population may not generalize, short
-follow-up, no control group. Write "None significant" if none apply.
-
----
-
-After all entries, write a citation table:
-
-## Citation Reference
-
-| # | PMID | Journal | Date | DOI |
-|---|------|---------|------|-----|
-[one row per entry]
-
-Do not include your own top-level title or heading (e.g. a line starting with
-"# Senior Living Research Digest") anywhere in your response — the output file
-already has this title in its header. Start directly with the first entry.
-
-Finally, append a JSON block (used internally — do not explain it):
-```json
-{"selected_pmids": ["pmid1", "pmid2"]}
-```
+Select only the studies worth writing up. Returning fewer records than there are
+abstracts is expected and correct; a weak study left out is better than a weak
+entry written up.
 """
 
-CONTINUATION_PROMPT = (
-    "Continue exactly where you left off. Do not repeat any content already "
-    "written, and do not restart from the beginning."
-)
+# One record per study, so a malformed answer is an API-level error rather than a
+# regex that quietly matches nothing.
+STUDY_SCHEMA = {
+    "type": "object",
+    "properties": {
+        "studies": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    field: {"type": "string"} for field in digest_render.STUDY_FIELDS
+                },
+                "required": list(digest_render.STUDY_FIELDS),
+                "additionalProperties": False,
+            },
+        }
+    },
+    "required": ["studies"],
+    "additionalProperties": False,
+}
+
+# A JSON response cannot be stitched back together across turns the way prose
+# could, so the input is batched to keep every answer inside one turn instead.
+ABSTRACTS_PER_CALL = 12
 
 
 def generate_digest(
@@ -91,11 +91,14 @@ def generate_digest(
     journal_count: int,
     api_key: str,
     model: str = llm.MODEL,
-) -> tuple[str, list[str]]:
-    """Generate a formatted senior living digest from PubMed abstracts.
+) -> tuple[str, list[str], list[dict]]:
+    """Generate a senior living digest from PubMed abstracts.
 
     Returns:
-        (full_digest_markdown, list_of_selected_pmids)
+        (full_digest_markdown, selected_pmids, study_records)
+
+    The markdown is rendered here from the records, not written by the model, so
+    the format the dashboard parses cannot drift out from under it.
     """
     client = anthropic.Anthropic(api_key=api_key)
 
@@ -114,7 +117,7 @@ def generate_digest(
     header = "\n".join(header_parts) + "\n\n---\n\n"
 
     if not abstracts:
-        return header + "_No articles with usable abstracts were found for this run._", []
+        return header + "_No articles with usable abstracts were found for this run._", [], []
 
     abstracts_block = "\n\n".join(
         f"--- PMID {pmid} ---\n{text}" for pmid, text in abstracts.items()
@@ -143,37 +146,45 @@ def generate_digest(
     # reprocessing it at full price on every retry. Continuation turns are small
     # and left uncached to keep the request under the API's breakpoint limit.
     system_blocks = [llm.cached(system)]
-    messages = [{"role": "user", "content": [llm.cached(user_message)]}]
-    body = llm.complete_prose(
-        client,
-        system=system_blocks,
-        messages=messages,
-        continuation_prompt=CONTINUATION_PROMPT,
-        label="digest response",
-        model=model,
-    )
 
-    # Extract selected PMIDs from the trailing JSON block (search the full
-    # accumulated text, not just the last continuation chunk)
-    selected_pmids = list(abstracts.keys())
-    json_match = re.search(r"```json\s*(\{[^`]+\})\s*```", body, re.DOTALL)
-    if json_match:
+    records = []
+    pmids = list(abstracts)
+    batches = [pmids[i:i + ABSTRACTS_PER_CALL]
+               for i in range(0, len(pmids), ABSTRACTS_PER_CALL)]
+    for index, batch in enumerate(batches, start=1):
+        block = "\n\n".join(f"--- PMID {pmid} ---\n{abstracts[pmid]}" for pmid in batch)
+        message = (
+            f"Batch {index} of {len(batches)}. Write up the newsworthy studies among "
+            f"the {len(batch)} abstracts below.\n\n"
+            f"**Primary audience:** {primary_audience}\n"
+            f"**Secondary audience:** {secondary_audience}\n"
+            + focus_line
+            + f"\n{'=' * 60}\n{block}\n{'=' * 60}"
+        )
         try:
-            data = json.loads(json_match.group(1))
-            selected_pmids = data.get("selected_pmids", selected_pmids)
-        except json.JSONDecodeError:
-            pass
-        body = body[: json_match.start()].rstrip()
+            parsed = llm.complete_json(
+                client,
+                system=system_blocks,
+                messages=[{"role": "user", "content": message}],
+                schema=STUDY_SCHEMA,
+                label=f"digest batch {index}",
+                model=model,
+            )
+        except llm.ModelDeclined as exc:
+            print(f"  WARNING: batch {index} declined ({exc}); its studies are omitted.")
+            continue
+        records.extend(parsed.get("studies") or [])
 
-    # Strip a leading H1 title line if the model included its own (belt and
-    # suspenders alongside the system prompt instruction not to) — the file
-    # header above already carries this title.
-    stripped = body.lstrip("\n")
-    first_line_end = stripped.find("\n")
-    first_line = stripped if first_line_end == -1 else stripped[:first_line_end]
-    if re.match(r"^#\s+.*Senior Living Research Digest", first_line.strip()):
-        rest = "" if first_line_end == -1 else stripped[first_line_end + 1 :]
-        rest = rest.lstrip("\n")
-        body = rest
+    # A PMID the model invented is worse than a study left out, so records are
+    # kept only where the PMID is one that was actually sent.
+    known = set(abstracts)
+    kept, dropped = [], []
+    for record in records:
+        pmid = str(record.get("pmid", "")).strip()
+        (kept if pmid in known else dropped).append(record)
+    if dropped:
+        print(f"  WARNING: dropped {len(dropped)} record(s) citing a PMID that was "
+              "not in this run.")
 
-    return header + body, selected_pmids
+    body = digest_render.render_digest(kept, primary_audience, secondary_audience)
+    return header + body, [r["pmid"] for r in kept], kept

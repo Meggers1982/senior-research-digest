@@ -85,7 +85,8 @@ def unique_output_path(base_path: Path) -> Path:
 
 
 def write_run_sidecar(digest_path: Path, coverage: dict, summaries: dict,
-                      selected_pmids: list) -> None:
+                      selected_pmids: list, study_records: list | None = None,
+                      fact_check_records: list | None = None) -> None:
     """Per-run facts that never survive the trip through markdown.
 
     The digest is prose; the coverage state and PubMed's own metadata are not.
@@ -113,6 +114,11 @@ def write_run_sidecar(digest_path: Path, coverage: dict, summaries: dict,
             for pmid, result in (coverage.get("by_pmid") or {}).items()
         },
         "pubmed": meta,
+        # The records the model actually returned. The markdown is rendered from
+        # these, so keeping them makes the render reproducible and gives a
+        # rebuild something better than a re-parse of its own output.
+        "studies": study_records or [],
+        "fact_check": fact_check_records or [],
     }
     path = digest_path.with_name(digest_path.stem + ".coverage.json")
     path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
@@ -177,7 +183,7 @@ def main() -> None:
 
     # ── Step 4: Generate digest ───────────────────────────────────────────────
     print("\nGenerating digest...")
-    digest_content, selected_pmids = generate_digest(
+    digest_content, selected_pmids, study_records = generate_digest(
         subject_focus=subject_focus,
         primary_audience=primary_audience,
         secondary_audience=secondary_audience,
@@ -194,7 +200,7 @@ def main() -> None:
 
     # ── Step 5: Run fact checker ──────────────────────────────────────────────
     print("\nRunning fact checker...")
-    fact_check_content = run_fact_check(
+    fact_check_content, fact_check_records = run_fact_check(
         digest_content=digest_content,
         selected_pmids=selected_pmids,
         ncbi_api_key=ncbi_api_key,
@@ -244,7 +250,8 @@ def main() -> None:
     # Everything the dashboard needs that cannot survive the trip through
     # markdown. Written beside the digest so a rebuild can score the run without
     # re-querying anything.
-    write_run_sidecar(digest_path, coverage, summaries, selected_pmids)
+    write_run_sidecar(digest_path, coverage, summaries, selected_pmids,
+                      study_records, fact_check_records)
 
     # ── Step 7: Rebuild dashboard data ───────────────────────────────────────
     print("\nRebuilding dashboard data...")

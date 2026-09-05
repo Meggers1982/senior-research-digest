@@ -24,7 +24,27 @@
       "why_it_matters": "This research highlights that frail older adults who live alone may be especially vulnerable to cognitive decline, suggesting this group could benefit from targeted monitoring and support.",
       "story_angle_primary": "If you're experiencing physical frailty\u2014such as weakness, slow walking, or fatigue\u2014and you live alone, staying connected with healthcare providers, family, or community programs may be particularly important for your overall brain health.",
       "story_angle_secondary": "Senior living professionals and families should consider frailty screening as part of care planning, especially for older adults living independently. Combined physical and social support programs may help address this dual vulnerability.",
-      "caveats": "Observational design (cannot establish causation); the formal interaction test was non-significant, so findings comparing living situations are exploratory and require replication; some authors report advisory relationships with pharmaceutical companies."
+      "caveats": "Observational design (cannot establish causation); the formal interaction test was non-significant, so findings comparing living situations are exploratory and require replication; some authors report advisory relationships with pharmaceutical companies.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,27 @@
       "why_it_matters": "This finding suggests that toxic family dynamics, rather than the stress of caregiving alone, may drive harmful behaviors. Interventions that address family communication and conflict could protect people with dementia.",
       "story_angle_primary": "If you're receiving care from family, open and supportive communication among all family members\u2014not just your primary caregiver\u2014may help ensure you receive the safest, most respectful care.",
       "story_angle_secondary": "Family caregiving programs should consider involving the broader family network, not just the primary caregiver. Addressing unresolved family tensions and improving communication may reduce the risk of harmful behaviors in dementia care.",
-      "caveats": "Small sample (N=99); single geographic and cultural context (Hong Kong); observational design (cannot establish causation); self-reported measures of harmful behaviors."
+      "caveats": "Small sample (N=99); single geographic and cultural context (Hong Kong); observational design (cannot establish causation); self-reported measures of harmful behaviors.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 99,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +90,27 @@
       "why_it_matters": "For caregivers who feel socially isolated, social media may offer meaningful connections that enhance their caregiving experience\u2014suggesting a practical, accessible resource for emotional support.",
       "story_angle_primary": "If you're caring for someone with dementia and feel isolated, using social media to connect with friends, family, or support groups may help you feel more supported and find more meaning in your caregiving role.",
       "story_angle_secondary": "Senior care organizations could consider promoting digital literacy and online support communities, particularly for caregivers with limited in-person social networks. Social media use could be incorporated into caregiver support programming.",
-      "caveats": "Observational design (cannot establish causation); self-reported measures; sample from Hong Kong and Mainland China may not generalize to other cultural contexts."
+      "caveats": "Observational design (cannot establish causation); self-reported measures; sample from Hong Kong and Mainland China may not generalize to other cultural contexts.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +123,28 @@
       "why_it_matters": "For older adults without cardiovascular disease, stopping statins may be a reasonable option, supporting individualized conversations between patients and physicians about the benefits and burdens of long-term medications.",
       "story_angle_primary": "If you're 75 or older and taking a statin for prevention\u2014not because you've had a heart attack or stroke\u2014this study suggests stopping may be a safe option worth discussing with your doctor, especially if you're concerned about side effects or taking many medications.",
       "story_angle_secondary": "Senior living professionals and families can encourage older adults to review their medications with physicians, particularly long-term preventive drugs. Deprescribing conversations may reduce pill burden without compromising safety for appropriate candidates.",
-      "caveats": "Open-label design (participants and doctors knew who stopped); participants with dementia were excluded, so findings may not apply to that group; results apply only to primary prevention (not those with prior cardiovascular disease); government-funded."
+      "caveats": "Open-label design (participants and doctors knew who stopped); participants with dementia were excluded, so findings may not apply to that group; results apply only to primary prevention (not those with prior cardiovascular disease); government-funded.",
+      "score": 98,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 1160,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +157,26 @@
       "why_it_matters": "Even among the oldest old, dementia risk varies by sex and race, underscoring the need for continued screening and surveillance\u2014and pointing to persistent health disparities that require attention.",
       "story_angle_primary": "If you've reached your 90s, staying engaged with healthcare and cognitive screenings remains important. Dementia risk doesn't disappear with exceptional longevity.",
       "story_angle_secondary": "Senior living providers and families should not assume that reaching very old age means dementia risk has peaked. Women and Black older adults may warrant particular attention in screening and care planning.",
-      "caveats": "Relatively short follow-up (mean 2 years); single health system population in California; some subgroups had small numbers, limiting statistical power."
+      "caveats": "Relatively short follow-up (mean 2 years); single health system population in California; some subgroups had small numbers, limiting statistical power.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 805,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +189,27 @@
       "why_it_matters": "For older adults with atrial fibrillation, newer blood thinners may offer cognitive protection beyond their known cardiovascular benefits\u2014important information for treatment decisions.",
       "story_angle_primary": "If you have atrial fibrillation and are discussing blood thinners with your doctor, ask about the potential cognitive benefits of direct oral anticoagulants compared to older medications like warfarin.",
       "story_angle_secondary": "Clinicians and families should be aware that anticoagulant choice in atrial fibrillation may have implications for dementia risk, adding another consideration to treatment discussions for older adults.",
-      "caveats": "Observational design (cannot establish causation); based on Australian population, may not generalize elsewhere; dementia identified from insurance claims, which may miss some cases."
+      "caveats": "Observational design (cannot establish causation); based on Australian population, may not generalize elsewhere; dementia identified from insurance claims, which may miss some cases.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 21600,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +222,26 @@
       "why_it_matters": "A single brain imaging measure from routine MRI could potentially help identify individuals at higher dementia risk, possibly enabling earlier intervention.",
       "story_angle_primary": "If you're having a brain MRI, ask your doctor whether measures of white matter health are available and what they might mean for your cognitive outlook.",
       "story_angle_secondary": "For clinicians and researchers, this study supports the value of advanced MRI analysis in dementia risk assessment, though it remains a research tool rather than a standard clinical test at present.",
-      "caveats": "Retrospective, single-center study; cannot establish causation; clinical utility of this measure in practice has not yet been demonstrated; sample from one hospital in Israel."
+      "caveats": "Retrospective, single-center study; cannot establish causation; clinical utility of this measure in practice has not yet been demonstrated; sample from one hospital in Israel.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 176,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +254,26 @@
       "why_it_matters": "Meal timing is a modifiable lifestyle factor. These findings suggest that regular meal patterns may be relevant for brain health, though more research is needed to confirm a causal link.",
       "story_angle_primary": "While this study cannot prove cause and effect, maintaining regular meal times\u2014including eating dinner earlier and having breakfast\u2014may support brain health alongside other healthy habits.",
       "story_angle_secondary": "Senior living communities and family caregivers can reinforce regular meal schedules, which may contribute to cognitive wellness alongside their known nutritional and social benefits.",
-      "caveats": "Observational design (cannot establish causation); meal timing was self-reported at one point in time; Japanese population may not generalize to other settings."
+      "caveats": "Observational design (cannot establish causation); meal timing was self-reported at one point in time; Japanese population may not generalize to other settings.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +286,27 @@
       "why_it_matters": "This research reinforces that physical activity, mental engagement, and diet are associated with better long-term cognitive outcomes, though more research is needed to confirm causality.",
       "story_angle_primary": "Staying physically active, engaging in mentally stimulating activities, and eating more plant-based foods are associated with better cognitive aging\u2014simple habits that may help maintain your mental sharpness over time.",
       "story_angle_secondary": "Senior living programs can emphasize walking, group exercise, cognitively enriching activities, and plant-forward nutrition as part of holistic wellness programming aimed at supporting cognitive health.",
-      "caveats": "Observational design (cannot establish causation); participants self-selected lifestyle behaviors; German cohort may not generalize to all populations."
+      "caveats": "Observational design (cannot establish causation); participants self-selected lifestyle behaviors; German cohort may not generalize to all populations.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +319,29 @@
       "why_it_matters": "Simple, everyday factors\u2014good sleep, staying active through housework, and a balanced diet\u2014may help support memory in later life.",
       "story_angle_primary": "Prioritizing restful sleep, staying active with daily tasks like housework, and balancing your protein sources between plants and animal foods may support your memory as you age.",
       "story_angle_secondary": "Senior care providers can incorporate sleep hygiene education, encourage physical activity through daily tasks, and promote balanced nutrition as part of cognitive wellness initiatives.",
-      "caveats": "Cross-sectional design (cannot establish causation); modest effect sizes; single cultural context (Chinese older adults); self-reported lifestyle measures."
+      "caveats": "Cross-sectional design (cannot establish causation); modest effect sizes; single cultural context (Chinese older adults); self-reported lifestyle measures.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "falls",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +354,27 @@
       "why_it_matters": "Well-designed lifestyle programs can help people with early memory concerns adopt healthier behaviors, though the direct impact on cognition still needs more research.",
       "story_angle_primary": "If you're worried about your memory, participating in structured lifestyle programs that offer education, practical tools, and social support may help you build healthier habits\u2014even if the direct effect on cognition is still being studied.",
       "story_angle_secondary": "Senior living and memory care programs should consider evidence-based interventions that address capability, opportunity, and motivation together. Tailored, supportive approaches are more likely to succeed than generic advice.",
-      "caveats": "Few studies recorded ethnicity or socioeconomic status, limiting generalizability; certainty of evidence for cognitive outcomes was low; authors were involved in one included study."
+      "caveats": "Few studies recorded ethnicity or socioeconomic status, limiting generalizability; certainty of evidence for cognitive outcomes was low; authors were involved in one included study.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +387,26 @@
       "why_it_matters": "Clearer, shared definitions of dementia awareness can help public health campaigns and community programs become more consistent and effective.",
       "story_angle_primary": "When you encounter dementia awareness campaigns, know that awareness goes beyond facts\u2014it includes attitudes, emotional responses, and actions. Programs that address all these dimensions may be most helpful.",
       "story_angle_secondary": "Senior living professionals and community organizations designing dementia education should consider the multiple dimensions of awareness\u2014cognitive, emotional, social, and behavioral\u2014to maximize impact.",
-      "caveats": "Review focused on campaign descriptions, not effectiveness; heterogeneous study designs limited comparisons; proposed model requires further validation."
+      "caveats": "Review focused on campaign descriptions, not effectiveness; heterogeneous study designs limited comparisons; proposed model requires further validation.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +419,26 @@
       "why_it_matters": "Understanding how older adults interpret and cope with memory concerns can help shape supportive, non-stigmatizing interventions that address emotional and social dimensions\u2014not just cognitive symptoms.",
       "story_angle_primary": "If you notice memory changes, know that worry and frustration are common\u2014but so are effective coping strategies like staying mentally active and using memory aids. Media stereotypes don't define your experience.",
       "story_angle_secondary": "Programs for people with early memory concerns should address fears, ageism, and emotional wellbeing, not just cognitive training. Group-based and metacognitive approaches may help counter stigma and isolation.",
-      "caveats": "Small qualitative sample (N=20); UK population may not generalize; self-reported experiences subject to recall and social desirability bias."
+      "caveats": "Small qualitative sample (N=20); UK population may not generalize; self-reported experiences subject to recall and social desirability bias.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 20,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +451,27 @@
       "why_it_matters": "Maintaining healthy habits and strong emotional and social connections may benefit both brain and body in very old age, though the biological pathways remain complex.",
       "story_angle_primary": "Staying active, eating well, and nurturing close relationships may support your health into your 80s and beyond\u2014reinforcing the value of everyday habits and connections.",
       "story_angle_secondary": "Senior living programs should foster not just physical health, but also emotional resilience and social engagement, which appear to have independent benefits for healthy aging.",
-      "caveats": "Cross-sectional design (cannot establish causation); Italian cohort may not generalize; biomarker-outcome relationships were not statistically mediated."
+      "caveats": "Cross-sectional design (cannot establish causation); Italian cohort may not generalize; biomarker-outcome relationships were not statistically mediated.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +484,28 @@
       "why_it_matters": "Education and mental health may modify genetic dementia risk, suggesting that social and psychological interventions could help mitigate inherited vulnerability\u2014particularly for women.",
       "story_angle_primary": "Even if you carry genetic risk for dementia, maintaining mental health, managing sleep, and staying mentally engaged may help reduce your overall risk.",
       "story_angle_secondary": "Public health efforts to address educational disparities, depression, and sleep disorders may be especially important for women and those with genetic susceptibility to dementia.",
-      "caveats": "Observational design (cannot establish causation); UK Biobank participants are predominantly White and healthier than the general population; interaction effects are exploratory."
+      "caveats": "Observational design (cannot establish causation); UK Biobank participants are predominantly White and healthier than the general population; interaction effects are exploratory.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +518,27 @@
       "why_it_matters": "Long-term patterns of social disconnection\u2014not just single-point measures\u2014appear to be important for brain health, underscoring the need for sustained interventions.",
       "story_angle_primary": "Staying socially connected over time, not just occasionally, may help protect your memory and thinking. Addressing loneliness early may be especially important.",
       "story_angle_secondary": "Senior living professionals and families should focus on sustained social engagement rather than one-time events. Ongoing monitoring for isolation and depression can help identify those at risk.",
-      "caveats": "Review of observational studies (cannot establish causation); heterogeneity in how studies measured social isolation and loneliness; publication bias possible."
+      "caveats": "Review of observational studies (cannot establish causation); heterogeneity in how studies measured social isolation and loneliness; publication bias possible.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +551,27 @@
       "why_it_matters": "Digital mindfulness tools offer a flexible, accessible way for dementia caregivers to build stress-management skills, with benefits appearing early and lasting with continued use.",
       "story_angle_primary": "If you're caring for someone with dementia, using a mindfulness app for just a few minutes each day may help reduce your stress\u2014especially if you start when stress is high.",
       "story_angle_secondary": "Caregiver support programs can recommend digital mindfulness apps as a low-cost, accessible complement to other resources, emphasizing that early and consistent use may maximize benefits.",
-      "caveats": "Secondary analysis of a small feasibility trial (N=46); no control group for these analyses; self-reported outcomes; one author is affiliated with the app developer."
+      "caveats": "Secondary analysis of a small feasibility trial (N=46); no control group for these analyses; self-reported outcomes; one author is affiliated with the app developer.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": 46,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +584,26 @@
       "why_it_matters": "Maintaining a circle of people with whom you stay in periodic touch may be more important for brain health than sheer network size or constant daily contact.",
       "story_angle_primary": "You don't have to talk to everyone every day\u2014staying in touch with friends and family on a weekly or monthly basis may help support your thinking and memory.",
       "story_angle_secondary": "Senior living and community programs can encourage older adults to maintain a broad network of periodic contacts, not just close daily relationships. Strategies to strengthen intermittent connections may benefit cognitive health.",
-      "caveats": "Observational design (cannot establish causation); intermittent contacts were self-reported; U.S. sample may not generalize to other cultures."
+      "caveats": "Observational design (cannot establish causation); intermittent contacts were self-reported; U.S. sample may not generalize to other cultures.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 1820,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +616,26 @@
       "why_it_matters": "Simple, at-home video games could enable ongoing monitoring of cognitive health in people with Parkinson's, potentially catching changes earlier than periodic clinic visits.",
       "story_angle_primary": "If you have Parkinson's disease, home-based brain games may someday help track your cognitive health between doctor visits\u2014though this technology is still being developed.",
       "story_angle_secondary": "Clinicians and senior living staff should watch for emerging digital tools that can supplement traditional cognitive assessments, particularly for people with Parkinson's and related conditions.",
-      "caveats": "Relatively small sample sizes; cross-sectional design (cannot establish causation); technology still in research phase; one author is affiliated with the platform developer."
+      "caveats": "Relatively small sample sizes; cross-sectional design (cannot establish causation); technology still in research phase; one author is affiliated with the platform developer.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +648,27 @@
       "why_it_matters": "A blood test that helps differentiate dementia types could streamline diagnosis, reduce the need for invasive or expensive tests, and guide appropriate treatment.",
       "story_angle_primary": "In the future, a simple blood test may help doctors determine what type of dementia you or a loved one has, making diagnosis faster and less burdensome.",
       "story_angle_secondary": "Senior living and healthcare professionals should be aware that blood-based dementia biomarkers are advancing rapidly and may soon change clinical practice.",
-      "caveats": "Validation in independent cohorts strengthens findings, but clinical implementation will require further testing; some authors have industry relationships."
+      "caveats": "Validation in independent cohorts strengthens findings, but clinical implementation will require further testing; some authors have industry relationships.",
+      "score": 91,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 1300,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +681,26 @@
       "why_it_matters": "A dementia prevention app designed with accessibility and diversity in mind can engage older adults across backgrounds, supporting broader public health efforts.",
       "story_angle_primary": "Digital brain health apps can be user-friendly and helpful, especially when they offer personal support and stories from others like you. If you're interested in reducing dementia risk, such apps may be worth exploring.",
       "story_angle_secondary": "Senior living and public health programs should consider digital interventions designed with inclusivity in mind, incorporating human coaching and peer narratives to maximize engagement.",
-      "caveats": "Very small pilot sample (N=10); one-week use period; longer-term engagement and effectiveness not yet tested."
+      "caveats": "Very small pilot sample (N=10); one-week use period; longer-term engagement and effectiveness not yet tested.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 10,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +713,26 @@
       "why_it_matters": "Daily digital symptom tracking can be integrated into dementia care, providing real-time data to inform care decisions\u2014though organizational support is essential.",
       "story_angle_primary": "If you or a loved one lives in a care facility, digital symptom tracking could help staff notice changes in behavior or mood sooner and respond more quickly.",
       "story_angle_secondary": "Senior living administrators should consider implementing daily digital symptom monitoring, with attention to organizational routines and staff training to ensure sustainability.",
-      "caveats": "Small pilot (4 units, 8 residents); Swedish context may not generalize; staff adherence varied; authors developed the tool."
+      "caveats": "Small pilot (4 units, 8 residents); Swedish context may not generalize; staff adherence varied; authors developed the tool.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 23,
@@ -310,7 +745,26 @@
       "why_it_matters": "Bilingualism may offer some protection against memory decline, but its effects differ by cultural and ethnic context, underscoring the need for inclusive research.",
       "story_angle_primary": "If you speak more than one language, continuing to use both may help maintain your memory over time\u2014though the benefits may depend on your background and experiences.",
       "story_angle_secondary": "Researchers and clinicians should consider cultural context when evaluating the cognitive effects of bilingualism. One-size-fits-all conclusions may not apply.",
-      "caveats": "Observational design (cannot establish causation); self-reported bilingualism; cross-sectional and longitudinal findings differ; diverse U.S. sample may not generalize elsewhere."
+      "caveats": "Observational design (cannot establish causation); self-reported bilingualism; cross-sectional and longitudinal findings differ; diverse U.S. sample may not generalize elsewhere.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 24,
@@ -323,7 +777,27 @@
       "why_it_matters": "Time-restricted eating may influence brain blood vessel health through circulating factors, suggesting a possible mechanism by which this dietary pattern could protect against cognitive decline\u2014though this remains theoretical.",
       "story_angle_primary": "Time-restricted eating\u2014limiting when you eat each day\u2014may have effects on your blood vessels and brain that go beyond weight management, though more research is needed to confirm health benefits.",
       "story_angle_secondary": "Researchers and clinicians interested in dietary interventions for brain health should watch for emerging evidence on time-restricted eating, which may act through novel biological pathways.",
-      "caveats": "Laboratory study using cells, not people; cannot establish clinical benefit in humans; small sample; mechanism is theoretical."
+      "caveats": "Laboratory study using cells, not people; cannot establish clinical benefit in humans; small sample; mechanism is theoretical.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 25,
@@ -336,7 +810,27 @@
       "why_it_matters": "Premature job loss is common for people diagnosed with dementia before age 65. This practical resource aims to help them stay in the workforce longer, supporting dignity, identity, and financial security.",
       "story_angle_primary": "If you or someone you know is diagnosed with dementia while still working, resources like the WorkDEM Compass can help navigate conversations with employers and explore options for staying on the job.",
       "story_angle_secondary": "HR professionals, occupational health teams, and senior care organizations should consider tools like the WorkDEM Compass to support employees with young-onset dementia and promote inclusive workplaces.",
-      "caveats": "Tool developed in the Netherlands; feasibility and impact not yet formally evaluated; generalizability to other countries and workplaces unknown."
+      "caveats": "Tool developed in the Netherlands; feasibility and impact not yet formally evaluated; generalizability to other countries and workplaces unknown.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 26,
@@ -349,7 +843,28 @@
       "why_it_matters": "Nutritional problems in frontotemporal dementia may stem from depression and emotional factors, not just changes in eating behavior, suggesting that mental health screening and support could help.",
       "story_angle_primary": "If you have frontotemporal dementia and are losing weight or eating poorly, addressing depression and emotional wellbeing\u2014not just eating habits\u2014may help improve your nutrition.",
       "story_angle_secondary": "Clinicians and caregivers should screen for depression and emotional distress in people with frontotemporal dementia who have nutritional problems, rather than attributing them solely to behavioral symptoms.",
-      "caveats": "Retrospective, cross-sectional design (cannot establish causation); single-center Turkish sample; relatively small sample (N=68)."
+      "caveats": "Retrospective, cross-sectional design (cannot establish causation); single-center Turkish sample; relatively small sample (N=68).",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 68,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "depression",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 27,
@@ -362,7 +877,26 @@
       "why_it_matters": "This suggests that the same intervention may have different biological effects depending on how advanced cognitive decline is, with implications for personalized treatment.",
       "story_angle_primary": "If you have mild cognitive impairment, cognitive training may help\u2014but the effects could depend on where you are in the progression. Early intervention may be especially beneficial.",
       "story_angle_secondary": "Clinicians and researchers should consider disease stage when evaluating or recommending cognitive interventions, as effects may not be uniform across all patients.",
-      "caveats": "Small sample (N=29); single-arm design (no control group); short follow-up; one author is affiliated with the training platform developer."
+      "caveats": "Small sample (N=29); single-arm design (no control group); short follow-up; one author is affiliated with the training platform developer.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 29,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 28,
@@ -375,7 +909,26 @@
       "why_it_matters": "Prebiotic fiber may have selective effects on mood in older adults, though cognitive and inflammatory benefits were not observed in this small trial.",
       "story_angle_primary": "Adding fiber to your diet might help with mood, though this study found no clear benefit for memory or inflammation. Fiber remains important for overall health.",
       "story_angle_secondary": "Nutrition programs for seniors may consider fiber's potential mood benefits, but should not expect cognitive improvements based on this evidence alone.",
-      "caveats": "Small sample (N=53); 12-week intervention may be too short for cognitive effects; one author is affiliated with the fiber product company."
+      "caveats": "Small sample (N=53); 12-week intervention may be too short for cognitive effects; one author is affiliated with the fiber product company.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 53,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 29,
@@ -388,7 +941,27 @@
       "why_it_matters": "Mexico faces a growing dementia burden, with persistent disparities by sex and region, underscoring the need for targeted prevention and care strategies.",
       "story_angle_primary": "If you live in Mexico, know that dementia remains a major health concern\u2014especially for women and in underserved regions. Staying engaged with healthcare and risk reduction efforts is important.",
       "story_angle_secondary": "Policymakers and senior care organizations in Mexico should prioritize dementia prevention, early diagnosis, and care infrastructure, with attention to regional and sex-based inequalities.",
-      "caveats": "Based on modeled estimates, not direct measurement; regional data may be less reliable; observational, cannot establish causation."
+      "caveats": "Based on modeled estimates, not direct measurement; regional data may be less reliable; observational, cannot establish causation.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 1990,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 30,
@@ -401,7 +974,27 @@
       "why_it_matters": "Understanding how bilingualism protects the brain may inform strategies to build cognitive resilience in all older adults, not just those who speak multiple languages.",
       "story_angle_primary": "If you're bilingual, continuing to use both languages may help your brain adapt and stay resilient against decline. If you're not, other forms of cognitive challenge may offer similar benefits.",
       "story_angle_secondary": "Senior living and brain health programs can highlight the value of cognitively demanding activities\u2014including language learning\u2014as a way to build resilience against dementia.",
-      "caveats": "Narrative review synthesizing diverse evidence; proposed mechanisms are theoretical and require further testing; not all bilingual experiences are equivalent."
+      "caveats": "Narrative review synthesizing diverse evidence; proposed mechanisms are theoretical and require further testing; not all bilingual experiences are equivalent.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "dementia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

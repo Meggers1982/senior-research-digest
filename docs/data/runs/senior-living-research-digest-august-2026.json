@@ -24,7 +24,27 @@
       "why_it_matters": "This study offers rare, decades-long evidence that the mental health consequences of early adversity don't simply fade\u2014they can accumulate and shape physical and cognitive health well into older age.",
       "story_angle_primary": "If you've carried depression or low mood for much of your adult life, this research underscores how important it is to seek treatment and support\u2014not just for emotional well-being, but for your physical health in the years ahead.",
       "story_angle_secondary": "For families and caregivers, understanding that a loved one's current health challenges may have roots in long-ago experiences can foster empathy and encourage ongoing attention to mental health care alongside physical health management.",
-      "caveats": "Self-reported outcomes; single cohort may not generalize to all populations; observational design (cannot establish causation)."
+      "caveats": "Self-reported outcomes; single cohort may not generalize to all populations; observational design (cannot establish causation).",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 561,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,26 @@
       "why_it_matters": "The findings highlight that older adults managing multiple chronic conditions, particularly those including arthritis, may benefit from enhanced depression screening and mental health support.",
       "story_angle_primary": "If you're living with arthritis alongside other chronic conditions, be proactive about discussing your emotional well-being with your healthcare team\u2014not just your physical symptoms.",
       "story_angle_secondary": "Senior living communities and primary care providers should consider integrating mental health screenings for residents managing complex chronic disease profiles, especially those with arthritis.",
-      "caveats": "Observational design (cannot establish causation); self-reported chronic conditions and depressive symptoms."
+      "caveats": "Observational design (cannot establish causation); self-reported chronic conditions and depressive symptoms.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 9004,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +89,24 @@
       "why_it_matters": "The findings suggest that metabolic health, particularly insulin resistance, may be linked to prostate health in aging men\u2014a potentially modifiable risk factor.",
       "story_angle_primary": "If you've been told you have insulin resistance or prediabetes, this research adds another reason to work with your doctor on improving metabolic health\u2014it may be connected to prostate symptoms as well.",
       "story_angle_secondary": "Clinicians caring for older men with BPH may want to consider screening for metabolic conditions; lifestyle interventions targeting insulin sensitivity could have broader benefits.",
-      "caveats": "Observational design (cannot establish causation); cross-sectional data; eGDR is an estimated, not directly measured, value."
+      "caveats": "Observational design (cannot establish causation); cross-sectional data; eGDR is an estimated, not directly measured, value.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 4382,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +119,28 @@
       "why_it_matters": "As new Alzheimer's drugs become available, decisions about eligibility will affect millions of older adults. This perspective urges clinicians to avoid blanket exclusions based on frailty alone.",
       "story_angle_primary": "If you or a loved one is living with Alzheimer's and some degree of frailty, don't assume new treatments are out of reach\u2014ask your doctor whether a comprehensive assessment might make you a candidate.",
       "story_angle_secondary": "Families and senior living professionals should advocate for individualized evaluations for new Alzheimer's therapies, rather than accepting frailty as an automatic disqualifier.",
-      "caveats": "Viewpoint/opinion article, not a clinical trial; no new patient data presented."
+      "caveats": "Viewpoint/opinion article, not a clinical trial; no new patient data presented.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +153,26 @@
       "why_it_matters": "The study suggests that while early-life disadvantage leaves lasting marks on brain health, adult circumstances\u2014including education, income, and occupation\u2014may help buffer some of these effects.",
       "story_angle_primary": "Even if your early life was challenging, continuing to engage in mentally stimulating activities and maintaining social connections may help support your cognitive health as you age.",
       "story_angle_secondary": "Policies and programs that improve socioeconomic resources for older adults\u2014such as access to education, healthcare, and housing stability\u2014may help reduce cognitive health disparities rooted in early-life conditions.",
-      "caveats": "Observational design (cannot establish causation); UK-based sample may not generalize to all populations; birth weight is a proxy for early-life conditions."
+      "caveats": "Observational design (cannot establish causation); UK-based sample may not generalize to all populations; birth weight is a proxy for early-life conditions.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 35105,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +185,26 @@
       "why_it_matters": "The findings highlight that how you engage mentally during exercise\u2014not just the physical activity itself\u2014may matter for emotional well-being in later life.",
       "story_angle_primary": "When you exercise, try paying attention to your body and breath rather than letting your mind wander. This mindful approach may enhance the mental health benefits of physical activity.",
       "story_angle_secondary": "Activity programs in senior living communities could incorporate brief mindfulness prompts or guided attention exercises to help residents get more out of their movement routines.",
-      "caveats": "Cross-sectional design (cannot establish causation); self-reported measures; single region in China may not generalize."
+      "caveats": "Cross-sectional design (cannot establish causation); self-reported measures; single region in China may not generalize.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 450,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +217,27 @@
       "why_it_matters": "For older adults who live alone, television may provide more than entertainment\u2014it can serve as a source of emotional regulation, continuity, and connection, even when in-person contact is limited.",
       "story_angle_primary": "If you live alone, it's okay to acknowledge that TV shows and familiar characters can be a source of comfort. This doesn't replace human connection, but it can be a meaningful part of your daily emotional life.",
       "story_angle_secondary": "Caregivers and senior living staff should recognize that television viewing may serve important emotional functions for isolated older adults\u2014dismissing it as \"just watching TV\" overlooks its role in well-being.",
-      "caveats": "Small, qualitative sample; findings from one region of India may not generalize; no quantitative outcome measures."
+      "caveats": "Small, qualitative sample; findings from one region of India may not generalize; no quantitative outcome measures.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +250,28 @@
       "why_it_matters": "Risperidone carries serious side effects, yet those closest to residents may not be told what to watch for. Better communication and education could help protect vulnerable older adults.",
       "story_angle_primary": "If you or a loved one is prescribed risperidone for dementia-related agitation, ask the prescribing doctor or pharmacist to clearly explain the potential risks and what warning signs to watch for.",
       "story_angle_secondary": "Senior living staff and families should request clear guidance on monitoring for side effects when antipsychotics are prescribed, and care homes should develop accessible protocols for ongoing review.",
-      "caveats": "Qualitative study; UK-based; small sample size; no quantitative outcome data."
+      "caveats": "Qualitative study; UK-based; small sample size; no quantitative outcome data.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +284,26 @@
       "why_it_matters": "Delirium after surgery is distressing and associated with worse outcomes. A simple risk-scoring tool could help anesthesiologists and surgeons take extra precautions for vulnerable patients.",
       "story_angle_primary": "If you're scheduled for prostate surgery, ask your care team what steps they take to prevent delirium\u2014especially if you have other health conditions or have experienced confusion after anesthesia before.",
       "story_angle_secondary": "Families should be informed about delirium risk before surgery and know what signs to watch for in the recovery period. Surgical teams may benefit from using validated risk tools to guide prevention efforts.",
-      "caveats": "Single-center, retrospective design; requires prospective external validation before widespread use."
+      "caveats": "Single-center, retrospective design; requires prospective external validation before widespread use.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 1166,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +316,26 @@
       "why_it_matters": "A simple blood test ratio may help surgeons identify which older patients are at higher risk for complications and prolonged recovery, allowing for more tailored care.",
       "story_angle_primary": "If you or a loved one is facing emergency surgery for appendicitis, ask the surgical team about inflammation markers and what they suggest about expected recovery.",
       "story_angle_secondary": "Preoperative risk stratification using readily available lab values could help hospitals allocate resources and prepare families for longer recovery periods when needed.",
-      "caveats": "Single-center, retrospective design; findings may not generalize to all surgical settings."
+      "caveats": "Single-center, retrospective design; findings may not generalize to all surgical settings.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 327,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +348,24 @@
       "why_it_matters": "The concept of \"biological age\" is moving from research labs toward the clinic. If validated and implemented thoughtfully, it could help personalize longevity strategies\u2014but significant challenges remain.",
       "story_angle_primary": "You may soon hear more about \"biological age\" tests from your doctor or in wellness settings. Understanding what these measures can and cannot tell you will help you make informed decisions about your health.",
       "story_angle_secondary": "Senior living and healthcare organizations should stay informed about emerging biological aging assessments, while remaining cautious about adopting unvalidated tests or interventions.",
-      "caveats": "Review/framework article; no new patient data; many proposed measures are not yet validated for clinical use."
+      "caveats": "Review/framework article; no new patient data; many proposed measures are not yet validated for clinical use.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +378,27 @@
       "why_it_matters": "Integrating nutrition assessment into cancer care, especially for patients with multiple chronic conditions, may help identify those at highest risk and guide supportive interventions.",
       "story_angle_primary": "If you or a loved one is being treated for cancer, ask about a nutritional assessment\u2014especially if other chronic conditions are present. Addressing malnutrition may improve treatment tolerance and outcomes.",
       "story_angle_secondary": "Oncology teams and senior living professionals should routinely screen for malnutrition among cancer patients, particularly those with multiple comorbidities, and refer for dietitian support when indicated.",
-      "caveats": "Observational design (cannot establish causation); malnutrition and comorbidity burden assessed at one time point."
+      "caveats": "Observational design (cannot establish causation); malnutrition and comorbidity burden assessed at one time point.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +411,26 @@
       "why_it_matters": "The findings offer insight into how vascular damage in the brain leads to memory and thinking problems, pointing toward potential targets for early detection and intervention.",
       "story_angle_primary": "If you've been told you have white matter changes on a brain MRI, know that researchers are learning more about how these relate to memory and thinking\u2014and that managing vascular risk factors may help protect brain networks.",
       "story_angle_secondary": "For clinicians and families, this study reinforces the importance of controlling blood pressure, cholesterol, and other vascular risk factors to protect cognitive health in aging.",
-      "caveats": "Single-center, cross-sectional design; case-control study cannot establish causation; relatively small sample."
+      "caveats": "Single-center, cross-sectional design; case-control study cannot establish causation; relatively small sample.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "case-control",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +443,27 @@
       "why_it_matters": "Although frailty and cognitive impairment often occur together, this study suggests they may arise from biologically distinct processes\u2014implying that prevention and treatment strategies may need to be tailored to each condition.",
       "story_angle_primary": "If you're experiencing early signs of physical weakness or memory changes, know that these may have different underlying causes\u2014addressing one may not automatically help the other.",
       "story_angle_secondary": "Clinicians and researchers should consider screening for and addressing frailty and cognitive impairment as potentially separate conditions, even when they co-occur.",
-      "caveats": "Small sample (N=50); cross-sectional design; findings need confirmation in larger cohorts."
+      "caveats": "Small sample (N=50); cross-sectional design; findings need confirmation in larger cohorts.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 50,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +476,24 @@
       "why_it_matters": "The findings highlight family dogs as a unique model for studying how aging shapes social bonds, and they underscore the emotional significance of the human-animal relationship in later life\u2014for both species.",
       "story_angle_primary": "If your dog seems to want more closeness as they age, this is normal and mirrors patterns seen in humans. Cherishing and supporting this bond can be meaningful for both of you.",
       "story_angle_secondary": "For families and senior living communities, understanding that older dogs may become more dependent on their owners can inform decisions about pet policies and the role of companion animals in supporting emotional well-being.",
-      "caveats": "Observational study in dogs; findings may not directly translate to human aging; single cultural context (Hungary)."
+      "caveats": "Observational study in dogs; findings may not directly translate to human aging; single cultural context (Hungary).",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [],
+      "covered_by": []
     }
   ],
   "citation_table": [

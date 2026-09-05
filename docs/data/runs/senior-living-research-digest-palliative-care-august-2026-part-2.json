@@ -24,7 +24,28 @@
       "why_it_matters": "This large-scale study demonstrates that palliative care should not be reserved for cancer patients alone \u2014 older adults with heart disease, dementia, and other chronic conditions often have equally pressing comfort and support needs.",
       "story_angle_primary": "If you or someone you love is hospitalized or in a care facility with serious health problems \u2014 even without cancer \u2014 you can ask the care team whether a palliative care consultation might help with pain, comfort, or planning for the future.",
       "story_angle_secondary": "Nursing homes and hospitals may need to systematically screen all older patients for palliative care needs, not just those with terminal diagnoses, to ensure comfort-focused care isn't overlooked.",
-      "caveats": "Cross-sectional design (single time point); Italian healthcare context may not fully generalize to other countries."
+      "caveats": "Cross-sectional design (single time point); Italian healthcare context may not fully generalize to other countries.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 5389,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +58,26 @@
       "why_it_matters": "Many aged care staff want to have early conversations about end-of-life wishes but feel unprepared or unsupported \u2014 suggesting a need for better training and resources for both staff and families.",
       "story_angle_primary": "If you're living in residential care, you can help staff by expressing your care preferences early \u2014 even before a health crisis \u2014 so conversations feel less rushed when decisions matter most.",
       "story_angle_secondary": "Senior living professionals should consider structured training and family-facing resources to help staff initiate end-of-life discussions earlier, when families have more time to process and plan.",
-      "caveats": "Qualitative study (staff perspectives only); Australian context; no direct measurement of family or resident outcomes."
+      "caveats": "Qualitative study (staff perspectives only); Australian context; no direct measurement of family or resident outcomes.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +90,27 @@
       "why_it_matters": "When elective treatments are scheduled close to death, patients may have little time to benefit \u2014 prompting calls for earlier conversations about whether planned procedures align with patients' priorities.",
       "story_angle_primary": "If you're scheduling a planned surgery, treatment, or procedure, consider discussing with your doctor how it fits with your overall health picture and what you hope to gain from it \u2014 especially if you have a serious illness.",
       "story_angle_secondary": "Clinicians and families should revisit goals of care before scheduling elective procedures in patients with limited life expectancy, ensuring interventions truly reflect what matters most to the patient.",
-      "caveats": "Retrospective observational study; cannot determine whether procedures were inappropriate for individual patients; Dutch healthcare system may differ from others."
+      "caveats": "Retrospective observational study; cannot determine whether procedures were inappropriate for individual patients; Dutch healthcare system may differ from others.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 104544,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +123,26 @@
       "why_it_matters": "Family members may perceive their loved one's distress differently than medical staff \u2014 underscoring the importance of proactive communication to understand and address families' concerns during the dying process.",
       "story_angle_primary": "If you're supporting a dying loved one, don't hesitate to share what you're observing with the care team \u2014 your perspective on their comfort matters and can guide how care is adjusted.",
       "story_angle_secondary": "Care teams should actively check in with families about their perceptions of comfort during end-of-life care, rather than assuming clinical assessments capture the full picture.",
-      "caveats": "Small sample of relatives (42 completed scales); single assessment tool; Belgian hospital context."
+      "caveats": "Small sample of relatives (42 completed scales); single assessment tool; Belgian hospital context.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 103,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +155,27 @@
       "why_it_matters": "Regular specialist palliative care check-ins in nursing homes may help residents receive comfort-focused care in place, avoiding stressful and costly hospital transfers.",
       "story_angle_primary": "If you or a family member lives in a nursing home, ask whether palliative care specialists visit regularly to review residents' comfort and care needs \u2014 this can help prevent unnecessary hospital trips.",
       "story_angle_secondary": "Aged care facilities and health systems may benefit from implementing routine palliative care rounds as a scalable strategy to improve resident care and reduce acute hospitalizations.",
-      "caveats": "Pre-post design during COVID-19 pandemic makes causal attribution uncertain; full implementation costs not captured; single Australian region."
+      "caveats": "Pre-post design during COVID-19 pandemic makes causal attribution uncertain; full implementation costs not captured; single Australian region.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +188,28 @@
       "why_it_matters": "Older adults with dementia face distinct barriers to meaningful end-of-life communication and planning \u2014 highlighting the need for earlier and more inclusive conversations while cognitive capacity remains.",
       "story_angle_primary": "If you've been diagnosed with early-stage memory problems, consider having conversations now about your future care wishes and who you'd want to speak on your behalf.",
       "story_angle_secondary": "Families and clinicians should prioritize advance care planning discussions early in the dementia trajectory, before communication becomes more difficult.",
-      "caveats": "Retrospective proxy-reported data; observational design; Japanese cultural context may influence findings."
+      "caveats": "Retrospective proxy-reported data; observational design; Japanese cultural context may influence findings.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 45509,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +222,29 @@
       "why_it_matters": "Non-drug approaches like VR may offer an additional tool for symptom relief in seriously ill patients, with relatively few side effects.",
       "story_angle_primary": "If you're receiving palliative care and interested in non-medication options for managing pain or anxiety, ask your care team whether virtual reality programs are available.",
       "story_angle_secondary": "Hospices and palliative care programs may consider piloting VR interventions as a complement to standard symptom management, particularly for patients seeking alternatives to additional medications.",
-      "caveats": "Most included studies had mixed adult/older adult samples; few studies focused exclusively on older adults; study quality and designs varied."
+      "caveats": "Most included studies had mixed adult/older adult samples; few studies focused exclusively on older adults; study quality and designs varied.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "depression",
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +257,28 @@
       "why_it_matters": "When aggressive surgery isn't appropriate, family caregivers need clear, compassionate communication and continuity of support to manage both their loved one's comfort and their own emotional burden.",
       "story_angle_primary": "If you or a family member faces a serious injury where surgery may not be the right option, ask the medical team to explain alternative pain management approaches clearly \u2014 and what to expect afterward.",
       "story_angle_secondary": "Healthcare teams should develop multidisciplinary protocols that address not only patient pain but also caregiver information needs and emotional support during and after non-surgical palliative interventions.",
-      "caveats": "Single-center qualitative study; small sample size; findings may not generalize to other settings or procedures."
+      "caveats": "Single-center qualitative study; small sample size; findings may not generalize to other settings or procedures.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "falls",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +291,26 @@
       "why_it_matters": "For the oldest patients, palliative care involvement often occurs only when death is imminent \u2014 leaving little time to optimize comfort or align care with patient goals.",
       "story_angle_primary": "If you are in your late 80s or 90s, consider discussing your care preferences with your doctor or family now \u2014 before a hospitalization \u2014 so your wishes are known in advance.",
       "story_angle_secondary": "Hospitals should consider earlier palliative care screening for very old patients with functional decline, and nurses can play a key role in advocating for timely referrals and advance care planning.",
-      "caveats": "Single-center retrospective study; Canadian healthcare context; data span pandemic years which may have influenced patterns."
+      "caveats": "Single-center retrospective study; Canadian healthcare context; data span pandemic years which may have influenced patterns.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +323,27 @@
       "why_it_matters": "Reliance on informal networks for emotional and spiritual support at end of life creates gaps \u2014 especially for those without nearby family or with cognitive impairment.",
       "story_angle_primary": "If you live alone, consider building connections with community groups, faith organizations, or volunteer visitors who might offer companionship and support if you become seriously ill.",
       "story_angle_secondary": "Policymakers and care providers should develop public health strategies to ensure older adults without strong informal networks \u2014 particularly those with dementia \u2014 receive adequate psychosocial and spiritual support at end of life.",
-      "caveats": "Proxy-reported outcomes; English population may not generalize; cross-sectional analysis within longitudinal study."
+      "caveats": "Proxy-reported outcomes; English population may not generalize; cross-sectional analysis within longitudinal study.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 507,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +356,26 @@
       "why_it_matters": "Even brief, targeted training can boost clinician confidence and documentation practices for end-of-life planning \u2014 an important step for ensuring patient wishes are captured and respected.",
       "story_angle_primary": "If a nurse practitioner or physician assistant visits you at home, you can ask them about completing a POLST form to document your wishes about CPR, hospitalization, and other life-sustaining treatments.",
       "story_angle_secondary": "Home health agencies should prioritize scalable training on advance care planning tools like POLST to ensure clinicians feel equipped to initiate these critical conversations.",
-      "caveats": "Pre-post design without control group; modest sample size; three-month follow-up may not reflect sustained behavior change."
+      "caveats": "Pre-post design without control group; modest sample size; three-month follow-up may not reflect sustained behavior change.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +388,27 @@
       "why_it_matters": "Nurses on the front lines of dementia care see a need for comprehensive, person-centered pain management models \u2014 but also recognize barriers to putting best practices into action.",
       "story_angle_primary": "If you have a loved one with dementia in a nursing home, ask staff how they assess and manage pain \u2014 especially since your family member may not be able to clearly express discomfort.",
       "story_angle_secondary": "Nursing homes should invest in staff training and relational continuity to support nuanced pain assessment and management for residents who cannot easily communicate their needs.",
-      "caveats": "Qualitative study; Norwegian context; nurse perspectives only, not direct patient outcomes."
+      "caveats": "Qualitative study; Norwegian context; nurse perspectives only, not direct patient outcomes.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +421,27 @@
       "why_it_matters": "NP-led home care programs may help people with advancing dementia remain safely at home longer while receiving coordinated medical and palliative support.",
       "story_angle_primary": "If you or a loved one has dementia and wants to stay at home as long as possible, ask your doctor or health plan whether home-based care programs with nurse practitioners are available.",
       "story_angle_secondary": "Health systems and policymakers should consider expanding NP-staffed home-based dementia care models to support aging in place and reduce costly acute care utilization.",
-      "caveats": "Scoping review (summarizes available models, not effectiveness); heterogeneous study designs; generalizability depends on local healthcare systems."
+      "caveats": "Scoping review (summarizes available models, not effectiveness); heterogeneous study designs; generalizability depends on local healthcare systems.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +454,27 @@
       "why_it_matters": "Palliative care approaches may need to be tailored based on illness trajectory \u2014 what helps residents with dementia may not have the same effect for those with other conditions.",
       "story_angle_primary": "If you or a loved one is receiving short-term rehabilitation in a nursing facility, ask about palliative care services that focus on comfort and quality of life \u2014 not just recovery goals.",
       "story_angle_secondary": "Skilled nursing facilities should explore how to adapt palliative care interventions for residents with different diagnoses and trajectories to maximize benefit.",
-      "caveats": "Pilot study with small sample; results not statistically significant; single intervention model tested."
+      "caveats": "Pilot study with small sample; results not statistically significant; single intervention model tested.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 52,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +487,27 @@
       "why_it_matters": "Mouth pain, dry mouth, and oral infections can significantly affect comfort and eating at the end of life, yet dental care is often overlooked in palliative settings.",
       "story_angle_primary": "If you're receiving palliative care and have mouth discomfort, difficulty eating, or dental concerns, ask your care team about options for oral care support.",
       "story_angle_secondary": "Palliative care programs should consider integrating dental professionals or oral health protocols to address a commonly neglected aspect of comfort care.",
-      "caveats": "Small qualitative study; single Chilean palliative care unit; findings may not generalize to other settings."
+      "caveats": "Small qualitative study; single Chilean palliative care unit; findings may not generalize to other settings.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +520,28 @@
       "why_it_matters": "Older adults admitted for rehabilitation often have unmet palliative care needs \u2014 screening everyone, not just those with dementia, could improve comfort and care planning.",
       "story_angle_primary": "If you're recovering in a skilled nursing facility after a hospital stay, don't hesitate to tell staff about pain, worry, or questions you have about your care \u2014 these concerns can be addressed alongside your rehab goals.",
       "story_angle_secondary": "Skilled nursing facilities should implement routine palliative care screening for all seriously ill residents, not just those with cognitive impairment.",
-      "caveats": "Small pilot study; cross-sectional baseline data only; single geographic region."
+      "caveats": "Small pilot study; cross-sectional baseline data only; single geographic region.",
+      "score": 56,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 52,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "depression",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +554,27 @@
       "why_it_matters": "Healthcare systems that fail to routinely ask about and accommodate hearing loss place an unfair burden on patients \u2014 particularly those managing serious illness who need clear communication most.",
       "story_angle_primary": "If you have hearing loss, consider bringing a written note to appointments stating your needs \u2014 and don't hesitate to ask providers to face you, speak clearly, or use written instructions.",
       "story_angle_secondary": "Healthcare organizations should routinely screen for hearing loss and implement system-wide accommodations (such as visual alerts, captioning, or communication aids) so patients aren't forced to self-advocate at every visit.",
-      "caveats": "Small pilot study; qualitative design; findings reflect experiences in the U.S. healthcare system."
+      "caveats": "Small pilot study; qualitative design; findings reflect experiences in the U.S. healthcare system.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +587,27 @@
       "why_it_matters": "Many older adults approaching the end of life continue taking medications that may offer little benefit and could cause harm \u2014 suggesting a need for more proactive medication review and deprescribing.",
       "story_angle_primary": "If you or a loved one has a serious illness and takes multiple medications, ask your doctor or pharmacist whether any could be safely stopped to reduce side effects and simplify care.",
       "story_angle_secondary": "Clinicians should systematically review medications in patients with palliative care needs, aligning prescribing with comfort goals rather than disease prevention.",
-      "caveats": "Cross-sectional point-prevalence design; Italian healthcare context; no direct measurement of patient outcomes."
+      "caveats": "Cross-sectional point-prevalence design; Italian healthcare context; no direct measurement of patient outcomes.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +620,27 @@
       "why_it_matters": "Where a person with dementia lives in Italy may strongly influence the quality and comprehensiveness of care they receive \u2014 pointing to a need for national standards and investment.",
       "story_angle_primary": "If you're considering nursing home care for yourself or a loved one with dementia, ask about staff training, specialized dementia programs, and access to palliative care support.",
       "story_angle_secondary": "Policymakers and senior living organizations should work to reduce regional inequities in dementia care, ensuring all facilities meet baseline standards for staffing, training, and supportive services.",
-      "caveats": "Self-reported facility data; Italian context; descriptive analysis without direct quality-of-care outcomes."
+      "caveats": "Self-reported facility data; Italian context; descriptive analysis without direct quality-of-care outcomes.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +653,28 @@
       "why_it_matters": "Despite the predictable trajectory of advanced dementia, many patients receive aggressive antibiotic treatment without documented palliative care goals \u2014 suggesting opportunities to better align care with comfort-focused priorities.",
       "story_angle_primary": "If you're caring for someone with advanced dementia, discuss with their doctor what comfort-focused care would look like if infections or other complications arise.",
       "story_angle_secondary": "Hospitals should develop integrated end-of-life protocols for patients with advanced dementia, ensuring palliative care needs are recognized and documented alongside medical treatment decisions.",
-      "caveats": "Single-center retrospective study; Brazilian healthcare context; palliative care may have been provided but not documented."
+      "caveats": "Single-center retrospective study; Brazilian healthcare context; palliative care may have been provided but not documented.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 122,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

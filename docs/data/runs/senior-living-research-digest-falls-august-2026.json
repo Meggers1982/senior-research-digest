@@ -24,7 +24,27 @@
       "why_it_matters": "This study reframes falls not just as isolated accidents but as \"sentinel events\" that can trigger a cascade toward disability and long-term care needs. Preventing falls\u2014and providing robust post-fall rehabilitation\u2014may slow functional decline.",
       "story_angle_primary": "If you've had a fall, it may be more than just an accident\u2014it could signal a shift in your overall health trajectory. Ask your doctor about a frailty assessment and discuss whether physical therapy or strength training could help you recover and reduce future risk.",
       "story_angle_secondary": "For families and senior living professionals, a resident's fall should prompt a comprehensive reassessment, not just injury treatment. Integrating falls prevention with frailty care pathways may preserve independence and delay the need for higher levels of care.",
-      "caveats": "Observational design (cannot establish causation); self-reported falls and frailty index; single-country sample may not generalize to other populations."
+      "caveats": "Observational design (cannot establish causation); self-reported falls and frailty index; single-country sample may not generalize to other populations.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,27 @@
       "why_it_matters": "While the physical function gains are meaningful, the lack of strong evidence for fall reduction highlights a gap. Frail older adults may benefit from exercise programs, but more research is needed to confirm whether these programs translate into fewer falls.",
       "story_angle_primary": "If you've been told you're frail, structured exercise\u2014especially programs that include strength and balance work\u2014can help you move better and feel steadier. Talk to your doctor or physical therapist about options tailored to your abilities.",
       "story_angle_secondary": "Senior living communities should consider evidence-based exercise programming for frail residents, recognizing that improvements in walking speed and balance are achievable. However, staff should pair these programs with other fall prevention strategies until clearer evidence emerges.",
-      "caveats": "Low-to-very-low certainty evidence; limited data on fall outcomes; high heterogeneity across studies."
+      "caveats": "Low-to-very-low certainty evidence; limited data on fall outcomes; high heterogeneity across studies.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 2719,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +90,26 @@
       "why_it_matters": "For older adults who find traditional exercise programs tedious or isolating, exergaming offers a potentially motivating alternative. The gamified elements\u2014real-time feedback, progress tracking, and interactive challenges\u2014may help sustain engagement.",
       "story_angle_primary": "If you've struggled to stick with exercise programs, exergames might offer a more engaging way to improve your balance and reduce your fall risk. Ask your physical therapist or local senior center about available options.",
       "story_angle_secondary": "Senior living facilities and community programs could consider integrating exergaming systems as a supplement to traditional fall prevention programming, particularly for residents who have difficulty adhering to conventional exercise.",
-      "caveats": "Substantial heterogeneity; modest sample sizes; limited long-term follow-up; evidence on injurious falls and cost-effectiveness is inconsistent."
+      "caveats": "Substantial heterogeneity; modest sample sizes; limited long-term follow-up; evidence on injurious falls and cost-effectiveness is inconsistent.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": 1385,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +122,26 @@
       "why_it_matters": "Despite decades of fall prevention research, global progress has stalled. This framework offers a more nuanced, person-centered approach that acknowledges falls may still happen and focuses on how well older adults bounce back.",
       "story_angle_primary": "Rather than fearing falls as catastrophic events, consider building your \"resilience\"\u2014the ability to resist, recover from, and adapt after a fall. This might mean strengthening your body, modifying your home, and having a plan for getting help quickly.",
       "story_angle_secondary": "Senior living administrators and care teams can use this framework to design more comprehensive fall programs that go beyond risk checklists. Assessing residents' recovery capacity and social resources may be as important as identifying who might fall.",
-      "caveats": "This is a conceptual framework, not an empirical study; implementation and validation research are needed."
+      "caveats": "This is a conceptual framework, not an empirical study; implementation and validation research are needed.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +154,29 @@
       "why_it_matters": "Vitamin D is a simple, inexpensive marker that could help identify stroke survivors at higher risk for poor outcomes, including falls and depression\u2014common complications that impede rehabilitation.",
       "story_angle_primary": "If you've had a stroke, ask your doctor about checking your vitamin D level. Low levels may be linked to slower recovery and higher fall risk, and supplementation might be an option worth discussing.",
       "story_angle_secondary": "For rehabilitation teams and senior living staff, vitamin D screening after stroke could flag residents who need closer monitoring for depression and falls, potentially guiding more intensive support.",
-      "caveats": "Single-center study; observational design (cannot prove causation); population-specific findings may not generalize broadly."
+      "caveats": "Single-center study; observational design (cannot prove causation); population-specific findings may not generalize broadly.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 802,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "depression",
+        "falls",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +189,28 @@
       "why_it_matters": "Addressing frailty without attention to nutrition\u2014or vice versa\u2014may leave older adults vulnerable. Comprehensive assessments that screen for both conditions could improve fall prevention.",
       "story_angle_primary": "If you're feeling weaker or have lost weight unintentionally, these could be warning signs for both frailty and fall risk. Talk to your doctor about a nutrition and frailty screening.",
       "story_angle_secondary": "Senior living dietitians and care teams should coordinate closely: nutritional interventions alone may not be enough if frailty is present, and strength-building programs may fall short if residents are undernourished.",
-      "caveats": "Cross-sectional design (cannot establish causation); single-country sample; self-reported measures."
+      "caveats": "Cross-sectional design (cannot establish causation); single-country sample; self-reported measures.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 14000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +223,26 @@
       "why_it_matters": "This exploratory study suggests that wearable gait sensors could provide objective data to complement standard screenings, potentially helping clinicians identify specific movement deficits to target with interventions.",
       "story_angle_primary": "If you're concerned about falls, ask whether your healthcare provider offers gait analysis. Understanding exactly how you walk\u2014not just how fast\u2014may reveal subtle problems that can be addressed with physical therapy.",
       "story_angle_secondary": "Senior living communities investing in technology may consider wearable gait sensors as tools for early detection. Identifying declines in walking pace or movement quality could trigger timely referrals for exercise or therapy.",
-      "caveats": "Cross-sectional design; single-country sample; exploratory mediation analysis requires replication."
+      "caveats": "Cross-sectional design; single-country sample; exploratory mediation analysis requires replication.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +255,26 @@
       "why_it_matters": "Gait speed is simple and widely recommended, but these findings suggest it works better for ruling out risk than identifying all who will fall. Clinicians may consider using a slightly higher cutoff to capture more at-risk individuals.",
       "story_angle_primary": "Your walking speed is one clue to your fall risk, but it's not the whole picture. If you walk slowly, discuss additional screening with your doctor; if you walk faster but have other concerns, don't assume you're in the clear.",
       "story_angle_secondary": "For senior living and clinical teams, gait speed remains a useful quick screen, but relying on it alone may miss many future fallers. Consider pairing it with other assessments for a fuller picture.",
-      "caveats": "Heterogeneity across studies; gait speed alone has limited discriminative accuracy."
+      "caveats": "Heterogeneity across studies; gait speed alone has limited discriminative accuracy.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +287,26 @@
       "why_it_matters": "Fear of falling can lead older adults to restrict activities, paradoxically increasing their risk. Because perceptions of aging are modifiable, interventions that promote positive views could help address these concerns.",
       "story_angle_primary": "How you think about aging may influence how worried you are about falling. Programs that challenge negative stereotypes about getting older could help reduce fear and keep you more active.",
       "story_angle_secondary": "Senior living staff and families can support residents by fostering positive aging narratives\u2014celebrating achievements, emphasizing capabilities, and reframing setbacks\u2014which may indirectly reduce fall-related anxiety.",
-      "caveats": "Cross-sectional design (cannot establish causation); predominantly female, UK-based sample; self-reported outcomes."
+      "caveats": "Cross-sectional design (cannot establish causation); predominantly female, UK-based sample; self-reported outcomes.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +319,28 @@
       "why_it_matters": "Falls are not purely physical events\u2014loneliness and cognitive decline appear to be part of the causal chain. Addressing social isolation and mental health may be as important as balance training.",
       "story_angle_primary": "Staying connected to friends, family, and community may help protect you from falls\u2014not just by keeping you active, but by supporting your mood and thinking. If you've had a fall, consider reaching out rather than withdrawing.",
       "story_angle_secondary": "Senior living staff and families should recognize that a resident who becomes isolated after a fall may be entering a risky cycle. Encouraging social engagement and monitoring for depression could be key to preventing future falls.",
-      "caveats": "Observational design; self-reported falls and isolation measures; Chinese population may not generalize universally."
+      "caveats": "Observational design; self-reported falls and isolation measures; Chinese population may not generalize universally.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +353,28 @@
       "why_it_matters": "This study emphasizes that sensory problems are not static\u2014the longer they persist, the greater the risk. Timely correction of vision and hearing loss may have compounding benefits over time.",
       "story_angle_primary": "Don't put off getting your eyes and ears checked. The longer sensory problems go unaddressed, the higher your risk of falls and serious fractures may become.",
       "story_angle_secondary": "Senior living communities should prioritize regular sensory screening and prompt referrals for corrective devices. Cumulative sensory burden should factor into fall risk assessments.",
-      "caveats": "Observational design; self-reported sensory impairment and falls; single-country sample."
+      "caveats": "Observational design; self-reported sensory impairment and falls; single-country sample.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "hearing loss",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +387,28 @@
       "why_it_matters": "Even older adults who appear healthy may harbor hidden vulnerabilities. Targeted screening\u2014especially for sensory and multi-domain issues\u2014could catch early warning signs before falls or muscle loss occur.",
       "story_angle_primary": "Just because you feel healthy doesn't mean you're without risk. Ask your doctor about a comprehensive intrinsic capacity screening, including vision, hearing, mood, and mobility checks.",
       "story_angle_secondary": "Senior living wellness programs should consider routine intrinsic capacity assessments for all residents\u2014not just those already identified as frail\u2014to catch early-stage decline and intervene before problems escalate.",
-      "caveats": "Cross-sectional design; single-country sample; \"healthy\" population may not generalize to those with known chronic conditions."
+      "caveats": "Cross-sectional design; single-country sample; \"healthy\" population may not generalize to those with known chronic conditions.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +421,26 @@
       "why_it_matters": "Hypoactive delirium is easily missed because patients appear calm. Structured, repeated screening in the PACU could identify vulnerable older adults early, enabling interventions to prevent falls and other complications.",
       "story_angle_primary": "If you or a loved one is having surgery, ask the care team about delirium screening in the recovery room\u2014especially since the quiet type often goes unnoticed. Early detection can help prevent complications like falls.",
       "story_angle_secondary": "Hospitals and surgical teams should consider routine PACU delirium screening for older patients, recognizing that urinary catheterization is a modifiable nursing-sensitive factor associated with delirium.",
-      "caveats": "Single-country, Asian population; nursing-sensitive variables added limited discriminative value; external validation needed."
+      "caveats": "Single-country, Asian population; nursing-sensitive variables added limited discriminative value; external validation needed.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +453,28 @@
       "why_it_matters": "For older adults with leg fractures, preventing in-hospital falls may depend more on addressing frailty and cognitive status than on the injury itself. A simplified risk score could help identify those needing extra precautions.",
       "story_angle_primary": "If you're hospitalized for a leg fracture, your overall health and thinking abilities may matter more for your safety than the fracture itself. Ask the care team what steps they're taking to prevent delirium and falls during your stay.",
       "story_angle_secondary": "Hospital fall prevention protocols for fracture patients should emphasize geriatric assessment. Patients with dementia, frailty, or multiple chronic conditions warrant extra vigilance, regardless of injury severity.",
-      "caveats": "Retrospective database study; simplified score requires external validation; Japanese population may not generalize."
+      "caveats": "Retrospective database study; simplified score requires external validation; Japanese population may not generalize.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 5000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +487,26 @@
       "why_it_matters": "Falls prevention strategies should address not just balance and strength, but also central obesity\u2014especially in men and those with diabetes. Comprehensive body composition management may be key.",
       "story_angle_primary": "Carrying extra weight around your middle\u2014especially if you've also lost muscle strength\u2014may increase your fall risk. Strength training and managing abdominal weight could help.",
       "story_angle_secondary": "Senior living fitness and nutrition programs should consider body composition, not just weight. Men with central obesity and weakness may benefit most from combined strength and metabolic interventions.",
-      "caveats": "Observational design; self-reported falls; single-country sample."
+      "caveats": "Observational design; self-reported falls; single-country sample.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +519,28 @@
       "why_it_matters": "The evidence streams are robust: exercise and nutrition together combat sarcopenia, while balance training and vitamin D reduce falls. Integrating these approaches could benefit older adults at risk for both conditions.",
       "story_angle_primary": "If you're worried about muscle loss and falls, the research is clear: strength and balance exercises, adequate protein, and vitamin D can all help. Talk to your doctor about a comprehensive plan.",
       "story_angle_secondary": "Senior living programs should integrate resistance and balance training with nutritional optimization, including protein and vitamin D, as a unified strategy for preserving function and preventing falls.",
-      "caveats": "Umbrella review synthesizes existing evidence; direct evidence that reversing sarcopenia reduces fall incidence remains limited."
+      "caveats": "Umbrella review synthesizes existing evidence; direct evidence that reversing sarcopenia reduces fall incidence remains limited.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +553,26 @@
       "why_it_matters": "MIBEX offers a structured, individualized approach to improving mobility and balance\u2014key factors in fall prevention. The large effect sizes suggest meaningful clinical benefits.",
       "story_angle_primary": "Individualized exercise programs targeting multiple body segments\u2014not just legs\u2014can significantly improve your balance and mobility. Ask your physical therapist about tailored options.",
       "story_angle_secondary": "Senior living and rehabilitation programs may consider adopting multisegmental exercise protocols, which appear to produce substantial improvements in balance and functional mobility.",
-      "caveats": "Single-blinded trial; control group received only education, not active exercise; specific population (Pakistani)."
+      "caveats": "Single-blinded trial; control group received only education, not active exercise; specific population (Pakistani).",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +585,27 @@
       "why_it_matters": "Exergaming delivered through public community care programs is feasible and safe for vulnerable older adults. Preliminary signals suggest potential benefits for balance and muscle preservation.",
       "story_angle_primary": "If you have limited resources or live alone, community-based exergaming programs may offer an accessible way to stay active and steady on your feet. Ask your local senior services about available options.",
       "story_angle_secondary": "Public health and senior living programs serving low-income populations could explore exergaming as a culturally adapted, engaging intervention. Feasibility is high, though larger trials are needed to confirm efficacy.",
-      "caveats": "Small sample sizes; RCT findings did not survive statistical correction; authors have patent/industry ties to the device."
+      "caveats": "Small sample sizes; RCT findings did not survive statistical correction; authors have patent/industry ties to the device.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 31,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +618,28 @@
       "why_it_matters": "Healthy eating patterns may help preserve muscle and reduce fall risk as people age. This supports integrating nutritional guidance into fall prevention strategies.",
       "story_angle_primary": "Eating well isn't just about avoiding chronic disease\u2014it may help you stay strong and steady. Following established dietary guidelines could support your muscles and reduce your risk of falls.",
       "story_angle_secondary": "Senior living dining programs should consider aligning menus with evidence-based dietary patterns. Nutritional quality may be an underappreciated lever for preserving residents' function and preventing falls.",
-      "caveats": "UK Biobank participants are generally healthier than the general population; observational design; self-reported dietary data."
+      "caveats": "UK Biobank participants are generally healthier than the general population; observational design; self-reported dietary data.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +652,27 @@
       "why_it_matters": "While dual-task power training may offer early quality-of-life benefits, maintaining them over time appears challenging\u2014possibly due to declining adherence. The finding that controls had lower anxiety is puzzling and warrants further study.",
       "story_angle_primary": "Dual-task exercises that challenge your brain and body together may help you feel better about daily activities in the short term. Sticking with the program over time, however, seems to be key.",
       "story_angle_secondary": "Retirement communities offering dual-task training should consider strategies to boost long-term adherence. Early gains may fade without sustained engagement.",
-      "caveats": "Secondary analysis; adherence dropped over time (50% at 6 months, 40% at 12 months); unexpected anxiety findings difficult to interpret."
+      "caveats": "Secondary analysis; adherence dropped over time (50% at 6 months, 40% at 12 months); unexpected anxiety findings difficult to interpret.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +685,27 @@
       "why_it_matters": "Sleep may be a modifiable factor for maintaining walking stability. Addressing sleep fragmentation could be a novel component of fall prevention.",
       "story_angle_primary": "If you're waking up frequently at night, it may affect not just your energy but also your steadiness when walking. Talk to your doctor about ways to improve your sleep quality.",
       "story_angle_secondary": "Senior living staff should consider sleep quality as part of fall risk assessment. Interventions targeting sleep fragmentation\u2014such as reducing nighttime disruptions\u2014may have benefits beyond rest.",
-      "caveats": "Small pilot study; predominantly White, well-educated sample; cross-sectional design; technology-specific sleep measurement."
+      "caveats": "Small pilot study; predominantly White, well-educated sample; cross-sectional design; technology-specific sleep measurement.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +718,26 @@
       "why_it_matters": "Falls prevention in hospitals is not just about checklists\u2014it's about communication, culture, and system responsiveness. This study offers context-specific insights for diverse healthcare settings.",
       "story_angle_primary": "If you're hospitalized, don't hesitate to ask for help\u2014even if you feel capable. Make sure you understand your fall risk and what steps the staff are taking to keep you safe.",
       "story_angle_secondary": "Hospital administrators should examine whether fall prevention strategies are truly patient-centered and culturally responsive. Addressing system barriers like call bell delays may be as important as risk scoring.",
-      "caveats": "Qualitative design; small sample from two UAE hospitals; findings may not generalize to other settings."
+      "caveats": "Qualitative design; small sample from two UAE hospitals; findings may not generalize to other settings.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 15,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 23,
@@ -310,7 +750,29 @@
       "why_it_matters": "Overly aggressive diabetes treatment can cause more harm than good in frail older adults. Shifting focus from HbA1c targets to safety and function could reduce falls and improve quality of life.",
       "story_angle_primary": "If you're managing diabetes and feel frail or have memory concerns, ask your doctor whether your medications might be doing more harm than good. Simplifying treatment could lower your fall risk and reduce side effects.",
       "story_angle_secondary": "Senior living nurses and physicians should routinely reassess glucose-lowering regimens in frail residents, prioritizing safety over tight glycemic control. Deprescribing high-risk medications like sulfonylureas and intensive insulin may be warranted.",
-      "caveats": "Synthesis of existing evidence; no new empirical data; proposed framework requires validation."
+      "caveats": "Synthesis of existing evidence; no new empirical data; proposed framework requires validation.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 24,
@@ -323,7 +785,27 @@
       "why_it_matters": "Upper limb fractures\u2014often from falls\u2014can trigger fear and activity restriction. Rehabilitation should address not just physical recovery but also psychological needs and patient education.",
       "story_angle_primary": "If you've broken a wrist or arm from a fall, you're not alone in feeling anxious. Ask your care team about addressing both the physical and emotional aspects of recovery\u2014fear of falling can limit your activities and increase risk.",
       "story_angle_secondary": "Physical therapists and senior living staff should screen for fear of falling after upper limb fractures and offer psychological support alongside physical rehabilitation.",
-      "caveats": "Small qualitative sample; single Canadian hospital; findings may not generalize."
+      "caveats": "Small qualitative sample; single Canadian hospital; findings may not generalize.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis"
+      ],
+      "covered_by": []
     },
     {
       "number": 25,
@@ -336,7 +818,26 @@
       "why_it_matters": "Simple self-reported questionnaires may provide valuable screening information for recurrent fall risk, complementing functional tests like the TUG.",
       "story_angle_primary": "Your own sense of your health and balance confidence matters. If you've had multiple falls, share this history with your healthcare provider\u2014it can guide further testing and prevention.",
       "story_angle_secondary": "Clinicians and senior living staff should consider incorporating patient-reported measures like the ABC scale into fall risk screening, especially for identifying those at risk for recurrent falls.",
-      "caveats": "Secondary analysis; small sample (n=77); retrospective fall history; cut points need prospective validation."
+      "caveats": "Secondary analysis; small sample (n=77); retrospective fall history; cut points need prospective validation.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 77,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 26,
@@ -349,7 +850,27 @@
       "why_it_matters": "Mobile apps could expand access to fall risk screening, but developers must address affordability and offline functionality to maximize adoption.",
       "story_angle_primary": "Mobile apps may soon play a bigger role in assessing your fall risk. If your physical therapist suggests using one, know that these tools are designed to help tailor your care.",
       "story_angle_secondary": "Senior living and rehabilitation programs considering digital fall risk tools should look for apps that are affordable and work without constant internet access\u2014key factors for real-world adoption.",
-      "caveats": "Brazilian sample; self-reported survey data; no direct measurement of app effectiveness."
+      "caveats": "Brazilian sample; self-reported survey data; no direct measurement of app effectiveness.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 27,
@@ -362,7 +883,27 @@
       "why_it_matters": "Successful fall prevention programs must be tailored to clinician capabilities and workflow. Embedding tools in the electronic health record and providing ongoing training may improve adoption.",
       "story_angle_primary": "If you're working with a physical therapist on fall prevention, ask whether they're using a structured program like STEADI. It can help ensure all your risk factors are addressed.",
       "story_angle_secondary": "Health systems implementing STEADI should anticipate that some components\u2014particularly medication review and cognitive screening\u2014may require additional training and electronic health record support.",
-      "caveats": "Single health system; mixed-methods design; some components adapted from original STEADI."
+      "caveats": "Single health system; mixed-methods design; some components adapted from original STEADI.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 28,
@@ -375,7 +916,26 @@
       "why_it_matters": "Simple, systematic environmental modifications by occupational therapists can reduce adverse events\u2014including falls\u2014and improve functional outcomes in hospitalized older adults with delirium.",
       "story_angle_primary": "If you or a loved one develops delirium in the hospital, ask the care team about environmental modifications\u2014keeping familiar objects nearby, maintaining routines, and ensuring safety measures are in place.",
       "story_angle_secondary": "Hospital and senior living staff should consider routine use of environmental checklists for residents with delirium. Occupational therapy-led interventions can reduce adverse events and support functional recovery.",
-      "caveats": "Quasi-experimental design; single ward; intervention group had higher fall admission rate at baseline."
+      "caveats": "Quasi-experimental design; single ward; intervention group had higher fall admission rate at baseline.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 29,
@@ -388,7 +948,29 @@
       "why_it_matters": "Hospital admission after a fall is not just about the injury\u2014underlying vulnerability and medication risk also matter. Emergency teams may use this information to guide disposition and target secondary prevention.",
       "story_angle_primary": "If you've been to the emergency room after a fall and were sent home, follow up with your doctor to discuss your medications and overall health\u2014not just the injury.",
       "story_angle_secondary": "Emergency and senior living staff should recognize that older adults discharged after falls may still be at high risk. Incorporating comorbidity and medication assessment into ED protocols could improve secondary prevention.",
-      "caveats": "Retrospective chart review; single Korean hospital; non-traumatic falls only."
+      "caveats": "Retrospective chart review; single Korean hospital; non-traumatic falls only.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 574,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 30,
@@ -401,7 +983,28 @@
       "why_it_matters": "Frail older adults with Parkinson's and cognitive impairment are often excluded from exercise research, yet this study shows home-based therapy is safe and may benefit this vulnerable population.",
       "story_angle_primary": "If you have Parkinson's disease and feel frail or have memory concerns, home-based physical therapy may be a safe option. Ask your doctor or physical therapist about bringing exercise to your home.",
       "story_angle_secondary": "Home health and senior living rehabilitation teams should consider multicomponent home physiotherapy for frail Parkinson's patients, with ongoing assessment for frailty and cognition to tailor interventions.",
-      "caveats": "Very small pilot sample (n=15); exploratory efficacy findings require larger trials; single-country setting."
+      "caveats": "Very small pilot sample (n=15); exploratory efficacy findings require larger trials; single-country setting.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 15,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 31,
@@ -414,7 +1017,26 @@
       "why_it_matters": "While bedside ultrasound can provide useful snapshot information about muscle status, it may not serve as a standalone marker for predicting outcomes like falls.",
       "story_angle_primary": "Ultrasound measurements of your thigh muscle can give your care team a quick sense of your physical status, but they're just one piece of the puzzle.",
       "story_angle_secondary": "Hospitals considering bedside ultrasound for muscle assessment should view it as complementary information, not a definitive predictor of who will fall or recover slowly.",
-      "caveats": "Single-center Danish study; modest associations; ultrasound not predictive of key outcomes."
+      "caveats": "Single-center Danish study; modest associations; ultrasound not predictive of key outcomes.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 32,
@@ -427,7 +1049,30 @@
       "why_it_matters": "Recognizing what's normal versus pathological in aging sleep can guide appropriate management. Treating sleep disorders may reduce fall risk and improve quality of life.",
       "story_angle_primary": "If your sleep has changed as you've gotten older, it's worth discussing with your doctor. Some changes are normal, but others\u2014like loud snoring, restless legs, or acting out dreams\u2014may need treatment.",
       "story_angle_secondary": "Senior living staff should be alert to signs of sleep disorders in residents, as these conditions are linked to falls and frailty. Cognitive-behavioral therapy for insomnia is first-line treatment; newer medications show promise.",
-      "caveats": "Narrative review (not a systematic review); recommendations are general rather than based on new empirical data."
+      "caveats": "Narrative review (not a systematic review); recommendations are general rather than based on new empirical data.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "falls",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 33,
@@ -440,7 +1085,28 @@
       "why_it_matters": "The gut microbiome may be a novel, modifiable target for preventing sarcopenia and, by extension, falls. However, clinical evidence remains limited.",
       "story_angle_primary": "Your gut health may influence your muscle strength as you age. Eating a varied, fiber-rich diet and discussing probiotics with your doctor could be worth considering.",
       "story_angle_secondary": "Senior living nutrition and wellness programs should stay informed about emerging microbiome research. While clinical recommendations are premature, dietary diversity and gut health may eventually factor into fall prevention.",
-      "caveats": "Mechanistic review; most evidence is preclinical or observational; clinical recommendations are not yet established."
+      "caveats": "Mechanistic review; most evidence is preclinical or observational; clinical recommendations are not yet established.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

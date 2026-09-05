@@ -24,7 +24,27 @@
       "why_it_matters": "This multi-country evidence strengthens the case that hearing loss is consistently associated with depression regardless of cultural context, highlighting the importance of addressing hearing health as part of mental health care for older adults.",
       "story_angle_primary": "If you've noticed your hearing isn't what it used to be, pay attention to your mood as well. Feeling more isolated or down could be connected\u2014talking to your doctor about both concerns together may help you get more comprehensive support.",
       "story_angle_secondary": "Care teams should consider routine screening for depressive symptoms among residents or clients with hearing difficulties. Addressing hearing loss proactively may support emotional well-being alongside communication.",
-      "caveats": "Self-reported hearing and depression measures; observational design (cannot establish causation)."
+      "caveats": "Self-reported hearing and depression measures; observational design (cannot establish causation).",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,27 @@
       "why_it_matters": "This large prospective study suggests that dietary choices emphasizing berries, citrus, tea, and other flavonoid-rich foods may help protect hearing as we age\u2014a practical, accessible approach to supporting auditory health.",
       "story_angle_primary": "Adding more colorful fruits, vegetables, and tea to your diet may do more than support heart health\u2014emerging research suggests these foods could also help protect your hearing over time.",
       "story_angle_secondary": "Dietitians and senior living food service directors might consider highlighting flavonoid-rich menu options as part of a comprehensive healthy-aging approach.",
-      "caveats": "Observational design (cannot establish causation); dietary intake based on 24-hour recalls which may not capture long-term habits; UK population may not generalize to all groups."
+      "caveats": "Observational design (cannot establish causation); dietary intake based on 24-hour recalls which may not capture long-term habits; UK population may not generalize to all groups.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 55859,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +90,27 @@
       "why_it_matters": "This pilot study demonstrates that culturally adapted, accessible digital interventions can be feasible and acceptable for older adults with hearing loss, potentially supporting both cognitive and auditory health from home.",
       "story_angle_primary": "If you have mild hearing loss, at-home brain-training apps designed for your situation might help sharpen your attention and listening skills\u2014ask your audiologist if such programs could complement your care.",
       "story_angle_secondary": "Senior living activity coordinators and hearing care providers might explore incorporating technology-based cognitive-auditory training as an engaging program option for residents with hearing difficulties.",
-      "caveats": "Small sample (N=60); single-center pilot study; waitlist control rather than active comparison; short follow-up."
+      "caveats": "Small sample (N=60); single-center pilot study; waitlist control rather than active comparison; short follow-up.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 60,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +123,27 @@
       "why_it_matters": "This study highlights that the trajectory of hearing change matters for emotional well-being, suggesting that timely attention to gradual hearing decline could help prevent social disconnection.",
       "story_angle_primary": "If your hearing seems to be getting gradually worse, you're not imagining the social impact\u2014reaching out to friends and family about your experience, and exploring hearing support options early, may help you stay connected.",
       "story_angle_secondary": "Caregivers and families should recognize that progressive hearing changes can contribute to loneliness even when the loss seems mild; regular check-ins and encouragement to seek hearing care may help.",
-      "caveats": "Self-reported hearing; observational design (cannot establish causation); single country (Mexico)."
+      "caveats": "Self-reported hearing; observational design (cannot establish causation); single country (Mexico).",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +156,27 @@
       "why_it_matters": "These findings reinforce the importance of early hearing assessment in older adults, as hearing loss may be intertwined with cognitive health and daily functioning.",
       "story_angle_primary": "If you've been putting off a hearing test, consider that hearing and thinking skills may be connected\u2014getting your hearing checked could be an important step in understanding your overall brain health.",
       "story_angle_secondary": "Clinicians and care home staff should integrate hearing assessments into routine cognitive evaluations, as unaddressed hearing loss may confound cognitive testing results.",
-      "caveats": "Small sample (N=60); single-center; cross-sectional (cannot determine if hearing loss precedes cognitive changes); exploratory duration findings need cautious interpretation."
+      "caveats": "Small sample (N=60); single-center; cross-sectional (cannot determine if hearing loss precedes cognitive changes); exploratory duration findings need cautious interpretation.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 60,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +189,27 @@
       "why_it_matters": "This cross-sectional evidence suggests that hearing aids may attenuate the link between hearing loss and frailty, adding to the rationale for improving access to hearing care for older adults.",
       "story_angle_primary": "If you have hearing aids but don't wear them regularly, this research suggests they may support more than just your hearing\u2014they could be part of maintaining your overall strength and vitality.",
       "story_angle_secondary": "Healthcare providers and family members should encourage consistent hearing aid use, as it may contribute to reducing frailty risk beyond improving communication.",
-      "caveats": "Cross-sectional design (cannot establish causation); self-reported hearing aid use; frailty measured at single time point."
+      "caveats": "Cross-sectional design (cannot establish causation); self-reported hearing aid use; frailty measured at single time point.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 2644,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "hearing loss",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +222,28 @@
       "why_it_matters": "Not everyone with hearing loss follows the same emotional path\u2014identifying who is most at risk can help target mental health support to those who need it most.",
       "story_angle_primary": "If you have hearing loss and have noticed your mood changing, know that patterns vary widely\u2014staying socially active, getting enough sleep, and talking with your doctor about how you're feeling may all make a difference.",
       "story_angle_secondary": "Mental health screening should be integrated into hearing care, with particular attention to women and those with limited social engagement, as they may be at higher risk for persistent depression.",
-      "caveats": "Observational design; self-reported depressive symptoms; Chinese population may not generalize globally."
+      "caveats": "Observational design; self-reported depressive symptoms; Chinese population may not generalize globally.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 1556,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "hearing loss",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +256,29 @@
       "why_it_matters": "This finding suggests that protecting cognitive health\u2014including addressing modifiable factors like hearing loss and sleep problems\u2014may help prevent frailty in older adults.",
       "story_angle_primary": "Taking care of your hearing and sleep isn't just about comfort\u2014these factors may help protect both your thinking skills and your physical resilience as you age.",
       "story_angle_secondary": "Care providers should address hearing loss and sleep quality as part of comprehensive frailty prevention, particularly among those already showing signs of cognitive change.",
-      "caveats": "Observational design; Chinese population; self-reported hearing loss."
+      "caveats": "Observational design; Chinese population; self-reported hearing loss.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 4805,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +291,29 @@
       "why_it_matters": "This study reinforces that hearing loss is not an isolated sensory problem but is connected to broader physical and cognitive health, underscoring the importance of regular hearing assessments.",
       "story_angle_primary": "Hearing loss can affect more than conversations\u2014it may be linked to muscle strength, nutrition, and thinking skills. Regular hearing checks could be an important part of staying healthy overall.",
       "story_angle_secondary": "Geriatric assessments should routinely include hearing evaluation, as hearing loss may signal or contribute to declines in multiple health domains.",
-      "caveats": "Cross-sectional analysis (cannot establish causation); single-center Chinese cohort."
+      "caveats": "Cross-sectional analysis (cannot establish causation); single-center Chinese cohort.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 545,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +326,26 @@
       "why_it_matters": "This research highlights that successful hearing aid use depends not just on the device itself, but on the financial and emotional support systems surrounding the user.",
       "story_angle_primary": "If you've received hearing aids but find them challenging to maintain or wear, reaching out to family or community programs for support\u2014financial or emotional\u2014may help you stick with them.",
       "story_angle_secondary": "Audiologists and senior care programs should involve close family members in hearing rehabilitation plans and connect users with financial assistance for device upkeep.",
-      "caveats": "Single public hospital in Chile; may not generalize to other healthcare systems or cultures."
+      "caveats": "Single public hospital in Chile; may not generalize to other healthcare systems or cultures.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +358,28 @@
       "why_it_matters": "This study suggests that hearing loss may reflect accelerated biological aging and could serve as an indicator of broader health risks, reinforcing the value of hearing health monitoring.",
       "story_angle_primary": "Your hearing may be a window into how your body is aging overall\u2014paying attention to hearing changes could prompt conversations with your doctor about other aspects of your health.",
       "story_angle_secondary": "Healthcare systems might consider hearing loss as a potential marker for accelerated aging, prompting more comprehensive health assessments in affected individuals.",
-      "caveats": "Observational design; hypothesis-generating findings require validation; murine data exploratory with small effect sizes."
+      "caveats": "Observational design; hypothesis-generating findings require validation; murine data exploratory with small effect sizes.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 2849,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +392,27 @@
       "why_it_matters": "This population-level analysis underscores the co-occurrence of sensory and cognitive impairment globally, highlighting the need for coordinated public health planning as populations age.",
       "story_angle_primary": "Both hearing and memory concerns are becoming more common worldwide\u2014staying proactive about your hearing health may be one piece of protecting your brain health long-term.",
       "story_angle_secondary": "Policymakers and healthcare systems should integrate hearing and cognitive health strategies, particularly in rapidly aging regions where both conditions are projected to increase.",
-      "caveats": "Ecological (country-level) associations; cannot establish individual-level causation; reporting practices vary across countries."
+      "caveats": "Ecological (country-level) associations; cannot establish individual-level causation; reporting practices vary across countries.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "modelling",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +425,26 @@
       "why_it_matters": "This preliminary evidence indicates that even short-term hearing aid use can measurably change how the brain processes speech in challenging listening environments, supporting the value of early and consistent device use.",
       "story_angle_primary": "If you've just started using hearing aids, know that your brain may be adapting in helpful ways\u2014sticking with daily use, even when it's challenging at first, could make listening in noisy settings easier over time.",
       "story_angle_secondary": "Audiologists and families should encourage consistent hearing aid use from the start, emphasizing that brain adaptation happens relatively quickly and may improve real-world listening.",
-      "caveats": "Small preliminary study; no control group; short-term follow-up; single intervention site."
+      "caveats": "Small preliminary study; no control group; short-term follow-up; single intervention site.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +457,26 @@
       "why_it_matters": "Pain management may have implications beyond comfort\u2014this research suggests that addressing chronic pain could be relevant to preserving hearing health in older adults.",
       "story_angle_primary": "If you live with ongoing pain, managing it well isn't just about comfort\u2014emerging research suggests it might also matter for your hearing. Talk to your healthcare provider about comprehensive pain management.",
       "story_angle_secondary": "Care teams should recognize that pain and hearing difficulty may be interconnected; integrating pain assessment into hearing care conversations could improve holistic outcomes.",
-      "caveats": "Self-reported hearing and pain; observational design (cannot establish causation); heterogeneous measures across cohorts."
+      "caveats": "Self-reported hearing and pain; observational design (cannot establish causation); heterogeneous measures across cohorts.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 130521,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +489,27 @@
       "why_it_matters": "This long-term data shows that hearing loss isn't just associated with cognitive decline\u2014it appears to mark a turning point where decline accelerates, emphasizing the value of early hearing intervention.",
       "story_angle_primary": "If your hearing starts to change, taking action early\u2014whether through hearing aids or other support\u2014may help protect your memory and thinking skills over the long run.",
       "story_angle_secondary": "Healthcare providers should view new-onset hearing loss as a potential inflection point for cognitive health, prompting both hearing rehabilitation and cognitive monitoring.",
-      "caveats": "Observational design (cannot establish causation); self-reported hearing loss onset; US population."
+      "caveats": "Observational design (cannot establish causation); self-reported hearing loss onset; US population.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 7598,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +522,27 @@
       "why_it_matters": "Many older adults seeking hearing care may have unrecognized cognitive difficulties, suggesting that cognitive screening should be integrated into comprehensive audiological evaluations.",
       "story_angle_primary": "When you visit an audiologist, it may be worth discussing your thinking and memory as well as your hearing\u2014the two can be connected, and early awareness is helpful.",
       "story_angle_secondary": "Audiological clinics should consider adding brief cognitive screening to their assessments, as self-report alone may miss significant cognitive concerns.",
-      "caveats": "Cross-sectional; single clinic; clinical sample may not represent all adults with hearing loss."
+      "caveats": "Cross-sectional; single clinic; clinical sample may not represent all adults with hearing loss.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +555,28 @@
       "why_it_matters": "Given that most people over 70 have some hearing loss yet it often goes unrecognized in care settings, this guidance equips frontline staff with tools to improve care.",
       "story_angle_primary": "If you live in a care home and feel your hearing concerns aren't being addressed, you can ask staff about hearing assessments and accommodations\u2014your ability to communicate matters.",
       "story_angle_secondary": "Care home nurses and aides should use practical checklists to routinely assess and accommodate residents' hearing needs, as untreated loss affects safety and quality of life.",
-      "caveats": "Clinical guidance article, not original research."
+      "caveats": "Clinical guidance article, not original research.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +589,26 @@
       "why_it_matters": "How people perceive their own aging may shape whether and how they seek help for hearing loss, suggesting that interventions promoting positive yet realistic views of aging could encourage earlier action.",
       "story_angle_primary": "Recognizing that hearing changes are a normal part of aging\u2014rather than something to hide\u2014may make it easier to seek help. Talking openly with loved ones can be a valuable first step.",
       "story_angle_secondary": "Healthcare providers might frame hearing conversations around aging positively, helping older adults see help-seeking as a proactive, empowering choice.",
-      "caveats": "Cross-sectional; self-reported measures; primarily mild hearing loss sample."
+      "caveats": "Cross-sectional; self-reported measures; primarily mild hearing loss sample.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 503,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +621,26 @@
       "why_it_matters": "While hearing loss may not limit active exercise, it appears to be associated with extended sitting time\u2014a modifiable behavior linked to health risks that could be targeted in hearing care.",
       "story_angle_primary": "If you have hearing loss, pay attention to how much time you spend sitting\u2014breaking up long periods of inactivity with short walks or stretches is good for your overall health.",
       "story_angle_secondary": "Audiologists and primary care providers might encourage patients with hearing loss to reduce sedentary time, even if their formal exercise habits are unchanged.",
-      "caveats": "Cross-sectional; self-reported hearing and activity; Chilean population."
+      "caveats": "Cross-sectional; self-reported hearing and activity; Chilean population.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +653,27 @@
       "why_it_matters": "Understanding local barriers\u2014particularly stigma and financial concerns\u2014can inform efforts to improve hearing care access in Malaysia and similar low- and middle-income countries.",
       "story_angle_primary": "If cost or embarrassment has kept you from seeking hearing help, know that you're not alone\u2014community programs and family support can make a difference. Ask your local health center about available resources.",
       "story_angle_secondary": "Hearing care providers in resource-limited settings should address stigma directly and connect patients with financial assistance programs to improve uptake of services.",
-      "caveats": "Qualitative study; small sample; Malaysian context may not generalize globally."
+      "caveats": "Qualitative study; small sample; Malaysian context may not generalize globally.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +686,26 @@
       "why_it_matters": "The healthcare system places an unfair burden on older adults with hearing loss to advocate for their communication needs; system-level changes are needed to make hearing-friendly care the default.",
       "story_angle_primary": "You shouldn't have to repeatedly remind your healthcare team about your hearing needs. Consider bringing a written note about your hearing preferences to appointments, and ask if accommodations like written summaries are available.",
       "story_angle_secondary": "Healthcare systems and individual providers should proactively ask about hearing needs at every visit and offer accommodations automatically, rather than expecting patients to self-advocate repeatedly.",
-      "caveats": "Small pilot study (N=15); qualitative design; single healthcare context."
+      "caveats": "Small pilot study (N=15); qualitative design; single healthcare context.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 15,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +718,27 @@
       "why_it_matters": "Sensory impairments may increase vulnerability to mistreatment, suggesting that screening for vision and hearing loss could be integrated into elder abuse prevention efforts.",
       "story_angle_primary": "If you have trouble seeing or hearing, be aware that these challenges can sometimes make it easier for others to take advantage of you. Trusted family members or professionals can help you stay informed and protected.",
       "story_angle_secondary": "Clinicians and social workers should consider sensory impairment as a potential risk factor when screening for elder mistreatment, particularly financial exploitation.",
-      "caveats": "Cross-sectional design; self-reported impairment and mistreatment; measures differed slightly between data collection rounds."
+      "caveats": "Cross-sectional design; self-reported impairment and mistreatment; measures differed slightly between data collection rounds.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cross-sectional",
+      "sample_size": 5231,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 23,
@@ -310,7 +751,26 @@
       "why_it_matters": "This study demonstrates that digital geriatric screening is feasible and effective in primary care, offering a scalable approach to identify hearing loss and other age-related conditions early.",
       "story_angle_primary": "Quick online health screenings may help you and your doctor catch hearing loss and other issues early\u2014ask your clinic if such tools are available for you to use at home or during visits.",
       "story_angle_secondary": "Primary care practices, especially in resource-constrained settings, might adopt digital self-screening tools to efficiently identify residents or patients who need hearing assessment.",
-      "caveats": "Single metropolitan area (Bangkok); screening tool may require validation in other populations."
+      "caveats": "Single metropolitan area (Bangkok); screening tool may require validation in other populations.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 374,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 24,
@@ -323,7 +783,26 @@
       "why_it_matters": "This mixed-methods study suggests that even with hearing loss, older adults can continue to find joy in music, particularly if they have musical training or use adaptive strategies.",
       "story_angle_primary": "Don't give up on music if your hearing has changed\u2014many people still find it rewarding, especially songs with personal meaning. Explore adaptive listening strategies or hearing-friendly music programs.",
       "story_angle_secondary": "Activity coordinators and audiologists might encourage music engagement for older adults with hearing loss, emphasizing emotional benefits and offering personalized recommendations.",
-      "caveats": "Cross-sectional; cochlear implant users excluded from quantitative analysis due to small N; self-selected sample."
+      "caveats": "Cross-sectional; cochlear implant users excluded from quantitative analysis due to small N; self-selected sample.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 25,
@@ -336,7 +815,26 @@
       "why_it_matters": "Expanding HCBS for older adults with hearing loss in rural areas requires culturally resonant strategies that involve families and address financial barriers.",
       "story_angle_primary": "If you live in a rural area and have hearing loss, ask local community centers or health workers about available home-based services\u2014support may be closer than you think.",
       "story_angle_secondary": "Policymakers designing services for older adults with hearing loss should integrate family-centered approaches and financial subsidies to improve uptake in underserved rural communities.",
-      "caveats": "Observational and experimental data from China; may not generalize to other countries."
+      "caveats": "Observational and experimental data from China; may not generalize to other countries.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 10745,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 26,
@@ -349,7 +847,28 @@
       "why_it_matters": "This research clarifies that difficulties in noisy listening environments for older adults are not fully explained by hearing loss\u2014cognitive control of attention also declines with age.",
       "story_angle_primary": "If you find it hard to follow conversations when there's background noise or when speakers change, it's not just your ears\u2014your brain's attention system is working harder too. Strategies like facing speakers and minimizing distractions can help.",
       "story_angle_secondary": "Audiologists and caregivers should recognize that hearing aids alone may not solve all listening difficulties; cognitive training and environmental modifications may also be beneficial.",
-      "caveats": "Relatively small sample (N=47 per group); laboratory task may not fully reflect real-world listening."
+      "caveats": "Relatively small sample (N=47 per group); laboratory task may not fully reflect real-world listening.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 47,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 27,
@@ -362,7 +881,29 @@
       "why_it_matters": "This study adds hearing loss to the list of accessible, potentially modifiable factors that could inform dementia screening and prevention in Brazil.",
       "story_angle_primary": "Addressing hearing loss\u2014alongside staying active, managing depression, and keeping socially engaged\u2014may help reduce your risk of cognitive decline as you age.",
       "story_angle_secondary": "Primary care providers in Brazil and similar settings should incorporate hearing status into dementia risk assessments and prioritize hearing care as part of brain health strategies.",
-      "caveats": "Cross-sectional design; self-reported hearing loss; Brazilian population."
+      "caveats": "Cross-sectional design; self-reported hearing loss; Brazilian population.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 9412,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "hearing loss",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 28,
@@ -375,7 +916,27 @@
       "why_it_matters": "Population-level data reinforce the potential relevance of hearing health to dementia surveillance and prevention efforts worldwide, though country-level associations cannot establish individual causation.",
       "story_angle_primary": "While this study looks at whole countries rather than individuals, it adds to growing evidence that hearing health matters for brain health\u2014another reason to take hearing care seriously.",
       "story_angle_secondary": "Public health planners should consider hearing health infrastructure as part of comprehensive dementia prevention strategies at the population level.",
-      "caveats": "Ecological (country-level) design; cannot infer individual-level causation; data quality varies across countries."
+      "caveats": "Ecological (country-level) design; cannot infer individual-level causation; data quality varies across countries.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 29,
@@ -388,7 +949,26 @@
       "why_it_matters": "These findings highlight the high burden of significant hearing loss in Chinese older adults and suggest that women may experience steeper age-related hearing declines, potentially related to hormonal changes.",
       "story_angle_primary": "Hearing loss becomes more common as we age, especially for women\u2014if you're over 60, regular hearing check-ups can help catch problems early when intervention is most effective.",
       "story_angle_secondary": "Geriatricians and audiologists should be especially attentive to hearing assessment in older women, who may be at higher risk for rapid hearing decline.",
-      "caveats": "Cross-sectional design; Chinese population; no longitudinal tracking of individual hearing changes."
+      "caveats": "Cross-sectional design; Chinese population; no longitudinal tracking of individual hearing changes.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 2465,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 30,
@@ -401,7 +981,26 @@
       "why_it_matters": "Understanding the inflammatory basis of age-related hearing loss opens possibilities for new treatments that go beyond amplification to address underlying disease processes.",
       "story_angle_primary": "Research is uncovering new reasons why hearing declines with age\u2014chronic inflammation may play a role, reinforcing the value of overall health habits that reduce inflammation.",
       "story_angle_secondary": "Clinicians and researchers should stay informed about emerging therapies targeting cochlear inflammation, as these may eventually complement hearing aids and cochlear implants.",
-      "caveats": "Review article summarizing existing research, not original data."
+      "caveats": "Review article summarizing existing research, not original data.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "hearing loss"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

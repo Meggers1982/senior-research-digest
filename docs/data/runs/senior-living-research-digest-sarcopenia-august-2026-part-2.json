@@ -24,7 +24,29 @@
       "why_it_matters": "This study demonstrates that combining exercise, brain games, and better nutrition can meaningfully improve strength and mobility in nursing home residents \u2014 populations often overlooked in sarcopenia research.",
       "story_angle_primary": "If you or a loved one lives in assisted living or a nursing home, ask about what physical activity, cognitive programs, and nutrition enhancements are available. Combined approaches may help maintain your strength and independence more effectively than any single intervention alone.",
       "story_angle_secondary": "Senior living administrators should consider implementing structured multidomain programs that bundle exercise, cognitive activities, and dietary improvements. This pilot suggests such programs are feasible and may reduce sarcopenia progression among residents.",
-      "caveats": "Small N (90 participants), pilot study, cluster-randomized design (only two facilities), some outcomes showed borderline significance."
+      "caveats": "Small N (90 participants), pilot study, cluster-randomized design (only two facilities), some outcomes showed borderline significance.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +59,27 @@
       "why_it_matters": "This comprehensive analysis confirms that lifting weights or doing resistance exercises remains the gold standard for building stronger muscles relative to muscle size \u2014 a key marker for identifying and preventing sarcopenia.",
       "story_angle_primary": "If your goal is maintaining muscle quality as you age, prioritize resistance exercises like weight training, resistance bands, or bodyweight exercises. While nutrition matters for overall health, this research shows exercise is what truly builds stronger muscles.",
       "story_angle_secondary": "Physical therapists and fitness professionals working with older clients should emphasize resistance training as the primary intervention for improving muscle quality. Nutritional supplements alone appear insufficient for this specific outcome.",
-      "caveats": "High heterogeneity across studies (I\u00b2 = 81%), intervention protocols varied considerably."
+      "caveats": "High heterogeneity across studies (I\u00b2 = 81%), intervention protocols varied considerably.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": 3141,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +92,28 @@
       "why_it_matters": "Hip fractures are devastating for older adults, and identifying who faces the highest risk of dying within a month could help prioritize intensive care and family conversations. These tests can be done at the bedside, even on patients who cannot follow instructions.",
       "story_angle_primary": "If you or a family member is hospitalized after a hip fracture, understand that medical teams have ways to assess risk that go beyond standard tests. Knowing more about muscle health and body composition can help guide care decisions.",
       "story_angle_secondary": "For hospital teams and families, phase angle and ultrasound muscle measurements offer practical tools to identify high-risk hip fracture patients who may benefit from more aggressive intervention or earlier goals-of-care discussions.",
-      "caveats": "Single-center study, moderate sample size (N=133), observational design."
+      "caveats": "Single-center study, moderate sample size (N=133), observational design.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 133,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +126,27 @@
       "why_it_matters": "Not all sarcopenia is the same in people with diabetes. These findings suggest that treatment approaches may need to differ based on whether someone has sarcopenia with or without obesity.",
       "story_angle_primary": "If you have diabetes and are concerned about muscle loss, discuss with your doctor whether you might have one of these sarcopenia patterns. Your body composition may influence which complications to watch for and how your blood sugar is managed.",
       "story_angle_secondary": "Clinicians managing diabetes in frail older patients should consider body composition assessment. Sarcopenic obesity and sarcopenia without adiposity appear to represent distinct clinical profiles that may require tailored monitoring and treatment strategies.",
-      "caveats": "Small sample (N=109), cross-sectional design (cannot establish causation), single center."
+      "caveats": "Small sample (N=109), cross-sectional design (cannot establish causation), single center.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 109,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +159,26 @@
       "why_it_matters": "This large study suggests that biological aging markers detectable from routine blood tests and imaging may identify people at risk for muscle decline years before traditional symptoms appear \u2014 potentially opening a window for early prevention.",
       "story_angle_primary": "Your biological age may matter more than your calendar age when it comes to muscle health. If you're concerned about staying strong as you age, ask your doctor about what routine tests might reveal about your overall aging trajectory.",
       "story_angle_secondary": "This research suggests muscle decline may begin earlier than traditionally recognized. Healthcare systems might consider biological age markers when counseling middle-aged adults about lifestyle interventions to preserve muscle health.",
-      "caveats": "Observational design (cannot prove causation), predominantly Korean population (may not generalize), biological age acceleration measures still considered investigational."
+      "caveats": "Observational design (cannot prove causation), predominantly Korean population (may not generalize), biological age acceleration measures still considered investigational.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 165015,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +191,28 @@
       "why_it_matters": "Many older adults worry that taking multiple medications might harm their muscles. This study suggests polypharmacy itself may not be the culprit, and some blood pressure medications might actually have muscle-protective effects.",
       "story_angle_primary": "If you take blood pressure medication, this research offers some reassurance. ARBs (medications ending in \"-sartan,\" like losartan or valsartan) were associated with better muscle health in this study. Don't stop any medication, but you might discuss this finding with your doctor.",
       "story_angle_secondary": "For clinicians selecting antihypertensive therapy in older patients with or at risk for sarcopenia, this observational evidence adds to existing data suggesting ARBs may have beneficial effects on muscle. Prospective trials are needed to confirm these findings.",
-      "caveats": "Cross-sectional design (cannot establish causation), single center, moderate sample size (N=206), hospitalized population may not generalize to community-dwelling adults."
+      "caveats": "Cross-sectional design (cannot establish causation), single center, moderate sample size (N=206), hospitalized population may not generalize to community-dwelling adults.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 206,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +225,28 @@
       "why_it_matters": "Statins are among the most commonly prescribed medications, and concerns about muscle effects have led some patients to stop taking them. This study provides reassurance that long-term statin use does not appear to harm muscle parameters important for sarcopenia.",
       "story_angle_primary": "If you've worried that your cholesterol medication might weaken your muscles, this long-term study offers reassurance \u2014 statin use was not linked to muscle loss, weakness, or poor physical function. Continue your medications as prescribed.",
       "story_angle_secondary": "Clinicians can share this evidence when patients express concerns about statin-related muscle effects. The modest association between RASi and muscle mass warrants monitoring but should be weighed against cardiovascular benefits.",
-      "caveats": "Observational design (cannot prove causation), single cohort, exploratory analysis, predominantly German population."
+      "caveats": "Observational design (cannot prove causation), single cohort, exploratory analysis, predominantly German population.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +259,27 @@
       "why_it_matters": "This research highlights that muscle health isn't just about exercise and nutrition \u2014 the home environment matters too. Access to clean water and adequate housing may be underappreciated factors in preventing sarcopenia.",
       "story_angle_primary": "Your living conditions may affect your muscle health. If you have concerns about your water quality, heating fuel, or housing, consider discussing these environmental factors with your healthcare provider or local social services.",
       "story_angle_secondary": "Public health officials and aging services should recognize that sarcopenia prevention extends beyond clinical interventions. Housing quality, clean water access, and indoor air quality represent modifiable environmental factors that could be addressed through policy and community programs.",
-      "caveats": "Observational design (cannot prove causation), Chinese population (may not generalize), self-reported environmental data."
+      "caveats": "Observational design (cannot prove causation), Chinese population (may not generalize), self-reported environmental data.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 12883,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +292,27 @@
       "why_it_matters": "This combined human-and-animal study suggests that vitamin D status may be particularly important for muscle health in people with diabetes, a population already at elevated sarcopenia risk.",
       "story_angle_primary": "If you have diabetes, ask your doctor about checking your vitamin D levels. This research suggests maintaining adequate vitamin D may be especially important for preserving your muscle strength and function.",
       "story_angle_secondary": "Clinicians managing diabetes in older patients should consider vitamin D status as part of comprehensive care. While supplementation trials are needed, ensuring adequate vitamin D levels may help protect against diabetes-related muscle deterioration.",
-      "caveats": "Observational human data (cannot prove causation), animal experiments may not fully translate to humans, vitamin D measurement methods varied between cohorts."
+      "caveats": "Observational human data (cannot prove causation), animal experiments may not fully translate to humans, vitamin D measurement methods varied between cohorts.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 7520,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +325,27 @@
       "why_it_matters": "This large study reveals that weak grip strength \u2014 an early warning sign of sarcopenia \u2014 predicts future lung problems. The inflammation connection suggests these conditions may share common underlying processes.",
       "story_angle_primary": "Weak grip strength isn't just about muscle \u2014 it may signal risk for lung problems down the road. If you've noticed declining hand strength, consider discussing overall health screening with your doctor, including lung function.",
       "story_angle_secondary": "Primary care providers should recognize that low grip strength may identify patients at elevated risk for respiratory conditions. Early sarcopenia management through exercise and nutrition could potentially reduce future respiratory disease burden.",
-      "caveats": "Observational design (cannot prove causation), UK population (may not generalize globally), \"probable sarcopenia\" based on grip strength alone without muscle mass measurement."
+      "caveats": "Observational design (cannot prove causation), UK population (may not generalize globally), \"probable sarcopenia\" based on grip strength alone without muscle mass measurement.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 317628,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +358,26 @@
       "why_it_matters": "This research highlights a troubling cycle: poor muscle function leads to longer hospitalizations, and longer hospitalizations may further harm muscle function \u2014 with the oldest patients most vulnerable.",
       "story_angle_primary": "If you or a loved one is hospitalized, ask about getting out of bed and moving as soon as it's safe. Your muscle strength at admission may influence how long you need to stay \u2014 and staying longer could affect your muscles further.",
       "story_angle_secondary": "Hospital staff should prioritize early mobility interventions, particularly for patients 80 and older. Assessing chair-stand ability and grip strength at admission may help identify patients at risk for prolonged hospitalization who might benefit from early physical therapy.",
-      "caveats": "Cross-sectional design (cannot determine causality direction), hospitalized population, single-center study."
+      "caveats": "Cross-sectional design (cannot determine causality direction), hospitalized population, single-center study.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +390,26 @@
       "why_it_matters": "Currently, sarcopenia diagnosis requires specialized equipment and trained personnel. A simple questionnaire that older adults or community health workers could administer makes early identification far more accessible.",
       "story_angle_primary": "Simple screening questions may soon help identify whether you're at risk for sarcopenia without requiring hospital visits or expensive tests. Ask your doctor or community health center if such screening is available.",
       "story_angle_secondary": "Community health programs and senior centers should consider adopting validated brief screening tools for sarcopenia. Early identification allows for timely intervention with exercise and nutrition programs before significant muscle loss occurs.",
-      "caveats": "Developed and validated in Chinese populations (may need adaptation elsewhere), cross-sectional validation, screening tools identify risk but diagnosis still requires clinical assessment."
+      "caveats": "Developed and validated in Chinese populations (may need adaptation elsewhere), cross-sectional validation, screening tools identify risk but diagnosis still requires clinical assessment.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +422,29 @@
       "why_it_matters": "Even among relatively healthy older adults, declining vision and hearing may be early markers of broader functional decline. Addressing sensory deficits could be a practical entry point for preventing falls and sarcopenia.",
       "story_angle_primary": "Don't dismiss changes in your vision or hearing as just \"normal aging.\" This research suggests sensory changes may be early warning signs of other health declines. Get regular eye and hearing exams, and address any problems promptly.",
       "story_angle_secondary": "Community prevention programs should integrate vision and hearing screening as first-line assessments. Early correction of sensory deficits may help preserve broader physical function and reduce fall and sarcopenia risk.",
-      "caveats": "Cross-sectional design (cannot establish causation), Chinese population, self-reported data for some measures."
+      "caveats": "Cross-sectional design (cannot establish causation), Chinese population, self-reported data for some measures.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "hearing loss",
+        "sarcopenia",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +457,28 @@
       "why_it_matters": "Low-income seniors living alone face elevated risks of cognitive and physical decline but are rarely included in digital health research. This study demonstrates that adapted technology can reach this vulnerable population through existing community services.",
       "story_angle_primary": "If you live alone and are interested in maintaining your strength and balance, ask about exercise programs in your community \u2014 even technology-based options like exergames may be available through local senior services.",
       "story_angle_secondary": "Public community care programs should consider integrating accessible exergaming interventions. This approach may help reach isolated older adults who face barriers to traditional exercise programs, though larger trials are needed to confirm benefits.",
-      "caveats": "Small samples (pilot N=15, RCT N=31), preliminary findings did not survive statistical correction for multiple comparisons, specific population (low-income Korean older adults living alone)."
+      "caveats": "Small samples (pilot N=15, RCT N=31), preliminary findings did not survive statistical correction for multiple comparisons, specific population (low-income Korean older adults living alone).",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 31,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +491,27 @@
       "why_it_matters": "The CHG index uses three common blood tests already routinely measured, potentially offering doctors a simple way to identify patients at elevated sarcopenia risk during regular checkups.",
       "story_angle_primary": "Your routine blood tests for cholesterol and blood sugar may reveal more than heart and diabetes risk \u2014 elevated levels over time might signal muscle loss risk too. Discuss comprehensive interpretation of your lab results with your doctor.",
       "story_angle_secondary": "Primary care providers could potentially use the CHG index \u2014 calculated from routine labs \u2014 as an additional tool to identify patients who might benefit from sarcopenia prevention strategies. This requires validation but offers a low-cost screening approach.",
-      "caveats": "Observational design (cannot prove causation), Chinese population, sarcopenia defined using 2025 criteria (may differ from other studies)."
+      "caveats": "Observational design (cannot prove causation), Chinese population, sarcopenia defined using 2025 criteria (may differ from other studies).",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 5580,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +524,26 @@
       "why_it_matters": "This study suggests that the intensity of activity matters \u2014 swapping sitting for light puttering may not protect muscles as effectively as engaging in more vigorous movement, even in modest amounts.",
       "story_angle_primary": "When you find yourself sitting for extended periods, consider replacing some of that time with brisk walking or other activities that get your heart rate up. This research suggests even 10 minutes of moderate activity may make a meaningful difference for your muscles.",
       "story_angle_secondary": "Physical therapists and fitness professionals should emphasize that intensity matters. Encouraging older adults to engage in moderate activity \u2014 not just any movement \u2014 appears important for sarcopenia prevention.",
-      "caveats": "Cross-sectional design (cannot prove causation), rural Japanese population, sarcopenia prevalence was relatively low (6.3%)."
+      "caveats": "Cross-sectional design (cannot prove causation), rural Japanese population, sarcopenia prevalence was relatively low (6.3%).",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +556,27 @@
       "why_it_matters": "This study quantifies how specific muscles change over time and which changes matter most for function \u2014 potentially helping identify which people need intervention most urgently.",
       "story_angle_primary": "Thigh muscle strength matters enormously for everyday activities like getting up from chairs and walking steadily. Focus your exercise routine on leg strengthening exercises to maintain independence.",
       "story_angle_secondary": "For clinicians with access to CT imaging (often done for other reasons), attention to thigh muscle measurements may provide useful information about functional trajectory. Physical therapy programs might prioritize lower extremity strengthening.",
-      "caveats": "Small sample (N=120), single-center study, CT imaging adds radiation exposure and cost."
+      "caveats": "Small sample (N=120), single-center study, CT imaging adds radiation exposure and cost.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 120,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +589,29 @@
       "why_it_matters": "This research suggests that muscle and bone health are deeply interconnected at the biological level, and lifestyle interventions that protect one may protect both.",
       "story_angle_primary": "If you're working on preventing osteoporosis, the same strategies likely help your muscles too. Not smoking, getting adequate sleep, and staying physically active appear to benefit both your bones and muscles through overlapping biological pathways.",
       "story_angle_secondary": "Healthcare providers should adopt integrated approaches to musculoskeletal health rather than treating bone and muscle as separate concerns. Unified messaging about lifestyle interventions \u2014 particularly exercise, smoking cessation, and sleep \u2014 may improve adherence and outcomes.",
-      "caveats": "UK Biobank population (predominantly white European ancestry), observational design, identified associations but cannot prove causation."
+      "caveats": "UK Biobank population (predominantly white European ancestry), observational design, identified associations but cannot prove causation.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "osteoporosis",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +624,27 @@
       "why_it_matters": "This review highlights potential connections between muscle health and brain health but reveals significant research gaps that make firm conclusions impossible \u2014 pointing to where future research is needed.",
       "story_angle_primary": "Emerging research suggests your muscle health may be connected to your brain health, though scientists are still working out the details. Staying physically active benefits both your muscles and your brain \u2014 another reason to keep moving.",
       "story_angle_secondary": "Researchers and clinicians should be aware that the relationship between sarcopenia and Alzheimer's pathology remains unclear due to inconsistent measurement methods and predominantly cross-sectional study designs. Longitudinal studies with standardized assessments are needed.",
-      "caveats": "Scoping review (describes existing evidence rather than synthesizing effect sizes), significant heterogeneity in how studies measured both sarcopenia and brain biomarkers, mostly cross-sectional studies."
+      "caveats": "Scoping review (describes existing evidence rather than synthesizing effect sizes), significant heterogeneity in how studies measured both sarcopenia and brain biomarkers, mostly cross-sectional studies.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +657,26 @@
       "why_it_matters": "This study suggests that blood-based measures of biological aging may help identify people at risk for sarcopenia years before muscle problems become apparent.",
       "story_angle_primary": "While not yet routine, blood tests measuring how fast your body is aging may someday help predict muscle problems years in advance. In the meantime, focus on lifestyle factors known to slow biological aging: exercise, good nutrition, adequate sleep, and stress management.",
       "story_angle_secondary": "Biological age measures are moving toward clinical application. These findings support the concept that accelerated aging drives sarcopenia, potentially opening opportunities for earlier identification of at-risk individuals once such testing becomes more widely available.",
-      "caveats": "Small sample (N=331), single UK cohort, DNA methylation clocks are still being validated for clinical use."
+      "caveats": "Small sample (N=331), single UK cohort, DNA methylation clocks are still being validated for clinical use.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 331,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +689,26 @@
       "why_it_matters": "Current sarcopenia treatments follow a \"one-size-fits-all\" approach, but this review argues that men and women may need fundamentally different interventions based on distinct underlying biology.",
       "story_angle_primary": "Muscle loss may happen differently depending on your sex. Women experiencing menopause may be particularly vulnerable to rapid changes. Discuss with your doctor whether your prevention strategy should be tailored to your specific situation.",
       "story_angle_secondary": "Researchers and clinicians should recognize that sarcopenia may represent different diseases in men versus women. Clinical trials should report sex-stratified results, and treatment recommendations may need to be personalized by sex.",
-      "caveats": "Narrative review (not a systematic analysis), some conclusions are speculative, most supporting evidence comes from basic science rather than clinical trials."
+      "caveats": "Narrative review (not a systematic analysis), some conclusions are speculative, most supporting evidence comes from basic science rather than clinical trials.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +721,27 @@
       "why_it_matters": "This study introduces \"respiratory sarcopenia\" as a concept \u2014 the combination of weak breathing muscles and general muscle loss \u2014 that may identify people at particularly high risk for multiple chronic conditions.",
       "story_angle_primary": "If you've noticed both declining muscle strength and more difficulty with breathing tasks, this combination may signal increased risk for several chronic conditions. Discuss comprehensive assessment with your healthcare provider.",
       "story_angle_secondary": "Community health programs might consider screening for both respiratory and skeletal muscle function together. Interventions targeting both systems \u2014 such as combined resistance and respiratory muscle training \u2014 may offer broad chronic disease prevention benefits.",
-      "caveats": "Observational design (cannot prove causation), \"probable respiratory sarcopenia\" is a surrogate definition, Chinese population."
+      "caveats": "Observational design (cannot prove causation), \"probable respiratory sarcopenia\" is a surrogate definition, Chinese population.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

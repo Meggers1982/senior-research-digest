@@ -24,7 +24,27 @@
       "why_it_matters": "This is among the first randomized evidence suggesting that effectively treating insomnia in older adults may slow biological aging at the cellular level\u2014not just improve sleep.",
       "story_angle_primary": "If you struggle with chronic insomnia, this study adds to the reasons to seek evidence-based treatment like CBT-I\u2014it may benefit more than just your sleep. Ask your doctor or a sleep specialist whether CBT-I is right for you.",
       "story_angle_secondary": "For senior living communities and family caregivers, prioritizing access to insomnia treatment programs may support residents' long-term health beyond nighttime rest.",
-      "caveats": "Small sample (N=92), single-center, secondary analysis of a larger trial, primarily non-Hispanic White participants which may limit generalizability."
+      "caveats": "Small sample (N=92), single-center, secondary analysis of a larger trial, primarily non-Hispanic White participants which may limit generalizability.",
+      "score": 91,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 92,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,27 @@
       "why_it_matters": "The findings reinforce that sleep is not just about rest\u2014it's a modifiable factor that may influence the trajectory of multiple age-related health conditions simultaneously.",
       "story_angle_primary": "Paying attention to both how long and how well you sleep may help protect your physical health, mood, and memory as you age. Simple changes\u2014like consistent bedtimes or reducing nighttime light\u2014are reasonable starting points to discuss with your healthcare provider.",
       "story_angle_secondary": "Care teams and families should consider sleep habits when evaluating overall health risk, recognizing that sleep disturbances may signal broader vulnerability.",
-      "caveats": "Observational design (cannot prove causation), self-reported sleep measures, single country (China), potential unmeasured confounders."
+      "caveats": "Observational design (cannot prove causation), self-reported sleep measures, single country (China), potential unmeasured confounders.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +90,27 @@
       "why_it_matters": "Addressing sleep problems in older adults with chronic pain may help interrupt a cycle that leads to frailty.",
       "story_angle_primary": "If you live with chronic pain, improving your sleep may be just as important as managing the pain itself. Consider talking to your doctor about both together.",
       "story_angle_secondary": "For caregivers and senior living staff, routinely asking about sleep in residents with chronic pain could help identify those at higher risk for functional decline.",
-      "caveats": "Relatively small sample (N=363), single geographic region (Japan), observational design, sleep assessed by single-item questionnaire."
+      "caveats": "Relatively small sample (N=363), single geographic region (Japan), observational design, sleep assessed by single-item questionnaire.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 363,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +123,29 @@
       "why_it_matters": "This study suggests that two modifiable factors\u2014diet quality and sleep duration\u2014may work together to influence cognitive health in later life.",
       "story_angle_primary": "Eating a diet rich in fruits, vegetables, and antioxidants while aiming for 7\u20138 hours of sleep may support brain health as you age. These are reasonable goals to discuss with your healthcare team.",
       "story_angle_secondary": "Nutrition and sleep programs in senior living settings could be designed with cognitive protection in mind, targeting both factors simultaneously.",
-      "caveats": "Observational design, cognition measured at a single follow-up point, population limited to rural China, self-reported diet and sleep."
+      "caveats": "Observational design, cognition measured at a single follow-up point, population limited to rural China, self-reported diet and sleep.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "falls",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +158,27 @@
       "why_it_matters": "Falls are a leading cause of injury in older adults. This study suggests that improving sleep quality could be one avenue for reducing fall risk.",
       "story_angle_primary": "If you're concerned about your balance or have experienced falls, consider whether poor or disrupted sleep might be playing a role. Discussing sleep with your doctor may be a step toward safer walking.",
       "story_angle_secondary": "For senior care professionals, routine sleep assessment may help identify residents at higher risk for falls, particularly those with already compromised mobility.",
-      "caveats": "Small sample (N=72), cross-sectional (cannot determine causation), predominantly non-Hispanic White participants, single-center."
+      "caveats": "Small sample (N=72), cross-sectional (cannot determine causation), predominantly non-Hispanic White participants, single-center.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 72,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +191,27 @@
       "why_it_matters": "The findings suggest that CPAP may be especially valuable for older adults with more severe oxygen drops during sleep, supporting a personalized approach to sleep apnea treatment.",
       "story_angle_primary": "If you have sleep apnea, ask your doctor about your \"hypoxia burden\"\u2014how much oxygen you lose at night. This information may help you and your physician decide how important CPAP therapy is for your heart health.",
       "story_angle_secondary": "Senior living facilities and families should support CPAP adherence, particularly among residents with severe oxygen desaturation during sleep.",
-      "caveats": "Observational cohort (not randomized), propensity score matching was used but residual confounding possible, findings may not generalize beyond the Chinese population studied."
+      "caveats": "Observational cohort (not randomized), propensity score matching was used but residual confounding possible, findings may not generalize beyond the Chinese population studied.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 350,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +224,29 @@
       "why_it_matters": "Caregiving for someone with dementia is chronically stressful. This study shows that a brief, technology-delivered mindfulness intervention is feasible, acceptable, and may meaningfully reduce caregiver distress.",
       "story_angle_primary": "If you care for a loved one with dementia, brief mindfulness practices\u2014delivered through an app\u2014may help reduce stress and improve your sleep. Consider exploring similar digital tools as a complement to other support.",
       "story_angle_secondary": "Senior living professionals and family support programs should consider incorporating low-burden, app-based mindfulness interventions to support caregiver well-being.",
-      "caveats": "Single-arm design (no control group), pre-post comparison only, short duration (18 days), population limited to Hong Kong."
+      "caveats": "Single-arm design (no control group), pre-post comparison only, short duration (18 days), population limited to Hong Kong.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +259,28 @@
       "why_it_matters": "The study highlights that sleep instability, not just short or long sleep, may matter for cardiovascular health\u2014making sleep consistency a potential prevention target.",
       "story_angle_primary": "Maintaining steady sleep patterns over the years\u2014not just getting enough sleep tonight\u2014may help protect your heart and brain. Consider discussing any major changes in your sleep with your doctor.",
       "story_angle_secondary": "For families and care teams, tracking sleep patterns over time could help identify older adults at elevated cardiovascular risk.",
-      "caveats": "Observational design, self-reported sleep, single country (China), trajectory modeling relies on statistical assumptions."
+      "caveats": "Observational design, self-reported sleep, single country (China), trajectory modeling relies on statistical assumptions.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 5603,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +293,28 @@
       "why_it_matters": "The findings underscore how lifestyle factors like sleep regularity and environmental exposures jointly influence physical health in older adults.",
       "story_angle_primary": "Keeping a regular sleep-wake schedule and limiting exposure to indoor air pollution may help you maintain strength and physical function as you age.",
       "story_angle_secondary": "Senior housing policies should consider both air quality and support for consistent daily routines to protect residents' mobility and independence.",
-      "caveats": "Observational design, single country (China), circadian rhythm syndrome is a composite measure with limited validation."
+      "caveats": "Observational design, single country (China), circadian rhythm syndrome is a composite measure with limited validation.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +327,28 @@
       "why_it_matters": "The study identifies sleep quality as one of the most robust lifestyle correlates of memory, reinforcing its relevance as a potential intervention target.",
       "story_angle_primary": "Improving your sleep quality may support your memory. If you're having trouble remembering things, consider whether sleep issues could be contributing.",
       "story_angle_secondary": "Memory care and healthy aging programs should include sleep assessment as a routine component.",
-      "caveats": "Cross-sectional (cannot establish causation), modest effect sizes, single geographic region (Hong Kong), self-reported lifestyle factors."
+      "caveats": "Cross-sectional (cannot establish causation), modest effect sizes, single geographic region (Hong Kong), self-reported lifestyle factors.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +361,28 @@
       "why_it_matters": "Sleep problems in MCI are not isolated symptoms\u2014they reflect a complex interplay of mood, cognition, and disease stage, suggesting that multifaceted interventions may be most effective.",
       "story_angle_primary": "If you have mild cognitive impairment and are struggling with sleep, it may help to address mood symptoms alongside sleep concerns. Ask your doctor about a comprehensive approach.",
       "story_angle_secondary": "Clinicians and caregivers should assess psychological health when managing sleep complaints in those with MCI.",
-      "caveats": "Cross-sectional design, modest sample size, single-center, Greek population may limit generalizability."
+      "caveats": "Cross-sectional design, modest sample size, single-center, Greek population may limit generalizability.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +395,28 @@
       "why_it_matters": "Black caregivers may be more vulnerable to the sleep-disrupting effects of caregiving stress, pointing to a need for culturally tailored interventions.",
       "story_angle_primary": "If you are caring for a loved one with dementia and feeling overwhelmed, know that these feelings can affect your sleep. Reaching out for support is important\u2014not just for your loved one, but for your own health.",
       "story_angle_secondary": "Programs supporting dementia caregivers should address sleep health explicitly, with attention to the unique needs and stressors faced by Black caregivers.",
-      "caveats": "Cross-sectional design, observational data, single data source (2017 National Study of Caregiving), limited ability to determine causation."
+      "caveats": "Cross-sectional design, observational data, single data source (2017 National Study of Caregiving), limited ability to determine causation.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +429,28 @@
       "why_it_matters": "If successful, this trial could inform scalable, non-drug strategies for reducing Alzheimer's risk through lifestyle modification.",
       "story_angle_primary": "Researchers are testing whether improving both sleep and exercise together offers extra brain protection. Staying physically active and prioritizing good sleep are already recommended, and this trial may show why doing both matters.",
       "story_angle_secondary": "Senior living programs should watch for results from this trial, which could guide evidence-based programming combining sleep and exercise interventions.",
-      "caveats": "Protocol only (no results yet), small sample size planned (N=60), exploratory/hypothesis-generating design."
+      "caveats": "Protocol only (no results yet), small sample size planned (N=60), exploratory/hypothesis-generating design.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 60,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +463,27 @@
       "why_it_matters": "The study suggests that family involvement may buffer the mental health impact of poor sleep among institutionalized older adults.",
       "story_angle_primary": "Staying connected with family may help protect your mood, especially if you're living in a care facility and struggling with sleep. Don't hesitate to reach out for support.",
       "story_angle_secondary": "Nursing homes and families should prioritize regular, meaningful contact\u2014phone calls, visits, or video chats\u2014as part of mental health support for residents.",
-      "caveats": "Cross-sectional design, self-reported measures, limited to Chinese nursing homes, cannot determine causation."
+      "caveats": "Cross-sectional design, self-reported measures, limited to Chinese nursing homes, cannot determine causation.",
+      "score": 56,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 269,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 3,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +496,30 @@
       "why_it_matters": "Multiple modifiable lifestyle factors are associated with how older adults perceive their own memory\u2014offering practical targets for healthy aging efforts.",
       "story_angle_primary": "Eating well, staying active, and getting optimal sleep are all linked to feeling sharper mentally. If you notice memory concerns, consider whether these lifestyle factors could be improved.",
       "story_angle_secondary": "Healthy aging programs should address diet, sleep, and activity together, while also screening for hearing loss and mood symptoms.",
-      "caveats": "Cross-sectional design, self-reported outcomes, app users may not be representative of the general population, modest effect sizes."
+      "caveats": "Cross-sectional design, self-reported outcomes, app users may not be representative of the general population, modest effect sizes.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "hearing loss",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +532,26 @@
       "why_it_matters": "This pilot trial provides early evidence that treating sleep apnea may help slow one aspect of biological aging, potentially through reducing inflammation.",
       "story_angle_primary": "If you have sleep apnea, sticking with CPAP therapy may offer benefits beyond better sleep\u2014including possible effects on how your cells age. Talk to your doctor if you're struggling with CPAP adherence.",
       "story_angle_secondary": "Clinicians should emphasize the broader health benefits of CPAP adherence when counseling older patients with sleep apnea.",
-      "caveats": "Small sample (N=46), men only, single-center, pilot study requiring replication in larger and more diverse populations."
+      "caveats": "Small sample (N=46), men only, single-center, pilot study requiring replication in larger and more diverse populations.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 46,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +564,26 @@
       "why_it_matters": "Fatigue is among the most disabling symptoms of Parkinson's. This high-quality evidence supports exercise as a core component of fatigue management.",
       "story_angle_primary": "If you have Parkinson's and struggle with fatigue, regular physical exercise\u2014walking, strength training, or dance\u2014can help. Ask your physical therapist or doctor about a program tailored to your abilities.",
       "story_angle_secondary": "Parkinson's care programs should integrate structured exercise and consider sleep hygiene education as complementary interventions for fatigue.",
-      "caveats": "Moderate-certainty evidence, heterogeneous interventions and populations, some control interventions may also be active treatments."
+      "caveats": "Moderate-certainty evidence, heterogeneous interventions and populations, some control interventions may also be active treatments.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +596,29 @@
       "why_it_matters": "The review underscores that brain health is not determined by any single factor, but by how sleep, eating, and daily rhythms work together over a lifetime.",
       "story_angle_primary": "Eating well, sleeping well, and keeping a consistent daily schedule may all support brain health as you age. Consider discussing how these factors work together with your healthcare provider.",
       "story_angle_secondary": "Senior living communities should consider programs that align meal timing, light exposure, and sleep schedules to support residents' cognitive health.",
-      "caveats": "Narrative review (not a systematic review or original study), some interventions have limited human evidence, recommendations are general."
+      "caveats": "Narrative review (not a systematic review or original study), some interventions have limited human evidence, recommendations are general.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +631,29 @@
       "why_it_matters": "Understanding the glymphatic system provides a biological rationale for why sleep matters for brain health and suggests new prevention targets.",
       "story_angle_primary": "Getting quality sleep may help your brain clear out waste products that accumulate with age. Prioritizing sleep is a reasonable step to support long-term brain health.",
       "story_angle_secondary": "Families and care teams should recognize that sleep interventions may have benefits beyond rest, potentially supporting the brain's self-cleaning mechanisms.",
-      "caveats": "Review article (not original data), glymphatic function is difficult to measure in living humans, most evidence is preclinical or observational."
+      "caveats": "Review article (not original data), glymphatic function is difficult to measure in living humans, most evidence is preclinical or observational.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +666,26 @@
       "why_it_matters": "The framework reframes sleep decline as a signal of systemic aging, potentially guiding new research and interventions.",
       "story_angle_primary": "If your sleep has changed as you've aged, it may reflect broader shifts in your body's biology\u2014not just a sleep problem. Addressing metabolism, inflammation, and daily rhythms together may be beneficial.",
       "story_angle_secondary": "Researchers and clinicians should consider sleep deterioration as a window into overall biological aging, not an isolated symptom.",
-      "caveats": "Conceptual/hypothesis-generating framework, not direct evidence, methodological challenges remain in assessing proposed pathways in humans."
+      "caveats": "Conceptual/hypothesis-generating framework, not direct evidence, methodological challenges remain in assessing proposed pathways in humans.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +698,27 @@
       "why_it_matters": "Understanding what is normal versus pathological in aging sleep helps older adults and their care teams seek appropriate treatment.",
       "story_angle_primary": "Some changes in sleep are a normal part of aging, but persistent insomnia, loud snoring, or restless legs may signal treatable conditions. Discuss ongoing sleep concerns with your healthcare provider.",
       "story_angle_secondary": "Senior care professionals should be equipped to distinguish normal age-related sleep changes from disorders that warrant intervention.",
-      "caveats": "Narrative review, not all recommendations are supported by high-quality randomized trials in oldest-old populations."
+      "caveats": "Narrative review, not all recommendations are supported by high-quality randomized trials in oldest-old populations.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +731,27 @@
       "why_it_matters": "The study demonstrates that remote, app-based memory assessment is feasible for older adults with cognitive concerns, potentially enabling early detection and research outside clinic walls.",
       "story_angle_primary": "New smartphone apps may soon allow you to track how sleep affects your memory from the comfort of home. Staying engaged with such tools could help you and your doctor monitor brain health over time.",
       "story_angle_secondary": "Digital tools for sleep-memory assessment may extend the reach of memory clinics, but user support and accessibility features will be important for wider adoption.",
-      "caveats": "Small pilot sample (N=76), completion rates moderate, single clinic, primarily feasibility-focused."
+      "caveats": "Small pilot sample (N=76), completion rates moderate, single clinic, primarily feasibility-focused.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": 76,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 23,
@@ -310,7 +764,27 @@
       "why_it_matters": "As climate change intensifies, older adults face growing mental health risks\u2014particularly those in under-researched, low-resource settings.",
       "story_angle_primary": "Extreme heat, cold, and natural disasters can affect your mood and sleep. If you notice changes in how you feel during or after weather events, consider discussing them with your healthcare provider.",
       "story_angle_secondary": "Senior living facilities and public health programs should prepare for climate-related mental health impacts, with attention to sleep support and disaster resilience.",
-      "caveats": "Systematic review with narrative synthesis, most studies from East Asia, limited intervention evidence."
+      "caveats": "Systematic review with narrative synthesis, most studies from East Asia, limited intervention evidence.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 24,
@@ -323,7 +797,29 @@
       "why_it_matters": "The findings highlight that interventions targeting shared lifestyle factors like sleep, smoking, and exercise could benefit both muscle and bone health in older adults.",
       "story_angle_primary": "Maintaining healthy sleep, staying active, and not smoking may help protect both your muscles and bones as you age. These factors work together\u2014addressing one may benefit the other.",
       "story_angle_secondary": "Senior care programs should address musculoskeletal health holistically, recognizing that interventions for one system may benefit another.",
-      "caveats": "Observational UK Biobank data, cross-sectional and prospective analyses, findings may not generalize to non-European populations."
+      "caveats": "Observational UK Biobank data, cross-sectional and prospective analyses, findings may not generalize to non-European populations.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "osteoporosis",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 25,
@@ -336,7 +832,28 @@
       "why_it_matters": "This is among the first trials to test a highly personalized, multimodal \"precision geromedicine\" approach to healthy aging\u2014if feasible, it could inform larger studies.",
       "story_angle_primary": "Researchers are testing whether a combination of personalized diet, exercise, sleep, and supplement interventions can support healthy aging. While results are not yet available, this reflects growing interest in tailored approaches to longevity.",
       "story_angle_secondary": "Senior living and wellness programs should watch for emerging evidence from precision geromedicine trials, which may reshape best practices for healthy aging interventions.",
-      "caveats": "Protocol only (no results yet), very small sample (N=20), feasibility focus, supplements are not FDA-regulated for these indications."
+      "caveats": "Protocol only (no results yet), very small sample (N=20), feasibility focus, supplements are not FDA-regulated for these indications.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 20,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 26,
@@ -349,7 +866,27 @@
       "why_it_matters": "Sleep EEG may offer a non-invasive, accessible window into Alzheimer's biology, potentially aiding early detection and subtyping.",
       "story_angle_primary": "Sleep studies may one day help identify Alzheimer's disease or its subtypes without invasive tests. If you're concerned about memory, discussing sleep assessment with your doctor may be worthwhile.",
       "story_angle_secondary": "Clinicians and researchers should consider the potential of sleep EEG as a tool for biological characterization of Alzheimer's, complementing established biomarkers.",
-      "caveats": "Small sample, cross-sectional, single-center, exploratory clustering approach, requires replication."
+      "caveats": "Small sample, cross-sectional, single-center, exploratory clustering approach, requires replication.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 27,
@@ -362,7 +899,28 @@
       "why_it_matters": "The findings suggest that modifiable factors\u2014education, sleep, mood, and socioeconomic status\u2014may influence how much genetic risk for dementia translates into actual disease.",
       "story_angle_primary": "Even if you carry a genetic risk for dementia, factors like education, sleep, and mental health may influence your actual risk. Focus on what you can control.",
       "story_angle_secondary": "Public health and senior care programs should address modifiable risk factors, recognizing that genetic risk is not destiny.",
-      "caveats": "Observational UK Biobank data, primarily White participants, cannot prove causation."
+      "caveats": "Observational UK Biobank data, primarily White participants, cannot prove causation.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 28,
@@ -375,7 +933,28 @@
       "why_it_matters": "The review provides a mechanistic framework linking sleep, gut health, and cardiovascular disease\u2014suggesting that improving sleep could have downstream benefits for heart health.",
       "story_angle_primary": "Sleep may affect your heart health through its effects on your gut. Prioritizing sleep is a reasonable step for overall cardiovascular wellness.",
       "story_angle_secondary": "Researchers and clinicians should consider the gut-brain-heart axis when developing integrated approaches to cardiovascular prevention in older adults.",
-      "caveats": "Review/synthesis (not original data), many proposed mechanisms are preclinical, translational evidence in humans is limited."
+      "caveats": "Review/synthesis (not original data), many proposed mechanisms are preclinical, translational evidence in humans is limited.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 29,
@@ -388,7 +967,28 @@
       "why_it_matters": "The paper challenges the conventional approach of treating aging and sleep as separate domains, proposing a unified, prevention-oriented model.",
       "story_angle_primary": "Syncing your daily routines\u2014sleep, meals, exercise, light exposure\u2014with your body's internal clock may help you age more healthily. Consider discussing circadian-friendly habits with your healthcare provider.",
       "story_angle_secondary": "Senior living facilities and healthcare systems should explore how to incorporate circadian principles into care protocols, from meal timing to medication administration.",
-      "caveats": "Perspective/framework paper, not original research, implementation and evidence for specific recommendations vary."
+      "caveats": "Perspective/framework paper, not original research, implementation and evidence for specific recommendations vary.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 30,
@@ -401,7 +1001,27 @@
       "why_it_matters": "The study provides mechanistic evidence that brain \"plumbing\" and sleep work together to support memory in aging\u2014offering new targets for intervention.",
       "story_angle_primary": "Sleep may help your brain clear out waste and maintain healthy signaling. If you notice memory changes, improving sleep is a reasonable first step.",
       "story_angle_secondary": "Researchers are identifying new biological targets\u2014like brain fluid drainage\u2014that may explain why sleep matters for memory in aging.",
-      "caveats": "Animal study (rats), findings may not directly translate to humans, mechanistic focus rather than intervention."
+      "caveats": "Animal study (rats), findings may not directly translate to humans, mechanistic focus rather than intervention.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "preclinical",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 31,
@@ -414,7 +1034,27 @@
       "why_it_matters": "The glymphatic system may serve as an early biomarker for cognitive decline, potentially enabling earlier intervention.",
       "story_angle_primary": "Researchers are developing brain scans that measure how well your brain clears waste during sleep. This may one day help detect memory problems earlier.",
       "story_angle_secondary": "Clinicians should monitor advances in glymphatic imaging, which could become a tool for early detection of cognitive decline.",
-      "caveats": "Narrative review, DTI-ALPS is an indirect measure, most studies are cross-sectional, methodological variability limits interpretation."
+      "caveats": "Narrative review, DTI-ALPS is an indirect measure, most studies are cross-sectional, methodological variability limits interpretation.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

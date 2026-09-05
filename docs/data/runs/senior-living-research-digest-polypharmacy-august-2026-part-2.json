@@ -24,7 +24,27 @@
       "why_it_matters": "Structured medication reviews delivered during a hospital stay can reduce preventable readmissions and ease financial strain on healthcare systems\u2014benefits especially important for older adults juggling multiple chronic conditions.",
       "story_angle_primary": "If you take many medications and are hospitalized, ask whether your hospital offers a pharmacist-led medication review before discharge\u2014it may help you avoid another hospital stay.",
       "story_angle_secondary": "Health systems and policymakers may look to Korea's program as a model for integrating pharmacist review into hospital care for high-risk older patients, potentially improving outcomes while controlling costs.",
-      "caveats": "Observational design using a historical control group (cannot establish causation); single-country setting may limit generalizability; unmeasured confounders possible despite matching."
+      "caveats": "Observational design using a historical control group (cannot establish causation); single-country setting may limit generalizability; unmeasured confounders possible despite matching.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,26 @@
       "why_it_matters": "A structured deprescribing intervention can meaningfully reduce pill burden in the highest-risk older adults without apparent harm, offering a scalable model for pharmacies worldwide.",
       "story_angle_primary": "If you take many daily medications and use a pill-pack system, consider asking your pharmacist about a formal medication review\u2014some drugs may no longer be necessary.",
       "story_angle_secondary": "Pharmacy owners and healthcare planners can consider adopting deprescribing-focused reviews for patients with hyperpolypharmacy, particularly those using automated dispensing, to streamline regimens safely.",
-      "caveats": "Six-month follow-up is relatively short; no significant improvement in quality of life was detected; conducted in a single country (Netherlands)."
+      "caveats": "Six-month follow-up is relatively short; no significant improvement in quality of life was detected; conducted in a single country (Netherlands).",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 318,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 0
+      },
+      "verdict": "\u274c Significant issues",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +89,27 @@
       "why_it_matters": "Identifying specific drug classes\u2014rather than just total pill counts\u2014can help clinicians and patients prioritize which medications to reassess for fall prevention.",
       "story_angle_primary": "If you take a diuretic (\"water pill\") or an antipsychotic, ask your doctor whether your dose can be lowered or whether alternatives exist, especially if you've experienced dizziness or unsteadiness.",
       "story_angle_secondary": "Caregivers and senior living staff should be aware that diuretics are a leading contributor to fall injuries; routine medication reviews targeting these agents may reduce emergency visits.",
-      "caveats": "Observational design (cannot prove causation); single geographic region (Geelong, Australia); some medication categories had small sample sizes."
+      "caveats": "Observational design (cannot prove causation); single geographic region (Geelong, Australia); some medication categories had small sample sizes.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +122,27 @@
       "why_it_matters": "The findings highlight that not all fall-risk medications are equal\u2014benzodiazepines, anticholinergics, and antiepileptics warrant special scrutiny in older adults prone to falling.",
       "story_angle_primary": "If you've fallen more than once in the past year and take a sleeping pill, anti-anxiety medication, or seizure drug, talk with your doctor about whether a safer alternative exists.",
       "story_angle_secondary": "Clinicians conducting fall-risk assessments should prioritize reviewing benzodiazepine-related drugs, strong anticholinergics, and antiepileptics, even in relatively well-functioning older patients.",
-      "caveats": "Small sample (N=241); single municipality in Denmark; observational design; causation cannot be established."
+      "caveats": "Small sample (N=241); single municipality in Denmark; observational design; causation cannot be established.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 241,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +155,28 @@
       "why_it_matters": "While stopping certain drug classes is achievable, evidence that doing so improves hard clinical outcomes for older adults is still lacking\u2014underscoring the need for better-designed trials.",
       "story_angle_primary": "Stopping a long-term sleeping pill or sedative may be possible with proper support, but don't expect an immediate change in overall health\u2014work with your healthcare team to set realistic goals.",
       "story_angle_secondary": "Senior living medical directors and primary care physicians should recognize that focused deprescribing is a reasonable strategy for reducing medication burden, but current evidence does not guarantee improvements in falls, cognition, or survival.",
-      "caveats": "Umbrella review of largely low-quality systematic reviews; certainty of evidence generally low or very low; heterogeneity across studies."
+      "caveats": "Umbrella review of largely low-quality systematic reviews; certainty of evidence generally low or very low; heterogeneity across studies.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +189,27 @@
       "why_it_matters": "Beyond the well-known respiratory risks, long-term combined use of opioids and benzodiazepines appears tightly linked to frailty\u2014a condition that predicts disability, hospitalization, and death in older adults.",
       "story_angle_primary": "If you take both an opioid painkiller and a sedative like a benzodiazepine on a long-term basis, discuss with your doctor whether one or both can be tapered; these combinations may accelerate decline.",
       "story_angle_secondary": "Prescribers and care teams should screen patients on chronic opioid-benzodiazepine regimens for signs of frailty and consider deprescribing strategies where clinically appropriate.",
-      "caveats": "Cross-sectional design (cannot determine causation); frailty index based on self-reported questionnaire items; potential residual confounding despite extensive adjustment."
+      "caveats": "Cross-sectional design (cannot determine causation); frailty index based on self-reported questionnaire items; potential residual confounding despite extensive adjustment.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 18434,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +222,27 @@
       "why_it_matters": "Medications with anticholinergic effects\u2014common in many seniors' regimens\u2014may compound the side effects of cancer treatment, suggesting that medication review before chemotherapy could improve tolerability.",
       "story_angle_primary": "Before starting cancer treatment, ask your oncology team to review all your medications, including over-the-counter drugs that may have hidden anticholinergic effects.",
       "story_angle_secondary": "Oncologists and geriatricians should calculate anticholinergic burden as part of pre-treatment assessments; reducing this burden might lower the risk of severe chemotherapy side effects.",
-      "caveats": "Single-center study in the Netherlands; observational design; anticholinergic burden calculated at one time point."
+      "caveats": "Single-center study in the Netherlands; observational design; anticholinergic burden calculated at one time point.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 434,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +255,29 @@
       "why_it_matters": "Simple blood tests may soon supplement or replace invasive spinal taps or costly brain scans for Alzheimer's diagnosis\u2014though clinicians must account for the complex health profiles of older patients.",
       "story_angle_primary": "Emerging blood tests for Alzheimer's disease may make diagnosis easier, but your doctor will still need to consider your overall health\u2014including medications and kidney function\u2014when interpreting results.",
       "story_angle_secondary": "Memory clinics and primary care practices should prepare to integrate blood-based Alzheimer's biomarkers into comprehensive geriatric assessments, rather than using them in isolation.",
-      "caveats": "Commentary/narrative review (no new primary data); blood-based tests not yet universally validated for all older populations; guidelines recommend use only in symptomatic patients seen by specialists."
+      "caveats": "Commentary/narrative review (no new primary data); blood-based tests not yet universally validated for all older populations; guidelines recommend use only in symptomatic patients seen by specialists.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "dementia",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +290,28 @@
       "why_it_matters": "Nutritional status may modify how polypharmacy affects stroke rehabilitation outcomes, suggesting that underweight patients deserve especially careful medication review.",
       "story_angle_primary": "If you are recovering from a stroke and are underweight, work closely with your care team to ensure your medications are truly necessary\u2014extra pills may slow your progress.",
       "story_angle_secondary": "Rehabilitation staff should flag underweight stroke patients for pharmacist consultation, as polypharmacy may have a disproportionate impact on their functional recovery.",
-      "caveats": "Retrospective single-center study in Japan; effect size modest; causation cannot be established."
+      "caveats": "Retrospective single-center study in Japan; effect size modest; causation cannot be established.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "nutrition",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +324,26 @@
       "why_it_matters": "Embedding pharmacist expertise in geriatric oncology clinics can catch medication issues before cancer treatment begins, potentially preventing complications in a high-risk population.",
       "story_angle_primary": "If you're starting cancer treatment and take many medications, ask whether a pharmacist can review your full medication list\u2014it may prevent unwanted side effects.",
       "story_angle_secondary": "Cancer centers serving older patients should consider dedicated pharmacist staffing for pre-treatment medication reconciliation; most identified problems were accepted by clinicians.",
-      "caveats": "Single-center quality improvement project; no control group; labor-intensive (over 100 minutes per patient on average)."
+      "caveats": "Single-center quality improvement project; no control group; labor-intensive (over 100 minutes per patient on average).",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 205,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +356,28 @@
       "why_it_matters": "Chronic pain is common in older adults, but physiological changes make opioids riskier; this consensus provides a roadmap for balancing pain relief with safety.",
       "story_angle_primary": "If you need opioid pain medication, ask your prescriber about starting at a low dose and choosing a formulation suited to your kidney and liver function\u2014this can reduce side effects.",
       "story_angle_secondary": "Clinicians and senior living nurses should follow age-specific dosing principles and monitor for constipation, confusion, and falls whenever opioids are prescribed to older residents.",
-      "caveats": "Consensus document (not a systematic review or trial); recommendations based on available evidence and expert opinion; further research needed for age-specific dosing algorithms."
+      "caveats": "Consensus document (not a systematic review or trial); recommendations based on available evidence and expert opinion; further research needed for age-specific dosing algorithms.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +390,28 @@
       "why_it_matters": "Community pharmacists could use electronic dispensing data to flag older customers at risk for frailty, enabling proactive interventions without additional patient questionnaires.",
       "story_angle_primary": "Your local pharmacist may soon be able to identify whether you're at risk for frailty just by reviewing your prescription history\u2014this could prompt earlier conversations about staying strong and independent.",
       "story_angle_secondary": "Pharmacy chains and health systems may consider integrating validated frailty screening tools into dispensing software to identify high-risk patients for targeted medication reviews or referrals.",
-      "caveats": "Validated in a Belgian population; performance may differ in other countries; screening tools require clinical follow-up to confirm frailty status."
+      "caveats": "Validated in a Belgian population; performance may differ in other countries; screening tools require clinical follow-up to confirm frailty status.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +424,29 @@
       "why_it_matters": "Blanket concerns about blood pressure medications and falls may be misplaced; more attention should focus on sedatives, opioids, and other centrally acting agents.",
       "story_angle_primary": "If you're worried about falling, don't stop your blood pressure medicine on your own\u2014but do ask your doctor about other drugs like sedatives or pain pills that may increase your risk.",
       "story_angle_secondary": "Fall prevention programs should target specific high-risk drug classes rather than broadly advising caution with all blood pressure medications, which showed no independent association with falls in this study.",
-      "caveats": "Observational cohort; two-year follow-up; sample limited to two U.S. sites; racial distribution may not generalize."
+      "caveats": "Observational cohort; two-year follow-up; sample limited to two U.S. sites; racial distribution may not generalize.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 1273,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "depression",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +459,27 @@
       "why_it_matters": "Strengthening hip muscles and reviewing diuretic necessity may be among the most impactful strategies for preventing fall injuries\u2014more so than simply counting total medications.",
       "story_angle_primary": "Exercises that strengthen your hip muscles\u2014like side leg raises\u2014may help prevent serious falls; ask a physical therapist which movements are right for you.",
       "story_angle_secondary": "Fall prevention programs should emphasize targeted strength training for hip abductors alongside careful review of diuretic prescriptions, rather than relying solely on polypharmacy counts.",
-      "caveats": "Observational; single Australian cohort; effect sizes modest; causation cannot be inferred."
+      "caveats": "Observational; single Australian cohort; effect sizes modest; causation cannot be inferred.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +492,29 @@
       "why_it_matters": "Older adults with overlapping frailty, poor nutrition, and muscle weakness face compounding fall risk\u2014highlighting the value of comprehensive geriatric assessment.",
       "story_angle_primary": "If you've been told you're frail, at risk for malnutrition, or losing muscle, take extra precautions to prevent falls\u2014and consider asking about nutrition support and exercise programs.",
       "story_angle_secondary": "Geriatric clinics should screen for all three conditions together; addressing nutrition and muscle strength alongside frailty may yield greater fall reduction than tackling any single factor.",
-      "caveats": "Cross-sectional design (cannot establish causation); self-reported falls subject to recall bias; single outpatient clinic population."
+      "caveats": "Cross-sectional design (cannot establish causation); self-reported falls subject to recall bias; single outpatient clinic population.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "nutrition",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +527,27 @@
       "why_it_matters": "Age-related underuse of evidence-based heart failure medications may contribute to worse outcomes in older adults, suggesting a need for more assertive prescribing and monitoring.",
       "story_angle_primary": "If you have heart failure, ask your doctor whether you're receiving all the recommended medications\u2014some effective treatments may be under-prescribed simply because of your age.",
       "story_angle_secondary": "Cardiologists and geriatricians should review guideline-directed therapy in older heart failure patients and consider whether age-related concerns are inadvertently limiting access to beneficial drugs.",
-      "caveats": "Cross-sectional observational study; single German cohort; unmeasured patient preferences may influence prescribing."
+      "caveats": "Cross-sectional observational study; single German cohort; unmeasured patient preferences may influence prescribing.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 1281,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +560,28 @@
       "why_it_matters": "Amid ongoing concern about statins and memory, current evidence does not justify stopping these cardiovascular drugs solely to protect cognition\u2014but individualized decisions remain important for frail patients.",
       "story_angle_primary": "If you've heard that statins cause memory problems, know that most research doesn't support that claim; talk to your doctor before making any changes to your medication.",
       "story_angle_secondary": "Clinicians should reassure patients that evidence does not support discontinuing statins for cognitive reasons, while remaining attentive to polypharmacy and frailty when weighing overall risk-benefit.",
-      "caveats": "Narrative review (not a systematic review or meta-analysis); definitive data from large trials still pending; older adults remain underrepresented in many existing studies."
+      "caveats": "Narrative review (not a systematic review or meta-analysis); definitive data from large trials still pending; older adults remain underrepresented in many existing studies.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +594,26 @@
       "why_it_matters": "Combining digital tools with pharmacist support can meaningfully improve medication adherence in a population facing disproportionate polypharmacy-related risks.",
       "story_angle_primary": "A simple smartphone app paired with a pharmacist phone call may help you keep track of your medications\u2014even if you've never used health technology before.",
       "story_angle_secondary": "Community health programs and senior centers serving African American older adults should explore digital adherence tools coupled with pharmacist outreach to address medication management challenges.",
-      "caveats": "Small pilot study (N=40); no control group; predominantly female sample; self-reported outcomes."
+      "caveats": "Small pilot study (N=40); no control group; predominantly female sample; self-reported outcomes.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 40,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +626,30 @@
       "why_it_matters": "While digital twin technology could enable highly personalized, predictive care for older adults, significant technical and ethical challenges must be addressed before widespread adoption.",
       "story_angle_primary": "In the future, a \"digital twin\" of your health data could help doctors predict problems before they happen\u2014but privacy protections and practical systems still need development.",
       "story_angle_secondary": "Senior living technology planners and health system innovators should monitor digital twin advances, particularly for polypharmacy and fall-risk applications, while advocating for robust privacy and consent frameworks.",
-      "caveats": "Narrative review (no original data); most applications remain conceptual or early-stage; ethical and regulatory standards not yet established."
+      "caveats": "Narrative review (no original data); most applications remain conceptual or early-stage; ethical and regulatory standards not yet established.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "cost & policy",
+        "dementia",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +662,28 @@
       "why_it_matters": "This finding adds to emerging evidence that ARBs may have muscle-protective effects\u2014potentially relevant when choosing blood pressure medications for older adults at risk of muscle loss.",
       "story_angle_primary": "If you take blood pressure medication and are concerned about muscle loss, ask your doctor whether an ARB-type drug might be appropriate for you.",
       "story_angle_secondary": "Clinicians managing hypertension in frail or sarcopenic older patients may consider ARBs as a preferred class, pending confirmation from longitudinal studies.",
-      "caveats": "Cross-sectional design (cannot prove causation); small sample (N=206); single-center study in Turkey; mechanism unclear."
+      "caveats": "Cross-sectional design (cannot prove causation); small sample (N=206); single-center study in Turkey; mechanism unclear.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 206,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

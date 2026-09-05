@@ -24,7 +24,30 @@
       "why_it_matters": "Because dementia risk factors tend to cluster together (such as cardiovascular-related factors or sensory/social factors), interventions targeting multiple risks at once may be more effective than single-target approaches\u2014regardless of where you live.",
       "story_angle_primary": "You may benefit from discussing your full range of health risks\u2014including vision, hearing, mood, and activity level\u2014with your healthcare provider, rather than addressing them one at a time.",
       "story_angle_secondary": "Senior living professionals and policymakers should consider integrated screening and wellness programs that address clusters of dementia risk factors, especially sensory and social health, rather than siloed interventions.",
-      "caveats": "Cross-sectional design (cannot establish causation); self-reported outcomes for some risk factors; harmonized measures may not perfectly capture local contexts."
+      "caveats": "Cross-sectional design (cannot establish causation); self-reported outcomes for some risk factors; harmonized measures may not perfectly capture local contexts.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cross-sectional",
+      "sample_size": 214000,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "depression",
+        "hearing loss",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +60,28 @@
       "why_it_matters": "This research highlights that addressing vision loss and depression in midlife and beyond may help reduce some of the cognitive toll of difficult childhoods\u2014suggesting new avenues for intervention.",
       "story_angle_primary": "If you experienced hardship growing up, keeping up with your vision and mental health may be especially important for maintaining your cognitive well-being as you age.",
       "story_angle_secondary": "Healthcare providers and senior living staff should consider asking about childhood adversity as a risk marker for cognitive decline and prioritize vision and mental health screenings in those with difficult early-life histories.",
-      "caveats": "Observational design (cannot establish causation); self-reported childhood experiences; single-country population."
+      "caveats": "Observational design (cannot establish causation); self-reported childhood experiences; single-country population.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +94,27 @@
       "why_it_matters": "Vision problems can go unnoticed\u2014and untreated\u2014when they are not a person's most pressing concern, which suggests that routine, proactive vision screening is essential for older adults, especially those managing multiple challenges.",
       "story_angle_primary": "Even if vision doesn't feel like your biggest concern right now, accepting routine vision checks can help catch problems before they limit your independence.",
       "story_angle_secondary": "Families and caregivers should be alert to subtle signs of vision difficulty (such as bumping into objects, trouble reading, or avoiding activities) and advocate for regular eye care, especially for those juggling multiple health issues.",
-      "caveats": "Small sample (N=15); single-center in Denmark; qualitative design limits generalizability."
+      "caveats": "Small sample (N=15); single-center in Denmark; qualitative design limits generalizability.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 15,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +127,26 @@
       "why_it_matters": "Audiobooks can play a valuable role in leisure, social connection, and well-being after vision loss, but older adults may need tailored training and support to fully benefit from this format.",
       "story_angle_primary": "If you're adjusting to vision loss, know that audiobooks can be deeply rewarding\u2014but don't hesitate to ask for help learning the technology or finding the right pace for listening.",
       "story_angle_secondary": "Vision rehabilitation professionals and senior living staff should offer hands-on audiobook training and connect residents to accessible library services and reading groups to support continued engagement.",
-      "caveats": "Qualitative study; sample size not specified; may not generalize to all cultural or health contexts."
+      "caveats": "Qualitative study; sample size not specified; may not generalize to all cultural or health contexts.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +159,30 @@
       "why_it_matters": "Sensory support can be delivered at home for people with dementia, but success depends on involving caregivers and adapting the approach to each person's cognitive needs.",
       "story_angle_primary": "If you or a loved one has both dementia and vision or hearing loss, ask your healthcare team about home-based sensory support\u2014and involve a family member or caregiver in the process.",
       "story_angle_secondary": "Senior living professionals and families should recognize that supporting hearing aid and glasses use in dementia often requires hands-on caregiver involvement and regular follow-up.",
-      "caveats": "Fidelity (completion of all intervention components) was 60%; COVID-19 restrictions required protocol changes; single-arm description within a larger trial."
+      "caveats": "Fidelity (completion of all intervention components) was 60%; COVID-19 restrictions required protocol changes; single-arm description within a larger trial.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 124,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "hearing loss",
+        "polypharmacy",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +195,26 @@
       "why_it_matters": "This is the first large, controlled trial showing that light therapy may slow drusen buildup and preserve vision in early-stage dry AMD\u2014a condition with no currently approved treatment to halt progression.",
       "story_angle_primary": "If you have early dry macular degeneration, ask your eye doctor whether photobiomodulation is appropriate for you; while promising, more research is needed before it becomes standard care.",
       "story_angle_secondary": "Senior living professionals and families should stay informed about emerging treatments like light therapy for AMD, but should encourage residents to discuss new options with their ophthalmologist before pursuing them.",
-      "caveats": "12-month follow-up is relatively short for a chronic disease; longer studies needed; some investigators received honoraria from the device manufacturer."
+      "caveats": "12-month follow-up is relatively short for a chronic disease; longer studies needed; some investigators received honoraria from the device manufacturer.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +227,26 @@
       "why_it_matters": "As type 2 diabetes continues to increase globally, so will diabetic eye disease unless prevention and early detection efforts are expanded, especially in rapidly developing regions.",
       "story_angle_primary": "If you have type 2 diabetes, regular dilated eye exams are essential for catching vision-threatening changes early\u2014don't wait for symptoms to appear.",
       "story_angle_secondary": "Senior living and healthcare providers should prioritize annual eye screening for residents with diabetes and advocate for accessible retinal screening in underserved regions.",
-      "caveats": "Ecological analysis using modeled estimates; does not capture individual-level data; trends may vary by local healthcare infrastructure."
+      "caveats": "Ecological analysis using modeled estimates; does not capture individual-level data; trends may vary by local healthcare infrastructure.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 1990,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +259,27 @@
       "why_it_matters": "The persistent gap in vision loss between women and men is not inevitable\u2014it is closely tied to social and structural inequalities that can be addressed through policy and targeted healthcare access.",
       "story_angle_primary": "Women should be especially proactive about seeking regular eye exams and treatment, and should advocate for themselves if they face barriers to care.",
       "story_angle_secondary": "Policymakers and senior care organizations should consider gender-specific outreach and eye health programs to address the unequal burden of vision loss among older women.",
-      "caveats": "Ecological study using modeled data; cannot identify individual-level causes; associations with inequality indices do not prove causation."
+      "caveats": "Ecological study using modeled data; cannot identify individual-level causes; associations with inequality indices do not prove causation.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +292,27 @@
       "why_it_matters": "Older adults often develop more than one eye disease. These findings underscore the importance of integrated eye care and prevention\u2014addressing all eye conditions together rather than in isolation.",
       "story_angle_primary": "If you have one eye condition, ask your eye doctor about screening for others; preventing or managing multiple conditions together can help protect your vision.",
       "story_angle_secondary": "Senior living and healthcare systems should implement comprehensive eye health programs that screen for and manage multiple age-related eye diseases in tandem.",
-      "caveats": "Single-country (South Korea) population; observational design; diagnostic codes may not capture disease severity."
+      "caveats": "Single-country (South Korea) population; observational design; diagnostic codes may not capture disease severity.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +325,26 @@
       "why_it_matters": "This first nationwide study provides a foundation for planning care and resources for people with rare inherited eye diseases, which remain a leading cause of vision loss in younger and working-age adults.",
       "story_angle_primary": "If you or a family member has been diagnosed with an inherited retinal disease, national registries and specialist centers may offer access to new research and emerging treatments.",
       "story_angle_secondary": "Healthcare planners and senior living professionals should be aware of the ongoing care needs of people aging with inherited retinal diseases, as management and supportive services remain essential throughout life.",
-      "caveats": "Administrative codes may undercount or misclassify cases; some cases labeled as \"unspecified\" limit diagnostic precision; industry funding (Johnson & Johnson) for some authors."
+      "caveats": "Administrative codes may undercount or misclassify cases; some cases labeled as \"unspecified\" limit diagnostic precision; industry funding (Johnson & Johnson) for some authors.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 6500,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +357,26 @@
       "why_it_matters": "Standard eye chart tests may not capture early functional losses in AMD. Contrast sensitivity testing could help identify vision problems sooner and track disease progression more accurately.",
       "story_angle_primary": "If you have early macular degeneration and feel your vision is worsening\u2014even if your eye chart results are stable\u2014ask your doctor about contrast sensitivity testing.",
       "story_angle_secondary": "Senior living professionals should be aware that residents with early AMD may struggle with low-contrast tasks (such as reading menus or navigating dim hallways) even before standard vision tests show decline.",
-      "caveats": "Cross-sectional design; single-center; does not assess how contrast sensitivity changes over time."
+      "caveats": "Cross-sectional design; single-center; does not assess how contrast sensitivity changes over time.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +389,26 @@
       "why_it_matters": "This new approach offers hope for restoring vision in a condition previously considered difficult to treat, though careful patient selection is essential.",
       "story_angle_primary": "If you have chronic low eye pressure and vision loss, ask your ophthalmologist whether emerging treatments like intravitreal HPMC might be appropriate for your situation.",
       "story_angle_secondary": "Eye care teams should be aware of novel therapies for hypotony that may help restore vision in carefully selected patients.",
-      "caveats": "Very small sample (N=8); single-center; no control group; serious complications occurred in eyes with significant thinning."
+      "caveats": "Very small sample (N=8); single-center; no control group; serious complications occurred in eyes with significant thinning.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +421,26 @@
       "why_it_matters": "PIC often presents in one eye but can progress to both, and abnormal blood vessel growth is common. Early monitoring and treatment may help prevent vision loss.",
       "story_angle_primary": "If you have been diagnosed with punctate inner choroiditis, discuss with your ophthalmologist the importance of regular monitoring and whether immunosuppressive therapy might reduce your risk of complications.",
       "story_angle_secondary": "Eye care providers should counsel patients with PIC about the risk of bilateral progression and the role of immunosuppression in preventing vision-threatening complications.",
-      "caveats": "Retrospective; single-center; relatively small sample (N=52)."
+      "caveats": "Retrospective; single-center; relatively small sample (N=52).",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 52,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +453,26 @@
       "why_it_matters": "VEXAS is a newly recognized condition that can affect the eyes, and prompt recognition and treatment of eye symptoms are essential to prevent rare but serious vision loss.",
       "story_angle_primary": "If you have been diagnosed with VEXAS syndrome and develop new eyelid swelling or eye pain, seek urgent eye evaluation\u2014early treatment can help protect your vision.",
       "story_angle_secondary": "Ophthalmologists and rheumatologists should be aware that VEXAS can cause significant orbital inflammation, and multidisciplinary care is needed for patients with this condition.",
-      "caveats": "Small sample (N=14); case series (no controls); all male patients."
+      "caveats": "Small sample (N=14); case series (no controls); all male patients.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 14,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

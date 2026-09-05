@@ -24,7 +24,27 @@
       "why_it_matters": "This suggests that maintaining consistent sleep habits throughout life\u2014not just getting enough sleep occasionally\u2014may be important for protecting brain and heart health as you age.",
       "story_angle_primary": "If your sleep has become more erratic over the years, this may be worth discussing with your doctor. Consistency in sleep duration may matter as much as quantity.",
       "story_angle_secondary": "Senior living facilities might consider sleep pattern monitoring as part of wellness assessments, as significant changes could signal emerging cardiovascular risk.",
-      "caveats": "Self-reported sleep data; observational design (cannot prove causation); single country population may not generalize to other groups."
+      "caveats": "Self-reported sleep data; observational design (cannot prove causation); single country population may not generalize to other groups.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,26 @@
       "why_it_matters": "This research reveals that traumatic experiences in childhood can leave lasting biological imprints that affect heart health and aging decades later, highlighting the importance of trauma-informed care for older adults.",
       "story_angle_primary": "If you experienced difficult circumstances growing up, your healthcare provider may want to consider this history when evaluating your heart health and overall wellness.",
       "story_angle_secondary": "Caregivers and senior living professionals should recognize that residents who experienced childhood adversity may benefit from trauma-informed approaches and closer cardiovascular monitoring.",
-      "caveats": "Observational design; self-reported childhood experiences (recall bias possible); single-country study population."
+      "caveats": "Observational design; self-reported childhood experiences (recall bias possible); single-country study population.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 3385,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +89,26 @@
       "why_it_matters": "A simple urine test may identify older adults at elevated health risk even when results appear \"normal\" by current guidelines, potentially allowing earlier intervention.",
       "story_angle_primary": "Ask your doctor about your urine albumin-to-creatinine ratio at your next checkup\u2014even results currently considered \"normal\" might provide useful health information.",
       "story_angle_secondary": "This finding suggests current clinical thresholds may miss at-risk individuals; primary care providers might consider discussing borderline results with older patients rather than dismissing them.",
-      "caveats": "Observational design; predominantly white Australian population may not generalize to other groups."
+      "caveats": "Observational design; predominantly white Australian population may not generalize to other groups.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +121,26 @@
       "why_it_matters": "While we can't change our genes, understanding that longevity runs in families partly through reduced heart disease risk reinforces that cardiovascular health is central to living longer.",
       "story_angle_primary": "Family history of longevity may partly reflect lower inherited heart disease risk\u2014but lifestyle factors you can control still play a major role in your cardiovascular health.",
       "story_angle_secondary": "For residents without a family history of longevity, this underscores the importance of aggressive cardiovascular risk management through modifiable factors like diet, exercise, and blood pressure control.",
-      "caveats": "Dutch population; genetic risk scores explain only part of longevity; observational design."
+      "caveats": "Dutch population; genetic risk scores explain only part of longevity; observational design.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +153,27 @@
       "why_it_matters": "Measuring frailty\u2014a comprehensive assessment of accumulated health deficits\u2014may help identify high-risk individuals early, even before advanced disease develops.",
       "story_angle_primary": "If you've been told you have early metabolic or kidney issues, ask your healthcare team about frailty assessments, which can help predict your overall health trajectory.",
       "story_angle_secondary": "Senior living communities should consider incorporating frailty assessments into routine evaluations, especially for residents with metabolic conditions, to guide preventive care intensity.",
-      "caveats": "Observational design; frailty measured at single time point; U.S. population."
+      "caveats": "Observational design; frailty measured at single time point; U.S. population.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +186,27 @@
       "why_it_matters": "This large real-world study suggests that more aggressive blood pressure control may be both safe and beneficial for older adults, challenging concerns that lower targets are risky in the very old.",
       "story_angle_primary": "If your blood pressure target is currently 140, talk with your doctor about whether aiming for 130 or below might be appropriate for you\u2014research suggests it may offer protection without added risk.",
       "story_angle_secondary": "Caregivers and senior living staff should be aware that tighter blood pressure control may be beneficial for very old residents; coordination with medical teams on individualized targets is essential.",
-      "caveats": "Observational emulated trial; Hong Kong Chinese population; does not include frail nursing home residents."
+      "caveats": "Observational emulated trial; Hong Kong Chinese population; does not include frail nursing home residents.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +219,26 @@
       "why_it_matters": "Long-term patterns of visceral fat accumulation, not just a single measurement, appear to predict heart disease risk, emphasizing the value of sustained weight management efforts.",
       "story_angle_primary": "Maintaining a healthy weight over time\u2014not just at a single checkup\u2014may be key to protecting your heart health as you age.",
       "story_angle_secondary": "Wellness programs in senior living should emphasize long-term weight management strategies rather than focusing solely on current weight status.",
-      "caveats": "Observational design; Mets-VF is a composite measure that may not be available in standard clinical settings."
+      "caveats": "Observational design; Mets-VF is a composite measure that may not be available in standard clinical settings.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 4281,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +251,28 @@
       "why_it_matters": "Social and emotional health are intertwined with cardiovascular disease in older adults, suggesting that addressing isolation could be an important component of heart disease care.",
       "story_angle_primary": "If you're living with heart disease and feeling isolated or lonely, reaching out for social connection isn't just about emotional wellbeing\u2014it may support your physical health too.",
       "story_angle_secondary": "Senior living communities and cardiac rehabilitation programs should routinely assess residents' social support networks and loneliness levels as part of comprehensive care.",
-      "caveats": "Cross-sectional design (cannot determine causation); single hospital in Iran; convenience sampling."
+      "caveats": "Cross-sectional design (cannot determine causation); single hospital in Iran; convenience sampling.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 432,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +285,27 @@
       "why_it_matters": "Technology-based solutions can help combat isolation, but their benefits will only reach older adults if we address the persistent digital divide.",
       "story_angle_primary": "If you're comfortable with technology, video calls and digital programs may help you feel more connected\u2014but don't hesitate to ask for help learning to use them.",
       "story_angle_secondary": "Senior living facilities should invest in both digital connectivity tools and the training/support needed for residents to use them effectively, while maintaining in-person social programming for those who prefer it.",
-      "caveats": "Narrative review; heterogeneous study quality; many studies small or short-term; not specific to cardiovascular disease populations."
+      "caveats": "Narrative review; heterogeneous study quality; many studies small or short-term; not specific to cardiovascular disease populations.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +318,26 @@
       "why_it_matters": "Simple blood tests already done at routine checkups could be combined to better identify people at risk for heart disease, potentially enabling earlier intervention.",
       "story_angle_primary": "The routine blood work you get at checkups contains valuable information about heart disease risk\u2014ask your doctor how your results fit into your overall cardiovascular picture.",
       "story_angle_secondary": "Senior living health teams could explore whether composite metabolic scores offer better risk stratification than individual measures alone.",
-      "caveats": "Observational design; Chinese population; SPISE index not yet widely used clinically; machine learning model requires external validation."
+      "caveats": "Observational design; Chinese population; SPISE index not yet widely used clinically; machine learning model requires external validation.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +350,27 @@
       "why_it_matters": "Managing heart health and diabetes may help preserve brain structure and cognitive function into old age\u2014another reason cardiovascular care matters for overall quality of life.",
       "story_angle_primary": "Taking care of your heart and managing blood sugar isn't just about avoiding heart attacks\u2014it may help keep your thinking sharp as you age.",
       "story_angle_secondary": "Comprehensive care plans for seniors should emphasize cardiovascular and metabolic health as cognitive preservation strategies, not just heart disease prevention.",
-      "caveats": "Observational design; Swedish population; brain maintenance measured by a single indicator (ventricular volume)."
+      "caveats": "Observational design; Swedish population; brain maintenance measured by a single indicator (ventricular volume).",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 1356,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +383,30 @@
       "why_it_matters": "This provides biological plausibility for why both cardiovascular disease and sleep problems are linked to dementia\u2014and suggests that protecting sleep quality could have profound brain benefits.",
       "story_angle_primary": "Prioritizing good sleep isn't just about feeling rested\u2014emerging science suggests it may help your brain clear harmful proteins linked to dementia.",
       "story_angle_secondary": "Senior living environments should minimize sleep disruptions (noise, lighting, medication timing) as a potential dementia prevention strategy, and clinicians should review medications that may impair sleep architecture.",
-      "caveats": "Review/commentary article; mechanistic framework not yet proven in human intervention trials; implications for practice are speculative."
+      "caveats": "Review/commentary article; mechanistic framework not yet proven in human intervention trials; implications for practice are speculative.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "nutrition",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +419,27 @@
       "why_it_matters": "A panel of routine blood markers could identify people at elevated risk for multiple age-related conditions years before they develop, potentially enabling targeted prevention.",
       "story_angle_primary": "Blood tests you already get may contain clues about your future health trajectory\u2014researchers are working on ways to combine these into meaningful risk profiles.",
       "story_angle_secondary": "This biomarker approach could eventually help senior living communities identify residents who would benefit most from intensive wellness programs or preventive interventions.",
-      "caveats": "Observational design; biomarker signature not yet available as a clinical test; specific biomarker panels varied between cohorts."
+      "caveats": "Observational design; biomarker signature not yet available as a clinical test; specific biomarker panels varied between cohorts.",
+      "score": 91,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 5000,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +452,28 @@
       "why_it_matters": "Despite persistent concerns about \"statin brain fog,\" current evidence does not support stopping these medications over cognitive worries\u2014though individual factors still matter.",
       "story_angle_primary": "If you've worried about statins affecting your memory, current research is largely reassuring\u2014but discuss any cognitive concerns with your doctor rather than stopping medication on your own.",
       "story_angle_secondary": "Families and caregivers should not attribute cognitive changes to statins without medical evaluation, as statins provide important cardiovascular protection and evidence for cognitive harm is limited.",
-      "caveats": "Narrative review; randomized trial evidence in oldest-old populations still limited; ongoing trials will provide stronger evidence."
+      "caveats": "Narrative review; randomized trial evidence in oldest-old populations still limited; ongoing trials will provide stronger evidence.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +486,29 @@
       "why_it_matters": "GDF15 could serve as an early warning biomarker to identify older adults at risk for physical decline, potentially enabling earlier intervention with exercise or other strategies.",
       "story_angle_primary": "While GDF15 isn't yet a routine test, researchers are finding blood markers that might predict who's at risk for losing strength and mobility\u2014early identification could lead to earlier action.",
       "story_angle_secondary": "This emerging biomarker could eventually help senior living communities prioritize physical therapy and exercise resources for residents at highest risk of functional decline.",
-      "caveats": "Observational design; GDF15 not yet routinely available; relatively short follow-up (2.2 years); Spanish population."
+      "caveats": "Observational design; GDF15 not yet routinely available; relatively short follow-up (2.2 years); Spanish population.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 2,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +521,27 @@
       "why_it_matters": "Artificial intelligence shows promise for identifying frail heart patients at highest risk, but the field needs more rigorous validation before these tools can guide clinical care.",
       "story_angle_primary": "Researchers are developing computer tools to better identify heart patients who are frail and at higher risk\u2014this could eventually lead to more personalized care plans.",
       "story_angle_secondary": "Senior living and cardiac care teams should be aware that AI-based frailty tools are emerging but require careful validation before adoption; traditional frailty assessments remain the standard.",
-      "caveats": "Scoping review; most studies lacked external validation; heterogeneous methods and frailty definitions; not ready for clinical implementation."
+      "caveats": "Scoping review; most studies lacked external validation; heterogeneous methods and frailty definitions; not ready for clinical implementation.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +554,27 @@
       "why_it_matters": "Understanding that aging blood vessels underlie many chronic diseases reinforces that vascular health is foundational to overall healthy aging\u2014and points to promising treatment targets.",
       "story_angle_primary": "Keeping your blood vessels healthy through exercise, good diet, and blood pressure control may protect against multiple diseases\u2014not just heart attacks.",
       "story_angle_secondary": "Senior living wellness programs should emphasize comprehensive vascular health as a cornerstone of preventing the cascade of chronic diseases common in older adults.",
-      "caveats": "Review article; many discussed therapies are experimental or in early stages; translational challenges remain significant."
+      "caveats": "Review article; many discussed therapies are experimental or in early stages; translational challenges remain significant.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +587,29 @@
       "why_it_matters": "Understanding the difference between normal age-related sleep changes and treatable disorders can help older adults and their providers make better decisions about when intervention is warranted.",
       "story_angle_primary": "Some sleep changes with age are normal, but severe snoring, chronic insomnia, or restless legs deserve medical attention\u2014effective treatments exist.",
       "story_angle_secondary": "Senior living staff should be trained to distinguish normal sleep pattern changes from symptoms of treatable disorders, and to recognize that sleep complaints warrant evaluation rather than dismissal.",
-      "caveats": "Narrative review; limited evidence in the \"oldest-old\" (85+); research gaps in diverse populations."
+      "caveats": "Narrative review; limited evidence in the \"oldest-old\" (85+); research gaps in diverse populations.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +622,28 @@
       "why_it_matters": "Health disparities in aging are not inevitable\u2014they reflect modifiable environmental exposures that accumulate over the lifespan, suggesting intervention opportunities at multiple stages.",
       "story_angle_primary": "Your health today reflects a lifetime of circumstances\u2014but it's never too late to make positive changes, and advocating for better conditions for future generations matters.",
       "story_angle_secondary": "Senior living and healthcare systems should recognize that residents from disadvantaged backgrounds may have accumulated health burdens requiring more intensive support, while policy efforts to address root causes remain essential.",
-      "caveats": "Review of observational research; limited to high-income countries; complex interactions between factors make specific intervention recommendations challenging."
+      "caveats": "Review of observational research; limited to high-income countries; complex interactions between factors make specific intervention recommendations challenging.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +656,27 @@
       "why_it_matters": "Prescribing guidelines must account for local medication availability, clinical practices, and resource constraints\u2014this provides a model for context-specific medication safety tools.",
       "story_angle_primary": "Medication safety guidelines are being developed worldwide to help doctors prescribe more safely for older adults\u2014ask if your healthcare team uses such tools.",
       "story_angle_secondary": "This study demonstrates the importance of adapting international prescribing guidelines to local contexts, a consideration relevant for senior living facilities serving diverse populations.",
-      "caveats": "Developed for Sri Lankan context; requires validation in clinical practice; some criteria may need updating as evidence evolves."
+      "caveats": "Developed for Sri Lankan context; requires validation in clinical practice; some criteria may need updating as evidence evolves.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

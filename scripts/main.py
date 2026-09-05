@@ -84,6 +84,40 @@ def unique_output_path(base_path: Path) -> Path:
     return base_path
 
 
+def write_run_sidecar(digest_path: Path, coverage: dict, summaries: dict,
+                      selected_pmids: list) -> None:
+    """Per-run facts that never survive the trip through markdown.
+
+    The digest is prose; the coverage state and PubMed's own metadata are not.
+    Keeping them beside the digest means re-scoring the archive is just a
+    dashboard rebuild, with no API calls at all.
+    """
+    wanted = set(selected_pmids or [])
+    meta = {}
+    for pmid, record in (summaries or {}).items():
+        if wanted and pmid not in wanted:
+            continue
+        meta[pmid] = {
+            "pubdate": record.get("pubdate", ""),
+            "journal": record.get("fulljournalname") or record.get("source", ""),
+        }
+    payload = {
+        "coverage_checked": coverage.get("checked", 0),
+        "coverage_cached": coverage.get("cached", 0),
+        "coverage_skipped": coverage.get("skipped", 0),
+        "coverage_skipped_reason": coverage.get("skipped_reason", ""),
+        "by_pmid": {
+            pmid: {"state": result.get("state", ""),
+                   "outlets": result.get("outlets", []),
+                   "articles": result.get("articles", [])}
+            for pmid, result in (coverage.get("by_pmid") or {}).items()
+        },
+        "pubmed": meta,
+    }
+    path = digest_path.with_name(digest_path.stem + ".coverage.json")
+    path.write_text(json.dumps(payload, indent=2), encoding="utf-8")
+
+
 def main() -> None:
     # ── Environment ──────────────────────────────────────────────────────────
     anthropic_api_key = os.environ.get("ANTHROPIC_API_KEY", "")
@@ -125,6 +159,9 @@ def main() -> None:
         sys.exit(0)
 
     # ── Step 2: Fetch summaries ───────────────────────────────────────────────
+    # These used to be fetched and discarded. They are PubMed's own record of the
+    # publication date and journal, so they now go into the run's sidecar as
+    # better provenance than the model's transcription of the same fields.
     print("Fetching summaries...")
     summaries = fetch_summaries(pmids, ncbi_api_key=ncbi_api_key)
     print(f"Fetched {len(summaries)} summaries")
@@ -203,6 +240,11 @@ def main() -> None:
 
     digest_path.write_text(digest_content, encoding="utf-8")
     print(f"Digest saved: outputs/{digest_path.name}")
+
+    # Everything the dashboard needs that cannot survive the trip through
+    # markdown. Written beside the digest so a rebuild can score the run without
+    # re-querying anything.
+    write_run_sidecar(digest_path, coverage, summaries, selected_pmids)
 
     # ── Step 7: Rebuild dashboard data ───────────────────────────────────────
     print("\nRebuilding dashboard data...")

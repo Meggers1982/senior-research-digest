@@ -24,7 +24,28 @@
       "why_it_matters": "Resting heart rate is free and easy to measure at home or at any doctor's visit. This finding suggests it may serve as an accessible early warning sign for cognitive health, particularly given the study's large sample and rigorous methodology.",
       "story_angle_primary": "Your resting heart rate is something you can track yourself with a simple wrist check or fitness device. If you notice it consistently running high\u2014say, 80 or above\u2014it may be worth mentioning to your doctor as part of a broader conversation about brain health, though this study cannot prove heart rate directly causes cognitive changes.",
       "story_angle_secondary": "Senior living communities and primary care practices could consider adding routine heart rate tracking to wellness assessments. For families, asking about resting heart rate during health check-ins may prompt earlier conversations about cardiovascular and cognitive monitoring.",
-      "caveats": "Observational design (cannot establish causation); no significant association found with dementia diagnosis, only with cognitive decline."
+      "caveats": "Observational design (cannot establish causation); no significant association found with dementia diagnosis, only with cognitive decline.",
+      "score": 96,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 19114,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +58,27 @@
       "why_it_matters": "This study suggests that combining physical activity with cognitive games may be more beneficial than either alone\u2014and that showing up regularly is key. Community programs could adapt this affordable, engaging model.",
       "story_angle_primary": "If you enjoy group exercise classes and puzzle-style games, pairing them may give your brain a double boost. The key takeaway: consistency counts, so aim to attend at least half of scheduled sessions to see meaningful benefits.",
       "story_angle_secondary": "Senior centers and assisted living activities directors could consider blending dance-fitness classes with tablet-based brain games. This Malaysian trial offers a low-cost template that proved popular with participants.",
-      "caveats": "Small sample size in some groups (physical activity group had only 12 participants); participants were not fully randomized due to logistical constraints; short follow-up with no long-term data."
+      "caveats": "Small sample size in some groups (physical activity group had only 12 participants); participants were not fully randomized due to logistical constraints; short follow-up with no long-term data.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +91,30 @@
       "why_it_matters": "Multidomain interventions have shown promise in clinical trials, but translating that evidence into everyday practice has been difficult. This real-world implementation suggests technology can help clinicians coordinate complex, personalized brain-health plans outside research settings.",
       "story_angle_primary": "If you or a loved one has memory concerns, ask your doctor whether coordinated care across medications, diet, sleep, and exercise is available\u2014and whether digital tools can help tailor recommendations to your specific health profile.",
       "story_angle_secondary": "Health systems and senior care providers may consider adopting decision-support technology to systematically address the many factors that influence cognitive aging. This study shows such tools can be embedded into routine clinical workflows.",
-      "caveats": "Retrospective, nonrandomized design (no control group); patients were already receiving care through a specific platform, limiting generalizability; outcomes based on varied cognitive instruments."
+      "caveats": "Retrospective, nonrandomized design (no control group); patients were already receiving care through a specific platform, limiting generalizability; outcomes based on varied cognitive instruments.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +127,28 @@
       "why_it_matters": "As interest grows in non-drug approaches to protect aging brains, tACS emerges as a potential tool\u2014though results varied widely across studies, and standardized protocols are still lacking.",
       "story_angle_primary": "Non-invasive brain stimulation is still largely experimental and not widely available, but this review suggests it may eventually offer an option for people with early memory changes. If you're curious, ask a neurologist or memory specialist about ongoing clinical trials.",
       "story_angle_secondary": "For clinicians and researchers, this meta-analysis highlights the need for standardized tACS protocols before the technology can move into routine care. Memory appears to be the cognitive domain most responsive to this intervention.",
-      "caveats": "High heterogeneity across studies; most evidence comes from small trials; findings in healthy older adults and Alzheimer's disease were more variable than in MCI."
+      "caveats": "High heterogeneity across studies; most evidence comes from small trials; findings in healthy older adults and Alzheimer's disease were more variable than in MCI.",
+      "score": 91,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 826,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +161,28 @@
       "why_it_matters": "Stroke survivors often face both physical and cognitive challenges, but rehabilitation typically targets them separately. This study suggests non-invasive nerve stimulation during exercise may address both simultaneously.",
       "story_angle_primary": "If you're recovering from a stroke and concerned about both arm strength and thinking skills, ask your rehabilitation team whether nerve stimulation therapies are available or being studied at your facility.",
       "story_angle_secondary": "Rehabilitation professionals and senior care facilities may want to monitor this emerging evidence. Combining nerve stimulation with standard exercise therapy could offer a relatively simple add-on to existing stroke recovery programs.",
-      "caveats": "Single-center study in Hong Kong; relatively short follow-up (one month post-intervention); participants were in the chronic stroke phase, so results may not generalize to acute stroke."
+      "caveats": "Single-center study in Hong Kong; relatively short follow-up (one month post-intervention); participants were in the chronic stroke phase, so results may not generalize to acute stroke.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +195,28 @@
       "why_it_matters": "This finding suggests exercise intensity matters\u2014brisk walking, cycling, or swimming may help buffer the brain even when Alzheimer's-related proteins are accumulating, though the study cannot prove causation.",
       "story_angle_primary": "If you're already active, this study reinforces the value of keeping up activities that raise your heart rate\u2014like brisk walking, dancing, or water aerobics. If you're not yet active, talk to your doctor about safe ways to start.",
       "story_angle_secondary": "Families and senior living staff can encourage residents to move beyond gentle strolls toward more vigorous activities when medically appropriate. Even for those at biological risk for Alzheimer's, intensity appears to matter.",
-      "caveats": "Small sample (N=74); observational design cannot prove exercise prevents decline; physical activity was self-reported via questionnaire."
+      "caveats": "Small sample (N=74); observational design cannot prove exercise prevents decline; physical activity was self-reported via questionnaire.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 74,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +229,28 @@
       "why_it_matters": "Commercial wearable devices may offer a low-cost, continuous window into everyday functioning for people at risk of or living with dementia, potentially aiding both clinical monitoring and family oversight.",
       "story_angle_primary": "A smartwatch you may already own could help track your daily activity in ways that relate to brain health. Sharing this data with your doctor might add useful context to cognitive check-ups.",
       "story_angle_secondary": "For families and memory care staff, wearable activity monitors could flag changes in walking patterns that warrant further evaluation. This Italian study supports smartwatches as feasible, low-burden monitoring tools.",
-      "caveats": "Small sample; cross-sectional associations do not prove declining activity causes cognitive decline; EEG brain markers showed limited associations with step data."
+      "caveats": "Small sample; cross-sectional associations do not prove declining activity causes cognitive decline; EEG brain markers showed limited associations with step data.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "cost & policy",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +263,29 @@
       "why_it_matters": "These findings suggest that maintaining muscle mass and adequate protein intake may be relevant to brain health\u2014though whether boosting amino acids can prevent decline remains unproven.",
       "story_angle_primary": "Getting enough protein from foods like eggs, fish, beans, and dairy supports muscle health and may relate to brain health too. If you've noticed muscle loss or have a limited appetite, consider discussing nutrition with your doctor or a dietitian.",
       "story_angle_secondary": "Senior living dining programs and caregivers should prioritize adequate protein at meals, particularly for residents with low muscle mass. This study adds to growing evidence linking sarcopenia and cognitive risk.",
-      "caveats": "Cross-sectional design in the amino acid analysis (cannot establish causation); longitudinal analysis of muscle mass did not show a significant association over time; findings from Chinese populations may not generalize universally."
+      "caveats": "Cross-sectional design in the amino acid analysis (cannot establish causation); longitudinal analysis of muscle mass did not show a significant association over time; findings from Chinese populations may not generalize universally.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 6000,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +298,28 @@
       "why_it_matters": "Frailty\u2014characterized by weakness, fatigue, and slow walking\u2014emerges as a powerful, potentially modifiable predictor of both mental and physical decline in later life.",
       "story_angle_primary": "If you or your doctor have noticed signs of frailty\u2014like difficulty rising from a chair, unintentional weight loss, or exhaustion\u2014addressing them early through strength training, nutrition, or medical evaluation may help protect both your body and your mind.",
       "story_angle_secondary": "For geriatricians and senior living staff, frailty screening should be routine. Interventions targeting frailty may yield cognitive as well as physical benefits, and early identification allows for timely support.",
-      "caveats": "Observational design; attrition over nine years may introduce bias; data from a single Brazilian region."
+      "caveats": "Observational design; attrition over nine years may introduce bias; data from a single Brazilian region.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +332,30 @@
       "why_it_matters": "This study highlights how diet and sleep may work together to influence brain aging, reinforcing the value of comprehensive lifestyle approaches rather than single interventions.",
       "story_angle_primary": "Eating antioxidant-rich foods (colorful vegetables, berries, nuts) and aiming for 7\u20138 hours of sleep may be a powerful combination for brain health. If you're sleeping much less or more than that, it may be worth discussing with your doctor.",
       "story_angle_secondary": "Senior living meal programs can emphasize antioxidant-dense foods, while care staff should be alert to residents sleeping unusually little or excessively\u2014both may warrant attention.",
-      "caveats": "Observational design (cannot prove causation); sleep and diet were self-reported; findings from rural China may not generalize to all populations."
+      "caveats": "Observational design (cannot prove causation); sleep and diet were self-reported; findings from rural China may not generalize to all populations.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 5000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "falls",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +368,28 @@
       "why_it_matters": "Hearing loss affects more than half of adults over 70 and is now considered a modifiable dementia risk factor. Early detection and correction with hearing aids may help preserve cognitive function and social connection.",
       "story_angle_primary": "If you find yourself frequently asking people to repeat themselves or avoiding social situations because of hearing difficulty, consider getting a hearing evaluation. Hearing aids may do more than improve communication\u2014they may help protect your thinking skills.",
       "story_angle_secondary": "Senior care facilities and primary care practices should routinely screen for hearing loss using validated questionnaires or simple bedside tests. Addressing hearing impairment may reduce both caregiver burden and dementia risk.",
-      "caveats": "Narrative review without systematic methodology; no new data presented; causality between hearing loss and dementia not definitively established."
+      "caveats": "Narrative review without systematic methodology; no new data presented; causality between hearing loss and dementia not definitively established.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +402,28 @@
       "why_it_matters": "Loneliness is a serious health risk in older adults, linked to depression, cognitive decline, and early death. Digital tools can help\u2014but only if older adults can use them.",
       "story_angle_primary": "If you're feeling isolated, video calls with family, group online activities, or even AI companions may help\u2014but don't hesitate to ask for help learning new technology. Many libraries and senior centers offer free digital literacy classes.",
       "story_angle_secondary": "Senior living providers and health systems should invest in training and support to help older adults access telehealth and digital social tools. Addressing the digital divide is essential to realizing the promise of these technologies.",
-      "caveats": "Narrative review with variable study quality; meta-analyses showed considerable heterogeneity; long-term effects remain unclear."
+      "caveats": "Narrative review with variable study quality; meta-analyses showed considerable heterogeneity; long-term effects remain unclear.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +436,29 @@
       "why_it_matters": "GLP-1 drugs are increasingly prescribed for diabetes and weight loss. This study suggests they may also support vascular repair mechanisms relevant to brain health, though further research is needed.",
       "story_angle_primary": "If you have type 2 diabetes and are concerned about memory, talk to your doctor about whether a GLP-1 medication might be appropriate for you\u2014these drugs may offer benefits beyond blood sugar and weight control.",
       "story_angle_secondary": "Clinicians managing diabetes in older patients may consider the potential cognitive implications when choosing among medication classes, particularly for patients at risk of cognitive decline.",
-      "caveats": "Cross-sectional design (cannot establish causation); relatively small sample after matching (35 per group); single-center study in Italy."
+      "caveats": "Cross-sectional design (cannot establish causation); relatively small sample after matching (35 per group); single-center study in Italy.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +471,28 @@
       "why_it_matters": "Understanding which functional losses trigger residential transitions can help families and clinicians plan ahead\u2014and potentially intervene earlier to support aging in place.",
       "story_angle_primary": "If you're noticing difficulty with shopping, medications, or finances, these may be early signals worth addressing\u2014through home support, family involvement, or community services\u2014to help you stay in your home longer.",
       "story_angle_secondary": "Care managers and families should monitor specific instrumental activities of daily living as indicators of readiness for different levels of housing support. Early intervention on these tasks may delay more restrictive moves.",
-      "caveats": "Observational design; French healthcare and housing systems may differ from other countries; some cohort data began in 1988, so historical context may affect generalizability."
+      "caveats": "Observational design; French healthcare and housing systems may differ from other countries; some cohort data began in 1988, so historical context may affect generalizability.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 5264,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +505,28 @@
       "why_it_matters": "Pulse pressure is a simple measure that can be calculated from any blood pressure reading. This study suggests it may add useful information about cognitive risk, particularly for people already managing hypertension.",
       "story_angle_primary": "Next time you check your blood pressure, note both the top and bottom numbers\u2014if the gap between them is wide (high pulse pressure) and your blood pressure is already elevated, it may be worth discussing with your doctor as a potential factor in brain health.",
       "story_angle_secondary": "For clinicians, pulse pressure monitoring could enhance cognitive risk assessment in older adults with hypertension. This may support more aggressive or targeted blood pressure management.",
-      "caveats": "Observational design; blood pressure classification based on historical data; the ACTIVE trial population may not represent all older adults."
+      "caveats": "Observational design; blood pressure classification based on historical data; the ACTIVE trial population may not represent all older adults.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 2787,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +539,28 @@
       "why_it_matters": "Depression in older adults isn't monolithic\u2014some people stay stable while others fluctuate. Understanding these patterns can help clinicians tailor interventions and recognize modifiable risk factors like social isolation.",
       "story_angle_primary": "If you've noticed mood changes as you've gotten older, know that patterns vary\u2014some are more stable, others more responsive to life circumstances. Addressing factors like loneliness, pain, or vision problems may help.",
       "story_angle_secondary": "Clinicians and caregivers should assess depressive symptoms longitudinally rather than at single time points. Targeting social isolation, pain management, and sensory impairments may interrupt unfavorable depressive trajectories before dementia emerges.",
-      "caveats": "Observational design; self-reported depression measures; differences between Chinese and English cohorts limit direct comparison."
+      "caveats": "Observational design; self-reported depression measures; differences between Chinese and English cohorts limit direct comparison.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +573,29 @@
       "why_it_matters": "Sleep plays a critical role in memory consolidation, and home-based apps could eventually allow clinicians to monitor this process remotely\u2014potentially catching early signs of decline without requiring lab visits.",
       "story_angle_primary": "If you're concerned about your memory, future smartphone apps may help you and your doctor track how well your brain processes information overnight. This early-stage research shows such tools are feasible, even if not yet widely available.",
       "story_angle_secondary": "For memory clinics and researchers, this pilot supports the development of remote cognitive assessments\u2014but highlights the importance of user-friendly design and support for older adults with lower digital literacy.",
-      "caveats": "Pilot study with no control group; over 40% did not complete both test sessions; participants were from a single memory clinic in Sydney."
+      "caveats": "Pilot study with no control group; over 40% did not complete both test sessions; participants were from a single memory clinic in Sydney.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +608,28 @@
       "why_it_matters": "This qualitative study offers insight into how people with early cognitive changes navigate stress\u2014and suggests that preserving meaningful roles and relationships may support resilience.",
       "story_angle_primary": "If you've been told you have mild cognitive impairment, staying connected to family and continuing to contribute in meaningful ways\u2014even small ones\u2014may help you cope with the stress of cognitive changes.",
       "story_angle_secondary": "Families and care providers can support people with MCI by maintaining their sense of purpose and avoiding overprotection. Facilitating social engagement and family involvement may bolster coping resources.",
-      "caveats": "Qualitative study with 22 participants (not generalizable); single-center recruitment in China; findings describe associations, not interventions."
+      "caveats": "Qualitative study with 22 participants (not generalizable); single-center recruitment in China; findings describe associations, not interventions.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +642,30 @@
       "why_it_matters": "Cardiac arrest survivors often experience cognitive impairment, but brain health support is rarely integrated into recovery care. This study provides direct input from patients and families on what they need.",
       "story_angle_primary": "If you or someone you love has survived a cardiac arrest and is experiencing memory or thinking changes, you're not alone\u2014and peer support, physical activity, and professional mental health care may help. Ask your cardiologist or neurologist about brain health resources.",
       "story_angle_secondary": "Cardiac rehabilitation programs and survivor support groups may benefit from adding brain health content, including nutrition guidance and psychoeducation. Caregiver stress should also be explicitly addressed.",
-      "caveats": "Small qualitative sample (19 dyads); participants were recruited from advocacy organizations and may not represent all survivors; no intervention was tested."
+      "caveats": "Small qualitative sample (19 dyads); participants were recruited from advocacy organizations and may not represent all survivors; no intervention was tested.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "cognitive decline",
+        "dementia",
+        "depression",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +678,29 @@
       "why_it_matters": "Public health campaigns emphasizing personal responsibility for dementia risk may inadvertently promote stigma toward people who develop cognitive decline, especially if the messaging implies they didn't try hard enough.",
       "story_angle_primary": "If you've ever felt judged for cognitive changes\u2014or caught yourself judging someone else\u2014know that dementia is influenced by many factors beyond lifestyle. Compassion matters as much as prevention advice.",
       "story_angle_secondary": "Health communicators and senior living professionals should frame risk-reduction messaging carefully, balancing empowerment with empathy. Blaming individuals for cognitive decline can harm both people with dementia and their families.",
-      "caveats": "Vignette-based experimental design (not real-world behavior); sample recruited online; findings reflect emotional reactions, not actions."
+      "caveats": "Vignette-based experimental design (not real-world behavior); sample recruited online; findings reflect emotional reactions, not actions.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

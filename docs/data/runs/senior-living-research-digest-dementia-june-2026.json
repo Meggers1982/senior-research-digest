@@ -24,7 +24,29 @@
       "why_it_matters": "Guidelines recommend limiting antipsychotic use in dementia to 12 weeks or less, yet many people remain on them far longer. This study provides reassurance that discontinuing these medications, even after prolonged use, can be done safely while lowering serious side-effect risks.",
       "story_angle_primary": "If you or a loved one with dementia has been taking an antipsychotic for months, it may be worth asking the prescribing doctor whether it's time to taper off. This study suggests stopping can reduce the chance of falls, broken bones, and confusion episodes without raising other health risks.",
       "story_angle_secondary": "Senior living staff and family caregivers should advocate for regular medication reviews. Facilities can use this evidence to develop deprescribing protocols that prioritize resident safety and quality of life.",
-      "caveats": "Observational design (cannot establish causation); UK population may not fully generalize to other countries; relies on recorded diagnoses in claims data."
+      "caveats": "Observational design (cannot establish causation); UK population may not fully generalize to other countries; relies on recorded diagnoses in claims data.",
+      "score": 100,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 24822,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +59,26 @@
       "why_it_matters": "Where you live may influence long-term brain health. Access to parks, gardens, and natural landscapes could be a modifiable factor worth considering when choosing housing in later life.",
       "story_angle_primary": "When thinking about where to live as you age, consider neighborhoods with nearby parks or green areas. While this research can't prove cause and effect, spending time in nature may support brain health alongside other known benefits like stress reduction.",
       "story_angle_secondary": "Senior living developers and community planners can use these findings to prioritize green space access in facility design and site selection, potentially supporting residents' cognitive health over time.",
-      "caveats": "Observational design (cannot establish causation); mediation by air pollution was limited; gene-environment interactions exploratory and require replication."
+      "caveats": "Observational design (cannot establish causation); mediation by air pollution was limited; gene-environment interactions exploratory and require replication.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +91,26 @@
       "why_it_matters": "Brain amyloid accumulation often precedes Alzheimer's symptoms by years. This study suggests that staying physically active at moderate-to-vigorous intensity may help preserve thinking abilities despite underlying brain changes.",
       "story_angle_primary": "Brisk walking, cycling, swimming, or any activity that raises your heart rate meaningfully may help protect your memory and thinking skills\u2014even if early Alzheimer's changes are already present in your brain. Talk to your doctor about safe ways to stay active.",
       "story_angle_secondary": "Senior living programs should prioritize structured moderate-intensity exercise classes. For families, encouraging and facilitating regular physical activity for aging relatives may be one of the most impactful things they can do.",
-      "caveats": "Small sample (N=74); single Japanese community; observational design (cannot establish causation); short follow-up (~2 years)."
+      "caveats": "Small sample (N=74); single Japanese community; observational design (cannot establish causation); short follow-up (~2 years).",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 74,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +123,30 @@
       "why_it_matters": "Dementia caregiving is demanding and often isolating. A low-cost, accessible smartphone intervention that fits into daily life could help caregivers manage stress without requiring clinic visits or lengthy programs.",
       "story_angle_primary": "If you're caring for a spouse or loved one with dementia, brief mindfulness exercises on your phone\u2014even just a few minutes daily\u2014may help reduce stress and improve sleep. Apps designed for caregivers are becoming more available.",
       "story_angle_secondary": "Senior living professionals can recommend evidence-based digital tools to family caregivers as part of comprehensive support. Facilities might also explore offering similar resources to staff experiencing caregiving-related stress.",
-      "caveats": "Single-arm design with no control group; short intervention period (18 days); findings are preliminary and require confirmation in randomized trials."
+      "caveats": "Single-arm design with no control group; short intervention period (18 days); findings are preliminary and require confirmation in randomized trials.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "cost & policy",
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +159,28 @@
       "why_it_matters": "Hearing loss is one of the largest potentially modifiable risk factors for dementia. Correcting it with hearing aids\u2014and engaging in cognitive training\u2014may help delay or prevent cognitive decline.",
       "story_angle_primary": "If you've noticed hearing difficulties, getting your hearing checked and considering hearing aids is about more than convenience\u2014it may protect your brain health. Ask your doctor about screening options.",
       "story_angle_secondary": "Families and senior living staff should watch for signs of hearing difficulty (asking people to repeat themselves, withdrawing from conversations) and encourage professional evaluation. Facilities can support hearing health through regular screenings and ensuring hearing aids are properly maintained.",
-      "caveats": "Narrative review (not a systematic review or original study); mechanisms are still being clarified; intervention trials are ongoing."
+      "caveats": "Narrative review (not a systematic review or original study); mechanisms are still being clarified; intervention trials are ongoing.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +193,28 @@
       "why_it_matters": "Trauma's effects on the brain can persist into late life, but building resilience through social support, coping skills, and mental health care may offer protection\u2014particularly for men, who may face different caregiving expectations and coping styles.",
       "story_angle_primary": "Past difficult experiences don't have to define your brain health. Working on coping strategies, staying socially connected, and seeking support when needed may help protect your memory and thinking as you age.",
       "story_angle_secondary": "Senior living programs and family members can support cognitive health by fostering environments that build resilience\u2014through meaningful social activities, access to mental health services, and trauma-informed care approaches.",
-      "caveats": "Observational design (cannot establish causation); self-reported trauma; single cohort from Australia may not generalize broadly."
+      "caveats": "Observational design (cannot establish causation); self-reported trauma; single cohort from Australia may not generalize broadly.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +227,26 @@
       "why_it_matters": "Psychological well-being\u2014especially a sense of personal growth and purpose\u2014may protect brain health, potentially by reducing stress and encouraging healthy behaviors like exercise.",
       "story_angle_primary": "Cultivating a sense of purpose\u2014through volunteering, hobbies, learning new skills, or staying engaged with family\u2014may do more than boost your mood. It could also help keep your mind sharp as you age.",
       "story_angle_secondary": "Senior living communities can design programming that fosters personal growth and purpose, such as mentorship opportunities, lifelong learning classes, and meaningful volunteer roles. Families can encourage aging loved ones to pursue activities that give them a sense of meaning.",
-      "caveats": "Observational design (cannot establish causation); women-only sample; older cohort (77\u201393 years) may not generalize to younger seniors."
+      "caveats": "Observational design (cannot establish causation); women-only sample; older cohort (77\u201393 years) may not generalize to younger seniors.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +259,27 @@
       "why_it_matters": "Economic and social disadvantage\u2014starting in childhood and continuing into older age\u2014may contribute to earlier cognitive concerns. Addressing depression and promoting lifelong learning and social engagement could help reduce these disparities.",
       "story_angle_primary": "If you're noticing memory or thinking concerns, know that factors like financial stress or social isolation can play a role. Seeking help for depression, staying socially active, and engaging in mentally stimulating activities may support your cognitive health.",
       "story_angle_secondary": "Senior living providers should be aware that residents from disadvantaged backgrounds may face elevated cognitive risks. Offering subsidized programming, mental health services, and community-building activities can help address these inequities.",
-      "caveats": "Observational design (cannot establish causation); self-reported cognitive decline (not clinical diagnosis); specific to Kaiser Permanente population."
+      "caveats": "Observational design (cannot establish causation); self-reported cognitive decline (not clinical diagnosis); specific to Kaiser Permanente population.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +292,26 @@
       "why_it_matters": "Even in healthy aging, brain changes are occurring that can affect mental quickness. Understanding these trajectories may help identify people at risk for cognitive slowing and guide prevention efforts.",
       "story_angle_primary": "Slowing down mentally as you age isn't just \"getting older\"\u2014it reflects real changes in your brain. Managing cardiovascular risk factors like high blood pressure and diabetes may help slow these changes.",
       "story_angle_secondary": "Families and senior living staff should recognize that gradual cognitive slowing is common but not inevitable. Supporting heart-healthy lifestyles and monitoring for cardiovascular risks can help protect brain health.",
-      "caveats": "Small sample (N=67); healthy volunteers only; observational design (cannot establish causation)."
+      "caveats": "Small sample (N=67); healthy volunteers only; observational design (cannot establish causation).",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 67,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +324,27 @@
       "why_it_matters": "This finding helps clarify the sequence of brain changes in Alzheimer's and supports targeting amyloid and tau early to potentially prevent downstream vascular damage.",
       "story_angle_primary": "Alzheimer's-related brain changes may set off a cascade that includes damage to blood vessels in the brain. This underscores the importance of early detection and addressing risk factors before symptoms appear.",
       "story_angle_secondary": "For families considering biomarker testing or clinical trials for loved ones, this research highlights why early intervention on Alzheimer's pathology may have broad protective effects on brain health.",
-      "caveats": "Observational design (cannot establish causation); ADNI participants are research volunteers and may not represent the general population; two-year follow-up is relatively short."
+      "caveats": "Observational design (cannot establish causation); ADNI participants are research volunteers and may not represent the general population; two-year follow-up is relatively short.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 1200,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +357,26 @@
       "why_it_matters": "Inconsistency in thinking and sluggish brain \"readiness\" signals may be early markers of cognitive decline\u2014potentially detectable before obvious symptoms emerge.",
       "story_angle_primary": "If you notice your thinking feels \"off\" some days but not others, it may be worth mentioning to your doctor. Subtle inconsistencies in cognition could be an early signal worth investigating.",
       "story_angle_secondary": "Senior living professionals and families should be attentive to fluctuations in residents' or loved ones' cognitive performance\u2014not just overall decline. These patterns may warrant earlier clinical evaluation.",
-      "caveats": "Cross-sectional design (cannot establish causation); MCI defined by screening tool, not full clinical workup; single research setting."
+      "caveats": "Cross-sectional design (cannot establish causation); MCI defined by screening tool, not full clinical workup; single research setting.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +389,28 @@
       "why_it_matters": "Maintaining muscle mass and a healthy weight may be important not just for mobility but also for brain health. Sarcopenic obesity is increasingly common in aging populations and appears particularly harmful.",
       "story_angle_primary": "Strength training and good nutrition aren't just about staying mobile\u2014they may also help protect your brain. Ask your doctor or a physical therapist about safe ways to build and maintain muscle.",
       "story_angle_secondary": "Senior living facilities should prioritize resistance exercise programs and nutritional support to help residents maintain muscle mass. Families can encourage aging loved ones to stay active and eat adequate protein.",
-      "caveats": "Observational design (cannot establish causation); sarcopenia definitions vary across studies; UK Biobank participants may not represent all populations."
+      "caveats": "Observational design (cannot establish causation); sarcopenia definitions vary across studies; UK Biobank participants may not represent all populations.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +423,28 @@
       "why_it_matters": "Fear of dementia can affect help-seeking and engagement with prevention. Understanding that these emotional responses track with objective risk factors can inform how clinicians communicate about brain health.",
       "story_angle_primary": "Worrying about memory loss is common, especially if you have risk factors. Channeling that concern into action\u2014like improving diet, staying active, and managing depression\u2014may help both your brain health and your peace of mind.",
       "story_angle_secondary": "Healthcare providers and senior living staff should approach dementia risk discussions with sensitivity, recognizing that fear can either motivate or paralyze. Offering concrete, actionable steps may help people engage with prevention rather than avoid the topic.",
-      "caveats": "Observational design (cannot establish causation); relatively small sample; predominantly White UK cohort."
+      "caveats": "Observational design (cannot establish causation); relatively small sample; predominantly White UK cohort.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +457,27 @@
       "why_it_matters": "Aspiration pneumonia in dementia is common and marks a turning point toward intensive healthcare use. It signals the need for multidisciplinary review, swallowing assessment, and advance care planning discussions.",
       "story_angle_primary": "If you or a loved one with dementia has had aspiration pneumonia (pneumonia from food or liquid entering the lungs), it's a sign to have a conversation with the care team about what to expect going forward and how to plan for future care needs.",
       "story_angle_secondary": "Senior living and hospital staff should treat aspiration pneumonia as a trigger for comprehensive review\u2014including swallowing evaluation, oral care, and goals-of-care conversations with families.",
-      "caveats": "Single-center retrospective study; limited data on frailty, functional status, and other key variables; results may not generalize beyond this population."
+      "caveats": "Single-center retrospective study; limited data on frailty, functional status, and other key variables; results may not generalize beyond this population.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +490,26 @@
       "why_it_matters": "Oral health is a modifiable factor that may influence dementia risk. Good dental care and prompt attention to gum problems could be a simple way to support brain health.",
       "story_angle_primary": "Taking care of your teeth and gums isn't just about your smile\u2014it may also help protect your brain. Regular dental checkups and addressing gum pain or tooth problems promptly are worthwhile investments in your health.",
       "story_angle_secondary": "Senior living facilities should ensure residents have access to dental care and oral hygiene support. Families can help by encouraging dental visits and assisting with daily oral care for loved ones who need it.",
-      "caveats": "Observational design (cannot establish causation); self-reported oral health measures; UK population may not generalize globally; causal role of oral health in dementia requires further testing."
+      "caveats": "Observational design (cannot establish causation); self-reported oral health measures; UK population may not generalize globally; causal role of oral health in dementia requires further testing.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +522,28 @@
       "why_it_matters": "Socioeconomic disadvantage across the lifespan is a powerful predictor of dementia risk, and cardiovascular health is one pathway through which this operates. Improving heart health may help reduce dementia disparities.",
       "story_angle_primary": "Your heart health and brain health are closely connected. Managing blood pressure, cholesterol, blood sugar, and staying active can help protect your brain\u2014especially if you've faced economic challenges over your lifetime.",
       "story_angle_secondary": "Policymakers and senior care providers should recognize that dementia prevention must address social determinants of health. Cardiovascular wellness programs targeted at underserved populations may help narrow cognitive health gaps.",
-      "caveats": "Observational design (cannot establish causation); cardiovascular health measured at same time as SES, limiting causal inference; UK-specific findings."
+      "caveats": "Observational design (cannot establish causation); cardiovascular health measured at same time as SES, limiting causal inference; UK-specific findings.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +556,28 @@
       "why_it_matters": "Mindfulness apps may offer an accessible, flexible stress-management tool for dementia caregivers, and their effectiveness appears robust even for those starting with higher stress levels.",
       "story_angle_primary": "If you're caring for someone with dementia, a mindfulness app may help you manage daily stress. Even 10 minutes a day could make a difference, and you don't need to feel \"calm\" to start.",
       "story_angle_secondary": "Senior living professionals can recommend digital mindfulness resources to family caregivers as part of holistic support. These tools may be especially valuable for caregivers who can't attend in-person programs.",
-      "caveats": "Secondary analysis of a small feasibility trial; short duration; active control was educational (not a true placebo)."
+      "caveats": "Secondary analysis of a small feasibility trial; short duration; active control was educational (not a true placebo).",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +590,27 @@
       "why_it_matters": "As internet use among older adults with cognitive impairment grows, so do risks. Current resources are inadequate, and co-designed, comprehensive online safety initiatives are urgently needed.",
       "story_angle_primary": "Using the internet can be valuable for staying connected, but be cautious about sharing personal information and clicking unfamiliar links. Consider asking a trusted family member to help review suspicious emails or messages.",
       "story_angle_secondary": "Families and senior living staff should proactively discuss online safety with residents and loved ones with dementia. Simple safeguards\u2014like monitoring shared accounts and using privacy settings\u2014can reduce risk.",
-      "caveats": "Scoping review (not a systematic review of effectiveness); limited evidence base; guidance quality was variable."
+      "caveats": "Scoping review (not a systematic review of effectiveness); limited evidence base; guidance quality was variable.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +623,28 @@
       "why_it_matters": "Investing in caregiver education and skills training may not only improve quality of life for people with dementia but also reduce healthcare system costs by helping people remain at home longer.",
       "story_angle_primary": "If you're caring for someone with dementia, seeking out caregiver training\u2014offered by hospitals, community organizations, or online\u2014may help you manage challenges more effectively and delay the need for nursing home placement.",
       "story_angle_secondary": "Healthcare systems and senior living providers should consider funding caregiver training as a cost-effective intervention. Families should advocate for access to these programs as part of standard dementia care.",
-      "caveats": "Model-based study (not a clinical trial); results sensitive to assumptions about care home admission rates; UK-specific cost data."
+      "caveats": "Model-based study (not a clinical trial); results sensitive to assumptions about care home admission rates; UK-specific cost data.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "cost & policy",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +657,28 @@
       "why_it_matters": "Caregiving for a parent with dementia is a powerful, teachable moment for one's own future planning\u2014but outcomes matter. Ensuring that ACP translates into goal-concordant care can encourage the next generation to engage in planning.",
       "story_angle_primary": "If you've cared for a parent with dementia, your experiences can guide your own advance care planning. Focus on communicating your values and preferences clearly to loved ones\u2014not just completing forms.",
       "story_angle_secondary": "Clinicians and senior living staff should recognize that family caregivers are processing their own mortality alongside their loved one's. Offering support for personal ACP during and after caregiving may be especially meaningful.",
-      "caveats": "Qualitative study (small sample, not generalizable); predominantly White, educated participants; reflects U.S. healthcare context."
+      "caveats": "Qualitative study (small sample, not generalizable); predominantly White, educated participants; reflects U.S. healthcare context.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +691,27 @@
       "why_it_matters": "Feeling valued by the person you care for can reduce the risk of harmful caregiving behaviors. Supporting reciprocity\u2014through interventions that acknowledge caregivers and facilitate positive interactions\u2014may help prevent elder neglect and abuse.",
       "story_angle_primary": "If you're a caregiver, recognize that feeling appreciated matters\u2014for your well-being and for the quality of care you provide. Finding ways to foster positive moments with your loved one can benefit you both.",
       "story_angle_secondary": "Senior living and social service professionals should develop interventions that support reciprocity in caregiving relationships, particularly targeting male caregivers who may benefit most from feeling recognized and valued.",
-      "caveats": "Observational design (cannot establish causation); self-reported neglect and aggression may be underreported; diary methodology may influence behavior."
+      "caveats": "Observational design (cannot establish causation); self-reported neglect and aggression may be underreported; diary methodology may influence behavior.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +724,28 @@
       "why_it_matters": "Frailty is a major driver of healthcare costs and quality of life in older adults. Recognizing and managing frailty\u2014alongside dementia\u2014can inform care planning and resource allocation.",
       "story_angle_primary": "Frailty\u2014characterized by weakness, fatigue, and vulnerability to setbacks\u2014can significantly impact your health and independence. Ask your doctor about frailty screening and what steps you can take to stay strong.",
       "story_angle_secondary": "Senior living and healthcare systems should routinely assess frailty alongside cognitive status. Care strategies addressing both conditions may improve outcomes and contain costs.",
-      "caveats": "Observational design (cannot establish causation); claims-based frailty and dementia measures may misclassify some individuals; U.S. Medicare population only."
+      "caveats": "Observational design (cannot establish causation); claims-based frailty and dementia measures may misclassify some individuals; U.S. Medicare population only.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [],

@@ -24,7 +24,26 @@
       "why_it_matters": "This comprehensive synthesis provides the strongest evidence to date that structured interactions with animals can meaningfully reduce depression in older adults, offering a low-risk complement to conventional treatments.",
       "story_angle_primary": "If you're experiencing low mood, ask your healthcare provider or senior living community about animal-assisted therapy programs. These structured interactions with trained animals may offer emotional benefits alongside\u2014not instead of\u2014your current care.",
       "story_angle_secondary": "Senior living facilities may consider implementing or expanding pet therapy programs as an evidence-based, patient-centered approach to support residents' mental health, particularly those with depressive symptoms.",
-      "caveats": "Quality of included studies varied; most primary studies had small sample sizes; heterogeneity was moderate (I\u00b2 = 43.4%); individual study designs varied considerably."
+      "caveats": "Quality of included studies varied; most primary studies had small sample sizes; heterogeneity was moderate (I\u00b2 = 43.4%); individual study designs varied considerably.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 2156,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +56,27 @@
       "why_it_matters": "This rigorous trial demonstrates that structured music therapy\u2014regardless of whether it's individual or group-based\u2014can support both mental health and cognitive function in older adults who don't have dementia.",
       "story_angle_primary": "Whether you prefer one-on-one attention or enjoy group settings, music therapy may help lift your mood and keep your mind sharp. Look for programs at community centers, senior living communities, or through healthcare providers.",
       "story_angle_secondary": "Wellness coordinators and activity directors can consider incorporating standardized music therapy protocols\u2014in any format that suits their population\u2014as an evidence-based intervention for supporting emotional and cognitive health.",
-      "caveats": "Small sample size (N=62); single study requiring replication; passive control group (no active comparison intervention)."
+      "caveats": "Small sample size (N=62); single study requiring replication; passive control group (no active comparison intervention).",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 62,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +89,27 @@
       "why_it_matters": "This large-scale analysis suggests that dietary choices emphasizing anti-inflammatory foods\u2014fruits, vegetables, whole grains, fish, healthy fats\u2014may protect mental health in later life, especially when paired with other healthy habits.",
       "story_angle_primary": "The foods you choose may influence your mood. Emphasizing vegetables, fruits, fish, nuts, and olive oil while limiting processed foods could support your mental well-being\u2014and combining these choices with regular activity may provide even greater benefit.",
       "story_angle_secondary": "Dietitians and senior living food service professionals can promote anti-inflammatory menu options as part of a comprehensive approach to residents' mental and physical health.",
-      "caveats": "Observational design (cannot establish causation); dietary intake was self-reported; findings from Australia may not generalize to all populations."
+      "caveats": "Observational design (cannot establish causation); dietary intake was self-reported; findings from Australia may not generalize to all populations.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +122,27 @@
       "why_it_matters": "Even when depression is present, staying physically active appears to offer meaningful protection against becoming frail, suggesting that movement matters regardless of mood.",
       "story_angle_primary": "If you're feeling low, physical activity may still help protect your strength and independence. Even moderate movement counts\u2014you don't need to wait until you \"feel better\" to benefit from staying active.",
       "story_angle_secondary": "Care teams should consider addressing both depression and physical inactivity together when assessing frailty risk, as interventions targeting movement may benefit mental and physical health simultaneously.",
-      "caveats": "Cross-sectional design (cannot establish causation); physical activity was self-reported; depression assessed by screening scale rather than clinical diagnosis."
+      "caveats": "Cross-sectional design (cannot establish causation); physical activity was self-reported; depression assessed by screening scale rather than clinical diagnosis.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +155,27 @@
       "why_it_matters": "This novel, low-cost group writing intervention shows promise for reducing depression while fostering meaning-making and connection\u2014activities particularly valuable in later life.",
       "story_angle_primary": "Writing about your values and what you want to pass on to others\u2014especially in a supportive group\u2014may help reduce feelings of depression while deepening your sense of purpose. This kind of reflection doesn't require being a skilled writer.",
       "story_angle_secondary": "Senior centers and faith communities could pilot ethical will writing circles as accessible, low-resource programs for promoting mental health and social engagement among older members.",
-      "caveats": "Small sample size (N=30); no control group; single-arm pilot study; findings require replication in rigorous trials."
+      "caveats": "Small sample size (N=30); no control group; single-arm pilot study; findings require replication in rigorous trials.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 30,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +188,28 @@
       "why_it_matters": "Family caregivers often struggle to access mental health support. This study shows that a structured online self-help program with light therapist contact can be feasible and acceptable for reducing caregiver distress.",
       "story_angle_primary": "If you're caring for someone with dementia and feeling overwhelmed, online self-help programs designed specifically for caregivers may offer accessible support. These programs can often be completed at your own pace around caregiving responsibilities.",
       "story_angle_secondary": "Healthcare systems and dementia care organizations can consider offering evidence-based digital mental health tools to family caregivers as a scalable way to extend support beyond in-person services.",
-      "caveats": "Process evaluation (not primary efficacy outcomes); participants self-selected into the trial; adherence declined over time (50% at 6 months, 40% at 12 months)."
+      "caveats": "Process evaluation (not primary efficacy outcomes); participants self-selected into the trial; adherence declined over time (50% at 6 months, 40% at 12 months).",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +222,27 @@
       "why_it_matters": "It's not just social time that matters for caregiver mental health\u2014it's missing activities that are personally meaningful. This distinction has implications for how support systems help caregivers maintain well-being.",
       "story_angle_primary": "If you're caring for someone, try to protect time for at least one or two activities that matter most to you. Missing these may take a greater toll on your mood than missing activities that feel less important.",
       "story_angle_secondary": "Respite care programs and family support services should help caregivers identify and prioritize their most valued social activities, rather than treating all social engagement as equivalent.",
-      "caveats": "Cross-sectional design (cannot establish causation); self-reported measures; gender interaction was not statistically significant in the full model."
+      "caveats": "Cross-sectional design (cannot establish causation); self-reported measures; gender interaction was not statistically significant in the full model.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +255,27 @@
       "why_it_matters": "Depression may complicate diabetes management in older adults through multiple pathways. Addressing mental health may be as important as medication management for achieving better blood sugar outcomes.",
       "story_angle_primary": "If you have diabetes and have been feeling down or hopeless, let your doctor know. Depression can make managing your blood sugar harder, and treating both conditions together may help you feel better overall.",
       "story_angle_secondary": "Diabetes care teams should routinely screen older patients for depression and consider integrated mental health support as part of comprehensive diabetes management, particularly for those struggling to meet glycemic goals.",
-      "caveats": "Cross-sectional design (cannot establish causation); depression and A1c measured at single time point; homebound status definition varied."
+      "caveats": "Cross-sectional design (cannot establish causation); depression and A1c measured at single time point; homebound status definition varied.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +288,27 @@
       "why_it_matters": "This synthesis confirms that the pattern of isolation over time\u2014not just a single measurement\u2014matters for brain health, and that depression may be one mechanism through which loneliness harms cognition.",
       "story_angle_primary": "Staying connected socially over time may help protect your memory and thinking abilities. If you notice yourself becoming more isolated, consider reaching out to family, joining a group, or speaking with your doctor about resources.",
       "story_angle_secondary": "Senior living communities and health systems should monitor residents' social engagement over time, not just at intake, and intervene early when patterns of increasing isolation emerge.",
-      "caveats": "Systematic review of observational studies (cannot establish causation); considerable heterogeneity across included studies; measurement approaches varied."
+      "caveats": "Systematic review of observational studies (cannot establish causation); considerable heterogeneity across included studies; measurement approaches varied.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +321,27 @@
       "why_it_matters": "A simple, practical screening tool using readily available information could help hospital staff quickly identify older inpatients who may need mental health support.",
       "story_angle_primary": "If you're hospitalized and experiencing poor sleep, pain, or feeling unwell overall, don't hesitate to tell your care team\u2014these may signal you'd benefit from additional support for your mood, not just your physical condition.",
       "story_angle_secondary": "Hospital geriatric teams can use validated screening tools incorporating sleep, pain, and self-rated health to systematically identify older inpatients at risk for depression before discharge.",
-      "caveats": "Single-center study in China; cross-sectional design; internal validation only (external validation in other populations needed); depression assessed by screening scale."
+      "caveats": "Single-center study in China; cross-sectional design; internal validation only (external validation in other populations needed); depression assessed by screening scale.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 11269,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +354,26 @@
       "why_it_matters": "Technology-based approaches can help address the loneliness epidemic among older adults, but their benefits won't reach everyone without deliberate efforts to bridge the digital divide.",
       "story_angle_primary": "Video calls, telephone programs, and even social robots may help you feel more connected. If technology feels intimidating, look for programs that offer training and support to help you get started.",
       "story_angle_secondary": "Senior living communities and healthcare systems implementing digital loneliness interventions must simultaneously address technology access, training, and usability to ensure equitable benefit across all residents.",
-      "caveats": "Narrative review (not systematic); evidence quality varied considerably; most studies had small samples or short follow-up periods."
+      "caveats": "Narrative review (not systematic); evidence quality varied considerably; most studies had small samples or short follow-up periods.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +386,26 @@
       "why_it_matters": "An older adult's stated preference for solitude may signal underlying social difficulties rather than simply a personality trait, suggesting it deserves clinical attention.",
       "story_angle_primary": "If you find yourself preferring to be alone more often, it may be worth reflecting on whether this is truly a choice or a response to feeling disconnected. Talking with a counselor or trusted friend about these feelings could help.",
       "story_angle_secondary": "Clinicians and senior living staff should gently explore the reasons behind an older adult's preference for solitude, as this may reflect social challenges or early mental health concerns rather than a stable personal preference.",
-      "caveats": "Single geographic location (Tokyo); relatively small sample (N=391); preference for solitude is complex and culturally influenced."
+      "caveats": "Single geographic location (Tokyo); relatively small sample (N=391); preference for solitude is complex and culturally influenced.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 391,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +418,27 @@
       "why_it_matters": "Maintaining a sense that sexuality matters may benefit mental health over time for partnered older adults, even if it involves some short-term emotional costs when desires aren't fully met.",
       "story_angle_primary": "Continuing to value intimacy and sexuality in your relationship may support your emotional well-being over time, even if physical changes make things more complicated. It's okay to talk with your partner and healthcare provider about maintaining this part of your life.",
       "story_angle_secondary": "Healthcare providers should recognize sexual values as relevant to healthy aging and be prepared to discuss sexual concerns openly with older patients, including referring to specialists when appropriate.",
-      "caveats": "Observational design (cannot establish causation); limited to partnered adults; cultural context may influence findings."
+      "caveats": "Observational design (cannot establish causation); limited to partnered adults; cultural context may influence findings.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 1903,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +451,26 @@
       "why_it_matters": "Restoring trust and expanding social support systems may be key to helping older abuse victims recover psychologically, beyond simply stopping the abuse itself.",
       "story_angle_primary": "If you've experienced mistreatment, know that rebuilding trust takes time, and connecting with supportive people\u2014whether family, friends, or counselors\u2014can help protect your mental health. You don't have to navigate this alone.",
       "story_angle_secondary": "Adult protective services and mental health providers working with elder abuse survivors should prioritize interventions that rebuild interpersonal trust and strengthen social support networks, not just ensure physical safety.",
-      "caveats": "Cross-sectional design (cannot establish causation); single country (South Korea); abuse and depression were self-reported."
+      "caveats": "Cross-sectional design (cannot establish causation); single country (South Korea); abuse and depression were self-reported.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +483,26 @@
       "why_it_matters": "Problematic smartphone use is an emerging concern for older adults, and those who are already struggling with depression or living alone may be particularly vulnerable.",
       "story_angle_primary": "If you find yourself spending more time than you'd like scrolling on your phone\u2014especially short videos\u2014and feeling worse afterward, consider setting limits. This pattern may be a sign to seek support for underlying stress or low mood.",
       "story_angle_secondary": "Senior living communities should be aware that smartphone overuse, particularly video content, may signal mental health struggles in residents. Digital wellness education and mental health resources may help those most at risk.",
-      "caveats": "Cross-sectional design (cannot establish causation); single country (Turkey); problematic smartphone use defined by screening scale, not clinical diagnosis."
+      "caveats": "Cross-sectional design (cannot establish causation); single country (Turkey); problematic smartphone use defined by screening scale, not clinical diagnosis.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 1011,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +515,26 @@
       "why_it_matters": "Early-life hardship creates lasting mental health vulnerabilities that remain detectable decades later, suggesting that interventions for depression in older adults may need to account for childhood history.",
       "story_angle_primary": "Difficult experiences from childhood can still affect how you feel today. If you're struggling with low mood or dissatisfaction with life, a counselor who understands trauma may be able to help you address these deep-rooted patterns.",
       "story_angle_secondary": "Mental health providers working with older adults should consider assessing childhood adversity history, as those with significant early trauma may benefit from trauma-informed therapeutic approaches.",
-      "caveats": "Cross-sectional analysis (cannot establish causation); retrospective reporting of childhood experiences; single-country sample (China)."
+      "caveats": "Cross-sectional analysis (cannot establish causation); retrospective reporting of childhood experiences; single-country sample (China).",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 7881,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +547,28 @@
       "why_it_matters": "This comprehensive analysis quantifies the mental health toll of pandemic lockdowns on older adults and identifies specific policy factors that influenced psychological outcomes.",
       "story_angle_primary": "If you struggled with anxiety or depression during the pandemic, you were far from alone. These feelings were a common response to extraordinary circumstances, and support remains available if you're still affected.",
       "story_angle_secondary": "Public health planners preparing for future emergencies should recognize that mobility restrictions and workplace closures specifically increase anxiety risk in older adults, informing the design of more protective policies.",
-      "caveats": "Studies used varied measurement tools and definitions; meta-analysis showed heterogeneity; lockdown policies differed substantially across countries."
+      "caveats": "Studies used varied measurement tools and definitions; meta-analysis showed heterogeneity; lockdown policies differed substantially across countries.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +581,27 @@
       "why_it_matters": "Addressing depression in older adults from disadvantaged backgrounds may help reduce subjective cognitive decline, which is itself an early marker of dementia risk.",
       "story_angle_primary": "If you're noticing memory concerns and have faced financial or social challenges in life, getting screened and treated for depression could be an important step\u2014low mood may be contributing to how you experience your thinking abilities.",
       "story_angle_secondary": "Healthcare systems serving diverse populations should recognize depression as a key pathway linking lifelong socioeconomic disadvantage to cognitive concerns, making mental health screening especially important in these groups.",
-      "caveats": "Observational design (cannot establish causation); subjective cognitive decline is self-reported; findings are from Northern California and may not generalize."
+      "caveats": "Observational design (cannot establish causation); subjective cognitive decline is self-reported; findings are from Northern California and may not generalize.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +614,28 @@
       "why_it_matters": "Grandparenting has mixed effects on health\u2014it may boost mental sharpness while simultaneously increasing emotional and physical strain, especially for women.",
       "story_angle_primary": "Caring for grandchildren may help keep your mind active, but watch for signs of increased stress or low mood. Building in breaks and support for yourself is important for sustaining this role without burning out.",
       "story_angle_secondary": "Family members and support services should recognize that grandparent caregivers\u2014especially grandmothers\u2014may experience competing health effects and benefit from respite care and emotional support.",
-      "caveats": "Single country (South Africa); observational design with fixed-effects models (addresses some but not all confounding); results may not generalize to other cultural contexts."
+      "caveats": "Single country (South Africa); observational design with fixed-effects models (addresses some but not all confounding); results may not generalize to other cultural contexts.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +648,28 @@
       "why_it_matters": "Routine medical imaging may reveal muscle changes that signal vulnerability to depression and other geriatric syndromes, potentially enabling earlier intervention.",
       "story_angle_primary": "Maintaining muscle strength and quality through regular physical activity may help protect not just your physical abilities but also your mood and thinking. Ask your doctor about safe ways to stay active.",
       "story_angle_secondary": "Radiologists and geriatricians could use CT-derived muscle quality measures as an opportunistic screening tool to identify older adults at risk for depression and functional decline during routine imaging.",
-      "caveats": "Small sample size (N=121); cross-sectional design (cannot establish causation); single-center study in Taiwan."
+      "caveats": "Small sample size (N=121); cross-sectional design (cannot establish causation); single-center study in Taiwan.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 121,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "sarcopenia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

@@ -24,7 +24,28 @@
       "why_it_matters": "For older women concerned about falls and fractures, this trial suggests that comprehensive exercise programs addressing multiple physical domains may offer greater functional benefits than brief, high-intensity-only approaches.",
       "story_angle_primary": "If you have low bone density, consider exercise programs that combine strength, balance, and walking practice\u2014not just resistance training alone. The extra time investment may pay off in better balance and mobility, which are key to preventing falls.",
       "story_angle_secondary": "Senior living activity directors and physical therapists may want to prioritize multicomponent exercise classes over single-modality strength sessions when designing fall-prevention programming for residents with osteoporosis.",
-      "caveats": "Secondary outcome analysis (main study focused on bone density); no blinding possible given exercise differences; adherence rates may differ between once- and twice-weekly programs."
+      "caveats": "Secondary outcome analysis (main study focused on bone density); no blinding possible given exercise differences; adherence rates may differ between once- and twice-weekly programs.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 194,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +58,28 @@
       "why_it_matters": "Grip strength testing is quick, inexpensive, and can be done almost anywhere. This study suggests it may help identify people at risk for bone loss years before a fracture occurs.",
       "story_angle_primary": "A simple grip strength test\u2014available at many doctor's offices and gyms\u2014could flag your risk for bone problems down the road. If your grip is weak, it's worth discussing bone health screening with your healthcare provider.",
       "story_angle_secondary": "Primary care clinics and senior centers could use routine grip strength measurement as an inexpensive first-step screening tool to identify individuals who may benefit from bone density testing or preventive interventions.",
-      "caveats": "Osteoporosis diagnosis was self-reported; observational design cannot prove grip weakness causes bone loss; results may be strongest in women."
+      "caveats": "Osteoporosis diagnosis was self-reported; observational design cannot prove grip weakness causes bone loss; results may be strongest in women.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 5921,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +92,27 @@
       "why_it_matters": "Upper extremity fractures are often a warning sign of underlying bone fragility, yet patients report feeling under-supported in understanding and preventing future falls.",
       "story_angle_primary": "If you've broken a bone from a minor fall, ask your healthcare team directly about osteoporosis screening, fall prevention strategies, and whether physical or occupational therapy might help rebuild your confidence and strength.",
       "story_angle_secondary": "Therapists and fracture clinic staff should proactively address fear of falling and bone health education\u2014not just the broken bone\u2014since patients may not realize these topics are connected or feel empowered to ask.",
-      "caveats": "Small qualitative study (13 participants); single center in Ontario; findings reflect patient perceptions, not measured outcomes."
+      "caveats": "Small qualitative study (13 participants); single center in Ontario; findings reflect patient perceptions, not measured outcomes.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +125,29 @@
       "why_it_matters": "Physical function and mental health interact to influence fracture risk. Addressing depression may be an overlooked component of fracture prevention.",
       "story_angle_primary": "If you notice you're walking more slowly or feeling persistently down, mention both concerns to your doctor. Together, these issues may increase your risk of breaking a bone\u2014and both can often be improved with the right support.",
       "story_angle_secondary": "Fracture prevention programs in senior living communities should consider integrating mental health screening and support alongside physical therapy, particularly for residents with mobility limitations.",
-      "caveats": "Observational study cannot prove causation; depression and slow gait may share underlying causes; Australian population may not generalize to all settings."
+      "caveats": "Observational study cannot prove causation; depression and slow gait may share underlying causes; Australian population may not generalize to all settings.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "falls",
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +160,29 @@
       "why_it_matters": "This natural experiment suggests that early-life nutrition may have lasting effects on healthy aging, including bone health and overall resilience in older adulthood.",
       "story_angle_primary": "While you can't change your early childhood diet, this research reinforces that nutrition matters across the lifespan. Limiting added sugars now may still support your overall health and vitality as you age.",
       "story_angle_secondary": "Public health messaging to younger generations about reducing sugar intake may have benefits that extend far into old age, potentially reducing the future burden of frailty and osteoporosis.",
-      "caveats": "Observational/quasi-experimental design; rationing affected multiple nutrients, not just sugar; relies on historical exposure data; cannot establish direct causation."
+      "caveats": "Observational/quasi-experimental design; rationing affected multiple nutrients, not just sugar; relies on historical exposure data; cannot establish direct causation.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 63793,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "nutrition",
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +195,28 @@
       "why_it_matters": "This animal study suggests that when you eat\u2014not just what you eat\u2014may influence bone health as you age, pointing to time-restricted eating as a potential strategy worth investigating in humans.",
       "story_angle_primary": "While human studies are still needed, this research adds to growing evidence that eating within a consistent daily window may support healthy aging. Discuss any dietary timing changes with your healthcare provider, especially if you have other health conditions.",
       "story_angle_secondary": "Senior living dining services might consider whether meal timing consistency could be optimized to support residents' circadian health, though human evidence for bone-specific benefits remains preliminary.",
-      "caveats": "Animal study (mice); human translation uncertain; time-restricted feeding protocols vary and may not be appropriate for all older adults, particularly those with diabetes or malnutrition risk."
+      "caveats": "Animal study (mice); human translation uncertain; time-restricted feeding protocols vary and may not be appropriate for all older adults, particularly those with diabetes or malnutrition risk.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "preclinical",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "osteoporosis",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +229,28 @@
       "why_it_matters": "Strengthening hip muscles and reviewing diuretic prescriptions may be particularly high-yield targets for preventing serious fall injuries in older adults.",
       "story_angle_primary": "If you're concerned about falls, ask your physical therapist about exercises specifically targeting your hip muscles (the ones that help you balance side-to-side). Also, review your medications with your doctor\u2014especially water pills\u2014to see if adjustments might reduce your fall risk.",
       "story_angle_secondary": "Fall-prevention programs should prioritize hip abductor strengthening exercises, and pharmacists conducting medication reviews should flag diuretics as a modifiable risk factor worth discussing with prescribers.",
-      "caveats": "Observational design; single geographic region (Australia); prediction models need validation in other populations."
+      "caveats": "Observational design; single geographic region (Australia); prediction models need validation in other populations.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 952,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +263,28 @@
       "why_it_matters": "Men with osteoporosis\u2014often underdiagnosed and undertreated\u2014now have evidence that multiple treatment options work comparably, allowing for individualized choices based on convenience, cost, and side effect profiles.",
       "story_angle_primary": "If you're a man diagnosed with osteoporosis or low bone density, know that several effective treatment options exist. Talk with your doctor about which medication format (pill, injection, or infusion) fits best with your lifestyle and health history.",
       "story_angle_secondary": "Healthcare providers should actively screen older men for osteoporosis and discuss treatment options, since men often receive less attention for bone health despite facing significant fracture risk.",
-      "caveats": "Open-label design (participants knew which treatment they received); 12-month duration; conducted in China, which may affect generalizability."
+      "caveats": "Open-label design (participants knew which treatment they received); 12-month duration; conducted in China, which may affect generalizability.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 390,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +297,27 @@
       "why_it_matters": "Even when guidelines recommend universal bone density screening for older adults, implementation in real-world primary care settings faces significant barriers.",
       "story_angle_primary": "Don't assume your doctor will automatically order bone density testing. If you're 60 or older and haven't had a recent scan, ask whether one might be appropriate for you\u2014and follow through with scheduling if it's recommended.",
       "story_angle_secondary": "Primary care practices need system-level supports\u2014such as automated reminders, patient outreach, and streamlined scheduling\u2014to close the gap between screening recommendations and actual testing completion.",
-      "caveats": "Single center; Saudi Arabian healthcare context may differ from other settings; retrospective chart review."
+      "caveats": "Single center; Saudi Arabian healthcare context may differ from other settings; retrospective chart review.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 2186,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +330,28 @@
       "why_it_matters": "This radiation-free technology may allow more frequent bone density monitoring, helping patients and providers track treatment response without repeated X-ray exposure.",
       "story_angle_primary": "If you're on osteoporosis medication and curious whether it's working, ask your doctor about newer monitoring technologies that don't use radiation. More frequent feedback could help you and your healthcare team make timely treatment decisions.",
       "story_angle_secondary": "Senior living health clinics and geriatric practices might consider REMS technology as a way to monitor residents' bone health more frequently, particularly those on osteoporosis treatments or at high fracture risk.",
-      "caveats": "No control group receiving romosozumab without REMS; relatively small sample; REMS is not yet widely available; six-month follow-up is short-term."
+      "caveats": "No control group receiving romosozumab without REMS; relatively small sample; REMS is not yet widely available; six-month follow-up is short-term.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +364,28 @@
       "why_it_matters": "Older adults and their doctors sometimes hesitate to continue osteoporosis medications after a fracture, fearing interference with healing. This evidence suggests bisphosphonates can be safely continued, while teriparatide might actually help bones heal faster.",
       "story_angle_primary": "If you break a bone and are already taking osteoporosis medication, don't assume you need to stop it. Ask your doctor\u2014current evidence suggests most osteoporosis drugs don't interfere with healing and may even help.",
       "story_angle_secondary": "Orthopedic surgeons and fracture care teams should be aware that bisphosphonate continuation appears safe after fracture, and teriparatide could be considered when faster healing is clinically important.",
-      "caveats": "Heterogeneous studies with varying medications, doses, and fracture types; teriparatide finding based on fewer studies; meta-analysis quality depends on underlying trial quality."
+      "caveats": "Heterogeneous studies with varying medications, doses, and fracture types; teriparatide finding based on fewer studies; meta-analysis quality depends on underlying trial quality.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 5000,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +398,26 @@
       "why_it_matters": "Cancer survivors face elevated bone and functional health risks that persist years after treatment, yet may not receive adequate long-term monitoring and support.",
       "story_angle_primary": "If you've survived cancer\u2014even many years ago\u2014ask your healthcare provider about bone density screening and discuss any physical limitations you're experiencing. These concerns deserve ongoing attention, not just during active cancer treatment.",
       "story_angle_secondary": "Senior living communities and primary care practices should recognize cancer survivorship as a long-term risk factor for osteoporosis and functional decline, warranting proactive screening and rehabilitation referrals.",
-      "caveats": "Cross-sectional analysis (snapshot in time); Irish population; self-reported physical limitations; cancer treatments and types varied."
+      "caveats": "Cross-sectional analysis (snapshot in time); Irish population; self-reported physical limitations; cancer treatments and types varied.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 5891,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "osteoporosis"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +430,28 @@
       "why_it_matters": "A panel of routine blood tests may help identify older adults at greatest risk for multiple chronic conditions, potentially enabling earlier preventive interventions.",
       "story_angle_primary": "Standard blood tests may reveal more than you realize about your overall health trajectory. Ask your doctor to explain what your results might mean for your risk of future health problems\u2014not just whether individual numbers are \"normal.\"",
       "story_angle_secondary": "Healthcare systems could consider using biomarker profiling to identify high-risk older adults who might benefit most from intensive preventive care, lifestyle interventions, or closer monitoring.",
-      "caveats": "Observational design; biomarker panels require specific laboratory testing; clinical utility of risk stratification needs further validation."
+      "caveats": "Observational design; biomarker panels require specific laboratory testing; clinical utility of risk stratification needs further validation.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +464,29 @@
       "why_it_matters": "After a spine fracture, prolonged bed rest\u2014often thought to be protective\u2014may actually increase the risk of serious complications, while early treatment and muscle preservation appear protective.",
       "story_angle_primary": "If you have a spine compression fracture, ask your doctor when it's safe to start moving again. Extended bed rest may do more harm than good, and starting osteoporosis medication promptly appears to help healing.",
       "story_angle_secondary": "Skilled nursing facilities managing patients with vertebral fractures should balance rest with early mobilization, monitor diabetic patients closely, and ensure osteoporosis treatment is initiated promptly.",
-      "caveats": "Single-center retrospective study; K\u00fcmmell's disease diagnosis varies across studies; Chinese population; prediction model needs external validation."
+      "caveats": "Single-center retrospective study; K\u00fcmmell's disease diagnosis varies across studies; Chinese population; prediction model needs external validation.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 626,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +499,27 @@
       "why_it_matters": "The gut microbiome may play a role in skeletal health during aging, opening possibilities for future interventions targeting gut bacteria to support bone health.",
       "story_angle_primary": "Emerging research suggests gut health may influence bone health. While specific recommendations aren't yet available, maintaining a varied diet rich in fiber may support beneficial gut bacteria as scientists learn more about these connections.",
       "story_angle_secondary": "This pilot study adds to evidence that the gut-bone connection deserves attention in geriatric care, though practical microbiome-based interventions for osteoporosis remain in early development.",
-      "caveats": "Very small sample sizes (pilot study); cross-sectional design cannot establish causation; dietary and medication differences may confound results."
+      "caveats": "Very small sample sizes (pilot study); cross-sectional design cannot establish causation; dietary and medication differences may confound results.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "osteoporosis"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +532,27 @@
       "why_it_matters": "A simple chair-rise test measuring how powerfully someone can stand up might be a practical way to screen for bone health in community settings where bone density scanners aren't available.",
       "story_angle_primary": "How easily and quickly you can rise from a chair may say something about your bone health. If standing up from sitting has become difficult, it's worth discussing with your healthcare provider as a potential signal to check your bone density.",
       "story_angle_secondary": "Senior centers, fitness programs, and primary care offices could incorporate timed sit-to-stand tests as simple, no-cost indicators of musculoskeletal health that might flag individuals needing bone density evaluation.",
-      "caveats": "Small sample size (58 participants); cross-sectional design; wrist bone measurements may not reflect spine or hip; single community in California."
+      "caveats": "Small sample size (58 participants); cross-sectional design; wrist bone measurements may not reflect spine or hip; single community in California.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +565,29 @@
       "why_it_matters": "Practical, low-cost interventions can improve osteoporosis treatment rates after hip fractures\u2014a critical gap since many fracture patients never receive bone-protective therapy.",
       "story_angle_primary": "If you or a family member has a hip fracture, ask the hospital team whether osteoporosis treatment is part of the discharge plan. Evidence-based medications can reduce the risk of another fracture, but they're often overlooked.",
       "story_angle_secondary": "Senior living facilities and hospitals can adapt these educational materials and standardized protocols to improve their own secondary fracture prevention programs without major resource investments.",
-      "caveats": "Quality improvement project, not a controlled trial; results varied by country; long-term fracture outcomes not yet measured."
+      "caveats": "Quality improvement project, not a controlled trial; results varied by country; long-term fracture outcomes not yet measured.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "falls",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +600,28 @@
       "why_it_matters": "The lack of clear guidelines for managing infusion reactions may lead to suboptimal care and could discourage use of effective osteoporosis treatments.",
       "story_angle_primary": "If you're scheduled for an IV osteoporosis infusion and worried about flu-like symptoms afterward, ask your doctor what they recommend to manage any reactions. Different approaches exist, and discussing this beforehand can help you feel prepared.",
       "story_angle_secondary": "Senior living medical directors and infusion clinic nurses should develop consistent protocols for preventing and treating acute phase responses, potentially including corticosteroids for patients with prior severe reactions.",
-      "caveats": "Small pilot survey (75 respondents); Australian practice patterns; no randomized trials comparing prevention/treatment strategies."
+      "caveats": "Small pilot survey (75 respondents); Australian practice patterns; no randomized trials comparing prevention/treatment strategies.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +634,27 @@
       "why_it_matters": "Women taking aromatase inhibitors for breast cancer face accelerated bone loss, but denosumab can reverse this trajectory\u2014and monitoring with radiation-free technology allows tracking response without repeated X-ray exposure.",
       "story_angle_primary": "If you're taking hormone-blocking medication for breast cancer, ask your oncologist about bone protection. Medications like denosumab can help maintain your bone density during treatment.",
       "story_angle_secondary": "Oncologists and primary care providers should proactively assess bone health in breast cancer patients on aromatase inhibitors and consider early bone-protective therapy, particularly for those with additional osteoporosis risk factors.",
-      "caveats": "Retrospective study design; patients weren't randomized to treatment groups; REMS technology not yet widely available; Italian population."
+      "caveats": "Retrospective study design; patients weren't randomized to treatment groups; REMS technology not yet widely available; Italian population.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +667,28 @@
       "why_it_matters": "This large real-world analysis reveals how osteoporosis treatment patterns are evolving, with newer injectable options gaining ground while questions remain about the evidence base for some widely used treatments.",
       "story_angle_primary": "Osteoporosis treatment options continue to expand. If you haven't discussed your bone medication options recently, ask your doctor whether newer treatments might offer advantages for your situation.",
       "story_angle_secondary": "Healthcare systems should ensure prescribing patterns align with evidence-based guidelines and monitor whether shifts toward newer, more expensive medications improve patient outcomes.",
-      "caveats": "Chinese healthcare system and prescribing patterns may differ from other countries; database study without clinical outcomes; traditional Chinese medicine evidence base varies."
+      "caveats": "Chinese healthcare system and prescribing patterns may differ from other countries; database study without clinical outcomes; traditional Chinese medicine evidence base varies.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

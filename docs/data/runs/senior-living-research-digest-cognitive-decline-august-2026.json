@@ -24,7 +24,27 @@
       "why_it_matters": "This long-term data suggests that everyday lifestyle choices\u2014staying physically active, challenging your brain, and eating more fruits and vegetables\u2014are linked to maintaining cognitive sharpness well into later life.",
       "story_angle_primary": "You can take action today: regular walks, puzzles or learning new skills, and adding more vegetables to your plate are all associated with staying mentally sharp. These aren't miracle cures, but they're accessible habits worth discussing with your doctor.",
       "story_angle_secondary": "Senior living communities and family caregivers can incorporate structured physical activities, cognitive enrichment programs, and plant-forward menus as part of a holistic approach to supporting residents' brain health.",
-      "caveats": "Observational design (cannot establish causation); single-center study in Germany; findings may not generalize to all populations."
+      "caveats": "Observational design (cannot establish causation); single-center study in Germany; findings may not generalize to all populations.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,27 @@
       "why_it_matters": "Self-perceived cognitive changes can affect emotional well-being and social engagement, even without a diagnosis. Understanding how people interpret these changes can help shape supportive interventions.",
       "story_angle_primary": "If you're noticing memory slips, you're not alone\u2014and there are strategies that help, from using calendars and lists to staying socially connected. Talking about these experiences, rather than withdrawing, may ease worry.",
       "story_angle_secondary": "Healthcare providers and senior centers can reduce stigma by addressing ageist narratives directly and offering group-based cognitive activities that normalize these experiences while building social support.",
-      "caveats": "Qualitative study with small sample (N=20); findings reflect UK cultural context and may not generalize."
+      "caveats": "Qualitative study with small sample (N=20); findings reflect UK cultural context and may not generalize.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 20,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +90,27 @@
       "why_it_matters": "Strength training may offer brain benefits beyond muscle health, particularly for thinking skills that support planning, problem-solving, and quick decision-making.",
       "story_angle_primary": "Adding resistance exercises\u2014like lifting weights or using resistance bands\u2014may support your thinking speed and mental flexibility. Ask your doctor or a fitness professional about safe ways to start.",
       "story_angle_secondary": "Senior living fitness programs and physical therapists can emphasize resistance training not just for fall prevention and mobility, but as a potential contributor to cognitive wellness.",
-      "caveats": "Heterogeneity across studies in intervention type, duration, and cognitive measures; not all domains showed benefits; most evidence from younger healthy adults, with limited data specific to older populations."
+      "caveats": "Heterogeneity across studies in intervention type, duration, and cognitive measures; not all domains showed benefits; most evidence from younger healthy adults, with limited data specific to older populations.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +123,27 @@
       "why_it_matters": "Lifelong language use may help preserve memory in later life, though the benefits depend on cultural and social context.",
       "story_angle_primary": "If you speak more than one language, continuing to use both may support your memory as you age. For monolingual speakers, it's never too late to engage with new language learning, though research on late-life language acquisition is still emerging.",
       "story_angle_secondary": "Researchers and policymakers should consider ethnic diversity and language history when evaluating cognitive interventions\u2014one-size-fits-all approaches may miss important community-specific factors.",
-      "caveats": "Observational design; cross-sectional ethnic differences may reflect socioeconomic or educational confounding rather than bilingualism itself; longitudinal sample smaller than cross-sectional sample."
+      "caveats": "Observational design; cross-sectional ethnic differences may reflect socioeconomic or educational confounding rather than bilingualism itself; longitudinal sample smaller than cross-sectional sample.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 4140,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +156,29 @@
       "why_it_matters": "Dietary interventions may help stabilize cognitive function in early Alzheimer's, offering a potentially accessible adjunct to medications.",
       "story_angle_primary": "If you or a loved one has early Alzheimer's, ask your doctor whether supervised dietary changes might complement standard treatment. This study suggests potential benefits, but professional guidance is essential.",
       "story_angle_secondary": "Clinicians and memory care facilities could explore integrating nutritional counseling and supervised dietary protocols as part of comprehensive Alzheimer's care plans.",
-      "caveats": "Small sample size (N=60); single-center study; assessor-blinded but not fully double-blinded; response varied by metabolic phenotype; results need replication."
+      "caveats": "Small sample size (N=60); single-center study; assessor-blinded but not fully double-blinded; response varied by metabolic phenotype; results need replication.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 60,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +191,28 @@
       "why_it_matters": "Resting heart rate is easy to measure and may serve as a signal of cardiovascular or autonomic changes relevant to brain health.",
       "story_angle_primary": "You can easily check your resting heart rate at home. If it's consistently elevated, it's worth mentioning to your doctor\u2014not as a cause for alarm, but as one piece of information about your overall health.",
       "story_angle_secondary": "Primary care providers may want to consider resting heart rate alongside other vitals when assessing older patients' cognitive risk profiles.",
-      "caveats": "Observational design (cannot prove causation); no association with dementia; heart rate may reflect underlying conditions rather than being an independent risk factor."
+      "caveats": "Observational design (cannot prove causation); no association with dementia; heart rate may reflect underlying conditions rather than being an independent risk factor.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 19000,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +225,28 @@
       "why_it_matters": "The pattern of social disconnection over time\u2014not just a snapshot\u2014matters for brain health. Chronic loneliness appears particularly harmful.",
       "story_angle_primary": "If you've been feeling increasingly isolated, reaching out matters\u2014for your mood and your mind. Even small, regular social contacts can make a difference.",
       "story_angle_secondary": "Senior living communities, healthcare systems, and families should prioritize sustained social engagement, especially for those showing signs of withdrawal over time.",
-      "caveats": "Systematic review of observational studies (cannot establish causation); heterogeneity in how loneliness and isolation were measured across studies."
+      "caveats": "Systematic review of observational studies (cannot establish causation); heterogeneity in how loneliness and isolation were measured across studies.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +259,27 @@
       "why_it_matters": "Quality and type of social connection may matter more than sheer quantity or constant contact.",
       "story_angle_primary": "You don't need to talk to friends every day for your brain to benefit. Maintaining a few meaningful relationships with regular (but not necessarily daily) contact may be just as valuable.",
       "story_angle_secondary": "Programs that help older adults maintain diverse social ties\u2014not just immediate family or daily companions\u2014may support cognitive health. This includes community groups, clubs, and volunteer opportunities.",
-      "caveats": "Observational design; intermittent confidants were correlated with higher socioeconomic status, which may confound results."
+      "caveats": "Observational design; intermittent confidants were correlated with higher socioeconomic status, which may confound results.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 1820,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +292,27 @@
       "why_it_matters": "Muscle health and metabolism appear connected to brain health, potentially through different pathways in men and women.",
       "story_angle_primary": "Keeping your muscles healthy through exercise may support your brain\u2014and the mechanisms may involve blood sugar regulation. Managing diabetes risk factors could have cognitive benefits.",
       "story_angle_secondary": "Sex differences in how muscle and brain health connect suggest that personalized approaches to exercise and metabolic health may be warranted.",
-      "caveats": "Observational design; sex-specific findings need replication; mechanisms inferred from mediation analysis, not experimentally confirmed."
+      "caveats": "Observational design; sex-specific findings need replication; mechanisms inferred from mediation analysis, not experimentally confirmed.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 506,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +325,27 @@
       "why_it_matters": "In family-centered societies, intergenerational resources\u2014including children's education\u2014may buffer cognitive aging.",
       "story_angle_primary": "Staying connected with family, especially adult children who can help with technology and social activities, may support your cognitive health.",
       "story_angle_secondary": "Policies supporting digital literacy programs for older adults and family-based social interventions may have cognitive benefits, particularly in cultures where family support is central.",
-      "caveats": "Observational design; China-specific context may limit generalizability; gender dynamics in caregiving and support vary by culture."
+      "caveats": "Observational design; China-specific context may limit generalizability; gender dynamics in caregiving and support vary by culture.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +358,28 @@
       "why_it_matters": "Blood-based biological age markers could one day help identify people aging faster than expected, enabling earlier intervention.",
       "story_angle_primary": "While not yet available clinically, research on biological aging clocks may eventually offer personalized insights into your health trajectory\u2014beyond what a birthday reveals.",
       "story_angle_secondary": "Clinicians and researchers should watch for translational applications of metabolomic aging markers in predicting cognitive and physical decline.",
-      "caveats": "Cross-cohort validation strengthens findings, but the clock is not yet clinically available; metabolites identified need mechanistic confirmation."
+      "caveats": "Cross-cohort validation strengthens findings, but the clock is not yet clinically available; metabolites identified need mechanistic confirmation.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 2295,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +392,28 @@
       "why_it_matters": "Home-based cognitive monitoring via engaging video games could enable scalable, low-cost tracking of cognitive changes over time.",
       "story_angle_primary": "In the future, playing certain video games at home might help you and your doctor track your cognitive health\u2014no clinic visit required.",
       "story_angle_secondary": "Senior living facilities and telehealth programs could incorporate validated \"serious games\" for ongoing cognitive monitoring between medical appointments.",
-      "caveats": "Small sample size; primarily validated in Parkinson's-related dementia; further validation needed across populations."
+      "caveats": "Small sample size; primarily validated in Parkinson's-related dementia; further validation needed across populations.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "cost & policy",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +426,27 @@
       "why_it_matters": "Cognitive training may be especially beneficial for those at higher risk for decline, suggesting targeted interventions could be most effective.",
       "story_angle_primary": "If you feel your thinking has slipped, structured brain training games may offer more benefit than if you're already sharp. It's worth exploring, though results vary.",
       "story_angle_secondary": "Programs targeting cognitive enrichment should consider baseline ability\u2014those with more room to improve may see the greatest gains.",
-      "caveats": "Secondary analysis; wide age range (not exclusively older adults); effects were modest; training was computerized games, not necessarily clinical interventions."
+      "caveats": "Secondary analysis; wide age range (not exclusively older adults); effects were modest; training was computerized games, not necessarily clinical interventions.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 4471,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +459,27 @@
       "why_it_matters": "Fun, accessible activities like dance and video games may support cognitive health when practiced consistently.",
       "story_angle_primary": "You don't need expensive programs\u2014activities like dancing and playing brain games can support your thinking, especially if you stick with them regularly.",
       "story_angle_secondary": "Senior centers and activity directors can combine physical and cognitive activities to maximize engagement and potential brain benefits.",
-      "caveats": "Semi-randomized design; unequal group sizes; adherence was key to outcomes; short follow-up; single Malaysian site."
+      "caveats": "Semi-randomized design; unequal group sizes; adherence was key to outcomes; short follow-up; single Malaysian site.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +492,28 @@
       "why_it_matters": "Coordinating multiple health factors simultaneously\u2014rather than addressing them piecemeal\u2014may help stabilize cognition in routine care settings.",
       "story_angle_primary": "Ask your healthcare provider if they use comprehensive, coordinated approaches to brain health\u2014not just one pill or one test, but a plan addressing multiple factors.",
       "story_angle_secondary": "Health systems can implement decision support tools to translate multidomain research into personalized, actionable care plans.",
-      "caveats": "Retrospective, nonrandomized design; no control group; selection bias possible; favorable trajectories do not prove causation."
+      "caveats": "Retrospective, nonrandomized design; no control group; selection bias possible; favorable trajectories do not prove causation.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +526,28 @@
       "why_it_matters": "Accessible, home-based training targeting both hearing and cognition may support brain health for the millions with age-related hearing loss.",
       "story_angle_primary": "If you have hearing loss, training programs that challenge both your listening and thinking skills may offer cognitive benefits\u2014and can be done from home.",
       "story_angle_secondary": "Audiologists and senior care providers can explore dual-task training as a complement to hearing aids for supporting cognitive and emotional well-being.",
-      "caveats": "Pilot study with small sample; waitlist control (no active comparison); Chinese-language program; further validation needed."
+      "caveats": "Pilot study with small sample; waitlist control (no active comparison); Chinese-language program; further validation needed.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +560,27 @@
       "why_it_matters": "Non-invasive brain stimulation may offer a future tool for supporting memory in those at early stages of cognitive decline.",
       "story_angle_primary": "Brain stimulation therapies are still being researched, but early evidence suggests they may help memory in people with mild cognitive impairment. These are not yet standard treatments\u2014ask your neurologist if clinical trials are available.",
       "story_angle_secondary": "Clinicians should stay informed about emerging brain stimulation research, while cautioning patients that protocols are not yet standardized.",
-      "caveats": "High heterogeneity across studies; stimulation parameters varied widely; no clear dose-response relationship established; more standardized trials needed."
+      "caveats": "High heterogeneity across studies; stimulation parameters varied widely; no clear dose-response relationship established; more standardized trials needed.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 826,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +593,28 @@
       "why_it_matters": "Depression in early cognitive decline is not monolithic\u2014some people recover, others worsen, and understanding these patterns can guide intervention.",
       "story_angle_primary": "If you're experiencing low mood alongside memory concerns, know that depression patterns vary\u2014and addressing factors like pain, vision problems, and social isolation may help.",
       "story_angle_secondary": "Clinicians should screen for and address modifiable contributors to depression in those with cognitive concerns, recognizing that trajectories differ.",
-      "caveats": "Observational data; cultural and healthcare system differences between China and England; trajectories describe patterns, not predictions for individuals."
+      "caveats": "Observational data; cultural and healthcare system differences between China and England; trajectories describe patterns, not predictions for individuals.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 2926,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +627,28 @@
       "why_it_matters": "Supporting identity and relationships\u2014not just cognition\u2014may help those with MCI manage stress and maintain well-being.",
       "story_angle_primary": "If you have mild cognitive impairment, staying involved in caregiving roles and nurturing close family ties may help you cope with stress. Asking for help doesn't mean losing your purpose.",
       "story_angle_secondary": "Caregivers and clinicians can support people with MCI by encouraging meaningful roles and addressing social needs, not just medical symptoms.",
-      "caveats": "Qualitative study with small sample (N=22); Chinese cultural context; findings describe experiences, not causal mechanisms."
+      "caveats": "Qualitative study with small sample (N=22); Chinese cultural context; findings describe experiences, not causal mechanisms.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 22,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +661,30 @@
       "why_it_matters": "Survivors and families actively develop coping strategies that could inform formal brain health programs.",
       "story_angle_primary": "If you've survived cardiac arrest and notice cognitive changes, you're not alone. Peer support, mental health care, and practical tools like calendars and pacing can help.",
       "story_angle_secondary": "Healthcare systems should develop brain health resources tailored to cardiac arrest survivors, incorporating survivor and caregiver input.",
-      "caveats": "Qualitative study with small sample; participants self-selected from advocacy organizations; U.S.-based."
+      "caveats": "Qualitative study with small sample; participants self-selected from advocacy organizations; U.S.-based.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "cognitive decline",
+        "dementia",
+        "depression",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +697,27 @@
       "why_it_matters": "Wearable technology may offer simple, real-world markers of cognitive status in Alzheimer's disease.",
       "story_angle_primary": "Tracking your daily steps with a smartwatch isn't just about fitness\u2014it may also reflect your cognitive health and help your care team understand how you're doing day-to-day.",
       "story_angle_secondary": "Memory care programs and families can use wearable devices to monitor activity patterns, complementing formal cognitive assessments.",
-      "caveats": "Small sample size; cross-sectional association (does not prove causation); step counts reflect multiple factors beyond cognition."
+      "caveats": "Small sample size; cross-sectional association (does not prove causation); step counts reflect multiple factors beyond cognition.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +730,28 @@
       "why_it_matters": "Senescent immune cells in the brain's white matter may contribute to cognitive decline, and targeting them could be a future therapeutic strategy.",
       "story_angle_primary": "Scientists are exploring new ways to clear \"aging\" cells from the brain's wiring. While not yet available, this research may one day lead to treatments for age-related cognitive decline.",
       "story_angle_secondary": "Researchers and clinicians should watch for clinical trials of senolytic therapies targeting brain aging.",
-      "caveats": "Mouse study; human translation not yet established; senolytic treatments are experimental."
+      "caveats": "Mouse study; human translation not yet established; senolytic treatments are experimental.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "preclinical",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 23,
@@ -310,7 +764,26 @@
       "why_it_matters": "Intermittent fasting may exert its benefits partly through circulating factors that protect brain blood vessels.",
       "story_angle_primary": "Time-restricted eating (limiting your eating window each day) may produce changes in your blood that help protect brain blood vessels. Discuss any fasting plans with your doctor, especially if you have chronic conditions.",
       "story_angle_secondary": "Dietitians and geriatricians may consider time-restricted eating as one lifestyle factor to discuss with older patients interested in brain health.",
-      "caveats": "In vitro study (cells in a dish); does not prove cognitive benefits in humans; TRE effects may vary by individual health status."
+      "caveats": "In vitro study (cells in a dish); does not prove cognitive benefits in humans; TRE effects may vary by individual health status.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "preclinical",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline"
+      ],
+      "covered_by": []
     },
     {
       "number": 24,
@@ -323,7 +796,29 @@
       "why_it_matters": "Nutritional and muscular factors may be metabolic signatures of cognitive vulnerability, though causation is not established.",
       "story_angle_primary": "Eating enough protein (which provides essential amino acids) and maintaining muscle through exercise may support both physical and brain health. Talk to your doctor or dietitian about your nutritional needs.",
       "story_angle_secondary": "Clinicians assessing cognitive risk may consider nutritional status and muscle mass as part of a comprehensive evaluation.",
-      "caveats": "Cross-sectional association (cannot prove causation); longitudinal finding was null; Chinese population may not generalize."
+      "caveats": "Cross-sectional association (cannot prove causation); longitudinal finding was null; Chinese population may not generalize.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 25,
@@ -336,7 +831,28 @@
       "why_it_matters": "Beyond hearing aids, supporting central auditory processing and executive function may help older adults with hearing loss learn and communicate.",
       "story_angle_primary": "If you have hearing loss and find it harder to follow conversations or learn new information, cognitive exercises and audiological support may help\u2014not just turning up the volume.",
       "story_angle_secondary": "Audiologists and speech therapists should assess both hearing and cognitive function when designing interventions for older adults.",
-      "caveats": "Very small sample (N=21); single-session learning task; findings may not generalize to real-world communication."
+      "caveats": "Very small sample (N=21); single-session learning task; findings may not generalize to real-world communication.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 21,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 26,
@@ -349,7 +865,27 @@
       "why_it_matters": "Inconsistency in response times\u2014not just slowness\u2014may be an early marker of cognitive vulnerability.",
       "story_angle_primary": "Noticing that your reaction times are more \"hit or miss\" lately? This kind of inconsistency may be a subtle sign worth discussing with your doctor.",
       "story_angle_secondary": "Researchers developing cognitive screening tools may consider incorporating measures of response variability alongside accuracy and speed.",
-      "caveats": "Observational design; MCI-range classification based on single screening tool; brain signals measured in lab, not real-world settings."
+      "caveats": "Observational design; MCI-range classification based on single screening tool; brain signals measured in lab, not real-world settings.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

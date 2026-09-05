@@ -24,7 +24,27 @@
       "why_it_matters": "This research identifies a specific, modifiable combination of risk factors\u2014belly fat plus muscle weakness\u2014that dramatically increases fall danger, particularly for men and people with diabetes.",
       "story_angle_primary": "If you carry weight around your middle and have noticed declining strength, this combination may put you at higher fall risk than either condition alone. Ask your doctor about simple grip strength tests and discuss whether targeted exercise and dietary changes might help reduce your risk.",
       "story_angle_secondary": "Senior living fitness programs may need to move beyond general exercise classes to address body composition screening, particularly for male residents and those with diabetes, who showed the strongest risk associations.",
-      "caveats": "Observational design (cannot establish causation); self-reported falls; population is Chinese adults, which may not generalize to all ethnic groups."
+      "caveats": "Observational design (cannot establish causation); self-reported falls; population is Chinese adults, which may not generalize to all ethnic groups.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 0
+      },
+      "verdict": "\u274c Significant issues",
+      "tags": [
+        "falls",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,28 @@
       "why_it_matters": "This comprehensive analysis provides the clearest evidence yet for what works in preventing sarcopenia-related falls: a three-pronged approach combining specific exercises, adequate protein, and vitamin D.",
       "story_angle_primary": "The research points to a practical formula: aim for balance exercises plus strength training, protein at each meal (roughly 25-30 grams for a 150-pound person three times daily), and vitamin D supplementation. Discuss these targets with your healthcare provider.",
       "story_angle_secondary": "Dining programs in senior living communities should evaluate whether meal plans deliver adequate protein distribution throughout the day, as this appears critical for maintaining the muscle mass that prevents falls.",
-      "caveats": "Umbrella review relies on previously published meta-analyses; direct evidence that reversing sarcopenia reduces falls remains limited."
+      "caveats": "Umbrella review relies on previously published meta-analyses; direct evidence that reversing sarcopenia reduces falls remains limited.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +91,27 @@
       "why_it_matters": "For older adults who cannot easily access in-person fall prevention programs\u2014due to transportation barriers, mobility limitations, or geographic isolation\u2014technology-based alternatives may offer effective support.",
       "story_angle_primary": "If getting to fall prevention classes is difficult, ask your doctor about telehealth options or app-based programs. Programs that include digital literacy support showed higher engagement, so don't hesitate to ask for help learning new technology.",
       "story_angle_secondary": "Senior living communities in rural areas or those serving residents with transportation challenges should consider adding technology-based fall prevention options, with attention to cultural tailoring and tech support.",
-      "caveats": "Scoping review (not a meta-analysis); wide variation in study quality and reported outcomes; most studies conducted in high-income settings."
+      "caveats": "Scoping review (not a meta-analysis); wide variation in study quality and reported outcomes; most studies conducted in high-income settings.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +124,27 @@
       "why_it_matters": "This study demonstrates that older adults with fall histories can safely use technology-enhanced exercise programs, though social connection and professional support appear important for maintaining participation.",
       "story_angle_primary": "If you've fallen before and want to reduce your risk, a program combining group exercise classes with home practice using a smartphone app may be worth exploring. The social connection of group sessions may help you stay motivated.",
       "story_angle_secondary": "Community-based organizations rather than healthcare systems may be more effective recruitment channels for fall prevention programs, suggesting senior centers and community groups should be primary partners for outreach.",
-      "caveats": "Single-arm study (no control group); small sample size (N=45); adherence dropped significantly when supervision ended."
+      "caveats": "Single-arm study (no control group); small sample size (N=45); adherence dropped significantly when supervision ended.",
+      "score": 56,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 45,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +157,26 @@
       "why_it_matters": "This emerging technology could make personalized home safety assessments more accessible, potentially allowing older adults to identify and address fall hazards without waiting for professional home visits.",
       "story_angle_primary": "While still experimental, AI tools that can review photos of your home and suggest safety improvements may become available in coming years. In the meantime, consider asking family members to help photograph your living spaces for review with your healthcare provider.",
       "story_angle_secondary": "Senior living facility managers and home care agencies should monitor the development of AI-powered safety assessment tools, which could supplement professional evaluations and help prioritize home modifications.",
-      "caveats": "Concept demonstration only; not clinically tested or compared to professional assessments; requires further validation before practical use."
+      "caveats": "Concept demonstration only; not clinically tested or compared to professional assessments; requires further validation before practical use.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +189,27 @@
       "why_it_matters": "This evidence supports broader implementation of telemedicine-based fall prevention, suggesting it can reduce both falls and healthcare spending.",
       "story_angle_primary": "Ask your healthcare provider whether telemedicine-based fall prevention programs like STEADI are available in your area. These programs may help reduce your fall risk while being convenient and potentially cost-saving.",
       "story_angle_secondary": "Healthcare systems and senior living organizations should consider implementing telemedicine fall prevention as a cost-effective intervention, particularly as the model showed benefits across a wide range of assumptions.",
-      "caveats": "Differences in falls and costs were not statistically significant in the trial itself; cost-effectiveness analysis relies on modeling assumptions; cannot rule out possibility of no effect."
+      "caveats": "Differences in falls and costs were not statistically significant in the trial itself; cost-effectiveness analysis relies on modeling assumptions; cannot rule out possibility of no effect.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +222,27 @@
       "why_it_matters": "This research identifies specific, actionable targets\u2014strengthening hip muscles and reviewing diuretic medications\u2014that may improve fall risk prediction and prevention.",
       "story_angle_primary": "If you take water pills (diuretics), discuss with your doctor whether they're still necessary and if dosage adjustments might be appropriate. Also ask about exercises specifically targeting hip strength, which appears particularly important for preventing serious falls.",
       "story_angle_secondary": "Medication reviews in senior living should pay particular attention to diuretics, and exercise programs should ensure hip abductor strengthening is included\u2014these two modifiable factors showed the strongest predictive value for injurious falls.",
-      "caveats": "Single Australian cohort; observational design; prediction improvement was modest; may not generalize to other populations."
+      "caveats": "Single Australian cohort; observational design; prediction improvement was modest; may not generalize to other populations.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +255,27 @@
       "why_it_matters": "Cardiovascular problems are important but often overlooked causes of falls. This study reveals that even specialized fall clinics may not be fully evaluating these factors, potentially missing preventable causes.",
       "story_angle_primary": "If you've had unexplained falls, ask whether your heart and blood pressure responses have been fully evaluated. Tests like tilt-table testing can identify blood pressure drops that cause fainting or unsteadiness.",
       "story_angle_secondary": "Senior living communities should ensure their fall assessment protocols include cardiovascular screening and establish referral pathways to specialists when advanced testing is needed.",
-      "caveats": "Qualitative study of Dutch clinics only; did not measure patient outcomes; barriers identified may differ in other healthcare systems."
+      "caveats": "Qualitative study of Dutch clinics only; did not measure patient outcomes; barriers identified may differ in other healthcare systems.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +288,26 @@
       "why_it_matters": "Urinary incontinence often leads to rushing to the bathroom\u2014a common fall scenario. Addressing incontinence through physical therapy may serve double duty by reducing both bathroom accidents and fall risk.",
       "story_angle_primary": "If bladder control issues have you rushing to the bathroom, pelvic floor exercises may help. Ask your doctor about physical therapy options\u2014addressing incontinence may also reduce your fall risk.",
       "story_angle_secondary": "Senior living communities should consider integrating pelvic floor training into their wellness programming, as incontinence is both underreported and a contributor to fall risk.",
-      "caveats": "Meta-analysis focused on incontinence outcomes; fall prevention benefits were secondary findings; most participants were motivated volunteers."
+      "caveats": "Meta-analysis focused on incontinence outcomes; fall prevention benefits were secondary findings; most participants were motivated volunteers.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 2002,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +320,26 @@
       "why_it_matters": "The LAFEP approach, which emphasizes large, exaggerated movements, may offer superior balance benefits for nursing home residents compared to conventional fall prevention exercises.",
       "story_angle_primary": "If you're in a care setting and participate in exercise classes, ask whether programs emphasizing large, expansive movements might be available. These may provide additional balance benefits beyond traditional exercises.",
       "story_angle_secondary": "Activity directors in nursing homes should consider evaluating the Large-Amplitude Functional Exercise Program as an alternative or supplement to traditional fall prevention exercises, particularly for improving dynamic balance.",
-      "caveats": "Small sample (N=70); single-site nursing home study; only dynamic balance showed statistically significant between-group differences."
+      "caveats": "Small sample (N=70); single-site nursing home study; only dynamic balance showed statistically significant between-group differences.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 70,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +352,26 @@
       "why_it_matters": "This research demonstrates that showing up consistently matters enormously\u2014programs work much better when participants complete at least three-quarters of sessions.",
       "story_angle_primary": "Committing to your fall prevention exercise program makes a measurable difference. Programs that combine individual and group formats may help you stay motivated\u2014the social connection of group sessions combined with flexibility of home practice showed the highest adherence rates.",
       "story_angle_secondary": "Senior living exercise programs should track adherence rates and implement strategies to maintain participation above 75%. Hybrid formats combining group and individual sessions appear to optimize both engagement and effectiveness.",
-      "caveats": "Adherence was often self-reported; evidence for injury prevention was more limited than for fall prevention; optimal program duration unclear."
+      "caveats": "Adherence was often self-reported; evidence for injury prevention was more limited than for fall prevention; optimal program duration unclear.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +384,26 @@
       "why_it_matters": "Pickleball's rapid decision-making and movement variability may train the brain-body connection needed for safe walking in real-world conditions where attention is divided.",
       "story_angle_primary": "If you're looking for an enjoyable way to improve your balance, pickleball may offer benefits beyond traditional exercise. The sport's quick reactions and varied movements appear to improve how your joints work together during everyday activities.",
       "story_angle_secondary": "Senior living recreation programs should consider pickleball not just as social activity but as potential fall prevention programming, particularly for residents showing early signs of frailty.",
-      "caveats": "Small sample (N=61); pre-frail participants only (may not apply to frailer individuals); no direct fall outcome measured; short intervention period."
+      "caveats": "Small sample (N=61); pre-frail participants only (may not apply to frailer individuals); no direct fall outcome measured; short intervention period.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 61,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +416,26 @@
       "why_it_matters": "Where you live may influence your fall risk. Access to safe walking areas encourages physical activity, and some environmental challenge may help maintain balance abilities.",
       "story_angle_primary": "If possible, seek out neighborhoods or living situations with accessible parks and walking paths. Some terrain variety in your walking routes may actually help maintain your balance skills, though extremely challenging terrain should be avoided.",
       "story_angle_secondary": "Senior living site selection and community design should prioritize walkable outdoor spaces. Facility grounds that offer some gentle terrain variation rather than exclusively flat surfaces may support better balance maintenance.",
-      "caveats": "Japanese population (may not generalize to other settings); observational design; environmental factors measured at neighborhood level rather than individual exposure."
+      "caveats": "Japanese population (may not generalize to other settings); observational design; environmental factors measured at neighborhood level rather than individual exposure.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +448,26 @@
       "why_it_matters": "Understanding what exercise instructors face helps explain why effective fall prevention programs don't always reach older adults who need them.",
       "story_angle_primary": "When choosing fall prevention programs, ask about instructor qualifications and class sizes. Smaller classes may allow for better individualized attention, though the social connections in larger groups also provide value.",
       "story_angle_secondary": "Organizations offering fall prevention should address provider-specific needs: professional development for isolated practitioners, adequate compensation for nonprofit staff, and resources for clinical tailoring in group settings.",
-      "caveats": "Ontario-specific context; qualitative study (provider perspectives, not outcome data); small sample of providers."
+      "caveats": "Ontario-specific context; qualitative study (provider perspectives, not outcome data); small sample of providers.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +480,26 @@
       "why_it_matters": "How healthcare providers screen for fall risk significantly affects who gets identified for prevention. Simply asking about past falls misses many at-risk individuals.",
       "story_angle_primary": "Don't wait until you fall to discuss fall prevention with your doctor. If you're concerned about falling or notice balance changes, bring these up\u2014screening methods that include these questions identify more people who could benefit from prevention programs.",
       "story_angle_secondary": "Senior living communities should consider implementing standardized fall risk screening that goes beyond fall history to include questions about fear of falling and simple balance tests, which identify substantially more at-risk residents.",
-      "caveats": "Cross-sectional study (single time point); Brazilian population; did not track whether different screening approaches led to different outcomes."
+      "caveats": "Cross-sectional study (single time point); Brazilian population; did not track whether different screening approaches led to different outcomes.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 7515,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +512,27 @@
       "why_it_matters": "Virtual fall prevention programs effectively reduce falls but sacrifice the social benefits of in-person participation and may worsen health disparities by reaching less diverse populations.",
       "story_angle_primary": "If you're choosing between in-person and virtual fall prevention programs, consider what you need most. Virtual programs effectively reduce falls, but in-person programs offer social connection that also benefits health and wellbeing.",
       "story_angle_secondary": "Organizations offering virtual fall prevention should actively develop strategies to foster social connection within programs and conduct targeted outreach to ensure racially diverse and lower-income communities can access these services.",
-      "caveats": "Non-randomized comparison; self-selected participants; demographic differences between groups may confound results."
+      "caveats": "Non-randomized comparison; self-selected participants; demographic differences between groups may confound results.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +545,28 @@
       "why_it_matters": "After a hip fracture, preventing the next fracture and fall is critical. This practical, low-cost approach shows how hospitals can systematically improve these outcomes.",
       "story_angle_primary": "If you or a loved one has had a hip fracture, ask about osteoporosis treatment and fall prevention referrals before leaving the hospital. These follow-up steps are critical for preventing another fracture.",
       "story_angle_secondary": "Senior living communities receiving residents after hip fracture should verify that osteoporosis assessment and fall prevention services were initiated during hospitalization, and continue these interventions during rehabilitation.",
-      "caveats": "Quality improvement project (not a controlled trial); early implementation phase; outcomes measured over short timeframe."
+      "caveats": "Quality improvement project (not a controlled trial); early implementation phase; outcomes measured over short timeframe.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "falls",
+        "osteoporosis"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +579,27 @@
       "why_it_matters": "This comprehensive analysis of a large, diverse population identifies multiple modifiable risk factors that could be targeted for fall prevention in community settings.",
       "story_angle_primary": "Fall risk involves many factors working together. If you have joint pain, vision or hearing problems, feel depressed, or struggle with daily activities like climbing stairs, discuss fall prevention strategies with your healthcare provider.",
       "story_angle_secondary": "Fall prevention programs in senior living should screen for and address the full range of risk factors\u2014physical, sensory, psychological, and functional\u2014rather than focusing on any single domain.",
-      "caveats": "Indian population (cultural and healthcare context may differ); self-reported falls and health conditions; cross-sectional design limits causal conclusions."
+      "caveats": "Indian population (cultural and healthcare context may differ); self-reported falls and health conditions; cross-sectional design limits causal conclusions.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 26780,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +612,26 @@
       "why_it_matters": "For older women especially, variety in exercise matters\u2014walking alone may not provide adequate fall protection compared to combining different types and intensities of activity.",
       "story_angle_primary": "If walking is your main exercise, consider adding moderate-intensity activities and flexibility work. For women especially, this combination appears to provide better fall protection than walking alone.",
       "story_angle_secondary": "Senior living activity programming should offer varied exercise options beyond walking groups, with particular attention to ensuring women residents have access to moderate-intensity and flexibility activities.",
-      "caveats": "Cross-sectional Korean data; self-reported physical activity and falls; sex differences observed may reflect cultural patterns."
+      "caveats": "Cross-sectional Korean data; self-reported physical activity and falls; sex differences observed may reflect cultural patterns.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +644,26 @@
       "why_it_matters": "Fear of falling can be protective (increasing appropriate caution) or harmful (causing activity avoidance). Understanding psychological patterns can help distinguish healthy awareness from problematic fear.",
       "story_angle_primary": "Some concern about falling is healthy and can motivate good choices. But if worry about falls is causing you to avoid activities you value, speaking with a healthcare provider about addressing both the physical and psychological aspects of fall fear may help.",
       "story_angle_secondary": "Fall prevention programs should address not just physical risk but also psychological factors\u2014helping residents develop adaptive rather than avoidant responses to fall concerns, maintaining activity while taking appropriate precautions.",
-      "caveats": "Qualitative study with 20 Thai participants; cultural context may influence findings; no intervention tested."
+      "caveats": "Qualitative study with 20 Thai participants; cultural context may influence findings; no intervention tested.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +676,26 @@
       "why_it_matters": "Gamified, immersive approaches may engage older adults in fall prevention education more effectively than traditional pamphlets or lectures.",
       "story_angle_primary": "Learning about fall hazards might become more engaging through virtual reality games. If such programs become available in your community, they offer an interactive way to practice identifying risks in home environments.",
       "story_angle_secondary": "Senior living communities and senior centers should watch for validated VR-based fall prevention tools, which may provide engaging education alternatives, particularly for tech-comfortable residents.",
-      "caveats": "Pilot development study only; did not test whether the game actually reduced falls; requires smartphone and VR headset; small sample for evaluation."
+      "caveats": "Pilot development study only; did not test whether the game actually reduced falls; requires smartphone and VR headset; small sample for evaluation.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +708,26 @@
       "why_it_matters": "Fear of falling isn't just about physical risk\u2014concerns about losing independence and feeling tired also contribute, suggesting that comprehensive approaches addressing these factors may be more effective.",
       "story_angle_primary": "If you're afraid of falling, the fear may relate to concerns about losing independence or to feeling tired, not just physical risk. Addressing fatigue and discussing independence concerns with your healthcare provider may help alongside physical interventions.",
       "story_angle_secondary": "Fall prevention assessments should include screening for fear of dependency and fatigue, which independently predict fear of falling and may respond to different interventions than physical risk factors.",
-      "caveats": "Cross-sectional Portuguese study; self-reported measures; cultural context may influence fear of dependency findings."
+      "caveats": "Cross-sectional Portuguese study; self-reported measures; cultural context may influence fear of dependency findings.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 23,
@@ -310,7 +740,27 @@
       "why_it_matters": "Understanding what older adults actually want in fall prevention programs can improve uptake and adherence, which are critical for effectiveness.",
       "story_angle_primary": "If fall prevention programs haven't appealed to you before, consider what features matter most. Options may include in-home programs, short-term commitments, or different cost structures that better match your preferences.",
       "story_angle_secondary": "Fall prevention programs should offer flexible configurations\u2014subsidized options for cost-sensitive individuals, enhanced support options for those willing to pay, and recognition that about one in five older adults may need different outreach approaches entirely.",
-      "caveats": "Australian preferences may not generalize globally; hypothetical choices may differ from actual behavior; online survey excluded those without internet access."
+      "caveats": "Australian preferences may not generalize globally; hypothetical choices may differ from actual behavior; online survey excluded those without internet access.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 24,
@@ -323,7 +773,27 @@
       "why_it_matters": "Taking multiple medications is common among older adults and appears to worsen outcomes even when falls occur, independent of the underlying health conditions requiring those medications.",
       "story_angle_primary": "If you take five or more medications regularly, ask your doctor or pharmacist about a medication review to identify any that might be unnecessary or contributing to fall risk. After a fall, this review becomes especially important.",
       "story_angle_secondary": "Senior living medication review protocols should be particularly thorough for residents who have fallen, as polypharmacy independently predicts poorer outcomes. Deprescribing efforts may improve not just fall prevention but also post-fall recovery.",
-      "caveats": "Single Swiss hospital; retrospective design; polypharmacy may be a marker for underlying illness severity despite statistical adjustments."
+      "caveats": "Single Swiss hospital; retrospective design; polypharmacy may be a marker for underlying illness severity despite statistical adjustments.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 529,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [],

@@ -24,7 +24,26 @@
       "why_it_matters": "Current treatments for wet AMD involve repeated eye injections that don't work for everyone. This non-invasive approach could offer a practical, wearable solution to help people see better in daily life.",
       "story_angle_primary": "If you have macular degeneration, new technology may eventually help you read and see more clearly using special glasses\u2014no injections or surgery involved. Ask your eye doctor about emerging low-vision aids and clinical trials for AR-based devices.",
       "story_angle_secondary": "Senior living communities should monitor developments in wearable vision technology. AR-based visual aids could become valuable tools for residents with AMD, potentially improving independence in reading, recognizing faces, and navigating spaces.",
-      "caveats": "Small sample size (12 AMD participants); single testing session without long-term follow-up; technology not yet commercially available."
+      "caveats": "Small sample size (12 AMD participants); single testing session without long-term follow-up; technology not yet commercially available.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "modelling",
+      "sample_size": 17,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +56,26 @@
       "why_it_matters": "There are currently no approved treatments to slow early or intermediate dry AMD. This light-based therapy, if validated in larger trials, could offer the first non-invasive option to preserve vision in the earliest stages of this common age-related condition.",
       "story_angle_primary": "If you've been told you have early macular degeneration with no treatment options, ask your eye specialist about emerging therapies like photobiomodulation. While not yet standard care, staying informed about clinical trials could open doors to new options.",
       "story_angle_secondary": "Eye care coordinators in senior living settings should track developments in AMD treatment. Early-stage interventions could significantly reduce the number of residents who progress to vision-impairing advanced disease.",
-      "caveats": "Moderate sample size; 12-month follow-up may not capture long-term durability; some authors disclosed honoraria from companies in this field."
+      "caveats": "Moderate sample size; 12-month follow-up may not capture long-term durability; some authors disclosed honoraria from companies in this field.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +88,27 @@
       "why_it_matters": "CBS is underrecognized and rarely discussed, yet it adds a hidden layer of fall risk for people with vision loss. Understanding this connection could prevent injuries and improve quality of life.",
       "story_angle_primary": "If you see things you know aren't real since your vision declined, you're not alone\u2014this is called Charles Bonnet syndrome, and it can increase fall risk. Tell your doctor and consider strategies like better lighting and engaging activities that can reduce episodes.",
       "story_angle_secondary": "Falls prevention programs in senior living should screen for visual hallucinations in residents with vision loss. Staff training on CBS can help identify at-risk residents and implement environmental modifications to reduce fall hazards.",
-      "caveats": "Small qualitative sample; findings describe experiences rather than measure fall rates; UK-based participants may not generalize to all populations."
+      "caveats": "Small qualitative sample; findings describe experiences rather than measure fall rates; UK-based participants may not generalize to all populations.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +121,27 @@
       "why_it_matters": "This research reveals why standard outreach may miss older adults who could benefit from eye care\u2014their vision problems get lost amid competing demands and declining health.",
       "story_angle_primary": "Even if your eyesight doesn't feel like your biggest concern right now, untreated vision problems can make other aspects of daily life harder. Consider accepting vision screenings offered during home visits\u2014catching problems early gives you more options.",
       "story_angle_secondary": "Home health workers and family caregivers should gently raise vision concerns with older adults, recognizing that competing health priorities may cause them to dismiss or minimize sight problems. Integrating vision screening into routine home care visits may catch treatable conditions.",
-      "caveats": "Small sample from one region of Denmark; qualitative design explores experiences rather than measuring outcomes; participants were already receiving home care services."
+      "caveats": "Small sample from one region of Denmark; qualitative design explores experiences rather than measuring outcomes; participants were already receiving home care services.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +154,27 @@
       "why_it_matters": "A brief episode of vision loss that resolves on its own is often a warning sign of serious cardiovascular disease\u2014and the danger doesn't end after the initial weeks.",
       "story_angle_primary": "If you experience sudden vision loss that clears up on its own, don't dismiss it\u2014seek medical attention promptly. This can be an early warning of stroke or heart problems, and quick evaluation may prevent a more serious event.",
       "story_angle_secondary": "Senior living staff and family members should treat any report of temporary vision loss as a medical urgency requiring immediate cardiovascular workup. Long-term monitoring for heart health should continue even if initial tests are normal.",
-      "caveats": "Retrospective observational design cannot prove causation; control group had dry eye syndrome rather than no eye conditions; database study may have coding inconsistencies."
+      "caveats": "Retrospective observational design cannot prove causation; control group had dry eye syndrome rather than no eye conditions; database study may have coding inconsistencies.",
+      "score": 75,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": null
+      },
+      "verdict": "",
+      "tags": [
+        "cardiovascular disease",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +187,27 @@
       "why_it_matters": "Understanding the patient experience can help healthcare teams provide better support and improve treatment adherence for this chronic, often indefinite therapy.",
       "story_angle_primary": "If you're receiving eye injections for diabetic eye disease, know that feeling anxious or uncertain is normal. Don't hesitate to ask your care team questions and express concerns\u2014good communication can make the experience more manageable.",
       "story_angle_secondary": "Diabetes care teams and senior living health coordinators should recognize the emotional toll of repeated eye injections. Providing consistent providers, adequate information, and empathetic communication can help residents stick with treatment and cope with uncertainty.",
-      "caveats": "Qualitative study capturing experiences rather than measuring outcomes; small sample from Sweden may not generalize to all healthcare settings."
+      "caveats": "Qualitative study capturing experiences rather than measuring outcomes; small sample from Sweden may not generalize to all healthcare settings.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +220,28 @@
       "why_it_matters": "This research identifies treatable factors\u2014including vision loss\u2014as potential intervention points for reducing dementia risk in people who experienced childhood adversity.",
       "story_angle_primary": "If you experienced difficult circumstances in childhood and are concerned about memory as you age, know that addressing current health issues\u2014including getting your vision checked and treating depression\u2014may help protect your thinking abilities.",
       "story_angle_secondary": "Healthcare providers working with older adults should consider adverse childhood experiences as a risk marker for cognitive decline. Ensuring access to vision care, mental health services, and education may help interrupt pathways from early adversity to later dementia.",
-      "caveats": "Observational study cannot prove treating vision loss prevents cognitive decline; data from China may not generalize to other populations; self-reported childhood experiences subject to recall bias."
+      "caveats": "Observational study cannot prove treating vision loss prevents cognitive decline; data from China may not generalize to other populations; self-reported childhood experiences subject to recall bias.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +254,28 @@
       "why_it_matters": "This analysis provides a roadmap for dementia prevention efforts, highlighting which factors\u2014including sensory health\u2014deserve attention in public health initiatives.",
       "story_angle_primary": "Staying physically active, maintaining social connections, and getting your hearing and vision treated aren't just about quality of life today\u2014they may help protect your brain health as you age.",
       "story_angle_secondary": "Senior living communities can position themselves as dementia prevention environments by prioritizing physical activity programming, social engagement opportunities, and ensuring residents have access to vision and hearing care.",
-      "caveats": "Population attributable fractions estimate theoretical maximum prevention assuming complete elimination of risk factors; observational data cannot prove interventions will reduce dementia rates."
+      "caveats": "Population attributable fractions estimate theoretical maximum prevention assuming complete elimination of risk factors; observational data cannot prove interventions will reduce dementia rates.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +288,27 @@
       "why_it_matters": "Despite cultural and economic differences, common patterns in how risk factors group together could guide the design of dementia prevention programs that work across diverse populations.",
       "story_angle_primary": "Regardless of where you live, addressing multiple risk factors together\u2014such as staying socially connected, treating hearing and vision problems, and managing heart health\u2014may offer the best protection against cognitive decline.",
       "story_angle_secondary": "Senior living operators developing programming for diverse resident populations can draw on evidence that certain risk factor clusters appear across cultures, suggesting that comprehensive wellness approaches addressing cardiovascular, social, and sensory health may be universally beneficial.",
-      "caveats": "Cross-sectional analysis provides snapshot rather than tracking changes over time; self-reported data for some risk factors; harmonization across different surveys may introduce measurement inconsistencies."
+      "caveats": "Cross-sectional analysis provides snapshot rather than tracking changes over time; self-reported data for some risk factors; harmonization across different surveys may introduce measurement inconsistencies.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cross-sectional",
+      "sample_size": 214000,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +321,27 @@
       "why_it_matters": "If confirmed in clinical trials, addressing gut health could offer a new avenue for preventing vision loss from AMD, potentially through dietary modifications or supplements.",
       "story_angle_primary": "While it's too early for specific recommendations, the connection between gut health and eye health is an active area of research. Maintaining a healthy, fiber-rich diet that supports beneficial gut bacteria may have benefits beyond digestion.",
       "story_angle_secondary": "Senior living dining programs focused on gut-healthy foods (high fiber, fermented foods, diverse plant-based options) may support multiple aspects of resident health, including potentially eye health, though direct evidence for AMD prevention in humans is still developing.",
-      "caveats": "Review article synthesizing mostly animal and preclinical research; human clinical trials needed before dietary interventions can be recommended for AMD prevention."
+      "caveats": "Review article synthesizing mostly animal and preclinical research; human clinical trials needed before dietary interventions can be recommended for AMD prevention.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +354,26 @@
       "why_it_matters": "These findings highlight where global eye health resources are most needed and underscore the importance of preparing healthcare systems for increasing vision care demands as populations age.",
       "story_angle_primary": "Vision problems are increasingly common as we age, but many causes are treatable. Regular eye exams become more important with each passing decade\u2014don't wait for noticeable problems to get checked.",
       "story_angle_secondary": "Senior living organizations should anticipate growing demand for vision-related services and accommodations. Planning for residents with visual impairments\u2014including lighting, wayfinding, and activity adaptations\u2014will become increasingly important.",
-      "caveats": "Estimates rely on modeling and may not capture recent improvements in some regions; projections assume current trends continue; regional data quality varies."
+      "caveats": "Estimates rely on modeling and may not capture recent improvements in some regions; projections assume current trends continue; regional data quality varies.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +386,26 @@
       "why_it_matters": "This first comprehensive national estimate of IRD burden provides baseline data for healthcare planning and highlights the population affected by emerging gene therapies.",
       "story_angle_primary": "If you or a family member has been diagnosed with an inherited eye condition, know that these diseases are increasingly well-documented and gene therapy options are becoming available. Genetic counseling can help families understand inheritance patterns and treatment possibilities.",
       "story_angle_secondary": "Senior living communities may encounter residents with IRDs who face unique challenges as their vision progressively declines. Understanding that these are genetic, often slowly progressive conditions can inform appropriate support and accommodation planning.",
-      "caveats": "Study funded partly by Johnson & Johnson through research collaboration; may underestimate cases not captured in healthcare registers; Swedish population may not generalize globally."
+      "caveats": "Study funded partly by Johnson & Johnson through research collaboration; may underestimate cases not captured in healthcare registers; Swedish population may not generalize globally.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 100000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +418,27 @@
       "why_it_matters": "Beyond the visual impairment itself, people with progressive vision loss face significant communication barriers that can affect their mental health, relationships, and access to appropriate support.",
       "story_angle_primary": "If you're struggling to explain your vision condition to family, friends, or employers, you're not alone. Many people with progressive vision loss find these conversations difficult. Consider asking your eye care team about counseling resources or support groups.",
       "story_angle_secondary": "Senior living staff should understand that vision loss exists on a spectrum and may not be obvious. Residents with inherited eye conditions may need support navigating disclosure decisions and may benefit from accessible mental health services.",
-      "caveats": "Small qualitative sample; age range included younger adults, not exclusively seniors; Australian participants may have different experiences than those in other healthcare systems."
+      "caveats": "Small qualitative sample; age range included younger adults, not exclusively seniors; Australian participants may have different experiences than those in other healthcare systems.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +451,30 @@
       "why_it_matters": "Hearing and vision problems are often overlooked in people with dementia, yet addressing them may improve quality of life. This study demonstrates that sensory interventions are feasible even for people with cognitive impairment.",
       "story_angle_primary": "If you or someone you care for has both dementia and hearing or vision problems, know that addressing sensory issues is still worthwhile and achievable. Ask healthcare providers about hearing aid fittings and vision assessments even when memory problems are present.",
       "story_angle_secondary": "Memory care settings should prioritize sensory assessments and support for residents. This trial shows that hearing aid adherence is achievable in people with dementia when care partners are engaged, and more intensive support may be needed for those with greater cognitive impairment.",
-      "caveats": "COVID-19 pandemic required protocol modifications; 40% of active arm participants did not complete all intervention components; study assessed feasibility and delivery rather than definitive efficacy."
+      "caveats": "COVID-19 pandemic required protocol modifications; 40% of active arm participants did not complete all intervention components; study assessed feasibility and delivery rather than definitive efficacy.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "hearing loss",
+        "polypharmacy",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +487,26 @@
       "why_it_matters": "LHON is a rare genetic condition causing rapid, severe vision loss, primarily in young adults. These findings suggest gene therapy may offer substantially better outcomes than current standard treatment.",
       "story_angle_primary": "If you have a family member with LHON or carry the genetic mutation yourself, be aware that gene therapy options are emerging that may offer better visual outcomes than existing treatments. Discuss genetic testing and treatment options with a specialist.",
       "story_angle_secondary": "While LHON typically affects younger people, older adults may have children or grandchildren diagnosed with this condition. Awareness of advancing treatment options can help families navigate difficult conversations about prognosis and emerging therapies.",
-      "caveats": "Indirect comparison between different trials rather than head-to-head study; several authors are consultants for or employed by the gene therapy manufacturer; treatment requires specialized center access."
+      "caveats": "Indirect comparison between different trials rather than head-to-head study; several authors are consultants for or employed by the gene therapy manufacturer; treatment requires specialized center access.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +519,26 @@
       "why_it_matters": "Understanding which patients are at highest risk for poor outcomes could help guide treatment intensity and help patients and families set realistic expectations.",
       "story_angle_primary": "Sudden vision loss with eye redness and pain requires immediate medical attention\u2014it could be a viral infection of the retina that needs urgent treatment. The shingles vaccine may help prevent some cases of this condition.",
       "story_angle_secondary": "Senior living health staff should recognize that sudden, painful vision loss is a medical emergency. Prompt referral to ophthalmology and initiation of antiviral treatment may improve outcomes, particularly when viral load testing can guide care intensity.",
-      "caveats": "Retrospective single-center study; quantitative viral load data available for only 49% of patients; cases span 36 years during which treatment approaches evolved."
+      "caveats": "Retrospective single-center study; quantitative viral load data available for only 49% of patients; cases span 36 years during which treatment approaches evolved.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

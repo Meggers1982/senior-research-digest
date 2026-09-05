@@ -11,6 +11,8 @@ import json
 import re
 from pathlib import Path
 
+import scoring
+
 REPO_ROOT = Path(__file__).parent.parent
 OUTPUTS_DIR = REPO_ROOT / "outputs"
 DASHBOARD_DATA_DIR = REPO_ROOT / "docs" / "data"
@@ -186,8 +188,27 @@ def _parse_digest_file(path: Path) -> dict:
     fact_check_path = path.with_name(path.stem + " Fact Check.md")
     fact_check = _parse_fact_check(fact_check_path)
 
+    # Written by main.py alongside the digest. Absent for every run before
+    # 2026-09, because the coverage check never actually ran -- those studies
+    # score on the components that are known rather than on a guess.
+    coverage = _load_coverage(path)
+
     run_date = header.get("Run date", "")
     topic = "" if is_broad else normalize_topic(focus)
+
+    verdicts = (fact_check or {}).get("verdicts_by_pmid") or {}
+    for study in studies:
+        state = (coverage.get(study["pmid"]) or {}).get("state") or ""
+        study.update(scoring.score_study(
+            study,
+            run_date=run_date,
+            coverage_state=state or None,
+            verdict=verdicts.get(study["pmid"]),
+        ))
+        study["verdict"] = verdicts.get(study["pmid"], "")
+        study["tags"] = _tags_for(study, topic)
+        outlets = (coverage.get(study["pmid"]) or {}).get("outlets") or []
+        study["covered_by"] = outlets
     run_id = f"{path.stem}"
 
     return {
@@ -216,12 +237,59 @@ def _parse_digest_file(path: Path) -> dict:
     }
 
 
+COVERAGE_SUFFIX = ".coverage.json"
+
+
+def _load_coverage(digest_path: Path) -> dict:
+    """Per-PMID coverage results main.py saved next to the digest."""
+    path = digest_path.with_name(digest_path.stem + COVERAGE_SUFFIX)
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    return data.get("by_pmid") or {}
+
+
+# Studies are filed under the run's rotation topic, but a run on "sleep" turns up
+# studies about dementia and falls too. Tagging on the text keeps the facet
+# useful across the whole archive rather than only within one run.
+TAG_TERMS = {
+    "dementia": ("dementia", "alzheim", "cognitive", "memory loss", "mci"),
+    "falls": ("fall", "balance", "fracture", "mobility", "gait"),
+    "cardiovascular disease": ("cardiovascular", "heart", "stroke", "blood pressure",
+                               "hypertens", "cholesterol"),
+    "depression": ("depress", "mental health", "anxiety", "loneliness", "isolation"),
+    "nutrition": ("nutrition", "diet", "protein", "vitamin", "malnutrition", "weight loss"),
+    "sleep": ("sleep", "insomnia", "circadian", "apnea"),
+    "palliative care": ("palliative", "hospice", "end of life", "advance care"),
+    "osteoporosis": ("osteoporo", "bone density", "bone mineral"),
+    "sarcopenia": ("sarcopenia", "muscle mass", "grip strength", "frailty"),
+    "hearing loss": ("hearing", "auditory", "cochlear", "tinnitus"),
+    "vision loss": ("vision", "macular", "glaucoma", "cataract", "retinop"),
+    "polypharmacy": ("polypharmacy", "medication", "prescrib", "deprescrib", "drug"),
+    "caregiving": ("caregiv", "family carer", "care partner"),
+    "cost & policy": ("medicare", "medicaid", "insurance", "cost", "policy", "reimburse"),
+}
+
+
+def _tags_for(study: dict, topic: str) -> list[str]:
+    blob = " ".join(filter(None, [
+        study.get("title", ""), study.get("the_study", ""),
+        study.get("why_it_matters", ""),
+    ])).lower()
+    tags = {tag for tag, terms in TAG_TERMS.items() if any(t in blob for t in terms)}
+    if topic:
+        tags.add(normalize_topic(topic))
+    return sorted(tags)
+
+
 def _search_blob(run: dict) -> str:
     """Everything the search box matches on, flattened at build time so the
     index doesn't have to carry the full study objects."""
     parts = [run.get("title", ""), run.get("focus", ""), run.get("topic", "")]
     for study in run.get("studies", []):
         parts.extend([study.get("title", ""), study.get("pmid", ""), study.get("journal", "")])
+        parts.extend(study.get("tags") or [])
     return " ".join(p for p in parts if p).lower()
 
 
@@ -235,6 +303,8 @@ def _index_entry(run: dict) -> dict:
         "run_date": run.get("run_date", ""),
         "study_count": run.get("study_count", 0),
         "total_issues": summary.get("total_issues", ""),
+        "lead_count": sum(1 for s in run.get("studies", []) if s.get("band") == "Lead"),
+        "top_score": max((s.get("score", 0) for s in run.get("studies", [])), default=0),
         "search": _search_blob(run),
     }
 

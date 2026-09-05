@@ -24,7 +24,29 @@
       "why_it_matters": "Antipsychotics are commonly prescribed for behavioral symptoms in dementia but carry serious risks. This large study provides reassurance that these medications can be safely stopped when treatment has exceeded recommended durations, potentially preventing thousands of falls and episodes of confusion.",
       "story_angle_primary": "If you or a family member with dementia has been taking an antipsychotic medication for more than 12 weeks, this may be a good time to ask your doctor whether it's still needed. Research suggests stopping safely\u2014whether gradually or all at once\u2014can reduce your risk of falls and confusion without increasing other health risks.",
       "story_angle_secondary": "Care facilities and families managing dementia should work with prescribers to regularly review antipsychotic medications. Guidelines recommend short-term use only, yet many residents remain on these drugs indefinitely. This study supports implementing systematic medication reviews and deprescribing protocols in memory care settings.",
-      "caveats": "Observational design using electronic health records (cannot establish causation); UK population may not generalize to all settings; some outcomes relied on hospital coding."
+      "caveats": "Observational design using electronic health records (cannot establish causation); UK population may not generalize to all settings; some outcomes relied on hospital coding.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 134000,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +59,28 @@
       "why_it_matters": "Loneliness is a serious but often overlooked health concern that increases risk for cognitive decline, heart disease, and early death. Finding that a single direct question can effectively screen for loneliness makes it practical for healthcare providers and community programs to routinely check in with older adults.",
       "story_angle_primary": "If someone asks whether you feel lonely, being honest can open doors to helpful resources. Loneliness is common and nothing to be ashamed of\u2014about one in five older adults experiences it. Speaking up is the first step toward connection and support.",
       "story_angle_secondary": "Senior centers, primary care practices, and home health agencies should consider adding a simple loneliness question to routine assessments. This study shows brief screening works well, and identifying lonely individuals early allows for timely intervention through social programs, volunteer visitors, or mental health support.",
-      "caveats": "Single-center study in Taiwan; modest sample size (N=186); cross-sectional design; findings may not generalize to other cultural contexts."
+      "caveats": "Single-center study in Taiwan; modest sample size (N=186); cross-sectional design; findings may not generalize to other cultural contexts.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 186,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +93,27 @@
       "why_it_matters": "Falls are a leading cause of injury and loss of independence in older adults. This study suggests that improving sleep quality might help maintain steadier walking, offering a potentially modifiable way to reduce fall risk.",
       "story_angle_primary": "How well you sleep may affect how steadily you walk. If you frequently wake during the night or feel your sleep is restless, mention it to your doctor\u2014addressing sleep problems could help protect you from falls.",
       "story_angle_secondary": "Fall prevention programs should consider incorporating sleep quality assessments. For residents in senior living who experience frequent falls, evaluating and addressing sleep disturbances may be an underutilized intervention strategy worth exploring alongside traditional balance exercises.",
-      "caveats": "Small sample (N=72); cross-sectional design (cannot determine if poor sleep causes gait problems); 90% non-Hispanic White participants; observational only."
+      "caveats": "Small sample (N=72); cross-sectional design (cannot determine if poor sleep causes gait problems); 90% non-Hispanic White participants; observational only.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 72,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +126,26 @@
       "why_it_matters": "Kidney injury after heart surgery is common in older adults and significantly worsens outcomes. Early identification of high-risk patients could allow surgical teams to take preventive measures before and during surgery.",
       "story_angle_primary": "If you're facing heart surgery, ask your care team about your kidney health and what steps they take to protect kidney function during the procedure. Knowing your risk factors can help you have informed conversations with your doctors.",
       "story_angle_secondary": "Surgical teams and hospitals caring for older cardiac surgery patients may benefit from risk stratification tools that flag individuals needing extra kidney-protective measures. This study demonstrates that routinely collected clinical data can power such predictions.",
-      "caveats": "Retrospective design; Chinese population (may not generalize globally); external validation sample was small (N=110); clinical implementation not yet tested."
+      "caveats": "Retrospective design; Chinese population (may not generalize globally); external validation sample was small (N=110); clinical implementation not yet tested.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 733,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +158,28 @@
       "why_it_matters": "For the very old, maintaining the ability to walk may be the single most important factor connecting all other aspects of health. This suggests that interventions to preserve mobility should be prioritized in the oldest adults.",
       "story_angle_primary": "Your ability to get up and move may be the most important thing you can do for your overall health as you age. Even gentle walking, standing exercises, or physical therapy to maintain mobility can have far-reaching benefits for your mind, senses, and longevity.",
       "story_angle_secondary": "Care plans for the oldest-old should prioritize preserving locomotion above all else. This research suggests that walking ability acts as a gateway function\u2014when it declines, other domains follow. Senior living communities should consider mobility preservation as a foundational care goal.",
-      "caveats": "Single cohort from rural Italy; observational design; functional measures derived from routine assessments rather than gold-standard tests."
+      "caveats": "Single cohort from rural Italy; observational design; functional measures derived from routine assessments rather than gold-standard tests.",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "hearing loss",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +192,28 @@
       "why_it_matters": "As AI technology becomes more prevalent in home care, understanding what older adults and caregivers actually want\u2014and fear\u2014from these tools is essential for developing products that people will actually use and benefit from.",
       "story_angle_primary": "Voice assistants could help with medication reminders, health monitoring, and even companionship\u2014but you have the right to understand how they work, what data they collect, and who can access it. Your comfort and privacy should guide any decisions about bringing this technology into your home.",
       "story_angle_secondary": "Technology companies and senior living providers developing AI-assisted care tools should prioritize transparency, privacy protections, and affordability. This study reveals that older adults and caregivers are cautiously optimistic but will reject technology that feels intrusive or that undermines their control over care decisions.",
-      "caveats": "Very small sample (N=9); qualitative design; participants from one geographic area; speculative rather than evaluating actual technology use."
+      "caveats": "Very small sample (N=9); qualitative design; participants from one geographic area; speculative rather than evaluating actual technology use.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +226,27 @@
       "why_it_matters": "Remote monitoring can extend the reach of healthcare into homes, but this study shows that technology alone isn't enough. The quality of the human relationship with care providers determines whether patients stay engaged or disengage from monitoring programs.",
       "story_angle_primary": "Home monitoring devices can help you and your care team catch heart failure warning signs early\u2014but the technology works best when paired with regular, meaningful communication with a nurse or doctor who knows you. Don't hesitate to ask questions or share concerns about the devices.",
       "story_angle_secondary": "Healthcare organizations implementing remote monitoring should invest equally in the technology and the clinical relationships that support it. Nurses need adequate time to provide personalized feedback and emotional support, not just review dashboards.",
-      "caveats": "Canadian healthcare context; qualitative design limits generalizability; 6-month follow-up; specific technology platform studied."
+      "caveats": "Canadian healthcare context; qualitative design limits generalizability; 6-month follow-up; specific technology platform studied.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "caregiving"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +259,27 @@
       "why_it_matters": "Hip surgery is common in older adults, and frailty afterward significantly impacts recovery and independence. Identifying high-risk patients early could allow targeted interventions\u2014like enhanced nutrition, physical therapy, or social support\u2014before decline sets in.",
       "story_angle_primary": "If you or a loved one is facing hip surgery, ask about your frailty risk and what can be done before and after surgery to support the best possible recovery. Factors like your social support network and living situation matter, not just your physical health.",
       "story_angle_secondary": "Orthopedic and rehabilitation teams should consider frailty trajectory prediction as part of surgical planning for older patients. This study provides a practical tool and highlights that social and environmental factors\u2014not just medical ones\u2014influence recovery.",
-      "caveats": "Single-center study in China; requires external validation; 35% of patients worsened despite prediction tool being available."
+      "caveats": "Single-center study in China; requires external validation; 35% of patients worsened despite prediction tool being available.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 209,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +292,27 @@
       "why_it_matters": "This study suggests that the quality of our muscles matters as much as the quantity. CT scans that older adults may already receive for other reasons could potentially be used to assess muscle health and predict who is at risk for multiple geriatric problems.",
       "story_angle_primary": "Keeping your muscles healthy through protein-rich nutrition and regular strength exercises may protect not just your physical abilities but also your thinking and skin health as you age. Ask your doctor about ways to maintain muscle quality, not just muscle mass.",
       "story_angle_secondary": "Radiologists and geriatricians could collaborate to extract muscle quality information from CT scans already being performed for other indications. This opportunistic screening could identify at-risk individuals for comprehensive geriatric assessment and intervention.",
-      "caveats": "Cross-sectional design (cannot determine causation); relatively small sample (N=121); single medical center in Taiwan; correlation does not prove muscle quality causes these outcomes."
+      "caveats": "Cross-sectional design (cannot determine causation); relatively small sample (N=121); single medical center in Taiwan; correlation does not prove muscle quality causes these outcomes.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 121,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +325,26 @@
       "why_it_matters": "Standard cognitive tests may miss early signs of decline. This study suggests that measuring consistency of performance and preparatory brain activity could provide more sensitive markers of cognitive vulnerability, potentially enabling earlier intervention.",
       "story_angle_primary": "If you notice you're becoming more inconsistent\u2014sometimes sharp, sometimes struggling\u2014rather than uniformly slower, this could be worth mentioning to your doctor. Early detection of cognitive changes opens the door to interventions that may help preserve your mental abilities.",
       "story_angle_secondary": "Clinicians and researchers developing cognitive screening programs might consider incorporating measures of response variability alongside traditional accuracy-based tests. Inconsistency may be an earlier warning sign than average performance decline.",
-      "caveats": "Cross-sectional design; relatively small sample (N=92); cognitive status based on screening tool, not clinical diagnosis; findings need replication in longitudinal studies."
+      "caveats": "Cross-sectional design; relatively small sample (N=92); cognitive status based on screening tool, not clinical diagnosis; findings need replication in longitudinal studies.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 92,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +357,24 @@
       "why_it_matters": "This study reveals that disability in later life is shaped by circumstances spanning the entire life course, from childhood economic conditions through current food security. Addressing disability requires both immediate food assistance and long-term investments in economic opportunity.",
       "story_angle_primary": "If you're struggling to afford enough food, this can affect your physical abilities and independence. Programs that provide food assistance exist in most communities\u2014reaching out for help is a way of protecting your health and mobility.",
       "story_angle_secondary": "Policymakers and aging services organizations should recognize that functional disability has roots in lifelong economic circumstances. Interventions must address both immediate food insecurity through assistance programs and upstream factors through education and economic development policies.",
-      "caveats": "Observational longitudinal design; limited to Ghana and South Africa; self-reported outcomes; mediation analysis suggests pathways but cannot prove causation."
+      "caveats": "Observational longitudinal design; limited to Ghana and South Africa; self-reported outcomes; mediation analysis suggests pathways but cannot prove causation.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 11000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +387,26 @@
       "why_it_matters": "Despite its importance, many people avoid planning for end-of-life care. Understanding how to frame these conversations effectively could help more families have crucial discussions before a health crisis forces difficult decisions.",
       "story_angle_primary": "Thinking about what could go wrong if you don't plan for future medical decisions\u2014like having treatments you wouldn't want or burdening family members with difficult choices\u2014might motivate you more than thinking about the benefits of planning. Consider what matters most to you and start those conversations.",
       "story_angle_secondary": "Healthcare providers and senior living staff initiating advance care planning conversations might consider framing the discussion around what could be lost without a plan\u2014loss of control over decisions, family conflict, unwanted treatments\u2014rather than only emphasizing positive benefits of planning.",
-      "caveats": "Online survey-based experimental design; participants were not followed to see if intentions translated to actual planning behavior; U.S. sample only."
+      "caveats": "Online survey-based experimental design; participants were not followed to see if intentions translated to actual planning behavior; U.S. sample only.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +419,24 @@
       "why_it_matters": "Infections in nursing homes cause significant illness and death among residents. This review confirms that comprehensive, multi-pronged approaches to infection control are more effective than relying on any single strategy.",
       "story_angle_primary": "When choosing a care facility, ask about their infection prevention practices. Facilities using comprehensive approaches\u2014not just hand sanitizer stations\u2014are following the best available evidence. Staying current on vaccinations is also one of the most effective protections available.",
       "story_angle_secondary": "Long-term care administrators should implement infection prevention programs that combine multiple strategies simultaneously: system changes, staff education, monitoring and feedback, and building a culture of safety. Single-intervention approaches like annual hand hygiene training alone are insufficient.",
-      "caveats": "High risk of bias in most included studies (19 of 25); significant heterogeneity across studies; evidence predominantly from high-income countries; may not generalize to resource-limited settings."
+      "caveats": "High risk of bias in most included studies (19 of 25); significant heterogeneity across studies; evidence predominantly from high-income countries; may not generalize to resource-limited settings.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +449,26 @@
       "why_it_matters": "Rural older adults often lack access to specialized mental health care. This study provides a practical blueprint for healthcare systems seeking to extend geriatric mental health services to underserved areas through telehealth.",
       "story_angle_primary": "If you live in a rural area and need mental health support, ask whether telehealth options are available. Many health systems are expanding virtual access to specialists who can help with depression, anxiety, memory concerns, and other issues\u2014you shouldn't have to travel hours for quality care.",
       "story_angle_secondary": "Healthcare organizations looking to extend geriatric mental health services to rural populations can use this roadmap to guide implementation. Success requires sustained effort across multiple phases, strong leadership engagement, and adaptation to local contexts and resources.",
-      "caveats": "Qualitative study of VA system only; implementation experiences may differ in non-VA healthcare settings; rural barriers vary by region."
+      "caveats": "Qualitative study of VA system only; implementation experiences may differ in non-VA healthcare settings; rural barriers vary by region.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +481,27 @@
       "why_it_matters": "Hearing loss affects quality of life and is linked to cognitive decline. This culturally adapted Chinese-language training program shows that combining hearing and cognitive exercises in an engaging, game-like format may help address both challenges simultaneously.",
       "story_angle_primary": "If you have hearing difficulties, training programs that exercise both your hearing and thinking skills might offer benefits beyond hearing aids alone. Ask your audiologist or doctor about cognitive-auditory training options that might be available in your language.",
       "story_angle_secondary": "Senior centers and audiology practices might consider offering structured auditory-cognitive training programs as a complement to traditional hearing rehabilitation. The gamified, web-based approach makes it accessible for home use and may improve engagement.",
-      "caveats": "Pilot study with small sample (N=60); predominantly male participants; waitlist control (not active comparison); Chinese-language program may not generalize to other languages; short-term follow-up only."
+      "caveats": "Pilot study with small sample (N=60); predominantly male participants; waitlist control (not active comparison); Chinese-language program may not generalize to other languages; short-term follow-up only.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 60,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +514,26 @@
       "why_it_matters": "Many older adults have treatable eye conditions that go undetected. Integrating eye screenings into existing community health check-ups dramatically increases access and reveals substantial unmet needs that, if addressed, could preserve vision and quality of life.",
       "story_angle_primary": "Regular eye exams can catch problems early when treatment is most effective. If your community offers vision screenings during health check-ups, take advantage of them\u2014and follow through with any recommended specialist visits. Protecting your eyesight helps you stay independent.",
       "story_angle_secondary": "Primary care and public health programs should consider integrating basic eye screenings into routine health assessments for older adults. This study demonstrates high feasibility and substantial unmet need. The challenge is ensuring those identified with problems complete referrals to eye specialists.",
-      "caveats": "Chinese population may not generalize globally; low referral completion rates noted as a limitation; two-year follow-up showed mixed results by age group."
+      "caveats": "Chinese population may not generalize globally; low referral completion rates noted as a limitation; two-year follow-up showed mixed results by age group.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 3459,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +546,24 @@
       "why_it_matters": "Many older women mistakenly believe cervical cancer screening is no longer necessary after menopause or hysterectomy. This review emphasizes that risk persists and that screening approaches may need to be individualized based on hormone status and prior screening history.",
       "story_angle_primary": "Don't assume you no longer need cervical cancer screening just because you've gone through menopause. If you've never had regular screenings or had abnormal results in the past, talk to your doctor about whether continued screening\u2014possibly with HPV testing\u2014is right for you.",
       "story_angle_secondary": "Healthcare providers should individualize cervical screening recommendations for older women rather than applying one-size-fits-all age cutoffs. HPV testing may be more reliable than traditional Pap smears in postmenopausal women, and short-term topical estrogen can improve sample quality when needed.",
-      "caveats": "Narrative review (not systematic); no original data; recommendations based on synthesis of existing literature and guidelines."
+      "caveats": "Narrative review (not systematic); no original data; recommendations based on synthesis of existing literature and guidelines.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +576,27 @@
       "why_it_matters": "Understanding the biological signatures of dual decline could eventually lead to blood tests that identify at-risk individuals before symptoms become obvious, enabling earlier interventions.",
       "story_angle_primary": "Scientists are working to understand the biological changes that predict who might experience declines in both thinking and physical abilities as they age. While blood tests for this aren't yet available clinically, staying active and managing inflammation through healthy lifestyle choices may help protect both your mind and body.",
       "story_angle_secondary": "This research moves toward precision medicine approaches for aging. Future clinical applications might include blood-based biomarker panels to stratify risk and guide preventive interventions. The convergence on inflammation-related proteins supports anti-inflammatory strategies as potentially protective.",
-      "caveats": "Observational design; Italian population; proteins measured at baseline only (no longitudinal proteomics); findings need replication; no immediate clinical applications."
+      "caveats": "Observational design; Italian population; proteins measured at baseline only (no longitudinal proteomics); findings need replication; no immediate clinical applications.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

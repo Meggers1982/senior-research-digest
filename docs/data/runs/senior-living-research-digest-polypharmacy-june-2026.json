@@ -24,7 +24,30 @@
       "why_it_matters": "This large, nationally representative study provides compelling evidence that the combination of opioids and benzodiazepines\u2014already carrying a black-box warning for respiratory risks\u2014may also substantially increase vulnerability and physical decline in older adults.",
       "story_angle_primary": "If you take both an opioid pain medication and a benzodiazepine for sleep or anxiety, this research suggests the combination may be associated with greater physical vulnerability. Consider asking your doctor or pharmacist whether both medications are still necessary for you.",
       "story_angle_secondary": "For families and caregivers noticing increased frailty in a loved one, reviewing current medications\u2014particularly opioid-benzodiazepine combinations\u2014with a healthcare provider may be worthwhile. Senior living staff should flag residents on this combination for clinical review.",
-      "caveats": "Observational design (cannot establish causation); self-reported medication use; frailty measured by questionnaire rather than clinical assessment."
+      "caveats": "Observational design (cannot establish causation); self-reported medication use; frailty measured by questionnaire rather than clinical assessment.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 18434,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "nutrition",
+        "polypharmacy",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +60,29 @@
       "why_it_matters": "This challenges the common assumption that blood pressure medications are primary culprits in medication-related falls. Instead, pain medications and antidepressants may deserve closer scrutiny in fall prevention efforts.",
       "story_angle_primary": "If you're concerned about falling, talk with your doctor or pharmacist about whether any pain medications or antidepressants you take could be contributing to your risk\u2014these may be more important to review than your blood pressure medications.",
       "story_angle_secondary": "Fall prevention programs in senior living should prioritize reviewing opioid and antidepressant use. Families can advocate for medication reviews that go beyond just blood pressure drugs when a loved one has fallen.",
-      "caveats": "Observational design (cannot establish causation); single country (Italy); medication exposure based on dispensing records, not confirmed use."
+      "caveats": "Observational design (cannot establish causation); single country (Italy); medication exposure based on dispensing records, not confirmed use.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "case-control",
+      "sample_size": 16118,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "depression",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +95,29 @@
       "why_it_matters": "This suggests that *how quickly* someone's health declines matters as much as *how many* conditions they have. Polypharmacy appears as both a marker and potential contributor to these vulnerable periods.",
       "story_angle_primary": "If you've noticed your health declining noticeably over recent months\u2014especially if you're taking many medications or have heart or breathing problems\u2014this may be a critical time to work closely with your healthcare team on both medical management and practical support.",
       "story_angle_secondary": "For families and senior living professionals, rapid accumulation of new health problems (not just the total count) should prompt heightened attention. These periods of accelerated decline predict poor outcomes and may warrant proactive care planning and medication review.",
-      "caveats": "Observational design (cannot establish causation); UK population may not generalize to all settings; deficit accumulation identified retrospectively."
+      "caveats": "Observational design (cannot establish causation); UK population may not generalize to all settings; deficit accumulation identified retrospectively.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "falls",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +130,30 @@
       "why_it_matters": "Long-term BZRA use in older adults is linked to falls, cognitive impairment, and functional decline. This review provides reassurance that stopping these medications is feasible and safe when done carefully, supporting efforts to reduce unnecessary prescribing.",
       "story_angle_primary": "If you've been taking sleep or anxiety medication for a long time and are interested in stopping, research suggests this can usually be done safely when your dose is reduced gradually with medical guidance. Starting the conversation with your doctor is a reasonable first step.",
       "story_angle_secondary": "Senior living staff and families can support deprescribing efforts by knowing that withdrawal from these medications\u2014when structured and supervised\u2014is typically well-tolerated. Advocating for gradual tapering protocols rather than abrupt discontinuation is key.",
-      "caveats": "Studies varied significantly in design and methods; not all intervention types were equally effective; individual responses vary."
+      "caveats": "Studies varied significantly in design and methods; not all intervention types were equally effective; individual responses vary.",
+      "score": 100,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": 11000,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "falls",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +166,27 @@
       "why_it_matters": "While medication optimization in nursing homes improves prescribing quality, the lack of measurable clinical benefits highlights the complexity of translating fewer medications into better health outcomes for frail older adults.",
       "story_angle_primary": "If you or a loved one lives in a nursing home, medication reviews can help reduce unnecessary pills\u2014which may lower side effects and simplify daily routines\u2014even if direct health benefits haven't been proven in research yet.",
       "story_angle_secondary": "For families and senior living professionals, this research supports continued investment in medication review programs while acknowledging that reducing pills is only one piece of improving residents' wellbeing. Quality-of-life measures and symptom burden may be more meaningful outcomes to track.",
-      "caveats": "High heterogeneity across studies; moderate to high risk of bias in most included studies; outcome measurement varied considerably."
+      "caveats": "High heterogeneity across studies; moderate to high risk of bias in most included studies; outcome measurement varied considerably.",
+      "score": 93,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +199,26 @@
       "why_it_matters": "Hospital stays represent a critical window to optimize medications, but current usual care frequently fails to address inappropriate prescribing\u2014often sending patients home with unchanged or worsened medication regimens.",
       "story_angle_primary": "A hospital stay could be a good time to have your medications reviewed, but this doesn't always happen automatically. Before discharge, consider asking your care team\u2014or having a family member ask\u2014whether all your medications are still necessary and appropriate.",
       "story_angle_secondary": "Families should advocate for medication review before hospital discharge. Senior living facilities receiving residents from hospitals should not assume medications have been optimized; conducting their own review upon admission may catch problems that were missed.",
-      "caveats": "Observational studies only; significant variation in how medication appropriateness was measured; single-country studies predominated."
+      "caveats": "Observational studies only; significant variation in how medication appropriateness was measured; single-country studies predominated.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +231,28 @@
       "why_it_matters": "For frail older adults, medications proven beneficial in healthier populations may offer diminished benefit and increased harm. This guidance provides a framework for more thoughtful, individualized prescribing that prioritizes what matters most to each person.",
       "story_angle_primary": "If you or a loved one has significant frailty, the benefits and risks of medications may be different than for healthier people. It's reasonable to ask your doctor whether each medication is still worth taking given your current health and personal priorities.",
       "story_angle_secondary": "This guidance supports deprescribing conversations by acknowledging that standard evidence often doesn't apply to frail individuals. Senior living professionals can use frailty assessments to help identify residents who may benefit from medication simplification discussions.",
-      "caveats": "Guidance based on expert consensus and extrapolation from limited evidence; clinical judgment remains essential."
+      "caveats": "Guidance based on expert consensus and extrapolation from limited evidence; clinical judgment remains essential.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +265,26 @@
       "why_it_matters": "Older adults with cancer face compounded medication risks from both their underlying conditions and cancer treatments. Integrating pharmacists into geriatric oncology care can identify significant medication problems before they cause harm.",
       "story_angle_primary": "If you're an older adult being treated for cancer, consider asking whether a pharmacist can review all your medications\u2014not just cancer drugs\u2014to check for interactions or problems that might be causing side effects.",
       "story_angle_secondary": "For families navigating cancer care with an older loved one, requesting a comprehensive medication review can uncover hidden problems. Cancer centers should consider pharmacist integration as a patient safety measure.",
-      "caveats": "Single-center quality improvement project; no control group; resource-intensive (over 1.5 hours per patient)."
+      "caveats": "Single-center quality improvement project; no control group; resource-intensive (over 1.5 hours per patient).",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 205,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +297,27 @@
       "why_it_matters": "Multiple cardiovascular medications may contribute to or reflect declining kidney function\u2014a concern that warrants monitoring, especially in older adults already at risk for kidney problems.",
       "story_angle_primary": "If you take multiple heart or blood pressure medications along with cholesterol drugs, ask your doctor about periodic kidney function checks. Knowing your kidney health can help guide medication decisions.",
       "story_angle_secondary": "For caregivers and senior living staff, awareness that heavy cardiovascular medication burdens may signal or contribute to kidney decline can prompt appropriate monitoring and communication with prescribers.",
-      "caveats": "Cross-sectional design (cannot determine whether polypharmacy caused kidney problems or vice versa); Australian population; liver dysfunction findings inconclusive."
+      "caveats": "Cross-sectional design (cannot determine whether polypharmacy caused kidney problems or vice versa); Australian population; liver dysfunction findings inconclusive.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +330,29 @@
       "why_it_matters": "Standard heart failure medications may work differently in the oldest patients. Without trial data on geriatric outcomes, clinicians must adapt guidelines cautiously, accepting that slower dosing and submaximal doses may be appropriate.",
       "story_angle_primary": "If you're 75 or older with heart failure, understand that drug recommendations are based mostly on younger patients. It's reasonable to discuss with your doctor whether slower medication increases or lower doses might be safer for you.",
       "story_angle_secondary": "Families and senior living staff should know that \"guideline-directed\" therapy in heart failure may need modification for frail older adults. Monitoring for side effects like dizziness, falls, or kidney changes is especially important.",
-      "caveats": "Narrative review (not systematic); relies on post-hoc analyses of trials not designed for older populations; ongoing trials may provide better evidence."
+      "caveats": "Narrative review (not systematic); relies on post-hoc analyses of trials not designed for older populations; ongoing trials may provide better evidence.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "nutrition",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +365,27 @@
       "why_it_matters": "Older adults with blood cancers are at high risk for treatment complications, and CGA\u2014which evaluates function, cognition, nutrition, medications, and social support\u2014can guide safer, more personalized care.",
       "story_angle_primary": "If you're an older adult being treated for a blood cancer like leukemia or lymphoma, ask whether your care team has assessed your overall function, medications, and support needs\u2014not just your cancer.",
       "story_angle_secondary": "Families can advocate for comprehensive assessments before cancer treatment decisions are made. Questions about daily function, fall risk, and medication burden should be part of the conversation.",
-      "caveats": "Editorial/commentary (no new data presented); implementation barriers vary by institution."
+      "caveats": "Editorial/commentary (no new data presented); implementation barriers vary by institution.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +398,27 @@
       "why_it_matters": "For critically ill older adults, standard ICU protocols may not account for the compounding vulnerabilities of frailty and complex medication regimens. Recognizing these interactions can improve decision-making and reduce preventable harm.",
       "story_angle_primary": "If you or a loved one is critically ill and faces an ICU stay, make sure the care team knows about all medications being taken and any signs of frailty. These factors can affect treatment decisions and recovery.",
       "story_angle_secondary": "Families should be especially vigilant about medication changes during and after ICU stays. Requesting a medication reconciliation before discharge can help catch errors that commonly occur during transitions.",
-      "caveats": "Narrative review (no new data); recommendations based on synthesis of existing literature."
+      "caveats": "Narrative review (no new data); recommendations based on synthesis of existing literature.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +431,26 @@
       "why_it_matters": "This suggests that combining digital tools with pharmacist support can help older adults\u2014including those from communities often underrepresented in research\u2014better manage complex medication regimens.",
       "story_angle_primary": "Smartphone apps that remind you to take medications, combined with talking to a pharmacist by video or phone, may help you keep track of multiple medicines and understand them better.",
       "story_angle_secondary": "For families helping manage medications, exploring user-friendly reminder apps may ease the burden. Telehealth pharmacist consultations can provide expert guidance without requiring transportation to appointments.",
-      "caveats": "Small sample (N=40); no control group; self-reported outcomes; single geographic area; predominantly female participants."
+      "caveats": "Small sample (N=40); no control group; self-reported outcomes; single geographic area; predominantly female participants.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 40,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +463,27 @@
       "why_it_matters": "Pharmacists play crucial roles in medication safety for older adults, but many feel underprepared. Strengthening geriatric training in pharmacy education could improve medication management for seniors.",
       "story_angle_primary": "Pharmacists want to help with complex medication regimens but may need more training in geriatric care. Don't hesitate to ask questions\u2014your input helps them understand your needs.",
       "story_angle_secondary": "Senior living facilities should recognize that community pharmacists may welcome collaboration and additional training on geriatric medication issues. Building these relationships can improve resident care.",
-      "caveats": "Survey-based (self-reported perceptions); predominantly European respondents (82% female); may not generalize globally."
+      "caveats": "Survey-based (self-reported perceptions); predominantly European respondents (82% female); may not generalize globally.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +496,28 @@
       "why_it_matters": "This tool could enable community pharmacists to identify at-risk older adults without additional assessments, potentially flagging those who need comprehensive medication reviews or geriatric evaluation.",
       "story_angle_primary": "Your local pharmacist may soon be able to identify whether you might benefit from extra support or a medication review\u2014just based on your prescription records. This could help catch problems earlier.",
       "story_angle_secondary": "Senior living facilities working with community pharmacies could request frailty screening using this type of tool to prioritize which residents most need comprehensive medication evaluation.",
-      "caveats": "Validation in Belgian population (may not generalize); screening tool identifies risk, not definitive frailty diagnosis; calibration required for different populations."
+      "caveats": "Validation in Belgian population (may not generalize); screening tool identifies risk, not definitive frailty diagnosis; calibration required for different populations.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 2191,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +530,27 @@
       "why_it_matters": "This illustrates how one medication's side effects can lead to another prescription\u2014the \"prescribing cascade\"\u2014potentially adding unnecessary drugs and risks for older adults.",
       "story_angle_primary": "If you develop new dizziness or nausea after starting a medication, tell your doctor\u2014the symptom might be a side effect rather than a new problem requiring another prescription.",
       "story_angle_secondary": "Families and caregivers should note when new symptoms appear shortly after medication changes. Asking whether symptoms could be drug-related may prevent unnecessary additional prescriptions.",
-      "caveats": "Cannot confirm prescribing cascades without knowing clinical indications; pharmacy claims data only (no clinical notes); Irish population."
+      "caveats": "Cannot confirm prescribing cascades without knowing clinical indications; pharmacy claims data only (no clinical notes); Irish population.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 514000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +563,26 @@
       "why_it_matters": "Specialized polypharmacy management can improve physical function and reduce healthcare use in very old adults, suggesting these interventions may help people stay independent longer.",
       "story_angle_primary": "If you're 75 or older and take many medications, a specialized medication review by a team of healthcare providers might help you function better physically and spend less time in doctors' offices.",
       "story_angle_secondary": "Senior living communities should consider establishing relationships with geriatric clinics that offer comprehensive medication reviews. The functional improvements seen could translate to better quality of life for residents.",
-      "caveats": "Single-center observational study; no control group; relatively small sample (N=104); improvements in daily activity measures were not significant."
+      "caveats": "Single-center observational study; no control group; relatively small sample (N=104); improvements in daily activity measures were not significant.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 104,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +595,26 @@
       "why_it_matters": "The guidelines clinicians rely on for managing complex older patients have significant limitations. Better guidelines\u2014incorporating patient priorities and practical implementation\u2014are needed to improve care.",
       "story_angle_primary": "Current medical guidelines for managing multiple conditions and medications may not fully reflect your personal priorities. Don't hesitate to discuss what matters most to you with your healthcare team.",
       "story_angle_secondary": "Healthcare professionals and senior living staff should recognize that guidelines for polypharmacy management have significant gaps, particularly in addressing individual patient preferences and practical implementation.",
-      "caveats": "Review of existing guidelines (no new clinical data); quality assessment is subjective despite standardized tools; guidelines evolving rapidly."
+      "caveats": "Review of existing guidelines (no new clinical data); quality assessment is subjective despite standardized tools; guidelines evolving rapidly.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +627,27 @@
       "why_it_matters": "This massive population study reveals that polypharmacy and inappropriate prescribing are widespread problems even in rural, resource-limited settings\u2014not just in wealthy countries with extensive healthcare systems.",
       "story_angle_primary": "Managing diabetes and avoiding unnecessary medications are priorities regardless of where you live. Ask about which medications are truly needed.",
       "story_angle_secondary": "This research underscores that polypharmacy is a global challenge requiring attention in all healthcare settings, including those serving rural populations with limited resources.",
-      "caveats": "Cross-sectional design (cannot establish causation); hospital-based sample may not represent all rural older adults; Thai population with specific healthcare context."
+      "caveats": "Cross-sectional design (cannot establish causation); hospital-based sample may not represent all rural older adults; Thai population with specific healthcare context.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 588000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +660,28 @@
       "why_it_matters": "Despite persistent concerns about statins causing memory problems, current evidence does not support stopping these medications solely due to cognitive worries\u2014though individualized decisions remain important.",
       "story_angle_primary": "If you've heard that statins cause memory problems, current research doesn't support that concern for most people. Discuss any cognitive changes with your doctor, but don't assume your cholesterol medication is the cause.",
       "story_angle_secondary": "Families and caregivers concerned about cognitive changes in a loved one on statins should know that other causes are more likely. A comprehensive evaluation rather than immediate medication discontinuation is appropriate.",
-      "caveats": "Narrative review (not systematic); older adults underrepresented in trials; definitive evidence awaiting ongoing large trials; individual responses may vary."
+      "caveats": "Narrative review (not systematic); older adults underrepresented in trials; definitive evidence awaiting ongoing large trials; individual responses may vary.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

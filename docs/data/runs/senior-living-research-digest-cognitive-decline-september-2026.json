@@ -24,7 +24,29 @@
       "why_it_matters": "Earlier identification of MCI creates a window for addressing modifiable factors\u2014such as physical inactivity, sleep apnea, or thyroid problems\u2014before dementia develops.",
       "story_angle_primary": "If you're enrolled in Medicare, consider scheduling your free Annual Wellness Visit each year. This checkup includes a cognitive screen that may catch memory changes early, giving you and your doctor time to investigate treatable causes.",
       "story_angle_secondary": "For senior living administrators and families, these findings reinforce the value of encouraging residents and loved ones to use preventive Medicare benefits. Coordinating transportation to wellness visits could be a low-cost intervention with meaningful downstream benefits.",
-      "caveats": "Observational design (cannot establish causation); AWV recipients had slightly higher baseline cognitive scores despite matching, which may reflect unmeasured differences in health-seeking behavior."
+      "caveats": "Observational design (cannot establish causation); AWV recipients had slightly higher baseline cognitive scores despite matching, which may reflect unmeasured differences in health-seeking behavior.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 4828,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "cost & policy",
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +59,28 @@
       "why_it_matters": "Depression in later life accelerates cognitive decline and erodes quality of life. Evidence that established tree canopy\u2014not just green space generally\u2014may be protective suggests urban forestry investments could support mental health in aging populations.",
       "story_angle_primary": "If you have options about where you live, neighborhoods with mature tree cover may offer mood benefits over time. Even if moving isn't feasible, spending time in leafy parks could provide similar exposure.",
       "story_angle_secondary": "For senior living planners and policymakers, prioritizing landscaping with established trees\u2014rather than sparse ornamental plantings\u2014may be a long-term investment in residents' mental well-being.",
-      "caveats": "Observational design (cannot establish causation); some counterintuitive findings (e.g., increases in tree canopy linked to more symptoms) appeared only among participants who relocated and may reflect the stress of moving rather than environmental effects."
+      "caveats": "Observational design (cannot establish causation); some counterintuitive findings (e.g., increases in tree canopy linked to more symptoms) appeared only among participants who relocated and may reflect the stress of moving rather than environmental effects.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 1031,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +93,28 @@
       "why_it_matters": "Motoric cognitive risk syndrome identifies older adults at heightened risk for dementia and falls. This trial shows that strength training on unstable surfaces can improve the functional abilities most relevant to everyday safety\u2014without requiring additional cognitive components.",
       "story_angle_primary": "If you've noticed your walking has slowed and you have memory concerns, ask a physical therapist about resistance exercises on unstable surfaces (like balance boards or foam pads). This study suggests such training can improve your confidence and ability to walk while doing another task, like talking.",
       "story_angle_secondary": "For fitness directors in senior living communities, this evidence supports investing in equipment and programming for instability-based strength training. The improvements in balance confidence may help reduce fear of falling\u2014a major barrier to activity participation.",
-      "caveats": "Small sample size (N=56); single-center study in Brazil; no long-term follow-up beyond the 24-week intervention period."
+      "caveats": "Small sample size (N=56); single-center study in Brazil; no long-term follow-up beyond the 24-week intervention period.",
+      "score": 82,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 56,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +127,28 @@
       "why_it_matters": "These findings suggest that monitoring sleep patterns over time\u2014not just at a single point\u2014may help identify people at higher risk for Alzheimer's disease, potentially creating opportunities for earlier intervention.",
       "story_angle_primary": "Pay attention to changes in your sleep over the years, not just occasional bad nights. If you've noticed a pattern of worsening or persistent sleep problems, it may be worth discussing with your doctor, who can evaluate possible contributing factors and treatment options.",
       "story_angle_secondary": "For clinicians and family caregivers, repeated screening for sleep disturbance\u2014using simple questionnaires at routine visits\u2014could help stratify cognitive risk. Sleep is increasingly recognized as a modifiable target for brain health interventions.",
-      "caveats": "Observational design (cannot establish causation); sleep disturbance was assessed via a single item from a neuropsychiatric inventory, which may not capture all dimensions of sleep quality."
+      "caveats": "Observational design (cannot establish causation); sleep disturbance was assessed via a single item from a neuropsychiatric inventory, which may not capture all dimensions of sleep quality.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 774,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +161,28 @@
       "why_it_matters": "For people already experiencing memory concerns, changing health behaviors can feel overwhelming. This evidence clarifies which program features actually help\u2014offering practical guidance for designing effective community interventions.",
       "story_angle_primary": "If you're looking for a program to improve your diet or physical activity, consider ones that offer ongoing support, personalized guidance, and practical tools\u2014not just information. Group settings that provide social connection may make it easier to stick with changes.",
       "story_angle_secondary": "For program designers and senior living activity directors, this review offers a blueprint: combine education with hands-on support, provide equipment or resources, and create group formats that foster accountability. Short-term informational sessions alone are unlikely to produce lasting change.",
-      "caveats": "Low certainty of evidence that behavior change itself improves cognition; very few studies reported participants' ethnicity or socioeconomic status, limiting generalizability to underserved populations."
+      "caveats": "Low certainty of evidence that behavior change itself improves cognition; very few studies reported participants' ethnicity or socioeconomic status, limiting generalizability to underserved populations.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +195,27 @@
       "why_it_matters": "Strength training is already recommended for bone and muscle health in aging. This analysis suggests the cognitive benefits are real but domain-specific\u2014helping with planning, multitasking, and quick thinking more than with remembering past events.",
       "story_angle_primary": "Adding strength training to your routine may sharpen the mental skills you use for planning, problem-solving, and processing new information. Don't expect it to boost memory for past events, but the benefits to thinking speed and mental flexibility are meaningful for daily life.",
       "story_angle_secondary": "For fitness professionals working with older populations, this evidence supports programming resistance exercises not just for physical function but as a cognitive health strategy. Pairing strength work with aerobic exercise\u2014which has stronger links to memory\u2014may offer complementary brain benefits.",
-      "caveats": "Substantial heterogeneity across studies in exercise protocols, duration, and cognitive measures; episodic memory findings were inconsistent and may reflect measurement challenges rather than true null effects."
+      "caveats": "Substantial heterogeneity across studies in exercise protocols, duration, and cognitive measures; episodic memory findings were inconsistent and may reflect measurement challenges rather than true null effects.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +228,28 @@
       "why_it_matters": "Postoperative cognitive dysfunction is a recognized concern for older surgical patients. Identifying excessive daytime sleepiness as a potential risk factor opens a window for preoperative screening and, possibly, intervention.",
       "story_angle_primary": "If you're planning surgery and often feel excessively sleepy during the day, mention it to your surgical team. Addressing underlying causes\u2014like sleep apnea or medication side effects\u2014before surgery might help protect your thinking afterward.",
       "story_angle_secondary": "For anesthesiologists, surgeons, and geriatricians involved in preoperative assessment, screening for excessive daytime sleepiness (using a simple questionnaire like the Epworth Sleepiness Scale) may help identify patients who warrant closer postoperative cognitive monitoring.",
-      "caveats": "Small sample size (N=96, with only 11 sleepy participants); single-center study; observational design limits causal inference; six-week follow-up may not capture longer-term outcomes."
+      "caveats": "Small sample size (N=96, with only 11 sleepy participants); single-center study; observational design limits causal inference; six-week follow-up may not capture longer-term outcomes.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 96,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +262,27 @@
       "why_it_matters": "Blood tests for Alzheimer's disease are rapidly entering clinical practice. This study suggests that refining which form of tau is measured\u2014specifically isolating brain-derived tau\u2014may improve accuracy for both diagnosis and prognosis.",
       "story_angle_primary": "If your doctor orders a blood test for Alzheimer's biomarkers, know that research is quickly improving these tests. Future versions may better predict how your memory might change, helping you plan ahead.",
       "story_angle_secondary": "For clinicians and researchers, this study supports continued development of brain-derived tau ratios as next-generation plasma biomarkers. The practical advantage is that these assays run on automated platforms already used in hospital labs.",
-      "caveats": "Single-site study; samples were collected near end of life, so findings may not fully generalize to earlier disease stages; replication in diverse populations needed."
+      "caveats": "Single-site study; samples were collected near end of life, so findings may not fully generalize to earlier disease stages; replication in diverse populations needed.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 288,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +295,27 @@
       "why_it_matters": "SCD is increasingly used as an early clinical marker for Alzheimer's disease. If the meaning and predictive value of cognitive complaints differ across cultural groups, screening strategies may need to be adapted to avoid missed diagnoses or false positives in diverse populations.",
       "story_angle_primary": "If you're concerned about your memory, know that how you describe those concerns\u2014and what they mean for your risk\u2014may depend on your background and culture. Don't hesitate to share your worries with a healthcare provider, but recognize that screening tools are still being refined to work well for everyone.",
       "story_angle_secondary": "For clinicians and researchers, this review underscores the need for culturally validated SCD instruments and diverse study cohorts. Memory clinics serving heterogeneous populations should be cautious about applying findings from predominantly white, highly educated samples.",
-      "caveats": "This is a narrative review, not a meta-analysis; many conclusions are based on limited data from underrepresented groups; no new empirical data were generated."
+      "caveats": "This is a narrative review, not a meta-analysis; many conclusions are based on limited data from underrepresented groups; no new empirical data were generated.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +328,28 @@
       "why_it_matters": "Adults with Down syndrome are living longer, making Alzheimer's disease and its complications increasingly common. Recognizing that epilepsy often accompanies dementia in this population\u2014and worsens outcomes\u2014may prompt earlier monitoring and treatment.",
       "story_angle_primary": "While this study focuses on adults with Down syndrome, it highlights the broader link between Alzheimer's disease and seizure risk. If you have a family member with Down syndrome who develops dementia, be aware that new seizures are common and should prompt medical evaluation.",
       "story_angle_secondary": "For clinicians and caregivers supporting adults with Down syndrome, routine screening for seizures after an Alzheimer's diagnosis is warranted. Early treatment of epilepsy may slow functional decline and improve quality of life.",
-      "caveats": "Observational design; findings specific to Down syndrome may not generalize to late-onset Alzheimer's disease; routine EEG had limited diagnostic utility, so clinical monitoring remains primary."
+      "caveats": "Observational design; findings specific to Down syndrome may not generalize to late-onset Alzheimer's disease; routine EEG had limited diagnostic utility, so clinical monitoring remains primary.",
+      "score": 91,
+      "band": "Lead",
+      "evidence_type": "cohort",
+      "sample_size": 4804,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +362,28 @@
       "why_it_matters": "Ovarian hormone loss at younger ages may accelerate brain aging. Understanding these relationships could inform decisions about hormone therapy and prompt closer cognitive monitoring in affected women.",
       "story_angle_primary": "If you went through menopause earlier than average\u2014especially before age 40\u2014discuss your cognitive health with your doctor. You may benefit from strategies to support brain health, though more research is needed on whether hormone therapy or other interventions help.",
       "story_angle_secondary": "For clinicians, premature and early menopause should be considered part of a patient's cognitive risk profile. Longitudinal monitoring and proactive counseling about lifestyle factors may be appropriate for this group.",
-      "caveats": "Mostly cross-sectional studies; findings were heterogeneous across imaging modalities and cohorts; causal relationships between hormone deprivation and neurodegeneration remain unconfirmed."
+      "caveats": "Mostly cross-sectional studies; findings were heterogeneous across imaging modalities and cohorts; causal relationships between hormone deprivation and neurodegeneration remain unconfirmed.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +396,28 @@
       "why_it_matters": "Late-life depression is a known risk factor for dementia, but predicting which depressed individuals will decline cognitively has been difficult. These MRI markers may help clinicians identify patients who need closer monitoring.",
       "story_angle_primary": "If you're being treated for depression and are concerned about memory, ask your doctor whether an MRI might provide useful information about your brain health. Not all depression leads to cognitive decline, and understanding your individual risk may guide treatment decisions.",
       "story_angle_secondary": "For geriatric psychiatrists and primary care physicians, these findings suggest that structural brain imaging in late-life depression may have prognostic value. Patients with evidence of white matter disease or reward-circuit atrophy may benefit from more intensive cognitive follow-up.",
-      "caveats": "Small sample sizes (40\u201347 per group); two-year follow-up is relatively short; findings need replication in larger, more diverse cohorts before clinical adoption."
+      "caveats": "Small sample sizes (40\u201347 per group); two-year follow-up is relatively short; findings need replication in larger, more diverse cohorts before clinical adoption.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 125,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +430,27 @@
       "why_it_matters": "Women are disproportionately affected by Alzheimer's disease. Finding that microvascular dysfunction appears earlier in women\u2014and is detectable with non-invasive imaging\u2014could open avenues for targeted prevention research.",
       "story_angle_primary": "This study is a step toward understanding why women face higher Alzheimer's risk. While the imaging technique is not yet routine, it underscores the importance of cardiovascular health\u2014managing blood pressure, cholesterol, and blood sugar\u2014for brain health, especially in women.",
       "story_angle_secondary": "For researchers and clinicians, QTM may serve as an early biomarker of vascular contributions to cognitive impairment. If validated, it could help identify women who might benefit from vascular-targeted interventions before symptoms progress.",
-      "caveats": "Cross-sectional design limits causal inference; single-center study; QTM is not yet widely available outside research settings."
+      "caveats": "Cross-sectional design limits causal inference; single-center study; QTM is not yet widely available outside research settings.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cross-sectional",
+      "sample_size": 182,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +463,29 @@
       "why_it_matters": "Late-onset epilepsy is increasingly recognized as a potential early manifestation of neurodegenerative disease. This study suggests that measuring Alzheimer's blood biomarkers\u2014and assessing sleep quality\u2014may help identify at-risk individuals.",
       "story_angle_primary": "If you've been diagnosed with epilepsy that started after age 55, consider discussing Alzheimer's biomarker testing with your neurologist, especially if your seizures are hard to control. Understanding whether you have underlying Alzheimer's pathology could inform your care and planning.",
       "story_angle_secondary": "For epileptologists and memory specialists, plasma p-tau217 appears useful for risk stratification in late-onset epilepsy. Addressing sleep quality\u2014which may mediate cognitive effects\u2014could be a therapeutic target worth exploring.",
-      "caveats": "Relatively small sample (N=85); cross-sectional cognitive analysis limits causal conclusions; single-center study; EEG-based sleep metrics require specialized analysis."
+      "caveats": "Relatively small sample (N=85); cross-sectional cognitive analysis limits causal conclusions; single-center study; EEG-based sleep metrics require specialized analysis.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 85,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +498,27 @@
       "why_it_matters": "In settings without access to expensive biomarkers, repeated clinical ratings may help stratify MCI patients by prognosis\u2014identifying those who remain stable versus those likely to progress rapidly.",
       "story_angle_primary": "If you've been told you have mild cognitive impairment, tracking how your daily functioning changes over time\u2014not just your memory test scores\u2014may give a clearer picture of your outlook. Ask your doctor about periodic reassessment.",
       "story_angle_secondary": "For clinicians managing MCI patients without biomarker access, serial CDR-SB assessments offer a practical, low-cost way to monitor trajectory. This can guide discussions about planning, support needs, and potential clinical trial eligibility.",
-      "caveats": "Small sample (N=121); tertiary-care setting may not reflect community populations; observational design; the four-class solution needs external validation."
+      "caveats": "Small sample (N=121); tertiary-care setting may not reflect community populations; observational design; the four-class solution needs external validation.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 121,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +531,28 @@
       "why_it_matters": "Elevated blood homocysteine has long been considered a cardiovascular and cognitive risk factor, but its relationship to Alzheimer's pathology has been inconsistent. This study suggests that CSF homocysteine may be a more biologically relevant measure, though it is not routinely obtained.",
       "story_angle_primary": "If you've had a blood test showing high homocysteine, know that its connection to Alzheimer's disease is still being clarified. This study suggests the blood level may not directly reflect what's happening in the brain. Talk to your doctor about whether B-vitamin supplementation or other interventions make sense for your overall health.",
       "story_angle_secondary": "For researchers, these findings encourage caution when using plasma homocysteine as a proxy for brain-level effects. Future studies should consider CSF measurement when feasible, and clinical translation may require new assay development.",
-      "caveats": "Cross-sectional design; CSF homocysteine measurement is invasive and not standard clinical practice; findings need replication; no assessment of dietary factors or supplement use."
+      "caveats": "Cross-sectional design; CSF homocysteine measurement is invasive and not standard clinical practice; findings need replication; no assessment of dietary factors or supplement use.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 294,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

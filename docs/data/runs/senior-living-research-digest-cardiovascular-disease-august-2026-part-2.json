@@ -24,7 +24,27 @@
       "why_it_matters": "This is the first large randomized trial showing that older adults without existing heart disease may safely stop statins, supporting individualized decision-making rather than blanket continuation of these widely prescribed drugs.",
       "story_angle_primary": "If you're 75 or older, taking a statin for prevention, and have never had a heart attack or stroke, this study suggests discontinuation may be a reasonable option to discuss with your doctor\u2014especially if you experience side effects or want to reduce your pill burden.",
       "story_angle_secondary": "Primary care teams and senior living medical directors should consider reviewing statin prescriptions in residents without cardiovascular disease history, weighing potential benefits against quality-of-life factors and polypharmacy risks.",
-      "caveats": "Open-label design (participants knew their group assignment); 3-year follow-up may not capture longer-term effects; population was predominantly French with limited racial/ethnic diversity."
+      "caveats": "Open-label design (participants knew their group assignment); 3-year follow-up may not capture longer-term effects; population was predominantly French with limited racial/ethnic diversity.",
+      "score": 87,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 1160,
+      "journal_tier": 1,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 5,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +57,27 @@
       "why_it_matters": "Resting heart rate is an easily measured vital sign that may serve as an early indicator of cognitive aging risk, offering a simple screening opportunity during routine checkups.",
       "story_angle_primary": "Knowing your resting heart rate\u2014something you can check at home or at any doctor's visit\u2014may give you insight into your cognitive health trajectory. If your rate runs high, it may be worth discussing with your physician.",
       "story_angle_secondary": "Senior living communities can incorporate routine heart rate monitoring as part of wellness assessments, flagging consistently elevated readings for follow-up with healthcare providers.",
-      "caveats": "Observational design (cannot establish causation); cognitive decline was defined by test performance, not clinical diagnosis; findings may not generalize to populations with existing cardiovascular or cognitive conditions."
+      "caveats": "Observational design (cannot establish causation); cognitive decline was defined by test performance, not clinical diagnosis; findings may not generalize to populations with existing cardiovascular or cognitive conditions.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +90,28 @@
       "why_it_matters": "Calcification in the body's largest artery\u2014often visible on routine bone density scans\u2014may flag individuals at elevated frailty risk before cardiovascular disease becomes clinically apparent.",
       "story_angle_primary": "If you've had a bone density scan, ask whether aortic calcification was noted. Elevated levels may signal an opportunity to focus on strength, balance, and cardiovascular health before frailty develops.",
       "story_angle_secondary": "Senior living wellness programs and geriatric clinics could use existing imaging data to identify residents who might benefit from targeted exercise and nutritional interventions.",
-      "caveats": "Cross-sectional design (frailty and calcification measured at same time); UK Biobank participants tend to be healthier and less diverse than the general population; frailty was assessed using a modified phenotype, not a comprehensive index."
+      "caveats": "Cross-sectional design (frailty and calcification measured at same time); UK Biobank participants tend to be healthier and less diverse than the general population; frailty was assessed using a modified phenotype, not a comprehensive index.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +124,27 @@
       "why_it_matters": "This study adds to growing evidence that inflammatory signals from fat tissue may contribute to brain health decline, pointing toward potential biomarkers for early risk identification.",
       "story_angle_primary": "Managing inflammation through diet, exercise, and weight control may support both heart and brain health. Discuss with your doctor whether inflammatory markers are worth monitoring.",
       "story_angle_secondary": "Caregivers and senior living nutritionists can emphasize anti-inflammatory dietary patterns\u2014such as the Mediterranean diet used in this study\u2014as a strategy for supporting cognitive health in at-risk residents.",
-      "caveats": "Small sample size (90 dementia cases); observational design (cannot establish causation); participants were at high cardiovascular risk and predominantly Spanish, limiting generalizability."
+      "caveats": "Small sample size (90 dementia cases); observational design (cannot establish causation); participants were at high cardiovascular risk and predominantly Spanish, limiting generalizability.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "case-control",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +157,26 @@
       "why_it_matters": "These findings suggest that detailed lipid profiling in midlife could identify individuals at risk for heart disease decades before symptoms appear, potentially opening new avenues for early prevention.",
       "story_angle_primary": "Standard cholesterol tests capture only part of the picture. Emerging research suggests more detailed lipid analysis might one day help identify heart disease risk earlier\u2014stay informed as these tools develop.",
       "story_angle_secondary": "For families with American Indian heritage or similar cardiovascular risk profiles, advocating for comprehensive cardiovascular screening and healthy lifestyle changes starting in midlife may offer long-term protective benefits.",
-      "caveats": "Findings are from a specific population (American Indians) and may not fully generalize; replication in other cohorts is ongoing; advanced lipid profiling is not yet standard clinical practice."
+      "caveats": "Findings are from a specific population (American Indians) and may not fully generalize; replication in other cohorts is ongoing; advanced lipid profiling is not yet standard clinical practice.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +189,27 @@
       "why_it_matters": "Reducing air pollution exposure may be one of the most equitable population-level strategies for slowing biological aging and preventing age-related diseases, particularly cardiovascular conditions.",
       "story_angle_primary": "Limiting exposure to air pollution\u2014using air purifiers indoors, avoiding outdoor exercise during high-pollution periods, and supporting clean air policies\u2014may help protect your heart and brain as you age.",
       "story_angle_secondary": "Senior living communities should consider air quality management as a component of resident health, including HEPA filtration systems and monitoring local air quality indexes when planning outdoor activities.",
-      "caveats": "Most evidence comes from observational studies; epigenetic clock findings remain inconsistent; many studies were conducted in high-income settings, limiting generalizability to lower-resource communities."
+      "caveats": "Most evidence comes from observational studies; epigenetic clock findings remain inconsistent; many studies were conducted in high-income settings, limiting generalizability to lower-resource communities.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +222,28 @@
       "why_it_matters": "As a widely accessible and culturally familiar food, yogurt represents a practical dietary strategy that may support cardiometabolic health in aging populations, though optimal types and amounts remain to be determined.",
       "story_angle_primary": "Including yogurt as part of a balanced diet may offer digestive and potentially cardiovascular benefits. Look for products with live active cultures and limited added sugars.",
       "story_angle_secondary": "Senior living dining services can incorporate yogurt into meal plans as a protein-rich, probiotic option that supports gut and potentially heart health\u2014consider offering plain or low-sugar varieties.",
-      "caveats": "Narrative review (not a systematic analysis); many health claims require further clinical trial validation; publication fees were provided by the National Dairy Council, though the organization had no role in content."
+      "caveats": "Narrative review (not a systematic analysis); many health claims require further clinical trial validation; publication fees were provided by the National Dairy Council, though the organization had no role in content.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "nutrition",
+        "vision loss"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +256,28 @@
       "why_it_matters": "Beyond glucose control and weight management, these increasingly popular medications may target fundamental aging processes in the heart, though direct evidence in humans remains limited.",
       "story_angle_primary": "If you're considering or already taking a GLP-1 medication for diabetes or weight management, be aware that cardiovascular benefits may extend beyond weight loss\u2014discuss with your doctor how these medications fit into your overall health plan.",
       "story_angle_secondary": "Healthcare providers in senior living settings should stay informed about emerging evidence on GLP-1 medications as potential tools for cardiovascular protection, while awaiting trials with aging-specific endpoints.",
-      "caveats": "No human trial has included a prespecified mitochondrial endpoint; mechanistic evidence comes largely from animal studies; access to these medications remains uneven globally."
+      "caveats": "No human trial has included a prespecified mitochondrial endpoint; mechanistic evidence comes largely from animal studies; access to these medications remains uneven globally.",
+      "score": 69,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "nutrition",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +290,27 @@
       "why_it_matters": "Despite metformin's reputation as a potential \"anti-aging\" drug, definitive evidence for cardiovascular benefits in people without diabetes is still lacking, highlighting the gap between laboratory promise and clinical proof.",
       "story_angle_primary": "While metformin remains an important diabetes medication, taking it specifically to slow aging is not yet supported by strong clinical evidence. Discuss the current state of research with your healthcare provider before considering off-label use.",
       "story_angle_secondary": "Senior living medical teams should be aware that metformin's potential geroprotective effects remain under investigation\u2014current prescribing should focus on established indications rather than speculative anti-aging benefits.",
-      "caveats": "Randomized trials have shown inconsistent cardiovascular results; most evidence comes from observational studies or small trials; optimal dosing for potential anti-aging effects is unknown."
+      "caveats": "Randomized trials have shown inconsistent cardiovascular results; most evidence comes from observational studies or small trials; optimal dosing for potential anti-aging effects is unknown.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +323,27 @@
       "why_it_matters": "As research increasingly links social isolation to cardiovascular outcomes in older adults, this commentary underscores the need for rigorous methods\u2014including longitudinal designs and objective measures\u2014to accurately understand these relationships.",
       "story_angle_primary": "Social connection matters for heart health, but measuring loneliness is complicated. If you feel isolated, reaching out\u2014whether to family, community programs, or mental health professionals\u2014is worthwhile regardless of how researchers define or measure these experiences.",
       "story_angle_secondary": "Senior living communities should recognize that self-reported loneliness measures may not capture the full picture. Comprehensive social wellness programs should be evaluated using multiple approaches, including observation and functional outcomes.",
-      "caveats": "This is a methodological commentary, not original research; the critiqued study involved older adults in Iran with specific cultural context; cross-sectional designs inherently limit conclusions about cause and effect."
+      "caveats": "This is a methodological commentary, not original research; the critiqued study involved older adults in Iran with specific cultural context; cross-sectional designs inherently limit conclusions about cause and effect.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "depression"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +356,29 @@
       "why_it_matters": "Homocysteine is a modifiable risk factor\u2014B vitamins can lower levels\u2014making these findings relevant for cardiovascular and bone health prevention strategies in older adults.",
       "story_angle_primary": "If you've had high homocysteine levels detected on blood tests, work with your doctor on potential interventions such as B vitamin supplementation (folate, B6, B12) alongside cardiovascular risk management.",
       "story_angle_secondary": "Geriatric care teams may consider homocysteine screening in residents with multiple cardiovascular risk factors, fracture history, or kidney disease, as targeted supplementation could be a low-cost intervention.",
-      "caveats": "Umbrella review synthesizes existing meta-analyses (quality varies); most underlying studies are observational (cannot prove causation); whether lowering homocysteine actually reduces disease risk remains debated."
+      "caveats": "Umbrella review synthesizes existing meta-analyses (quality varies); most underlying studies are observational (cannot prove causation); whether lowering homocysteine actually reduces disease risk remains debated.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": 950000,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "falls",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +391,28 @@
       "why_it_matters": "Dietary choices represent a modifiable factor that can either accelerate or slow the inflammatory processes driving many age-related diseases, offering a practical intervention accessible to most older adults.",
       "story_angle_primary": "Emphasizing fruits, vegetables, whole grains, nuts, and omega-3-rich foods while limiting refined sugars and processed foods may help reduce the chronic inflammation associated with aging and age-related diseases.",
       "story_angle_secondary": "Senior living nutrition programs can use evidence-based frameworks like the Dietary Inflammatory Index to guide menu planning, prioritizing anti-inflammatory ingredients that support cardiovascular and cognitive health.",
-      "caveats": "Most evidence comes from observational or short-term intervention studies; long-term effects on lifespan in humans are not established; individual responses to dietary changes vary considerably."
+      "caveats": "Most evidence comes from observational or short-term intervention studies; long-term effects on lifespan in humans are not established; individual responses to dietary changes vary considerably.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +425,27 @@
       "why_it_matters": "Understanding senescence as both a cause and consequence of heart disease opens potential therapeutic targets, though senolytic drugs (which clear senescent cells) remain largely in preclinical stages for cardiovascular applications.",
       "story_angle_primary": "The \"zombie cells\" that accumulate with age may contribute to both cardiovascular disease and its complications. Staying informed about emerging therapies while focusing on established prevention strategies\u2014exercise, healthy diet, not smoking\u2014remains the best approach.",
       "story_angle_secondary": "Senior living medical advisors should track developments in senolytic therapies, which may eventually offer new treatment options for age-related cardiovascular conditions, though clinical translation requires careful attention to timing and patient selection.",
-      "caveats": "Senolytic and senomorphic therapies remain largely preclinical for cardiovascular disease; translation will require attention to disease stage, cell specificity, and patient stratification; mechanistic evidence comes primarily from animal models."
+      "caveats": "Senolytic and senomorphic therapies remain largely preclinical for cardiovascular disease; translation will require attention to disease stage, cell specificity, and patient stratification; mechanistic evidence comes primarily from animal models.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "preclinical",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "polypharmacy"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +458,27 @@
       "why_it_matters": "This study suggests that even with identical genetics and environment, individual aging trajectories diverge dramatically in late life, likely due to random biological processes\u2014challenging deterministic views of aging.",
       "story_angle_primary": "Your aging experience may differ substantially from others, even those with similar backgrounds. This individuality underscores the importance of personalized medical care rather than one-size-fits-all approaches.",
       "story_angle_secondary": "Care teams should recognize that the transition to frailty represents a critical inflection point where cardiovascular compensation yields to decompensation, warranting closer monitoring and potentially more aggressive intervention.",
-      "caveats": "Mouse study (may not directly translate to humans); only male mice studied; laboratory conditions differ from real-world human environments."
+      "caveats": "Mouse study (may not directly translate to humans); only male mice studied; laboratory conditions differ from real-world human environments.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "preclinical",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +491,28 @@
       "why_it_matters": "The gut microbiome emerges as a modifiable factor that may influence multiple age-related conditions simultaneously, offering potential for integrated prevention strategies.",
       "story_angle_primary": "Your gut health may influence your heart and brain health as you age. Dietary fiber, fermented foods, and possibly probiotic supplements may help maintain beneficial gut bacteria\u2014discuss options with your healthcare provider.",
       "story_angle_secondary": "Senior living dietary programs can emphasize gut-friendly foods (fiber-rich vegetables, fermented products) as part of comprehensive wellness approaches targeting multiple age-related health concerns.",
-      "caveats": "Much evidence comes from animal studies or small human trials; cause-and-effect relationships remain difficult to establish; microbiome interventions show highly variable individual responses."
+      "caveats": "Much evidence comes from animal studies or small human trials; cause-and-effect relationships remain difficult to establish; microbiome interventions show highly variable individual responses.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +525,27 @@
       "why_it_matters": "Machine learning tools may eventually help identify frail older adults at highest risk from cardiovascular disease, but the lack of external validation means these algorithms aren't ready for widespread clinical use.",
       "story_angle_primary": "Artificial intelligence may help doctors better predict who needs extra support for heart conditions. While these tools are still being developed, participating in studies or programs using such technology may contribute to faster advances.",
       "story_angle_secondary": "Senior living administrators should approach AI-based frailty screening tools with appropriate skepticism until robust validation studies demonstrate reliability across diverse populations and settings.",
-      "caveats": "Only 3 of 31 studies conducted external validation; 4 reported calibration metrics; heterogeneity in frailty definitions limits comparability; most algorithms have not been tested in real-world clinical settings."
+      "caveats": "Only 3 of 31 studies conducted external validation; 4 reported calibration metrics; heterogeneity in frailty definitions limits comparability; most algorithms have not been tested in real-world clinical settings.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +558,29 @@
       "why_it_matters": "Recognizing connections between heart health, emotional wellbeing, and cognitive function may enable earlier identification of at-risk individuals and support integrated care approaches.",
       "story_angle_primary": "Your emotional health affects your heart, and your heart affects your brain. Addressing depression, anxiety, or chronic stress isn't just about feeling better\u2014it may protect your cardiovascular and cognitive health too.",
       "story_angle_secondary": "Cardiac rehabilitation programs in senior living settings may benefit from incorporating cognitive and emotional assessment, offering comprehensive support rather than addressing each system in isolation.",
-      "caveats": "Conceptual framework based on synthesized evidence; specific causal pathways remain to be definitively established in humans; intervention studies targeting all three domains simultaneously are limited."
+      "caveats": "Conceptual framework based on synthesized evidence; specific causal pathways remain to be definitively established in humans; intervention studies targeting all three domains simultaneously are limited.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +593,26 @@
       "why_it_matters": "Learning why some very old adults avoid common heart rhythm disorders may reveal protective factors that could be targeted through lifestyle or therapeutic interventions.",
       "story_angle_primary": "While AF becomes more common with age, some extremely long-lived individuals seem protected. Managing inflammation through diet, exercise, and stress reduction may support heart rhythm health, though more research is needed.",
       "story_angle_secondary": "Senior living communities can emphasize comprehensive anti-inflammatory and fitness programs as potential contributors to cardiovascular resilience, while recognizing that individual genetic factors also play important roles.",
-      "caveats": "Centenarian studies involve survivor bias (only the healthiest survive to be studied); mechanistic insights come largely from experimental models; translating \"healthy aging\" phenotypes into interventions remains challenging."
+      "caveats": "Centenarian studies involve survivor bias (only the healthiest survive to be studied); mechanistic insights come largely from experimental models; translating \"healthy aging\" phenotypes into interventions remains challenging.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +625,27 @@
       "why_it_matters": "Despite widespread concerns about \"statin brain fog,\" current evidence does not support stopping statins solely due to cognitive worries, though individualized decisions remain important, especially for those with pre-existing cognitive impairment.",
       "story_angle_primary": "If you've worried about statins affecting your memory, current research is reassuring\u2014most studies find no clear harm, and some suggest possible protection. Discuss any concerns with your doctor rather than stopping medication on your own.",
       "story_angle_secondary": "Healthcare providers should address cognitive concerns about statins with evidence while awaiting results from ongoing trials specifically designed to answer this question in older populations.",
-      "caveats": "Narrative review (not systematic); older adults remain underrepresented in trials with cognitive outcomes; real-world evidence is limited by confounding; definitive trials are ongoing but not yet complete."
+      "caveats": "Narrative review (not systematic); older adults remain underrepresented in trials with cognitive outcomes; real-world evidence is limited by confounding; definitive trials are ongoing but not yet complete.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [

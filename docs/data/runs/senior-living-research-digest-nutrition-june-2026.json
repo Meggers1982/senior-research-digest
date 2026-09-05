@@ -24,7 +24,26 @@
       "why_it_matters": "This is one of the first studies to show that measurable shifts in biological aging markers can occur within just four weeks of dietary change\u2014suggesting diet modifications may have rapid physiological effects worth exploring further.",
       "story_angle_primary": "Modest dietary tweaks\u2014like increasing carbohydrate-rich whole foods\u2014might produce measurable changes in your body's aging markers within a month. This isn't proof of \"turning back the clock,\" but it suggests your body responds quickly to what you eat.",
       "story_angle_secondary": "Senior living dining programs might consider offering diverse menu options that allow residents to experiment with different dietary patterns; even short-term changes may yield physiological responses worth monitoring.",
-      "caveats": "Small sample (N=104); short 4-week intervention cannot establish long-term health effects; changes may reflect acute physiological responses rather than true aging trajectory shifts; single-center study."
+      "caveats": "Small sample (N=104); short 4-week intervention cannot establish long-term health effects; changes may reflect acute physiological responses rather than true aging trajectory shifts; single-center study.",
+      "score": 89,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": 104,
+      "journal_tier": 2,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 4,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 2,
@@ -37,7 +56,26 @@
       "why_it_matters": "This large, nationally representative study suggests that eating to support gut health\u2014emphasizing fiber, fermented foods, and diverse plant foods\u2014may translate into meaningful longevity benefits, potentially through slowing biological aging.",
       "story_angle_primary": "Foods that nourish your gut bacteria\u2014like vegetables, whole grains, legumes, and fermented foods\u2014were associated with living longer in this study. Small additions like a daily serving of yogurt or extra vegetables may be worth considering.",
       "story_angle_secondary": "Families and senior living food service teams might prioritize menu diversity and fiber-rich options; this research adds to evidence that gut-friendly eating patterns are associated with healthier aging trajectories.",
-      "caveats": "Observational design (cannot prove diet caused longevity benefits); self-reported dietary data; U.S. population may not generalize globally."
+      "caveats": "Observational design (cannot prove diet caused longevity benefits); self-reported dietary data; U.S. population may not generalize globally.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 15810,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 3,
@@ -50,7 +88,26 @@
       "why_it_matters": "This provides the first detailed dietary profile of people from exceptionally long-lived families, offering clues about eating patterns that may support longevity\u2014while also identifying improvement areas even in this select group.",
       "story_angle_primary": "Even people from families known for exceptional longevity have room for improvement\u2014particularly with whole grains and legumes. If you're looking to optimize your diet, these are areas to consider boosting.",
       "story_angle_secondary": "These findings can guide nutrition education in senior communities; emphasizing whole grains and legumes alongside the fruits and vegetables most older adults already prioritize could help close common dietary gaps.",
-      "caveats": "Cross-sectional (diet measured at one point); centenarian offspring may have genetic advantages that limit generalizability; self-reported food questionnaire."
+      "caveats": "Cross-sectional (diet measured at one point); centenarian offspring may have genetic advantages that limit generalizability; self-reported food questionnaire.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 4,
@@ -63,7 +120,27 @@
       "why_it_matters": "Across multiple validated dietary frameworks, the message is consistent: better diet quality is linked to staying stronger and more independent longer. This holds true even when accounting for regional dietary traditions.",
       "story_angle_primary": "Whether you follow Mediterranean principles, DASH guidelines, or simply emphasize plants and whole foods, the pattern matters more than perfection. Consistently choosing nutrient-dense foods may help you maintain strength and function as you age.",
       "story_angle_secondary": "Care providers working with diverse populations can feel confident recommending multiple healthy dietary approaches; the benefits appear consistent across different cultural eating traditions.",
-      "caveats": "Observational study; China-specific population; frailty assessed by questionnaire-based index rather than clinical evaluation."
+      "caveats": "Observational study; China-specific population; frailty assessed by questionnaire-based index rather than clinical evaluation.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 5,
@@ -76,7 +153,27 @@
       "why_it_matters": "This clever use of historical rationing as a \"natural experiment\" suggests that very early nutritional environments may have lifelong consequences for healthy aging\u2014a finding with implications for public health recommendations about infant and prenatal nutrition.",
       "story_angle_primary": "While you can't change your early-life diet, this study adds to evidence that nutrition matters across the entire lifespan. For those advising younger family members about infant and childhood feeding, limiting added sugars may have long-term benefits.",
       "story_angle_secondary": "This research underscores that frailty prevention may need to start much earlier than previously thought; it also suggests that today's older adults who grew up during rationing periods may have some nutritional advantages.",
-      "caveats": "Observational/quasi-experimental design; relies on birth-date exposure rather than measured intake; UK population; cannot rule out other factors associated with the rationing era."
+      "caveats": "Observational/quasi-experimental design; relies on birth-date exposure rather than measured intake; UK population; cannot rule out other factors associated with the rationing era.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "observational",
+      "sample_size": 63793,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 6,
@@ -89,7 +186,27 @@
       "why_it_matters": "This challenges the assumption that protein intake alone is sufficient to prevent age-related frailty, suggesting that multiple factors beyond protein\u2014such as physical activity, overall diet quality, or other health conditions\u2014likely play important roles.",
       "story_angle_primary": "Getting enough protein remains important, but this study suggests it may not be a silver bullet against frailty. A comprehensive approach including exercise, social engagement, and overall diet quality may be more protective than focusing on protein alone.",
       "story_angle_secondary": "Caregivers and senior living nutrition staff shouldn't rely solely on protein supplementation strategies; integrated approaches addressing multiple frailty risk factors may be more effective.",
-      "caveats": "Small sample (N=130); single-country population; observational design; protein intake measured by 24-hour recall (may not capture usual intake accurately)."
+      "caveats": "Small sample (N=130); single-country population; observational design; protein intake measured by 24-hour recall (may not capture usual intake accurately).",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 130,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 7,
@@ -102,7 +219,27 @@
       "why_it_matters": "This is one of the first studies to demonstrate that combined oral health and nutrition education can measurably reduce frailty indicators, highlighting the often-overlooked connection between mouth health and overall aging.",
       "story_angle_primary": "Your mouth health affects your whole body's strength and function. Paying attention to chewing ability, getting regular dental care, and practicing oral exercises may help you stay independent longer.",
       "story_angle_secondary": "Senior living communities might consider integrating oral health programming with nutrition services; this study suggests the combination may be more powerful than either alone for preventing functional decline.",
-      "caveats": "No control group (pre-post design); Japan-specific population; self-selected participants may be more health-motivated; 6-month follow-up."
+      "caveats": "No control group (pre-post design); Japan-specific population; self-selected participants may be more health-motivated; 6-month follow-up.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 8,
@@ -115,7 +252,27 @@
       "why_it_matters": "This study identifies modifiable factors\u2014diet quality and muscle power\u2014that can be assessed without expensive equipment and may help identify people at risk for mobility decline before problems become severe.",
       "story_angle_primary": "Two things you can work on today may help protect your mobility years from now: following Mediterranean-style eating patterns and maintaining leg strength. A simple sit-to-stand test can give you a sense of your current muscle power.",
       "story_angle_secondary": "Primary care providers and senior living staff could use simple assessments of diet quality and sit-to-stand performance to flag residents at higher risk for mobility decline, enabling earlier intervention.",
-      "caveats": "Single Chinese cohort; predictive model needs validation in other populations; observational design; industry co-funding (Nestl\u00e9)."
+      "caveats": "Single Chinese cohort; predictive model needs validation in other populations; observational design; industry co-funding (Nestl\u00e9).",
+      "score": 76,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 1344,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 9,
@@ -128,7 +285,28 @@
       "why_it_matters": "This study reveals an underappreciated consequence of muscle loss: chronic pain. Maintaining muscle through nutrition and exercise may help prevent not just weakness and falls, but also the development of persistent pain conditions.",
       "story_angle_primary": "Keeping your muscles strong isn't just about staying mobile\u2014it may also help you avoid chronic pain. Resistance exercise and adequate protein intake are your best tools for maintaining muscle as you age.",
       "story_angle_secondary": "Pain management in senior living settings might benefit from upstream prevention through strength-building programs; addressing muscle loss early could reduce later pain burden.",
-      "caveats": "Observational study (cannot prove muscle loss causes pain); self-reported pain; China-specific population; sarcopenia definition may differ from clinical standards."
+      "caveats": "Observational study (cannot prove muscle loss causes pain); self-reported pain; China-specific population; sarcopenia definition may differ from clinical standards.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 3148,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 10,
@@ -141,7 +319,28 @@
       "why_it_matters": "This highlights the connection between metabolic health and muscle health\u2014managing blood sugar through diet, medication, and exercise may help preserve muscle mass and strength in addition to preventing diabetic complications.",
       "story_angle_primary": "If you have diabetes or prediabetes, managing your blood sugar may help protect your muscles, not just your heart and kidneys. Regular exercise appears doubly important\u2014it helps both blood sugar and muscle mass.",
       "story_angle_secondary": "Senior living health programs might integrate blood sugar monitoring with strength and mobility assessments; residents with poor glycemic control may benefit from enhanced exercise programming.",
-      "caveats": "Cross-sectional design (cannot establish causation); Korean population; sarcopenia definition specific to Asian populations."
+      "caveats": "Cross-sectional design (cannot establish causation); Korean population; sarcopenia definition specific to Asian populations.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 11,
@@ -154,7 +353,28 @@
       "why_it_matters": "This comprehensive analysis confirms that exercise and nutrition work better together than either alone, and that variety in exercise types produces superior results to single-modality programs.",
       "story_angle_primary": "The most effective approach combines different types of exercise\u2014strength, cardio, and balance\u2014along with good nutrition. If you're only walking or only lifting weights, adding variety may boost your results.",
       "story_angle_secondary": "Senior living fitness programs should consider integrating nutritional counseling with multicomponent exercise classes; this combination appears more effective than exercise-only approaches for maintaining resident strength and mobility.",
-      "caveats": "Meta-analysis quality depends on included studies; specific nutritional support varied across trials; optimal \"dose\" of each component unclear."
+      "caveats": "Meta-analysis quality depends on included studies; specific nutritional support varied across trials; optimal \"dose\" of each component unclear.",
+      "score": 78,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 12,
@@ -167,7 +387,27 @@
       "why_it_matters": "This demonstrates that consumer-grade wearable technology can provide meaningful health insights for older adults, potentially enabling early detection of frailty and nutritional problems without frequent clinic visits.",
       "story_angle_primary": "Wearable fitness trackers aren't just for athletes\u2014they may help you and your healthcare team spot early signs of frailty or nutritional problems. Most older adults in this study found the devices comfortable and easy to use.",
       "story_angle_secondary": "Senior living communities might explore wearable technology programs for residents; activity data correlates with frailty status and could enable earlier intervention for declining residents.",
-      "caveats": "Industry-funded (Pfizer); small sample; cross-sectional design; participants may have been more tech-comfortable than average."
+      "caveats": "Industry-funded (Pfizer); small sample; cross-sectional design; participants may have been more tech-comfortable than average.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 13,
@@ -180,7 +420,27 @@
       "why_it_matters": "This study exposes a gap between older adults' nutritional needs and the practical constraints of home care funding systems, suggesting policy changes may be needed to ensure nutrition isn't sacrificed for other care priorities.",
       "story_angle_primary": "If you're receiving home care services, know that nutrition support may be available but often competes with other needs for limited funding. Advocating for your nutritional needs with your care coordinator is important.",
       "story_angle_secondary": "Families helping elders navigate home care should specifically ask about nutrition services and consider whether current funding allocation adequately supports dietary health alongside other care needs.",
-      "caveats": "Small qualitative sample (N=15); Australian-specific policy context; self-selected participants willing to be interviewed."
+      "caveats": "Small qualitative sample (N=15); Australian-specific policy context; self-selected participants willing to be interviewed.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": 15,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 14,
@@ -193,7 +453,28 @@
       "why_it_matters": "This demonstrates that comprehensive education programs can effectively prepare midlife women both to maintain their own health and to care for aging family members\u2014addressing the dual challenges many face during this life stage.",
       "story_angle_primary": "Educational programs covering multiple health topics\u2014from nutrition to bladder health to dementia care\u2014can build your confidence in managing your own health and helping family members. Look for comprehensive wellness programs in your community.",
       "story_angle_secondary": "Senior living organizations might consider extending programming to middle-aged family members of residents; education that addresses both self-care and caregiving may improve outcomes across generations.",
-      "caveats": "No control group; Hong Kong-specific population; self-reported outcomes; participants self-selected into program."
+      "caveats": "No control group; Hong Kong-specific population; self-reported outcomes; participants self-selected into program.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 15,
@@ -206,7 +487,27 @@
       "why_it_matters": "This suggests that plant foods containing phytoestrogens\u2014soy products, flaxseed, and whole grains\u2014may have muscle-protective effects, potentially offering a dietary strategy for sarcopenia prevention.",
       "story_angle_primary": "Plant foods rich in phytoestrogens\u2014like tofu, edamame, flaxseed, and whole grains\u2014may help protect your muscles as you age. The effects may differ between men and women, but both appear to benefit from these foods.",
       "story_angle_secondary": "Senior living menus might consider incorporating more phytoestrogen-rich foods; this research adds to evidence that plant-based proteins may offer specific benefits for preserving muscle mass in older adults.",
-      "caveats": "Cross-sectional design; urinary phytoestrogens reflect recent intake, not long-term diet; older NHANES data (2001\u20132006); U.S. population."
+      "caveats": "Cross-sectional design; urinary phytoestrogens reflect recent intake, not long-term diet; older NHANES data (2001\u20132006); U.S. population.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 16,
@@ -219,7 +520,26 @@
       "why_it_matters": "While clinical trials are still needed, this review highlights ergothioneine as an emerging candidate for nutritional support of healthy aging, with mushrooms being the most accessible dietary source.",
       "story_angle_primary": "Mushrooms contain a unique compound\u2014ergothioneine\u2014that your body specifically absorbs and retains in vulnerable tissues. While we need more human research, adding mushrooms to your diet is a low-risk way to increase your intake of this potentially beneficial compound.",
       "story_angle_secondary": "Senior living culinary teams might consider featuring mushrooms more prominently on menus; they're an affordable, accessible source of a compound increasingly studied for its anti-aging potential.",
-      "caveats": "Review article, not original research; most evidence is preclinical (animal or cell studies); human clinical trials for anti-aging effects are lacking."
+      "caveats": "Review article, not original research; most evidence is preclinical (animal or cell studies); human clinical trials for anti-aging effects are lacking.",
+      "score": 84,
+      "band": "Lead",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 17,
@@ -232,7 +552,27 @@
       "why_it_matters": "This reveals that different types of dementia may have different underlying metabolic characteristics, suggesting that one-size-fits-all nutritional approaches may be less effective than tailored strategies based on dementia type.",
       "story_angle_primary": "Different types of dementia may respond differently to dietary changes. If you or a loved one has been diagnosed, discussing the specific type with your healthcare provider may help guide more personalized nutrition recommendations.",
       "story_angle_secondary": "Memory care nutrition programs might eventually need to consider dementia subtype; this research suggests Lewy body dementia and Alzheimer's may have different metabolic profiles requiring different dietary approaches.",
-      "caveats": "Small sample; cross-sectional design; mild dementia only; Norwegian population; clinical implications remain speculative."
+      "caveats": "Small sample; cross-sectional design; mild dementia only; Norwegian population; clinical implications remain speculative.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 133,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 18,
@@ -245,7 +585,26 @@
       "why_it_matters": "For older cancer patients, this suggests that stent choice affects more than just local disease control\u2014it may influence systemic nutritional status and potentially survival, highlighting the importance of nutrition monitoring in cancer care.",
       "story_angle_primary": "If you face decisions about cancer treatment procedures, ask your doctor how different options might affect your nutritional status and recovery\u2014not just the cancer itself.",
       "story_angle_secondary": "Geriatric oncology care should integrate nutritional monitoring as a key outcome measure; this study shows that treatment choices can significantly impact nutritional recovery markers that predict survival.",
-      "caveats": "Single-center; observational (not randomized); China-specific population; relatively small sample; survival not significantly different between groups."
+      "caveats": "Single-center; observational (not randomized); China-specific population; relatively small sample; survival not significantly different between groups.",
+      "score": 80,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 19,
@@ -258,7 +617,26 @@
       "why_it_matters": "This suggests that when you eat\u2014not just what you eat\u2014may affect how your body ages, with implications for both meal timing and work schedule considerations.",
       "story_angle_primary": "Spreading your meals across a moderate window (roughly 12\u201314 hours) may be healthier than either cramming all eating into a short period or grazing across very long hours. Consistency in meal timing could support healthier aging.",
       "story_angle_secondary": "Senior living dining schedules might consider offering food access across a reasonable but not excessive time window; very early meal cutoffs or 24-hour snack availability may both have downsides.",
-      "caveats": "Cross-sectional design; eating duration calculated from single-day recall; working population (not specifically older adults); biological age estimated from biomarkers."
+      "caveats": "Cross-sectional design; eating duration calculated from single-day recall; working population (not specifically older adults); biological age estimated from biomarkers.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 20,
@@ -271,7 +649,27 @@
       "why_it_matters": "This provides reassurance that older adults don't need to stress about precise breakfast timing for heart health\u2014eating habits can be flexible based on individual preference and lifestyle.",
       "story_angle_primary": "If you've worried about \"perfect\" breakfast timing, this long-term study suggests it doesn't meaningfully affect your heart disease risk. Eat breakfast when it works for you.",
       "story_angle_secondary": "Senior living meal scheduling can prioritize resident preferences over rigid timing rules; this research suggests flexibility in breakfast hours is unlikely to harm cardiovascular health.",
-      "caveats": "Observational study; breakfast habits self-reported at one time point; primarily white American population; subgroup findings require replication."
+      "caveats": "Observational study; breakfast habits self-reported at one time point; primarily white American population; subgroup findings require replication.",
+      "score": 71,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "nutrition"
+      ],
+      "covered_by": []
     },
     {
       "number": 21,
@@ -284,7 +682,28 @@
       "why_it_matters": "For the growing number of people with overlapping heart, kidney, and metabolic conditions, frailty assessment provides crucial prognostic information beyond traditional disease measures\u2014and is potentially modifiable through nutrition and exercise interventions.",
       "story_angle_primary": "If you have multiple chronic conditions affecting your heart, kidneys, or metabolism, your overall frailty status may be more important than any single condition. Ask your doctor about assessing and addressing frailty.",
       "story_angle_secondary": "Clinical care for complex patients should systematically assess frailty; this research confirms it's a powerful predictor of outcomes and identifies patients who might benefit most from intensive supportive care.",
-      "caveats": "Cross-sectional frailty measurement; CKM syndrome is a newly defined condition; U.S. population; observational design."
+      "caveats": "Cross-sectional frailty measurement; CKM syndrome is a newly defined condition; U.S. population; observational design.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 4,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 22,
@@ -297,7 +716,28 @@
       "why_it_matters": "Beyond the known respiratory risks of this drug combination, this study reveals a strong association with frailty\u2014raising questions about whether these medications contribute to physical decline or are simply markers of underlying vulnerability.",
       "story_angle_primary": "If you take both opioid pain medications and benzodiazepines (like Valium or Xanax) regularly, discuss with your doctor whether this combination might be contributing to weakness or physical decline. Safer alternatives may be available.",
       "story_angle_secondary": "Deprescribing efforts in senior living settings should particularly target opioid-benzodiazepine combinations; beyond respiratory risks, this drug pairing may accelerate functional decline.",
-      "caveats": "Cross-sectional (cannot determine if drugs cause frailty or frail people receive these drugs); self-reported medication use; residual confounding possible despite adjustments."
+      "caveats": "Cross-sectional (cannot determine if drugs cause frailty or frail people receive these drugs); self-reported medication use; residual confounding possible despite adjustments.",
+      "score": 64,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "polypharmacy",
+        "sarcopenia"
+      ],
+      "covered_by": []
     },
     {
       "number": 23,
@@ -310,7 +750,26 @@
       "why_it_matters": "",
       "story_angle_primary": "",
       "story_angle_secondary": "",
-      "caveats": ""
+      "caveats": "",
+      "score": 47,
+      "band": "Background",
+      "evidence_type": "preclinical",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "",
+      "components": {
+        "evidence_type": 1,
+        "coverage_gap": null,
+        "journal_tier": 3,
+        "recency": 5,
+        "sample_size": 2,
+        "accuracy": 0
+      },
+      "verdict": "\u274c Significant issues",
+      "tags": [
+        "nutrition"
+      ],
+      "covered_by": []
     }
   ],
   "citation_table": [],

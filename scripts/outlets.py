@@ -25,23 +25,58 @@ B2C_PATH = REPO_ROOT / "config" / "media" / "b2c_publications.csv"
 B2B_PATH = REPO_ROOT / "config" / "media" / "b2b_publications.csv"
 TIER_RANK = {"Tier 1": 0, "Tier 2": 1, "Tier 3": 2, "Tier 4": 3, "Watchlist": 4}
 
-# A clinical focus maps onto the subjects publications actually name.
+# A clinical focus maps onto the subjects publications actually name. Terms are
+# split because the distinction decides the ranking: nearly every publication in
+# both registries covers "health" and "aging", so a list made only of those puts
+# every outlet in the top band and the suggestion degrades to "any generalist".
+# Only a SPECIFIC hit earns the top band.
 TOPIC_TERMS = {
-    "dementia": ["dementia", "alzheim", "memory care", "cognitive", "caregiv"],
-    "cognitive decline": ["dementia", "alzheim", "cognitive", "brain"],
-    "falls": ["caregiv", "safety", "aging", "home", "mobility", "senior living"],
-    "osteoporosis": ["health", "aging", "women", "wellness", "fitness"],
-    "sarcopenia": ["health", "fitness", "aging", "nutrition", "wellness"],
-    "cardiovascular disease": ["health", "aging", "wellness"],
-    "depression": ["mental health", "health", "caregiv", "aging"],
-    "nutrition": ["nutrition", "food", "dining", "health", "wellness"],
-    "sleep": ["health", "wellness", "aging"],
-    "palliative care": ["hospice", "palliative", "end of life", "caregiv", "health"],
-    "polypharmacy": ["health", "medicare", "pharmacy", "caregiv", "clinical"],
-    "hearing loss": ["health", "aging", "technology", "wellness"],
-    "vision loss": ["health", "aging", "wellness"],
-    "chronic pain": ["health", "wellness", "aging"],
-    "incontinence": ["health", "caregiv", "senior living", "clinical"],
+    "dementia": {
+        "specific": ["dementia", "alzheim", "memory care", "cognitive", "brain"],
+        "general": ["caregiv", "health", "aging"]},
+    "cognitive decline": {
+        "specific": ["dementia", "alzheim", "cognitive", "brain", "memory"],
+        "general": ["caregiv", "health", "aging"]},
+    "falls": {
+        "specific": ["safety", "mobility", "fall", "home care", "rehab"],
+        "general": ["caregiv", "aging", "senior living", "home"]},
+    "osteoporosis": {
+        "specific": ["bone", "women", "fitness", "exercise", "orthopedic"],
+        "general": ["health", "aging", "wellness"]},
+    "sarcopenia": {
+        "specific": ["fitness", "exercise", "nutrition", "muscle", "rehab"],
+        "general": ["health", "aging", "wellness"]},
+    "cardiovascular disease": {
+        "specific": ["heart", "cardiac", "cardiovascular", "stroke", "clinical"],
+        "general": ["health", "aging", "wellness"]},
+    "depression": {
+        "specific": ["mental health", "behavioral", "psych", "loneliness", "social"],
+        "general": ["caregiv", "health", "aging"]},
+    "nutrition": {
+        "specific": ["nutrition", "food", "dining", "diet", "culinary"],
+        "general": ["health", "wellness", "aging"]},
+    "sleep": {
+        "specific": ["sleep", "insomnia", "clinical", "behavioral"],
+        "general": ["health", "wellness", "aging"]},
+    "palliative care": {
+        "specific": ["hospice", "palliative", "end of life", "grief", "advance care"],
+        "general": ["caregiv", "health", "clinical"]},
+    "polypharmacy": {
+        "specific": ["pharmacy", "medication", "medicare", "clinical", "prescri"],
+        "general": ["health", "caregiv", "aging"]},
+    "hearing loss": {
+        "specific": ["hearing", "audio", "technology", "device", "assistive"],
+        "general": ["health", "aging", "wellness"]},
+    "vision loss": {
+        "specific": ["vision", "eye", "low vision", "assistive", "technology"],
+        "general": ["health", "aging", "wellness"]},
+    # Not in the rotation; reachable only through a DIGEST_FOCUS override.
+    "chronic pain": {
+        "specific": ["pain", "rehab", "clinical", "therapy"],
+        "general": ["health", "wellness", "aging"]},
+    "incontinence": {
+        "specific": ["continence", "clinical", "nursing", "products"],
+        "general": ["health", "caregiv", "senior living"]},
 }
 GENERAL_TERMS = ["aging", "caregiv", "health", "senior"]
 
@@ -73,26 +108,51 @@ def _load(path: str, audience: str) -> tuple[dict, ...]:
                     "score": _int(row.get("Total Score")),
                     "data_fit": _int(row.get("Data-Story Fit (1-5)")),
                 })
-    except OSError:
-        return ()
+    except OSError as exc:
+        # Returning () here meant a renamed or missing CSV produced a run with no
+        # pitch targets, no error, and nothing to notice.
+        raise RuntimeError(f"publisher registry unreadable: {path}") from exc
+    if not rows:
+        raise RuntimeError(f"publisher registry is empty: {path}")
     return tuple(rows)
 
 
-def _terms_for(subject_focus: str) -> list[str]:
+def _stems(text: str) -> set:
+    """Words, with a trailing plural "s" dropped so "fall" reaches "falls"."""
+    return {w[:-1] if len(w) > 3 and w.endswith("s") else w
+            for w in re.findall(r"[a-z]+", (text or "").lower())}
+
+
+def _terms_for(subject_focus: str) -> dict:
+    """(specific, general) terms for a focus.
+
+    Matching is on whole words, not raw substrings. `key in focus or focus in
+    key` also fired on fragments -- a focus of "ear" matched nothing sensible but
+    a focus of "pain" would have picked up "chronic pain" either way, and there
+    was no test to say which was intended.
+    """
     focus = (subject_focus or "").strip().lower()
     if not focus:
-        return list(GENERAL_TERMS)
+        return {"specific": [], "general": list(GENERAL_TERMS)}
+    focus_words = _stems(focus)
     for key, terms in TOPIC_TERMS.items():
-        if key in focus or focus in key:
+        # The focus has to contain the whole key, not merely share a word with
+        # it: "care" is not "palliative care", but "sleep quality" is "sleep"
+        # and "fall" is "falls".
+        if _stems(key) <= focus_words:
             return terms
-    # An unmapped focus still has its own words worth trying.
-    words = [w for w in re.findall(r"[a-z]+", focus) if len(w) > 4]
-    return words + GENERAL_TERMS
+    # An unmapped focus still has its own words worth trying, and they are the
+    # most specific thing available.
+    words = [w for w in focus_words if len(w) > 4]
+    return {"specific": words, "general": list(GENERAL_TERMS)}
 
 
-def _relevance(row: dict, terms: list[str]) -> int:
+def _relevance(row: dict, terms: dict) -> tuple[int, int]:
+    """(specific hits, general hits) against what the outlet says it covers."""
     blob = f"{row['coverage']} {row['category']} {row['publisher']}".lower()
-    return sum(1 for t in terms if t in blob)
+    specific = sum(1 for t in terms.get("specific", []) if t in blob)
+    general = sum(1 for t in terms.get("general", []) if t in blob)
+    return specific, general
 
 
 def suggest(subject_focus: str, audience: str, limit: int = 4,
@@ -111,16 +171,26 @@ def suggest(subject_focus: str, audience: str, limit: int = 4,
 
     scored = [(_relevance(r, terms), r) for r in rows
               if r["publisher"].lower() not in excluded]
-    matched = [(n, r) for n, r in scored if n > 0]
-    pool = matched or [(1, r) for _, r in scored if TIER_RANK.get(r["tier"], 9) <= 1]
+    matched = [(hits, r) for hits, r in scored if hits[0] or hits[1]]
+    pool = matched or [((0, 0), r) for _, r in scored
+                       if TIER_RANK.get(r["tier"], 9) <= 1]
 
     # Relevance bands rather than ranks directly. Ranking on the raw hit count
     # put Watchlist fitness titles above Next Avenue for osteoporosis; ranking on
     # data fit alone dropped Being Patient off a dementia run. Banding keeps a
     # topical specialist ahead of a generalist, then orders by how well the
     # outlet takes a data story.
-    def band(hits: int) -> int:
-        return 0 if hits >= 2 else 1
+    #
+    # The top band needs a *specific* hit. Two general hits used to be enough,
+    # and since almost every publication in both registries covers "health" and
+    # "aging", that put nearly all of them in band 0 for every clinical topic.
+    def band(hits: tuple[int, int]) -> int:
+        specific, general = hits
+        if specific >= 2:
+            return 0
+        if specific == 1:
+            return 1
+        return 2 if general >= 2 else 3
 
     pool.sort(key=lambda pair: (
         band(pair[0]), -pair[1]["data_fit"], TIER_RANK.get(pair[1]["tier"], 9),

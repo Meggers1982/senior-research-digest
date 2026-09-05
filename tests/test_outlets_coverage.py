@@ -1,3 +1,4 @@
+import json
 import sys
 import unittest
 from pathlib import Path
@@ -95,3 +96,78 @@ class CoverageGateTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SpecificityTests(unittest.TestCase):
+    """Nearly every publication in both registries covers "health" and "aging".
+
+    A topic whose term list was made only of those put every outlet in the top
+    band, so the suggestion degraded to "any generalist" for every clinical run.
+    The top band now needs a topic-specific hit.
+    """
+
+    def test_a_topical_specialist_beats_a_generalist(self):
+        cases = {
+            ("dementia", "b2c"): "Being Patient",
+            ("palliative care", "b2b"): "Hospice News",
+            ("nutrition", "b2b"): "Food Management",
+        }
+        for (focus, audience), expected in cases.items():
+            names = [r["publisher"] for r in outlets.suggest(focus, audience, limit=3)]
+            self.assertIn(expected, names, f"{focus}/{audience}: {names}")
+
+    def test_different_topics_do_not_return_the_same_list(self):
+        """The symptom the split was meant to cure."""
+        seen = {}
+        for focus in ("dementia", "nutrition", "palliative care", "osteoporosis"):
+            seen[focus] = tuple(r["publisher"] for r in outlets.suggest(focus, "b2c", limit=3))
+        self.assertEqual(len(set(seen.values())), len(seen), seen)
+
+    def test_every_rotation_topic_has_a_term_mapping(self):
+        """An unmapped topic silently falls back to its own words plus
+        generalists, which is exactly the behaviour this class exists to stop."""
+        config = json.loads(
+            (Path(__file__).resolve().parent.parent / "config" / "digest_config.json")
+            .read_text(encoding="utf-8")
+        )
+        for topic in config["focus_rotation"]:
+            if not topic:
+                continue
+            self.assertIn(topic, outlets.TOPIC_TERMS, topic)
+
+    def test_every_mapping_has_both_kinds_of_term(self):
+        for topic, terms in outlets.TOPIC_TERMS.items():
+            self.assertTrue(terms.get("specific"), topic)
+            self.assertTrue(terms.get("general"), topic)
+
+    def test_a_specific_term_is_not_secretly_a_general_one(self):
+        generic = {"health", "aging", "wellness", "senior"}
+        for topic, terms in outlets.TOPIC_TERMS.items():
+            self.assertEqual(set(terms["specific"]) & generic, set(), topic)
+
+
+class TermLookupTests(unittest.TestCase):
+    def test_a_focus_matches_its_own_key(self):
+        self.assertEqual(
+            outlets._terms_for("palliative care"), outlets.TOPIC_TERMS["palliative care"])
+
+    def test_matching_is_on_whole_words_not_raw_substrings(self):
+        """`key in focus or focus in key` matched fragments; a focus of "care"
+        should not silently become "palliative care"."""
+        self.assertNotEqual(
+            outlets._terms_for("care"), outlets.TOPIC_TERMS["palliative care"])
+
+    def test_an_unmapped_focus_still_gets_its_own_words_as_specific(self):
+        terms = outlets._terms_for("hydration")
+        self.assertIn("hydration", terms["specific"])
+
+    def test_an_empty_focus_has_no_specific_terms(self):
+        self.assertEqual(outlets._terms_for("")["specific"], [])
+
+
+class RegistryFailureTests(unittest.TestCase):
+    def test_a_missing_registry_fails_loudly(self):
+        """It used to return (), so a renamed CSV produced a run with no pitch
+        targets, no error, and nothing to notice."""
+        with self.assertRaises(RuntimeError):
+            outlets._load("/nonexistent/publications.csv", "b2c")

@@ -171,3 +171,19 @@ class RegistryFailureTests(unittest.TestCase):
         targets, no error, and nothing to notice."""
         with self.assertRaises(RuntimeError):
             outlets._load("/nonexistent/publications.csv", "b2c")
+
+
+class RotationConsistencyTests(unittest.TestCase):
+    """`main.py` carries a fallback copy of the rotation and the config carries
+    the live one. The config wins in normal operation, so a stale fallback sits
+    there untested until the day the config is missing and it is suddenly the
+    only list. Keep them equal instead."""
+
+    def test_the_fallback_rotation_matches_the_config(self):
+        sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+        import main
+        config = json.loads(
+            (Path(__file__).resolve().parent.parent / "config" / "digest_config.json")
+            .read_text(encoding="utf-8")
+        )
+        self.assertEqual(main.DEFAULT_FOCUS_ROTATION, config["focus_rotation"])

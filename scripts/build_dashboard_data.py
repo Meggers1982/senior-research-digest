@@ -25,11 +25,40 @@ CITATION_ROW_RE = re.compile(
     re.MULTILINE,
 )
 FACT_CHECK_VERDICT_RE = re.compile(
-    r"### Study \d+:.*?\n\*\*PMID:\*\*\s*(\d+)\s*\|\s*\*\*Verdict:\*\*\s*([^\n]+)"
+    r"^#{2,4}\s*Study\s*\d+:[^\n]*\n+\*\*PMID:\*\*\s*(\d+)\s*\|\s*"
+    r"\*\*Verdict:\*\*\s*([^\n]+)",
+    re.MULTILINE,
 )
 FACT_CHECK_SUMMARY_RE = re.compile(
     r"\*\*Total issues:\*\*\s*([^\n]+)\n\*\*Entries requiring revision:\*\*\s*([^\n]+)\n\*\*Entries cleared:\*\*\s*([^\n]+)"
 )
+
+
+# outputs/ is not exclusively digests -- topic_demand.py writes its report there
+# too, and the "*.md" glob was turning it into a dateless, studyless ghost run.
+DIGEST_TITLE_PREFIX = "Senior Living Research Digest"
+
+
+def is_digest(path: Path) -> bool:
+    """A digest is identified by its own header, not by its filename, so a
+    renamed file still parses and a new report dropped into outputs/ does not
+    become a run."""
+    if path.name.endswith("Fact Check.md"):
+        return False
+    try:
+        head = path.read_text(encoding="utf-8")[:2000]
+    except OSError:
+        return False
+    return DIGEST_TITLE_PREFIX.lower() in head.lower() and "**Run date:**" in head
+
+
+# The rotation was reworded from "fall prevention" to "falls" partway through the
+# archive, which gave the topic filter two entries covering the same beat.
+TOPIC_ALIASES = {"fall prevention": "falls"}
+
+
+def normalize_topic(topic: str) -> str:
+    return TOPIC_ALIASES.get(topic.strip().lower(), topic.strip())
 
 
 def _slugify(text: str) -> str:
@@ -92,7 +121,16 @@ def _parse_studies(body: str) -> list[dict]:
         # Trim trailing citation table / trends / feature-pitch sections that
         # follow the last study entry.
         block = re.split(r"\n## ", block)[0]
-        studies.append(_parse_study_block(number, heading, block))
+        study = _parse_study_block(number, heading, block)
+        # Five June/July digests end partway through their final entry -- they
+        # predate the continuation retry that fixed max_tokens truncation. The
+        # tail block is a heading, sometimes a PMID, and no body. That renders as
+        # an empty card, so drop it rather than publish one. A truncated entry
+        # that still has a body is kept; only "Why it matters" is missing and the
+        # card reads fine without it.
+        if not study["the_study"]:
+            continue
+        studies.append(study)
     return studies
 
 
@@ -147,7 +185,7 @@ def _parse_digest_file(path: Path) -> dict:
     fact_check = _parse_fact_check(fact_check_path)
 
     run_date = header.get("Run date", "")
-    topic = "" if is_broad else focus
+    topic = "" if is_broad else normalize_topic(focus)
     run_id = f"{path.stem}"
 
     return {
@@ -202,7 +240,7 @@ def _index_entry(run: dict) -> dict:
 def build() -> list:
     runs = []
     for path in sorted(OUTPUTS_DIR.glob("*.md")):
-        if path.name.endswith("Fact Check.md"):
+        if not is_digest(path):
             continue
         runs.append(_parse_digest_file(path))
 

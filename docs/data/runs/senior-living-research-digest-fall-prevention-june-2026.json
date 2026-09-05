@@ -7,11 +7,11 @@
   "journals_searched": "146",
   "articles_screened": "40",
   "focus": "fall prevention",
-  "topic": "fall prevention",
+  "topic": "falls",
   "is_broad": false,
   "primary_audience": "older adults and seniors",
   "secondary_audience": "families, caregivers, and senior living professionals",
-  "study_count": 25,
+  "study_count": 24,
   "studies": [
     {
       "number": 1,
@@ -324,19 +324,6 @@
       "story_angle_primary": "If you take five or more medications regularly, ask your doctor or pharmacist about a medication review to identify any that might be unnecessary or contributing to fall risk. After a fall, this review becomes especially important.",
       "story_angle_secondary": "Senior living medication review protocols should be particularly thorough for residents who have fallen, as polypharmacy independently predicts poorer outcomes. Deprescribing efforts may improve not just fall prevention but also post-fall recovery.",
       "caveats": "Single Swiss hospital; retrospective design; polypharmacy may be a marker for underlying illness severity despite statistical adjustments."
-    },
-    {
-      "number": 25,
-      "title": "Diabetes Linked to Balance Problems and Fall Risk",
-      "journal": "Gerontology",
-      "published": "May 2026",
-      "pmid": "42160236",
-      "doi": "",
-      "the_study": "",
-      "why_it_matters": "",
-      "story_angle_primary": "",
-      "story_angle_secondary": "",
-      "caveats": ""
     }
   ],
   "citation_table": [],
@@ -346,7 +333,33 @@
   "fact_check": {
     "checked": "2026-06-19",
     "studies_reviewed": "40",
-    "verdicts_by_pmid": {},
+    "verdicts_by_pmid": {
+      "42223007": "\u274c Significant issues",
+      "42208412": "\u26a0\ufe0f Minor issues",
+      "42190243": "\u26a0\ufe0f Minor issues",
+      "42150160": "\u26a0\ufe0f Minor issues",
+      "42127229": "\u2705 Accurate",
+      "42315165": "\u26a0\ufe0f Minor issues",
+      "42296796": "\u26a0\ufe0f Minor issues",
+      "42230523": "\u2705 Accurate",
+      "42229075": "\u26a0\ufe0f Minor issues",
+      "42219157": "\u2705 Accurate",
+      "42176369": "\u26a0\ufe0f Minor issues",
+      "42049158": "\u2705 Accurate",
+      "42025148": "\u2705 Accurate",
+      "42010817": "\u2705 Accurate",
+      "41917319": "\u2705 Accurate",
+      "41871377": "\u26a0\ufe0f Minor issues",
+      "42168731": "\u2705 Accurate",
+      "41528689": "\u2705 Accurate",
+      "40992429": "\u26a0\ufe0f Minor issues",
+      "42249310": "\u2705 Accurate",
+      "42167084": "\u2705 Accurate",
+      "42167083": "\u2705 Accurate",
+      "42163166": "\u2705 Accurate",
+      "42163109": "\u2705 Accurate",
+      "42160236": "\u274c Significant issues"
+    },
     "summary": {
       "total_issues": "11 (9 Minor, 1 Moderate, 1 Major)",
       "entries_requiring_revision": "2 (Study 9 moderate issue; Study 25 incomplete)",

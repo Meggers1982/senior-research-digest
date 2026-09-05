@@ -364,7 +364,26 @@
   "fact_check": {
     "checked": "2026-09-02",
     "studies_reviewed": "18",
-    "verdicts_by_pmid": {},
+    "verdicts_by_pmid": {
+      "42366281": "\u2705 Accurate",
+      "42545407": "\u2705 Accurate",
+      "42530751": "\u2705 Accurate",
+      "42580255": "\u2705 Accurate",
+      "42407095": "\u2705 Accurate",
+      "42490252": "\u2705 Accurate",
+      "42085825": "\u26a0\ufe0f Minor issues",
+      "42343547": "\u26a0\ufe0f Minor issues",
+      "41247831": "\u26a0\ufe0f Minor issues",
+      "40820287": "\u26a0\ufe0f Minor issues",
+      "42668859": "\u2705 Accurate",
+      "42661449": "\u2705 Accurate",
+      "42660629": "\u26a0\ufe0f Minor issues",
+      "42674857": "\u26a0\ufe0f Minor issues",
+      "42681826": "\u2705 Accurate",
+      "42663268": "\u2705 Accurate",
+      "42407320": "\u2705 Accurate",
+      "42167081": "\u2705 Accurate"
+    },
     "summary": {
       "total_issues": "7 (5 Minor, 1 Moderate, 0 Major)",
       "entries_requiring_revision": "3 (Studies 7, 9, 14)",

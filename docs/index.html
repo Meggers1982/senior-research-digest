@@ -457,6 +457,19 @@ function renderTrendsBlock(raw) {
   for (const line of lines) {
     const trimmed = line.trim();
     if (!trimmed) continue;
+    // A "---" rule matches neither the bullet pattern (which needs a space after
+    // the dash) nor anything else, so it used to render as literal text on the
+    // page. The section is already visually bounded; drop the rule entirely.
+    if (/^-{3,}$/.test(trimmed) || /^\*{3,}$/.test(trimmed)) {
+      if (inList) { html += "</ul>"; inList = false; }
+      continue;
+    }
+    const heading = trimmed.match(/^(#{2,4})\s+(.*)$/);
+    if (heading) {
+      if (inList) { html += "</ul>"; inList = false; }
+      html += `<div class="field-label">${inlineMd(heading[2])}</div>`;
+      continue;
+    }
     const bullet = trimmed.match(/^-\s+(.*)$/);
     if (bullet) {
       if (!inList) { html += "<ul>"; inList = true; }

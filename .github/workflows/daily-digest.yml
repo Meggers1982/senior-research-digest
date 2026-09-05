@@ -37,13 +37,20 @@ jobs:
           cache: "pip"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt pytest
+
+      # The parsers that build the dashboard are regexes over model prose. They
+      # have drifted silently before; running the suite here is what makes that
+      # loud. Cheap -- it touches no API.
+      - name: Run tests
+        run: python -m pytest tests/ -q
 
       - name: Run digest pipeline
         timeout-minutes: 20
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
           DIGEST_FOCUS: ${{ github.event.inputs.focus }}
         working-directory: scripts
         run: python main.py

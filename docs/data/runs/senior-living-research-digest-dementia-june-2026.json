@@ -11,7 +11,7 @@
   "is_broad": false,
   "primary_audience": "older adults and seniors",
   "secondary_audience": "families, caregivers, and senior living professionals",
-  "study_count": 23,
+  "study_count": 22,
   "studies": [
     {
       "number": 1,
@@ -298,19 +298,6 @@
       "story_angle_primary": "Frailty\u2014characterized by weakness, fatigue, and vulnerability to setbacks\u2014can significantly impact your health and independence. Ask your doctor about frailty screening and what steps you can take to stay strong.",
       "story_angle_secondary": "Senior living and healthcare systems should routinely assess frailty alongside cognitive status. Care strategies addressing both conditions may improve outcomes and contain costs.",
       "caveats": "Observational design (cannot establish causation); claims-based frailty and dementia measures may misclassify some individuals; U.S. Medicare population only."
-    },
-    {
-      "number": 23,
-      "title": "Web-Based Auditory-Cognitive Training Shows Promise for Older Adults With Hearing",
-      "journal": "",
-      "published": "",
-      "pmid": "",
-      "doi": "",
-      "the_study": "",
-      "why_it_matters": "",
-      "story_angle_primary": "",
-      "story_angle_secondary": "",
-      "caveats": ""
     }
   ],
   "citation_table": [],
@@ -320,7 +307,31 @@
   "fact_check": {
     "checked": "2026-06-18",
     "studies_reviewed": "40",
-    "verdicts_by_pmid": {},
+    "verdicts_by_pmid": {
+      "42302797": "\u2705 Accurate",
+      "42251690": "\u2705 Accurate",
+      "42185590": "\u2705 Accurate",
+      "42247635": "\u2705 Accurate",
+      "42252380": "\u2705 Accurate",
+      "42261258": "\u26a0\ufe0f Minor issues",
+      "42246930": "\u2705 Accurate",
+      "42289977": "\u2705 Accurate",
+      "42286380": "\u2705 Accurate",
+      "42274941": "\u26a0\ufe0f Minor issues",
+      "42303957": "\u2705 Accurate",
+      "42155951": "\u2705 Accurate",
+      "42246305": "\u2705 Accurate",
+      "42168828": "\u2705 Accurate",
+      "42168726": "\u2705 Accurate",
+      "42227878": "\u2705 Accurate",
+      "42227877": "\u2705 Accurate",
+      "42222908": "\u2705 Accurate",
+      "42222907": "\u2705 Accurate",
+      "42178213": "\u2705 Accurate",
+      "42178215": "\u2705 Accurate",
+      "42172121": "\u2705 Accurate",
+      "42302249": "\u274c Significant issues"
+    },
     "summary": {
       "total_issues": "3 (2 Minor, 0 Moderate, 1 Major)",
       "entries_requiring_revision": "3 (Studies 6, 10, 23)",

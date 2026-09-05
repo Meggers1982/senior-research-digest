@@ -11,6 +11,8 @@ from typing import Optional
 
 import anthropic
 
+import llm
+
 
 SYSTEM_PROMPT = """\
 You are a research editor producing a short synthesis to run at the end of a senior
@@ -181,13 +183,19 @@ def _topic_memory_path(subject_focus: str, memory_dir: Path) -> Path:
     return memory_dir / f"{_slugify(subject_focus)}.md"
 
 
+CONTINUATION_PROMPT = (
+    "Continue exactly where you left off. Do not repeat any content already "
+    "written, and do not restart from the beginning."
+)
+
+
 def generate_trends_section(
     subject_focus: str,
     digest_content: str,
     outputs_dir: Path,
     memory_dir: Path,
     api_key: str,
-    model: str = "claude-opus-4-5",
+    model: str = llm.MODEL,
     outlet_candidates: str = "",
 ) -> str:
     """Return markdown covering (1) how this digest's studies compare to the most
@@ -225,15 +233,17 @@ def generate_trends_section(
         f"{'=' * 60}"
     )
 
-    response = client.messages.create(
+    # This call sends the largest payload in the pipeline -- a whole new digest,
+    # a whole previous one and the topic memory -- and was the only one with
+    # neither prompt caching nor a continuation retry. It now has both.
+    body = llm.complete_prose(
+        client,
+        system=[llm.cached(SYSTEM_PROMPT)],
+        messages=[{"role": "user", "content": [llm.cached(user_message)]}],
+        continuation_prompt=CONTINUATION_PROMPT,
+        label="trends section",
         model=model,
-        max_tokens=4096,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": user_message}],
     )
-    body = response.content[0].text if response.content else ""
-    if response.stop_reason == "max_tokens":
-        print("  WARNING: trends section truncated — consider raising max_tokens.")
 
     # Extract and persist the trailing topic-memory block; strip it from the
     # visible text returned for the digest. If the block is missing (e.g. this

@@ -6,6 +6,8 @@ from typing import Optional
 
 import anthropic
 
+import llm
+
 from pubmed import fetch_abstract
 
 
@@ -76,7 +78,6 @@ After all entries, write:
 **Entries cleared:** [N]
 """
 
-MAX_CONTINUATIONS = 3
 CONTINUATION_PROMPT = (
     "Continue exactly where you left off. Do not repeat any content already "
     "written, and do not restart from the beginning."
@@ -98,7 +99,7 @@ def run_fact_check(
     selected_pmids: list[str],
     ncbi_api_key: Optional[str],
     anthropic_api_key: str,
-    model: str = "claude-opus-4-5",
+    model: str = llm.MODEL,
     subject_focus: str = "",
 ) -> str:
     """Fact-check a digest and return the fact-check report as markdown."""
@@ -159,36 +160,13 @@ def run_fact_check(
             "content": [{"type": "text", "text": user_message, "cache_control": {"type": "ephemeral"}}],
         }
     ]
-    response = client.messages.create(
-        model=model,
-        max_tokens=16000,
+    report_body = llm.complete_prose(
+        client,
         system=SYSTEM_PROMPT_BLOCKS,
         messages=messages,
+        continuation_prompt=CONTINUATION_PROMPT,
+        label="fact-check response",
+        model=model,
     )
-    chunk = response.content[0].text if response.content else ""
-    report_body = chunk
-
-    continuations = 0
-    while response.stop_reason == "max_tokens" and continuations < MAX_CONTINUATIONS:
-        # Echo back only THIS turn's partial text as the assistant message —
-        # not the full accumulated report — so history mirrors what actually
-        # happened turn-by-turn and doesn't duplicate content.
-        messages.append({"role": "assistant", "content": chunk})
-        messages.append({"role": "user", "content": CONTINUATION_PROMPT})
-        response = client.messages.create(
-            model=model,
-            max_tokens=16000,
-            system=SYSTEM_PROMPT_BLOCKS,
-            messages=messages,
-        )
-        chunk = response.content[0].text if response.content else ""
-        report_body += chunk
-        continuations += 1
-
-    if response.stop_reason == "max_tokens":
-        print(
-            "  WARNING: fact-check response still truncated after "
-            f"{MAX_CONTINUATIONS} continuation(s) — output may be incomplete."
-        )
 
     return report_header + report_body

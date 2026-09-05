@@ -6,6 +6,8 @@ from datetime import datetime
 
 import anthropic
 
+import llm
+
 
 SYSTEM_PROMPT = """\
 You are an expert science journalist producing a curated research digest focused on
@@ -75,7 +77,6 @@ Finally, append a JSON block (used internally — do not explain it):
 ```
 """
 
-MAX_CONTINUATIONS = 3
 CONTINUATION_PROMPT = (
     "Continue exactly where you left off. Do not repeat any content already "
     "written, and do not restart from the beginning."
@@ -89,7 +90,7 @@ def generate_digest(
     abstracts: dict[str, str],
     journal_count: int,
     api_key: str,
-    model: str = "claude-opus-4-5",
+    model: str = llm.MODEL,
 ) -> tuple[str, list[str]]:
     """Generate a formatted senior living digest from PubMed abstracts.
 
@@ -141,44 +142,16 @@ def generate_digest(
     # continuation retries below re-read this prefix from cache instead of
     # reprocessing it at full price on every retry. Continuation turns are small
     # and left uncached to keep the request under the API's breakpoint limit.
-    system_blocks = [{"type": "text", "text": system, "cache_control": {"type": "ephemeral"}}]
-    messages = [
-        {
-            "role": "user",
-            "content": [{"type": "text", "text": user_message, "cache_control": {"type": "ephemeral"}}],
-        }
-    ]
-    response = client.messages.create(
-        model=model,
-        max_tokens=16000,
+    system_blocks = [llm.cached(system)]
+    messages = [{"role": "user", "content": [llm.cached(user_message)]}]
+    body = llm.complete_prose(
+        client,
         system=system_blocks,
         messages=messages,
+        continuation_prompt=CONTINUATION_PROMPT,
+        label="digest response",
+        model=model,
     )
-    chunk = response.content[0].text if response.content else ""
-    body = chunk
-
-    continuations = 0
-    while response.stop_reason == "max_tokens" and continuations < MAX_CONTINUATIONS:
-        # Echo back only THIS turn's partial text as the assistant message —
-        # not the full accumulated body — so the conversation history mirrors
-        # what actually happened turn-by-turn and doesn't duplicate content.
-        messages.append({"role": "assistant", "content": chunk})
-        messages.append({"role": "user", "content": CONTINUATION_PROMPT})
-        response = client.messages.create(
-            model=model,
-            max_tokens=16000,
-            system=system_blocks,
-            messages=messages,
-        )
-        chunk = response.content[0].text if response.content else ""
-        body += chunk
-        continuations += 1
-
-    if response.stop_reason == "max_tokens":
-        print(
-            "  WARNING: digest response still truncated after "
-            f"{MAX_CONTINUATIONS} continuation(s) — output may be incomplete."
-        )
 
     # Extract selected PMIDs from the trailing JSON block (search the full
     # accumulated text, not just the last continuation chunk)

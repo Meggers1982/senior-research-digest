@@ -828,7 +828,7 @@ function parseCsvRows(text) {
     else if (c !== "\r") field += c;
   }
   if (field || row.length) { row.push(field); rows.push(row); }
-  return rows.filter(r => r.some(v => v !== ""));
+  return rows.filter(cells => cells.some(v => v !== ""));
 }
 
 function importStatusCsv(text) {

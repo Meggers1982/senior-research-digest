@@ -1,0 +1,4 @@
+{
+  "note": "Run ids listed here are left out of the dashboard. Nothing is deleted: the markdown stays in outputs/ and the id stays in git history, so removing it from this list brings the run back. Use it for a run that parsed wrong or should not be read, rather than deleting the source.",
+  "ids": []
+}

@@ -31,7 +31,7 @@ def dashboard_html() -> str:
 
 
 def dashboard_js() -> str:
-    match = re.search(r"<script>(.*?)</script>", dashboard_html(), re.S)
+    match = re.search(r'<script id="app">(.*?)</script>', dashboard_html(), re.S)
     assert match, "dashboard has no inline script"
     return match.group(1)
 
@@ -108,9 +108,40 @@ class ContractTests(unittest.TestCase):
         header = re.search(r"const header = \[(.*?)\];", source, re.S).group(1)
         names = re.findall(r'"([a-z_]+)"', header)
         self.assertEqual(len(names), len(set(names)))
-        rows = re.search(r"const rows = run\.studies\.map\(s => \[(.*?)\]\);",
+        rows = re.search(r"const rows = exportedStudies\(run\)\.map\(s => \[(.*?)\]\);",
                          source, re.S).group(1)
         self.assertEqual(len(names), len(_top_level_items(rows)))
+
+    def test_both_exports_follow_the_filters_on_screen(self):
+        """Filtering to "Lead + unreported" and hitting Export used to hand back
+        every study in the run."""
+        self.assertIn("run.studies.filter(matchesFacets)", js_function("exportedStudies"))
+        for fn in ("exportRunToCsv", "exportRunToDocx"):
+            self.assertIn("exportedStudies(run)", js_function(fn),
+                          f"{fn} does not export the view")
+
+    def test_an_ordered_facet_keeps_its_scale(self):
+        """Sorting every group by frequency printed the score band scale as
+        "Lead | Worth a look | Strong"."""
+        self.assertIn("FACET_SCALES", js_function("renderFacets"))
+        scales = re.search(r"const FACET_SCALES = \{(.*?)\n\};", self.js, re.S).group(1)
+        self.assertIn('"Lead", "Strong", "Worth a look", "Background"', scales)
+
+    def test_the_coverage_tile_does_not_report_a_check_that_never_ran(self):
+        """"0 / 0 no coverage found" read as a result. It was the absence of
+        one -- every study in the archive carries an empty coverage_state."""
+        self.assertIn("coverage not checked", self.js)
+
+    def test_editorial_status_can_be_imported_as_well_as_exported(self):
+        """localStorage is the only home a status has, so a cleared cache wipes
+        the lot with nothing to say it happened."""
+        self.assertIn("importStatusCsv", self.js)
+        self.assertIn("STATUS_BY_LABEL", self.js)
+
+    def test_the_search_reaches_the_studies_not_only_the_sidebar(self):
+        """The placeholder promises headline, PMID and journal."""
+        self.assertIn("matchesQuery", js_function("renderMain"))
+        self.assertIn("studyBlob", self.js)
 
     def test_the_dashboard_fetches_the_paths_the_builder_writes(self):
         self.assertIn('fetch("data/index.json")', self.js)
@@ -142,11 +173,21 @@ class BehaviourTests(unittest.TestCase):
         cls.js = dashboard_js()
         cls.html = dashboard_html()
 
-    def test_light_is_the_default_rather_than_the_os_preference(self):
-        """The [data-theme] rules existed for months with nothing setting the
-        attribute, so a dark-mode browser could never reach the light palette."""
+    def test_the_theme_is_settled_before_the_first_paint(self):
+        """It used to be set at the bottom of the body script, so anyone who had
+        chosen dark got a white flash on every load. The resolving script has to
+        run in the head, ahead of any stylesheet-dependent paint."""
+        head = self.html.split("</head>")[0]
+        self.assertIn("dataset.theme", head)
         self.assertIn('<html lang="en" data-theme="light">', self.html)
-        self.assertIn("document.documentElement.dataset.theme", self.js)
+
+    def test_the_theme_has_three_states_and_can_follow_the_os(self):
+        """A binary toggle cannot express "follow the OS", which is the state
+        most people are in. Forcing light for everyone was an overcorrection for
+        data-theme never having been set at all."""
+        self.assertIn("prefers-color-scheme", self.html)
+        for choice in ("system", "light", "dark"):
+            self.assertIn(f'"{choice}"', self.js)
         self.assertIn('getElementById("theme-toggle")', self.js)
 
     def test_the_collapse_control_stays_findable(self):
@@ -186,7 +227,7 @@ class RenderTests(unittest.TestCase):
 
     @staticmethod
     def _render(html: str) -> str:
-        script = re.search(r"<script>(.*?)</script>", html, re.S)
+        script = re.search(r'<script id="app">(.*?)</script>', html, re.S)
         assert script, "dashboard has no inline script"
         with TemporaryDirectory() as tmp:
             root = Path(tmp)

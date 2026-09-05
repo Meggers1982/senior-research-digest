@@ -343,8 +343,38 @@ def copy_topic_demand() -> bool:
     return True
 
 
+HIDDEN_PATH = DASHBOARD_DATA_DIR / "hidden.json"
+SEARCH_PATH = DASHBOARD_DATA_DIR / "search.json"
+
+
+def hidden_ids() -> set:
+    """Run ids to suppress, from a committed docs/data/hidden.json.
+
+    There was no way to hide a bad run. This repo spent a fix on a "ghost 54th
+    run" -- topic-demand.md parsed as a digest -- where one line here would have
+    been the answer while the parser was sorted out. A file rather than a
+    database: the suppression stays in git history with everything else, and
+    nothing is destroyed. Accepts a bare list or {"ids": [...]} with notes.
+    """
+    if not HIDDEN_PATH.exists():
+        return set()
+    try:
+        raw = json.loads(HIDDEN_PATH.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        print(f"WARNING: {HIDDEN_PATH.name} is unreadable; hiding nothing.")
+        return set()
+    ids = raw.get("ids", []) if isinstance(raw, dict) else raw
+    return {str(i) for i in ids}
+
+
 def main() -> None:
     runs = build()
+
+    hidden = hidden_ids()
+    if hidden:
+        kept = [r for r in runs if r["id"] not in hidden]
+        print(f"Hiding {len(runs) - len(kept)} run(s) listed in {HIDDEN_PATH.name}")
+        runs = kept
 
     DASHBOARD_RUNS_DIR.mkdir(parents=True, exist_ok=True)
     written = set()
@@ -358,11 +388,20 @@ def main() -> None:
     for path in stale:
         path.unlink()
 
+    entries = [_index_entry(r) for r in runs]
+
+    # The search blobs were 90% of index.json (165 KB of 183 KB) and the file
+    # loads on every page view, growing by a run a day forever. They move to
+    # their own file the page only fetches once someone actually searches.
+    SEARCH_PATH.write_text(
+        json.dumps({e["id"]: e.pop("search", "") for e in entries}, indent=0),
+        encoding="utf-8")
+
     index = {
         "generated_from": "outputs/*.md",
         "run_count": len(runs),
         "topics": sorted({r["topic"] for r in runs if r["topic"]}),
-        "runs": [_index_entry(r) for r in runs],
+        "runs": entries,
     }
     index["has_topic_demand"] = copy_topic_demand()
     DASHBOARD_INDEX_PATH.write_text(json.dumps(index, indent=2), encoding="utf-8")
@@ -373,9 +412,11 @@ def main() -> None:
         LEGACY_DATA_PATH.unlink()
 
     index_kb = DASHBOARD_INDEX_PATH.stat().st_size / 1024
+    search_kb = SEARCH_PATH.stat().st_size / 1024
     print(
         f"Wrote {len(runs)} runs to {DASHBOARD_RUNS_DIR.relative_to(REPO_ROOT)}/ "
-        f"and {DASHBOARD_INDEX_PATH.relative_to(REPO_ROOT)} ({index_kb:.0f} KB)"
+        f"and {DASHBOARD_INDEX_PATH.relative_to(REPO_ROOT)} ({index_kb:.0f} KB, "
+        f"search index {search_kb:.0f} KB loaded on demand)"
         + (f"; pruned {len(stale)} stale run file(s)" if stale else "")
     )
 

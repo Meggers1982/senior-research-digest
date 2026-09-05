@@ -8,6 +8,7 @@ green throughout. These tests run the real parsers over the real committed
 outputs, so drift fails here instead of on the page.
 """
 import re
+import pathlib
 import sys
 import unittest
 from pathlib import Path
@@ -109,6 +110,36 @@ class RunIndexTests(unittest.TestCase):
             self.assertTrue(run["run_date"], f"{run['id']} has no run date")
             self.assertEqual(run["study_count"], len(run.get("studies", [])),
                              f"{run['id']} miscounts its studies")
+
+    def test_a_run_listed_in_hidden_json_is_left_out(self):
+        """There was no way to hide a bad run at all. Nothing is deleted -- the
+        markdown stays in outputs/ and removing the id brings the run back."""
+        import json, tempfile, unittest.mock as m
+        runs = bdd.build()
+        self.assertTrue(runs, "no runs to hide")
+        victim = runs[0]["id"]
+        with tempfile.TemporaryDirectory() as raw:
+            hidden = pathlib.Path(raw) / "hidden.json"
+            hidden.write_text(json.dumps({"ids": [victim]}), encoding="utf-8")
+            with m.patch.object(bdd, "HIDDEN_PATH", hidden):
+                self.assertEqual(bdd.hidden_ids(), {victim})
+
+    def test_an_unreadable_hidden_file_hides_nothing(self):
+        import pathlib as pl, tempfile, unittest.mock as m
+        with tempfile.TemporaryDirectory() as raw:
+            hidden = pl.Path(raw) / "hidden.json"
+            hidden.write_text("{not json", encoding="utf-8")
+            with m.patch.object(bdd, "HIDDEN_PATH", hidden):
+                self.assertEqual(bdd.hidden_ids(), set())
+
+    def test_the_index_no_longer_carries_the_search_blobs(self):
+        """They were 165 KB of a 183 KB file that loads on every page view."""
+        import json
+        index = json.loads((bdd.DASHBOARD_INDEX_PATH).read_text(encoding="utf-8"))
+        self.assertTrue(index["runs"])
+        self.assertNotIn("search", index["runs"][0])
+        search = json.loads(bdd.SEARCH_PATH.read_text(encoding="utf-8"))
+        self.assertEqual(set(search), {r["id"] for r in index["runs"]})
 
     def test_the_topic_demand_report_is_not_a_run(self):
         self.assertNotIn("topic-demand", {r["id"] for r in bdd.build()})

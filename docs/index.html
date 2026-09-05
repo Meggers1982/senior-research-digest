@@ -315,6 +315,19 @@
     padding-bottom: 0.75rem; border-bottom: 1px solid var(--border);
   }
   .facet-count { font-size: 0.8125rem; color: var(--muted); }
+  .facet-count .faint { color: var(--faint); font-weight: 400; }
+  .demand-link {
+    display: block; margin-bottom: 0.625rem; padding: 0.5rem 0.625rem;
+    border: 1px solid var(--border); border-radius: 0.5rem; background: var(--panel);
+    color: var(--accent); font-size: 0.8125rem; text-decoration: none;
+  }
+  .demand-link:hover { border-color: var(--accent); }
+  .demand-link.active { background: var(--accent-soft); border-color: var(--accent); }
+  /* Browser default yellow is unreadable on the dark palette and belongs to
+     neither theme. The warn tone already exists for "look here". */
+  mark { background: var(--tone-warn-bg); color: var(--tone-warn-ink);
+         border-radius: 0.1875rem; padding: 0 0.125rem; }
+  :root[data-theme="dark"] mark { background: #4a3a12; color: #fde68a; }
   .facet-count b { color: var(--text); font-weight: 600; }
   .link-btn {
     background: none; border: 0; padding: 0; font: inherit; font-size: 0.8125rem;
@@ -392,6 +405,26 @@
     * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
   }
 </style>
+<script>
+/* Theme is resolved here, in the head, so it is settled before the first
+   paint. It used to be set at the very bottom of the body script, which gave
+   anyone who had chosen dark a white flash on every single load.
+
+   The stored value is the *choice* -- system, light or dark -- and this
+   resolves it to a concrete attribute, so the stylesheet needs no media query
+   and cannot disagree with the toggle. Defaulting to system restores OS
+   respect: the original bug was that nothing ever set data-theme, and the fix
+   for it removed the media query altogether rather than adding this. */
+(function () {
+  var choice = "system";
+  try { choice = localStorage.getItem("srd-theme") || "system"; } catch (e) {}
+  if (choice !== "light" && choice !== "dark") choice = "system";
+  var dark = choice === "dark" || (choice === "system" &&
+    window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+  document.documentElement.dataset.theme = dark ? "dark" : "light";
+  document.documentElement.dataset.themeChoice = choice;
+})();
+</script>
 </head>
 <body>
 <header>
@@ -412,6 +445,7 @@
       </select>
     </div>
     <div id="run-count" style="color: var(--muted); font-size: 0.78rem; margin-bottom: 8px;"></div>
+    <a href="#" id="demand-link" class="demand-link" hidden>Topic demand — weekly rotation check</a>
     <div class="run-list" id="run-list"></div>
   </aside>
   <main id="main">
@@ -419,8 +453,24 @@
   </main>
 </div>
 <button id="scroll-top-btn" title="Back to top" aria-label="Back to top">&#8593;</button>
-<script>
-const state = { data: null, filtered: [], activeId: null, runs: new Map(), loadSeq: 0 };
+<script id="app">
+const state = { data: null, filtered: [], activeId: null, runs: new Map(), loadSeq: 0,
+                searchIndex: null, view: "run" };
+
+/* The per-run search blobs were 90% of index.json and it loads on every page
+   view, so they live in their own file now and are fetched the first time
+   somebody actually searches. Until it arrives the sidebar still filters on the
+   fields the index carries, so typing is never blocked. */
+let searchIndexPromise = null;
+function ensureSearchIndex() {
+  if (!searchIndexPromise) {
+    searchIndexPromise = fetch("data/search.json")
+      .then(r => (r.ok ? r.json() : {}))
+      .catch(() => ({}))
+      .then(idx => { state.searchIndex = idx; return idx; });
+  }
+  return searchIndexPromise;
+}
 
 // Run bodies live in their own files; fetch once, then serve from the cache.
 async function loadRun(id) {
@@ -481,6 +531,15 @@ function renderSidebar() {
 
   document.getElementById("run-count").textContent =
     `${state.filtered.length} of ${state.data.run_count} runs`;
+
+  // topic-demand.json has been built and published since 02f5709 and rendered
+  // nowhere -- it stopped being a ghost run in this list and became an unlinked
+  // file instead. It informs the rotation, so it gets a way in.
+  const demandLink = document.getElementById("demand-link");
+  if (demandLink) {
+    demandLink.hidden = !state.data.has_topic_demand;
+    demandLink.classList.toggle("active", state.view === "demand");
+  }
 
   list.querySelectorAll(".run-card").forEach(el => {
     const select = () => {
@@ -565,6 +624,33 @@ function facetValues(study) {
   };
 }
 
+/* The search box said "Search headline, PMID, journal..." and then only ever
+   filtered the run list -- typing a PMID told you which digest held it and
+   stopped there. The index already carries all of this per study. */
+function studyBlob(study) {
+  return [study.title, study.pmid, study.journal, study.doi, study.evidence_type,
+          (study.tags || []).join(" "), study.the_study, study.why_it_matters,
+          study.story_angle_primary, study.story_angle_secondary]
+    .filter(Boolean).join(" ").toLowerCase();
+}
+
+function currentQuery() {
+  const box = document.getElementById("search");
+  return box ? box.value.trim().toLowerCase() : "";
+}
+
+function matchesQuery(study, query) {
+  return !query || studyBlob(study).includes(query);
+}
+
+/* Escapes first, then marks, so a query can never inject markup. */
+function highlight(text, query) {
+  const safe = escapeHtml(text || "");
+  if (!query) return safe;
+  const needle = escapeHtml(query).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return safe.replace(new RegExp(needle, "gi"), m => `<mark>${m}</mark>`);
+}
+
 function matchesFacets(study) {
   const values = facetValues(study);
   return Object.keys(facetState).every(group => {
@@ -577,7 +663,16 @@ function matchesFacets(study) {
 const FACET_LEGENDS = { band: "Score", coverage: "Coverage", verdict: "Fact check",
                         evidence: "Design", tag: "Topic", status: "Status" };
 
-function renderFacets(studies) {
+// Groups whose values are an ordered scale rather than a set of alternatives.
+// Anything absent here is sorted by count, which is what a nominal group wants.
+const FACET_SCALES = {
+  band: ["Lead", "Strong", "Worth a look", "Background", "Unscored"],
+  coverage: ["No coverage found", "Lightly covered", "Widely covered", "Not checked"],
+  verdict: ["Accurate", "Minor issues", "Major issues", "Not checked"],
+  status: Object.values(STATUSES).map(s => s.label),
+};
+
+function renderFacets(studies, queryNote) {
   const shown = studies.filter(matchesFacets);
   const groups = Object.keys(FACET_LEGENDS).map(group => {
     const counts = new Map();
@@ -593,7 +688,14 @@ function renderFacets(studies) {
       facetValues(study)[group].forEach(v => counts.set(v, (counts.get(v) || 0) + 1));
     });
     if (counts.size <= 1) return "";
-    const chips = [...counts.entries()].sort((a, b) => b[1] - a[1]).map(([value, n]) =>
+    // Count order is right for Design and Topic, which are nominal, and wrong
+    // for the ordered scales: sorting Score by frequency printed
+    // "Lead | Worth a look | Strong", which is the band scale scrambled.
+    const scale = FACET_SCALES[group];
+    const ordered = scale
+      ? [...counts.entries()].sort((a, b) => scale.indexOf(a[0]) - scale.indexOf(b[0]))
+      : [...counts.entries()].sort((a, b) => b[1] - a[1]);
+    const chips = ordered.map(([value, n]) =>
       `<button type="button" class="chip" data-facet="${escapeHtml(group)}" data-value="${escapeHtml(value)}"
         data-on="${facetState[group].has(value)}">${escapeHtml(value)} <span class="chip-n">${n}</span></button>`
     ).join("");
@@ -604,7 +706,8 @@ function renderFacets(studies) {
   const active = Object.values(facetState).some(set => set.size);
   return `
     <div class="facet-bar">
-      <span class="facet-count"><b>${shown.length}</b> of ${studies.length} studies</span>
+      <span class="facet-count"><b>${shown.length}</b> of ${studies.length} studies${
+        queryNote ? ` <span class="faint">matching “${escapeHtml(queryNote.query)}” (of ${queryNote.total} in this run)</span>` : ""}</span>
       ${active ? '<button type="button" class="link-btn" id="clear-facets">Clear filters</button>' : ""}
     </div>
     <div class="facets">${groups}</div>`;
@@ -699,12 +802,63 @@ function csvCell(value) {
   return /[",\n]/.test(text) ? `"${text.replace(/"/g, '""')}"` : text;
 }
 
+/* Both exports used run.studies, so filtering to "Lead + unreported" and
+   hitting Export handed back all of them. They export the view. */
+/* Status lives in localStorage and nowhere else, so a cleared cache or a second
+   machine silently resets every study to "To review" with nothing to say it
+   happened. The .csv already carries the column out; this is the way back in.
+   Keyed on PMID, which is what the store is keyed on, so a status follows a
+   study across the digests that share it. */
+const STATUS_BY_LABEL = Object.fromEntries(
+  Object.entries(STATUSES).map(([key, s]) => [s.label.toLowerCase(), key]));
+
+function parseCsvRows(text) {
+  const rows = [];
+  let row = [], field = "", quoted = false;
+  const src = text.replace(/^\ufeff/, "");
+  for (let i = 0; i < src.length; i++) {
+    const c = src[i];
+    if (quoted) {
+      if (c === '"' && src[i + 1] === '"') { field += '"'; i++; }
+      else if (c === '"') quoted = false;
+      else field += c;
+    } else if (c === '"') quoted = true;
+    else if (c === ",") { row.push(field); field = ""; }
+    else if (c === "\n") { row.push(field); rows.push(row); row = []; field = ""; }
+    else if (c !== "\r") field += c;
+  }
+  if (field || row.length) { row.push(field); rows.push(row); }
+  return rows.filter(r => r.some(v => v !== ""));
+}
+
+function importStatusCsv(text) {
+  const rows = parseCsvRows(text);
+  if (!rows.length) return 0;
+  const header = rows[0].map(h => h.trim().toLowerCase());
+  const pmidAt = header.indexOf("pmid");
+  const statusAt = header.indexOf("status");
+  if (pmidAt < 0 || statusAt < 0) throw new Error("needs pmid and status columns");
+  let applied = 0;
+  for (const row of rows.slice(1)) {
+    const pmid = (row[pmidAt] || "").trim();
+    const label = (row[statusAt] || "").trim().toLowerCase();
+    if (!pmid || !(label in STATUS_BY_LABEL)) continue;
+    setStatus(pmid, STATUS_BY_LABEL[label]);
+    applied++;
+  }
+  return applied;
+}
+
+function exportedStudies(run) {
+  return run.studies.filter(matchesFacets);
+}
+
 function exportRunToCsv(run) {
   const header = ["number", "title", "journal", "published", "pmid", "doi", "score",
                   "band", "evidence_type", "sample_size", "coverage_state", "verdict",
                   "status", "tags", "the_study", "why_it_matters",
                   "story_angle_primary", "story_angle_secondary", "caveats"];
-  const rows = run.studies.map(s => [
+  const rows = exportedStudies(run).map(s => [
     s.number, s.title, s.journal, fmtDate(s.published), s.pmid, s.doi, s.score,
     s.band, s.evidence_type, s.sample_size, s.coverage_state, s.verdict,
     (STATUSES[statusOf(s)] || STATUSES[""]).label, (s.tags || []).join("; "),
@@ -725,15 +879,46 @@ function exportRunToCsv(run) {
 /* The [data-theme] rules have always been here; nothing ever set the attribute,
    so the OS media query was the only reachable path and a dark-mode browser
    could never see the light palette. Light is the default now. */
+const THEME_CHOICES = ["system", "light", "dark"];
+const THEME_LABEL = { system: "Theme: Auto", light: "Theme: Light", dark: "Theme: Dark" };
+
+function themeChoice() {
+  const stored = document.documentElement.dataset.themeChoice;
+  return THEME_CHOICES.includes(stored) ? stored : "system";
+}
+
+function prefersDark() {
+  return !!(window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+}
+
+function applyTheme(choice) {
+  const dark = choice === "dark" || (choice === "system" && prefersDark());
+  document.documentElement.dataset.theme = dark ? "dark" : "light";
+  document.documentElement.dataset.themeChoice = choice;
+  const btn = document.getElementById("theme-toggle");
+  if (btn) {
+    btn.textContent = THEME_LABEL[choice];
+    btn.setAttribute("aria-label",
+      `Theme: ${choice}. Activate to switch to ${THEME_CHOICES[(THEME_CHOICES.indexOf(choice) + 1) % 3]}.`);
+  }
+}
+
+/* Three states, not two. A binary toggle cannot express "follow the OS", which
+   is the state most people are actually in, and forcing light for everyone was
+   an overcorrection for data-theme never having been set at all. */
 function initTheme() {
-  let stored = null;
-  try { stored = localStorage.getItem("srd-theme"); } catch (e) { /* private mode */ }
-  document.documentElement.dataset.theme = (stored === "dark" || stored === "light") ? stored : "light";
+  applyTheme(themeChoice());
   document.getElementById("theme-toggle").addEventListener("click", () => {
-    const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
-    document.documentElement.dataset.theme = next;
+    const next = THEME_CHOICES[(THEME_CHOICES.indexOf(themeChoice()) + 1) % THEME_CHOICES.length];
+    applyTheme(next);
     try { localStorage.setItem("srd-theme", next); } catch (e) { /* private mode */ }
   });
+  // While on system, follow the OS as it changes rather than only at load.
+  if (window.matchMedia) {
+    const mq = window.matchMedia("(prefers-color-scheme: dark)");
+    const onChange = () => { if (themeChoice() === "system") applyTheme("system"); };
+    mq.addEventListener ? mq.addEventListener("change", onChange) : mq.addListener(onChange);
+  }
 }
 
 function setCollapsed(block, collapsed) {
@@ -819,11 +1004,18 @@ function renderTrendsBlock(raw) {
   return html;
 }
 
+/* The study cards link their PMIDs; the prose around them printed the same
+   numbers as plain text, which is where they are most often read. */
+function linkPmids(html) {
+  return html.replace(/\bPMID:?\s*(\d{6,9})\b/g, (m, id) =>
+    `<a href="https://pubmed.ncbi.nlm.nih.gov/${id}/" target="_blank" rel="noopener">${m}</a>`);
+}
+
 function inlineMd(text) {
   // Bold first, so the leftover single asterisks are unambiguously emphasis.
-  return escapeHtml(text)
+  return linkPmids(escapeHtml(text)
     .replace(/\*\*([^*]+?)\*\*/g, "<b>$1</b>")
-    .replace(/\*([^*]+?)\*/g, "<i>$1</i>");
+    .replace(/\*([^*]+?)\*/g, "<i>$1</i>"));
 }
 
 const BAND_CLASS = {
@@ -838,7 +1030,7 @@ const COVERAGE_LABEL = {
 
 function bandClass(study) { return BAND_CLASS[study.band] || ""; }
 
-function renderStudy(study, factCheck) {
+function renderStudy(study, factCheck, query) {
   const verdict = study.verdict
     || (factCheck && factCheck.verdicts_by_pmid ? factCheck.verdicts_by_pmid[study.pmid] : "");
   const cls = bandClass(study);
@@ -846,7 +1038,7 @@ function renderStudy(study, factCheck) {
   const coverage = COVERAGE_LABEL[study.coverage_state];
   return `
     <div class="study ${cls}" data-pmid="${escapeHtml(study.pmid || "")}">
-      <h3><span class="study-num">${escapeHtml(String(study.number))}.</span> ${escapeHtml(study.title)}</h3>
+      <h3><span class="study-num">${escapeHtml(String(study.number))}.</span> ${highlight(study.title, query)}</h3>
       <div class="study-meta">
         ${study.band ? `<span class="band-chip ${cls}">${escapeHtml(study.band)}</span>` : ""}
         ${study.score != null ? `<span class="score-chip">${escapeHtml(String(study.score))}</span>` : ""}
@@ -881,8 +1073,41 @@ function renderStudy(study, factCheck) {
   `;
 }
 
+function renderDemand(main) {
+  const d = state.demand;
+  if (!d) { main.innerHTML = '<div class="empty-state">Loading topic demand…</div>'; return; }
+  const rising = (d.rising_queries || []).map(q =>
+    `<li><b>${escapeHtml(q.query)}</b> ${escapeHtml(q.value || "")}
+       <span class="faint">— from “${escapeHtml(q.seed || "")}”</span></li>`).join("");
+  const quiet = (d.no_signal || []).map(x => `<li>${escapeHtml(x)}</li>`).join("");
+  const rotation = (d.rotation || []).map(r =>
+    `<li>${escapeHtml(typeof r === "string" ? r : JSON.stringify(r))}</li>`).join("");
+  main.innerHTML = `
+    <div class="run-header"><h2>Topic demand — ${escapeHtml(fmtDate((d.generated_at || "").slice(0, 10)) || "latest")}</h2></div>
+    <p class="faint">Search interest over ${escapeHtml(d.window || "the window")} in ${escapeHtml(d.geo || "US")}.
+       Weekly; it informs the rotation by hand rather than driving it.</p>
+    ${rising ? `<div class="section-block"><div class="field-label">Rising queries</div><ul>${rising}</ul></div>` : ""}
+    ${quiet ? `<div class="section-block"><div class="field-label">No measurable signal</div><ul>${quiet}</ul></div>` : ""}
+    ${rotation ? `<div class="section-block"><div class="field-label">Rotation</div><ul>${rotation}</ul></div>` : ""}`;
+}
+
 async function renderMain() {
   const main = document.getElementById("main");
+
+  if (state.view === "demand") {
+    renderDemand(main);
+    if (!state.demand) {
+      try {
+        state.demand = await fetch("data/topic-demand.json").then(r => r.json());
+      } catch (e) {
+        main.innerHTML = '<div class="empty-state">Could not load the topic demand report.</div>';
+        return;
+      }
+      if (state.view === "demand") renderDemand(main);
+    }
+    return;
+  }
+
   const id = state.activeId;
   if (!id) {
     main.innerHTML = '<div class="empty-state">Select a run from the list to view its studies.</div>';
@@ -912,9 +1137,16 @@ async function renderMain() {
         <div class="n">${run.study_count}</div><div class="l">studies selected</div></div>
       <div class="stat${leads ? "" : " is-zero"}">
         <div class="n">${leads}</div><div class="l">scored as leads</div></div>
-      <div class="stat${gaps ? "" : " is-zero"}">
-        <div class="n">${gaps}<small> / ${checked || 0}</small></div>
-        <div class="l">no coverage found</div></div>
+      ${checked
+        ? `<div class="stat${gaps ? "" : " is-zero"}">
+            <div class="n">${gaps}<small> / ${checked}</small></div>
+            <div class="l">no coverage found</div></div>`
+        // "0 / 0 no coverage found" read as a result. It was the absence of
+        // one: the check needs a SerpAPI key and had never run on a scheduled
+        // run, so every study in the archive carries an empty coverage_state.
+        : `<div class="stat is-zero">
+            <div class="n">—</div>
+            <div class="l">coverage not checked</div></div>`}
       <div class="stat${run.journals_searched ? "" : " is-zero"}">
         <div class="n">${escapeHtml(run.journals_searched || "0")}</div>
         <div class="l">journals searched</div></div>
@@ -923,10 +1155,13 @@ async function renderMain() {
         <div class="l">articles screened</div></div>
     </div>`;
 
+  const query = currentQuery();
+  const inQuery = run.studies.filter(s => matchesQuery(s, query));
+  const queryNote = query ? { query, total: run.studies.length } : null;
   const studiesHtml = sectionBlock("studies", `Studies <span class="section-count">${run.study_count}</span>`,
-    renderFacets(run.studies) +
-    `<div id="study-list">${run.studies.filter(matchesFacets).map(s => renderStudy(s, run.fact_check)).join("")
-      || '<div class="empty-state">Nothing matches those filters.</div>'}</div>`);
+    renderFacets(inQuery, queryNote) +
+    `<div id="study-list">${inQuery.filter(matchesFacets).map(s => renderStudy(s, run.fact_check, query)).join("")
+      || `<div class="empty-state">${query ? "No study in this run matches that search." : "Nothing matches those filters."}</div>`}</div>`);
 
   const citationHtml = run.citation_table.length ? sectionBlock("citations",
     `Citations <span class="section-count">${run.citation_table.length}</span>`, `
@@ -976,6 +1211,8 @@ async function renderMain() {
         <div class="btn-row">
           <button id="export-docx-btn" class="export-btn">Export .docx</button>
           <button id="export-csv-btn" class="export-btn">Export .csv</button>
+          <button id="import-status-btn" class="export-btn" title="Restore editorial statuses from a previously exported .csv">Import statuses</button>
+          <input type="file" id="import-status-file" accept=".csv,text/csv" hidden>
         </div>
       </div>
       ${statTiles}
@@ -994,6 +1231,23 @@ async function renderMain() {
   if (exportBtn) exportBtn.addEventListener("click", () => exportRunToDocx(run));
   const csvBtn = document.getElementById("export-csv-btn");
   if (csvBtn) csvBtn.addEventListener("click", () => exportRunToCsv(run));
+  const importBtn = document.getElementById("import-status-btn");
+  const importFile = document.getElementById("import-status-file");
+  if (importBtn && importFile) {
+    importBtn.addEventListener("click", () => importFile.click());
+    importFile.addEventListener("change", async () => {
+      const file = importFile.files && importFile.files[0];
+      importFile.value = "";
+      if (!file) return;
+      try {
+        const n = importStatusCsv(await file.text());
+        importBtn.textContent = n ? `Imported ${n}` : "Nothing to import";
+      } catch (e) {
+        importBtn.textContent = "Import failed";
+      }
+      setTimeout(() => { importBtn.textContent = "Import statuses"; renderMain(); }, 1600);
+    });
+  }
 
   wireFacets(main, run);
   wireStatusPickers(main);
@@ -1145,7 +1399,7 @@ async function exportRunToDocx(run) {
       }));
     }
 
-    run.studies.forEach(s => sections.push(...docxStudySection(s, run.fact_check)));
+    exportedStudies(run).forEach(s => sections.push(...docxStudySection(s, run.fact_check)));
     sections.push(...docxCitationTable(run.citation_table));
 
     if (run.trends_raw) {
@@ -1182,10 +1436,17 @@ function applyFilters() {
   const query = document.getElementById("search").value.trim().toLowerCase();
   const topic = document.getElementById("topic-filter").value;
 
+  if (query && state.searchIndex === null) {
+    // Filter on what the index already holds now; re-run once the blobs land.
+    ensureSearchIndex().then(applyFilters);
+  }
+
   state.filtered = state.data.runs.filter(r => {
     if (topic && r.topic !== topic) return false;
     if (!query) return true;
-    return (r.search || "").includes(query);
+    const blob = state.searchIndex ? (state.searchIndex[r.id] || "") : "";
+    const shallow = `${r.topic || ""} ${r.title || ""} ${r.run_date || ""}`.toLowerCase();
+    return blob.includes(query) || shallow.includes(query);
   });
 
   if (!state.filtered.some(r => r.id === state.activeId)) {
@@ -1225,6 +1486,12 @@ async function init() {
   state.activeId = state.filtered.length ? state.filtered[0].id : null;
 
   document.getElementById("search").addEventListener("input", applyFilters);
+  document.getElementById("demand-link").addEventListener("click", (e) => {
+    e.preventDefault();
+    state.view = state.view === "demand" ? "run" : "demand";
+    renderSidebar();
+    renderMain();
+  });
   document.getElementById("topic-filter").addEventListener("change", applyFilters);
   document.getElementById("home-link").addEventListener("click", (e) => {
     e.preventDefault();

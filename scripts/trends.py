@@ -14,6 +14,15 @@ import anthropic
 
 import llm
 
+# A hung API call used to run to the job's 20-minute ceiling, because the SDK
+# defaults to a 10-minute request timeout with 2 retries -- 30 minutes of
+# possible wall time inside a 20-minute step, so the step always lost. The
+# 2026-09-06 run burned the full 20 minutes and produced no digest; 2026-08-08
+# was the same shape. Bound it below the step so a stall fails, retries, and
+# reports, instead of taking the whole run down with it. See MEA-244.
+ANTHROPIC_TIMEOUT_SECONDS = 240.0
+ANTHROPIC_MAX_RETRIES = 2
+
 
 SYSTEM_PROMPT = """\
 You are a research editor producing a short synthesis to run at the end of a senior
@@ -222,7 +231,11 @@ def generate_trends_section(
         else "(none yet — this is the first run on this topic)"
     )
 
-    client = anthropic.Anthropic(api_key=api_key)
+    client = anthropic.Anthropic(
+        api_key=api_key,
+        timeout=ANTHROPIC_TIMEOUT_SECONDS,
+        max_retries=ANTHROPIC_MAX_RETRIES,
+    )
     candidate_block = (
         f"{'=' * 60}\nCANDIDATE OUTLETS:\n\n{outlet_candidates}\n\n"
         if outlet_candidates else ""

@@ -217,6 +217,7 @@ def main() -> None:
     print("\nGenerating trends & continuity section...")
     # Which studies has the consumer press already written up? The outlets it
     # finds are excluded from the pitch suggestions below.
+    print("Checking web coverage...")
     coverage = web_coverage.check_digest(
         web_coverage.studies_from_digest(digest_content),
         days_back=days_back,
@@ -234,6 +235,7 @@ def main() -> None:
         subject_focus, exclude=coverage.get("outlets") or set()
     )
 
+    print("Calling the trends model (largest payload in the pipeline)...")
     trends_section = generate_trends_section(
         subject_focus=subject_focus,
         digest_content=digest_content,

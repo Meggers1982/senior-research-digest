@@ -7,6 +7,15 @@ import anthropic
 import digest_render
 import llm
 
+# A hung API call used to run to the job's 20-minute ceiling, because the SDK
+# defaults to a 10-minute request timeout with 2 retries -- 30 minutes of
+# possible wall time inside a 20-minute step, so the step always lost. The
+# 2026-09-06 run burned the full 20 minutes and produced no digest; 2026-08-08
+# was the same shape. Bound it below the step so a stall fails, retries, and
+# reports, instead of taking the whole run down with it. See MEA-244.
+ANTHROPIC_TIMEOUT_SECONDS = 240.0
+ANTHROPIC_MAX_RETRIES = 2
+
 
 SYSTEM_PROMPT = """\
 You are an expert science journalist producing a curated research digest focused on
@@ -113,7 +122,11 @@ def generate_digest(
     The markdown is rendered here from the records, not written by the model, so
     the format the dashboard parses cannot drift out from under it.
     """
-    client = anthropic.Anthropic(api_key=api_key)
+    client = anthropic.Anthropic(
+        api_key=api_key,
+        timeout=ANTHROPIC_TIMEOUT_SECONDS,
+        max_retries=ANTHROPIC_MAX_RETRIES,
+    )
 
     run_date = datetime.now().strftime("%Y-%m-%d")
     month_year = datetime.now().strftime("%B %Y")

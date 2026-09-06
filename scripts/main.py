@@ -230,6 +230,8 @@ def main() -> None:
               f"{coverage['cached']} from cache, {coverage['skipped']} skipped; "
               f"{len(already)} outlet(s) already reporting"
               + (f" ({', '.join(sorted(already)[:5])})" if already else ""))
+        if coverage.get("partial_reason"):
+            print(f"Web coverage: PARTIAL — {coverage['partial_reason']}")
 
     outlet_candidates = outlets_mod.candidate_block(
         subject_focus, exclude=coverage.get("outlets") or set()

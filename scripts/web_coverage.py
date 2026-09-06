@@ -36,6 +36,21 @@ MAX_QUERY_WORDS = 10
 # digest should not be able to drain a shared quota in one run.
 MAX_CHECKS_PER_RUN = 40
 
+# A per-request timeout bounds one call; it does not bound this loop. At 40
+# studies x (RETRIES + 1) attempts x TIMEOUT plus backoff, the worst case is
+# about 54 minutes -- inside a 20-minute pipeline step. That is not theoretical:
+# it is what killed the 2026-09-06 run. Coverage went from free to fatal the day
+# SERPAPI_API_KEY was added, because until then this returned immediately.
+#
+# So the loop gets its own wall clock. When the budget is spent the remaining
+# studies are reported as skipped, with a reason, exactly like a spent quota --
+# a partial coverage check is useful, a dead pipeline is not. Coverage is the
+# least important stage here and must never be the one that costs the digest.
+#
+# The same bug was fixed in trending-content (MEA-55) and new-scientist-story-
+# ideas (MEA-57); those repos are separate codebases, so the fix did not travel.
+MAX_WALL_SECONDS = 240
+
 CACHE_PATH = Path(__file__).parent.parent / "state" / "coverage_cache.json"
 # Coverage is not static -- an unreported study can be picked up next week -- but
 # the 90-day PubMed window means the same study recurs across many daily runs.
@@ -201,6 +216,7 @@ def check_digest(
     days_back: int = DEFAULT_DAYS_BACK,
     cache_path: Path | None = CACHE_PATH,
     limit: int = MAX_CHECKS_PER_RUN,
+    wall_seconds: float = MAX_WALL_SECONDS,
 ) -> dict:
     """Check every study and collect the outlets already reporting them.
 
@@ -219,6 +235,8 @@ def check_digest(
 
     checked = cached_hits = skipped = 0
     stored = False
+    out_of_time = False
+    started = time.monotonic()
     covered, by_study, by_pmid = set(), {}, {}
 
     for pmid, raw in pairs:
@@ -230,10 +248,13 @@ def check_digest(
         if entry and entry.get("result"):
             result = entry["result"]
             cached_hits += 1
-        elif checked >= limit:
+        elif checked >= limit or time.monotonic() - started > wall_seconds:
             # Out of budget for this run rather than out of studies. Recorded so
             # the dashboard can say the check was partial instead of implying
-            # these studies came back clean.
+            # these studies came back clean. Two budgets now: the shared SerpAPI
+            # quota, and the wall clock -- a slow or rate-limited SerpAPI spends
+            # the second long before the first.
+            out_of_time = out_of_time or checked < limit
             skipped += 1
             continue
         else:
@@ -259,5 +280,14 @@ def check_digest(
     if cache_path and stored:
         _save_cache(cache_path, cache)
 
-    return {"checked": checked, "cached": cached_hits, "skipped": skipped,
-            "outlets": covered, "by_study": by_study, "by_pmid": by_pmid}
+    result = {"checked": checked, "cached": cached_hits, "skipped": skipped,
+              "outlets": covered, "by_study": by_study, "by_pmid": by_pmid}
+    if out_of_time:
+        # Not a skipped_reason: the check did run and what it found is real.
+        # This says the remainder was abandoned on time, so the dashboard does
+        # not read silence as "no outlet has covered these".
+        result["partial_reason"] = (
+            f"coverage stopped after {wall_seconds:.0f}s; "
+            f"{skipped} study(ies) unchecked"
+        )
+    return result

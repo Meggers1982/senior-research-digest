@@ -65,7 +65,18 @@ jobs:
         run: |
           git config user.name  "senior-living-digest-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add outputs/ topic_memory/ docs/ state/
+          # Add only the directories that exist. `state/` holds the web-coverage
+          # cache and is created lazily on the first run that stores something,
+          # so on a run where coverage is skipped or fully cached it is absent --
+          # and `git add` on a missing pathspec is fatal, not a warning. That
+          # took down the 2026-09-06 23:25 run *after* the pipeline had
+          # succeeded, discarding a digest that was already written.
+          # `if`, not `[ -d ] &&` -- the step runs under `bash -e`, and a
+          # short-circuited && on the final iteration is a non-zero loop status,
+          # which would fail the step for the exact reason we are fixing.
+          for dir in outputs topic_memory docs state; do
+            if [ -d "$dir" ]; then git add "$dir"; fi
+          done
           git diff --cached --quiet || git commit -m "digest: $(date -u +%Y-%m-%d)"
           git push
 

@@ -2,8 +2,14 @@ name: Daily Senior Living Digest
 
 on:
   schedule:
-    # Runs at 09:00 UTC every day (adjust to taste)
-    - cron: "0 9 * * *"
+    # 08:23 UTC = 3:23am CDT / 2:23am CST -- early AM year round, and off the hour
+    # on purpose. GitHub queues scheduled workflows behind everyone else's, and the
+    # backlog is worst at :00 on a round hour. This job was set to "0 9" and the
+    # twelve scheduled runs before 2026-09-06 actually started 12:14-20:32 UTC:
+    # 3.5 to 11.5 hours late, landing the digest at 8-9am local most days and
+    # mid-afternoon twice. An odd minute does not eliminate the drift -- nothing in
+    # Actions can -- but it starts the wait from a much shorter queue. MEA-231.
+    - cron: "23 8 * * *"
 
   # Allow manual runs with an optional focus override
   workflow_dispatch:

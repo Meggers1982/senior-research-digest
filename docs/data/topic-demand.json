@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:18:28.560493+00:00",
+  "generated_at": "2026-09-07T18:30:13.253583+00:00",
   "geo": "US",
   "no_signal": [
     "cardiovascular disease",
@@ -10,66 +10,60 @@
   ],
   "rising_queries": [
     {
-      "extracted_value": 60,
-      "query": "aphasia",
-      "seed": "older adult health",
-      "value": "+60%"
-    },
-    {
-      "extracted_value": 40,
+      "extracted_value": 50,
       "query": "senior mental health",
       "seed": "senior health",
-      "value": "+40%"
+      "value": "+50%"
     }
   ],
   "rotation": {
     "dementia": {
-      "change_pct": -8.9,
+      "change_pct": -9.9,
       "peak": 15.0,
-      "prior_mean": 14.0,
-      "recent_mean": 12.8
+      "prior_mean": 13.9,
+      "recent_mean": 12.5
     },
     "depression": {
-      "change_pct": -25.8,
-      "peak": 34.0,
-      "prior_mean": 26.6,
-      "recent_mean": 19.8
+      "change_pct": -26.1,
+      "peak": 33.0,
+      "prior_mean": 25.9,
+      "recent_mean": 19.1
     },
     "falls": {
-      "change_pct": 2.4,
+      "change_pct": 0.0,
       "peak": 100.0,
-      "prior_mean": 89.5,
-      "recent_mean": 91.6
+      "prior_mean": 90.2,
+      "recent_mean": 90.2
     },
     "hearing loss": {
-      "change_pct": -29.9,
+      "change_pct": -33.3,
       "peak": 100.0,
-      "prior_mean": 84.5,
-      "recent_mean": 59.2
+      "prior_mean": 86.0,
+      "recent_mean": 57.4
     },
     "nutrition": {
-      "change_pct": -35.3,
-      "peak": 79.0,
-      "prior_mean": 68.8,
-      "recent_mean": 44.5
+      "change_pct": -39.6,
+      "peak": 77.0,
+      "prior_mean": 67.6,
+      "recent_mean": 40.9
     },
     "polypharmacy": {
-      "change_pct": -25.0,
+      "change_pct": -31.0,
       "peak": 5.0,
-      "prior_mean": 3.5,
-      "recent_mean": 2.6
+      "prior_mean": 3.6,
+      "recent_mean": 2.5
     },
     "sleep": {
-      "change_pct": -17.5,
+      "change_pct": -19.1,
       "peak": 100.0,
-      "prior_mean": 87.8,
-      "recent_mean": 72.4
+      "prior_mean": 88.9,
+      "recent_mean": 71.9
     },
     "vision loss": {
-      "change_pct": -49.5,
-      "peak": 48.0,
-      "prior_mean": 39.9,
-      "recent_mean": 20.1
+      "change_pct": -56.2,
+      "peak": 53.0,
+      "prior_mean": 41.1,
+      "recent_mean": 18.0
     }
   },
   "window": "today 12-m"

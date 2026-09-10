@@ -60,6 +60,13 @@ parsers that build the dashboard are regexes over model output and have drifted
 silently before, so the suite is the thing that makes that loud. It touches no
 API and costs nothing.
 
+One test is the exception: `tests/test_batch_budget.py` runs as its own step,
+**Check batch sizing (warning only)**, and does not fail the run. It sizes the
+digest batches from the records the pipeline has already written, so a gate on
+it let one long study, committed by a successful run, stop every digest after it
+(2026-09-08 to 09-10, MEA-373). A red step there means the batch size wants
+revisiting; the digest still ships.
+
 A healthy run finishes in about six minutes. The workflow caps itself with
 `timeout-minutes` (30 for the job, 20 for the pipeline step, 10 for the Vercel
 deploy) so a hung run fails fast instead of sitting on GitHub's six-hour
@@ -351,9 +358,14 @@ Python renders the markdown. The heading level is no longer its to choose.
   from drifting apart.
 - **The continuation retry does not survive this.** Half a JSON array cannot be
   repaired by concatenating the next turn the way half a paragraph can, so
-  `llm.complete_json` raises and the input is batched instead — 12 abstracts per
+  `llm.complete_json` raises and the input is batched instead — 8 abstracts per
   digest call, 10 studies per fact-check call. `trends.py` still returns prose and
   keeps the retry.
+- A digest batch that still hits `max_tokens` is split in half and retried, down
+  to a single abstract, so an overrun costs extra calls rather than studies.
+  `tests/test_batch_budget.py` sizes the batches from the last 14 runs (one full
+  focus rotation), not the whole archive, so one long record ages out instead of
+  failing the check forever.
 - A PMID the model invented is dropped in both steps, and a declined batch loses
   only its own studies rather than the run.
 

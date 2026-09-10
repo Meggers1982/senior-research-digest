@@ -5,9 +5,24 @@ overruns max_tokens loses its studies. The batch sizes were a convention -- the
 only check on them asserted the constant was <= 15, which is not a measurement.
 
 This measures the real thing it can measure: the size of the records the model
-has to return, taken from every study in the committed archive. It cannot see
-adaptive-thinking spend, so it holds the output to half the budget and leaves
-the rest as headroom. A live check against the API is still owed.
+has to return, taken from the most recent runs in the committed archive. It
+cannot see adaptive-thinking spend, so it holds the output to half the budget
+and leaves the rest as headroom. A live check against the API is still owed.
+
+Recent runs, not the whole archive. This used to take the max over every study
+ever committed, and a max over a set that only grows can only go up: the
+2026-09-07 run succeeded, committed one 2,708-character record, and every run
+after it failed this check (MEA-373). A percentile over the whole archive would
+be worse, not better. The generator that shipped 2026-09-05 writes records ~40%
+longer than the one before it, so the archive's p95 (~1,840) sits below the
+*median* of the current output (~2,080) and would pass a batch the live model
+can overrun. The last RECENT_RUNS runs are what the current prompt and model
+produce, and a single outlier ages out after one full focus rotation.
+
+The workflow runs this as its own step, after the gating suite, and does not
+fail the run on it. Its inputs are the pipeline's own output, so it must not be
+able to stop the pipeline; and an overrun batch is split and retried rather
+than lost, so a size that has drifted costs calls, not studies.
 """
 import json
 import sys
@@ -33,10 +48,17 @@ DIGEST_FIELDS = ("pmid", "headline", "journal", "published", "doi", "the_study",
                  "caveats")
 
 
+# One full pass of the 14-topic focus rotation, so every topic's typical record
+# length is in the window.
+RECENT_RUNS = 14
+
+
 def _archive_studies():
-    for path in sorted(RUNS_DIR.glob("*.json")):
-        for study in json.loads(path.read_text(encoding="utf-8")).get("studies", []):
-            yield study
+    runs = [json.loads(path.read_text(encoding="utf-8"))
+            for path in RUNS_DIR.glob("*.json")]
+    runs.sort(key=lambda run: run.get("run_date") or "")
+    for run in runs[-RECENT_RUNS:]:
+        yield from run.get("studies", [])
 
 
 def _worst_record_chars(build) -> int:

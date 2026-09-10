@@ -30,6 +30,15 @@ class ModelDeclined(RuntimeError):
     """
 
 
+class Truncated(ValueError):
+    """A `complete_json` answer hit `max_tokens`, so the JSON is incomplete.
+
+    A ValueError so callers that only catch that still survive it; its own type
+    so a caller can tell "too much at once" (retry with less) from "did not
+    parse" (retrying the same input will not help).
+    """
+
+
 def text_of(response) -> str:
     """Concatenate the response's text blocks.
 
@@ -130,7 +139,7 @@ def complete_json(
         max_tokens=max_tokens, model=model, output_schema=schema,
     )
     if response.stop_reason == "max_tokens":
-        raise ValueError(
+        raise Truncated(
             f"{label}: response hit max_tokens, so the JSON is incomplete. "
             "Send fewer items per call."
         )

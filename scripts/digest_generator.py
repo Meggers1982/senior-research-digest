@@ -99,10 +99,20 @@ STUDY_SCHEMA = {
 # It costs nothing in calls: abstracts are capped at 40, so both 10 and 12 come
 # out at four batches for a full run.
 #
-# tests/test_batch_budget.py recomputes this from the archive, so the size
-# cannot drift past the budget as the schema grows. What no offline measurement
-# can see is the thinking spend -- that still wants one live check.
-ABSTRACTS_PER_CALL = 10
+# Ten stopped fitting within two days. The Opus 5 structured-output generator
+# that shipped 2026-09-05 writes longer records than the archive it was sized
+# against: the 09-06 and 09-07 digests ran a median 2,008 and 2,158 characters,
+# above the old worst case, and one 09-07 record reached 2,708. Ten of those is
+# ~9,050 tokens against the 8,000 half-budget, so the pre-flight check failed
+# every run from 09-08 on (MEA-373). Eight is ~7,240 and leaves a record room to
+# grow to ~2,990 characters. Five batches for a full run instead of four.
+#
+# tests/test_batch_budget.py recomputes this from recent runs, so a drift shows
+# up as a warning on the run. It no longer has to be exact: a batch that does
+# overrun is split in half and retried below, so the cost of a wrong size is a
+# few extra calls, not lost studies. What no offline measurement can see is the
+# thinking spend -- that still wants one live check (MEA-21).
+ABSTRACTS_PER_CALL = 8
 
 
 def generate_digest(
@@ -175,12 +185,16 @@ def generate_digest(
 
     records = []
     pmids = list(abstracts)
-    batches = [pmids[i:i + ABSTRACTS_PER_CALL]
+    pending = [pmids[i:i + ABSTRACTS_PER_CALL]
                for i in range(0, len(pmids), ABSTRACTS_PER_CALL)]
-    for index, batch in enumerate(batches, start=1):
+    total = len(pending)
+    index = 0
+    while pending:
+        batch = pending.pop(0)
+        index += 1
         block = "\n\n".join(f"--- PMID {pmid} ---\n{abstracts[pmid]}" for pmid in batch)
         message = (
-            f"Batch {index} of {len(batches)}. Write up the newsworthy studies among "
+            f"Batch {index} of {total}. Write up the newsworthy studies among "
             f"the {len(batch)} abstracts below.\n\n"
             f"**Primary audience:** {primary_audience}\n"
             f"**Secondary audience:** {secondary_audience}\n"
@@ -199,12 +213,24 @@ def generate_digest(
         except llm.ModelDeclined as exc:
             print(f"  WARNING: batch {index} declined ({exc}); its studies are omitted.")
             continue
+        except llm.Truncated as exc:
+            # Half a JSON array cannot be stitched, but the same abstracts in
+            # two smaller calls each fit where one did not. The halves go to the
+            # front of the queue so the batch numbering still reads in order. A
+            # single abstract that still overruns has nothing left to split.
+            if len(batch) > 1:
+                half = len(batch) // 2
+                pending[:0] = [batch[:half], batch[half:]]
+                total += 1
+                print(f"  WARNING: batch {index} hit max_tokens with {len(batch)} "
+                      "abstracts; retrying it as two halves.")
+            else:
+                print(f"  WARNING: batch {index} ({exc}); its study is omitted.")
+            continue
         except ValueError as exc:
-            # complete_json raises ValueError when the answer hit max_tokens
-            # (a half-written JSON array cannot be stitched), and
             # json.JSONDecodeError -- itself a ValueError -- when the payload
-            # will not parse. Either way this batch is unusable, but it is
-            # only one batch: letting it propagate would take the whole run
+            # will not parse. Retrying the same input will not fix that, and it
+            # is only one batch: letting it propagate would take the whole run
             # down and lose the digest entirely.
             print(f"  WARNING: batch {index} returned unusable JSON ({exc}); "
                   "its studies are omitted.")

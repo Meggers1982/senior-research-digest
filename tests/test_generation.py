@@ -76,7 +76,8 @@ class DigestBatchingTests(unittest.TestCase):
         abstracts = {str(40000000 + i): f"abstract {i}" for i in range(30)}
         client, _, _, records = self._run(
             abstracts, lambda kw: Response({"studies": [study(p) for p in pmids_in(kw)]}))
-        self.assertEqual(len(client.messages.calls), 3)   # 30 / 12, rounded up
+        size = digest_generator.ABSTRACTS_PER_CALL
+        self.assertEqual(len(client.messages.calls), -(-30 // size))   # rounded up
         self.assertEqual(len(records), 30)
         seen = [p for call in client.messages.calls for p in pmids_in(call)]
         self.assertEqual(sorted(seen), sorted(abstracts))
@@ -122,24 +123,41 @@ class DigestBatchingTests(unittest.TestCase):
         _, _, selected, _ = self._run(abstracts, responder)
         self.assertEqual(len(selected), size)   # the second batch survives
 
-    def test_a_truncated_batch_loses_only_its_own_studies(self):
-        """complete_json refuses to stitch half a JSON array and raises
-        ValueError. The caller has to survive that the way it survives a
-        refusal -- otherwise one oversized batch costs the whole run."""
+    def test_a_truncated_batch_is_retried_as_two_halves(self):
+        """complete_json refuses to stitch half a JSON array. The same
+        abstracts in two smaller calls each fit where one did not, so an
+        overrun costs calls rather than studies (MEA-373)."""
         size = digest_generator.ABSTRACTS_PER_CALL
         abstracts = {str(40000000 + i): "x" for i in range(size * 2)}
-        calls = {"n": 0}
 
         def responder(kwargs):
-            calls["n"] += 1
-            if calls["n"] == 1:
+            if len(pmids_in(kwargs)) == size:   # a full batch is too big
+                response = Response({"studies": []})
+                response.stop_reason = "max_tokens"
+                return response
+            return Response({"studies": [study(p) for p in pmids_in(kwargs)]})
+
+        client, _, selected, _ = self._run(abstracts, responder)
+        self.assertEqual(sorted(selected), sorted(abstracts))   # nothing lost
+        self.assertEqual(len(client.messages.calls), 2 + 4)     # 2 full, 4 halves
+        # Halves run in order, before the batch that followed the overrun one.
+        order = [p for call in client.messages.calls[1:3] for p in pmids_in(call)]
+        self.assertEqual(order, list(abstracts)[:size])
+
+    def test_a_single_abstract_that_still_truncates_loses_only_itself(self):
+        """Nothing is left to split, so the study is dropped -- not the run."""
+        abstracts = {str(40000000 + i): "x" for i in range(4)}
+        bad = "40000002"
+
+        def responder(kwargs):
+            if bad in pmids_in(kwargs):
                 response = Response({"studies": []})
                 response.stop_reason = "max_tokens"
                 return response
             return Response({"studies": [study(p) for p in pmids_in(kwargs)]})
 
         _, _, selected, _ = self._run(abstracts, responder)
-        self.assertEqual(len(selected), size)   # the second batch survives
+        self.assertEqual(sorted(selected), sorted(set(abstracts) - {bad}))
 
     def test_an_unparseable_batch_loses_only_its_own_studies(self):
         size = digest_generator.ABSTRACTS_PER_CALL

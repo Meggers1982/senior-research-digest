@@ -49,7 +49,17 @@ jobs:
       # have drifted silently before; running the suite here is what makes that
       # loud. Cheap -- it touches no API.
       - name: Run tests
-        run: python -m pytest tests/ -q
+        run: python -m pytest tests/ -q --ignore=tests/test_batch_budget.py
+
+      # Batch sizing is measured from the archive this pipeline writes, so it
+      # cannot be allowed to gate the pipeline: one long study committed by a
+      # successful run failed this check and stopped every digest from
+      # 2026-09-08 on (MEA-373). An overrun batch is now split and retried, so a
+      # stale size costs extra calls, not studies. Red here means "resize the
+      # batches"; the digest still runs.
+      - name: Check batch sizing (warning only)
+        continue-on-error: true
+        run: python -m pytest tests/test_batch_budget.py -q
 
       # PYTHONUNBUFFERED is what makes a hang diagnosable. Python block-buffers
       # stdout when it is a pipe, so when the 2026-09-06 run was killed at the

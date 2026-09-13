@@ -33,11 +33,14 @@ def search_by_issns(
     max_total: int = 200,
     ncbi_api_key: Optional[str] = None,
     per_batch_cap: int = 100,
+    qualifier: str = "",
 ) -> list[str]:
     """Search PubMed across a list of ISSNs and return unique PMIDs.
 
     ISSNs are batched into groups of `max_per_batch` to stay within URL limits.
-    If `subject_focus` is provided it is ANDed with each batch query.
+    If `subject_focus` is provided it is ANDed with each batch query, and so is
+    `qualifier` -- a raw PubMed expression, used to hold general journals to
+    studies about older adults.
 
     Every batch is searched, and the per-batch results (newest first) are
     merged by fractional rank so each batch contributes in proportion to how
@@ -58,6 +61,8 @@ def search_by_issns(
             term = f'({issn_term}) AND ("{subject_focus}"[Title/Abstract])'
         else:
             term = issn_term
+        if qualifier:
+            term = f"({term}) AND {qualifier}"
 
         params: dict = {
             "db": "pubmed",
@@ -99,23 +104,35 @@ def search_by_issns(
     return all_pmids[:max_total]
 
 
+SUMMARY_CHUNK = 200
+
+
 def fetch_summaries(
     pmids: list[str],
     ncbi_api_key: Optional[str] = None,
+    chunk: int = SUMMARY_CHUNK,
 ) -> dict:
-    """Fetch document summaries for a list of PMIDs."""
-    if not pmids:
-        return {}
-    params: dict = {
-        "db": "pubmed",
-        "id": ",".join(pmids),
-        "retmode": "json",
-    }
-    if ncbi_api_key:
-        params["api_key"] = ncbi_api_key
+    """Fetch document summaries for a list of PMIDs.
 
-    resp = _get(f"{EUTILS_BASE}/esummary.fcgi", params)
-    return resp.json().get("result", {})
+    Chunked because the IDs ride in a GET query string: the topic lane's 200
+    fit in one call, the new-this-week lane's several hundred do not.
+    """
+    result: dict = {}
+    for i in range(0, len(pmids), chunk):
+        params: dict = {
+            "db": "pubmed",
+            "id": ",".join(pmids[i:i + chunk]),
+            "retmode": "json",
+        }
+        if ncbi_api_key:
+            params["api_key"] = ncbi_api_key
+
+        resp = _get(f"{EUTILS_BASE}/esummary.fcgi", params)
+        part = resp.json().get("result", {})
+        uids = result.get("uids", []) + part.pop("uids", [])
+        result.update(part)
+        result["uids"] = uids
+    return result
 
 
 def fetch_abstract(

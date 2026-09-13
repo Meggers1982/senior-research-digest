@@ -7,11 +7,13 @@ run to a browsable dashboard.
 
 ## How it works
 
-`.github/workflows/daily-digest.yml` runs `scripts/main.py` on a daily cron
-(08:23 UTC, early AM Central) via GitHub Actions. Expect it to start late --
+`.github/workflows/daily-digest.yml` runs `scripts/main.py` twice on a daily
+cron (08:23 UTC, early AM Central) via GitHub Actions: once for the **topic
+rotation** described below, and once for the **new-this-week** run — see
+[The new-this-week run](#the-new-this-week-run). Expect it to start late --
 GitHub queues scheduled workflows, and observed delays have run from 30 minutes
 to 11 hours. The odd minute is deliberate: the queue is worst on a round hour.
-Each run:
+Each topic run:
 
 1. **Searches PubMed** (`pubmed.py`) across ~167 curated aging/gerontology
    journals (`journals.py`) for articles from the last 90 days, optionally
@@ -67,10 +69,55 @@ it let one long study, committed by a successful run, stop every digest after it
 (2026-09-08 to 09-10, MEA-373). A red step there means the batch size wants
 revisiting; the digest still ships.
 
-A healthy run finishes in about six minutes. The workflow caps itself with
-`timeout-minutes` (30 for the job, 20 for the pipeline step, 10 for the Vercel
-deploy) so a hung run fails fast instead of sitting on GitHub's six-hour
+A healthy topic run finishes in about six minutes. The workflow caps itself
+with `timeout-minutes` (55 for the job, 20 for each pipeline step, 10 for the
+Vercel deploy) so a hung run fails fast instead of sitting on GitHub's six-hour
 default.
+
+## The new-this-week run
+
+The second daily run (`DIGEST_LANE=fresh`, `scripts/fresh_lane.py`) is what
+`elderly-geriatric-digest` used to do, moved here on 2026-09-13 (MEA-573). The
+two repos searched 106 of the same journals yet shared only 12 of ~700 studies
+each, because the difference was the search, not the list: that repo read seven
+days of everything, this one reads 90 days of one topic. So the search is what
+moved, and everything after selection is this pipeline's.
+
+1. **Searches the last 7 days across 612 journals**, with no topic phrase: the
+   167 in `journals.py` plus the 445 in `config/journals_extended.csv` (358
+   neurology, 51 rehabilitation, 28 rheumatology, 8 geriatrics — the ones that
+   repo had and this one did not). With no phrase to keep them on subject, the
+   485 general titles (`AGE_QUALIFIED_JOURNALS` and every `general` row in the
+   CSV) are held to an older-adult Title/Abstract qualifier. On 2026-09-13 that
+   found 571 articles.
+2. **Screens** out anything any earlier digest already wrote up (the window
+   overlaps itself six days in seven), editorials/letters/case reports,
+   records with no abstract, and animal-only titles.
+3. **Ranks** what is left on design and journal (the same `scoring.py`
+   functions that score the finished digest) plus novelty words in the title.
+4. **Drops what the press already has** before any abstract is fetched: the top
+   48 go through the Google News check, anything `widely_reported` is dropped,
+   and the first 40 of the rest become the batch.
+5. **Nudges the model with her feedback** — the studies she saved or passed on
+   in the shared dashboard (its public `/api/status`), as a soft signal.
+   `elderly-geriatric-digest` read the same feedback from Supabase, which the
+   dashboard stopped writing to on 2026-09-02.
+6. Then the same records → fact check → coverage → trends → scoring as a topic
+   run. It files as `Senior Living Research Digest — New This Week — <date>.md`,
+   its focus is "New this week", and its trends memory is
+   `topic_memory/new-this-week.md`.
+
+Its studies also go to the shared
+[research-digest-dashboard](https://research-digest-dashboard.vercel.app) as
+source `senior-research` ("Senior Living — New This Week").
+`build_dashboard_data.py` writes them to `docs/data/shared-dashboard.json` in
+that dashboard's shape, and the dashboard pulls the file from this repo
+(`sync-senior-research.yml` there), so no cross-repo token lives here.
+
+The lanes are independent steps: either can fail without discarding the other's
+digest, and either failing fails the job. **Run workflow** takes a `lane` input
+(`both`, `topic`, `fresh`) for running one on its own. Settings live under
+`new_this_week` in `config/digest_config.json`.
 
 ## Dashboard
 
@@ -274,7 +321,10 @@ Edit `config/digest_config.json` and commit — the next run picks it up:
 - `focus_rotation` — the list of topics rotated through by day-of-year.
 - `primary_audience` / `secondary_audience` — who the two story-angle bullets
   per study are written for.
-- `days_back` — PubMed lookback window (days).
+- `days_back` — PubMed lookback window (days) for the topic rotation.
+- `new_this_week` — the second run: `days_back` (7), `max_abstracts` (40),
+  `coverage_checks` (how many candidates are checked against Google News before
+  selection, 48) and `coverage_days` (the news window for that check, 14).
 
 ## Required secrets (GitHub Actions)
 
@@ -292,7 +342,13 @@ Set these under repo Settings → Secrets and variables → Actions:
   2026-09-05**, and Actions only puts a secret in the environment if the step
   names it — so the coverage check had never run on a scheduled digest. Expect up
   to ~20 Google News searches on the first few runs while the cache fills, then
-  far fewer, plus a weekly Trends batch of about 6.
+  far fewer, plus a weekly Trends batch of about 6. The new-this-week run adds up
+  to 48 a day — less than `elderly-geriatric-digest`, which could spend 300.
+
+  Google News answers a search that finds nothing with an error body. Until
+  2026-09-13 that was counted as a failed check, so every unreported study — the
+  best answer the check can give — showed as "skipped" (11 of 22 on that day's
+  run). It is now read as "unreported".
 
 ### Journal list
 
@@ -301,6 +357,12 @@ exists. A wrong ISSN fails silently: PubMed returns it in `phrasesnotfound`
 and the journal contributes nothing, so check a new entry against
 `https://www.ncbi.nlm.nih.gov/nlmcatalog/journals` and confirm it returns a
 non-zero count for `<issn>[issn]` before adding it.
+
+`config/journals_extended.csv` is the new-this-week run's additional list,
+extracted from `elderly-geriatric-digest`'s five category CSVs minus everything
+already here (matched on either ISSN, then on title). Its `group` column is
+`aging` for the seven that are about older adults by definition and `general`
+for the rest.
 
 Audited against the NLM Catalog on 2026-09-03: of the 75 currently
 MEDLINE-indexed journals under NLM's "Geriatrics" broad subject term, the only
@@ -318,6 +380,7 @@ scripts/
   main.py                  entry point — orchestrates the full pipeline
   pubmed.py                PubMed E-utilities client
   journals.py              curated list of (journal name, ISSN) pairs searched
+  fresh_lane.py            the new-this-week run's search, screen and selection
   llm.py                   the one place this pipeline talks to Claude
   digest_generator.py      Claude prompt + schema that produces the study records
   digest_render.py         renders those records into the digest markdown
@@ -328,12 +391,14 @@ scripts/
   outlets.py               pitch targets from the publisher registry, clinical-topic matching
   web_coverage.py          Google News check — has the press already run these studies?
   topic_demand.py          weekly Google Trends report on the focus rotation
-  build_dashboard_data.py  parses outputs/*.md into docs/data/index.json + runs/
+  build_dashboard_data.py  parses outputs/*.md into docs/data/index.json + runs/,
+                           and the shared dashboard's docs/data/shared-dashboard.json
 outputs/                   every digest + fact-check ever generated (.md + .coverage.json)
 topic_memory/              per-topic running memory used by trends.py
 state/                     SerpAPI coverage cache — committed, the runner does not persist
 docs/                      static dashboard (index.html + data/), deployed to Vercel
-config/digest_config.json  audience and rotation settings
+config/digest_config.json  audience, rotation and new-this-week settings
+config/journals_extended.csv  the new-this-week run's 445 extra journals
 config/media/              publisher registries, exported from the AgingWire workbooks
 tests/                     pipeline, scoring, render round-trip and dashboard tests
 .github/workflows/         daily cron (daily-digest.yml), weekly topic demand (topic-demand.yml)

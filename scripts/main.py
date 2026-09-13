@@ -10,6 +10,7 @@ from journals import ISSNS
 from pubmed import search_by_issns, fetch_summaries, fetch_abstracts_for_pmids
 from digest_generator import generate_digest
 from fact_checker import run_fact_check
+import fresh_lane
 import outlets as outlets_mod
 import web_coverage
 from trends import generate_trends_section
@@ -39,6 +40,16 @@ DEFAULT_FOCUS_ROTATION = [
     "vision loss",
     "polypharmacy",
 ]
+
+
+def digest_filename(lane: str, focus: str, now: datetime | None = None) -> str:
+    """The topic lane files by month ("(Part N)" on a repeat); the new-this-week
+    lane runs every day, so it files by date instead of stacking thirty Parts."""
+    now = now or datetime.now()
+    if lane == "fresh":
+        return f"Senior Living Research Digest — {focus.title()} — {now:%Y-%m-%d}.md"
+    focus_tag = f" — {focus.title()}" if focus else ""
+    return f"Senior Living Research Digest{focus_tag} — {now:%B %Y}.md"
 
 
 def load_config() -> dict:
@@ -73,15 +84,26 @@ def pick_subject_focus(config: dict) -> str:
     return focus
 
 
+def pick_lane() -> str:
+    """"topic" (the rotation) or "fresh" (new this week), from DIGEST_LANE."""
+    lane = os.environ.get("DIGEST_LANE", "").strip().lower() or "topic"
+    if lane not in ("topic", "fresh"):
+        sys.exit(f"ERROR: DIGEST_LANE must be 'topic' or 'fresh', not {lane!r}.")
+    return lane
+
+
 def unique_output_path(base_path: Path) -> Path:
     if not base_path.exists():
         return base_path
     stem, suffix, parent = base_path.stem, base_path.suffix, base_path.parent
-    for n in range(2, 20):
-        candidate = parent / f"{stem} (Part {n}){suffix}"
-        if not candidate.exists():
-            return candidate
-    return base_path
+    # This stopped at Part 19 and then handed back the original path, so a
+    # twentieth run in one month would have overwritten the first. The guard
+    # was never reached with one broad day in fourteen; it is not a bound worth
+    # having at all.
+    n = 2
+    while (parent / f"{stem} (Part {n}){suffix}").exists():
+        n += 1
+    return parent / f"{stem} (Part {n}){suffix}"
 
 
 def write_run_sidecar(digest_path: Path, coverage: dict, summaries: dict,
@@ -134,47 +156,74 @@ def main() -> None:
 
     # ── Config ───────────────────────────────────────────────────────────────
     config = load_config()
-    subject_focus = pick_subject_focus(config)
+    lane = pick_lane()
     primary_audience = config["primary_audience"]
     secondary_audience = config["secondary_audience"]
-    days_back = config.get("days_back", 90)
-
-    print(f"\n{'=' * 60}")
-    print(f"Senior Living Digest Pipeline — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
-    print(f"Journals  : {len(ISSNS)} curated senior care journals")
-    print(f"Focus     : {subject_focus or '(broad — all senior living topics)'}")
-    print(f"Audience  : {primary_audience} / {secondary_audience}")
-    print(f"{'=' * 60}\n")
-
     OUTPUTS_DIR.mkdir(exist_ok=True)
 
-    # ── Step 1: Search PubMed by ISSN ────────────────────────────────────────
-    print("Searching PubMed across all senior care journals...")
-    pmids = search_by_issns(
-        issns=ISSNS,
-        days_back=days_back,
-        subject_focus=subject_focus,
-        max_per_batch=25,
-        max_total=200,
-        ncbi_api_key=ncbi_api_key,
-    )
-    print(f"Found {len(pmids)} article IDs")
+    # The two lanes differ only in how they choose the abstracts. Everything
+    # from generation on is shared.
+    guidance = screened_note = ""
+    if lane == "fresh":
+        # No search phrase: the lane is every study from the week. `focus` is
+        # the run's name -- the header, the trends match, the topic memory file.
+        subject_focus = ""
+        focus = fresh_lane.FOCUS_LABEL
+        print(f"\n{'=' * 60}")
+        print(f"New This Week Pipeline — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
+        print(f"{'=' * 60}\n")
+        picked = fresh_lane.gather(config, OUTPUTS_DIR, ncbi_api_key=ncbi_api_key)
+        days_back = picked["settings"]["days_back"]
+        coverage_days = picked["settings"]["coverage_days"]
+        summaries = picked["summaries"]
+        journal_count = picked["journal_count"]
+        to_fetch = picked["pmids"]
+        screened_note = f" (of {picked['found']} published)"
+        guidance = fresh_lane.GUIDANCE
+        note = fresh_lane.feedback_note()
+        if note:
+            guidance += "\n\n" + note
+    else:
+        subject_focus = focus = pick_subject_focus(config)
+        days_back = coverage_days = config.get("days_back", 90)
+        journal_count = len(ISSNS)
 
-    if not pmids:
-        print("No articles found. Exiting.")
-        sys.exit(0)
+        print(f"\n{'=' * 60}")
+        print(f"Senior Living Digest Pipeline — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
+        print(f"Journals  : {len(ISSNS)} curated senior care journals")
+        print(f"Focus     : {subject_focus or '(broad — all senior living topics)'}")
+        print(f"Audience  : {primary_audience} / {secondary_audience}")
+        print(f"{'=' * 60}\n")
 
-    # ── Step 2: Fetch summaries ───────────────────────────────────────────────
-    # These used to be fetched and discarded. They are PubMed's own record of the
-    # publication date and journal, so they now go into the run's sidecar as
-    # better provenance than the model's transcription of the same fields.
-    print("Fetching summaries...")
-    summaries = fetch_summaries(pmids, ncbi_api_key=ncbi_api_key)
-    print(f"Fetched {len(summaries)} summaries")
+        # ── Step 1: Search PubMed by ISSN ────────────────────────────────────
+        print("Searching PubMed across all senior care journals...")
+        pmids = search_by_issns(
+            issns=ISSNS,
+            days_back=days_back,
+            subject_focus=subject_focus,
+            max_per_batch=25,
+            max_total=200,
+            ncbi_api_key=ncbi_api_key,
+        )
+        print(f"Found {len(pmids)} article IDs")
+
+        if not pmids:
+            print("No articles found. Exiting.")
+            sys.exit(0)
+
+        # ── Step 2: Fetch summaries ──────────────────────────────────────────
+        # These used to be fetched and discarded. They are PubMed's own record
+        # of the publication date and journal, so they now go into the run's
+        # sidecar as better provenance than the model's transcription of the
+        # same fields.
+        print("Fetching summaries...")
+        summaries = fetch_summaries(pmids, ncbi_api_key=ncbi_api_key)
+        print(f"Fetched {len(summaries)} summaries")
+        to_fetch = pmids[:40]
 
     # ── Step 3: Fetch abstracts (cap at 40) ───────────────────────────────────
-    print("Fetching abstracts (up to 40)...")
-    abstracts = fetch_abstracts_for_pmids(pmids[:40], ncbi_api_key=ncbi_api_key)
+    print(f"Fetching abstracts ({len(to_fetch)})...")
+    abstracts = fetch_abstracts_for_pmids(to_fetch, ncbi_api_key=ncbi_api_key)
     print(f"Retrieved {len(abstracts)} abstracts with usable content")
 
     if not abstracts:
@@ -188,15 +237,16 @@ def main() -> None:
         primary_audience=primary_audience,
         secondary_audience=secondary_audience,
         abstracts=abstracts,
-        journal_count=len(ISSNS),
+        journal_count=journal_count,
         api_key=anthropic_api_key,
+        focus_label=focus if lane == "fresh" else "",
+        days_back=days_back,
+        guidance=guidance,
+        screened_note=screened_note,
     )
     print(f"Digest generated — {len(selected_pmids)} studies selected")
 
-    month_year = datetime.now().strftime("%B %Y")
-    focus_tag = f" — {subject_focus.title()}" if subject_focus else ""
-    digest_filename = f"Senior Living Research Digest{focus_tag} — {month_year}.md"
-    digest_path = unique_output_path(OUTPUTS_DIR / digest_filename)
+    digest_path = unique_output_path(OUTPUTS_DIR / digest_filename(lane, focus))
 
     # ── Step 5: Run fact checker ──────────────────────────────────────────────
     print("\nRunning fact checker...")
@@ -205,7 +255,7 @@ def main() -> None:
         selected_pmids=selected_pmids,
         ncbi_api_key=ncbi_api_key,
         anthropic_api_key=anthropic_api_key,
-        subject_focus=subject_focus,
+        subject_focus=focus,
     )
 
     fact_check_filename = digest_path.stem + " Fact Check.md"
@@ -220,7 +270,7 @@ def main() -> None:
     print("Checking web coverage...")
     coverage = web_coverage.check_digest(
         web_coverage.studies_from_digest(digest_content),
-        days_back=days_back,
+        days_back=coverage_days,
     )
     if coverage.get("skipped_reason"):
         print(f"Web coverage: skipped — {coverage['skipped_reason']}")
@@ -234,12 +284,12 @@ def main() -> None:
             print(f"Web coverage: PARTIAL — {coverage['partial_reason']}")
 
     outlet_candidates = outlets_mod.candidate_block(
-        subject_focus, exclude=coverage.get("outlets") or set()
+        focus, exclude=coverage.get("outlets") or set()
     )
 
     print("Calling the trends model (largest payload in the pipeline)...")
     trends_section = generate_trends_section(
-        subject_focus=subject_focus,
+        subject_focus=focus,
         digest_content=digest_content,
         outputs_dir=OUTPUTS_DIR,
         memory_dir=TOPIC_MEMORY_DIR,

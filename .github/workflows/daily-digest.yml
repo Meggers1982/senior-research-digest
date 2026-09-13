@@ -20,14 +20,22 @@ on:
           Examples: "dementia", "falls", "nutrition"
         required: false
         default: ""
+      lane:
+        description: >
+          Which run: both (the schedule's default), topic (the rotation) or
+          fresh (new this week).
+        required: false
+        default: both
+        type: choice
+        options: [both, topic, fresh]
 
 jobs:
   digest:
     name: Generate senior living digest
     runs-on: ubuntu-latest
-    # Healthy runs finish in ~6 min; cap the job so a hang fails fast
+    # Two pipelines of ~6-15 min each; cap the job so a hang fails fast
     # instead of burning the 6-hour default (see the 2026-08-08 run).
-    timeout-minutes: 30
+    timeout-minutes: 55
 
     permissions:
       contents: write   # Needed to commit digest files back to the repo
@@ -49,6 +57,7 @@ jobs:
       # have drifted silently before; running the suite here is what makes that
       # loud. Cheap -- it touches no API.
       - name: Run tests
+        id: tests
         run: python -m pytest tests/ -q --ignore=tests/test_batch_budget.py
 
       # Batch sizing is measured from the archive this pipeline writes, so it
@@ -67,6 +76,8 @@ jobs:
       # zero output even though main.py prints a banner before its first
       # network call. Unbuffered, the next hang names the stage it died in.
       - name: Run digest pipeline
+        id: topic
+        if: ${{ github.event.inputs.lane != 'fresh' }}
         timeout-minutes: 20
         env:
           PYTHONUNBUFFERED: "1"
@@ -77,7 +88,28 @@ jobs:
         working-directory: scripts
         run: python main.py
 
+      # The second daily run: everything published in the last seven days across
+      # 612 journals, minus what the press already has. It replaced
+      # elderly-geriatric-digest (MEA-573). It runs even when the topic run
+      # failed -- they share nothing but the repo -- and a failure in either
+      # still fails the job, so the failure alert sees it.
+      - name: Run new-this-week pipeline
+        id: fresh
+        if: ${{ !cancelled() && steps.tests.outcome == 'success' && github.event.inputs.lane != 'topic' }}
+        timeout-minutes: 20
+        env:
+          PYTHONUNBUFFERED: "1"
+          DIGEST_LANE: fresh
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        working-directory: scripts
+        run: python main.py
+
+      # Commits whatever either run produced. Without the `if`, a failed topic
+      # run would also throw away a finished new-this-week digest.
       - name: Commit digest outputs
+        if: ${{ !cancelled() && (steps.topic.outcome == 'success' || steps.fresh.outcome == 'success') }}
         run: |
           git config user.name  "senior-living-digest-bot"
           git config user.email "bot@users.noreply.github.com"
@@ -97,6 +129,7 @@ jobs:
           git push
 
       - name: Deploy dashboard to Vercel
+        if: ${{ !cancelled() && (steps.topic.outcome == 'success' || steps.fresh.outcome == 'success') }}
         timeout-minutes: 10
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}

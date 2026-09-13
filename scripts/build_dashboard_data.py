@@ -343,6 +343,96 @@ def copy_topic_demand() -> bool:
     return True
 
 
+# ── The shared research-digest-dashboard ───────────────────────────────────
+#
+# elderly-geriatric-digest published into Meggers1982/research-digest-dashboard,
+# which is where she triages (23 of that dashboard's 66 saved/passed marks were
+# on its studies). The new-this-week lane replaced it, so its studies go there
+# too, in that dashboard's shape. Published as a file in this repo rather than
+# pushed: the dashboard pulls it (sync-senior-research.yml there), the same way
+# it already pulls new-scientist-story-ideas, so no cross-repo token lives here.
+SHARED_DASHBOARD_PATH = DASHBOARD_DATA_DIR / "shared-dashboard.json"
+SHARED_SOURCE_ID = "senior-research"
+SHARED_SOURCE_LABEL = "Senior Living — New This Week"
+SHARED_LANE_FOCUS = "new this week"
+
+
+def _media_coverage(study: dict) -> str:
+    state = study.get("coverage_state") or ""
+    outlets = study.get("covered_by") or []
+    if state == "unreported":
+        return "Not widely covered ✓ (Google News checked)"
+    if outlets:
+        return f"Already covered by {', '.join(outlets[:3])}"
+    # The shared dashboard hides the badge for anything starting "Not verified".
+    return "Not verified — coverage not checked"
+
+
+def shared_study(study: dict, run: dict) -> dict:
+    """One study in research-digest-dashboard's shape."""
+    score = study.get("score")
+    verdict = study.get("verdict") or ""
+    doi = study.get("doi", "")
+    return {
+        "pmid": study.get("pmid", ""),
+        "headline": study.get("title", ""),
+        "journal": study.get("journal", ""),
+        "pubdate": study.get("published", ""),
+        "doi": "" if doi.lower().startswith("not available") else doi,
+        # The dashboard's "type" facet is elderly-geriatric's novelty label;
+        # this pipeline scores design instead, so it says that rather than
+        # guess a label it never assigned.
+        "groundbreaking": "",
+        "media_coverage": _media_coverage(study),
+        "summary": study.get("the_study", ""),
+        "why_it_matters": study.get("why_it_matters", ""),
+        "caveats": study.get("caveats", ""),
+        "fact_check_note": "" if verdict.startswith("✅") else verdict,
+        # 0-100 here, 1-10 there.
+        "relevance_score": max(1, round(score / 10)) if isinstance(score, (int, float)) else 5,
+        "relevance_score_reason": " · ".join(filter(None, [
+            study.get("band", ""), study.get("evidence_type", ""),
+            f"score {score}/100" if score is not None else "",
+        ])),
+        "pitch_angles": [
+            angle for angle in (
+                {"publication_type": f"Consumer — {run.get('primary_audience', '')}".rstrip(" —"),
+                 "headline": study.get("title", ""),
+                 "hook": study.get("story_angle_primary", ""),
+                 "pitch_angle": study.get("why_it_matters", "")},
+                {"publication_type": f"Trade — {run.get('secondary_audience', '')}".rstrip(" —"),
+                 "headline": study.get("title", ""),
+                 "hook": study.get("story_angle_secondary", ""),
+                 "pitch_angle": study.get("caveats", "")},
+            ) if angle["hook"]
+        ],
+        "run_date": run.get("run_date", ""),
+        "category": next((tag.title() for tag in TAG_TERMS
+                          if tag in (study.get("tags") or [])), "General Aging"),
+        "status": "new",
+    }
+
+
+def shared_dashboard_payload(runs: list[dict]) -> dict:
+    """Every new-this-week study ever published, newest run first, one per PMID."""
+    studies, seen = [], set()
+    lane_runs = [r for r in runs if (r.get("focus") or "").strip().lower() == SHARED_LANE_FOCUS]
+    for run in sorted(lane_runs, key=lambda r: r.get("run_date", ""), reverse=True):
+        for study in run.get("studies", []):
+            pmid = study.get("pmid", "")
+            if not pmid or pmid in seen:
+                continue
+            seen.add(pmid)
+            studies.append(shared_study(study, run))
+    return {
+        "source_id": SHARED_SOURCE_ID,
+        "source_label": SHARED_SOURCE_LABEL,
+        "last_updated": max((r.get("run_date", "") for r in lane_runs), default=""),
+        "total_studies": len(studies),
+        "studies": studies,
+    }
+
+
 HIDDEN_PATH = DASHBOARD_DATA_DIR / "hidden.json"
 SEARCH_PATH = DASHBOARD_DATA_DIR / "search.json"
 
@@ -405,6 +495,9 @@ def main() -> None:
     }
     index["has_topic_demand"] = copy_topic_demand()
     DASHBOARD_INDEX_PATH.write_text(json.dumps(index, indent=2), encoding="utf-8")
+
+    shared = shared_dashboard_payload(runs)
+    SHARED_DASHBOARD_PATH.write_text(json.dumps(shared, indent=2) + "\n", encoding="utf-8")
 
     # Superseded by index.json + runs/; removing it stops the old whole-history
     # blob from being re-committed on every daily run.

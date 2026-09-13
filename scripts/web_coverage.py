@@ -118,12 +118,22 @@ def _serp(params: dict) -> dict | None:
         except Exception as exc:
             print(f"  SerpAPI error: {str(exc)[:120]}", file=sys.stderr)
             return None
-        # SerpAPI answers 200 with an {"error": ...} body for a spent quota.
+        # SerpAPI answers 200 with an {"error": ...} body for a spent quota --
+        # and also, in the same shape, for a search that simply found nothing.
+        # The second is the best answer this module can get (nobody has covered
+        # the study), and treating it as a failure filed every unreported study
+        # as "skipped": 11 of 22 on the 2026-09-13 run, all of them this
+        # message. Only a real failure returns None.
         if isinstance(data, dict) and data.get("error"):
+            if _NO_RESULTS.search(str(data["error"])):
+                return {**data, "news_results": []}
             print(f"  SerpAPI: {str(data['error'])[:120]}", file=sys.stderr)
             return None
         return data
     return None
+
+
+_NO_RESULTS = re.compile(r"hasn't returned any results|returned no results|no results", re.I)
 
 
 def check_study(title: str, days_back: int = DEFAULT_DAYS_BACK) -> dict | None:

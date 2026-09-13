@@ -25,5 +25,13 @@
   "primary_audience": "older adults and seniors",
   "secondary_audience": "families, caregivers, and senior living professionals",
 
-  "days_back": 90
+  "days_back": 90,
+
+  "_new_this_week_comment": "The second daily run (DIGEST_LANE=fresh): every study from the last days_back days across journals_extended.csv plus the list above, minus anything already written up or widely covered in the news. It replaced elderly-geriatric-digest (MEA-573).",
+  "new_this_week": {
+    "days_back": 7,
+    "max_abstracts": 40,
+    "coverage_checks": 48,
+    "coverage_days": 14
+  }
 }

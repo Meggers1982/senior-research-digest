@@ -123,6 +123,10 @@ def generate_digest(
     journal_count: int,
     api_key: str,
     model: str = llm.MODEL,
+    focus_label: str = "",
+    days_back: int = 90,
+    guidance: str = "",
+    screened_note: str = "",
 ) -> tuple[str, list[str], list[dict]]:
     """Generate a senior living digest from PubMed abstracts.
 
@@ -131,6 +135,10 @@ def generate_digest(
 
     The markdown is rendered here from the records, not written by the model, so
     the format the dashboard parses cannot drift out from under it.
+
+    `focus_label` names the run in its header when that is not the search phrase
+    (the new-this-week lane searches no phrase); `guidance` is extra instruction
+    added to every batch.
     """
     client = anthropic.Anthropic(
         api_key=api_key,
@@ -142,11 +150,12 @@ def generate_digest(
     month_year = datetime.now().strftime("%B %Y")
 
     # File header
-    focus_label = subject_focus if subject_focus else "Broad (all senior living topics)"
+    focus_label = focus_label or subject_focus or "Broad (all senior living topics)"
     header_parts = [
         "# Senior Living Research Digest",
-        f"**Run date:** {run_date} | **Coverage window:** Last 90 days",
-        f"**Journals searched:** {journal_count} | **Articles screened:** {len(abstracts)}",
+        f"**Run date:** {run_date} | **Coverage window:** Last {days_back} days",
+        f"**Journals searched:** {journal_count} | **Articles screened:** "
+        f"{len(abstracts)}{screened_note}",
         f"**Focus:** {focus_label}",
         f"**Primary audience:** {primary_audience} | **Secondary audience:** {secondary_audience}",
     ]
@@ -166,6 +175,8 @@ def generate_digest(
     )
 
     focus_line = f"**Subject focus:** {subject_focus}\n" if subject_focus else ""
+    if guidance:
+        focus_line += f"\n{guidance.strip()}\n"
     user_message = (
         f"Please write a senior living research digest for the {len(abstracts)} abstracts below.\n\n"
         f"**Primary audience:** {primary_audience}\n"

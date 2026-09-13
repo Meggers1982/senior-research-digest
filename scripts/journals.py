@@ -1,5 +1,8 @@
 """Senior care journal ISSNs extracted from the curated spreadsheet."""
 
+import csv
+from pathlib import Path
+
 # (journal_name, issn) — prefer electronic; fallback to print
 SENIOR_CARE_JOURNALS: list[tuple[str, str]] = [
     ("Nature Aging", "2662-8465"),
@@ -173,3 +176,82 @@ SENIOR_CARE_JOURNALS: list[tuple[str, str]] = [
 ]
 
 ISSNS: list[str] = [issn for _, issn in SENIOR_CARE_JOURNALS]
+
+
+# ── The "new this week" lane ─────────────────────────────────────────────────
+#
+# The topic rotation searches the list above with a topic phrase ANDed in, and
+# the phrase keeps general journals on subject. The new-this-week lane has no
+# phrase -- it is every study from the last seven days -- so a general journal
+# contributes whatever it published: NEJM's week, not NEJM's week in older
+# adults. These titles get an older-adult qualifier in that lane (MEA-90 asked
+# exactly this about the broad day; the rotation itself is unchanged).
+#
+# Palliative care and osteoporosis stay unqualified: their readership is the
+# beat, and elderly-geriatric-digest searched palliative journals unfiltered.
+AGE_QUALIFIED_JOURNALS: frozenset[str] = frozenset({
+    "Skeletal Muscle", "Cell Cycle", "Mutation Research", "Science",
+    "International Journal of Psychiatry in Clinical Practice",
+    "European Journal of Investigation in Health, Psychology and Education",
+    "The Lancet Neurology", "JAMA Neurology", "JAMA Internal Medicine",
+    "Health Affairs", "Journal of Bone and Mineral Research", "Bone",
+    "Movement Disorders", "Archives of Physical Medicine and Rehabilitation",
+    "Journal of Rehabilitation Medicine", "Disability and Rehabilitation",
+    "European Heart Journal", "JACC: Heart Failure", "Journal of Cardiac Failure",
+    "Heart Failure", "Sleep", "Sleep Medicine", "Journal of Clinical Sleep Medicine",
+    "International Journal of Audiology", "Ear and Hearing",
+    "American Journal of Audiology", "Investigative Ophthalmology & Visual Science",
+    "Ophthalmology", "British Journal of Ophthalmology", "JAMA Ophthalmology",
+    "Stroke", "Cerebrovascular Diseases", "International Journal of Stroke",
+    "Diabetes Care", "Diabetic Medicine", "Journal of Diabetes and Its Complications",
+    "Journal of Hospital Medicine", "Journal of Affective Disorders",
+    "Clinical Nutrition ESPEN", "Journal of Sleep Research", "Neurology",
+    "JAMA Network Open", "The New England Journal of Medicine", "The Lancet",
+    "BMJ", "JAMA", "Annals of Internal Medicine",
+})
+
+# Title/Abstract terms, not aged[MeSH]: MeSH indexing lags publication by weeks,
+# so a MeSH filter would drop precisely the newest articles this lane exists for.
+# Bare "aged" is left out on purpose -- it matches "aged 18 to 45".
+OLDER_ADULT_QUALIFIER = "(" + " OR ".join(f'"{term}"[tiab]' for term in (
+    "older adult*", "older people", "older person*", "older patient*",
+    "older men", "older women", "older individual*", "elderly", "geriatric*",
+    "gerontolog*", "late life", "late-life", "later life", "aging", "ageing",
+    "dementia", "alzheimer*", "parkinson*", "nursing home*", "long-term care",
+    "care home*", "assisted living", "frail*", "sarcopeni*", "hip fracture*",
+    "medicare", "retire*", "centenarian*", "cognitive decline",
+    "cognitive impairment", "65 years", "aged 65", "aged 60", "aged 70",
+)) + ")"
+
+# The 445 journals elderly-geriatric-digest searched that the list above does
+# not: 358 neurology, 51 rehabilitation, 28 rheumatology and 8 geriatrics
+# titles, carried over when that repo was folded into this one (MEA-573).
+# `group` is "aging" for the handful that are about older adults by definition
+# and "general" for the rest, which get OLDER_ADULT_QUALIFIER.
+EXTENDED_JOURNALS_PATH = (Path(__file__).resolve().parent.parent
+                          / "config" / "journals_extended.csv")
+
+
+def extended_journals(path: Path = EXTENDED_JOURNALS_PATH) -> list[dict]:
+    with open(path, newline="", encoding="utf-8") as handle:
+        return [row for row in csv.DictReader(handle) if row.get("issn")]
+
+
+def new_this_week_issns(path: Path = EXTENDED_JOURNALS_PATH) -> tuple[list[str], list[str]]:
+    """(searched as-is, searched with OLDER_ADULT_QUALIFIER), deduplicated."""
+    plain, qualified = [], []
+    for name, issn in SENIOR_CARE_JOURNALS:
+        (qualified if name in AGE_QUALIFIED_JOURNALS else plain).append(issn)
+    for row in extended_journals(path):
+        (plain if row["group"] == "aging" else qualified).append(row["issn"])
+    seen: set[str] = set()
+
+    def unique(issns: list[str]) -> list[str]:
+        out = []
+        for issn in issns:
+            if issn.upper() not in seen:
+                seen.add(issn.upper())
+                out.append(issn)
+        return out
+
+    return unique(plain), unique(qualified)

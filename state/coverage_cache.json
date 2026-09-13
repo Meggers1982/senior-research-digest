@@ -248,6 +248,24 @@
         "state": "unreported"
       }
     },
+    "42667132": {
+      "checked_at": "2026-09-13T13:29:10.612951+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.aconsciousrethink.com/56068/if-you-often-feel-lonely-in-a-room-full-of-people-here-are-10-psychological-insights-that-finally-explain-why/",
+            "outlet": "aconsciousrethink.com",
+            "title": "If you often feel lonely in a room full of people, here are 10 psychological insights that finally explain why"
+          }
+        ],
+        "outlets": [
+          "aconsciousrethink.com"
+        ],
+        "query": "Not How Often You See People Whether You Feel Lonely",
+        "returned": 20,
+        "state": "lightly_reported"
+      }
+    },
     "42669304": {
       "checked_at": "2026-09-12T12:24:32.031528+00:00",
       "result": {
@@ -338,6 +356,16 @@
         "state": "unreported"
       }
     },
+    "42707027": {
+      "checked_at": "2026-09-13T13:28:46.890894+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Why some turn down hearing aids social loneliness not just",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
     "42708074": {
       "checked_at": "2026-09-11T13:02:05.190843+00:00",
       "result": {
@@ -358,6 +386,44 @@
         "state": "unreported"
       }
     },
+    "42712082": {
+      "checked_at": "2026-09-13T13:29:02.348948+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Learning your Alzheimer risk gene did not damage people mental",
+        "returned": 9,
+        "state": "unreported"
+      }
+    },
+    "42713765": {
+      "checked_at": "2026-09-13T13:29:07.993766+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.psychologytoday.com/us/blog/resolution-not-conflict/202607/cancer-can-be-emotionally-as-well-as-physically-devastating",
+            "outlet": "Psychology Today",
+            "title": "When cancer causes depression, what can help both?"
+          }
+        ],
+        "outlets": [
+          "Psychology Today"
+        ],
+        "query": "cancer patients what you still predicted depression better than how",
+        "returned": 20,
+        "state": "lightly_reported"
+      }
+    },
+    "42714086": {
+      "checked_at": "2026-09-13T13:28:33.328492+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Talk Therapy Work People Dementia Therapist Knows Dementia",
+        "returned": 3,
+        "state": "unreported"
+      }
+    },
     "42714910": {
       "checked_at": "2026-09-11T13:03:27.688185+00:00",
       "result": {
@@ -375,6 +441,16 @@
         "outlets": [],
         "query": "Ambulance calls year before disabling fall missed warning signs",
         "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42715499": {
+      "checked_at": "2026-09-13T13:29:14.671507+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Living Alone Predicts More Depressed Years Men But Women Living",
+        "returned": 3,
         "state": "unreported"
       }
     },
@@ -409,6 +485,16 @@
         "state": "widely_reported"
       }
     },
+    "42716350": {
+      "checked_at": "2026-09-13T13:28:45.354935+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Electroconvulsive therapy being used relieve severe suffering end life but",
+        "returned": 11,
+        "state": "unreported"
+      }
+    },
     "42716502": {
       "checked_at": "2026-09-11T13:04:02.509274+00:00",
       "result": {
@@ -439,6 +525,26 @@
         "state": "unreported"
       }
     },
+    "42726936": {
+      "checked_at": "2026-09-13T13:28:06.316671+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Treating Depression Help Memory Rebound People Mild Cognitive Impairment",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42727201": {
+      "checked_at": "2026-09-13T13:28:09.002319+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Machine Learning Finds Depression Warning Signs Differ Depending Cognitive Health",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
     "42727321": {
       "checked_at": "2026-09-12T12:24:16.213044+00:00",
       "result": {
@@ -447,6 +553,37 @@
         "query": "Renamed Syndrome Means Lifelong Heart Risk Monitoring Women Who Had",
         "returned": 2,
         "state": "unreported"
+      }
+    },
+    "42731544": {
+      "checked_at": "2026-09-13T13:29:16.974441+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://news.cuanschutz.edu/medicine/adbs-psychiatric-research",
+            "outlet": "University of Colorado Anschutz",
+            "title": "Understanding the Potential for Adaptive Deep Brain Stimulation in Psychiatric Conditions"
+          },
+          {
+            "link": "https://www.medscape.com/viewarticle/deep-brain-stimulation-can-remote-follow-expand-access-2026a1000mrt",
+            "outlet": "Medscape",
+            "title": "Deep Brain Stimulation: Can Remote Follow-Up Expand Access?"
+          },
+          {
+            "link": "https://newatlas.com/brain/parkinsons-patients-walk-brain-pacemaker/",
+            "outlet": "newatlas.com",
+            "title": "Brain pacemaker could help Parkinson's patients walk again"
+          }
+        ],
+        "outlets": [
+          "University of Colorado Anschutz",
+          "Medscape",
+          "newatlas.com",
+          "The Tribune"
+        ],
+        "query": "Deep Brain Stimulation Improved Parkinson Quality Life But Some Patients",
+        "returned": 20,
+        "state": "widely_reported"
       }
     }
   }

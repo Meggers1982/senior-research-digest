@@ -1,0 +1,731 @@
+{
+  "coverage_checked": 10,
+  "coverage_cached": 1,
+  "coverage_skipped": 11,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42726936": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42727201": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42714086": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42716350": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42707027": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42712082": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42713765": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Psychology Today"
+      ],
+      "articles": [
+        {
+          "title": "When cancer causes depression, what can help both?",
+          "outlet": "Psychology Today",
+          "link": "https://www.psychologytoday.com/us/blog/resolution-not-conflict/202607/cancer-can-be-emotionally-as-well-as-physically-devastating"
+        }
+      ]
+    },
+    "42714910": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42667132": {
+      "state": "lightly_reported",
+      "outlets": [
+        "aconsciousrethink.com"
+      ],
+      "articles": [
+        {
+          "title": "If you often feel lonely in a room full of people, here are 10 psychological insights that finally explain why",
+          "outlet": "aconsciousrethink.com",
+          "link": "https://www.aconsciousrethink.com/56068/if-you-often-feel-lonely-in-a-room-full-of-people-here-are-10-psychological-insights-that-finally-explain-why/"
+        }
+      ]
+    },
+    "42715499": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42731544": {
+      "state": "widely_reported",
+      "outlets": [
+        "University of Colorado Anschutz",
+        "Medscape",
+        "newatlas.com",
+        "The Tribune"
+      ],
+      "articles": [
+        {
+          "title": "Understanding the Potential for Adaptive Deep Brain Stimulation in Psychiatric Conditions",
+          "outlet": "University of Colorado Anschutz",
+          "link": "https://news.cuanschutz.edu/medicine/adbs-psychiatric-research"
+        },
+        {
+          "title": "Deep Brain Stimulation: Can Remote Follow-Up Expand Access?",
+          "outlet": "Medscape",
+          "link": "https://www.medscape.com/viewarticle/deep-brain-stimulation-can-remote-follow-expand-access-2026a1000mrt"
+        },
+        {
+          "title": "Brain pacemaker could help Parkinson's patients walk again",
+          "outlet": "newatlas.com",
+          "link": "https://newatlas.com/brain/parkinsons-patients-walk-brain-pacemaker/"
+        }
+      ]
+    }
+  },
+  "pubmed": {
+    "42726936": {
+      "pubdate": "2026 Sep 11",
+      "journal": "Aging & mental health"
+    },
+    "42728769": {
+      "pubdate": "2026 Sep 11",
+      "journal": "Palliative medicine"
+    },
+    "42362166": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of pain and symptom management"
+    },
+    "42727201": {
+      "pubdate": "2026 Sep 11",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    },
+    "42731172": {
+      "pubdate": "2026 Sep 12",
+      "journal": "The journal of prevention of Alzheimer's disease"
+    },
+    "42714086": {
+      "pubdate": "2026 Sep 9",
+      "journal": "Aging & mental health"
+    },
+    "42599324": {
+      "pubdate": "2026 Oct",
+      "journal": "International journal of aging & human development"
+    },
+    "42641961": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42678139": {
+      "pubdate": "2026 Sep 1",
+      "journal": "Aging & mental health"
+    },
+    "42709503": {
+      "pubdate": "2026 Sep 8",
+      "journal": "Journal of Alzheimer's disease : JAD"
+    },
+    "42716350": {
+      "pubdate": "2026 Sep 9",
+      "journal": "Journal of pain and symptom management"
+    },
+    "42731363": {
+      "pubdate": "2026 Sep 12",
+      "journal": "Journal of geriatric oncology"
+    },
+    "42707027": {
+      "pubdate": "2026 Sep 8",
+      "journal": "Journal of gerontological social work"
+    },
+    "42724296": {
+      "pubdate": "2026",
+      "journal": "Palliative care and social practice"
+    },
+    "42593009": {
+      "pubdate": "2026 Sep",
+      "journal": "Australasian journal on ageing"
+    },
+    "42713765": {
+      "pubdate": "2026 Sep 9",
+      "journal": "Palliative & supportive care"
+    },
+    "42712082": {
+      "pubdate": "2026 Sep",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42727509": {
+      "pubdate": "2026 Sep 8",
+      "journal": "Parkinsonism & related disorders"
+    },
+    "42715499": {
+      "pubdate": "2026 Sep 9",
+      "journal": "Journal of aging and health"
+    },
+    "42714910": {
+      "pubdate": "2026 Sep 1",
+      "journal": "JAMA network open"
+    },
+    "42731544": {
+      "pubdate": "2026 Sep 3",
+      "journal": "Parkinsonism & related disorders"
+    },
+    "42667132": {
+      "pubdate": "2026 Aug 29",
+      "journal": "Aging & mental health"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Treating Depression May Help Memory Rebound in People With Mild Cognitive Impairment",
+      "journal": "Aging Ment Health",
+      "published": "2026 Sep 11",
+      "pmid": "42726936",
+      "doi": "10.1080/13607863.2026.2730471",
+      "the_study": "Italian researchers followed 290 memory-clinic outpatients with mild cognitive impairment (MCI) for a year \u2014 139 who also had major depressive disorder and received treatment for it, and 151 without depression. Over 12 months, the depressed group's cognitive test scores improved (MMSE +0.7, MoCA +1.3) while the non-depressed group declined (MMSE -0.9, MoCA -1.1), and depressive symptoms fell in the treated group. By 12 months, 14.4% of those with treated depression no longer met criteria for MCI, compared with 2.6% of the MCI-only group.",
+      "why_it_matters": "Memory complaints in later life are sometimes driven or worsened by untreated depression, and this study suggests that identifying and treating the depression can be followed by meaningful cognitive gains rather than further decline.",
+      "story_angle_primary": "If you've been told you have mild cognitive impairment, ask whether you've also been screened for depression \u2014 low mood, poor sleep, loss of interest and fatigue can drag down memory and thinking test scores, and this study found the people whose depression was treated were the ones whose scores went up over the following year.",
+      "story_angle_secondary": "For families and memory-care staff: a diagnosis of MCI should not close the book on mental health assessment. Advocate for routine depression screening in memory clinics and track whether mood treatment is actually being followed up, since a meaningful minority of patients in this cohort reverted to normal cognition.",
+      "caveats": "Observational cohort, not a randomized trial \u2014 the groups differed at baseline (the depressed group started with lower scores, so some improvement may reflect regression to the mean and practice effects on repeated testing). Single-center Italian memory clinic; treatment type and intensity were not randomized; causation cannot be established."
+    },
+    {
+      "headline": "Machine Learning Finds Depression Warning Signs Differ Depending on Cognitive Health",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Sep 11",
+      "pmid": "42727201",
+      "doi": "10.1016/j.gerinurse.2026.104346",
+      "the_study": "Using data from 5,798 participants in the Chinese Longitudinal Healthy Longevity Survey, researchers built XGBoost machine learning models to identify depression risk in older adults with chronic illness, stratified by cognitive status. The models performed reasonably well (accuracy 0.755\u20130.767). Notably, the top predictor differed by group: feeling energetic mattered most for those with no or mild cognitive impairment, while daily sleep duration was the leading predictor among those with severe cognitive impairment.",
+      "why_it_matters": "It suggests that the everyday signals that best flag depression in an older adult change as cognition changes \u2014 energy and vitality in cognitively intact elders, sleep patterns in those with significant impairment.",
+      "story_angle_primary": "If you're managing a chronic condition, pay attention to a persistent drop in your energy or drive \u2014 in this analysis it was the single strongest signal of depression risk among older adults whose thinking was intact. Mention it to your doctor rather than writing it off as \"just aging.\"",
+      "story_angle_secondary": "For caregivers and senior living staff: when someone has significant cognitive impairment and can't easily report their mood, changes in sleep duration may be the more useful red flag. Consider building sleep tracking into routine wellness checks for residents with dementia.",
+      "caveats": "Observational survey data from a single Chinese cohort; may not generalize to Western populations. Predictors are self-reported or proxy-reported. Models have not been externally validated and are not ready for clinical use, as the authors note."
+    },
+    {
+      "headline": "Shame About a Liver Diagnosis Tracks With More Depression and Worse Symptoms",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Oct",
+      "pmid": "42362166",
+      "doi": "10.1016/j.jpainsymman.2026.06.021",
+      "the_study": "Researchers surveyed 218 outpatients with decompensated cirrhosis (median age 60; 58% alcohol-related liver disease) about perceived stigma, mood, and physical symptoms. Stigma was higher among those with more advanced liver disease and among younger patients. After adjusting for age, gender, disease cause and severity, greater perceived stigma was independently linked to more depression symptoms, more anxiety, and heavier overall symptom burden.",
+      "why_it_matters": "Stigma is not just a feeling \u2014 it travels alongside measurable psychological distress and physical symptom burden, making it a potential target for counseling and palliative care support in serious chronic illness.",
+      "story_angle_primary": "If you're living with advanced liver disease and feel judged or blamed for it, you are far from alone, and that sense of stigma is tied to worse mood and worse symptoms. It's worth raising with your care team and asking about counseling or palliative care support focused on the emotional side of your illness.",
+      "story_angle_secondary": "For families and clinicians: the language used around alcohol-related and other liver disease matters. Screening for perceived stigma alongside depression and anxiety may identify patients whose symptom burden is being amplified by shame and isolation.",
+      "caveats": "Cross-sectional and observational \u2014 cannot establish that stigma causes distress, and the relationship may run both ways. All outcomes are self-reported; single health system in Boston; 70% of eligible patients participated, leaving room for selection bias."
+    },
+    {
+      "headline": "Caregivers of Advanced Cancer Patients in Gaza Report Alarming Rates of Depression and Anxiety",
+      "journal": "Palliat Med",
+      "published": "2026 Sep 11",
+      "pmid": "42728769",
+      "doi": "10.1177/02692163261485102",
+      "the_study": "Researchers surveyed 388 family caregivers of adults with advanced cancer at a hospital in the Gaza Strip between May and August 2022, measuring psychological symptoms and unmet support needs. Severe or extremely severe symptoms were common: depression in 33.2%, anxiety in 44.1%, and stress in 29.6%. Unmet needs for information (80.9%) and practical help (77.7%) dominated, and the more unmet needs a caregiver reported, the higher their distress; women reported significantly more distress than men.",
+      "why_it_matters": "It quantifies how much of caregiver distress travels with concrete, fixable gaps \u2014 not knowing what to expect and not having practical help \u2014 which points toward interventions services can actually deliver.",
+      "story_angle_primary": "If you are caring for a seriously ill spouse or relative, your own mental health deserves attention. Asking the care team directly for written information about what to expect and for practical support referrals addresses the gaps most strongly tied to caregiver distress in this study.",
+      "story_angle_secondary": "For health systems and palliative care programs: this argues for routine, formal screening of family caregivers themselves, plus structured information provision and navigation services, rather than treating caregivers only as an extension of the patient.",
+      "caveats": "Cross-sectional design \u2014 cannot establish causation. Self-reported measures. Single hospital in an extreme conflict-affected, resource-constrained setting; distress rates almost certainly do not generalize to caregivers in stable, well-resourced health systems, though the link between unmet needs and distress may."
+    },
+    {
+      "headline": "Depression Doubled the Odds of Probable Dementia in a National Survey of Older Americans",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Sep 12",
+      "pmid": "42731172",
+      "doi": "10.1016/j.tjpad.2026.100676",
+      "the_study": "Researchers analyzed 7,574 older adults from the 2023 National Health and Aging Trends Study, a nationally representative US survey, classifying each participant as having probable dementia, possible dementia, or no dementia. Advanced age, low education, stroke, falls, and depression/anxiety were all linked to higher odds of dementia classification, with depression roughly doubling the overall risk of probable dementia. Vision correction and hearing aid use were associated with lower odds. Disparities were stark: Hispanic adults aged 85 and older had a 60.2% predicted probability of probable dementia versus 35.1% for non-Hispanic White adults, and chewing or swallowing problems raised the probability far more sharply for Hispanic adults (42.2%) than for non-Hispanic White adults (19.3%).",
+      "why_it_matters": "Depression, hearing loss, vision problems, and dental issues are all treatable or correctable \u2014 and this national snapshot suggests they cluster with cognitive decline, particularly in minority older adults who face the biggest coverage gaps for audiology and dental care.",
+      "story_angle_primary": "If you have been putting off treating low mood, getting your hearing checked, or dealing with trouble chewing, this study is a reason to bring all three up at your next visit \u2014 not because fixing them is proven to prevent dementia, but because they travel together with cognitive decline and each is worth addressing on its own terms. Ask specifically what your insurance covers for hearing and dental care.",
+      "story_angle_secondary": "For care professionals and family members: the findings argue that a one-size-fits-all cognitive screening or prevention program misses the mark for Hispanic and Black elders. Consider whether your intake process asks about chewing and swallowing difficulty, hearing aid use and actual wear time, and depression symptoms \u2014 and whether it does so in the family's preferred language.",
+      "caveats": "Cross-sectional and observational \u2014 cannot establish that depression or sensory loss causes dementia, and reverse causation is plausible. Dementia status was classified by survey algorithm rather than clinical diagnosis. Funding support reported from the Centers for Medicare & Medicaid Services."
+    },
+    {
+      "headline": "Depression Emerged as One of the Strongest Predictors of Frailty in Older Adults",
+      "journal": "Int J Aging Hum Dev",
+      "published": "2026 Oct",
+      "pmid": "42599324",
+      "doi": "10.1177/00914150261445634",
+      "the_study": "Researchers assessed 159 older adults attending three family health centers in Turkey using the Edmonton Frailty Scale and the Geriatric Depression Scale. Depression was present in 22.6% and frailty in 33.4%, and the two were strongly correlated. In regression analysis, depression level, illiteracy, and having a chronic disease stood out as the strongest independent risk factors for frailty, while being married appeared protective.",
+      "why_it_matters": "Frailty is often treated as a purely physical problem of muscle and mobility, but this study suggests mood may be one of its strongest companions \u2014 meaning a screening for low mood belongs alongside grip strength and gait speed.",
+      "story_angle_primary": "If you have noticed yourself slowing down, tiring easily, or losing interest in things you used to do, consider asking your clinician to screen for depression as well as physical frailty. The two overlap more than most people realize, and depression is treatable.",
+      "story_angle_secondary": "For senior living staff and family caregivers: a resident's growing physical frailty may be signaling untreated depression rather than inevitable decline. Social connection mattered here too \u2014 married participants were less frail \u2014 which supports investment in companionship and community programming, not just physical therapy.",
+      "caveats": "Small sample (N=159), single region in Turkey with three clinic sites, cross-sectional and observational so direction of causation cannot be determined, self-reported depression scale, and the population may not generalize to other health systems."
+    },
+    {
+      "headline": "Exercise Modestly Sharpens Memory in People With Depression, Pooled Trial Data Show",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1",
+      "pmid": "42641961",
+      "doi": "10.1016/j.jad.2026.122418",
+      "the_study": "Researchers pooled 13 randomized controlled trials covering 1,098 participants with depression to test whether exercise interventions improved episodic memory \u2014 the ability to recall specific events and recently learned material. Exercise produced a small-to-moderate benefit overall (Hedges' g = 0.210), with gains showing up in both immediate and delayed recall. No particular exercise type, intensity, or duration outperformed the others, and the certainty of evidence was rated moderate.",
+      "why_it_matters": "Memory complaints are common in depression and often frighten older adults who worry they signal dementia; this pooled trial evidence suggests movement of almost any kind may help a little, on top of exercise's established mood benefits.",
+      "story_angle_primary": "If depression has left you feeling forgetful, the type of exercise you choose appears to matter less than simply doing it \u2014 walking, cycling, or strength work all fell within the same benefit range. Talk with your clinician about a routine you can realistically sustain rather than hunting for the perfect prescription.",
+      "story_angle_secondary": "For activity directors and caregivers: this supports offering a variety of movement options and prioritizing participation over intensity, since no single exercise formula outperformed the rest. Framing group exercise as good for memory, not just mood or mobility, may boost buy-in from reluctant residents.",
+      "caveats": "Meta-analysis of trials that were not restricted to older adults, so applicability to seniors specifically is uncertain. Effect size is small, follow-up periods were short, and the authors note episodic memory was measured inconsistently across studies."
+    },
+    {
+      "headline": "Talk Therapy Can Work for People With Dementia \u2014 If the Therapist Knows Dementia",
+      "journal": "Aging Ment Health",
+      "published": "2026 Sep 9",
+      "pmid": "42714086",
+      "doi": "10.1080/13607863.2026.2729257",
+      "the_study": "UK researchers conducted semi-structured interviews with 14 people living with dementia and 9 family members, individually and in pairs, about their experiences of psychotherapy. Three themes emerged: navigating therapy with dementia, finding a place for the person with dementia in the therapeutic space, and building and maintaining a therapeutic relationship. Participants reported that therapists with specific dementia knowledge made the experience meaningful, and the researchers concluded that the common assumption that people with dementia cannot form a lasting therapeutic relationship is not supported by what participants described.",
+      "why_it_matters": "Depression and anxiety are common after a dementia diagnosis, yet people with dementia are often screened out of talk therapy on the assumption it won't work \u2014 this study challenges that gatekeeping directly.",
+      "story_angle_primary": "If you have a dementia diagnosis and are struggling emotionally, you should not be told talk therapy is off the table. Ask any prospective therapist what training and experience they have with dementia specifically, and whether they can adapt sessions \u2014 pacing, repetition, involving a family member \u2014 to work for you.",
+      "story_angle_secondary": "For families and senior living professionals: when arranging emotional support after a diagnosis, vet the therapist's dementia competence rather than accepting a referral at face value, and consider whether joint sessions with a family member would help. This also supplies an argument to raise with services that routinely exclude residents with cognitive impairment from counseling.",
+      "caveats": "Small qualitative study (23 participants total) in the UK, based entirely on self-reported experience with no outcome measures or control group; findings describe experiences rather than proving therapy improves depression or anxiety in dementia, and may not generalize beyond the NHS context."
+    },
+    {
+      "headline": "In the oldest old, loneliness drags down life satisfaction \u2014 and depression is part of the reason",
+      "journal": "Aging Ment Health",
+      "published": "2026 Sep 1",
+      "pmid": "42678139",
+      "doi": "10.1080/13607863.2026.2720792",
+      "the_study": "Researchers analyzed three waves of the Hispanic Established Populations for the Epidemiologic Study of the Elderly (H-EPESE), using 892 observations from 596 self-responding Mexican American adults aged 82 and older. Greater loneliness was strongly associated with lower odds of reporting high life satisfaction (adjusted OR 0.28), and depressive symptoms statistically accounted for part of that link \u2014 the association weakened but persisted (OR 0.40) once depression was included. Better self-rated health, freedom from pain while standing or walking, less financial strain, and higher cognitive function also tracked with greater life satisfaction.",
+      "why_it_matters": "It suggests that in very old age, loneliness and low mood are intertwined but not identical \u2014 addressing only one may leave the other untouched, and both are linked to how satisfying life feels.",
+      "story_angle_primary": "If you are in your 80s or 90s and feeling isolated, it is worth naming that to your doctor alongside any low mood \u2014 this study suggests loneliness and depressive symptoms are related but separate experiences, and pain, money worries, and health all feed into how satisfied you feel with life.",
+      "story_angle_secondary": "For senior living staff and family caregivers: social programming alone may not lift mood, and depression screening alone may miss loneliness. This study argues for tracking both, and for attending to the practical drivers the authors flagged \u2014 untreated pain during walking and financial strain.",
+      "caveats": "Observational design cannot establish causation; findings are from a specific population of very old Mexican American adults in the southwestern US and may not generalize; life satisfaction and loneliness were self-reported; analysis was restricted to self-respondents, likely excluding the most cognitively impaired."
+    },
+    {
+      "headline": "Dance came out on top when researchers compared exercise types for depression in people with mild cognitive impairment",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Sep 8",
+      "pmid": "42709503",
+      "doi": "10.1177/13872877261485578",
+      "the_study": "Researchers pooled 19 randomized controlled trials covering nine different exercise modalities and used Bayesian network meta-analysis to rank them for their effect on depressive symptoms in people with mild cognitive impairment. Dance was the only modality to show a statistically significant improvement over control conditions, with a moderate effect size (SMD -0.51) and a high ranking probability (SUCRA 80.7%). Other exercise types showed benefit trends but did not clearly separate from control.",
+      "why_it_matters": "Depressive symptoms in mild cognitive impairment are linked to faster cognitive decline and worse quality of life, and this analysis points to a low-cost, social, non-drug option that may work better than exercise done alone.",
+      "story_angle_primary": "If you have been told you have mild cognitive impairment and are feeling low, consider a dance class rather than solo treadmill time \u2014 the combination of movement, music, learning steps, and other people may be what makes it work. Talk with your clinician about what is safe for your balance and joints.",
+      "story_angle_secondary": "For activity directors and adult day programs: this is evidence you can use to justify dance programming over generic exercise sessions, and a reason to design classes that are genuinely social and choreography-based rather than repetitive.",
+      "caveats": "Meta-analysis of only 19 trials across nine modalities means some comparisons rest on very thin evidence; the authors report moderate heterogeneity and local inconsistency in the network; individual trials were likely small and could not blind participants; depression was measured on varied scales."
+    },
+    {
+      "headline": "Electroconvulsive therapy is being used to relieve severe suffering at the end of life \u2014 but the evidence is thin",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Sep 9",
+      "pmid": "42716350",
+      "doi": "10.1016/j.jpainsymman.2026.09.005",
+      "the_study": "Researchers conducted a narrative review of literature through February 2026 on 'palliative electroconvulsive therapy' \u2014 ECT given with comfort and quality-of-life goals rather than cure. Thirty-four studies met inclusion criteria, almost all case reports and case series; no randomized trials or standardized protocols exist. Reports clustered into four areas, including severe behavioral and psychological symptoms of dementia, and described rapid relief of catatonia, severe depression, psychosis, and agitation, sometimes restoring a person's ability to communicate or participate in decisions about their own care.",
+      "why_it_matters": "For families facing a loved one with catatonia, severe agitation in dementia, or profound depression during serious illness, this names an option that most people have never heard discussed in a palliative context \u2014 while making clear the evidence base is largely anecdotal.",
+      "story_angle_primary": "If you are living with a serious illness and severe depression, catatonia, or agitation that medications have not touched, it is reasonable to ask your palliative care or psychiatry team whether ECT has a role \u2014 and to ask directly what the evidence does and does not show.",
+      "story_angle_secondary": "For senior living and hospice professionals: this review offers a conceptual framework for when a psychiatry referral might be warranted for a resident whose distress is being managed only with sedating medications, and highlights that no standardized protocols yet exist to guide such referrals.",
+      "caveats": "Narrative review, not systematic; evidence base is overwhelmingly case reports and case series with no randomized controlled trials and no standardized protocols; publication bias toward positive outcomes is likely; ECT carries real risks including memory effects, especially in older adults."
+    },
+    {
+      "headline": "Why some older adults turn down hearing aids: social loneliness, not just hearing loss",
+      "journal": "J Gerontol Soc Work",
+      "published": "2026 Sep 8",
+      "pmid": "42707027",
+      "doi": "10.1080/01634372.2026.2731402",
+      "the_study": "This cross-sectional Turkish study compared 57 adults with age-related hearing loss who accepted hearing aids (n=37) with those who refused them (n=20). Those who refused were older and had worse hearing \u2014 but also scored significantly higher on social loneliness. Depression scores and emotional loneliness did not differ between the groups; in exploratory modeling, older age, male gender, and higher social loneliness were associated with refusal.",
+      "why_it_matters": "Untreated hearing loss is a leading modifiable risk factor for social withdrawal and cognitive decline, and this suggests that people who are already socially disconnected may be the least likely to adopt the device that could help \u2014 a self-reinforcing loop.",
+      "story_angle_primary": "If you have been offered hearing aids and find yourself putting it off, ask yourself whether it is partly because you have fewer conversations to have these days \u2014 that reasoning can quietly deepen isolation. Consider naming the social side of the decision with your audiologist, not just the hearing test results.",
+      "story_angle_secondary": "For families and hearing care professionals: pushing harder on audiogram numbers may be the wrong lever. Pairing a hearing aid fitting with a concrete social reason to use it \u2014 a club, a grandchild's phone calls, a dinner table \u2014 may matter more, particularly for older men living alone.",
+      "caveats": "Small sample (N=57, with only 20 refusers); cross-sectional design cannot establish causation or direction; single-center in Turkey and may not generalize; loneliness and mood measures were self-reported; the regression analysis was explicitly exploratory."
+    },
+    {
+      "headline": "Older cancer survivors are online \u2014 but income, education and race shape who actually benefits",
+      "journal": "J Geriatr Oncol",
+      "published": "2026 Sep 12",
+      "pmid": "42731363",
+      "doi": "10.1016/j.jgo.2026.104121",
+      "the_study": "Researchers analyzed nationally representative US survey data (HINTS 7, March\u2013September 2024) from 638 cancer survivors aged 60 and older. Most used the internet (81.5%) and smartphones (78.9%), but only 33.1% had a telehealth visit in the past year, while 63.7% said they would be willing to. Lower income was tied to sharply lower odds of broadband access and of viewing test results online; lower education was tied to less computer use and less messaging with providers; and survivors reporting depression or anxiety were less likely to view test results and more than four times as likely to report frustration with technology.",
+      "why_it_matters": "Willingness to use telehealth far outstrips actual use, meaning much of the gap is about access and support rather than reluctance \u2014 and older adults struggling with mood may be the ones quietly falling off the portal.",
+      "story_angle_primary": "If you are a cancer survivor who would use video visits but has never been offered one, say so at your next appointment \u2014 two-thirds of older survivors in this survey were willing, but only a third had a telehealth visit. If patient portals leave you frustrated, ask the clinic whether someone can walk you through it rather than giving up.",
+      "story_angle_secondary": "For clinics and senior living staff: this identifies specific groups to target with hands-on digital support \u2014 lower-income and lower-education residents, Black survivors who rely on cellular data rather than broadband, and anyone with depression or anxiety, who reported dramatically higher technology frustration.",
+      "caveats": "Cross-sectional survey, observational \u2014 cannot establish causation; all measures including cancer history, telehealth use, and depression/anxiety were self-reported; modest sample size for subgroup comparisons produces wide confidence intervals; US-specific findings."
+    },
+    {
+      "headline": "Nearly 1 in 5 people with Parkinson's report suicidal thoughts \u2014 and it's the non-movement symptoms that flag risk",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Sep 8",
+      "pmid": "42727509",
+      "doi": "10.1016/j.parkreldis.2026.108973",
+      "the_study": "Researchers at a single UK center surveyed 442 people living with Parkinson's disease or other forms of parkinsonism (66% male, median age 75.9, most in their 70s and 80s) and counted anyone reporting passive or active suicidal thoughts on the Beck Depression Inventory. Nineteen percent reported suicidal ideation. After adjustment, the odds were higher for women, for people with parkinsonism other than idiopathic Parkinson's, for those living in rented accommodation, and \u2014 most strongly and consistently \u2014 for those with a heavier burden of non-motor symptoms and poorer quality of life.",
+      "why_it_matters": "Parkinson's appointments often focus on tremor, stiffness and medication timing, yet this study suggests the symptoms that best signal psychological distress are the invisible ones \u2014 sleep, mood, fatigue, pain, bladder problems \u2014 which are easy to leave off the agenda.",
+      "story_angle_primary": "If you live with Parkinson's or another parkinsonism, bring your non-motor symptoms to your next appointment, not just your movement problems: poor sleep, low mood, fatigue and pain travel together with distress. And if dark thoughts have crossed your mind, they are common in this condition and worth naming out loud to your clinician \u2014 you are not an outlier.",
+      "story_angle_secondary": "For clinicians and care staff, this is a practical risk profile to keep in mind: women, people with atypical parkinsonism rather than classic Parkinson's, people in rented housing, and anyone whose non-motor symptom load is climbing. Routine non-motor symptom scoring may double as a distress screen.",
+      "caveats": "Cross-sectional and observational \u2014 it identifies associations, not causes, and cannot show that treating non-motor symptoms reduces suicidal thinking. Single center, questionnaire-based and self-reported, with suicidal ideation captured by a single item. Several authors report salary support from the Gatsby Charitable Foundation and extensive pharmaceutical consulting and speaking relationships."
+    },
+    {
+      "headline": "Home care providers are being asked to spot depression \u2014 this Australian model spells out how",
+      "journal": "Australas J Ageing",
+      "published": "2026 Sep",
+      "pmid": "42593009",
+      "doi": "10.1111/ajag.70220",
+      "the_study": "Australian researchers describe EMBED, a new model of care designed to fold depression detection and treatment into routine in-home aged care. Built from clinical guidelines, late-life depression research, aged care implementation evidence and consultation with frontline workers, managers and consumer representatives, it has four parts: training home care workers, routine depression screening, structured clinical assessment to guide escalation, and stratified psychological treatment using lifestyle therapy and behavioral activation matched to symptom severity and to the older person's own preferences.",
+      "why_it_matters": "Depression is common among older people receiving home care but is frequently missed, and access to talking therapy is thin \u2014 a structured model gives providers something concrete to implement rather than a general exhortation to \"be alert to mood.\"",
+      "story_angle_primary": "If you receive services at home, your care worker may be one of the few people who sees you regularly \u2014 it is entirely reasonable to tell them when you have been feeling flat or hopeless, and to ask your provider whether they screen for depression and what happens next if the screen is positive.",
+      "story_angle_secondary": "For home care managers and aged care leaders, this is a blueprint worth reading before designing your own program: it treats workforce training, screening, escalation pathways and stratified treatment as one integrated system rather than four separate initiatives.",
+      "caveats": "This is a model description, not a trial \u2014 effectiveness, cost-effectiveness and implementation requirements have not yet been tested, and there are no outcome data. Three authors are employed by Silverchain, the national aged care provider implementing the model, and a fourth received a PhD scholarship funded by the Silverchain Foundation. Designed for the Australian home care context and may not transfer directly elsewhere."
+    },
+    {
+      "headline": "Learning your Alzheimer's risk gene did not damage people's mental health, trial finds",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Sep",
+      "pmid": "42712082",
+      "doi": "10.1002/alz.71796",
+      "the_study": "In a randomized controlled trial in northern Manhattan, 374 Latino adults without diagnosed Alzheimer's (mean age 52, 69% women) received a personalized estimate of their risk of Alzheimer's by age 85 from bilingual genetic counselors. Half got an estimate that incorporated their APOE genotype; half got the same estimate based on family history and ethnicity alone. Over 15 months of follow-up, the two groups showed no meaningful differences in test-related distress, event-related intrusive thoughts, depression, anxiety or perceived threat of Alzheimer's, and disclosure-related adverse events were rare and equally split between groups.",
+      "why_it_matters": "As blood tests and genetic panels for Alzheimer's risk become more widely available, a common worry is that bad news will trigger depression or lasting distress \u2014 this trial, in a group historically excluded from such research, found no evidence of that when results were delivered by trained counselors.",
+      "story_angle_primary": "If you are weighing whether to learn your APOE status, this trial suggests the psychological fallout may be smaller than you fear \u2014 but note that everyone here received their results from a trained bilingual genetic counselor in a structured session. Ask who will explain your results and what support comes with them before you agree to testing.",
+      "story_angle_secondary": "For families and clinicians, the finding argues against gatekeeping genetic risk information out of protectiveness \u2014 including for Latino families, who have been underrepresented in this evidence base. The counseling wrapper, not the withholding, appears to be the safeguard.",
+      "caveats": "Participants were relatively young (mean age 52), highly educated (49% college graduates), volunteers in a single New York City community, and free of self-reported Alzheimer's \u2014 results may not generalize to older adults, people with cognitive symptoms, or those receiving results without counseling. Genetic counselors were unmasked to randomization. Outcomes were self-reported; follow-up was 15 months."
+    },
+    {
+      "headline": "Sadness outranked pain among hospitalized patients near the end of life \u2014 but half were too ill to answer the questions",
+      "journal": "Palliat Care Soc Pract",
+      "published": "2026 Sep 9",
+      "pmid": "42724296",
+      "doi": "10.1177/26323524261472080",
+      "the_study": "Hungarian researchers administered the Edmonton Symptom Assessment Scale - Revised, a brief 10-item symptom questionnaire, to hospitalized patients with advanced chronic disease and an expected life expectancy under six months. Among those who could respond, the most severe symptoms reported were depression (feeling sad), poor overall well-being and extreme tiredness. Critically, 45% of the 104 patients \u2014 those with the lowest functional status \u2014 were too unwell to complete the questionnaire at all. Patients who died within six months were more likely to have cancer and reported worse appetite loss.",
+      "why_it_matters": "Psychological suffering can outweigh physical pain at the end of life, and the sickest patients are precisely the ones least able to report it \u2014 which means teams need proxy and observational methods rather than assuming silence equals comfort.",
+      "story_angle_primary": "If you or someone close to you is seriously ill in the hospital, know that low mood and exhaustion are legitimate symptoms to report, not just something to endure \u2014 a simple symptom checklist covering sadness and well-being alongside pain can be requested and can change what treatment you are offered.",
+      "story_angle_secondary": "For palliative and nursing staff, the headline number is the 45% who could not complete the scale. Self-report tools systematically miss the most impaired patients, so units relying on them alone should pair them with proxy report or behavioral observation.",
+      "caveats": "Small sample (N=104), single center, cross-sectional and observational, with self-reported symptoms. Nearly half the cohort could not be assessed, which likely biases the symptom picture toward less impaired patients. Hungarian hospital setting may not generalize."
+    },
+    {
+      "headline": "In cancer patients, what you can still do predicted depression better than how much it hurt",
+      "journal": "Palliat Support Care",
+      "published": "2026 Sep 9",
+      "pmid": "42713765",
+      "doi": "10.1017/S1478951526103411",
+      "the_study": "Researchers assessed 126 adult cancer patients at a Nigerian teaching hospital for pain intensity, neuropathic pain, functional impairment and mood. Anxiety affected 37.3% and depression 35.7%. Although 82% reported pain, neither pain intensity nor neuropathic pain was significantly associated with anxiety or depression. Functional impairment \u2014 the degree to which illness disrupted work, social life and home responsibilities \u2014 was strongly correlated with both and emerged as the strongest independent predictor (odds ratio 7.5 for anxiety, 8.6 for depression).",
+      "why_it_matters": "It suggests that asking \"what can't you do anymore?\" may identify psychological distress in seriously ill people more reliably than asking \"how bad is your pain?\" \u2014 a low-cost shift in how clinics screen.",
+      "story_angle_primary": "If serious illness has taken away activities that mattered to you \u2014 errands, social visits, household roles \u2014 that loss of function is worth raising with your care team as a mental health issue in its own right, separate from pain control. Rehabilitation, occupational therapy or practical support at home may do more for your mood than another adjustment to pain medication.",
+      "story_angle_secondary": "For caregivers and care teams, this reframes function as a distress marker, not just a logistics problem: a patient who has stopped doing things is flagging risk. Consider adding a brief disability or function question to routine check-ins.",
+      "caveats": "Cross-sectional and observational \u2014 cannot establish that lost function causes depression rather than the reverse. Modest sample (N=126), single teaching hospital in Nigeria, all measures self-reported, and pain was predominantly mild, which may explain the null pain finding. Participants were adult cancer patients generally, not specifically older adults, and findings may not generalize to settings with different pain management resources."
+    },
+    {
+      "headline": "Treating Depression and Anxiety Before Surgery Helped Older Patients Feel Better Three Months Later",
+      "journal": "JAMA Netw Open",
+      "published": "2026 Sep 1",
+      "pmid": "42714910",
+      "doi": "10.1001/jamanetworkopen.2026.32619",
+      "the_study": "Researchers at a US academic and community hospital network randomized 306 adults aged 60 and older (mean age 68.5; 68% women) who had meaningful depression or anxiety symptoms and were scheduled for cardiac, cancer, or orthopedic surgery. Half received a coordinated perioperative mental health intervention combining psychological support and medication optimization; half received enhanced usual care (self-management materials). Three months after surgery, the intervention group had significantly lower combined depression and anxiety scores (mean difference 2.20 on the PHQ-ADS). The benefit was largest in cancer surgery patients and not evident in orthopedic patients.",
+      "why_it_matters": "Depression and anxiety around surgery are common in later life and are linked to worse recovery, yet mental health is rarely part of surgical prep \u2014 this trial shows a structured program can be delivered at scale and measurably improves how older patients feel months afterward.",
+      "story_angle_primary": "If you're scheduled for major surgery and have been feeling down, anxious, or hopeless, say so during your pre-op visit. Ask your surgical team whether mental health screening and support \u2014 talk therapy, medication review, or both \u2014 can be built into your surgical plan rather than left until after you go home.",
+      "story_angle_secondary": "For families and senior living staff coordinating a resident's upcoming procedure: the pre-op window is an actionable opening. Consider asking whether the hospital screens for depression and anxiety before surgery and who owns that follow-up during the three months after discharge, when the study measured its benefit.",
+      "caveats": "Single hospital network; effects varied sharply by surgery type and were not significant in orthopedic or cardiac subgroups; single-blind design; outcomes based on a self-report symptom scale; 3-month follow-up only. Several authors disclosed industry or foundation funding outside the submitted work (Dr. Lenze reported grants from Pritikin ICR, Balvi Foundation, Johnson & Johnson, and XPRIZE Foundation)."
+    },
+    {
+      "headline": "It's Not How Often You See People \u2014 It's Whether You Feel Lonely",
+      "journal": "Aging Ment Health",
+      "published": "2026 Aug 29",
+      "pmid": "42667132",
+      "doi": "10.1080/13607863.2026.2723232",
+      "the_study": "Using a decade of data from 4,963 US adults aged 40\u201365 at baseline in the national MIDUS study (2004\u20132014), researchers tested whether loneliness or structural social isolation better explains how social connectedness translates into later mental health. Loneliness \u2014 not the frequency of social contact \u2014 was the consistent pathway linking connectedness to later psychological distress and depressive symptoms, with family support showing the strongest indirect effect. The loneliness pathway was more pronounced in women, especially for depression.",
+      "why_it_matters": "It challenges the common assumption that filling a calendar with activities or contacts protects mental health; the quality and felt closeness of relationships appears to be what actually matters for later depression risk.",
+      "story_angle_primary": "If you feel lonely even when you're around people, that feeling is worth taking seriously \u2014 it's the part most strongly tied to later depression in this study. Rather than simply adding more social events, consider where you can deepen one or two relationships, particularly with family, where the protective link was strongest.",
+      "story_angle_secondary": "For senior living programmers and family caregivers: attendance counts and visit frequency may be poor proxies for social health. Consider adding a simple loneliness question to wellness check-ins, and designing programming around sustained small-group relationships rather than one-off high-turnout events.",
+      "caveats": "Observational cohort \u2014 associations cannot establish causation; loneliness, distress, and depressive symptoms were self-reported; baseline sample was midlife (40\u201365), so findings may not fully generalize to adults over 75; isolation was measured only as contact frequency."
+    },
+    {
+      "headline": "Living Alone Predicts More Depressed Years for Older Men \u2014 But for Women, Living With a Spouse Did",
+      "journal": "J Aging Health",
+      "published": "2026 Sep 9",
+      "pmid": "42715499",
+      "doi": "10.1177/08982643261488075",
+      "the_study": "Researchers used the Nihon University Japanese Longitudinal Study of Aging (1999\u20132009) and multistate life table methods to estimate how many remaining years adults aged 65 and older could expect to live with and without depression, broken down by living arrangement. Men living alone spent the longest duration \u2014 and the highest share \u2014 of their remaining lives with depression. Among women, the longest depressed durations appeared instead among those living with a spouse.",
+      "why_it_matters": "It shows household composition is not uniformly protective: the same living arrangement can carry very different mental health implications for older men and older women, which has direct bearing on housing decisions and on who gets flagged for support.",
+      "story_angle_primary": "If you're an older man living on your own, this study suggests solo living may carry real mental health risk worth watching \u2014 consider building deliberate routines of contact and mentioning low mood at your next check-up. And if you're an older woman feeling worn down within a marriage, know that a shared household is not automatically the same as support.",
+      "story_angle_secondary": "For care professionals and adult children: screening assumptions may need a gender lens. A widower living alone and a married woman carrying a spousal caregiving load can both warrant depression screening, even though one looks 'isolated' and the other looks 'supported' on paper.",
+      "caveats": "Observational design \u2014 cannot establish causation; data are Japanese and from 1999\u20132009, so cultural context and cohort effects limit generalizability to other countries or to today's older adults; depression assessed via symptom measures within a survey."
+    },
+    {
+      "headline": "Deep Brain Stimulation Improved Parkinson's Quality of Life \u2014 But Some Patients Felt Less Hopeful About the Future",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Sep 3",
+      "pmid": "42731544",
+      "doi": "10.1016/j.parkreldis.2026.108972",
+      "the_study": "Italian researchers followed 64 patients with Parkinson's disease who underwent subthalamic nucleus deep brain stimulation (STN-DBS), assessing them 30 days before surgery and again one year afterward. Motor symptoms and medication burden dropped, and quality of life improved on physical and mental components including general health and vitality. At the same time, hopelessness about the future increased and psychological well-being declined specifically in the domains of autonomy and personal growth. Pre-surgery anxiety and depression did not predict who fared worse psychologically.",
+      "why_it_matters": "It signals that a technically successful Parkinson's surgery can still leave a patient feeling diminished in ways that motor scores and standard quality-of-life summaries miss \u2014 and that no one could predict in advance who those patients would be.",
+      "story_angle_primary": "If you're weighing deep brain stimulation for Parkinson's, ask your team what psychological follow-up is included in the first year, not just motor programming visits. Improved movement and fewer pills are real gains, but it's reasonable to ask how your sense of independence and outlook will be monitored too.",
+      "story_angle_secondary": "For families and care staff supporting someone after DBS: watch for erosion of hope, autonomy, and sense of personal growth even when the person is objectively moving better. Those shifts can be mistaken for ingratitude or adjustment lag; this study suggests they deserve clinical attention.",
+      "caveats": "Small sample (N=64), single center, no control group (pre-post design), Italian specialty referral population may not generalize, psychological outcomes self-reported, and two authors report consulting relationships with Boston Scientific Corporation."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42726936",
+      "headline": "Treating Depression May Help Memory Rebound in People With Mild Cognitive Impairment",
+      "verdict": "accurate",
+      "notes": "Sample sizes, cognitive change scores, MCI-reversion rates and baseline differences all match the abstract; framing is appropriately hedged and caveats cover the observational design.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "pmid": "42727201",
+      "headline": "Machine Learning Finds Depression Warning Signs Differ Depending on Cognitive Health",
+      "verdict": "accurate",
+      "notes": "N, cohort, algorithm, accuracy range and the differing top predictors by cognitive stratum all match; the caveat about needing external validation mirrors the authors' own statement.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "pmid": "42362166",
+      "headline": "Shame About a Liver Diagnosis Tracks With More Depression and Worse Symptoms",
+      "verdict": "accurate",
+      "notes": "Sample (218/312, 70%), median age, etiology mix, adjustment variables and the independent associations with depression, anxiety and symptom burden all match. Non-causal framing throughout.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "pmid": "42728769",
+      "headline": "Caregivers of Advanced Cancer Patients in Gaza Report Alarming Rates of Depression and Anxiety",
+      "verdict": "accurate",
+      "notes": "388 responders (97% of 400), survey dates, prevalence figures, unmet-need percentages, the unmet-needs/distress association and the sex difference all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "pmid": "42731172",
+      "headline": "Depression Doubled the Odds of Probable Dementia in a National Survey of Older Americans",
+      "verdict": "minor",
+      "notes": "Core statistics (N=7,574, 60.2% vs 35.1%, 42.2% vs 19.3%, depression doubling risk, CMS funding) are accurate; one story angle extends the disparity finding to Black elders beyond what the abstract reports.",
+      "issues": [
+        {
+          "label": "Disparity extended to Black elders",
+          "severity": "Minor",
+          "as_written": "the findings argue that a one-size-fits-all cognitive screening or prevention program misses the mark for Hispanic and Black elders",
+          "abstract_says": "Hispanic adults aged 85 and older faced a 60.2% predicted probability of Prb-D, compared to 35.1% for Non-Hispanic (NH) White adults... Among hearing aid users, NH White and NH Black adults showed lower of Prb-D probability than non-users, whereas Hispanic users showed a higher probability.",
+          "problem": "The reported disparities in the abstract are specific to Hispanic adults; the only NH Black result mentioned patterns like NH White adults. Naming Black elders as equally poorly served by standardized programs goes beyond the reported results.",
+          "suggested_fix": "Limit the claim to Hispanic older adults, or say the study reported disparities \"most clearly for Hispanic older adults.\""
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42599324",
+      "headline": "Depression Emerged as One of the Strongest Predictors of Frailty in Older Adults",
+      "verdict": "accurate",
+      "notes": "N=159, three family health centers in Turkey, 22.6% depression / 33.4% frailty, the strong correlation, the three independent risk factors and marriage as protective all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "pmid": "42641961",
+      "headline": "Exercise Modestly Sharpens Memory in People With Depression, Pooled Trial Data Show",
+      "verdict": "minor",
+      "notes": "13 RCTs, 1,098 participants, g = 0.210, null moderator findings and moderate certainty all match; one story angle names specific exercise modalities the abstract never reports.",
+      "issues": [
+        {
+          "label": "Named exercise types not in abstract",
+          "severity": "Minor",
+          "as_written": "walking, cycling, or strength work all fell within the same benefit range",
+          "abstract_says": "No significant differences were found across memory indices or exercise characteristics (all ps > 0.05).",
+          "problem": "The abstract reports no significant moderation by exercise characteristics but never names walking, cycling or strength training as the compared modalities. Unverifiable from abstract only.",
+          "suggested_fix": "Rephrase generically: \"no exercise type, intensity or duration stood out as superior in this analysis.\""
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "pmid": "42714086",
+      "headline": "Talk Therapy Can Work for People With Dementia \u2014 If the Therapist Knows Dementia",
+      "verdict": "accurate",
+      "notes": "Participant counts (14 people with dementia, 9 family members), interview format, the three themes and the conclusion about unfounded assumptions match; the headline's strength is explicitly tempered by the caveat noting no outcome measures.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42678139",
+      "headline": "In the oldest old, loneliness drags down life satisfaction \u2014 and depression is part of the reason",
+      "verdict": "minor",
+      "notes": "892 observations from 596 adults aged 82+, AOR 0.28 attenuating to 0.40, and the covariates all match; only the headline's causal phrasing overreaches.",
+      "issues": [
+        {
+          "label": "Causal headline for cross-sectional association",
+          "severity": "Minor",
+          "as_written": "In the oldest old, loneliness drags down life satisfaction \u2014 and depression is part of the reason",
+          "abstract_says": "To examine the concurrent association between loneliness and life satisfaction across survey waves and assess whether depressive symptoms statistically account for this association... Loneliness is strongly associated with lower life satisfaction, with depressive symptoms partially and modestly accounting for this association.",
+          "problem": "\"Drags down\" and \"part of the reason\" imply causation and mediation, while the analysis is a concurrent, repeated-measures association in which depressive symptoms only statistically account for part of the link.",
+          "suggested_fix": "\"Loneliness tracks with lower life satisfaction in the oldest old \u2014 and depressive symptoms explain part of the link.\""
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42709503",
+      "headline": "Dance came out on top when researchers compared exercise types for depression in people with mild cognitive impairment",
+      "verdict": "minor",
+      "notes": "19 RCTs, nine modalities, SMD -0.51, SUCRA 80.7%, and the heterogeneity/inconsistency caveats match the abstract; two claims about how dance compares with other exercise go slightly beyond what is reported.",
+      "issues": [
+        {
+          "label": "\"Only modality\" claim not stated in abstract",
+          "severity": "Minor",
+          "as_written": "Dance was the only modality to show a statistically significant improvement over control conditions... Other exercise types showed benefit trends but did not clearly separate from control.",
+          "abstract_says": "Compared with the control group, dance exercise demonstrated a statistically significant improvement in depressive symptoms (SMD = -0.51, 95% credible intervals: -0.84 to -0.16), representing a moderate effect size, and showed a relatively high-ranking probability (SUCRA = 80.71%).",
+          "problem": "The abstract reports dance as significant but never states that it was the only significant modality or characterises the other eight as non-significant trends. Unverifiable from abstract only.",
+          "suggested_fix": "Say dance was the modality the authors highlighted as showing a statistically significant benefit versus control, without asserting the others were all non-significant."
+        },
+        {
+          "label": "Comparative claim over solo exercise",
+          "severity": "Minor",
+          "as_written": "points to a low-cost, social, non-drug option that may work better than exercise done alone",
+          "abstract_says": "Exercise interventions may contribute to the alleviation of depressive symptoms in patients with MCI, with dance exercise showing relatively greater therapeutic potential. However, these findings should be interpreted with caution in light of evidence inconsistency.",
+          "problem": "The abstract reports a ranking, not a significant head-to-head comparison between dance and solo exercise forms, so the implied superiority over \"exercise done alone\" is not established.",
+          "suggested_fix": "\"Dance ranked highest among the exercise types compared, though the network did not establish it as superior to other forms head to head.\""
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42716350",
+      "headline": "Electroconvulsive therapy is being used to relieve severe suffering at the end of life \u2014 but the evidence is thin",
+      "verdict": "accurate",
+      "notes": "Narrative review details (34 studies, literature through February 2026, no RCTs or standardized protocols, four evidence clusters) all match the abstract; caveats appropriately stress the anecdotal evidence base.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "pmid": "42707027",
+      "headline": "Why some older adults turn down hearing aids: social loneliness, not just hearing loss",
+      "verdict": "minor",
+      "notes": "Sample sizes, group differences and exploratory regression findings all match; one caveat detail (single-center) isn't stated in the abstract.",
+      "issues": [
+        {
+          "label": "Single-center claim not in abstract",
+          "severity": "Minor",
+          "as_written": "single-center in Turkey and may not generalize",
+          "abstract_says": "This cross-sectional study investigated audiological and psychosocial factors associated with hearing aid use preferences among 57 individuals with presbycusis who accepted (n = 37) or refused (n = 20) hearing aids.",
+          "problem": "The abstract identifies Turkish author affiliations but never states the study was conducted at a single center. Unverifiable from abstract only (though it errs on the conservative side).",
+          "suggested_fix": "Change to \"Turkish clinical sample; setting details limited, and findings may not generalize.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42731363",
+      "headline": "Older cancer survivors are online \u2014 but income, education and race shape who actually benefits",
+      "verdict": "accurate",
+      "notes": "All percentages (81.5%, 78.9%, 33.1%, 63.7%), the depression/anxiety associations (aOR 0.40 for viewing results; aOR 4.44 for frustration) and the Black-survivor broadband/cellular contrast match the abstract; framing stays associational.",
+      "issues": []
+    },
+    {
+      "number": 14,
+      "pmid": "42727509",
+      "headline": "Nearly 1 in 5 people with Parkinson's report suicidal thoughts \u2014 and it's the non-movement symptoms that flag risk",
+      "verdict": "minor",
+      "notes": "N, demographics, 19% prevalence and the adjusted associations are accurate; the claim that non-motor burden was the \"strongest\" factor is an interpretation the abstract doesn't support.",
+      "issues": [
+        {
+          "label": "Relative strength of predictors overstated",
+          "severity": "Minor",
+          "as_written": "and \u2014 most strongly and consistently \u2014 for those with a heavier burden of non-motor symptoms and poorer quality of life",
+          "abstract_says": "female sex (OR 1.89...), non-iPD parkinsonism (OR 2.70...), living in rented accommodation (OR 4.48; 95%CI 2.24-8.94; p < 0.001), higher non-motor symptom (NMS) burden (OR per 1 unit change 1.15...) and poorer quality of life (OR per 1 unit change 1.04...)",
+          "problem": "The largest odds ratio in the abstract belongs to rented accommodation; NMS and quality-of-life ORs are per-unit-change and are not directly comparable, so ranking them as the strongest signals is not supported by the abstract.",
+          "suggested_fix": "Reword to \"and for those with a heavier burden of non-motor symptoms and poorer quality of life,\" dropping the \"most strongly and consistently\" ranking, or note that rented accommodation carried the largest odds ratio."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42593009",
+      "headline": "Home care providers are being asked to spot depression \u2014 this Australian model spells out how",
+      "verdict": "accurate",
+      "notes": "Accurately described as a model-of-care paper with no outcome data; the four components and the Silverchain employment/scholarship conflicts are reported exactly as in the abstract's disclosure statement.",
+      "issues": []
+    },
+    {
+      "number": 16,
+      "pmid": "42712082",
+      "headline": "Learning your Alzheimer's risk gene did not damage people's mental health, trial finds",
+      "verdict": "minor",
+      "notes": "Design, N (194+180=374), demographics, 15-month follow-up and null findings are accurate; one small mischaracterization of the adverse-event split.",
+      "issues": [
+        {
+          "label": "Adverse events described as \"equally split\"",
+          "severity": "Minor",
+          "as_written": "disclosure-related adverse events were rare and equally split between groups",
+          "abstract_says": "Occurrence of disclosure-related adverse events was similar in the disclosure (N = 2) and non-disclosure (N = 3) groups.",
+          "problem": "The counts were 2 versus 3 \u2014 similar, but not an equal split.",
+          "suggested_fix": "Change to \"rare and similar between groups (2 vs 3).\""
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "pmid": "42724296",
+      "headline": "Sadness outranked pain among hospitalized patients near the end of life \u2014 but half were too ill to answer the questions",
+      "verdict": "accurate",
+      "notes": "The 45% (47/104) non-completion figure, the top three symptoms (depression, impaired well-being, tiredness), and the cancer/appetite-loss finding among those who died within six months all match; the ESAS-r item count (nine core plus one optional) is correctly summarized.",
+      "issues": []
+    },
+    {
+      "number": 18,
+      "pmid": "42713765",
+      "headline": "In cancer patients, what you can still do predicted depression better than how much it hurt",
+      "verdict": "accurate",
+      "notes": "N=126, prevalence figures (37.3% anxiety, 35.7% depression), the 82% pain figure, the null pain association and the ORs (7.537 / 8.625) all match, and caveats correctly flag the cross-sectional design and predominantly mild pain.",
+      "issues": []
+    },
+    {
+      "number": 19,
+      "pmid": "42714910",
+      "headline": "Treating Depression and Anxiety Before Surgery Helped Older Patients Feel Better Three Months Later",
+      "verdict": "minor",
+      "notes": "Effect size, subgroup pattern, demographics and disclosures are accurate; the number randomized is misstated.",
+      "issues": [
+        {
+          "label": "Randomized N vs analyzed N",
+          "severity": "Minor",
+          "as_written": "randomized 306 adults aged 60 and older (mean age 68.5; 68% women)",
+          "abstract_says": "A total of 326 patients were enrolled and randomized (1:1), with 20 excluded after surgery cancelation... A total of 306 older adults were included in analysis",
+          "problem": "326 patients were randomized; 306 were analyzed after exclusions for surgery cancelation.",
+          "suggested_fix": "Change to \"randomized 326 adults aged 60 and older, 306 of whom were included in the analysis.\""
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "pmid": "42667132",
+      "headline": "It's Not How Often You See People \u2014 It's Whether You Feel Lonely",
+      "verdict": "accurate",
+      "notes": "Sample (4,963 adults aged 40\u201365, MIDUS 2004\u20132014), the loneliness-versus-isolation pathway finding, the family-support indirect effect and the stronger pathway in women all match; the midlife baseline limitation is flagged in Caveats.",
+      "issues": []
+    },
+    {
+      "number": 21,
+      "pmid": "42715499",
+      "headline": "Living Alone Predicts More Depressed Years for Older Men \u2014 But for Women, Living With a Spouse Did",
+      "verdict": "accurate",
+      "notes": "Design, data source, age range, and the gender-specific findings all match the abstract; framing is appropriately non-causal.",
+      "issues": []
+    },
+    {
+      "number": 22,
+      "pmid": "42731544",
+      "headline": "Deep Brain Stimulation Improved Parkinson's Quality of Life \u2014 But Some Patients Felt Less Hopeful About the Future",
+      "verdict": "minor",
+      "notes": "Numbers and direction of findings match the abstract. Two small framing issues: the \"no one could predict\" claim overstates a secondary exploratory analysis that tested only anxiety and depression, and the \"single center\" caveat isn't supported by the abstract (a multi-site Lazio DBS Study Group is listed).",
+      "issues": [
+        {
+          "label": "Overstated predictor claim",
+          "severity": "Moderate",
+          "as_written": "and that no one could predict in advance who those patients would be",
+          "abstract_says": "a secondary exploratory aim was to assess the role of anxiety and depression as predictors of psychological and quality-of-life outcomes after STN-DBS... anxiety and depression did not emerge as significant predictors",
+          "problem": "The study tested only pre-surgery anxiety and depression, and did so as a secondary, exploratory aim. Saying no one could predict who would fare worse implies a broad predictive analysis that was not performed.",
+          "suggested_fix": "Rephrase to \"and that pre-surgery anxiety and depression \u2014 the only predictors tested, in an exploratory secondary analysis \u2014 did not identify who those patients would be.\""
+        },
+        {
+          "label": "Single-center claim not supported by abstract",
+          "severity": "Minor",
+          "as_written": "Small sample (N=64), single center, no control group (pre-post design), Italian specialty referral population may not generalize",
+          "abstract_says": "Author affiliations centre on Fondazione Policlinico Universitario Agostino Gemelli IRCCS, Rome, with a large collaborator list credited as the \"Lazio DBS Study Group\"",
+          "problem": "The abstract does not state that recruitment was from a single center; the named study group suggests possible multi-site involvement. The claim cannot be verified from the abstract alone.",
+          "suggested_fix": "Drop \"single center\" or soften to \"conducted within an Italian DBS study group led from a single Rome hospital.\""
+        }
+      ]
+    }
+  ]
+}

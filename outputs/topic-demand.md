@@ -1,20 +1,20 @@
 # Topic demand for the focus rotation
 
-Generated: 2026-09-07T18:30:13.253277+00:00
+Generated: 2026-09-14T18:58:13.671296+00:00
 Google Trends, geo US, window today 12-m. Values are Google's relative 0-100 interest index, not search counts — a large percentage rise from a low base is still a low base. Read **vs last year** first: the 8-week change cannot tell a seasonal dip from a real decline, and Google revises its most recent weeks upward, so short-window comparisons skew negative.
 
 ## Current rotation, by change in search interest
 
 | Topic | Recent | Prior | Change | vs last year | Peak |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| falls | 90.2 | 90.2 | +0.0% | — | 100.0 |
-| dementia | 12.5 | 13.9 | -9.9% | — | 15.0 |
-| sleep | 71.9 | 88.9 | -19.1% | — | 100.0 |
-| depression | 19.1 | 25.9 | -26.1% | — | 33.0 |
-| polypharmacy | 2.5 | 3.6 | -31.0% | — | 5.0 |
-| hearing loss | 57.4 | 86.0 | -33.3% | — | 100.0 |
-| nutrition | 40.9 | 67.6 | -39.6% | — | 77.0 |
-| vision loss | 18.0 | 41.1 | -56.2% | — | 53.0 |
+| falls | 88.9 | 92.4 | -3.8% | — | 100.0 |
+| dementia | 12.2 | 14.0 | -12.5% | — | 15.0 |
+| sleep | 70.0 | 89.0 | -21.3% | — | 100.0 |
+| polypharmacy | 2.5 | 3.4 | -25.9% | — | 5.0 |
+| depression | 18.9 | 25.5 | -26.0% | — | 34.0 |
+| hearing loss | 52.4 | 84.5 | -38.0% | — | 100.0 |
+| nutrition | 38.9 | 66.6 | -41.7% | — | 79.0 |
+| vision loss | 15.8 | 39.4 | -60.0% | — | 48.0 |
 
 No usable signal for: cardiovascular disease, palliative care, osteoporosis, sarcopenia, cognitive decline — either below the noise floor of 3.0 or too few complete data points.
 
@@ -25,4 +25,4 @@ Candidates for the rotation. Check each against PubMed yield before adding: a te
 
 | Query | Seed | Rise |
 | --- | --- | ---: |
-| senior mental health | senior health | +50% |
+| senior mental health | senior health | +40% |

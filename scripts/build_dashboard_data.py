@@ -407,10 +407,30 @@ def shared_study(study: dict, run: dict) -> dict:
             ) if angle["hook"]
         ],
         "run_date": run.get("run_date", ""),
-        "category": next((tag.title() for tag in TAG_TERMS
-                          if tag in (study.get("tags") or [])), "General Aging"),
+        "category": primary_category(study),
         "status": "new",
     }
+
+
+def primary_category(study: dict) -> str:
+    """The one topic a study is mostly about, for the dashboard's single-valued
+    category filter.
+
+    Taking the first tag in TAG_TERMS order filed 12 of the first 27 studies
+    under Dementia, because a prescribing study that mentions confusion once
+    carries the tag. The headline says what a study is about; the body only
+    says what it touches. So headline hits count triple, and a tie goes to
+    TAG_TERMS order.
+    """
+    title = (study.get("title") or "").lower()
+    body = " ".join(filter(None, [study.get("the_study", ""),
+                                  study.get("why_it_matters", "")])).lower()
+    best, best_score = "", 0
+    for tag, terms in TAG_TERMS.items():
+        score = sum(3 * title.count(t) + body.count(t) for t in terms)
+        if score > best_score:
+            best, best_score = tag, score
+    return best.title() if best else "General Aging"
 
 
 def shared_dashboard_payload(runs: list[dict]) -> dict:

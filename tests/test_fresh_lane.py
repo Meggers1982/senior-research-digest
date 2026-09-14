@@ -297,9 +297,16 @@ class SharedDashboardTests(unittest.TestCase):
         self.assertEqual(study_["relevance_score"], 7)
         self.assertEqual(study_["doi"], "")
         self.assertEqual(study_["fact_check_note"], "")
-        self.assertEqual(study_["category"], "Falls")  # first in TAG_TERMS order
+        self.assertEqual(study_["category"], "General Aging")  # no topic words in the text
         self.assertTrue(study_["media_coverage"].startswith("Not widely covered"))
         self.assertEqual(len(study_["pitch_angles"]), 1)  # the empty trade angle is dropped
+
+    def test_category_follows_the_headline_not_a_passing_mention(self):
+        study_ = {"title": "One in three prescriptions may treat another drug's side effect",
+                  "the_study": "Prescribing cascades in 2.3 million people; one cascade "
+                               "involved drugs for confusion and cognitive symptoms.",
+                  "why_it_matters": "Every added medication raises the risk of falls."}
+        self.assertEqual(bdd.primary_category(study_), "Polypharmacy")
 
 
 if __name__ == "__main__":

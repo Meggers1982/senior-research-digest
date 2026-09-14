@@ -146,7 +146,7 @@ def sample_size(text: str) -> tuple[int | None, int]:
 
 # ----------------------------------------------------------------- journal tier
 
-# Not all 167 curated journals are tiered by hand. These are the ones whose name
+# Not all 187 curated journals are tiered by hand. These are the ones whose name
 # alone changes how a pitch lands; everything else is a credible specialty
 # journal and scores the same middle value.
 TIER_1 = (

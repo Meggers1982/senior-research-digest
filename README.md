@@ -15,7 +15,7 @@ GitHub queues scheduled workflows, and observed delays have run from 30 minutes
 to 11 hours. The odd minute is deliberate: the queue is worst on a round hour.
 Each topic run:
 
-1. **Searches PubMed** (`pubmed.py`) across ~167 curated aging/gerontology
+1. **Searches PubMed** (`pubmed.py`) across ~187 curated aging/gerontology
    journals (`journals.py`) for articles from the last 90 days, optionally
    filtered to a subject focus. ISSNs are searched in batches of 25 and the
    per-batch results are merged by fractional rank, so each batch is
@@ -83,11 +83,11 @@ each, because the difference was the search, not the list: that repo read seven
 days of everything, this one reads 90 days of one topic. So the search is what
 moved, and everything after selection is this pipeline's.
 
-1. **Searches the last 7 days across 612 journals**, with no topic phrase: the
-   167 in `journals.py` plus the 445 in `config/journals_extended.csv` (358
+1. **Searches the last 7 days across 632 journals**, with no topic phrase: the
+   187 in `journals.py` plus the 445 in `config/journals_extended.csv` (358
    neurology, 51 rehabilitation, 28 rheumatology, 8 geriatrics — the ones that
    repo had and this one did not). With no phrase to keep them on subject, the
-   485 general titles (`AGE_QUALIFIED_JOURNALS` and every `general` row in the
+   493 general titles (`AGE_QUALIFIED_JOURNALS` and every `general` row in the
    CSV) are held to an older-adult Title/Abstract qualifier. On 2026-09-13 that
    found 571 articles.
 2. **Screens** out anything any earlier digest already wrote up (the window
@@ -372,6 +372,28 @@ English-language gaps were palliative/hospice nursing titles and the
 recognized. Journals with no PubMed content in the last 12 months — *Journal of
 Global Ageing*, *Translational Medicine of Aging*, *Generations* — are kept in
 the list in case they resume publishing.
+
+Audited against OpenAlex on 2026-09-14: the 200 sources with the most articles
+on 21 aging-related OpenAlex topics over the prior year, plus a journal-title
+search, diffed against both lists and then checked for a 12-month PubMed count.
+That audit added 20 journals (167 → 187). Twelve are about older adults by
+definition — among them *npj Parkinson's Disease* (~360 PubMed articles a
+year), *European Journal of Ageing*, and *Alzheimer's & Dementia: Behavior &
+Socioeconomics of Aging*, the third companion journal the 09-03 audit missed.
+The other eight are general titles that feed a rotation topic (*Menopause*,
+*Clinical Nutrition*, *Gait & Posture*, *Trends in Hearing*, *JSLHR*, *JBMR
+Plus*, *International Journal of Clinical Pharmacy*, *JGIM*) and sit in
+`AGE_QUALIFIED_JOURNALS`. Left out on purpose:
+- **Not in PubMed**, so they would contribute nothing: *Journal of Population
+  Ageing*, *Educational Gerontology*, *Gerontechnology*, *Ageing International*,
+  *GeroPsych*, *International Journal of Ageing and Later Life*, *Working with
+  Older People*, *Activities, Adaptation & Aging*, *Journal of Aging and
+  Environment*, *Progress in Palliative Care*.
+- **Mega-journals** that would add 10–25 studies a week to the new-this-week
+  lane even with the qualifier: *BMJ Open*, *BMC Public Health*, *Frontiers in
+  Public Health*, *Nutrients*.
+- **Mostly about younger people**: *Death Studies* and *OMEGA*, where ~7% of
+  articles involve older adults.
 
 ## Repo layout
 

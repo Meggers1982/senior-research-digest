@@ -46,10 +46,10 @@ class JournalGroupTests(unittest.TestCase):
         plain, qualified = journals.new_this_week_issns()
         together = [i.upper() for i in plain + qualified]
         self.assertEqual(len(together), len(set(together)))
-        self.assertEqual(len(together), 167 + 445)
+        self.assertEqual(len(together), 187 + 445)
 
     def test_the_rotation_list_is_untouched(self):
-        self.assertEqual(len(journals.ISSNS), 167)
+        self.assertEqual(len(journals.ISSNS), 187)
 
     def test_qualifier_leaves_out_bare_aged(self):
         """"aged"[tiab] matches "aged 18 to 45" and would qualify nothing."""

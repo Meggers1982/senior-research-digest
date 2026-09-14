@@ -1,7 +1,7 @@
 """The "new this week" lane: what elderly-geriatric-digest did, done here.
 
 The topic rotation reads 90 days of one subject. This lane reads the last seven
-days of everything -- the 167 curated journals plus the 445 neurology, rehab,
+days of everything -- the 187 curated journals plus the 445 neurology, rehab,
 rheumatology and geriatrics titles elderly-geriatric-digest searched -- and keeps
 what the press has not already picked up. The two used to be separate repos that
 shared 106 journals and 12 studies (MEA-573); the difference was always the

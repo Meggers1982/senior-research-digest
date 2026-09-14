@@ -173,6 +173,27 @@ SENIOR_CARE_JOURNALS: list[tuple[str, str]] = [
     ("BMJ", "1756-1833"),
     ("JAMA", "1538-3598"),
     ("Annals of Internal Medicine", "1539-3704"),
+    # Added 2026-09-14 after an OpenAlex gap audit — see README.
+    ("npj Parkinson's Disease", "2373-8057"),
+    ("Dementia & Neuropsychologia", "1980-5764"),
+    ("Journal of Geriatric Cardiology", "1671-5411"),
+    ("Immunity & Ageing", "1742-4933"),
+    ("Geriatric Orthopaedic Surgery & Rehabilitation", "2151-4593"),
+    ("European Journal of Ageing", "1613-9380"),
+    ("European Review of Aging and Physical Activity", "1861-6909"),
+    ("Dementia and Neurocognitive Disorders", "2384-0757"),
+    ("Alzheimer's & Dementia: Behavior & Socioeconomics of Aging", "2997-3805"),
+    ("Aging Brain", "2589-9589"),
+    ("Dementia and Geriatric Cognitive Disorders Extra", "1664-5464"),
+    ("The American Journal of Geriatric Psychiatry: Open Science, Education, and Practice", "2950-3868"),
+    ("Menopause", "1530-0374"),
+    ("Clinical Nutrition", "1532-1983"),
+    ("Gait & Posture", "1879-2219"),
+    ("Trends in Hearing", "2331-2165"),
+    ("Journal of Speech, Language, and Hearing Research", "1558-9102"),
+    ("JBMR Plus", "2473-4039"),
+    ("International Journal of Clinical Pharmacy", "2210-7711"),
+    ("Journal of General Internal Medicine", "1525-1497"),
 ]
 
 ISSNS: list[str] = [issn for _, issn in SENIOR_CARE_JOURNALS]
@@ -208,6 +229,9 @@ AGE_QUALIFIED_JOURNALS: frozenset[str] = frozenset({
     "Clinical Nutrition ESPEN", "Journal of Sleep Research", "Neurology",
     "JAMA Network Open", "The New England Journal of Medicine", "The Lancet",
     "BMJ", "JAMA", "Annals of Internal Medicine",
+    "Menopause", "Clinical Nutrition", "Gait & Posture", "Trends in Hearing",
+    "Journal of Speech, Language, and Hearing Research", "JBMR Plus",
+    "International Journal of Clinical Pharmacy", "Journal of General Internal Medicine",
 })
 
 # Title/Abstract terms, not aged[MeSH]: MeSH indexing lags publication by weeks,

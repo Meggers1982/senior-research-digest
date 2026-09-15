@@ -199,6 +199,12 @@ Four conventions worth keeping:
   the dark panel. A base `a { color: var(--accent) }` covers them; classed
   links keep their own rules.
 
+  `linkPmids` links every way the model cites a PMID in the prose: "PMID
+  42635035", a list ("PMIDs 42660579, 42635370"), and a bare "(42447742)". A bare
+  number only counts inside parentheses and at 7+ digits, so years and sample
+  sizes stay plain. The same function lives in new-scientist-story-ideas, so
+  change both together.
+
 `tests/test_dashboard.py` pins the JS-to-JSON field contract and then executes
 the script in Node over a real run, so a `ReferenceError` fails CI rather than
 showing a blank page. It also pins the four conventions above.

@@ -1009,10 +1009,18 @@ function renderTrendsBlock(raw) {
 }
 
 /* The study cards link their PMIDs; the prose around them printed the same
-   numbers as plain text, which is where they are most often read. */
+   numbers as plain text, which is where they are most often read. The model
+   cites them three ways: "PMID 123", a list ("PMIDs 123, 456"), and a bare
+   "(123)". A bare number needs the parentheses and 7+ digits, so a figure that
+   happens to be long is not mistaken for one. Kept in step with
+   new-scientist-story-ideas, which carries the same function. */
 function linkPmids(html) {
-  return html.replace(/\bPMID:?\s*(\d{6,9})\b/g, (m, id) =>
-    `<a href="https://pubmed.ncbi.nlm.nih.gov/${id}/" target="_blank" rel="noopener">${m}</a>`);
+  const link = (id, text) =>
+    `<a href="https://pubmed.ncbi.nlm.nih.gov/${id}/" target="_blank" rel="noopener">${text}</a>`;
+  return html
+    .replace(/\bPMIDs?:?\s*\d{6,9}(?:\s*(?:,|and|&amp;)\s*\d{6,9})*\b/g, m =>
+      m.replace(/(?:PMIDs?:?\s*)?(\d{6,9})/g, (text, id) => link(id, text)))
+    .replace(/\((\d{7,9})\)/g, (m, id) => `(${link(id, id)})`);
 }
 
 function inlineMd(text) {

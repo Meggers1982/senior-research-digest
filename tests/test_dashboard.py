@@ -266,6 +266,27 @@ class RenderTests(unittest.TestCase):
         self.assertIn('data-facet="band"', self.rendered)
         self.assertIn("status-picker", self.rendered)
 
+    def test_every_way_the_prose_cites_a_pmid_is_linked(self):
+        """Only "PMID 123" used to link. Lists and the plural ("PMIDs 123, 456")
+        left about 95 citations in the archive as plain text."""
+        fn = re.search(r"function linkPmids\(html\) \{.*?\n\}", dashboard_js(), re.S)
+        self.assertIsNotNone(fn)
+        cases = {
+            "(PMID 42427246)": ["42427246"],
+            "(PMID: 42427246)": ["42427246"],
+            "(PMID 41277710, 42533701)": ["41277710", "42533701"],
+            "(PMIDs 42660579, 42635370)": ["42660579", "42635370"],
+            "PMIDs 1234567 and 7654321": ["1234567", "7654321"],
+            "habits (42447742) and": ["42447742"],
+            "in 2019 (2019), (n=1234) and (123456)": [],
+        }
+        script = fn.group(0) + "\nconsole.log(JSON.stringify(" + json.dumps(list(cases)) + ".map(linkPmids)));"
+        result = subprocess.run([NODE, "-e", script], capture_output=True, text=True, timeout=30)
+        self.assertEqual(result.returncode, 0, result.stderr)
+        for (text, ids), html in zip(cases.items(), json.loads(result.stdout)):
+            linked = re.findall(r"pubmed\.ncbi\.nlm\.nih\.gov/(\d+)/", html)
+            self.assertEqual(linked, ids, text)
+
     def test_a_reference_error_would_fail_this_test(self):
         """Guards the guard: if the harness stopped detecting errors, every test
         above would pass against a broken page."""

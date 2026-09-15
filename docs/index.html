@@ -81,6 +81,10 @@
     -webkit-font-smoothing: antialiased;
     background: var(--bg); color: var(--text); line-height: 1.5;
   }
+  /* Links written into the prose (IDs in the digest sections, DOIs in the
+     citation table) had no rule, so they fell back to the browser's #0000EE,
+     which all but disappears on the dark panel. Classed links keep their own. */
+  a { color: var(--accent); text-underline-offset: 2px; }
 
   /* ---------- header ---------- */
   header {

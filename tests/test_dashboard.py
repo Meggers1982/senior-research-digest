@@ -196,6 +196,11 @@ class BehaviourTests(unittest.TestCase):
         self.assertRegex(self.html, r"\.section-caret\s*\{[^}]*font-size:\s*1\.25rem")
         self.assertRegex(self.html, r"\.section-hint\s*\{[^}]*opacity:\s*0\.6")
 
+    def test_prose_links_use_the_accent_not_browser_blue(self):
+        """linkPmids writes bare <a> tags into the digest prose. With no rule for
+        them they rendered #0000EE, which is close to unreadable on the dark panel."""
+        self.assertRegex(self.html, r"\n\s*a\s*\{[^}]*color:\s*var\(--accent\)")
+
     def test_the_pitch_comes_before_the_studies(self):
         """It used to sit below ~21 study cards, which is where the reader gives
         up. The section order in renderMain is the whole fix."""

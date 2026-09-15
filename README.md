@@ -184,7 +184,7 @@ owner.
 | Measure | 56rem, centred |
 | Radii / elevation | `0.5rem` / `0 1px 2px rgba(0,0,0,.03)` |
 
-Three conventions worth keeping:
+Four conventions worth keeping:
 
 - **Chips are clickable, tags are not.** Facet chips are pills; tags and outlet
   chips are square-cornered. The shape is the affordance.
@@ -194,10 +194,14 @@ Three conventions worth keeping:
   `[data-theme]` rules sat in this file for months with no JS setting the
   attribute, so a dark-mode browser could never reach the light palette. Dark is
   opt-in through the toggle, remembered under `srd-theme`.
+- **Links take the accent color, never browser blue.** PMIDs linked inside the
+  digest prose had no rule and rendered `#0000EE`, which nearly disappears on
+  the dark panel. A base `a { color: var(--accent) }` covers them; classed
+  links keep their own rules.
 
 `tests/test_dashboard.py` pins the JS-to-JSON field contract and then executes
 the script in Node over a real run, so a `ReferenceError` fails CI rather than
-showing a blank page. It also pins the three conventions above.
+showing a blank page. It also pins the four conventions above.
 
 ### Publishing it
 

@@ -1,0 +1,807 @@
+{
+  "coverage_checked": 15,
+  "coverage_cached": 5,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42648048": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42628578": {
+      "state": "lightly_reported",
+      "outlets": [
+        "washingtonpost.com"
+      ],
+      "articles": [
+        {
+          "title": "Hot weather can make these 9 health conditions worse",
+          "outlet": "washingtonpost.com",
+          "link": "https://www.washingtonpost.com/wellness/2026/06/22/hot-weather-can-make-these-9-health-conditions-worse/"
+        }
+      ]
+    },
+    "42727946": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42727201": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42596580": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42712247": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42711172": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Wausau Pilot & Review"
+      ],
+      "articles": [
+        {
+          "title": "Rise in US preteen suicide rate alarms mental health experts",
+          "outlet": "Wausau Pilot & Review",
+          "link": "https://wausaupilotandreview.com/2026/07/30/rise-in-us-preteen-suicide-rate-alarms-mental-health-experts/"
+        }
+      ]
+    },
+    "42696426": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42690762": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42567211": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42714024": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42600483": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42716874": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42686460": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42708477": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42731925": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42456217": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42679410": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42716517": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42503319": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42648048": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42727201": {
+      "pubdate": "2026 Sep 11",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    },
+    "42628578": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42727946": {
+      "pubdate": "2026 Sep 10",
+      "journal": "BMJ (Clinical research ed.)"
+    },
+    "42711172": {
+      "pubdate": "2026 Sep 8",
+      "journal": "International psychogeriatrics"
+    },
+    "42712247": {
+      "pubdate": "2026 Sep 9",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42596580": {
+      "pubdate": "2026 Sep 5",
+      "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences"
+    },
+    "42567211": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42600483": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42696426": {
+      "pubdate": "2026 Sep 4",
+      "journal": "The journals of gerontology. Series A, Biological sciences and medical sciences"
+    },
+    "42716874": {
+      "pubdate": "2026 Sep 7",
+      "journal": "Parkinsonism & related disorders"
+    },
+    "42690762": {
+      "pubdate": "2026 Sep 3",
+      "journal": "Journal of Alzheimer's disease : JAD"
+    },
+    "42714024": {
+      "pubdate": "2026 Sep 9",
+      "journal": "The New England journal of medicine"
+    },
+    "42686460": {
+      "pubdate": "2026 Sep 2",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    },
+    "42708477": {
+      "pubdate": "2026 Sep",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42731925": {
+      "pubdate": "2026 Sep 4",
+      "journal": "Parkinsonism & related disorders"
+    },
+    "42456217": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42716517": {
+      "pubdate": "2026 Sep",
+      "journal": "Geriatrics & gerontology international"
+    },
+    "42503319": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42679410": {
+      "pubdate": "2026 Sep 1",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Sleeping Nine Hours or More May Signal Trouble: Large Chinese Study Links Sleep Extremes to Earlier Death",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov;150:106385",
+      "pmid": "42648048",
+      "doi": "10.1016/j.archger.2026.106385",
+      "the_study": "Researchers followed 16,375 middle-aged and older adults in the nationally representative China Health and Retirement Longitudinal Study, tracking self-reported sleep disturbance, total daily sleep, nighttime sleep, and napping against later deaths. The relationship between sleep length and mortality formed a U-shape: compared with 7-8 hours, sleeping 9 or more hours per day was associated with roughly double the risk of dying from any cause (HR 1.90) and sleeping under 4 hours with about 2.5 times the risk (HR 2.54). Similar patterns held for nighttime sleep alone and for premature death. Notably, daytime napping and reported sleep disturbance were not significantly linked to mortality.",
+      "why_it_matters": "It suggests the total number of hours an older adult sleeps \u2014 especially unusually long sleep \u2014 may be a more meaningful health signal than complaints of poor sleep quality or an afternoon nap.",
+      "story_angle_primary": "If your sleep has drifted well outside the 7-8 hour range \u2014 particularly if you find yourself needing nine or more hours \u2014 it is worth mentioning to your doctor as a possible marker of an underlying problem such as heart disease, depression, or an untreated sleep disorder, rather than simply a change of age. This study cannot show that changing your hours changes your risk, but it does suggest long sleep deserves a conversation, and that a routine nap is not something to worry about.",
+      "story_angle_secondary": "For care staff and family members keeping daily logs, this argues for recording actual sleep hours, not just whether someone \"slept poorly\" \u2014 a resident whose nighttime sleep has stretched past nine hours may warrant a medical review, while habitual nappers in this cohort showed no elevated risk.",
+      "caveats": "Observational design cannot establish causation; sleep was self-reported rather than measured; single-country cohort (China) may not generalize to Western senior populations; reverse causation is a major concern, since existing illness can lengthen sleep."
+    },
+    {
+      "headline": "Heart and Metabolic Conditions Make Depression Stickier \u2014 And Bad Sleep Makes It Worse",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1;414:122408",
+      "pmid": "42628578",
+      "doi": "10.1016/j.jad.2026.122408",
+      "the_study": "Investigators analyzed 14,468 adults in China (average age 59) and 8,551 in England (average age 66) from two long-running aging cohorts, using multi-state models to track movement between having and not having depressive symptoms. Adults with cardiometabolic multimorbidity \u2014 two or more conditions such as diabetes, heart disease, or stroke \u2014 were 21-29% more likely to develop depressive symptoms and 21-26% less likely to recover from them. Sleeping less than 6 or 9 or more hours amplified these associations, with a statistically significant additive interaction in both countries.",
+      "why_it_matters": "Depression in older adults with multiple chronic illnesses is not only more likely to start but harder to shake, and sleep duration appears to be part of the picture that patients and clinicians can actually discuss and address.",
+      "story_angle_primary": "If you are managing diabetes, heart disease, or the aftermath of a stroke, ask your care team to check in on your mood as routinely as they check your blood pressure \u2014 and bring up your sleep hours at the same visit, since very short or very long sleep travels with worse mood outcomes in people with your conditions.",
+      "story_angle_secondary": "For care coordinators and assisted living staff, this supports pairing chronic disease management with mood screening: residents with several cardiometabolic diagnoses plus irregular sleep are the group least likely to recover from depressive symptoms on their own and most likely to need active follow-up.",
+      "caveats": "Observational cohorts cannot establish causation; depressive symptoms measured by screening scale (CES-D), not clinical diagnosis; sleep duration self-reported and assessed at baseline only; interaction findings do not prove that correcting sleep would improve depression outcomes."
+    },
+    {
+      "headline": "One Pill Leads to Another: Dementia Drugs Followed by Sleep Medications in 1 in 10 Older Adults",
+      "journal": "BMJ",
+      "published": "2026 Sep 10;394:e100499",
+      "pmid": "42727946",
+      "doi": "10.1136/bmj-2026-100499",
+      "the_study": "Using health records for 2,297,942 community-dwelling adults aged 66 and older in Ontario, Canada, researchers tested 65 expert-nominated \"prescribing cascades\" \u2014 cases where a drug's side effect gets treated with another drug instead of being recognized. Twenty-four cascades met all prioritization thresholds. Among the highest-incidence was cholinesterase inhibitor (a dementia medication) followed by a sleep agent, occurring in 10.3% of new users; the strongest temporal signals included corticosteroid followed by an antipsychotic and cholinesterase inhibitor followed by an anti-nausea drug.",
+      "why_it_matters": "Sleep medications carry real fall, confusion, and fracture risk in older adults, and this shows that for many people the insomnia being treated is a predictable side effect of a drug they were already prescribed \u2014 a problem that may be fixable by adjusting the first drug rather than adding a second.",
+      "story_angle_primary": "If you or a medication you take recently started causing insomnia \u2014 especially a dementia drug like donepezil \u2014 ask your prescriber or pharmacist whether the timing of that dose can be changed before you accept a sleeping pill, and ask directly: \"Is this new symptom a side effect of something I'm already taking?\"",
+      "story_angle_secondary": "For families and senior living nurses, this gives a concrete medication-review checklist: when a new sleep aid, laxative, antipsychotic, or bladder drug appears on a resident's list, look back at what was started in the weeks before and flag it for the prescriber or consultant pharmacist.",
+      "caveats": "Retrospective analysis of administrative prescription data cannot confirm clinical intent or that any given sequence was inappropriate for that individual; indications and symptoms were not directly observed; single-province Canadian system may not mirror prescribing elsewhere; funded by the Canadian Institutes of Health Research."
+    },
+    {
+      "headline": "For Older Adults With Advanced Cognitive Impairment, Sleep Hours Were the Strongest Clue to Depression",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Sep 11;74(Pt A):104346",
+      "pmid": "42727201",
+      "doi": "10.1016/j.gerinurse.2026.104346",
+      "the_study": "Drawing on 5,798 participants from the Chinese Longitudinal Healthy Longevity Survey, researchers built machine learning models to flag depression risk in older adults with chronic illness, separating them by cognitive status. Models performed reasonably well (accuracy 0.755-0.767). In people who were cognitively unimpaired or mildly impaired, \"feeling energetic\" was the top predictor of depression risk; in those with severe cognitive impairment, daily sleep duration was the single strongest predictor.",
+      "why_it_matters": "When someone can no longer reliably report how they feel, observable behaviors like how long they sleep may carry more diagnostic weight than the usual mood questions \u2014 a practical shift for anyone screening residents with dementia.",
+      "story_angle_primary": "If you are living with chronic illness and notice your energy has flattened, treat that as worth raising with your clinician rather than dismissing it as aging \u2014 low energy was the leading signal of depression risk in cognitively intact older adults in this analysis.",
+      "story_angle_secondary": "For memory care staff and families, this suggests watching sleep patterns as a depression cue in residents with advanced cognitive impairment, where verbal mood screening is least reliable \u2014 a marked lengthening or shortening of daily sleep may merit a mood evaluation.",
+      "caveats": "Observational data and a predictive model, not a diagnostic test; the authors state external validation is needed before clinical use; sleep duration and mood items were self- or proxy-reported; Chinese cohort may not generalize to other populations; no causal inference possible."
+    },
+    {
+      "headline": "Long daytime naps linked to slower thinking speed in older adults, new sleep study finds",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "published": "2026 Sep 5;81(10):glag198",
+      "pmid": "42596580",
+      "doi": "10.1093/gerona/glag198",
+      "the_study": "Researchers analyzed baseline sleep and cognitive data from 686 older adults enrolled in the U.S. POINTER-zzz sleep ancillary study, using home apnea-screening devices, wrist actigraphy, and sleep diaries rather than relying on memory. Naps were counted as any sleep period of at least 30 continuous minutes outside the main nighttime sleep. More total napping minutes were associated with slower processing speed across the whole group, and among participants who had sleep apnea and belonged to an under-represented ethno-racial group, more napping was also tied to poorer executive function. Sleep apnea itself did not statistically change the overall napping-cognition relationship.",
+      "why_it_matters": "Heavy daytime napping is extremely common in later life and is often treated as harmless, but this suggests it can be a signal worth investigating \u2014 particularly as a possible marker of untreated sleep apnea, which is treatable.",
+      "story_angle_primary": "If you find yourself napping for long stretches most days, treat it as information rather than a verdict: it may be worth asking your doctor whether you should be screened for sleep apnea or whether medications and nighttime sleep problems are draining your daytime alertness. This study cannot say napping harms your brain, but it does suggest that persistent daytime sleepiness deserves a conversation, not a shrug.",
+      "story_angle_secondary": "For senior living staff and family caregivers, this argues for documenting daytime sleep patterns as a routine observation \u2014 long or frequent naps in a resident or relative may point to undiagnosed sleep apnea or poor nighttime sleep quality that could be addressed, and the findings raise equity questions about who currently gets screened and treated.",
+      "caveats": "Cross-sectional baseline analysis \u2014 cannot establish causation or direction; the authors describe results as exploratory; subgroup finding involved small numbers and may be a chance result; participants were volunteers in a dementia prevention trial and may not represent all older adults; several investigators report industry relationships (Axsome Therapeutics consulting, Eli Lilly grant funding)."
+    },
+    {
+      "headline": "One in five older New Yorkers surveyed used cannabis in the past year \u2014 and half reported using it to sleep",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 9",
+      "pmid": "42712247",
+      "doi": "10.1111/jgs.70693",
+      "the_study": "Researchers approached 315 adults aged 65 and older in New York City public parks and outside senior centers and surveyed them about drug use. Past-year cannabis use was reported by 22.2%, and 11.1% had used within the previous 24 hours; the most common reasons were to get high (60%), relieve tension (55.7%), help with sleep (52.9%), and ease chronic pain (30%). Drowsiness and dry mouth were the most frequently reported side effects, and nearly a third of those who used cannabis met criteria for cannabis use disorder, with 5.7% classified as severe.",
+      "why_it_matters": "Cannabis is widely used as an informal sleep aid by seniors, yet this survey suggests the rate of problematic use is far higher than national surveys imply \u2014 and drowsiness in an older body carries real fall and confusion risks.",
+      "story_angle_primary": "If you use cannabis to fall asleep, tell your doctor or pharmacist \u2014 not because it is forbidden, but because it interacts with many common prescriptions and next-day drowsiness raises your risk of falls. Ask whether a proven, non-drug approach to insomnia might work better for you before your nightly use becomes something harder to stop.",
+      "story_angle_secondary": "Care professionals and families should add cannabis to the list of substances they ask about routinely and without judgment; a resident's sedation, grogginess, or unsteadiness may have an over-the-counter dispensary explanation that never made it into the medication list.",
+      "caveats": "Cross-sectional intercept survey with convenience sampling in a single city with legal cannabis \u2014 results will not generalize nationally; all outcomes self-reported, including use disorder criteria; no clinical assessment or verification; one author reports consulting for the Washington-Baltimore High Intensity Drug Trafficking Areas program."
+    },
+    {
+      "headline": "How seniors rate their own sleep sits at the center of their mental health \u2014 at least at home",
+      "journal": "Int Psychogeriatr",
+      "published": "2026 Sep 8",
+      "pmid": "42711172",
+      "doi": "10.1016/j.inpsyc.2026.100269",
+      "the_study": "Researchers surveyed 973 Chinese adults aged 60 and older \u2014 727 receiving community home-based care and 246 in institutional care \u2014 and mapped the connections among sleep measures, psychological symptoms, and social support. In the home-based group, subjective sleep quality emerged as the most central node in the network, with anxiety and life satisfaction linking sleep to social and psychological domains. In the institutional group, the network was looser and centered on objective measures like sleep duration. Formal statistical comparison found no significant difference in overall network strength or structure between the two settings.",
+      "why_it_matters": "It suggests that asking older adults how well they feel they slept \u2014 not just how many hours they logged \u2014 may be one of the most informative single questions about their overall mental well-being, especially for those aging in place.",
+      "story_angle_primary": "When you talk with your doctor about sleep, describe the quality of it \u2014 how rested you feel, how often you wake, whether you dread bedtime \u2014 not just the hours. This study suggests your own perception of sleep is tightly bound up with anxiety, mood, and life satisfaction, so it is worth raising even when the clock says you slept enough.",
+      "story_angle_secondary": "For senior living operators and home care agencies, this hints that sleep screening may need to look different by setting: a subjective sleep-quality question may carry more weight for clients aging at home, while residents in facilities may warrant attention to measurable sleep disruption from schedules, noise, and nighttime care routines. Note the formal comparison was not statistically significant, so treat setting differences as descriptive.",
+      "caveats": "Cross-sectional and observational \u2014 no causal conclusions possible; institutional subgroup was relatively small and its network estimates were statistically unstable; the headline setting differences were descriptive only and did not reach statistical significance; measures were self-reported; Chinese sample and care models may not generalize to other countries."
+    },
+    {
+      "headline": "Vitamin D Levels Track With Longer, Less Broken Sleep in Older Adults",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "published": "2026 Sep 4",
+      "pmid": "42696426",
+      "doi": "10.1093/gerona/glag212",
+      "the_study": "Researchers in the Baltimore Longitudinal Study of Aging measured serum vitamin D and B12 in 460 cognitively unimpaired adults aged 40 and older (mean age 71; 53% women; 22% Black) and compared those levels with sleep measured objectively by wrist actigraphy rather than questionnaires. Higher vitamin D was associated with about 24 more minutes of total sleep time per night and shorter awakenings, while outright vitamin D deficiency was linked to roughly 23 fewer minutes of sleep. The vitamin D-sleep link was stronger among Black participants, and B12 findings differed by sex: higher B12 was tied to less nighttime wakefulness in women but more in men.",
+      "why_it_matters": "Vitamin D status is cheap to check and routinely managed in older adults, and this is some of the first evidence tying it to objectively recorded sleep rather than self-report \u2014 raising the possibility that a common, correctable deficiency plays a role in fragmented nights.",
+      "story_angle_primary": "If your nights are short or broken, it is reasonable to ask your clinician whether your vitamin D level has ever been checked and whether you are deficient \u2014 but know that this study shows an association, not proof that taking a supplement will lengthen your sleep.",
+      "story_angle_secondary": "For senior living and home care staff: residents with documented vitamin D deficiency may be a group worth watching for sleep fragmentation, and nutrition reviews can be framed as part of sleep care rather than a separate box to tick.",
+      "caveats": "Cross-sectional analysis of an observational cohort \u2014 cannot establish causation; participants in the Baltimore Longitudinal Study of Aging are healthier and better educated than the general older population; sex- and race-stratified findings involve smaller subgroups and need replication."
+    },
+    {
+      "headline": "Sleeping 10 Hours or More \u2014 and Regular Daytime Napping \u2014 Flag Lower Cognitive Scores in 89,000 Europeans",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Sep 3",
+      "pmid": "42690762",
+      "doi": "10.1177/13872877261481093",
+      "the_study": "Investigators pooled 88,889 interviews from waves 8 and 9 (2019-2022) of the Survey of Health, Ageing and Retirement in Europe (mean age 68.9; 55% women), classifying participants as having probable dementia (7%), cognitive impairment without dementia (12%), or normal cognition (81%). Unadjusted results showed the familiar 'inverted U' pattern in which both very short and very long sleep tracked with worse cognition, but after adjusting for confounders only sleep of 10 hours or more remained significantly associated with lower cognitive scores. Among other sleep complaints \u2014 recent trouble sleeping, weekly sleep medication use, and daytime napping \u2014 only napping survived adjustment.",
+      "why_it_matters": "Very long sleep and habitual daytime napping are easy for families and clinicians to notice, and this very large multi-country sample suggests they deserve attention as possible markers of cognitive change rather than being dismissed as normal aging.",
+      "story_angle_primary": "If you have started sleeping 10 or more hours a night or napping most days, mention it at your next appointment as a change worth exploring \u2014 long sleep is a signal to investigate, not evidence that cutting your sleep will protect your memory.",
+      "story_angle_secondary": "For care staff and adult children: a shift toward very long sleep or new daily napping is worth documenting in the same way you would note a change in appetite or gait, since it may reflect underlying illness, medication effects, depression, or emerging cognitive impairment.",
+      "caveats": "Cross-sectional design \u2014 cannot establish causation or direction (cognitive decline may cause long sleep rather than the reverse); most sleep data were self-reported; cognition was assessed with a brief instrument (SHARE-Cog) rather than clinical diagnosis."
+    },
+    {
+      "headline": "'Circadian Syndrome' \u2014 Poor Sleep Plus Metabolic Problems Plus Low Mood \u2014 Linked to Memory Complaints, Especially in Men",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1",
+      "pmid": "42567211",
+      "doi": "10.1016/j.jad.2026.122346",
+      "the_study": "Researchers assessed 2,008 cognitively normal adults in the Hubei Memory and Aging Cohort Study for 'circadian syndrome' \u2014 a cluster combining metabolic abnormalities, sleep problems, and depressive symptoms \u2014 and for subjective cognitive decline, meaning self-noticed memory or thinking changes that do not yet show up on tests. The more circadian syndrome components a person had, the more severe their reported cognitive complaints, in a dose-response pattern. The association with self-reported cognitive domains was stronger in men, and circadian syndrome also tracked with blood markers of brain injury and inflammation (GFAP, and nonlinearly with A\u03b242/40 and NfL), though those markers did not statistically explain the memory-complaint link.",
+      "why_it_matters": "It reframes sleep trouble not as an isolated nuisance but as one piece of a clustered risk profile \u2014 sleep, metabolism, and mood together \u2014 that lines up with early self-perceived cognitive change and with blood markers used in Alzheimer's research.",
+      "story_angle_primary": "If you have noticed your own memory slipping and also live with poor sleep, low mood, or metabolic problems like high blood pressure, high blood sugar, or excess weight around the middle, consider raising them together with your doctor rather than one at a time \u2014 the clustering, not any single item, is what this study tracked.",
+      "story_angle_secondary": "For families and providers: self-reported memory complaints in someone with poor sleep and untreated metabolic or depressive symptoms should not be waved off as normal aging; a combined review of sleep, mood, and cardiometabolic health may be more useful than a memory screen alone.",
+      "caveats": "Cross-sectional and observational \u2014 cannot establish causation, and the authors call the biomarker findings exploratory; outcome was self-perceived cognitive decline rather than measured impairment; single Chinese cohort, so findings may not generalize; sex-specific results are subgroup analyses."
+    },
+    {
+      "headline": "New Pill for Narcolepsy Restores Daytime Wakefulness in Two Large Trials",
+      "journal": "N Engl J Med",
+      "published": "2026 Sep 9",
+      "pmid": "42714024",
+      "doi": "10.1056/NEJMoa2601598",
+      "the_study": "Two phase 3 randomized, placebo-controlled trials (First Light, n=168; Radiant Light, n=105) tested oveporexton, an oral orexin receptor 2 agonist, in people aged 16 to 70 with narcolepsy type 1 over 12 weeks. Ability to stay awake on the Maintenance of Wakefulness Test improved by 14 to 20 minutes with the drug versus essentially no change on placebo, Epworth Sleepiness Scale scores fell by about 10 to 12 points versus 1.5 on placebo, and weekly cataplexy attacks dropped 79% to 89%. Side effects were common: 86% to 89% of treated participants reported adverse events, most often increased urinary frequency and transient insomnia.",
+      "why_it_matters": "Narcolepsy type 1 is a lifelong condition that persists into later life, and this is the first drug class to target the underlying orexin deficiency rather than simply stimulating alertness \u2014 with effect sizes large enough to bring many patients back into the normal range.",
+      "story_angle_primary": "If you live with narcolepsy and have been managing on stimulants for years, this is worth asking your sleep specialist about \u2014 while noting that most trial participants had side effects, particularly needing to urinate more often and trouble falling asleep, which matter more if you already have nighttime bathroom trips or fall risk.",
+      "story_angle_secondary": "For caregivers and senior living staff: increased urinary frequency is a majority side effect of this drug class, so any resident starting it may need nighttime bathroom access, lighting, and fall precautions reviewed at the same time.",
+      "caveats": "Industry funded and conducted by Takeda Development Center Americas, with numerous company-affiliated authors; 12-week follow-up only, so long-term safety and durability are unknown; trials enrolled ages 16 to 70, so data in the oldest adults are limited; high rate of adverse events."
+    },
+    {
+      "headline": "A Pre-Surgery Snapshot Including Sleep and Body Clock Predicts Who Struggles After Cancer Surgery",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42600483",
+      "doi": "10.1016/j.archger.2026.106373",
+      "the_study": "In a prospective study of 450 adults aged 60 and older undergoing curative gastrointestinal cancer surgery, researchers combined measures of inflammation, nutrition, muscle status, sleep-circadian and autonomic regulation, mood, and cognition into a single 'Perioperative Aging Burden Index' before surgery and during recovery, then followed patients three years. Each one-standard-deviation increase in the index was associated with nearly double the odds of postoperative delirium, higher rates of significant complications, longer hospital stays, and worse disease-free and overall survival. Three recovery trajectories emerged: rapid recovery, intermediate recovery, and sustained high physiological burden.",
+      "why_it_matters": "It puts sleep and circadian regulation on the same footing as nutrition, strength, and inflammation as measurable pre-surgery vulnerabilities in older patients \u2014 and shows that where a patient sits on that spectrum matters far beyond the hospital stay.",
+      "story_angle_primary": "If major surgery is being planned, ask whether your assessment goes beyond age and lab values to cover your sleep, appetite and nutrition, strength, mood, and memory \u2014 and what could be shored up in the weeks beforehand.",
+      "story_angle_secondary": "For families and post-acute care teams: recovery after major surgery in older adults follows distinct paths, and patients who remain physiologically burdened weeks out are the ones who go on to have worse long-term outcomes \u2014 a signal to escalate rather than wait.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; single-center with internal bootstrap validation only, and the authors explicitly call the index investigational rather than a validated clinical tool; findings apply to gastrointestinal cancer surgery and may not generalize to other procedures."
+    },
+    {
+      "headline": "Expert Panel Issues New Roadmap for Bladder Problems in Parkinson's \u2014 Including the Nighttime Trips That Wreck Sleep",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Sep 7",
+      "pmid": "42716874",
+      "doi": "10.1016/j.parkreldis.2026.108961",
+      "the_study": "A multidisciplinary panel of movement disorders neurologists, urologists, urogynecologists, and a geriatrician used a modified virtual Delphi process \u2014 iterative voting on draft statements following a targeted literature review \u2014 to produce consensus recommendations on urinary dysfunction in Parkinson disease. The statements cover screening, disease-specific contributors, diagnostic work-up, and interventions and rehabilitation, and are packaged as a single clinical algorithm. The panel highlights that urinary urgency, frequency, nocturia, incontinence, and voiding problems compound mobility impairment, disrupt sleep, and contribute to falls.",
+      "why_it_matters": "Nighttime urination is one of the most common and least discussed reasons people with Parkinson's sleep badly and fall on the way to the bathroom, and this gives clinicians a structured path from complaint to work-up to treatment instead of ad hoc management.",
+      "story_angle_primary": "If Parkinson's has you up multiple times a night, bring it up specifically as a bladder problem \u2014 not just 'bad sleep' \u2014 and ask your neurologist whether a urology or urogynecology referral and a formal work-up are warranted, since the panel says these symptoms are treatable and tied to fall risk.",
+      "story_angle_secondary": "For caregivers and senior living staff: nocturia in Parkinson's sits at the intersection of sleep disruption and falls, so environmental fixes like bedside commodes, motion-sensor lighting, and clear pathways belong in the care plan alongside any medical work-up.",
+      "caveats": "Expert consensus based on a narrative literature review rather than new data or a systematic review; recommendations reflect panel opinion where evidence is thin; no patient outcomes were measured."
+    },
+    {
+      "headline": "A Steady Daily Rhythm \u2014 Not Just More Sleep \u2014 Tracked With Healthier Kidneys in Older Adults",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Sep 2 (online ahead of print)",
+      "pmid": "42686460",
+      "doi": "10.1016/j.gerinurse.2026.104197",
+      "the_study": "Researchers analyzed baseline data from 1,493 older adults in the Rural Physical Activity Behavior and Healthy Aging Cohort in rural China, using wearable-derived measures of sleep and 24-hour rest-activity rhythms alongside kidney function. More day-to-day consistency in the rest-activity pattern (interdaily stability), more activity during the most active 10 hours, and more movement during the least active 5 hours were each associated with lower odds of reduced kidney function, while erratic within-day rhythms and longer total sleep time were associated with higher odds. In combined analyses, people with a stable rhythm had lower odds of reduced kidney function regardless of how long they slept.",
+      "why_it_matters": "It suggests the regularity of your daily sleep-wake and activity pattern may matter for organ health beyond the brain, and that unusually long sleep in later life can be a signal worth discussing rather than a sign of good rest.",
+      "story_angle_primary": "If your days have drifted into irregular hours \u2014 late nights, long naps, little daytime movement \u2014 consider anchoring your schedule: consistent wake time, daylight and activity in the morning, and a predictable bedtime. And if you find yourself sleeping far more than usual, mention it at your next appointment rather than assuming it is just aging.",
+      "story_angle_secondary": "For senior living operators and home care teams, this supports building the day around consistent structure \u2014 same-time meals, morning light exposure, scheduled activity blocks \u2014 as a health intervention, not merely a scheduling convenience.",
+      "caveats": "Observational and cross-sectional, so no causation can be established; kidney function was measured at a single point; participants were older adults in rural China and findings may not generalize to other populations or care settings."
+    },
+    {
+      "headline": "A Subtle Sleep Brain-Wave Pattern Is Weakened in Alzheimer's \u2014 and May Reflect the Brain's Overnight Cleaning Cycle",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Sep",
+      "pmid": "42708477",
+      "doi": "10.1002/alz.71525",
+      "the_study": "Investigators recorded overnight non-REM sleep EEG in people with Alzheimer's disease and in control participants, extracting a very slow rhythm \u2014 infraslow oscillations \u2014 that rises and falls in sleep spindle activity across the night. The amplitude of this rhythm was significantly reduced in the Alzheimer's group, while its frequency and bandwidth were preserved. Rhythm measures also showed associations with blood-based Alzheimer's biomarkers, including a trend with the amyloid ratio and a link between bandwidth and neurofilament light, a marker of nerve cell damage.",
+      "why_it_matters": "It adds mechanistic weight to the idea that sleep quality and brain clearance are entwined with Alzheimer's biology, and points toward a possible future sleep-based marker of brain health.",
+      "story_angle_primary": "This is early laboratory-stage science, not something to test for or act on yet \u2014 but it is another reason to take persistent sleep problems seriously and raise them with your doctor rather than filing them under normal aging.",
+      "story_angle_secondary": "For care professionals, the practical takeaway is that documenting sleep disruption in residents with cognitive changes may become clinically meaningful as sleep-based biomarkers mature; there is no change to current practice yet.",
+      "caveats": "Likely small sample and single research setting; observational and correlational; several biomarker associations were only trend-level; results are mechanistic and have no immediate diagnostic application."
+    },
+    {
+      "headline": "Sleep Experts Issue 114 Consensus Recommendations for Parkinson's-Related Sleep Problems",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Sep 4 (online ahead of print)",
+      "pmid": "42731925",
+      "doi": "10.1016/j.parkreldis.2026.108963",
+      "the_study": "A panel of 11 movement disorder and sleep neurologists from across the contiguous United States used a modified Delphi process across four virtual rounds, requiring 100% agreement, to produce 114 practice statements on screening, diagnosis, and treatment of sleep dysfunction in Parkinson's disease. The recommendations cover insomnia, excessive daytime sleepiness, REM sleep behavior disorder and non-REM parasomnias, restless legs syndrome, periodic limb movements, sleep-disordered breathing, and circadian rhythm disorders. Statements that failed to reach unanimity were flagged as open questions needing more research.",
+      "why_it_matters": "Sleep problems are among the most common and most disabling non-motor features of Parkinson's, and many go unaddressed; a unified framework gives patients and clinicians a concrete checklist for what should be asked about and treated.",
+      "story_angle_primary": "If you or your spouse has Parkinson's, ask specifically about sleep at your next neurology visit \u2014 name the symptom, whether it's acting out dreams, daytime sleepiness, leg restlessness, snoring, or trouble staying asleep. Each has a distinct workup, and these are treatable problems, not something you simply have to live with.",
+      "story_angle_secondary": "For caregivers and senior living staff, dream enactment behavior is a safety issue worth reporting \u2014 bed partners are often the first to notice, and the panel treats REM sleep behavior disorder as a distinct condition requiring its own assessment and bedroom-safety measures.",
+      "caveats": "Expert consensus rather than new primary data; US-based panel of 11 specialists may not reflect global practice; several panelists disclose consulting relationships with pharmaceutical and device companies including Amneal, Jazz Therapeutics, Medtronic, Boston Scientific, Insightec, BlueRock, Acadia, Aevum, PhotoPharmics, and Aspen Neuroscience."
+    },
+    {
+      "headline": "Medicare's Free Annual Wellness Visit Was Linked to Catching Mild Cognitive Impairment Sooner",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42456217",
+      "doi": "10.1016/j.archger.2026.106355",
+      "the_study": "Researchers linked Health and Retirement Study survey data to Medicare claims from 2011 to 2019 and built propensity score-matched groups of older adults who did and did not have a Medicare Annual Wellness Visit across four calendar years, adjusting for education, poverty, residence, daily function, and behavioral and non-clinical factors. Diagnoses of mild cognitive impairment were more frequent in the wellness visit group, while time to a dementia diagnosis was similar between groups. Both groups showed comparable rates of cognitive decline over time.",
+      "why_it_matters": "An MCI diagnosis is an opening to investigate reversible or modifiable contributors \u2014 untreated sleep apnea, thyroid problems, inactivity, smoking \u2014 before they compound into further decline.",
+      "story_angle_primary": "Your Medicare Annual Wellness Visit is free and includes a cognitive check; if you schedule one, come prepared to describe memory changes and sleep problems like loud snoring or daytime sleepiness, since these are among the treatable contributors a clinician can pursue.",
+      "story_angle_secondary": "For families and senior living staff, this is a concrete, low-cost advocacy step: confirm residents and relatives are actually using their annual wellness benefit, and pass along observed memory or sleep concerns so they surface during the visit.",
+      "caveats": "Observational, claims-based analysis, so causation cannot be established; propensity matching cannot rule out that people who seek wellness visits differ in unmeasured ways \u2014 notably, the wellness visit group already had higher cognitive scores; two-year follow-up window; findings apply to US Medicare beneficiaries."
+    },
+    {
+      "headline": "Weighted Blankets for Dementia: Safe and Well Tolerated, but No Proof They Improve Sleep",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Sep 1",
+      "pmid": "42679410",
+      "doi": "10.1016/j.gerinurse.2026.104269",
+      "the_study": "Australian researchers ran a pilot randomized crossover trial in a specialized neurobehavioral dementia unit, where 14 residents with behavioral and psychological symptoms of dementia each slept two weeks with a weighted blanket and two weeks with their usual bedding, acting as their own controls. Sleep was tracked with an under-mattress sensor plus the Sleep Disorder Inventory, alongside neuropsychiatric symptoms, falls, restrictive practices, and as-needed psychotropic medication use. There was no statistical evidence that weighted blankets improved sleep duration, sleep efficiency, or behavior, though fewer falls, night wakings, and restrictive practice incidents were recorded during blanket weeks. Nobody withdrew, there were no adverse events, and staff found the intervention practical to deliver.",
+      "why_it_matters": "Weighted blankets are heavily marketed to families of people with dementia as a drug-free sleep fix; this trial suggests they are low-risk and acceptable but should not be counted on to solve nighttime restlessness.",
+      "story_angle_primary": "If you or a family member with dementia find a weighted blanket comforting, this study suggests it's a low-risk thing to try \u2014 but go in with realistic expectations, and don't drop other sleep strategies (consistent bedtimes, daytime light and activity, reviewing medications with your doctor) on the assumption a blanket will do the work.",
+      "story_angle_secondary": "For care home managers and clinical staff: this is useful evidence for procurement conversations and family expectations \u2014 weighted blankets were feasible, acceptable, and caused no harm in a high-acuity unit, but there is currently no effectiveness evidence, so they shouldn't displace staffing or environmental approaches to night-time care.",
+      "caveats": "Very small sample (N=14), single-center pilot, short two-week intervention periods, variable compliance with the protocol, and the authors reported the Withings device did not adequately measure sleep in this population. Funding support was provided by Dementia Australia. Findings on falls and restrictive practices were not statistically significant."
+    },
+    {
+      "headline": "In Frail Older Adults, Mood and Sleep \u2014 Not Physical Limits \u2014 Sit at the Center of Quality of Life",
+      "journal": "Geriatr Gerontol Int",
+      "published": "2026 Sep",
+      "pmid": "42716517",
+      "doi": "10.1111/ggi.70773",
+      "the_study": "Researchers analyzed data from 1,311 Koreans aged 65 and older in the 2019-2021 national health and nutrition survey, mapping how the eight components of health-related quality of life connect to one another separately in frail and non-frail participants. Among frail older adults, the strongest link was between depression and happiness, with work/role participation, depression, happiness, and sleep emerging as the most central domains. Among non-frail older adults, the network was dominated by physical concerns \u2014 the strongest connection was between climbing stairs and pain. Across both groups, better quality of life tracked with better self-rated health, better oral health, and having no unmet medical needs.",
+      "why_it_matters": "It suggests that as frailty sets in, emotional well-being and sleep become the levers that most shape day-to-day quality of life, while for more robust seniors, pain and mobility matter most \u2014 so 'what to work on' isn't the same for everyone.",
+      "story_angle_primary": "If you've become frailer, don't treat poor sleep or low mood as the inevitable background noise of aging \u2014 in this analysis those domains were most tightly bound to overall quality of life, and they're worth raising explicitly at your next appointment alongside your mobility and pain concerns.",
+      "story_angle_secondary": "For families and senior living staff: the finding that perceived role participation ('work') was highly central in both groups argues for protecting residents' meaningful roles and contributions, not just their safety \u2014 and for weighting emotional support more heavily in care plans for frail residents.",
+      "caveats": "Cross-sectional observational survey data \u2014 it cannot establish that mood or sleep cause changes in quality of life, or the reverse. Quality of life and several covariates were self-reported, and the sample is Korean, so patterns may not generalize to other health systems and cultures."
+    },
+    {
+      "headline": "An Eight-Week Lifestyle Program \u2014 by App or by Booklet \u2014 Eased Depression, and the Booklet Helped Insomnia",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1",
+      "pmid": "42503319",
+      "doi": "10.1016/j.jad.2026.122319",
+      "the_study": "In a three-arm randomized controlled trial, 122 adults with probable depression were assigned to receive the same eight-week multicomponent lifestyle medicine program \u2014 covering physical activity, diet, stress and sleep management, and goal-setting \u2014 either through a smartphone app, through printed booklets, or to a waitlist control. Both delivery formats beat the waitlist on depressive symptoms, with 78% of app users and 55% of booklet users achieving clinically significant improvement versus 19.5% of controls. Gains held at one- and three-month follow-ups. Notably, the booklet group uniquely showed improvement in insomnia symptoms (effect size 0.83), while the app group gained more on perceived stress and nutrition.",
+      "why_it_matters": "Self-guided, low-cost lifestyle programs \u2014 including old-fashioned printed workbooks \u2014 can meaningfully shift depressive symptoms and sleep without a therapist's schedule or a prescription, which matters for anyone facing waitlists, cost barriers, or limited mobility.",
+      "story_angle_primary": "If low mood and poor sleep are traveling together for you, it may be worth asking your doctor about structured self-help lifestyle programs \u2014 and take note that the paper-based version, not the app, was the one that improved insomnia symptoms, so a printed workbook is a legitimate option if screens aren't your thing.",
+      "story_angle_secondary": "For senior living activity directors and family caregivers: this supports offering a low-tech, printed lifestyle-medicine curriculum as a group or individual program, which sidesteps the digital literacy barriers that often exclude the oldest residents from app-based mental health offerings.",
+      "caveats": "Modest sample (N=122) and a waitlist control rather than an active comparison, so expectancy effects can't be ruled out. Participants had 'probable depression' by questionnaire rather than confirmed diagnosis, outcomes including insomnia were self-reported, follow-up extended only three months, and the waitlist group was not followed beyond week 9. Conducted in Hong Kong in adults generally \u2014 not specifically an older-adult sample \u2014 so results may not generalize to seniors."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42648048",
+      "headline": "Sleeping Nine Hours or More May Signal Trouble: Large Chinese Study Links Sleep Extremes to Earlier Death",
+      "verdict": "minor",
+      "notes": "Sample size, hazard ratios, U-shaped pattern and null napping/disturbance findings all match. Only issue is turning a null result into active reassurance about napping.",
+      "issues": [
+        {
+          "label": "Null finding framed as reassurance",
+          "severity": "Minor",
+          "as_written": "This study cannot show that changing your hours changes your risk, but it does suggest long sleep deserves a conversation, and that a routine nap is not something to worry about.",
+          "abstract_says": "Daytime napping and sleep disturbance were not significantly associated with mortality.",
+          "problem": "A non-significant association in one self-report cohort is absence of evidence, not evidence that napping is safe; other studies in this same digest (#9, #14) link napping to worse cognitive and kidney outcomes, so blanket reassurance goes beyond the data.",
+          "suggested_fix": "Reword to: \"...and that in this study napping was not associated with higher mortality risk, though that does not settle the question.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42628578",
+      "headline": "Heart and Metabolic Conditions Make Depression Stickier \u2014 And Bad Sleep Makes It Worse",
+      "verdict": "minor",
+      "notes": "Ns, mean ages, and the 21-29% / 21-26% hazard ranges match the abstract exactly; only the country-specific claim about the interaction is not stated in the abstract.",
+      "issues": [
+        {
+          "label": "Interaction described as significant in each country",
+          "severity": "Minor",
+          "as_written": "Sleeping less than 6 or 9 or more hours amplified these associations, with a statistically significant additive interaction in both countries.",
+          "abstract_says": "Significant additive interactions between CMM and unhealthy sleep duration were observed (P for additive interaction <0.001).",
+          "problem": "The abstract reports significant additive interactions without breaking them down by cohort, so \"in both countries\" cannot be confirmed from the abstract alone.",
+          "suggested_fix": "Say \"with a statistically significant additive interaction between multimorbidity and unhealthy sleep duration\" and drop \"in both countries,\" or mark it as unverified."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42727946",
+      "headline": "One Pill Leads to Another: Dementia Drugs Followed by Sleep Medications in 1 in 10 Older Adults",
+      "verdict": "minor",
+      "notes": "Cohort size, age threshold, 65 candidate cascades, 24 prioritized, the 10.3% cholinesterase inhibitor-to-sleep-agent incidence and the top temporal signals all check out; CIHR funding correctly disclosed. Dose-timing advice is an extrapolation.",
+      "issues": [
+        {
+          "label": "Dose-timing advice not studied",
+          "severity": "Minor",
+          "as_written": "ask your prescriber or pharmacist whether the timing of that dose can be changed before you accept a sleeping pill",
+          "abstract_says": "The study measured population prevalence, cascade incidence and adjusted sequence ratios for 65 expert-nominated prescribing cascades; it did not evaluate dose timing or any management strategy.",
+          "problem": "A specific management suggestion (changing dose timing) is presented as flowing from a study that only quantified prescribing sequences.",
+          "suggested_fix": "Keep the general prompt (\"Is this new symptom a side effect of something I'm already taking?\") and attribute dose-timing options to general prescribing guidance rather than this study."
+        },
+        {
+          "label": "Drug named that the abstract does not name",
+          "severity": "Minor",
+          "as_written": "especially a dementia drug like donepezil",
+          "abstract_says": "The abstract refers to the drug class \"cholinesterase inhibitor\" only.",
+          "problem": "The specific agent is a reasonable class example but is not verifiable from the abstract.",
+          "suggested_fix": "Write \"a cholinesterase inhibitor (the class that includes donepezil)\" to make clear the example is editorial."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42727201",
+      "headline": "For Older Adults With Advanced Cognitive Impairment, Sleep Hours Were the Strongest Clue to Depression",
+      "verdict": "minor",
+      "notes": "N=5,798, accuracy range 0.755-0.767, and the split of top predictors ('feeling energetic' vs 'sleep duration per day') are all reported correctly; the 'diagnostic weight' framing overreaches slightly.",
+      "issues": [
+        {
+          "label": "Predictor importance recast as diagnostic value",
+          "severity": "Minor",
+          "as_written": "observable behaviors like how long they sleep may carry more diagnostic weight than the usual mood questions",
+          "abstract_says": "'sleep duration per day' was the top predictor in the severely impaired group; \"Further external validation is needed before implementation in routine clinical practice.\"",
+          "problem": "Feature importance inside an XGBoost risk model is not diagnostic weight, and sleep duration in this survey was itself reported (self or proxy), not objectively observed.",
+          "suggested_fix": "Reword to \"sleep duration ranked as the most informative variable in the model for this group\" and keep the external-validation caveat prominent."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42596580",
+      "headline": "Long daytime naps linked to slower thinking speed in older adults, new sleep study finds",
+      "verdict": "accurate",
+      "notes": "N=686, nap definition, processing-speed association, the non-significant apnea interaction, the apnea-plus-under-represented-group executive function finding, exploratory framing and the Axsome/Eli Lilly disclosures all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "pmid": "42712247",
+      "headline": "One in five older New Yorkers surveyed used cannabis in the past year \u2014 and half reported using it to sleep",
+      "verdict": "minor",
+      "notes": "Sample, 22.2% past-year use, reasons for use, 32.9%/5.7% CUD figures and the consulting disclosure are all correct; the side-effect ordering is reversed and the 24-hour figure's denominator is presented without noting the abstract's wording.",
+      "issues": [
+        {
+          "label": "Side effects listed in wrong order of frequency",
+          "severity": "Minor",
+          "as_written": "Drowsiness and dry mouth were the most frequently reported side effects",
+          "abstract_says": "Dry mouth (41.4%) and drowsiness (18.6%) were the most reported adverse effects.",
+          "problem": "Listing drowsiness first implies it was the most common effect, when dry mouth was reported more than twice as often \u2014 and the digest's \"why it matters\" leans on drowsiness.",
+          "suggested_fix": "Write \"Dry mouth (41.4%) and drowsiness (18.6%) were the most frequently reported side effects.\""
+        },
+        {
+          "label": "Denominator for past-24-hour use",
+          "severity": "Minor",
+          "as_written": "Past-year cannabis use was reported by 22.2%, and 11.1% had used within the previous 24 hours",
+          "abstract_says": "22.2% of participants (n = 70) reported past-year cannabis use, and among them, 11.1% (n = 35) reported past 24-h use.",
+          "problem": "The abstract attributes the 11.1% to past-year users (\"among them\"), though the accompanying n = 35 implies 11.1% of the full 315-person sample. The digest silently picks one reading.",
+          "suggested_fix": "State \"35 participants (11.1% of the full sample as reported) had used in the previous 24 hours\" or flag the abstract's ambiguity."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42711172",
+      "headline": "How seniors rate their own sleep sits at the center of their mental health \u2014 at least at home",
+      "verdict": "accurate",
+      "notes": "Sample sizes, network density/core-node descriptions, the non-significant Network Comparison Test results (p = 0.233 and p = 0.124) and the institutional network's limited stability are all represented faithfully, and the digest explicitly flags the non-significance.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42696426",
+      "headline": "Vitamin D Levels Track With Longer, Less Broken Sleep in Older Adults",
+      "verdict": "minor",
+      "notes": "N=460, demographics, the +23.63 and -23.03 minute estimates, stronger associations in Black participants and the sex-divergent B12 results all match; the novelty claim and the effect-size framing need softening.",
+      "issues": [
+        {
+          "label": "Unverified novelty claim",
+          "severity": "Minor",
+          "as_written": "this is some of the first evidence tying it to objectively recorded sleep rather than self-report",
+          "abstract_says": "\"Low vitamin D and B12 levels are linked to low self-reported sleep quality... We examined the associations between serum vitamin D and B12 levels with actigraphic sleep indices...\"",
+          "problem": "The abstract notes prior work used self-report but makes no claim to being first or among the first with actigraphy.",
+          "suggested_fix": "Change to \"this study used wrist actigraphy rather than questionnaires, unlike much of the earlier work.\""
+        },
+        {
+          "label": "Effect size presented without its unit",
+          "severity": "Minor",
+          "as_written": "Higher vitamin D was associated with about 24 more minutes of total sleep time per night",
+          "abstract_says": "Higher vitamin D concentration was associated with longer total sleep time (B = 23.63 minutes, 95% CI: 9.62, 37.64).",
+          "problem": "The 23.63-minute figure is a regression coefficient per unit of vitamin D concentration, not a difference between high- and low-vitamin-D people; readers may take it as a group contrast.",
+          "suggested_fix": "Say \"each increment in vitamin D level was associated with roughly 24 more minutes of sleep\" and note the deficiency comparison separately."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "pmid": "42690762",
+      "headline": "Sleeping 10 Hours or More \u2014 and Regular Daytime Napping \u2014 Flag Lower Cognitive Scores in 89,000 Europeans",
+      "verdict": "minor",
+      "notes": "88,889 interviews, waves 8-9 (2019-2022), mean age 68.88, 55% women, 7%/12%/81% cognitive categories, and the adjusted findings for \u226510-hour sleep and napping are all correct; the headline counts interviews as people.",
+      "issues": [
+        {
+          "label": "Interviews described as individuals in headline",
+          "severity": "Minor",
+          "as_written": "Flag Lower Cognitive Scores in 89,000 Europeans",
+          "abstract_says": "88,889 interviews were included (55% females; mean age 68.88)",
+          "problem": "The unit of analysis was pooled interviews across two waves, which can include the same respondent twice; the body text gets this right but the headline converts them to distinct people.",
+          "suggested_fix": "Headline: \"...in Nearly 89,000 Interviews Across Europe.\""
+        },
+        {
+          "label": "Napping outcome slightly recast",
+          "severity": "Minor",
+          "as_written": "Among other sleep complaints \u2014 recent trouble sleeping, weekly sleep medication use, and daytime napping \u2014 only napping survived adjustment.",
+          "abstract_says": "Cognitive impairment was significantly associated with subjective reports of recent trouble sleeping, weekly use of medication to aid sleep, and daytime napping, although only the association with daytime napping remained statistically significant after adjusting for potential confounders.",
+          "problem": "Accurate in substance, but the napping result concerns cognitive impairment status rather than \"lower cognitive scores\" as the headline pairs it with long sleep.",
+          "suggested_fix": "Specify that \u226510-hour sleep tracked with lower cognitive scores while napping remained associated with cognitive impairment status."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42567211",
+      "headline": "'Circadian Syndrome' \u2014 Poor Sleep Plus Metabolic Problems Plus Low Mood \u2014 Linked to Memory Complaints, Especially in Men",
+      "verdict": "minor",
+      "notes": "N=2,008 cognitively normal HMACS participants, the dose-response link to SCD severity, the male-stronger SCD-domain association, the GFAP/A\u03b242-40/NfL patterns and the null indirect-effect analysis are all reported correctly; only the biomarker labeling is loose.",
+      "issues": [
+        {
+          "label": "Biomarkers loosely labeled",
+          "severity": "Minor",
+          "as_written": "circadian syndrome also tracked with blood markers of brain injury and inflammation (GFAP, and nonlinearly with A\u03b242/40 and NfL)",
+          "abstract_says": "CircS was dose-responsively linked to GFAP and nonlinearly to A\u03b242/40 (Pnonlinear = 0.029) and NfL (Pnonlinear = 0.030).",
+          "problem": "A\u03b242/40 is an amyloid ratio, not a marker of brain injury or inflammation, so the umbrella description misdescribes one of the three markers.",
+          "suggested_fix": "Write \"blood markers used in Alzheimer's research \u2014 GFAP (astrocyte activation), NfL (nerve cell damage) and the A\u03b242/40 amyloid ratio.\""
+        },
+        {
+          "label": "Sex-specific biomarker direction omitted",
+          "severity": "Minor",
+          "as_written": "The association with self-reported cognitive domains was stronger in men",
+          "abstract_says": "Subgroup analysis revealed that CircS was associated with higher SCD-domain in males (\u03b2 = 0.32; P for interaction = 0.003), and lower GFAP levels in females (\u03b2 = -0.25; P for interaction = 0.021).",
+          "problem": "The digest reports only half of the sex-stratified result; the female-specific finding was in the opposite direction for GFAP, which slightly complicates the 'clustered risk profile' narrative.",
+          "suggested_fix": "Add that in women circadian syndrome was associated with lower GFAP levels, underscoring that the sex-stratified results are exploratory."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42714024",
+      "headline": "New Pill for Narcolepsy Restores Daytime Wakefulness in Two Large Trials",
+      "verdict": "minor",
+      "notes": "Core trial facts and MWT/ESS/adverse-event numbers match, but the cataplexy result omits the sizeable placebo response, the drug's investigational (not yet approved) status is never stated, and \"Restores\" plus the \"first drug class\" and \"normal range\" claims go beyond the abstract.",
+      "issues": [
+        {
+          "label": "Cataplexy reduction reported without placebo comparator",
+          "severity": "Moderate",
+          "as_written": "weekly cataplexy attacks dropped 79% to 89%",
+          "abstract_says": "Median percent reductions in the weekly cataplexy rate ranged from 79.0 to 88.8% with oveporexton, as compared with 27.7 to 39.1% with placebo",
+          "problem": "Omitting the 28-39% placebo reduction makes the drug's net benefit on cataplexy look substantially larger than the between-group difference reported.",
+          "suggested_fix": "Add the comparator: \"weekly cataplexy attacks dropped 79% to 89%, compared with 28% to 39% on placebo.\""
+        },
+        {
+          "label": "Investigational status not disclosed",
+          "severity": "Moderate",
+          "as_written": "If you live with narcolepsy and have been managing on stimulants for years, this is worth asking your sleep specialist about",
+          "abstract_says": "Oveporexton (TAK-861), an oral orexin receptor 2-selective agonist ... We conducted two phase 3, randomized, placebo-controlled trials ... (Funded by Takeda Development Center Americas; ... ClinicalTrials.gov numbers, NCT06470828 and NCT06505031.)",
+          "problem": "The abstract describes phase 3 trial results for an experimental compound; nothing indicates the drug is available for prescription. Readers could be led to ask for a medication that cannot yet be prescribed.",
+          "suggested_fix": "Note that oveporexton is still investigational and not yet approved or available outside trials."
+        },
+        {
+          "label": "\"Normal range\" claim unsupported",
+          "severity": "Minor",
+          "as_written": "with effect sizes large enough to bring many patients back into the normal range",
+          "abstract_says": "Maintenance of Wakefulness Test (MWT; range, 0 to 40 minutes; normal, \u226520) ... Mean changes from baseline to week 12 in mean sleep latency on the MWT ranged from 14.3 to 19.8 minutes",
+          "problem": "The abstract reports change from baseline, not baseline values or the proportion of participants reaching normal thresholds. Unverifiable from abstract only.",
+          "suggested_fix": "Drop the \"normal range\" framing or state simply that mean improvements were large on both the MWT and ESS."
+        },
+        {
+          "label": "\"First drug class\" claim",
+          "severity": "Minor",
+          "as_written": "this is the first drug class to target the underlying orexin deficiency rather than simply stimulating alertness",
+          "abstract_says": "Oveporexton (TAK-861), an oral orexin receptor 2-selective agonist, reduced symptoms of narcolepsy type 1 in a previous phase 2 trial.",
+          "problem": "The abstract does not establish first-in-class status. Unverifiable from abstract only.",
+          "suggested_fix": "Say the drug targets orexin signalling directly rather than claiming it is the first class to do so."
+        },
+        {
+          "label": "Hype in headline",
+          "severity": "Minor",
+          "as_written": "New Pill for Narcolepsy Restores Daytime Wakefulness in Two Large Trials",
+          "abstract_says": "oveporexton significantly improved measures of wakefulness, sleepiness, and cataplexy in participants with narcolepsy type 1",
+          "problem": "\"Restores\" implies return to normal function; the abstract reports improvement over 12 weeks. The trials (168 and 105 participants) are also modest rather than \"large.\"",
+          "suggested_fix": "\"Experimental Pill Sharply Improved Daytime Wakefulness in Two Phase 3 Narcolepsy Trials.\""
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42600483",
+      "headline": "A Pre-Surgery Snapshot Including Sleep and Body Clock Predicts Who Struggles After Cancer Surgery",
+      "verdict": "minor",
+      "notes": "Design, N, index construction, effect sizes and the three recovery trajectories all match the abstract; the only gap is that the cohort's country (China) is never stated despite a generalizability caveat.",
+      "issues": [
+        {
+          "label": "Study setting/country omitted",
+          "severity": "Minor",
+          "as_written": "In a prospective study of 450 adults aged 60 and older undergoing curative gastrointestinal cancer surgery",
+          "abstract_says": "Department of General Surgery, The First Affiliated Hospital of Soochow University, Suzhou, 215006, Jiangsu, China ... 450 adults aged \u226560 years undergoing curative gastrointestinal cancer surgery were enrolled and followed for 3 years.",
+          "problem": "The digest flags single-centre limits but never tells readers the cohort was Chinese, which is relevant to generalizability and is stated elsewhere in the digest for other Chinese cohorts.",
+          "suggested_fix": "Add \"at a single hospital in Suzhou, China\" to the study description or caveats."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42716874",
+      "headline": "Expert Panel Issues New Roadmap for Bladder Problems in Parkinson's \u2014 Including the Nighttime Trips That Wreck Sleep",
+      "verdict": "minor",
+      "notes": "Panel composition, Delphi method, domains and algorithm are accurately described; one sentence reverses the abstract's stated direction between urinary symptoms and mobility impairment.",
+      "issues": [
+        {
+          "label": "Direction of the symptom\u2013mobility relationship reversed",
+          "severity": "Minor",
+          "as_written": "urinary urgency, frequency, nocturia, incontinence, and voiding problems compound mobility impairment, disrupt sleep, and contribute to falls",
+          "abstract_says": "These symptoms may be compounded by mobility impairment disrupt sleep and contribute to falls.",
+          "problem": "The abstract says urinary symptoms are compounded BY mobility impairment; the digest flips the direction so that urinary symptoms worsen mobility.",
+          "suggested_fix": "\"...urinary symptoms are compounded by mobility impairment, disrupt sleep, and contribute to falls.\""
+        },
+        {
+          "label": "\"Screening\" vs \"evaluation\" domain",
+          "severity": "Minor",
+          "as_written": "The statements cover screening, disease-specific contributors, diagnostic work-up, and interventions and rehabilitation",
+          "abstract_says": "Draft statements were developed across four clinical domains: evaluation, PD-specific contributors, diagnostic work-up, and interventions and rehabilitation.",
+          "problem": "The first domain is labelled \"evaluation\" in the abstract, not \"screening\" (screening appears only in the objective/results).",
+          "suggested_fix": "Use \"evaluation\" for the first domain."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42686460",
+      "headline": "A Steady Daily Rhythm \u2014 Not Just More Sleep \u2014 Tracked With Healthier Kidneys in Older Adults",
+      "verdict": "minor",
+      "notes": "All directions of association (IS, L5, M10 protective; IV and total sleep time adverse) and the joint-analysis finding match the abstract; the description of the measures as \"wearable-derived\" is not stated in the abstract.",
+      "issues": [
+        {
+          "label": "Measurement device not stated in abstract",
+          "severity": "Minor",
+          "as_written": "using wearable-derived measures of sleep and 24-hour rest-activity rhythms alongside kidney function",
+          "abstract_says": "Sleep and 24-hour rest-activity rhythm parameters, including total sleep time (TST), wakefulness after sleep onset (WASO), interdaily stability (IS), intradaily variability (IV), Least active 5 h span (L5), Most active 10 h span (M10), and relative amplitude (RA).",
+          "problem": "The abstract names the rhythm metrics but never says how they were collected. Unverifiable from abstract only (though these metrics are conventionally actigraphy-based).",
+          "suggested_fix": "Say \"rest-activity rhythm measures (interdaily stability, intradaily variability, most/least active hours)\" without specifying the device, or verify from the full text."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42708477",
+      "headline": "A Subtle Sleep Brain-Wave Pattern Is Weakened in Alzheimer's \u2014 and May Reflect the Brain's Overnight Cleaning Cycle",
+      "verdict": "accurate",
+      "notes": "Findings on reduced ISO amplitude with preserved frequency and bandwidth, the trend-level amyloid association and the bandwidth\u2013NfL link are all faithfully reported, and the digest appropriately flags the mechanistic, non-clinical nature of the work.",
+      "issues": []
+    },
+    {
+      "number": 16,
+      "pmid": "42731925",
+      "headline": "Sleep Experts Issue 114 Consensus Recommendations for Parkinson's-Related Sleep Problems",
+      "verdict": "accurate",
+      "notes": "Panel size, four Delphi rounds, 100% agreement threshold, 114 statements, subtopics and the handling of non-unanimous statements all match; disclosures listed in the caveats correspond to the abstract's competing-interest statement.",
+      "issues": []
+    },
+    {
+      "number": 17,
+      "pmid": "42456217",
+      "headline": "Medicare's Free Annual Wellness Visit Was Linked to Catching Mild Cognitive Impairment Sooner",
+      "verdict": "accurate",
+      "notes": "Data sources, matching approach, two-year window, higher MCI diagnosis rate with similar time to dementia diagnosis, and the caveat about higher baseline cognitive scores in the AWV group all track the abstract.",
+      "issues": []
+    },
+    {
+      "number": 18,
+      "pmid": "42679410",
+      "headline": "Weighted Blankets for Dementia: Safe and Well Tolerated, but No Proof They Improve Sleep",
+      "verdict": "minor",
+      "notes": "N, crossover design, outcomes, null efficacy result, feasibility findings, Withings limitation and Dementia Australia funding are all accurate; only the claim that staff found delivery practical goes slightly beyond the abstract.",
+      "issues": [
+        {
+          "label": "Staff acceptability attribution",
+          "severity": "Minor",
+          "as_written": "Nobody withdrew, there were no adverse events, and staff found the intervention practical to deliver.",
+          "abstract_says": "Weighted blankets were considered feasible and acceptable with high recruitment rates, nil participant withdrawals and no adverse outcomes, however there was variable compliance to the intervention protocol",
+          "problem": "The abstract reports feasibility and acceptability in general terms and notes variable protocol compliance; it does not attribute a judgement of practicality specifically to staff.",
+          "suggested_fix": "\"...and the intervention was judged feasible and acceptable overall, though compliance with the protocol varied.\""
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "pmid": "42716517",
+      "headline": "In Frail Older Adults, Mood and Sleep \u2014 Not Physical Limits \u2014 Sit at the Center of Quality of Life",
+      "verdict": "accurate",
+      "notes": "Sample, survey years, HINT-8 network analysis, the depression\u2013happiness and stairs\u2013pain links, central domains in each group, and the shared correlates of better HRQoL are all accurately reported; the story angle correctly notes the centrality of \"working\" in both groups.",
+      "issues": []
+    },
+    {
+      "number": 20,
+      "pmid": "42503319",
+      "headline": "An Eight-Week Lifestyle Program \u2014 by App or by Booklet \u2014 Eased Depression, and the Booklet Helped Insomnia",
+      "verdict": "accurate",
+      "notes": "Three-arm design, N=122, response rates (78%/55% vs 19.5%), maintenance at 1- and 3-month follow-up, the booklet-only insomnia effect (d=0.83) and the app's additional gains all match, and the caveats correctly flag the waitlist control, Hong Kong setting and non-geriatric sample.",
+      "issues": []
+    }
+  ]
+}

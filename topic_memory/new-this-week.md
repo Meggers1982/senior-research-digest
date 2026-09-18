@@ -1,24 +1,28 @@
 # Topic Memory: New this week
-_Last updated: 2026-09-15_
+_Last updated: 2026-09-18_
 
 ## Established findings
-- Cumulative medication burden is the most durable practical thread: named prescribing cascades (42727946), benzodiazepine-to-orexin taper best in 65+ (42717137), pharmacist-led deprescribing (42731364), and anticholinergic burden in Parkinson's driving fractures and ER visits (42736699, Sep 2026). Falls prevention is repeatedly a pharmacy problem.
-- Cheap, chart-available markers keep predicting decline as well as costly ones: parental longevity (42726198), estimated BMR (42715815), frailty in oncology (42731927), grip/waist/blood-pressure triad for stroke (42722214), IADL difficulty outperforming cognitive tests for dementia (42720743).
-- Bone fragility travels with steroids, surgery and long-term functional loss: 42722898, 42721595, 42733408 (elbow arthroplasty), and osteoporosis belongs in pre-surgical planning.
-- Sleep remains a treatable lever across conditions: tau and slow-wave disruption (42728376), sleep regularity and eye disease (42017838), Parkinson's daytime sleepiness tied to depression/apnea/agonists (42726411).
-- Memory-support tools improve recall but not downstream behavior: spaced retrieval of test feedback (42726908), reminder-setting in prospective memory (42734975).
-- Brain-health supplements keep underperforming: konjac glucosylceramide (42715913), N-acetylcysteine after day surgery (42736670, null on cognition, positive on recovery quality).
+- Supplements and lab-value shortcuts marketed for brain and anti-aging keep failing randomized or adjusted tests: N-acetylcysteine (42736670), konjac glucosylceramide (42715913), vitamin D/omega-3 on AD biomarkers (42746141, Sep 2026), NAD+/frailty attenuated by hematocrit (42744962), AST/ALT adding nothing to dementia prediction (42741023).
+- Cumulative medication burden remains the most durable practical thread: prescribing cascades (42727946), benzodiazepine taper (42717137), pharmacist-led deprescribing (42731364), anticholinergic load and fractures in Parkinson's (42736699); self-purchased supplements belong in medication reconciliation (42742071).
+- Everyday-function decline predicts hard outcomes better than cognitive tests: cooking/medications/shopping and dementia (42720743), increasing IADL limitation and doubled mortality with depression mediating ~16% (42753032).
+- Behavior and motivation changes, not memory, are the informative early signals: apathy and MCI-to-AD conversion (42749536), plasma p-tau181 predicting mild behavioral impairment (42745934), Parkinson's fatigue distinct from depression (42726348).
+- "Less is more" evidence keeps landing: routine post-hip-fracture imaging (42732263), single vs double burr hole (42734090), thin ICOPE trial base (42740566), carotid revascularization with no cognitive benefit (42747834), 3-week prehabilitation null at 12 months (42743945).
+- Social and structural conditions behave like clinical variables: neighborhood and depression persistence (42107653), social disadvantage and dementia (42730922), loneliness tied to income, tenure, deprivation and no internet use (42742397).
+- Digital delivery works, modestly and specifically: devices plus training (42734971), trial-tested cognitive apps in SCD/MCI (42754558), online caregiver support best for working carers (42745561).
 
 ## Emerging threads
-- Alzheimer's blood biomarkers moving from representation gaps (42722299) to measured discordance in diverse clinics (42287769, 13.4% blood-positive/amyloid-negative; BMI and kidney function as modifiers). Watch for primary-care data.
-- Social and physical environment as clinical variables: neighborhood and depression persistence (42107653), social disadvantage and dementia with a fivefold signal in women with T2D (42730922), friend-centered networks in same-sex couples (42720968), intergenerational time and step counts (42720933).
-- Hearing loss as an underdiagnosed comorbidity of "brain" workups (42314794) and a marker of physiological reserve (42717165) — new, watch for replication.
-- Reversible or misattributed conditions: iNPH triad (42734938), acute akinetic collapse in Parkinson's (42250520), Parkinson's fatigue distinct from depression (42726348).
-- "Less is more" evidence: null value of routine post-hip-fracture imaging (42732263), single vs double burr hole equivalence (42734090), thin trial base under the WHO ICOPE framework (42740566).
-- Research participation as an invitation problem, not a willingness problem (42725877) — pairs with biomarker representation gaps.
+- Retina as an accessible window on brain and biological aging — OCTA after mild stroke (42743445), AI retinal age gap with diabetes dominant and hypertension null (42753030); both author groups warn against individual use.
+- Mixed pathology as the norm (42743907, mean 2.54 pathologies) as the explanation for modest single-target drug results — watch for how this reframes trial and biomarker coverage.
+- Perioperative geriatrics splitting into what fails (prehabilitation 42743945) and what may help (esketamine and delirium 42750012).
+- Diet moving from general advice to specific trade-offs: Mediterranean pattern and upper-GI/head-and-neck cancers (42744960), ketogenic gains in memory/language with LDL rise (42753449).
+- Oral health and Alzheimer's biology (42754555) — new, inconsistent, worth watching for clinical rather than surrogate outcomes.
+- Evidence gaps for populations excluded from pivotal trials: RSV vaccination in immunosuppressed rheumatic disease (42755043); pairs with biomarker representation gaps (42722299) and research-invitation findings (42725877).
+- Age and time windows being challenged rather than defended: thrombolysis up to 24 hours in over-70s (42749350); DaTscan revising a third of uncertain parkinsonism diagnoses (42753528).
 
 ## Feature ideas already pitched
-- 2026-09-14: "The medication conversation, made specific" — 42727946, 42717137, 42731364, 42722898, 42715510. Targets: Next Avenue, Caring.com, NCOA, LeadingAge.
-- 2026-09-14 (run 2): "The early signs that aren't memory" — 42704084, 42727174, 42721722, 42730663, 42732657. Targets: Next Avenue, Caring.com, NCOA, LeadingAge.
-- 2026-09-15: "Where you live and who you're close to show up in the health data" — 42107653, 42730922, 42720968, 42720933. Targets: Next Avenue, Retirement Living, LeadingAge, Caring.com.
-- Not yet pitched, candidate for a future run: "Before you call it aging" — treatable mimics (iNPH 42734938, undiagnosed hearing loss 42314794, anticholinergic load 42736699, Parkinson's fatigue 42726348).
+- 2026-09-14: "The medication conversation, made specific" — 42727946, 42717137, 42731364, 42722898, 42715510.
+- 2026-09-14 (run 2): "The early signs that aren't memory" — 42704084, 42727174, 42721722, 42730663, 42732657.
+- 2026-09-15: "Where you live and who you're close to show up in the health data" — 42107653, 42730922, 42720968, 42720933.
+- 2026-09-18: "The brain-health marketplace report card" — supplements, brain apps, retinal age AI, keto, mixed pathology (42746141, 42744962, 42741023, 42753030, 42754558, 42753449, 42743907). Targets: Next Avenue, NCOA, Caring.com, LeadingAge.
+- Not yet pitched, candidate for a future run: "Before you call it aging" — treatable mimics (iNPH 42734938, undiagnosed hearing loss 42314794, anticholinergic load 42736699, Parkinson's foot dystonia 42753227, drug-induced/vascular parkinsonism 42753528).
+- Not yet pitched: "Surgery after 70 — what actually protects you" (42743945, 42750012, 42747834, 42749350).

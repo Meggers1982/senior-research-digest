@@ -1,0 +1,885 @@
+{
+  "id": "senior-living-research-digest-new-this-week-2026-09-20",
+  "filename": "Senior Living Research Digest \u2014 New This Week \u2014 2026-09-20.md",
+  "title": "Senior Living Research Digest \u2014 New This Week \u2014 2026-09-20",
+  "run_date": "2026-09-20",
+  "coverage_window": "Last 7 days",
+  "journals_searched": "632",
+  "articles_screened": "40 (of 493 published)",
+  "focus": "New this week",
+  "topic": "New this week",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 21,
+  "studies": [
+    {
+      "number": 1,
+      "title": "How you fill out a questionnaire may hint at dementia years before diagnosis",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "published": "2026 Sep 18",
+      "pmid": "42760255",
+      "doi": "10.1093/geronb/gbag197",
+      "the_study": "Researchers pooled eight long-running studies of aging (total N = 76,350) and looked not at what people answered on routine surveys, but at how they answered \u2014 skipped items, apparently random answers, statistically odd or internally contradictory response patterns. After adjusting for demographics and accounting for death as a competing risk, several of these 'atypical response' markers predicted later dementia diagnoses, with risk rising roughly 22% to 31% per standard deviation for multivariate outliers and incompatible answer patterns. Simply giving extreme answers (always picking the end points of a scale) was not linked to dementia risk, and the signals were strongest in people under 75 and those with more education.",
+      "why_it_matters": "It suggests that ordinary paperwork older adults already complete \u2014 health surveys, intake forms, research questionnaires \u2014 carries early behavioral signals of cognitive change that cost nothing extra to collect.",
+      "story_angle_primary": "If you notice questionnaires and forms are getting harder to keep straight \u2014 losing your place, giving answers that contradict each other, skipping items you would once have finished \u2014 that is worth mentioning at your next check-up as one more piece of information, not as a diagnosis. This research describes patterns across tens of thousands of people, not a test you can apply to yourself.",
+      "story_angle_secondary": "For researchers and large health systems, this points toward a low-burden, no-extra-cost screening signal buried in data already being collected; for senior living staff, it is a reminder that difficulty completing routine paperwork can be an observation worth documenting rather than quietly correcting.",
+      "caveats": "Observational design across existing cohorts \u2014 cannot establish causation and cannot be used diagnostically for an individual; effect sizes per person are modest; associations varied by cohort, age, and education, so generalizability to any single population is uncertain.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 76350,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 2,
+      "title": "For patients in their 70s, a lower-quality donor kidney may offer no survival edge over staying on dialysis",
+      "journal": "BMJ",
+      "published": "2026 Sep 18",
+      "pmid": "42759976",
+      "doi": "10.1136/bmj-2026-100624",
+      "the_study": "Using registry data from five European countries, researchers emulated a randomized trial among 64,036 waitlisted dialysis patients aged 20 and older, 39,244 of whom received a deceased donor kidney between 2000 and 2019. Standard-criteria donor kidneys improved five-year survival compared with staying on dialysis at every recipient age. But the benefit of expanded-criteria donor kidneys shrank with age: among 75-year-olds receiving an expanded-criteria kidney donated after circulatory death, five-year survival was 59% versus 55% on continued dialysis \u2014 statistically indistinguishable \u2014 and that group had three times the early post-transplant death rate.",
+      "why_it_matters": "Older kidney patients are routinely offered marginal-quality organs on the assumption that any transplant beats dialysis; this large analysis suggests that assumption may not hold for the oldest recipients, making the offer a genuine decision rather than an obvious yes.",
+      "story_angle_primary": "If you are older and on the transplant waiting list, you can ask your nephrologist exactly what kind of kidney you are being offered \u2014 standard or expanded criteria, donated after brain death or after circulatory death \u2014 and what the projected survival difference is for someone your age compared with staying on dialysis, including the risk in the first months after surgery.",
+      "story_angle_secondary": "For families and care teams supporting an older dialysis patient, this reframes transplant counseling as a quality-of-life and risk-tolerance conversation, since the surgery's early mortality is front-loaded while any benefit accrues over years.",
+      "caveats": "Observational registry data with statistical emulation of a trial rather than actual randomization; estimates for the oldest recipients carry wide confidence intervals; European registries may not generalize to US allocation practices; data span 2000\u20132019, before some recent advances in organ preservation.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 3,
+      "title": "Methylphenidate eased depression in palliative care patients \u2014 but the evidence is thin",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Sep 19",
+      "pmid": "42762836",
+      "doi": "10.1016/j.jpainsymman.2026.09.015",
+      "the_study": "Researchers systematically reviewed randomized trials of methylphenidate \u2014 a fast-acting stimulant \u2014 for depressive symptoms in adults with advanced, life-limiting illness receiving palliative care. Five trials with a combined 342 participants met criteria; pooled results showed a moderate improvement in depressive symptoms (SMD -0.47) and a higher rate of treatment response (RR 1.78). The authors rated overall certainty as very low to low, citing small samples, inconsistency between trials, and the fact that two of the five trials were actually studying fatigue.",
+      "why_it_matters": "Standard antidepressants take weeks to work, which can exceed a hospice patient's remaining time; a faster option matters enormously, but this analysis says the supporting evidence is preliminary rather than settled.",
+      "story_angle_primary": "If you or someone close to you is in hospice or palliative care and struggling with low mood, it is reasonable to ask the care team whether a faster-acting option like methylphenidate has been considered \u2014 while understanding the research behind it is still limited and the decision should be individualized.",
+      "story_angle_secondary": "For hospice clinicians and senior living staff, the practical takeaway is permission for cautious, case-by-case trials rather than a new standard of care \u2014 and a reminder that depression in advanced illness is frequently undertreated because conventional drugs are too slow.",
+      "caveats": "Small N overall (342 across five trials); substantial heterogeneity (I\u00b2 = 58.9%); risk of bias was high in one trial and of some concern in three; two trials measured depression only as a secondary outcome of fatigue studies; authors themselves rate certainty as very low to low.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 342,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "depression",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 4,
+      "title": "Your own sleep, not your spouse's, tracks with your memory \u2014 a large couples study finds",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "published": "2026 Sep 17",
+      "pmid": "42755049",
+      "doi": "10.1093/gerona/glag235",
+      "the_study": "Drawing on four waves of the China Health and Retirement Longitudinal Study (2011\u20132018), researchers analyzed 4,260 married couples (8,520 people) aged 45 and older to see whether one spouse's sleep duration predicted the other's cognitive scores. Both husbands and wives showed a robust inverted U-shaped relationship between their own nighttime sleep and their own cognition \u2014 too little and too much both tracked with worse scores. A hint that husbands' sleep related to wives' cognition did not survive correction for multiple comparisons, and daytime napping showed little relationship either way.",
+      "why_it_matters": "Couples share beds, schedules, and sleep disruptions, and it has been assumed one partner's poor sleep drags down the other's brain health; this well-powered analysis found no reliable evidence for that spillover.",
+      "story_angle_primary": "Focus on your own nighttime sleep \u2014 both short and unusually long durations were linked to lower cognitive scores in this study \u2014 rather than assuming your partner's restlessness is damaging your memory. If your sleep has drifted well outside your usual pattern, that is a reasonable thing to raise with your doctor.",
+      "story_angle_secondary": "For caregivers and senior living staff, this argues for treating each resident's or partner's sleep individually rather than assuming that fixing one spouse's sleep problem will benefit the other's cognition \u2014 though shared-bedroom disruptions remain worth addressing for comfort and safety reasons.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; sleep duration and napping were self-reported; Chinese, married, mixed-sex, two-person households only, so findings may not generalize to other populations or living arrangements; cognition measured by brief screening batteries, not clinical diagnosis.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 8520,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 5,
+      "title": "Steroid-sparing drugs for giant cell arteritis and polymyalgia rheumatica don't automatically mean fewer infections",
+      "journal": "Joint Bone Spine",
+      "published": "2026 Sep 19",
+      "pmid": "42762860",
+      "doi": "10.1016/j.jbspin.2026.106142",
+      "the_study": "Researchers at Boston University pooled 10 randomized controlled trials (1,487 patients, average age 50 and above) that tested newer biologic and small-molecule drugs \u2014 tocilizumab, sarilumab, upadacitinib and avacopan \u2014 added to steroids in giant cell arteritis, polymyalgia rheumatica and ANCA-associated vasculitis. The drugs are marketed largely on their ability to cut steroid exposure, but infection risk only fell when the steroid dose in the treatment group was substantially lower than in the comparison group. When steroid doses stayed similar, adding the newer drug raised the relative risk of infection above 1.",
+      "why_it_matters": "These inflammatory conditions overwhelmingly affect people over 50, and infection is one of the most feared complications of treatment; the analysis suggests the benefit hinges on actually tapering the steroid, not simply adding a second drug.",
+      "story_angle_primary": "If you've been started on a newer drug like tocilizumab or avacopan for giant cell arteritis, polymyalgia rheumatica or vasculitis, ask your rheumatologist what the plan and timeline are for lowering your prednisone dose \u2014 this review suggests the infection-risk advantage largely depends on that taper actually happening. Also ask what infection warning signs should prompt a call.",
+      "story_angle_secondary": "For family members and care staff supporting someone on combination immunosuppression, the practical takeaway is vigilance: track current steroid dose alongside the newer agent, and treat fever, cough or new confusion as urgent rather than routine, since older patients on both drug classes may be at higher infection risk than the marketing suggests.",
+      "caveats": "Systematic review of trial data rather than a new trial; heterogeneous steroid-tapering protocols across studies limit direct comparison; infection definitions varied; trial populations averaged 50+ but results may not reflect the frailest patients seen in practice.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "meta-analysis",
+      "sample_size": 1487,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 6,
+      "title": "Prism glasses plus tablet games beat pencil-and-paper cognitive rehab for stroke survivors \u2014 and the gains lasted six months",
+      "journal": "Ann Phys Rehabil Med",
+      "published": "2026 Sep 18",
+      "pmid": "42759357",
+      "doi": "10.1016/j.rehab.2026.102168",
+      "the_study": "Italian researchers randomized 60 stroke survivors to 10 sessions over two weeks of either standard paper-and-pencil cognitive rehabilitation or Mindlenses Professional, a device pairing wearable prismatic glasses with tablet-based \"serious game\" training. Over six months of follow-up, the device group showed greater and sustained improvement in hemineglect and language, memory gains that emerged at three months and grew by six months, and stable visual perception \u2014 while the standard-care group's visuoperceptual scores declined over time.",
+      "why_it_matters": "Cognitive problems affect more than half of stroke survivors and long-term rehabilitation options are thin; a two-week protocol producing benefits still visible half a year later would be a meaningful addition to post-stroke care.",
+      "story_angle_primary": "If you or your spouse is recovering from a stroke with lingering attention, language or memory problems, it's worth asking your rehabilitation team whether combined prism-adaptation and digital cognitive training is available in your area \u2014 and noting that in this trial the benefits kept growing for months after the two-week course ended.",
+      "story_angle_secondary": "Rehab directors and senior living activity staff should note the delayed-benefit pattern: measuring outcomes only at discharge would have missed the memory gains entirely, which argues for re-assessing cognition at three and six months rather than closing the file when sessions end.",
+      "caveats": "Small trial (N=60), single research center, trial registered retrospectively, and a senior author is a shareholder in the company producing the device \u2014 a significant conflict of interest. Participant age range was not reported in the abstract.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 60,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 7,
+      "title": "596 stroke rehab trials analyzed: sample sizes are growing, but study quality is flat and women are being enrolled less often",
+      "journal": "Ann Phys Rehabil Med",
+      "published": "2026 Sep 18",
+      "pmid": "42759356",
+      "doi": "10.1016/j.rehab.2026.102166",
+      "the_study": "Canadian researchers pooled three systematic reviews to analyze 596 randomized controlled trials of post-stroke cognitive rehabilitation \u2014 covering neglect, aphasia and general cognitive impairment \u2014 published through December 2024. The median trial enrolled just 36 people; only 42% of participants were female, a proportion that has declined over time; and despite steady growth in the number of trials, methodological quality scores have not improved. Outcome measures varied so widely across studies that results are difficult to compare or apply to guidelines.",
+      "why_it_matters": "Stroke disproportionately affects older adults and women live longer with its consequences, so the evidence base guiding what therapy a survivor is offered is thinner, more male-skewed and less consistent than the volume of publications implies.",
+      "story_angle_primary": "When a therapist recommends a specific cognitive rehabilitation approach after your stroke, it is fair to ask how strong the evidence is and how progress will be measured \u2014 this analysis found most supporting trials are very small and use inconsistent yardsticks, so tracking your own function over time matters.",
+      "story_angle_secondary": "For clinicians and program directors, the finding that female enrollment in stroke cognitive rehab trials is falling \u2014 in a condition where women carry a heavy share of long-term disability \u2014 is a concrete equity problem worth raising with research partners and funders.",
+      "caveats": "This is a research-landscape analysis, not a study of patients, so it says nothing directly about whether any particular therapy works. Restricted to English-language trials; pooled from three reviews with differing inclusion criteria.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 8,
+      "title": "Three months of online group exercise in midlife lifted mood and changed blood biology \u2014 but didn't sharpen memory",
+      "journal": "NPJ Aging",
+      "published": "2026 Sep 17",
+      "pmid": "42754613",
+      "doi": "10.1038/s41514-026-00439-w",
+      "the_study": "The NeuroFit randomized controlled trial assigned 52 healthy middle-aged UK adults to a three-month instructor-led live online exercise program or control. The primary outcome \u2014 pattern separation, a memory task tied to the hippocampus \u2014 showed no significant benefit. However, depressive symptoms on the PHQ-9 improved significantly, and participants' blood, applied to human hippocampal progenitor cells in a laboratory assay, altered cell proliferation, suggesting exercise changes circulating factors that reach brain stem cells.",
+      "why_it_matters": "Midlife is increasingly seen as the window where later-life brain health is decided, and this trial suggests mood benefits from exercise arrive early while any cognitive payoff, if it exists, likely needs far longer than three months.",
+      "story_angle_primary": "If you started exercising to protect your memory and feel discouraged that nothing has changed in a few months, this trial suggests you're on a normal timeline \u2014 the mood lift comes first, and the researchers think cognitive benefits need longer exposure. A live, instructor-led online class was enough to produce measurable effects without leaving home.",
+      "story_angle_secondary": "For activity coordinators and family members, the standout practical detail is format: a structured, instructor-led, live online program proved feasible and produced real mood improvement, a useful model for residents or relatives who can't easily get to an in-person class.",
+      "caveats": "Small trial (N=52), participants were healthy middle-aged adults rather than seniors, so findings may not transfer to people over 65; short three-month follow-up; primary outcome was null; depressive symptoms were self-reported; several co-authors report food- and fitness-industry honoraria or research funding (Nestle, Yakult, Nutricia, DuPont IFF, ASICS, FitXR, Marigot).",
+      "score": 50,
+      "band": "Background",
+      "evidence_type": "randomized trial",
+      "sample_size": 52,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": [
+        "SSBCrack"
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Older walkers keep their eyes glued to the ground \u2014 and that may be part of the fall problem",
+      "journal": "Gait Posture",
+      "published": "2026 Sep 16",
+      "pmid": "42753670",
+      "doi": "10.1016/j.gaitpost.2026.110641",
+      "the_study": "Researchers systematically reviewed 53 studies that used wearable eye-trackers to record where older adults look while walking \u2014 during simple walking, walking while talking or doing a second task, stepping over obstacles, precision stepping, turning, stair climbing and navigating. Across studies, older adults made more and longer fixations on whatever was immediately in front of them and spent less time scanning the wider environment than younger adults. Differences in the timing of eye movements were mixed overall, but were most pronounced in older adults at high risk of falling and in certain patient groups.",
+      "why_it_matters": "How and where a person looks while walking is emerging as a measurable window into fall risk, and it suggests that heavily focused, ground-fixed gaze may come at the cost of spotting hazards further ahead.",
+      "story_angle_primary": "If you notice you have to stare at your feet or the floor just ahead to feel steady, that is a common age-related pattern \u2014 and a reason to mention your walking confidence at your next visit. Good lighting, clear uncluttered pathways, single-vision distance glasses for walking rather than multifocals on stairs, and an up-to-date eye exam all reduce how much visual work walking demands of you.",
+      "story_angle_secondary": "For senior living operators and rehab staff: this review maps out which eye-tracking measures are usable in real-world walking assessments, and hints at a future where gaze behavior supplements gait speed in fall-risk screening. In the meantime, the practical takeaway is environmental \u2014 hazards placed outside a resident's narrowed visual scan (low obstacles, trailing cords, thresholds, cart wheels) are the ones most likely to be missed.",
+      "caveats": "Systematic review of heterogeneous studies using widely varying eye-tracking metrics and walking tasks; observational designs that cannot establish that gaze changes cause falls; laboratory settings may not generalize to everyday environments; no pooled quantitative analysis.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 10,
+      "title": "Why deep brain stimulation transforms some Parkinson's patients and disappoints others \u2014 the answer may be in the brain scan taken before surgery",
+      "journal": "Neurosci Biobehav Rev",
+      "published": "2026 Sep 17",
+      "pmid": "42753347",
+      "doi": "10.1016/j.neubiorev.2026.106977",
+      "the_study": "Investigators systematically reviewed 53 studies covering 1,758 patients that linked brain imaging taken before deep brain stimulation (DBS) surgery to how well the surgery worked. Most patients had movement disorders \u2014 primarily Parkinson's disease \u2014 while about one in five had psychiatric conditions, mainly major depression. Outcomes tracked with the pre-existing wiring of disease-specific circuits (the primary motor cortex, thalamus, brainstem and subthalamic nucleus in Parkinson's) plus shared higher-order networks including the salience, cerebellar and default mode networks, suggesting that individual brain organization before surgery helps determine who benefits.",
+      "why_it_matters": "DBS is a major, costly operation with famously variable results, and this work points toward a future in which imaging helps identify in advance who is most likely to gain \u2014 sparing others an invasive procedure with limited payoff.",
+      "story_angle_primary": "If you or your neurologist are weighing DBS for Parkinson's tremor or fluctuations, it is reasonable to ask what imaging is being done beforehand and what the team knows about your likely response \u2014 while understanding that imaging-based prediction is still a research tool, not a test you can currently have done to decide.",
+      "story_angle_secondary": "For families supporting someone through DBS evaluation: this review helps explain why two people with seemingly similar Parkinson's can have very different results, which can ease the disappointment and self-blame that follow a modest response. It also flags that patient-selection criteria may shift meaningfully over the next several years.",
+      "caveats": "Systematic review of observational imaging studies; the network analyses rely on normative connectivity data rather than individual patients' outcomes; findings are not yet validated for clinical patient selection; several authors report consulting and honoraria from DBS device manufacturers including Medtronic, Boston Scientific and Abbott.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "meta-analysis",
+      "sample_size": 1758,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy",
+        "depression"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 11,
+      "title": "Genetic testing explained only 7% of Parkinson's cases in a large clinical cohort \u2014 but the gene it kept finding matters",
+      "journal": "Neurogenetics",
+      "published": "2026 Sep 19",
+      "pmid": "42762359",
+      "doi": "10.1007/s10048-026-00943-x",
+      "the_study": "Researchers retrospectively applied clinical exome sequencing to 137 patients diagnosed with Parkinson's disease under Movement Disorder Society criteria at a Turkish center. Using strict international classification standards, a definitive disease-causing variant was found in just 10 patients (7.3%) \u2014 nine of them in GBA1 and one a deletion in PRKN. Additional variants in genes such as LRRK2, FBXO7, PARK7 and EIF4G1 were classified as uncertain, and a previously undescribed LRRK2 duplication was detected only because the analysis looked for copy number changes that routine testing misses.",
+      "why_it_matters": "It sets realistic expectations: for most people with Parkinson's, genetic testing will not find a clear cause, but GBA1 findings are increasingly relevant to prognosis, family counseling and eligibility for gene-targeted clinical trials.",
+      "story_angle_primary": "If you have Parkinson's and are curious about genetic testing, ask your neurologist what a result would actually change for you \u2014 most tests come back without a definitive answer, and many findings are labeled 'uncertain,' which can create anxiety without guiding treatment. Testing is most worth discussing if you have early onset, a strong family history, or interest in enrolling in a trial.",
+      "story_angle_secondary": "For families: a GBA1 finding has implications beyond the person diagnosed, including for adult children, so genetic counseling \u2014 not just the lab report \u2014 should be part of any testing decision. Clinicians should also note the study's argument that standard testing pipelines can miss structural duplications and deletions entirely.",
+      "caveats": "Retrospective, single-center cohort of 137 patients with no control group; Turkish population and referral patterns may not generalize; diagnostic yield depends heavily on which genes were sequenced and how strictly variants were classified; many findings were variants of uncertain significance with no established clinical meaning.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 137,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 12,
+      "title": "Could the amino acids in your protein affect your mood? An early review finds a signal in older adults \u2014 and a lot of uncertainty",
+      "journal": "Nutr Neurosci",
+      "published": "2026 Sep 15",
+      "pmid": "42740686",
+      "doi": "10.1080/1028415X.2026.2729717",
+      "the_study": "Researchers systematically reviewed 11 studies involving 3,902 participants that examined branched-chain amino acids \u2014 leucine, isoleucine and valine, found in meat, dairy, eggs and legumes \u2014 in relation to depression. Seven studies reported fewer depressive symptoms with higher dietary intake or supplementation, with improvement noted particularly in older populations and people with metabolic or chronic conditions, and studies combining exercise with supplementation suggested additional benefit. However, several studies found nothing, and the review was marked by wide variation in design, dose and how depression was measured; the authors call the evidence inconclusive.",
+      "why_it_matters": "Protein intake is already a priority for older adults because of muscle loss, and this adds a possible \u2014 though unproven \u2014 mood dimension to a conversation many seniors are already having with their clinicians and dietitians.",
+      "story_angle_primary": "This is not a reason to buy amino acid supplements, but it is a reasonable prompt to ask whether you are getting enough protein overall, especially if you eat lightly, live alone, or have lost weight \u2014 and the strongest signal in this review came when supplementation was paired with exercise, not used instead of it.",
+      "story_angle_secondary": "For dining directors and caregivers: the evidence is too preliminary to change menus or recommend supplements, but it strengthens the case for tracking protein adequacy in residents who are both low-appetite and low-mood, two problems that often travel together.",
+      "caveats": "Only 11 heterogeneous studies with inconsistent results; mix of observational and interventional designs, so causation cannot be established; wide variation in dosage, populations and depression assessment methods, many self-reported; the elderly benefit was a subgroup observation, not a pre-specified test; no safety analysis of supplementation in older adults with kidney or liver disease.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 3902,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "depression",
+        "nutrition"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 13,
+      "title": "Heat waves, cold snaps and smoky air send nursing home residents to the ER \u2014 even with indoor temperature rules on the books",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 18",
+      "pmid": "42760629",
+      "doi": "10.1111/jgs.70720",
+      "the_study": "Researchers linked 2017-2020 Medicare and Medicaid claims to daily weather and air quality data covering nearly 24.8 million nursing facility-days at 24,760 facilities in 47 states and Washington, DC, all for dual-eligible residents aged 65 and older. On days of extreme heat, emergency department visits and hospitalizations both rose; on days when fine particulate pollution (PM2.5) exceeded 9 \u00b5g/m\u00b3, ED visits and hospitalizations also rose; extreme cold days were linked to more hospitalizations. The increases occurred despite federal regulations that govern indoor temperature in nursing facilities \u2014 and there are no comparable federal standards at all for indoor air quality.",
+      "why_it_matters": "It suggests the buildings older adults live in are not fully buffering them from outdoor weather and wildfire or traffic smoke, and that air filtration is a regulatory blind spot in long-term care.",
+      "story_angle_primary": "If you or your spouse live in a nursing facility or assisted living, you can ask directly what the building does on extreme heat days and smoky-air days: Is there central air conditioning in resident rooms as well as common areas? Are windows kept closed and filters upgraded when air quality alerts are issued? Is there a written heat and air-quality emergency plan, and who checks on residents most at risk?",
+      "story_angle_secondary": "For operators and directors of nursing: this is national-scale evidence that environmental days drive measurable acute care utilization, which argues for tracking local heat and PM2.5 alerts as an operational trigger \u2014 pre-positioning hydration rounds, checking HVAC and filtration capacity before summer, and documenting indoor air quality even though no federal standard requires it.",
+      "caveats": "Observational analysis of administrative claims linked to outdoor (not indoor) exposure data, so it cannot prove causation and cannot confirm what residents actually breathed indoors; absolute increases per 1000 resident-days are small individually, though they scale across millions of resident-days; limited to dual-eligible residents, who may differ from the broader nursing home population.",
+      "score": 57,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 14,
+      "title": "Group physical therapy on a hospital geriatrics ward: safe, popular, and it let therapists see 21% more patients",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 18",
+      "pmid": "42760622",
+      "doi": "10.1111/jgs.70718",
+      "the_study": "At a 39-bed medical-surgical geriatrics unit in an academic medical center, therapists ran weekly group physical therapy sessions during ordinary clinical operations with no extra staffing, for medically stable patients aged 60 and older who could transfer to a chair with help. Over roughly 11 months, 37 sessions were delivered with an average of 4.2 participants each and 156 total patient participations; 69% of patients approached agreed to join, average age was 77.9 years, and no safety events occurred. Therapist productivity was about 21% higher on group days (1.59 versus 1.31 patients per hour).",
+      "why_it_matters": "Hospitalized older adults lose strength and independence fast when they stay in bed, and one-to-one therapy often can't reach everyone who needs it \u2014 a group model may extend mobility care without new hires.",
+      "story_angle_primary": "If you're hospitalized, movement is medicine: ask your nurse or therapist how often you'll be getting out of bed, whether there's a group mobility or walking session on the unit, and whether you can join it. Being told you're 'on the PT list' is not the same as actually being walked.",
+      "story_angle_secondary": "For hospital rehab leaders and senior living rehab teams: this is early feasibility evidence that a once-weekly group format can be layered onto existing staffing, but the authors are explicit that patient-centered outcomes, true staff time costs and acceptability haven't been measured yet \u2014 treat it as a pilot worth replicating, not a proven intervention.",
+      "caveats": "Single-center quality improvement project with no control group and no patient outcome data (only feasibility, reach and productivity); small number of sessions; only relatively stable patients who could transfer to a chair were eligible, so results may not generalize to sicker or more impaired patients.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 15,
+      "title": "What makes 'age-friendly' hospital care actually stick \u2014 and where it keeps breaking down",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 18",
+      "pmid": "42760752",
+      "doi": "10.1111/jgs.70723",
+      "the_study": "Researchers identified three Veterans Affairs medical centers that were unusually good at completing the Age-Friendly Health Systems '4Ms' assessment \u2014 What Matters, Medications, Mentation, and Mobility \u2014 on inpatient units, then interviewed 11 leaders and frontline staff about why it worked. Success rested on freedom to adapt the model locally, interdisciplinary teams with clear roles and genuine enthusiasm for geriatrics, leadership backing with real resources, and visible champions. The persistent stumbling block was 'What Matters': staff found it genuinely hard to elicit older patients' priorities and harder still to fold those priorities into inpatient care, alongside staffing gaps and no inpatient teams to consult for advice.",
+      "why_it_matters": "Age-friendly care frameworks are spreading through American hospitals, and this shows the element most directly about the patient's own voice is the one most likely to be skipped.",
+      "story_angle_primary": "If you're admitted to the hospital, don't wait to be asked what matters most to you \u2014 say it out loud and ask that it go in the chart. Being able to get to the bathroom alone, get back to your own home, stay alert enough to talk with family: naming a specific goal gives the team something concrete to plan around, and this study shows they often struggle to draw it out.",
+      "story_angle_secondary": "For family caregivers and senior living staff coordinating a hospital stay: you can supply the 'What Matters' information the hospital team has trouble capturing \u2014 a short written note on the resident's baseline mobility, usual mental status, medications, and stated priorities, handed over at admission, addresses three of the four Ms directly.",
+      "caveats": "Qualitative study with only 11 interviews at three deliberately chosen high-performing VA sites; VA is an integrated system with an unusual patient population (largely male veterans), so findings may not transfer to community hospitals; no patient outcomes measured.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 16,
+      "title": "AI reading doctors' notes flagged mobility problems in 4 of 5 older adults \u2014 and those patients landed in the ER twice as often",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 18",
+      "pmid": "42760637",
+      "doi": "10.1111/jgs.70732",
+      "the_study": "Mayo Clinic researchers used a large language model to pull mobility information out of free-text clinical notes from 2022 for 2,994 people aged 60 and older in the Mayo Clinic Study of Aging, then tracked what happened to them in 2023. Nearly 80% had at least one documented mobility impairment. After adjusting for age, sex, comorbidity burden and education, those with three or more impairments had more than double the odds of an emergency department visit (aOR 2.18) and hospitalization (aOR 2.35) compared with unimpaired peers; all-cause mortality was not significantly associated.",
+      "why_it_matters": "Mobility is rarely coded in medical records the way diagnoses are, but it is buried in the narrative notes \u2014 and it predicts who will end up in the hospital, which means health systems may soon be able to spot at-risk patients automatically.",
+      "story_angle_primary": "How well you walk, climb stairs, get out of a chair and move around your home is clinical information, not small talk. Mention specific changes at your next visit \u2014 'I've started holding the wall in the hallway,' 'I can't manage the stairs without stopping' \u2014 because it now appears that what's written in your notes about mobility tracks with your risk of a hospital trip, and it opens the door to physical therapy or a home safety review.",
+      "story_angle_secondary": "For senior living and home care staff: documented mobility decline in three or more domains marks a meaningfully higher-risk resident. Even without AI tools, a structured note on transfers, gait, stair use and walking distance gives clinicians the signal this model was detecting.",
+      "caveats": "Observational study \u2014 mobility impairment may be a marker of underlying illness rather than a cause of hospital use; single health system with a largely white Midwestern study population, limiting generalizability; the AI extraction depends on how clinicians happened to write their notes; only one year of follow-up; authors state prospective validation is needed before any clinical use.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 2994,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 17,
+      "title": "A group exercise and coaching program cut opioid-type painkiller use \u2014 and that's why falls went down",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 17",
+      "pmid": "42755166",
+      "doi": "10.1111/jgs.70696",
+      "the_study": "Researchers re-analyzed the BOOST randomized trial, in which 435 older adults with neurogenic claudication (leg pain and walking limits from spinal narrowing) were assigned either to best-practice advice or to a 12-week physical and psychological group program. At the start, 34% were taking at least one controlled pain medication such as an opioid. By 6 months, participants in the group program were significantly less likely to be taking controlled pain drugs (OR 0.62), and mediation analysis showed this medication reduction was a key reason the program reduced falls by 12 months.",
+      "why_it_matters": "It connects two problems older adults often face separately \u2014 back-and-leg pain treated with strong painkillers, and falls \u2014 showing that a non-drug program can reduce both, with the drug reduction doing much of the work.",
+      "story_angle_primary": "If spinal stenosis pain has you leaning on opioids or other controlled painkillers, ask your clinician whether a structured physical and psychological group program is available in your area \u2014 this trial suggests it may help you cut back on those drugs, and cutting back may be what protects you from falls.",
+      "story_angle_secondary": "For senior living and rehab staff: medication review and falls prevention are often run as separate initiatives. This analysis suggests group exercise programs may be a lever on both at once \u2014 and that the benefit faded between 6 and 12 months, arguing for ongoing rather than one-off programming.",
+      "caveats": "Secondary and mediation analysis of a trial not designed to test medication reduction; the difference in controlled medication use narrowed by 12 months; pain benefit was modest; findings apply specifically to older adults with neurogenic claudication.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 435,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 18,
+      "title": "1 in 10 older ED patients return four or more times a year \u2014 and what upsets them most isn't the wait",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Sep 17",
+      "pmid": "42762629",
+      "doi": "10.1016/j.archger.2026.106414",
+      "the_study": "Australian researchers linked hospital and mortality records for 336,283 emergency department presentations by adults aged 65 and older in New South Wales, following them for five years, and paired this with 47,461 patient experience surveys. About 10.6% were frequent presenters (four or more visits), most commonly people aged 75\u201384, with multimorbidity, rural residence, and living in aged care raising the odds. Negative care experiences were linked to waits of 60 minutes or more (OR 1.70) and complications (OR 1.63), but by far the strongest driver was not getting enough information about treatment (OR 5.17).",
+      "why_it_matters": "Repeat emergency visits among older adults track with complex, unmet health and social needs rather than trivial complaints \u2014 and the single biggest determinant of whether the visit felt bad was communication, something within any department's control.",
+      "story_angle_primary": "If you or a relative keeps ending up in the emergency department, treat it as a signal that ongoing care needs a rethink \u2014 and before you leave, ask explicitly for an explanation of your treatment, what to watch for, and who to call, since patients who didn't get that information were five times more likely to rate the experience negatively.",
+      "story_angle_secondary": "For aged care operators: residence in aged care was itself associated with frequent ED use, which makes in-facility escalation pathways, after-hours clinical support, and advance care planning concrete tools for reducing transfers \u2014 and for families, being present to hear discharge instructions addresses the strongest predictor of a bad experience.",
+      "caveats": "Observational cohort using administrative data, so it cannot establish causation; patient experience data are self-reported and cover a subset of presentations; single Australian state, so health system context may not generalize.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 19,
+      "title": "Returning drained abdominal fluid doesn't extend life in advanced cancer \u2014 but it nearly doubles the time between drainage procedures",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Sep 18",
+      "pmid": "42759903",
+      "doi": "10.1016/j.jpainsymman.2026.09.017",
+      "the_study": "Using Japan's national health insurance claims database, researchers identified 52,625 people with cancer who had abdominal fluid (malignant ascites) drained in their final year of life, comparing 10,654 who received cell-free and concentrated ascites reinfusion therapy (CART, which filters and returns the patient's own proteins) with 37,272 who had standard drainage alone. Survival was essentially identical (median 31 vs. 28 days). But CART was associated with fewer repeat drainage procedures and a longer interval between them \u2014 a median of 15 days versus 8.3 \u2014 with the biggest benefit in people with liver cancer or liver metastases.",
+      "why_it_matters": "For people near the end of life with a swollen, painful abdomen, halving the frequency of an uncomfortable procedure is a meaningful quality-of-life gain even when it doesn't add days \u2014 and this reframes what to expect from the treatment.",
+      "story_angle_primary": "If fluid buildup in your abdomen is being drained repeatedly, it's reasonable to ask your palliative care or oncology team whether ascites reinfusion is available and appropriate \u2014 but ask about comfort and how often you'd need the procedure, not about living longer, because this large study found no meaningful survival benefit.",
+      "story_angle_secondary": "For hospice and palliative teams: this supports framing CART to patients and families honestly as a burden-reduction intervention rather than a life-prolonging one, and suggests targeting it toward patients with liver-dominant disease, where the reduction in repeat drainage was largest.",
+      "caveats": "Retrospective claims-based analysis, so it cannot establish causation and unmeasured differences between groups (including why clinicians chose one approach) may explain results; symptom relief and quality of life were not directly measured; Japanese health system, where CART is reimbursed, may not generalize; data from 2013\u20132016.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 52625,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy",
+        "nutrition",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 20,
+      "title": "A 100-day survival score for older cancer patients holds up \u2014 but the researchers warn against using it to decide on treatment",
+      "journal": "J Geriatr Oncol",
+      "published": "2026 Sep 18",
+      "pmid": "42759253",
+      "doi": "10.1016/j.jgo.2026.104382",
+      "the_study": "French researchers tested the Nice Cancer Ageing Survival (NCAS) score, a tool meant to predict short-term death risk, in 543 patients aged 70 and older who underwent a geriatric assessment before cancer treatment at Gustave Roussy between 2022 and 2025. Overall, 28% died within 100 days. Survival fell steadily across score bands \u2014 from 95.5% in the lowest-risk group to 58.3% in the highest \u2014 but the score's ability to discriminate between individuals was only modest (C-index 0.67), leading the authors to conclude it should not be used alone to guide treatment decisions.",
+      "why_it_matters": "Geriatric assessment before cancer treatment is increasingly standard, and this shows that even validated scoring tools give useful group-level information but cannot reliably predict what will happen to any one person.",
+      "story_angle_primary": "If you're over 70 and facing cancer treatment, a geriatric assessment is worth asking for \u2014 it captures function, nutrition and other factors that shape how you'll tolerate therapy \u2014 but if a numerical risk score comes up in the conversation, ask how much weight it should carry, because even its developers' validators say it isn't accurate enough to drive a treatment decision on its own.",
+      "story_angle_secondary": "For families and clinicians: the 28% 100-day mortality rate in this referred population is a reminder that pre-treatment geriatric assessment is a natural moment to open advance care planning conversations, regardless of what any risk score says.",
+      "caveats": "Retrospective, single-center study at a specialized French cancer center; patients referred for geriatric assessment are likely sicker than the general older cancer population, limiting generalizability; modest discriminative accuracy; one author reports fees from Ipsen, Johnson & Johnson, MSD and AstraZeneca outside this work.",
+      "score": 63,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 543,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 21,
+      "title": "A tablet-based cognitive test could rule out two-thirds of people before they ever need an Alzheimer's blood test",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Sep 17",
+      "pmid": "42757183",
+      "doi": "10.1002/dad2.70486",
+      "the_study": "Researchers trained machine-learning models on digital cognitive assessments (the Altoida NeuroMarker) from 688 people across Australia, Spain and the United States, testing whether the digital test could work as a first-stage screen before blood testing for p-tau217, a marker of Alzheimer's pathology. The digital tool identified mild cognitive impairment with an AUC of 0.89 and elevated p-tau217 with an AUC of 0.77. In a modeled two-step workflow, it ruled out 64.4% of people with a 90.2% negative predictive value, raising the modeled accuracy of a positive blood test from 81.7% to 95.3%.",
+      "why_it_matters": "Blood tests for Alzheimer's are spreading fast into primary care, where false positives are a real risk in people with mild symptoms; a cheap digital screen first could mean fewer people get an alarming and possibly wrong result.",
+      "story_angle_primary": "If you're worried about memory changes and hear about the new Alzheimer's blood tests, know that a positive result in someone with low pre-test likelihood is often wrong \u2014 ask your doctor what other assessment will be done before and alongside any blood test to interpret the result properly.",
+      "story_angle_secondary": "For memory clinics and primary care practices: the practical proposal here is triage \u2014 a short digital assessment before ordering blood biomarkers \u2014 though the second stage of the workflow was modeled rather than prospectively tested in a real clinic population.",
+      "caveats": "The two-step workflow was modeled under an assumed 30% prevalence of Alzheimer's pathology, not prospectively validated; heavy industry involvement \u2014 several authors are employees of Altoida Inc. (the test's maker), Johnson & Johnson and Quanterix, and may hold equity or stock options; research cohort participants may not reflect primary care populations.",
+      "score": 63,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 688,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia"
+      ],
+      "covered_by": []
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42760255",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "date": "2026 Sep 18",
+      "doi": "10.1093/geronb/gbag197"
+    },
+    {
+      "pmid": "42759976",
+      "journal": "BMJ",
+      "date": "2026 Sep 18",
+      "doi": "10.1136/bmj-2026-100624"
+    },
+    {
+      "pmid": "42762836",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Sep 19",
+      "doi": "10.1016/j.jpainsymman.2026.09.015"
+    },
+    {
+      "pmid": "42755049",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "date": "2026 Sep 17",
+      "doi": "10.1093/gerona/glag235"
+    },
+    {
+      "pmid": "42762860",
+      "journal": "Joint Bone Spine",
+      "date": "2026 Sep 19",
+      "doi": "10.1016/j.jbspin.2026.106142"
+    },
+    {
+      "pmid": "42759357",
+      "journal": "Ann Phys Rehabil Med",
+      "date": "2026 Sep 18",
+      "doi": "10.1016/j.rehab.2026.102168"
+    },
+    {
+      "pmid": "42759356",
+      "journal": "Ann Phys Rehabil Med",
+      "date": "2026 Sep 18",
+      "doi": "10.1016/j.rehab.2026.102166"
+    },
+    {
+      "pmid": "42754613",
+      "journal": "NPJ Aging",
+      "date": "2026 Sep 17",
+      "doi": "10.1038/s41514-026-00439-w"
+    },
+    {
+      "pmid": "42753670",
+      "journal": "Gait Posture",
+      "date": "2026 Sep 16",
+      "doi": "10.1016/j.gaitpost.2026.110641"
+    },
+    {
+      "pmid": "42753347",
+      "journal": "Neurosci Biobehav Rev",
+      "date": "2026 Sep 17",
+      "doi": "10.1016/j.neubiorev.2026.106977"
+    },
+    {
+      "pmid": "42762359",
+      "journal": "Neurogenetics",
+      "date": "2026 Sep 19",
+      "doi": "10.1007/s10048-026-00943-x"
+    },
+    {
+      "pmid": "42740686",
+      "journal": "Nutr Neurosci",
+      "date": "2026 Sep 15",
+      "doi": "10.1080/1028415X.2026.2729717"
+    },
+    {
+      "pmid": "42760629",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Sep 18",
+      "doi": "10.1111/jgs.70720"
+    },
+    {
+      "pmid": "42760622",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Sep 18",
+      "doi": "10.1111/jgs.70718"
+    },
+    {
+      "pmid": "42760752",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Sep 18",
+      "doi": "10.1111/jgs.70723"
+    },
+    {
+      "pmid": "42760637",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Sep 18",
+      "doi": "10.1111/jgs.70732"
+    },
+    {
+      "pmid": "42755166",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Sep 17",
+      "doi": "10.1111/jgs.70696"
+    },
+    {
+      "pmid": "42762629",
+      "journal": "Arch Gerontol Geriatr",
+      "date": "2026 Sep 17",
+      "doi": "10.1016/j.archger.2026.106414"
+    },
+    {
+      "pmid": "42759903",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Sep 18",
+      "doi": "10.1016/j.jpainsymman.2026.09.017"
+    },
+    {
+      "pmid": "42759253",
+      "journal": "J Geriatr Oncol",
+      "date": "2026 Sep 18",
+      "doi": "10.1016/j.jgo.2026.104382"
+    },
+    {
+      "pmid": "42757183",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Sep 17",
+      "doi": "10.1002/dad2.70486"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n\n- **Large analyses keep puncturing \"of course it helps\" assumptions about treating older patients.** The previous digest had *Big trial finds carotid surgery doesn't rescue thinking skills in people with symptom-free artery narrowing* (PMID 42747834) and *Three weeks of pre-surgery conditioning didn't keep frail older patients independent a year later* (PMID 42743945). The new batch adds the sharpest version yet: *For patients in their 70s, a lower-quality donor kidney may offer no survival edge over staying on dialysis* (PMID 42759976), where 75-year-olds given an expanded-criteria kidney had 59% five-year survival versus 55% on dialysis \u2014 and triple the early death rate. *Returning drained abdominal fluid doesn't extend life in advanced cancer* (PMID 42759903) lands in the same place from the palliative side.\n- **Everyday function predicts hard outcomes better than test scores.** Last week's *When everyday tasks start slipping, depression may be part of what shortens life* (PMID 42753032) is now matched by *AI reading doctors' notes flagged mobility problems in 4 of 5 older adults \u2014 and those patients landed in the ER twice as often* (PMID 42760637), where three or more documented mobility impairments more than doubled the odds of an emergency visit and a hospitalization.\n- **Digital delivery keeps working \u2014 modestly, specifically, and with industry fingerprints.** *Smartphone brain-training apps showed cognitive gains in nearly every trial reviewed* (PMID 42754558) and *Online support for dementia caregivers helped most those juggling a job alongside care* (PMID 42745561) are joined by *Prism glasses plus tablet games beat pencil-and-paper cognitive rehab for stroke survivors* (PMID 42759357) and *Three months of online group exercise in midlife lifted mood and changed blood biology \u2014 but didn't sharpen memory* (PMID 42754613). As with last week's retinal-age tool (PMID 42753030), the conflict-of-interest disclosures are part of the story in both new trials.\n- **Mood and motivation in later life keep turning out to be physical as much as psychiatric.** Previously: *Where it hurts may predict how depression unfolds in midlife and later life* (PMID 42749164) and PMID 42753032. Now: *Methylphenidate eased depression in palliative care patients* (PMID 42762836), *Could the amino acids in your protein affect your mood?* (PMID 42740686) and *A group exercise and coaching program cut opioid-type painkiller use \u2014 and that's why falls went down* (PMID 42755166), where a non-drug program for spinal stenosis pain reduced controlled medication use, which in turn reduced falls.\n- **Under-representation in the evidence base recurs.** *RSV shots look effective for older adults on immune-suppressing drugs* (PMID 42755043) flagged a population excluded from pivotal trials; *596 stroke rehab trials analyzed* (PMID 42759356) finds female enrollment at 42% and falling in a condition where women carry a heavy share of long-term disability.\n\n**Advances**\n\n- **Alzheimer's blood testing moves from accuracy problem to triage solution.** Last week's *A blood test for Alzheimer's proteins predicted worsening mood and behavior changes in frail older adults* (PMID 42745934) stretched plasma markers into new uses; *A tablet-based cognitive test could rule out two-thirds of people before they ever need an Alzheimer's blood test* (PMID 42757183) proposes a workflow that would head off the false positives that concerned earlier work \u2014 though its second stage was modeled, not tested in a clinic.\n- **Parkinson's care gets more personalized on both ends.** After *A brain scan changed the diagnosis for one in three patients with unclear parkinsonism* (PMID 42753528) and *Botox injections sharply cut the foot pain that torments many people with Parkinson's* (PMID 42753227), the new digest asks who benefits from which intervention: *Why deep brain stimulation transforms some Parkinson's patients and disappoints others* (PMID 42753347) and *Genetic testing explained only 7% of Parkinson's cases in a large clinical cohort* (PMID 42762359).\n- **Prediction tools get graded rather than celebrated.** Last week's honest null on the AST/ALT ratio (PMID 42741023) has a companion in *A 100-day survival score for older cancer patients holds up \u2014 but the researchers warn against using it to decide on treatment* (PMID 42759253), a C-index of 0.67 with the authors themselves ruling it out as a standalone decision tool.\n\n**Counterpoints**\n\n- **Age is not the variable \u2014 the specific offer is.** *Clot-busting drug helped stroke patients over 70 even when treatment started up to 24 hours later* (PMID 42749350) argued for doing more in older patients; PMID 42759976 argues for doing less in an equally old group. Together they push against age-based rules in either direction.\n- **One partner's sleep, revisited.** Last week's pain-and-depression trajectory work (PMID 42749164) found self-reported sleep explained little; *Your own sleep, not your spouse's, tracks with your memory* (PMID 42755049) similarly deflates an assumed sleep pathway \u2014 this time the idea that a restless partner drags down your cognition.\n\n**New themes**\n\n- **The building and the weather as clinical variables:** *Heat waves, cold snaps and smoky air send nursing home residents to the ER \u2014 even with indoor temperature rules on the books* (PMID 42760629). Nothing comparable in the previous digest.\n- **How hospital care for older adults is actually delivered:** group physical therapy on a geriatrics ward (PMID 42760622), Age-Friendly '4Ms' implementation (PMID 42760752), and frequent emergency presenters (PMID 42762629).\n- **Signals hidden in routine paperwork:** *How you fill out a questionnaire may hint at dementia years before diagnosis* (PMID 42760255).\n- **Infection risk in older rheumatology patients:** *Steroid-sparing drugs for giant cell arteritis and polymyalgia rheumatica don't automatically mean fewer infections* (PMID 42762860).",
+  "feature_pitch_raw": "**The pattern:** Several studies this week point at the same quiet failure inside hospital care for older adults \u2014 the information that most predicts how a stay goes is information the system either never asks for or never writes down. *What makes 'age-friendly' hospital care actually stick* (PMID 42760752) found that \"What Matters\" \u2014 the patient's own stated priorities \u2014 was the single element staff most often skipped, while *1 in 10 older ED patients return four or more times a year* (PMID 42762629) found that not getting enough information about treatment raised the odds of a negative experience more than fivefold, far outweighing long waits. Meanwhile *AI reading doctors' notes flagged mobility problems in 4 of 5 older adults* (PMID 42760637) showed that mobility \u2014 rarely coded, usually buried in narrative notes \u2014 predicted who would be back in the emergency room, and *Group physical therapy on a hospital geriatrics ward* (PMID 42760622) showed that when someone does act on that information, existing staff can reach 21% more patients without new hires.\n\n**Why pitch this now:** Age-friendly care frameworks are spreading through American hospitals and health systems are starting to point artificial intelligence at their own clinical notes \u2014 which makes this the moment to say plainly what the data show: the missing ingredient is often a conversation, not a technology.\n\n**Angle:** A practical piece on how older patients and their families can put the right information into the record themselves \u2014 a short written handover at admission covering baseline mobility, usual mental status, medications and stated goals \u2014 paired with a section for hospital and senior living professionals on why the patient's-voice piece of the 4Ms keeps getting dropped.\n\n**Potential headlines:**\n- Four Things Hospitals Struggle to Learn About Older Patients \u2014 and How Families Can Supply Them\n- It Wasn't the Long Wait That Made the Emergency Visit Go Badly\n- Your Goals Belong in the Chart, Not Just in Your Head\n\n**Potential outlets:**\n- **Next Avenue** \u2014 its readers are the adult children doing hospital handovers, and this is exactly the kind of evidence-backed, do-this-on-Tuesday guidance it runs well.\n- **Caring.com** \u2014 families moving a parent between hospital, rehab and a community need the admission-handover checklist this pitch is built around.\n- **LeadingAge** \u2014 the provider side: why \"What Matters\" stalls on inpatient units, and what facility staff can send with a resident to close the gap.\n- **Generations Journal** \u2014 a natural home for an adapted, practice-focused treatment of Age-Friendly Health Systems implementation and where it breaks down.",
+  "pitch_ideas_raw": "- **How you fill out a questionnaire may hint at dementia years before diagnosis (PMID 42760255):** The forms older adults already fill out may carry an early behavioral signal \u2014 framed carefully as a research finding, not a self-test \u2014 for a consumer health explainer on early cognitive change.\n- **For patients in their 70s, a lower-quality donor kidney may offer no survival edge over staying on dialysis (PMID 42759976):** The exact questions to ask when a kidney is offered \u2014 standard or expanded criteria, and what the survival difference looks like at your age \u2014 for a consumer health explainer or a kidney-disease patient publication.\n- **Methylphenidate eased depression in palliative care patients \u2014 but the evidence is thin (PMID 42762836):** Depression in hospice is undertreated partly because standard antidepressants take longer than a patient has; a faster option exists but the evidence is preliminary \u2014 for a hospice and palliative-care trade brief or a caregiver-advice column.\n- **Your own sleep, not your spouse's, tracks with your memory (PMID 42755049):** Reassurance for the person blaming a restless partner for their memory, plus the finding that both short and unusually long sleep tracked with lower scores \u2014 for a consumer health explainer or a couples-and-aging column.\n- **Steroid-sparing drugs for giant cell arteritis and polymyalgia rheumatica don't automatically mean fewer infections (PMID 42762860):** Ask for the prednisone taper plan and timeline, because the infection advantage appears to depend on the taper actually happening \u2014 for a consumer health explainer aimed at rheumatology patients and a care-staff clinical brief.\n- **Prism glasses plus tablet games beat pencil-and-paper cognitive rehab for stroke survivors (PMID 42759357):** The delayed-benefit finding is the story \u2014 memory gains appeared at three months and grew by six, so closing the file at discharge would have missed them entirely \u2014 for a stroke-recovery consumer piece and a rehab-director trade brief.\n- **596 stroke rehab trials analyzed: sample sizes are growing, but study quality is flat and women are being enrolled less often (PMID 42759356):** Falling female enrollment in a condition where women live longest with the disability, and what that means for what therapy a survivor is offered \u2014 for a women's health column or a research-policy trade piece.\n- **Three months of online group exercise in midlife lifted mood and changed blood biology \u2014 but didn't sharpen memory (PMID 42754613):** If you started exercising for your memory and feel discouraged, the mood lift arrives first \u2014 plus the format finding that a live, instructor-led online class produced real effects at home \u2014 for a consumer fitness-and-aging explainer or an activity-director brief.\n- **Older walkers keep their eyes glued to the ground \u2014 and that may be part of the fall problem (PMID 42753670):** Hazards outside a narrowed visual scan \u2014 low obstacles, trailing cords, thresholds, cart wheels \u2014 are the ones most likely to be missed, with practical fixes on lighting, clutter and glasses for stairs \u2014 for a falls-prevention consumer piece and a senior-living operations brief.\n- **Why deep brain stimulation transforms some Parkinson's patients and disappoints others (PMID 42753347):** Why two people with similar Parkinson's can have very different results \u2014 useful for easing the self-blame that follows a modest response \u2014 for a caregiver-advice column or a Parkinson's community publication.\n- **Genetic testing explained only 7% of Parkinson's cases in a large clinical cohort (PMID 42762359):** Setting expectations before testing \u2014 most results are inconclusive, \"uncertain\" findings can cause anxiety without guiding care, and a GBA1 result has family implications that call for counseling \u2014 for a consumer health explainer.\n- **Could the amino acids in your protein affect your mood? (PMID 42740686):** Not a reason to buy supplements, but a reason to check whether protein intake is adequate in someone eating lightly, living alone or losing weight \u2014 for a consumer nutrition column and a dining-services brief.\n- **Heat waves, cold snaps and smoky air send nursing home residents to the ER (PMID 42760629):** The questions families can ask on a tour \u2014 air conditioning in resident rooms, filter upgrades on smoky days, a written heat and air-quality plan \u2014 plus the fact that no federal indoor air standard exists \u2014 for a consumer senior-housing piece and a provider operations/policy brief.\n- **Group physical therapy on a hospital geriatrics ward: safe, popular, and it let therapists see 21% more patients (PMID 42760622):** \"On the PT list\" is not the same as being walked \u2014 what to ask during a hospital stay \u2014 plus an early feasibility model for rehab leaders short on staff, for a consumer hospital-stay explainer and a rehab trade brief.\n- **What makes 'age-friendly' hospital care actually stick \u2014 and where it keeps breaking down (PMID 42760752):** Don't wait to be asked what matters to you; name a concrete goal and ask that it go in the chart \u2014 for a caregiver-advice column and a hospital-quality trade piece.\n- **AI reading doctors' notes flagged mobility problems in 4 of 5 older adults (PMID 42760637):** How you walk, climb stairs and get out of a chair is clinical information, not small talk \u2014 say it in specifics at your next visit \u2014 for a consumer health explainer and a documentation-focused care-staff brief.\n- **A group exercise and coaching program cut opioid-type painkiller use \u2014 and that's why falls went down (PMID 42755166):** Medication review and falls prevention are usually separate programs; this suggests one group program can move both, though the benefit faded between 6 and 12 months \u2014 for a consumer health explainer and a senior-living wellness trade brief.\n- **1 in 10 older ED patients return four or more times a year \u2014 and what upsets them most isn't the wait (PMID 42762629):** Before you leave the emergency department, ask for the explanation, the warning signs and who to call \u2014 patients who didn't get that were five times more likely to rate the visit badly \u2014 for a consumer health explainer and an aged-care operations brief on escalation pathways.\n- **Returning drained abdominal fluid doesn't extend life in advanced cancer \u2014 but it nearly doubles the time between drainage procedures (PMID 42759903):** Ask about comfort and procedure frequency, not survival \u2014 an honest reframe of a burden-reducing treatment \u2014 for a palliative-care trade brief or a caregiver column.\n- **A 100-day survival score for older cancer patients holds up \u2014 but the researchers warn against using it to decide on treatment (PMID 42759253):** Geriatric assessment before cancer treatment is worth asking for; a risk number attached to it is not a decision \u2014 and this is a natural moment for advance care planning \u2014 for a consumer cancer-care explainer.\n- **A tablet-based cognitive test could rule out two-thirds of people before they ever need an Alzheimer's blood test (PMID 42757183):** As Alzheimer's blood tests spread into primary care, a positive result in someone with mild symptoms is often wrong \u2014 what to ask before testing, and who built the screening tool \u2014 for a consumer health explainer and a memory-clinic trade brief.",
+  "fact_check": {
+    "checked": "2026-09-20",
+    "studies_reviewed": "21",
+    "verdicts_by_pmid": {
+      "42760255": "\u26a0\ufe0f Minor issues",
+      "42759976": "\u26a0\ufe0f Minor issues",
+      "42762836": "\u2705 Accurate",
+      "42755049": "\u26a0\ufe0f Minor issues",
+      "42762860": "\u26a0\ufe0f Minor issues",
+      "42759357": "\u26a0\ufe0f Minor issues",
+      "42759356": "\u2705 Accurate",
+      "42754613": "\u26a0\ufe0f Minor issues",
+      "42753670": "\u26a0\ufe0f Minor issues",
+      "42753347": "\u26a0\ufe0f Minor issues",
+      "42762359": "\u26a0\ufe0f Minor issues",
+      "42740686": "\u2705 Accurate",
+      "42760629": "\u26a0\ufe0f Minor issues",
+      "42760622": "\u26a0\ufe0f Minor issues",
+      "42760752": "\u26a0\ufe0f Minor issues",
+      "42760637": "\u26a0\ufe0f Minor issues",
+      "42755166": "\u26a0\ufe0f Minor issues",
+      "42762629": "\u26a0\ufe0f Minor issues",
+      "42759903": "\u26a0\ufe0f Minor issues",
+      "42759253": "\u26a0\ufe0f Minor issues",
+      "42757183": "\u26a0\ufe0f Minor issues"
+    },
+    "summary": {
+      "total_issues": "34 (30 Minor, 4 Moderate, 0 Major)",
+      "entries_requiring_revision": "18",
+      "entries_cleared": "3"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 New This Week \u2014 September 2026\n**Checked:** 2026-09-20 | **Studies reviewed:** 21\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n### Study 1: How you fill out a questionnaire may hint at dementia years before diagnosis\n**PMID:** 42760255 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Unstated lead time** \u2014 Severity: Minor\n\n- **As written:** \"How you fill out a questionnaire may hint at dementia years before diagnosis\"\n- **Abstract says:** \"Associations with subsequent dementia risk were examined within each cohort using Cox proportional hazards models adjusted for demographic covariates and accounting for death as a competing risk.\"\n- **Problem:** The abstract reports prediction of incident dementia in longitudinal cohorts but never specifies how far in advance the signals appear, so \"years before diagnosis\" is unverifiable from the abstract only.\n- **Suggested fix:** \"Change to \"may hint at dementia risk before diagnosis\" or drop the time frame.\"\n\n**Issue B. Selective effect sizes** \u2014 Severity: Minor\n\n- **As written:** \"several of these 'atypical response' markers predicted later dementia diagnoses, with risk rising roughly 22% to 31% per standard deviation for multivariate outliers and incompatible answer patterns\"\n- **Abstract says:** \"significant associations with incident dementia were observed for item-nonresponse (overall hazard ratio [HR] per SD increase = 1.06), random response errors (HR = 1.25), multivariate outlier responses (HR = 1.31), and incompatible response patterns indexed by Guttman errors and person-fit statistics (HRs = 1.22-1.25)\"\n- **Problem:** The digest lists skipped items (item-nonresponse) among the predictive markers but quotes only the largest effects; item-nonresponse carried a much smaller HR of 1.06, which readers may not infer.\n- **Suggested fix:** \"Note that skipped items showed a much weaker association (about 6% per SD) than the outlier and incompatibility markers.\"\n\n### Study 2: For patients in their 70s, a lower-quality donor kidney may offer no survival edge over staying on dialysis\n**PMID:** 42759976 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Setting described as five countries** \u2014 Severity: Minor\n\n- **As written:** \"Using registry data from five European countries\"\n- **Abstract says:** \"European Renal Association Registry data from five countries or regions: Catalonia (Spain), Denmark, France, Norway, and the UK.\"\n- **Problem:** One of the five is a region (Catalonia), not a country; the abstract explicitly says \"countries or regions.\"\n- **Suggested fix:** \"Write \"five European countries or regions (Catalonia, Denmark, France, Norway and the UK).\"\"\n\n**Issue B. Causal phrasing for an emulated trial** \u2014 Severity: Minor\n\n- **As written:** \"Standard-criteria donor kidneys improved five-year survival compared with staying on dialysis at every recipient age.\"\n- **Abstract says:** \"Standard criteria donor kidney transplantation was consistently associated with a survival benefit compared with continued dialysis.\"\n- **Problem:** The abstract consistently uses associational language for this observational target trial emulation; \"improved\" states a causal effect.\n- **Suggested fix:** \"Use \"was associated with higher five-year survival.\"\"\n\n### Study 3: Methylphenidate eased depression in palliative care patients \u2014 but the evidence is thin\n**PMID:** 42762836 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 4: Your own sleep, not your spouse's, tracks with your memory \u2014 a large couples study finds\n**PMID:** 42755049 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Null partner effect overstated as well-powered** \u2014 Severity: Moderate\n\n- **As written:** \"this well-powered analysis found no reliable evidence for that spillover\"\n- **Abstract says:** \"The possible husband-to-wife partner effect did not survive correction for multiple testing and warrants adequately powered investigation before informing couple-based clinical recommendations.\"\n- **Problem:** The authors explicitly say the partner effect needs adequately powered study, so describing this analysis as \"well-powered\" and the spillover question as settled overstates the strength of the null.\n- **Suggested fix:** \"Say the possible husband-to-wife effect did not survive correction for multiple testing and the authors call for better-powered studies before drawing conclusions.\"\n\n**Issue B. Unsupported premise about prior assumptions** \u2014 Severity: Minor\n\n- **As written:** \"it has been assumed one partner's poor sleep drags down the other's brain health\"\n- **Abstract says:** \"Sleep duration has well-established U-shaped associations with cognitive health, but research has largely ignored spousal interdependence.\"\n- **Problem:** The abstract says spousal interdependence has been largely ignored, not that a spillover effect was an established assumption.\n- **Suggested fix:** \"Rephrase to \"spousal sleep spillover has rarely been studied.\"\"\n\n### Study 5: Steroid-sparing drugs for giant cell arteritis and polymyalgia rheumatica don't automatically mean fewer infections\n**PMID:** 42762860 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Infection risk only fell\" overstates result** \u2014 Severity: Minor\n\n- **As written:** \"infection risk only fell when the steroid dose in the treatment group was substantially lower than in the comparison group\"\n- **Abstract says:** \"When the active intervention had much lower glucocorticoid dosing than the comparator, the RR for infection was either close to 1 or <1.\"\n- **Problem:** An RR \"close to 1\" means no difference in risk, not a reduction; the abstract also concludes these therapies were \"not consistently associated with lower infection risk.\"\n- **Suggested fix:** \"Say infection risk was neutral or lower (RR close to 1 or below 1) only when the steroid dose was substantially lower.\"\n\n**Issue B. \"Pooled\" implies meta-analysis** \u2014 Severity: Minor\n\n- **As written:** \"Researchers at Boston University pooled 10 randomized controlled trials (1,487 patients, average age 50 and above)\"\n- **Abstract says:** \"Infection Risk Associated with Steroid-Sparing Therapies in GCA, PMR, and ANCA-Associated Vasculitis: A Systematic Review... We included 10 RCTs (1,487 patients total, enrolling adults averaged \u226550 years)\"\n- **Problem:** This was a systematic review that calculated per-trial relative risks, not a pooled meta-analysis; \"pooled\" suggests a combined effect estimate that the abstract does not report.\n- **Suggested fix:** \"Use \"reviewed 10 randomized controlled trials\" instead of \"pooled.\"\"\n\n### Study 6: Prism glasses plus tablet games beat pencil-and-paper cognitive rehab for stroke survivors \u2014 and the gains lasted six months\n**PMID:** 42759357 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Single-center claim not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"Small trial (N=60), single research center, trial registered retrospectively\"\n- **Abstract says:** \"In this randomized controlled clinical trial, 60 participants with stroke underwent 10 rehabilitation sessions over 2 weeks... CLINICAL TRIAL REGISTRATION: NCT07322614; retrospectively registered on January 7, 2026.\"\n- **Problem:** The abstract does not state the number of sites; author affiliations span Rome and Palermo, so \"single research center\" is unverifiable from abstract only.\n- **Suggested fix:** \"Drop \"single research center\" or say the number of sites is not reported in the abstract.\"\n\n**Issue B. Prevalence figure not from this abstract** \u2014 Severity: Minor\n\n- **As written:** \"Cognitive problems affect more than half of stroke survivors\"\n- **Abstract says:** \"Cognitive impairment is highly prevalent after stroke, and effective long-term rehabilitation strategies remain limited.\"\n- **Problem:** This abstract gives no prevalence figure; the \"over half\" statistic appears in a different paper (PMID 42759356).\n- **Suggested fix:** \"Say cognitive impairment is highly prevalent after stroke, or attribute the \"over half\" figure to the other study.\"\n\n### Study 7: 596 stroke rehab trials analyzed: sample sizes are growing, but study quality is flat and women are being enrolled less often\n**PMID:** 42759356 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 8: Three months of online group exercise in midlife lifted mood and changed blood biology \u2014 but didn't sharpen memory\n**PMID:** 42754613 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. In vitro assay described as reaching the brain** \u2014 Severity: Minor\n\n- **As written:** \"suggesting exercise changes circulating factors that reach brain stem cells\"\n- **Abstract says:** \"significant intervention-by-time effects were detected... for the percentage of proliferative cells in vitro (\u03b2 = -0.23, adjusted p = 0.02), suggesting that exercise remodels the circulating milieu in ways that directly influence hippocampal progenitor biology\"\n- **Problem:** The assay applied participants' serum to cultured cells; nothing shows these factors reached participants' own brains. \"Reach brain stem cells\" implies an in vivo pathway not tested.\n- **Suggested fix:** \"Say blood from exercisers changed how cultured hippocampal progenitor cells behaved, suggesting exercise remodels circulating factors relevant to brain stem cell biology.\"\n\n**Issue B. Direction of cell effect unstated** \u2014 Severity: Minor\n\n- **As written:** \"altered cell proliferation\"\n- **Abstract says:** \"the percentage of proliferative cells in vitro (\u03b2 = -0.23, adjusted p = 0.02)\"\n- **Problem:** The reported coefficient is negative, i.e., a decrease in proliferative cells; \"altered\" leaves readers to assume an increase, which fits the positive framing of the headline.\n- **Suggested fix:** \"State the direction: the proportion of proliferating cells decreased in the exercise group.\"\n\n### Study 9: Older walkers keep their eyes glued to the ground \u2014 and that may be part of the fall problem\n**PMID:** 42753670 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Ground\" overstates \"immediately relevant locations\"** \u2014 Severity: Minor\n\n- **As written:** \"Older walkers keep their eyes glued to the ground\"\n- **Abstract says:** \"more and longer fixations at immediately relevant locations and less time engaging in exploratory gaze behaviors\"\n- **Problem:** The review describes fixation on immediately relevant targets across varied tasks (obstacles, stairs, turning), not specifically on the ground.\n- **Suggested fix:** \"Reword to \"older walkers lock their gaze on what's immediately in front of them.\"\"\n\n**Issue B. Practical advice not tested in the review** \u2014 Severity: Minor\n\n- **As written:** \"Good lighting, clear uncluttered pathways, single-vision distance glasses for walking rather than multifocals on stairs, and an up-to-date eye exam all reduce how much visual work walking demands of you.\"\n- **Abstract says:** \"The objective of this review is to evaluate eye tracking metrics that can be collected during walking tasks and eye movements associated with walking in older adults.\"\n- **Problem:** The review evaluated eye-tracking measures and gaze patterns; it tested no environmental or eyewear interventions, so these recommendations are not supported by this study.\n- **Suggested fix:** \"Flag the advice as general fall-prevention guidance from elsewhere, not a finding of this review.\"\n\n### Study 10: Why deep brain stimulation transforms some Parkinson's patients and disappoints others \u2014 the answer may be in the brain scan taken before surgery\n**PMID:** 42753347 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Percentages attributed to patients** \u2014 Severity: Minor\n\n- **As written:** \"Most patients had movement disorders \u2014 primarily Parkinson's disease \u2014 while about one in five had psychiatric conditions, mainly major depression.\"\n- **Abstract says:** \"Fifty-three studies (n = 1758 patients) were included. Movement disorders comprised 73.6%, primarily Parkinson's disease (PD), while psychiatric disorders comprised 20.8%, mainly major depressive disorder (MDD).\"\n- **Problem:** The abstract's 73.6% / 20.8% breakdown is not explicitly tied to patients and most plausibly refers to the included studies; stating it as a patient proportion is unverifiable from the abstract.\n- **Suggested fix:** \"Write \"about three-quarters of the included studies covered movement disorders and about one in five psychiatric conditions.\"\"\n\n**Issue B. Thalamus and subthalamic laterality dropped** \u2014 Severity: Minor\n\n- **As written:** \"the primary motor cortex, thalamus, brainstem and subthalamic nucleus in Parkinson's\"\n- **Abstract says:** \"Internal network analysis identified the primary motor cortex, left thalamus, brainstem, and right subthalamic nucleus as central in PD\"\n- **Problem:** The abstract specifies left thalamus and right subthalamic nucleus; dropping laterality is a small loss of precision.\n- **Suggested fix:** \"Add the sides, or note that specific hemispheres were implicated.\"\n\n### Study 11: Genetic testing explained only 7% of Parkinson's cases in a large clinical cohort \u2014 but the gene it kept finding matters\n**PMID:** 42762359 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Cohort described as \"large\"** \u2014 Severity: Minor\n\n- **As written:** \"Genetic testing explained only 7% of Parkinson's cases in a large clinical cohort\"\n- **Abstract says:** \"A retrospective analysis was conducted on 137 patients diagnosed with Parkinson's disease according to the Movement Disorder Society (MDS) clinical diagnostic criteria.\"\n- **Problem:** 137 patients from one Turkish center is a modest single-center series, not a large cohort; the caveats correctly call it a single-center cohort, so the headline conflicts with the digest's own framing.\n- **Suggested fix:** \"Change to \"in a Turkish clinical cohort\" or \"in 137 patients at one clinic.\"\"\n\n**Issue B. Novel LRRK2 duplication presented without its uncertainty** \u2014 Severity: Minor\n\n- **As written:** \"a previously undescribed LRRK2 duplication was detected only because the analysis looked for copy number changes that routine testing misses\"\n- **Abstract says:** \"A novel heterozygous duplication involving LRRK2 exons 6-20 was also identified; however, as it likely results in a loss of function, its pathogenicity remains uncertain under dominant gain-of-function models.\"\n- **Problem:** The digest reports the detection but not the authors' explicit statement that the variant's pathogenicity remains uncertain, leaving the impression it is a meaningful finding.\n- **Suggested fix:** \"Add \"though the authors note its clinical significance is still uncertain.\"\"\n\n### Study 12: Could the amino acids in your protein affect your mood? An early review finds a signal in older adults \u2014 and a lot of uncertainty\n**PMID:** 42740686 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 13: Heat waves, cold snaps and smoky air send nursing home residents to the ER \u2014 even with indoor temperature rules on the books\n**PMID:** 42760629 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Federal\" regulations not specified in abstract** \u2014 Severity: Minor\n\n- **As written:** \"The increases occurred despite federal regulations that govern indoor temperature in nursing facilities \u2014 and there are no comparable federal standards at all for indoor air quality.\"\n- **Abstract says:** \"nursing facility regulations address only indoor temperature with no comparable standards for indoor air quality, including PM2.5\"\n- **Problem:** The abstract refers generically to nursing facility regulations and standards; it does not identify them as federal.\n- **Suggested fix:** \"Drop \"federal\" or attribute it as the digest's own characterization of US nursing facility regulation.\"\n\n**Issue B. Source of PM2.5 attributed to wildfire/traffic** \u2014 Severity: Minor\n\n- **As written:** \"the buildings older adults live in are not fully buffering them from outdoor weather and wildfire or traffic smoke\"\n- **Abstract says:** \"elevated fine particulate matter (PM2.5; particles 2.5 \u03bcm or less) ... elevated PM2.5 (PM2.5 > 9 \u03bcg/m3)\"\n- **Problem:** The study measured total ambient PM2.5 and did not attribute it to wildfire smoke or traffic; the headline's \"smoky air\" carries the same implication.\n- **Suggested fix:** \"Refer to \"fine particle air pollution\" rather than naming wildfire or traffic sources.\"\n\n### Study 14: Group physical therapy on a hospital geriatrics ward: safe, popular, and it let therapists see 21% more patients\n**PMID:** 42760622 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline implies causation and overstates acceptability** \u2014 Severity: Minor\n\n- **As written:** \"Group physical therapy on a hospital geriatrics ward: safe, popular, and it let therapists see 21% more patients\"\n- **Abstract says:** \"Mean therapist productivity was notably higher on group days than on non-group days (1.59 vs. 1.31 patients/h; approximately 21% higher) ... Further work should assess patient acceptability, fully characterize staff time requirements, and assess patient-centered outcomes.\"\n- **Problem:** Productivity was an observed 21% higher patients-per-hour rate on group days in an uncontrolled QI project, not a demonstrated effect of the program; and the authors explicitly state patient acceptability was not yet assessed, so \"popular\" (based only on a 69% approach-acceptance rate) is a stretch.\n- **Suggested fix:** \"Reword to \"safe, well taken up, and therapist productivity ran about 21% higher on group days.\"\"\n\n### Study 15: What makes 'age-friendly' hospital care actually stick \u2014 and where it keeps breaking down\n**PMID:** 42760752 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Most likely to be skipped\" not supported** \u2014 Severity: Minor\n\n- **As written:** \"this shows the element most directly about the patient's own voice is the one most likely to be skipped\"\n- **Abstract says:** \"Barriers included: challenges meaningfully eliciting and integrating \"What Matters\" into inpatient care; difficulty identifying short-term patient impact; discipline-specific staffing issues; and lack of AFHS inpatient teams to consult about implementation.\"\n- **Problem:** The qualitative study reports that staff found What Matters hard to elicit and integrate; it does not rank barriers or measure how often any of the 4Ms is omitted.\n- **Suggested fix:** \"Say staff described What Matters as the hardest of the 4Ms to elicit and act on, rather than the one most likely to be skipped.\"\n\n**Issue B. Miscount of the 4Ms in story angle** \u2014 Severity: Minor\n\n- **As written:** \"a short written note on the resident's baseline mobility, usual mental status, medications, and stated priorities, handed over at admission, addresses three of the four Ms directly\"\n- **Abstract says:** \"complete AFHS 4Ms assessments (What Matters, Medications, Mentation, and Mobility)\"\n- **Problem:** The four items listed (mobility, mentation, medications, priorities/What Matters) map onto all four Ms, not three.\n- **Suggested fix:** \"Change \"three of the four Ms\" to \"all four Ms.\"\"\n\n### Study 16: AI reading doctors' notes flagged mobility problems in 4 of 5 older adults \u2014 and those patients landed in the ER twice as often\n**PMID:** 42760637 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline conflates any impairment with 3+ impairments** \u2014 Severity: Moderate\n\n- **As written:** \"AI reading doctors' notes flagged mobility problems in 4 of 5 older adults \u2014 and those patients landed in the ER twice as often\"\n- **Abstract says:** \"79.4% had at least one mobility impairment ... Individuals with 3 or more impairments had an increased adjusted odds of ED visits (Adjusted Odds Ratio (aOR): 2.18 (1.64, 2.90)) and hospitalizations (aOR: 2.35 (1.51, 3.65)) compared to unimpaired individuals\"\n- **Problem:** The doubled odds applied only to the subgroup with three or more impairments, not to the 4-in-5 with at least one; the headline also converts an odds ratio into a visit frequency. The body text states the qualifier correctly, but the headline read alone misleads.\n- **Suggested fix:** \"Reword the headline, e.g. \"\u2026and those with the most impairments had roughly double the odds of an ER visit.\"\"\n\n### Study 17: A group exercise and coaching program cut opioid-type painkiller use \u2014 and that's why falls went down\n**PMID:** 42755166 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Single-mechanism framing of a multi-mediator finding** \u2014 Severity: Moderate\n\n- **As written:** \"and that's why falls went down\"\n- **Abstract says:** \"Several factors mediated falls prevention at 12 months, notably a reduction in controlled pain medication in the first 6 months of follow-up.\"\n- **Problem:** Medication reduction was one of several mediators, described as notable but not exclusive; the headline (and the \"why it matters\" line that the drug reduction did \"much of the work\") implies it was the reason falls fell. The body's \"a key reason\" is the accurate version.\n- **Suggested fix:** \"Change to \"\u2014 and that helped explain why falls went down\" and soften \"doing much of the work\" to \"one of several mechanisms identified.\"\"\n\n**Issue B. Program length not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"a 12-week physical and psychological group program\"\n- **Abstract says:** \"a physical and psychological group intervention (PPGI)\"\n- **Problem:** The abstract does not state the intervention's duration. Unverifiable from abstract only.\n- **Suggested fix:** \"Drop \"12-week\" or source it explicitly to the parent BOOST trial report.\"\n\n### Study 18: 1 in 10 older ED patients return four or more times a year \u2014 and what upsets them most isn't the wait\n**PMID:** 42762629 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal wording for an association** \u2014 Severity: Minor\n\n- **As written:** \"but by far the strongest driver was not getting enough information about treatment (OR 5.17)\"\n- **Abstract says:** \"negative ED experience was associated with ... poor communication or involvement in decisions, with insufficient treatment information showing the strongest association (OR 5.17; 95%CI 3.48-7.69)\"\n- **Problem:** The survey analysis identified the strongest statistical association, not a demonstrated driver, in cross-sectional self-reported experience data.\n- **Suggested fix:** \"Use \"the strongest association was with not getting enough information about treatment.\"\"\n\n**Issue B. Odds ratio read as a likelihood multiple** \u2014 Severity: Minor\n\n- **As written:** \"patients who didn't get that information were five times more likely to rate the experience negatively\"\n- **Abstract says:** \"insufficient treatment information showing the strongest association (OR 5.17; 95%CI 3.48-7.69)\"\n- **Problem:** An odds ratio of 5.17 is not the same as being five times more likely, particularly for a common outcome.\n- **Suggested fix:** \"Say the odds of a negative rating were about five times higher.\"\n\n### Study 19: Returning drained abdominal fluid doesn't extend life in advanced cancer \u2014 but it nearly doubles the time between drainage procedures\n**PMID:** 42759903 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Halving the frequency\" overstates the effect** \u2014 Severity: Moderate\n\n- **As written:** \"halving the frequency of an uncomfortable procedure is a meaningful quality-of-life gain\"\n- **Abstract says:** \"CART was associated with a lower repeat drainage rate (adjusted hazard ratio, 0.73; 95%CI, 0.72-0.74), consistent with longer observed intervals between drainage procedures (median, 15 vs. 8.3 days).\"\n- **Problem:** The measured reduction in repeat drainage was about 27% (aHR 0.73); the near-doubled median interval is a different, unadjusted observed measure. \"Halving the frequency\" is not supported by either figure.\n- **Suggested fix:** \"Say CART was associated with about a quarter fewer repeat drainage procedures and a longer interval between them.\"\n\n**Issue B. Causal verbs for an observational comparison** \u2014 Severity: Minor\n\n- **As written:** \"Returning drained abdominal fluid doesn't extend life in advanced cancer \u2014 but it nearly doubles the time between drainage procedures\"\n- **Abstract says:** \"CART was associated with lower rate of repeat drainage but no meaningful survival prolongation compared with paracentesis alone.\"\n- **Problem:** This is a retrospective claims cohort; the headline's \"doesn't extend life\" and \"doubles\" state causation. The caveats flag the design, but the headline contradicts that hedging.\n- **Suggested fix:** \"Use \"was linked to\" / \"was associated with nearly double the interval.\"\"\n\n### Study 20: A 100-day survival score for older cancer patients holds up \u2014 but the researchers warn against using it to decide on treatment\n**PMID:** 42759253 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Conflict-of-interest detail flattened** \u2014 Severity: Minor\n\n- **As written:** \"one author reports fees from Ipsen, Johnson & Johnson, MSD and AstraZeneca outside this work\"\n- **Abstract says:** \"Maxime Fr\u00e9laut reports institutional fees from Ipsen and Johnson & Johnson, personal fees from MSD, all outside the submitted work. He also reports invitations to medical conferences from AstraZeneca, Ipsen, and MSD, outside the submitted work.\"\n- **Problem:** AstraZeneca provided conference invitations, not fees, and the Ipsen/J&J payments were institutional rather than personal.\n- **Suggested fix:** \"Reword to \"institutional fees from Ipsen and Johnson & Johnson, personal fees from MSD, and conference invitations from AstraZeneca, Ipsen and MSD, all outside this work.\"\"\n\n### Study 21: A tablet-based cognitive test could rule out two-thirds of people before they ever need an Alzheimer's blood test\n**PMID:** 42757183 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Device format not stated in abstract** \u2014 Severity: Minor\n\n- **As written:** \"A tablet-based cognitive test could rule out two-thirds of people before they ever need an Alzheimer's blood test\"\n- **Abstract says:** \"We evaluated the Altoida NeuroMarker Platform as a digital cognitive triage tool before plasma p-tau217 testing.\"\n- **Problem:** The abstract describes only a \"digital cognitive assessment\"/\"NeuroMarker Platform\" and never states the hardware used. Calling it \"tablet-based\" is unverifiable from the abstract alone.\n- **Suggested fix:** \"Use \"A digital cognitive test could rule out two-thirds of people...\" or add that the platform is app-based per the manufacturer, outside the abstract.\"\n\n**Issue B. PPV described as \"accuracy\"** \u2014 Severity: Minor\n\n- **As written:** \"raising the modeled accuracy of a positive blood test from 81.7% to 95.3%\"\n- **Abstract says:** \"improving the modeled positive predictive value of plasma p-tau217 from 81.7% to 95.3%\"\n- **Problem:** \"Accuracy\" is a distinct statistical term from positive predictive value; readers may take it to mean overall test accuracy rather than the probability a positive result is correct.\n- **Suggested fix:** \"Write \"raising the modeled chance that a positive blood test is correct (positive predictive value) from 81.7% to 95.3%.\"\"\n\n**Issue C. Cost claim not supported** \u2014 Severity: Minor\n\n- **As written:** \"a cheap digital screen first could mean fewer people get an alarming and possibly wrong result\"\n- **Abstract says:** \"The abstract reports diagnostic performance and a modeled two-step workflow; it makes no statement about cost.\"\n- **Problem:** Describing the digital screen as \"cheap\" introduces an economic claim the abstract does not support.\n- **Suggested fix:** \"Replace \"cheap\" with \"non-invasive\" or \"scalable,\" matching the abstract's language.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | How you fill out a questionnaire may hint at dementia years before diagnosis | \u26a0\ufe0f Minor issues | Numbers, cohort size and null finding for extreme responding all match; headline's \"years before diagnosis\" time frame is not stated in the abstract. |\n| 2 | For patients in their 70s, a lower-quality donor kidney may offer no survival edge over staying on dialysis | \u26a0\ufe0f Minor issues | Sample sizes, the 59% vs 55% five-year survival figure and the threefold early mortality all match; small wording issues on setting and causal phrasing. |\n| 3 | Methylphenidate eased depression in palliative care patients \u2014 but the evidence is thin | \u2705 Accurate | Trial count, participant total, SMD, RR, heterogeneity, risk-of-bias breakdown and certainty rating all match the abstract; caveats are appropriately hedged. |\n| 4 | Your own sleep, not your spouse's, tracks with your memory \u2014 a large couples study finds | \u26a0\ufe0f Minor issues | Sample, design and FDR findings are reported correctly, but \"well-powered\" contradicts the authors' call for adequately powered investigation of the partner effect. |\n| 5 | Steroid-sparing drugs for giant cell arteritis and polymyalgia rheumatica don't automatically mean fewer infections | \u26a0\ufe0f Minor issues | Trial count, patient total, drug list and the dose-dependent pattern match; two wording points slightly overstate what the review reported. |\n| 6 | Prism glasses plus tablet games beat pencil-and-paper cognitive rehab for stroke survivors \u2014 and the gains lasted six months | \u26a0\ufe0f Minor issues | Design, N, outcomes and the conflict of interest are reported accurately; two supporting details are not in this abstract. |\n| 7 | 596 stroke rehab trials analyzed: sample sizes are growing, but study quality is flat and women are being enrolled less often | \u2705 Accurate | Trial count, median sample size of 36, 42% female, declining female recruitment, flat PEDro quality and outcome-measure heterogeneity all match the abstract. |\n| 8 | Three months of online group exercise in midlife lifted mood and changed blood biology \u2014 but didn't sharpen memory | \u26a0\ufe0f Minor issues | N, design, null primary outcome, PHQ-9 result and industry disclosures are accurate; one sentence extends the in vitro finding beyond what was shown. |\n| 9 | Older walkers keep their eyes glued to the ground \u2014 and that may be part of the fall problem | \u26a0\ufe0f Minor issues | Study count and the fixation/exploration findings match; the headline and some practical advice go modestly beyond the abstract. |\n| 10 | Why deep brain stimulation transforms some Parkinson's patients and disappoints others \u2014 the answer may be in the brain scan taken before surgery | \u26a0\ufe0f Minor issues | Study count, patient total, disorder mix and network findings match; the 20.8% figure appears to describe studies rather than patients. |\n| 11 | Genetic testing explained only 7% of Parkinson's cases in a large clinical cohort \u2014 but the gene it kept finding matters | \u26a0\ufe0f Minor issues | Numbers and gene findings match the abstract; only the headline's \"large clinical cohort\" and the omission of the novel LRRK2 duplication's uncertain pathogenicity need softening. |\n| 12 | Could the amino acids in your protein affect your mood? An early review finds a signal in older adults \u2014 and a lot of uncertainty | \u2705 Accurate | Study count, participant total, direction of findings and the authors' \"inconclusive\" verdict are all faithfully reported, and the framing is appropriately hedged. |\n| 13 | Heat waves, cold snaps and smoky air send nursing home residents to the ER \u2014 even with indoor temperature rules on the books | \u26a0\ufe0f Minor issues | Sample size, facilities, states and direction of all three exposure findings match; \"federal\" regulations and the wildfire/traffic-smoke attribution go slightly beyond the abstract. |\n| 14 | Group physical therapy on a hospital geriatrics ward: safe, popular, and it let therapists see 21% more patients | \u26a0\ufe0f Minor issues | All feasibility numbers (37 sessions, 4.22/session, 156 participations, 69% uptake, mean age 77.9, 1.59 vs 1.31 patients/h) are accurate; the headline's causal and \"popular\" wording overreaches an uncontrolled QI project. |\n| 15 | What makes 'age-friendly' hospital care actually stick \u2014 and where it keeps breaking down | \u26a0\ufe0f Minor issues | Design, site selection, interview count and the facilitator/barrier list are faithful; the \"most likely to be skipped\" framing and a miscount of the 4Ms in a story angle need fixing. |\n| 16 | AI reading doctors' notes flagged mobility problems in 4 of 5 older adults \u2014 and those patients landed in the ER twice as often | \u26a0\ufe0f Minor issues | Body text matches the abstract (2,994 analyzed, 79.4%, aOR 2.18 and 2.35, null mortality); the headline attaches the doubled odds to everyone with any impairment rather than to those with 3+ impairments. |\n| 17 | A group exercise and coaching program cut opioid-type painkiller use \u2014 and that's why falls went down | \u26a0\ufe0f Minor issues | Sample size, 34% baseline controlled-medication use and OR 0.62 are accurate; the headline and \"why it matters\" present medication reduction as the sole mechanism when the abstract names several mediators, and the 12-week program length isn't in the abstract. |\n| 18 | 1 in 10 older ED patients return four or more times a year \u2014 and what upsets them most isn't the wait | \u26a0\ufe0f Minor issues | Cohort size, 10.6% frequent presenters, age distribution and all three odds ratios match; \"strongest driver\" and \"five times more likely\" nudge association language toward causation and misread an odds ratio. |\n| 19 | Returning drained abdominal fluid doesn't extend life in advanced cancer \u2014 but it nearly doubles the time between drainage procedures | \u26a0\ufe0f Minor issues | All cohort counts, median survival and drainage intervals match; \"halving the frequency\" overstates the measured 27% reduction in repeat drainage rate, and the headline's active verbs imply causation in a claims-based study. |\n| 20 | A 100-day survival score for older cancer patients holds up \u2014 but the researchers warn against using it to decide on treatment | \u26a0\ufe0f Minor issues | N, setting, dates, 28% 100-day mortality, survival bands and C-index 0.67 all match; only the conflict-of-interest summary slightly mislabels the AstraZeneca relationship. |\n| 21 | A tablet-based cognitive test could rule out two-thirds of people before they ever need an Alzheimer's blood test | \u26a0\ufe0f Minor issues | Core numbers (N=688, AUC 0.89/0.77, 64.4% ruled out, NPV 90.2%, PPV 81.7%\u219295.3%) all match the abstract, and the modeled-workflow and industry-funding caveats are properly disclosed. Two small wording issues: the abstract never specifies a tablet format, and the 81.7%\u219295.3% figure is positive predictive value, not \"accuracy.\" |\n\n**Total issues:** 34 (30 Minor, 4 Moderate, 0 Major)\n**Entries requiring revision:** 18\n**Entries cleared:** 3\n"
+  }
+}

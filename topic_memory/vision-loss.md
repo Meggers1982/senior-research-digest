@@ -1,24 +1,30 @@
 # Topic Memory: vision loss
-_Last updated: 2026-09-07_
+_Last updated: 2026-09-21_
+
+## Topic Memory: vision loss
+_Last updated: 2026-09-21_
 
 ## Established findings
-- Vision loss counts as a modifiable dementia risk factor and clusters with cardiometabolic, mood and social risks; cumulative burden tracks with worse cognition and MRI changes including hippocampal atrophy (PMIDs 42645764, 42437564, 42371784; Aug 2026, Sep 2026)
-- Older adults with clinically measurable vision loss often do not perceive or prioritize it; care staff should watch behavior, not wait for self-report (PMID 42271249 — recurring)
-- Having two or more age-related eye diseases compounds risk of severe vision impairment far beyond any single diagnosis (PMID 41249002 — recurring)
+- Vision loss is a modifiable dementia risk factor that clusters with cardiometabolic, mood and social risks; cumulative burden tracks with worse cognition and MRI changes including hippocampal atrophy (PMIDs 42645764, 42371784, 42716809; Aug–Sep 2026)
+- Two or more age-related eye diseases compound the risk of severe visual impairment far beyond any single diagnosis (PMID 41249002 — recurring)
 - Women carry a higher global burden of vision-related disability, largest for treatable cataract and tied to national gender inequality (PMID 42521465 — recurring)
-- Type 2 diabetes is driving a rising global burden of diabetic retinopathy blindness, including in high-income countries; type 1-related burden is flat or declining (PMID 42476825 — recurring)
-- Audiobooks require training and accessible browsing to replace print reading; a device handoff alone fails (PMID 42500929 — recurring)
+- Type 2 diabetes drives a rising global burden of diabetic retinopathy blindness, including in high-income countries where screening exists but isn't used (PMID 42476825 — recurring)
+- Audiobooks require training and accessible browsing to restore reading; a device handoff alone fails (PMID 42500929 — recurring)
+- Standard acuity underestimates functional vision loss in AMD; contrast sensitivity catches more (PMID 42386395 — recurring, now supported by gait data PMID 42501620)
 
 ## Emerging threads
-- Contrast sensitivity and low-contrast acuity reveal functional loss in intermediate AMD that standard charts miss — 50% vs 36% abnormal (PMID 42386395); watch for uptake in clinics and for environmental-modification guidance
-- How glaucoma is treated, not just whether it is treated, may track with dementia risk — surgery/laser vs drops alone (PMID 42693831); needs replication and adherence-focused follow-up
-- Inherited retinal disease is moving from diagnosis gap to treatment pipeline: gene, cell, optogenetic and chip therapies (PMID 42409034) plus first anatomic repair in XLRS gene therapy without matching functional gain (PMID 42269152)
-- Population-specific risk factor hierarchies challenge universal dementia-prevention lists; depression dominant in American Indian elders, with vision/hearing unmeasured (PMID 42635108)
-- Eye findings as the visible edge of systemic disease and drug treatment: VEXAS eyelid inflammation in older men (PMID 41535098), corneal toxicity in 86% of patients on HER2-targeted antibody-drug conjugates (PMID 42331364)
-- Dropped from active watch: photobiomodulation for dry AMD (PMID 42259594), SENSE-Cog home sensory support (PMID 42212629), Swedish IRD registry (PMID 42431723) — revisit only if new data appear
+- Contrast as a mobility and design issue: low-contrast obstacles reduce foot clearance in all older walkers, not just those with diagnosed vision loss (PMID 42501620) — watch for fall-prevention guidance uptake
+- Near vision impairment, the cheapest to correct, may be the stronger cognitive correlate versus distance vision (PMID 42716809) — needs longitudinal replication
+- How glaucoma is treated, not just whether, may track with dementia risk (PMID 42693831) — replication and adherence-focused follow-up needed
+- Reducing the anti-VEGF injection burden: relapse risk after pausing treatment (PMID 42752539) alongside implants, oral TKIs and gene therapy pipeline (PMID 41076606)
+- Prediction and personalization in the eye clinic: baseline OCT outer retinal volume predicting diabetic progression (PMID 42752554); distinct protein signatures in AMD versus myopic CNV (PMID 42599028)
+- Salvage options for "untreatable" conditions: mitomycin C for corneal neovascularization (PMID 42215273), gel injection for chronic hypotony (PMID 41521029)
+- Population-specific risk hierarchies challenge universal prevention lists; depression dominant in American Indian elders, with vision/hearing unmeasured (PMID 42635108)
+- Dropped from active watch: BMC Geriatr perception study (42271249), HER2 corneal toxicity (42331364), inherited retinal disease pipeline (42409034, 42269152) — revisit only if new data appear
 
 ## Feature ideas already pitched
-- "Vision loss as dementia prevention target" (July 2026): PMIDs 42371784, 40583126, 42437564, 42212629
+- "Vision loss as dementia prevention target" (Jul 2026): PMIDs 42371784, 40583126, 42437564, 42212629
 - "Vision care falling through cracks for older adults at home" (Aug 2026): PMIDs 42271249, 42500929, 42212629, 41249002
-- "Your eyes as the meeting point for the rest of your medicine — eye care siloed from oncology, rheumatology and brain health" (Sep 2026): PMIDs 42693831, 42645764, 42331364, 41535098
-- Not yet pitched, held in reserve: "the vision loss the eye chart doesn't measure" (PMIDs 42386395, 42271249) — overlaps partly with the Aug 2026 pitch, needs a distinct measurement/environment framing
+- "Your eyes as the meeting point for the rest of your medicine" (Sep 7 2026): PMIDs 42693831, 42645764, 42331364, 41535098
+- "The vision the eye chart doesn't measure — contrast, near vision, reading, and cheap fixes" (Sep 21 2026): PMIDs 42501620, 42386395, 42716809, 42500929
+- Held in reserve, not yet pitched: "the end of the monthly injection era" — treatment-burden feature combining PMIDs 41076606, 42752539, 42752554, with transport/staffing angle for operators

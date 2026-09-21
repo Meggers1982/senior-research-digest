@@ -1,12 +1,22 @@
 {
   "studies": {
-    "41249002": {
-      "checked_at": "2026-09-07T14:24:08.677617+00:00",
+    "41076606": {
+      "checked_at": "2026-09-21T15:18:40.303472+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "When Two Eye Diseases Overlap Risk Severe Vision Loss Nearly",
-        "returned": 2,
+        "query": "era monthly eye injections ending review what coming next macular",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41249002": {
+      "checked_at": "2026-09-21T15:19:38.432407+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Two Eye Diseases Once Nearly Doubles Risk Severe Vision Loss",
+        "returned": 4,
         "state": "unreported"
       }
     },
@@ -48,6 +58,16 @@
         "state": "unreported"
       }
     },
+    "42215273": {
+      "checked_at": "2026-09-21T15:19:26.468561+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "off label chemotherapy drug shrinking abnormal corneal blood vessels cloud",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42229406": {
       "checked_at": "2026-09-20T13:16:30.666816+00:00",
       "result": {
@@ -75,16 +95,6 @@
         "outlets": [],
         "query": "Acute akinetic collapse Parkinson disease retrospective sustained immobilization clinical outcomes",
         "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42269152": {
-      "checked_at": "2026-09-07T14:24:18.221008+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Gene Therapy Repairs Retina Inherited Blinding Disease Preview Where Eye",
-        "returned": 10,
         "state": "unreported"
       }
     },
@@ -128,16 +138,6 @@
         "state": "unreported"
       }
     },
-    "42331364": {
-      "checked_at": "2026-09-07T14:24:27.467865+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Newer targeted breast cancer drugs damaged eye surface patients usually",
-        "returned": 3,
-        "state": "unreported"
-      }
-    },
     "42334971": {
       "checked_at": "2026-09-20T13:15:50.391394+00:00",
       "result": {
@@ -174,6 +174,16 @@
         "articles": [],
         "outlets": [],
         "query": "Past Medication Habits Predict Who Will Stick Newer Osteoporosis Injection",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42371784": {
+      "checked_at": "2026-09-21T15:18:29.979077+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Childhood hardship echoes later life memory untreated vision loss one",
         "returned": 0,
         "state": "unreported"
       }
@@ -428,16 +438,6 @@
         "state": "unreported"
       }
     },
-    "42476825": {
-      "checked_at": "2026-09-07T14:24:15.843744+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Diabetes Related Blindness Rising Worldwide Type Diabetes Driving",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42486011": {
       "checked_at": "2026-09-18T13:10:29.501377+00:00",
       "result": {
@@ -488,6 +488,26 @@
         "state": "unreported"
       }
     },
+    "42500929": {
+      "checked_at": "2026-09-21T15:16:56.313117+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Audiobooks Aren Automatic Replacement Reading After Vision Loss Listeners Have",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42501620": {
+      "checked_at": "2026-09-21T15:16:36.772097+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Low Contrast Obstacles Make Walkers Cut Close Even Those Normal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42503319": {
       "checked_at": "2026-09-14T15:15:06.202021+00:00",
       "result": {
@@ -534,6 +554,16 @@
         "articles": [],
         "outlets": [],
         "query": "Lifting weights sharpens thinking but not every kind memory",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42521465": {
+      "checked_at": "2026-09-21T15:20:05.917104+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Women Carry Heavier Burden Blindness Worldwide Gap Isn Closing",
         "returned": 0,
         "state": "unreported"
       }
@@ -744,6 +774,16 @@
         "state": "unreported"
       }
     },
+    "42599028": {
+      "checked_at": "2026-09-21T15:19:31.824389+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Why two forms wet macular disease respond differently same eye",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "42599269": {
       "checked_at": "2026-09-16T13:40:26.822372+00:00",
       "result": {
@@ -846,6 +886,24 @@
         "state": "unreported"
       }
     },
+    "42635108": {
+      "checked_at": "2026-09-21T15:17:29.102355+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.yahoo.com/news/us/articles/dementia-risk-may-look-different-153950002.html",
+            "outlet": "Yahoo",
+            "title": "Dementia risk may look different for one group of Americans"
+          }
+        ],
+        "outlets": [
+          "Yahoo"
+        ],
+        "query": "Dementia Risk Looks Different American Indian Communities Depression Dominant Factor",
+        "returned": 2,
+        "state": "lightly_reported"
+      }
+    },
     "42640724": {
       "checked_at": "2026-09-14T15:14:54.087071+00:00",
       "result": {
@@ -857,12 +915,12 @@
       }
     },
     "42645764": {
-      "checked_at": "2026-09-07T14:23:48.044832+00:00",
+      "checked_at": "2026-09-21T15:17:53.754123+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Ten Modifiable Risks Including Untreated Vision Loss Add Brain",
-        "returned": 2,
+        "query": "Every Added Health Risk Including Vision Loss Chips Away Brain",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -1105,12 +1163,12 @@
       }
     },
     "42693831": {
-      "checked_at": "2026-09-07T14:23:14.750220+00:00",
+      "checked_at": "2026-09-21T15:16:20.308442+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Glaucoma Patients Who Had Surgery Later Developed Less Dementia Than",
-        "returned": 1,
+        "query": "Glaucoma Surgery Linked Lower Dementia Risk Than Eye Drops Alone",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1776,6 +1834,16 @@
         "outlets": [],
         "query": "Effect exercise bone health middle aged hierarchical network meta analysis",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42716809": {
+      "checked_at": "2026-09-21T15:17:51.389981+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Trouble Reading Close Linked Weaker Thinking Skills Large Rural Eye",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -3230,6 +3298,36 @@
         "state": "unreported"
       }
     },
+    "42751765": {
+      "checked_at": "2026-09-21T15:38:07.332873+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cancer patients who finish meal rarely mention one asks",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42752539": {
+      "checked_at": "2026-09-21T15:17:15.564175+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Half Patients Common Cause Vision Loss Relapse Within Two Years",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42752554": {
+      "checked_at": "2026-09-21T15:18:09.207495+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Standard Eye Scan Flag Which Diabetic Eyes Headed Trouble",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42753030": {
       "checked_at": "2026-09-18T13:19:05.609279+00:00",
       "result": {
@@ -3300,6 +3398,26 @@
         "state": "unreported"
       }
     },
+    "42753686": {
+      "checked_at": "2026-09-21T15:37:32.682379+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "two year program held functioning steady without intellectual disability",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42753932": {
+      "checked_at": "2026-09-21T15:26:00.886834+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Handgrip strength asymmetry cardiometabolic multimorbidity Chinese middle aged longitudinal cohort",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42753934": {
       "checked_at": "2026-09-19T13:06:05.891711+00:00",
       "result": {
@@ -3320,6 +3438,16 @@
         "state": "unreported"
       }
     },
+    "42754223": {
+      "checked_at": "2026-09-21T15:37:49.926773+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Breathing exercises after brain surgery cut pneumonia clot rates patients",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42754368": {
       "checked_at": "2026-09-18T13:18:27.499367+00:00",
       "result": {
@@ -3327,6 +3455,46 @@
         "outlets": [],
         "query": "Gut microbiome dysbiosis short chain fatty acid depletion implications neuroinflammation",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42754370": {
+      "checked_at": "2026-09-21T15:27:35.235388+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Minimal clinically important differences illusion precision",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42754543": {
+      "checked_at": "2026-09-21T15:36:36.131411+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Three simple questions about chewing swallowing tracked survival 000",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42754545": {
+      "checked_at": "2026-09-21T15:26:47.391952+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Days Alive Home After Emergency Department STEMI Visits Among Medicare",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42754548": {
+      "checked_at": "2026-09-21T15:25:19.183403+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Prehospital Sedation Physical Restraint Presenting Behavioral Health Emergencies Nationwide Cross",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -3722,6 +3890,66 @@
         "articles": [],
         "outlets": [],
         "query": "Endogenous Androgens Physical Cognitive Function Healthy Midlife Men Systematic Review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42764080": {
+      "checked_at": "2026-09-21T15:23:36.172307+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Multimorbidity long term condition burden markers incident sarcopenia risk prospective",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42764395": {
+      "checked_at": "2026-09-21T15:21:57.751705+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Assessing Resilience Validation Prospective Resilience Scale",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42764417": {
+      "checked_at": "2026-09-21T15:24:32.719951+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Distress Screening Pediatric Palliative Care Referral Retrospective Case Control Supportive",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42764591": {
+      "checked_at": "2026-09-21T15:22:49.789820+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Association Type Natriuretic Peptide Intrinsic Capacity Trajectories Among Chinese",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42764777": {
+      "checked_at": "2026-09-21T15:21:56.705099+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Genetic Variants ATPase Associated Neurological Disorders Systematic Review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42765144": {
+      "checked_at": "2026-09-21T15:22:25.267276+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Performance face valid IADL tasks lab less related independent performance",
         "returned": 0,
         "state": "unreported"
       }

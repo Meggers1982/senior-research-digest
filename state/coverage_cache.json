@@ -258,6 +258,16 @@
         "state": "unreported"
       }
     },
+    "42430965": {
+      "checked_at": "2026-09-24T13:44:25.625516+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Eye Scan Someday Spot Alzheimer Genetic Finds Real Retinal Changes",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42439362": {
       "checked_at": "2026-09-18T13:09:32.938553+00:00",
       "result": {
@@ -268,12 +278,32 @@
         "state": "unreported"
       }
     },
+    "42441396": {
+      "checked_at": "2026-09-24T13:44:02.372768+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Another Alzheimer Drug Falls Short Tau Targeting Pill Failed Slow",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42442524": {
       "checked_at": "2026-09-14T15:16:00.677550+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Women Found Talking Smart Speaker Welcome Coach Bone Health",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42442665": {
+      "checked_at": "2026-09-24T13:44:45.746876+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Lithium Linked Lower Dementia Risk Than Valproate People Bipolar Disorder",
         "returned": 0,
         "state": "unreported"
       }
@@ -418,6 +448,16 @@
         "state": "widely_reported"
       }
     },
+    "42472523": {
+      "checked_at": "2026-09-24T13:44:38.917938+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Daily Mouth Care Helped Some Nursing Home Residents Get Off",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
     "42475970": {
       "checked_at": "2026-09-12T12:24:42.708549+00:00",
       "result": {
@@ -434,6 +474,16 @@
         "articles": [],
         "outlets": [],
         "query": "nutrition speed fracture healing Promising signals thin human evidence",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42485867": {
+      "checked_at": "2026-09-24T13:44:30.271256+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Conscientious People Show Fewer Signs Nerve Damage Blood Tests",
         "returned": 0,
         "state": "unreported"
       }
@@ -638,6 +688,16 @@
         "state": "unreported"
       }
     },
+    "42556583": {
+      "checked_at": "2026-09-24T13:44:34.388996+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Diabetes Plus Depression Together Carry Fourfold Dementia Risk",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42561582": {
       "checked_at": "2026-09-19T12:42:12.982091+00:00",
       "result": {
@@ -811,6 +871,16 @@
         "outlets": [],
         "query": "Frailty Not Muscle Loss Signal Predicted Falls Over Six Years",
         "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42600788": {
+      "checked_at": "2026-09-24T13:44:04.372155+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Frailty Worsens Raises Dementia Risk Depression Key Link",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -3606,6 +3676,16 @@
         "state": "unreported"
       }
     },
+    "42756469": {
+      "checked_at": "2026-09-24T13:44:50.395194+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Researchers Argue Post Surgery Delirium Acute Brain Failure Not Passing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42756499": {
       "checked_at": "2026-09-19T12:44:04.112503+00:00",
       "result": {
@@ -3950,6 +4030,95 @@
         "articles": [],
         "outlets": [],
         "query": "Performance face valid IADL tasks lab less related independent performance",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42766299": {
+      "checked_at": "2026-09-24T13:44:07.666410+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Way Reading Tau Brain Scans Catches Alzheimer Changes Far Earlier",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42769274": {
+      "checked_at": "2026-09-24T13:44:37.110402+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.everydayhealth.com/healthy-living/common-medications-linked-to-lower-dementia-risk/",
+            "outlet": "Everyday Health",
+            "title": "Are You Taking Any of These 5 Common Medications Linked to Lower Dementia Risk?"
+          },
+          {
+            "link": "https://www.sciencedaily.com/releases/2026/09/260901070520.htm",
+            "outlet": "ScienceDaily",
+            "title": "Early statin use linked to 15% lower dementia risk"
+          },
+          {
+            "link": "https://www.foxnews.com/health/common-cholesterol-drug-linked-lower-dementia-risk-started-early",
+            "outlet": "Fox News",
+            "title": "Common cholesterol drug linked to lower dementia risk when started early"
+          }
+        ],
+        "outlets": [
+          "Everyday Health",
+          "ScienceDaily",
+          "Fox News",
+          "News-Medical"
+        ],
+        "query": "Diabetes Drug Linked Lower Dementia Risk People Early Memory Loss",
+        "returned": 20,
+        "state": "widely_reported"
+      }
+    },
+    "42770466": {
+      "checked_at": "2026-09-24T13:44:47.024312+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "When Loved One Alzheimer Struggles Follow Conversation Behavior Problems More",
+        "returned": 4,
+        "state": "unreported"
+      }
+    },
+    "42773069": {
+      "checked_at": "2026-09-24T13:44:35.952953+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Blood Test Plus Brain Scan Predicted Who Would Decline Fastest",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42774284": {
+      "checked_at": "2026-09-24T13:44:20.736226+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.medicalnewstoday.com/articles/4-simple-blood-tests-may-spot-signs-dementia-earlier-than-brain-scans-symptoms",
+            "outlet": "Medical News Today",
+            "title": "Can a blood test predict dementia? 4 latest studies show promise"
+          }
+        ],
+        "outlets": [
+          "Medical News Today"
+        ],
+        "query": "Blood Tests Dementia Perform Well Real Clinic But Which Test",
+        "returned": 20,
+        "state": "lightly_reported"
+      }
+    },
+    "42777279": {
+      "checked_at": "2026-09-24T13:44:14.391055+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Black Dementia Caregivers Report Coping Well but Their Bodies Tell",
         "returned": 0,
         "state": "unreported"
       }

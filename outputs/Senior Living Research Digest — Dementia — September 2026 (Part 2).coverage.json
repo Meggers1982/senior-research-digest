@@ -1,0 +1,821 @@
+{
+  "coverage_checked": 14,
+  "coverage_cached": 9,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42441396": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42600788": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42561582": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42766299": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42777279": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42586247": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42774284": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Medical News Today"
+      ],
+      "articles": [
+        {
+          "title": "Can a blood test predict dementia? 4 latest studies show promise",
+          "outlet": "Medical News Today",
+          "link": "https://www.medicalnewstoday.com/articles/4-simple-blood-tests-may-spot-signs-dementia-earlier-than-brain-scans-symptoms"
+        }
+      ]
+    },
+    "42430965": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42567210": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42754545": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42430964": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42594757": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42485867": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42556583": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42773069": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42769274": {
+      "state": "widely_reported",
+      "outlets": [
+        "Everyday Health",
+        "ScienceDaily",
+        "Fox News",
+        "News-Medical"
+      ],
+      "articles": [
+        {
+          "title": "Are You Taking Any of These 5 Common Medications Linked to Lower Dementia Risk?",
+          "outlet": "Everyday Health",
+          "link": "https://www.everydayhealth.com/healthy-living/common-medications-linked-to-lower-dementia-risk/"
+        },
+        {
+          "title": "Early statin use linked to 15% lower dementia risk",
+          "outlet": "ScienceDaily",
+          "link": "https://www.sciencedaily.com/releases/2026/09/260901070520.htm"
+        },
+        {
+          "title": "Common cholesterol drug linked to lower dementia risk when started early",
+          "outlet": "Fox News",
+          "link": "https://www.foxnews.com/health/common-cholesterol-drug-linked-lower-dementia-risk-started-early"
+        }
+      ]
+    },
+    "42750559": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42456815": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42472523": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42744747": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42442665": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42770466": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42756469": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42777279": {
+      "pubdate": "2026 Sep 23",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    },
+    "42766299": {
+      "pubdate": "2026 Sep 21",
+      "journal": "JAMA neurology"
+    },
+    "42561582": {
+      "pubdate": "2026 Oct",
+      "journal": "The journal of prevention of Alzheimer's disease"
+    },
+    "42600788": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42441396": {
+      "pubdate": "2026 Sep 22",
+      "journal": "JAMA"
+    },
+    "42586247": {
+      "pubdate": "2026 Oct",
+      "journal": "Ageing research reviews"
+    },
+    "42430965": {
+      "pubdate": "2026 Oct",
+      "journal": "The journal of prevention of Alzheimer's disease"
+    },
+    "42567210": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42774284": {
+      "pubdate": "2026 Jul-Sep",
+      "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)"
+    },
+    "42485867": {
+      "pubdate": "2026 Dec",
+      "journal": "Neurobiology of aging"
+    },
+    "42754545": {
+      "pubdate": "2026 Sep 17",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42430964": {
+      "pubdate": "2026 Oct",
+      "journal": "The journal of prevention of Alzheimer's disease"
+    },
+    "42556583": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42594757": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42773069": {
+      "pubdate": "2026 Sep 22",
+      "journal": "Journal of Alzheimer's disease : JAD"
+    },
+    "42750559": {
+      "pubdate": "2026 Sep 17",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42456815": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42769274": {
+      "pubdate": "2026 Jul-Sep",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)"
+    },
+    "42442665": {
+      "pubdate": "2026 Nov 15",
+      "journal": "Journal of affective disorders"
+    },
+    "42756469": {
+      "pubdate": "2026 Jul-Sep",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)"
+    },
+    "42472523": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42770466": {
+      "pubdate": "2026 Sep 22",
+      "journal": "Journal of Alzheimer's disease : JAD"
+    },
+    "42744747": {
+      "pubdate": "2026 Sep 15",
+      "journal": "Journal of the American Geriatrics Society"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Another Alzheimer's Drug Falls Short: Tau-Targeting Pill Failed to Slow Decline \u2014 and the Higher Dose Looked Worse",
+      "journal": "JAMA",
+      "published": "2026 Sep 22;336(12):1017-1028",
+      "pmid": "42441396",
+      "doi": "10.1001/jama.2026.12768",
+      "the_study": "In a double-blind, placebo-controlled phase 2 trial at 72 sites in five countries, 327 people with early symptomatic Alzheimer disease (mean age 73.4; 61.5% women) were randomly assigned to a once-daily oral OGA inhibitor, ceperognastat, at 0.75 mg or 3 mg, or to placebo, and followed for 100 weeks. The drug produced no clinically meaningful benefit on the primary measure of cognition and daily function, and the 3 mg group actually progressed about 32% faster than placebo while experiencing more serious and severe adverse events (26.4% vs 15.7% serious events). Curiously, brain scans showed substantially less whole-brain volume loss on the drug, a finding that did not translate into better thinking or functioning.",
+      "why_it_matters": "It is a clear reminder that promising biological targets and encouraging scan results do not reliably translate into real-world benefit \u2014 and that a higher dose is not automatically a better one.",
+      "story_angle_primary": "If you or someone you love is weighing an Alzheimer's clinical trial, this is a good example of why to ask the study team exactly which outcomes are being measured \u2014 brain imaging changes alone are not the same as thinking and daily function improving, and this trial showed the two can move in opposite directions.",
+      "story_angle_secondary": "For senior living staff and family decision-makers fielding questions about new Alzheimer's pills in the news: this negative phase 2 result illustrates how much of the pipeline does not pan out, and supports realistic expectation-setting conversations with residents and families.",
+      "caveats": "Phase 2 trial conducted and authored entirely by Eli Lilly and Company employees (the drug's manufacturer); primary analysis was limited to participants with low-to-medium baseline tau, so results may not apply to people with advanced tau pathology; 100-week follow-up."
+    },
+    {
+      "headline": "Frailty That Worsens Raises Dementia Risk \u2014 and Depression May Be a Key Link",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1;414:122381",
+      "pmid": "42600788",
+      "doi": "10.1016/j.jad.2026.122381",
+      "the_study": "Researchers pooled 59,331 adults aged 50 and older from four major aging cohorts in the US, China, Europe, and England (HRS, CHARLS, SHARE, ELSA), using a harmonized 25-item frailty index. Over roughly 7.5 years, 9.5% developed dementia; frailty at baseline raised risk (hazard ratios 1.35-2.23) and frailty that worsened between waves raised it further (HRs 1.43-2.53). Frailty that improved was linked to lower dementia risk in two of four cohorts, and depressive symptoms statistically accounted for roughly 29%-45% of the frailty-dementia association.",
+      "why_it_matters": "Frailty is not a fixed destiny, and this suggests that the direction it is trending \u2014 plus mood \u2014 may matter as much as where someone stands today.",
+      "story_angle_primary": "Ask your clinician about a frailty check-up that looks at things like walking speed, grip strength, exhaustion, and weight loss \u2014 and mention low mood if you have it, since depressive symptoms tracked closely with the frailty-dementia link in this very large study.",
+      "story_angle_secondary": "For care teams, the specific markers that showed back-and-forth relationships with cognition \u2014 walking limitations, difficulty managing finances, and psychiatric problems \u2014 are practical early warning signals worth tracking systematically rather than noting anecdotally.",
+      "caveats": "Observational cohort data cannot establish causation; frailty reversal was associated with lower risk in only two of four cohorts (SHARE and CHARLS), not in HRS or ELSA; many measures rely on self-report; the authors explicitly note that whether treating frailty or depression reduces dementia remains unproven."
+    },
+    {
+      "headline": "A Simple Memory Test Predicted Who Would Decline, Even Among People Who Looked Cognitively Normal",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Oct;13(8):100641",
+      "pmid": "42561582",
+      "doi": "10.1016/j.tjpad.2026.100641",
+      "the_study": "Investigators applied the Stages of Objective Memory Impairment (SOMI) system \u2014 based on a picture-based cued recall test \u2014 to 911 cognitively normal participants in the A4 secondary prevention trial (mean age 72, 59% female, 62% APOE \u03b54 carriers), all of whom had elevated brain amyloid. Over 4.5 years, 37% progressed to a Clinical Dementia Rating above 0. Compared with the lowest SOMI stage, risk of progression rose stepwise, reaching more than triple (HR 3.04) for the highest stages, and SOMI remained predictive even after accounting for the blood biomarker p-tau217.",
+      "why_it_matters": "A low-cost, non-invasive memory test can flag who among apparently normal older adults is at highest near-term risk \u2014 information that currently requires expensive scans or blood biomarkers.",
+      "story_angle_primary": "If you have been told your memory testing is 'normal' but you sense a change, it is reasonable to ask whether a more sensitive cued-recall memory test is available \u2014 but remember that a higher-risk result is a probability, not a diagnosis, and many people in the highest stages did not progress.",
+      "story_angle_secondary": "For professionals screening for prevention trials or planning ahead with families, this supports using detailed memory testing as an affordable enrichment step alongside \u2014 not instead of \u2014 biomarker testing.",
+      "caveats": "Observational analysis within a trial population that was highly selected (all amyloid-positive, largely APOE \u03b54 carriers, predominantly well-educated volunteers), so findings may not generalize to the broader older population; one author receives a royalty for commercial use of the underlying test; multiple authors report extensive pharmaceutical industry ties."
+    },
+    {
+      "headline": "A New Way of Reading Tau Brain Scans Catches Alzheimer's Changes Far Earlier",
+      "journal": "JAMA Neurol",
+      "published": "2026 Sep 21:e263253",
+      "pmid": "42766299",
+      "doi": "10.1001/jamaneurol.2026.3253",
+      "the_study": "In the multicenter HEAD study across nine sites in North America and Europe, 681 participants aged 50-90 \u2014 spanning cognitively unimpaired to dementia, mean age 69.3, 53.9% female \u2014 underwent two to four different tau PET scans plus amyloid imaging and MRI. Clinicians reading scans blind used a new five-category framework (negative, low, moderate, high, atypical) that showed strong agreement between readers and across different tracers. Compared with the currently approved yes/no reading, the new framework identified nearly two to three times as many tau-positive people among the cognitively unimpaired, and the categories tracked stepwise with cognition, amyloid burden, and blood p-tau217.",
+      "why_it_matters": "Standardized staging could make tau scans comparable across hospitals and tracers, helping identify people early enough that emerging treatments might still make a difference.",
+      "story_angle_primary": "If a tau PET scan is being discussed for you, it is worth asking whether your center reports a simple positive/negative result or a graded stage \u2014 and what that stage means for your situation, since more sensitive reading also means more people get labeled 'positive' without necessarily developing symptoms.",
+      "story_angle_secondary": "For families comparing memory clinics, this work signals a shift toward tracer-agnostic, standardized reporting; results from different centers and scan types may become more directly comparable, which matters when seeking second opinions or trial eligibility.",
+      "caveats": "Cross-sectional design with no follow-up, so it is unknown how many early-stage-positive people will actually decline; participants were research volunteers at specialized academic centers and may not represent the general older population; numerous authors report financial relationships with imaging and pharmaceutical companies, including Eli Lilly, Avid Radiopharmaceuticals, and Roche."
+    },
+    {
+      "headline": "Black Dementia Caregivers Report Coping Well \u2014 but Their Bodies Tell a Different Story",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Sep 23;74(Pt A):104362",
+      "pmid": "42777279",
+      "doi": "10.1016/j.gerinurse.2026.104362",
+      "the_study": "A six-member review team synthesized 97 peer-reviewed studies on the health of Black family caregivers of people with dementia, drawing on six research databases and organizing findings with the Roy Adaptation Model. The literature consistently showed low-to-moderate depressive symptoms, high positive reappraisal, and strong social support. Yet the less-studied physical health data pointed to elevated cardiovascular risk, including hypertension, and impaired cortisol recovery from stress \u2014 a notable gap between how caregivers describe their health and what objective measures show.",
+      "why_it_matters": "Caregivers who say they are managing fine may still be accumulating real cardiovascular risk, meaning that verbal reassurance is not an adequate substitute for actual health monitoring.",
+      "story_angle_primary": "If you are caring for a spouse or parent with dementia, resilience and faith are genuine strengths \u2014 but they do not protect your blood pressure. Keep your own checkups scheduled, and ask for a blood pressure and cardiovascular risk review even when you feel you are coping well.",
+      "story_angle_secondary": "For clinicians and program staff: screening caregivers with depression questionnaires alone may miss the people most at risk. Building blood pressure checks and physical health referrals into caregiver support programs addresses a documented blind spot, particularly for Black caregivers whose self-reports tend to look reassuring.",
+      "caveats": "Integrative review of heterogeneous existing studies rather than new primary data; physical health outcomes in the underlying literature were largely self-reported and infrequently examined; findings are descriptive and cannot establish that caregiving causes the cardiovascular risk observed; funded by the National Institute on Aging (K01AG065420)."
+    },
+    {
+      "headline": "Lifestyle Programs Can Change Habits in People Worried About Their Memory \u2014 If They're Built the Right Way",
+      "journal": "Ageing Res Rev",
+      "published": "2026 Oct",
+      "pmid": "42586247",
+      "doi": "10.1016/j.arr.2026.103298",
+      "the_study": "Researchers systematically reviewed 26 papers covering 23 randomized controlled trials of psychosocial and lifestyle interventions for older adults with mild cognitive impairment or subjective memory concerns, analyzing them through a behavior-change framework (capability, opportunity, motivation). Programs that combined nutritional education with counseling in a socially supportive setting for six months or more reliably improved diet (moderate-certainty evidence), and physical activity improved most when programs added structured training plus practical enablement such as tailored plans and equipment. Interventions that addressed capability, opportunity and motivation at the same time were the most effective overall, but evidence that the behavior changes actually translated into better cognition was rated low certainty. Only 13% of trials recorded participants' ethnicity and 9% recorded socioeconomic status.",
+      "why_it_matters": "Millions of older adults are told to 'change their lifestyle' after a memory concern, and this review shows which program ingredients actually produce sustained change \u2014 and warns that the link from behavior change to protected cognition is still not proven.",
+      "story_angle_primary": "If you've been told your memory changes put you at higher risk, look for programs that run at least six months, include group or social support, give you hands-on coaching and tools rather than just advice \u2014 and ask the provider how they will help you stay motivated, not just informed.",
+      "story_angle_secondary": "For senior living operators and community program designers: the review is effectively a blueprint \u2014 brief education-only workshops underperform, while sustained, socially embedded, resource-supplied programs move the needle. It also flags a glaring equity gap, since almost no trial reported or analyzed results for ethnic minority or lower-income participants.",
+      "caveats": "Systematic review of heterogeneous trials with low-certainty evidence linking behavior change to cognitive outcomes; all five authors were investigators on one of the included trials (Apple-Tree), though they used predefined protocols to limit bias; very little data on underserved populations, limiting generalizability."
+    },
+    {
+      "headline": "Blood Tests for Dementia Perform Well in a Real Clinic \u2014 But Which Test Matters Depends on the Diagnosis",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Sep 21",
+      "pmid": "42774284",
+      "doi": "10.1002/dad2.70490",
+      "the_study": "Researchers measured three blood biomarkers \u2014 GFAP, neurofilament light (NfL) and p-tau217 \u2014 in 118 patients attending a real-world clinic with cognitive complaints, who were classified as having non-neurodegenerative conditions (n=52), early-onset Alzheimer's disease (n=39), frontotemporal dementia (n=20) or other neurodegenerative dementia (n=7). GFAP separated early-onset Alzheimer's from non-neurodegenerative causes very well (AUC 0.924) but was poor at identifying frontotemporal dementia; NfL flagged both FTD and Alzheimer's but struggled to tell them apart. Notably, severe kidney impairment inflated NfL levels while GFAP appeared unaffected.",
+      "why_it_matters": "Blood-based dementia tests are moving rapidly into ordinary clinics, and this shows they can help sort neurodegenerative from non-neurodegenerative causes of cognitive complaints \u2014 while making clear that no single blood test settles a diagnosis on its own.",
+      "story_angle_primary": "If a clinician offers you a blood biomarker test for memory problems, ask what specifically it can and cannot rule out, and mention any kidney disease you have \u2014 reduced kidney function can push one of these markers (NfL) artificially high.",
+      "story_angle_secondary": "For care teams supporting younger-onset dementia patients: results here came from a genuine clinical population rather than a research cohort, but with only 20 FTD cases, families should expect blood tests to be one input alongside imaging and clinical assessment, not a shortcut to a subtype diagnosis.",
+      "caveats": "Modest sample (N=118) with very small subgroups (7 in the 'other neurodegenerative' group); single clinical setting; cross-sectional with no long-term diagnostic confirmation; several authors report extensive pharmaceutical consulting and advisory relationships (Eisai, Biogen, Lilly, Roche, Novo Nordisk among others) and equity holdings, though the work was grant-funded."
+    },
+    {
+      "headline": "Could an Eye Scan Someday Spot Alzheimer's? Genetic Study Finds Real Retinal Changes \u2014 and Tempers the Hype",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Oct",
+      "pmid": "42430965",
+      "doi": "10.1016/j.tjpad.2026.100635",
+      "the_study": "Using bidirectional Mendelian randomization \u2014 a genetic method designed to probe causation rather than mere correlation \u2014 researchers tested whether Alzheimer's disease drives changes in 13 measures of retinal and optic nerve structure, drawing on UK Biobank eye imaging data from 52,798 participants. They found strong evidence that genetic liability to Alzheimer's increases arteriolar tortuosity (twistiness of the small retinal arteries), while evidence for effects on retinal nerve fiber and ganglion cell layer thinning was weak. An apparent link between optic disc area and Alzheimer's was probably explained by refractive error.",
+      "why_it_matters": "It supports the idea that the earliest blood-vessel signs of Alzheimer's may be visible at the back of the eye, a cheap and noninvasive place to look \u2014 but it also shows the retinal thinning measures often touted as dementia markers are not clearly caused by the disease.",
+      "story_angle_primary": "This is early-stage genetic research, not a screening recommendation \u2014 keep your routine eye exams for the reasons you already have them, and be skeptical of commercial claims that a retinal scan can currently tell you whether you're developing Alzheimer's.",
+      "story_angle_secondary": "For professionals fielding questions about consumer 'eye scans for dementia': the strongest signal here is vascular, not neural, and the authors explicitly say clinical utility remains undetermined.",
+      "caveats": "Genetic instrumental-variable analysis rather than direct patient follow-up; effect sizes for the significant vascular finding were very small; several borderline results (p\u22480.05-0.18); UK Biobank participants are predominantly of European ancestry and healthier than average, limiting generalizability; multiple authors report industry ties, including a director of a polygenic risk score company and an advisory board role at an eye-imaging firm."
+    },
+    {
+      "headline": "Optimism Is Linked to Less Depression in Your 70s and 80s \u2014 But It Doesn't Cushion Life's Hard Blows",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1",
+      "pmid": "42567210",
+      "doi": "10.1016/j.jad.2026.122359",
+      "the_study": "Researchers followed 10,791 participants aged 70 and older from the ASPREE Longitudinal Study of Older Persons \u2014 all free of dementia, depression, cardiovascular disease and disability at the start \u2014 for a median of 3.5 years, measuring dispositional optimism and pessimism and tracking new-onset depressive symptoms. After adjusting for sociodemographic, lifestyle, medical factors and even genetic risk for depression, optimism was linked to lower depression risk (HR 0.92) and pessimism to higher risk (HR 1.07), while stressful life events raised risk (HR 1.17). Crucially, optimism did not blunt the depressive impact of stressful events \u2014 stressors hit optimists and pessimists about equally hard.",
+      "why_it_matters": "It challenges the popular assumption that a positive outlook armors older adults against bereavement, illness or other late-life shocks, suggesting that support after a major stressor matters regardless of someone's temperament.",
+      "story_angle_primary": "If you consider yourself an optimist, don't assume you'll simply ride out a major loss or health crisis \u2014 watch for persistent low mood after a stressful event and seek help early, just as anyone would.",
+      "story_angle_secondary": "For families and senior living staff: don't triage emotional support by personality. A resident known for a sunny disposition is just as vulnerable to depression after a spouse's death, a fall or a move as a more pessimistic neighbor, so screen everyone after major life events.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; depression measured by self-reported symptom scale (CES-D-10) rather than clinical diagnosis; participants were relatively healthy, independent adults free of major disease at baseline, so findings may not generalize to frailer populations; median follow-up of only 3.5 years."
+    },
+    {
+      "headline": "A Heart Attack Diagnosis Shouldn't Be Written Off Because of Dementia",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 17",
+      "pmid": "42754545",
+      "doi": "10.1111/jgs.70705",
+      "the_study": "Researchers analyzed Medicare fee-for-service claims from a 100% national sample covering 117,318 beneficiaries aged 65 and older who arrived at an emergency department with a major heart attack (STEMI) between 2017 and 2022 and underwent cardiac catheterization. Of those, 7,348 had Alzheimer's disease or a related dementia. Community-dwelling patients with dementia averaged about 38 fewer days alive at home in the following year than those without dementia (225 vs. 299), but more than half still spent over 300 days at home. Outcomes were far worse for those admitted from a nursing home, where one-year survival was 42.4% and the gap widened to roughly 72 days.",
+      "why_it_matters": "It shows that a dementia diagnosis by itself does not predict a poor outcome after emergency heart attack treatment, which matters when families and clinicians are making high-pressure decisions in the ED.",
+      "story_angle_primary": "If you or a loved one lives with dementia and has a heart condition, it's worth discussing in advance \u2014 while things are calm \u2014 how aggressively you'd want a heart attack treated, and knowing that many people with dementia who live in the community do go on to spend most of the following year at home.",
+      "story_angle_secondary": "For families and care staff: where someone is living before the event appears to matter more than the dementia label itself. When advocating in an emergency department, be ready to describe the person's baseline function and living situation, not just their diagnosis, and ask how the proposed treatment fits their stated goals.",
+      "caveats": "Retrospective observational analysis of administrative claims data; cannot establish causation. Dementia identification relies on claims codes, which can misclassify. Results reflect Medicare fee-for-service beneficiaries who received cardiac catheterization, so they may not generalize to those who never reached that point."
+    },
+    {
+      "headline": "Even Patients Actively Seeking New Alzheimer's Drugs Are Missing Basic Brain-Health Steps",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Oct",
+      "pmid": "42430964",
+      "doi": "10.1016/j.tjpad.2026.100640",
+      "the_study": "Clinicians at Brigham and Women's Hospital surveyed 150 patients with mild cognitive impairment or mild dementia due to Alzheimer's who were pursuing anti-amyloid antibody therapy, and compared them with 117 similar patients who were not, scoring each on 15 modifiable risk factors including diet, exercise, sleep, hearing, mood, blood pressure, BMI, LDL cholesterol and HbA1c. Fewer than 3% of the treatment-seeking group met all 15 recommendations, and 44\u201363% fell short on physical activity, mood/stress, HbA1c, blood pressure and BMI. More than a quarter fell short on 11 of the 15 factors, and adherence was no better in the group pursuing infusion therapy. HbA1c results were missing from the medical record for over 42% of patients and LDL for over 23%.",
+      "why_it_matters": "The most motivated patients in Alzheimer's care are still leaving substantial, controllable risk on the table \u2014 and their own medical records often lack the lab values needed to spot it.",
+      "story_angle_primary": "If you're being evaluated for an Alzheimer's drug, ask your clinician to go through the modifiable risk list with you \u2014 blood pressure, blood sugar, weight, activity, sleep, hearing, mood \u2014 and request current HbA1c and LDL results if they aren't in your chart. These are the levers you control alongside any medication.",
+      "story_angle_secondary": "For families and senior living professionals: a new-generation drug can crowd out attention to the unglamorous basics. Building a simple checklist review into care planning \u2014 and flagging gaps in lab data to the primary care team \u2014 may add more measurable value than any single appointment.",
+      "caveats": "Single-center quality improvement study at an academic specialty clinic; the population is unusually engaged and may not generalize. Most risk factors were self-reported via e-survey, with no control group in the conventional sense and no outcome data on cognition. Funded by the Gaudet Family Research Fund, Wimberly Family Clinical Care Research Fund, and Alzheimer Innovation Fund at Brigham and Women's Hospital."
+    },
+    {
+      "headline": "When Dementia Strikes Before 65, Caregivers Carry More and Get Less Help",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42594757",
+      "doi": "10.1016/j.archger.2026.106375",
+      "the_study": "Using Taiwan's National Dementia Registry, researchers compared 1,816 patient\u2013caregiver pairs: 167 with young-onset dementia (symptoms before age 65) and 1,649 with late-onset dementia. Caregivers in the young-onset group reported significantly higher burden, driven by greater functional impairment and neuropsychiatric symptoms \u2014 with anxiety standing out as the specific symptom most tied to burden. Yet long-term care service use one year later was lower in the young-onset group (17.4% vs. 26.1%); within that group, not living with the family caregiver and more severe agitation predicted greater service use.",
+      "why_it_matters": "Families facing dementia in a person's 50s or early 60s appear to be shouldering the heaviest load while tapping the fewest formal supports, pointing to services that aren't designed for their age group or life stage.",
+      "story_angle_primary": "If you've been diagnosed with dementia before 65, ask specifically what long-term care and respite services you qualify for now rather than later \u2014 and raise anxiety symptoms with your clinician, since they were the symptom most strongly linked to strain on the person caring for you.",
+      "story_angle_secondary": "For caregivers and providers: existing adult day programs and residential options are largely built around people in their 80s, and younger clients may decline them for that reason. Ask agencies directly about age-appropriate programming, and treat caregiver anxiety and agitation management as a service-access issue, not just a clinical one.",
+      "caveats": "Observational registry study; cannot establish causation. Only 167 young-onset cases, limiting subgroup precision. Caregiver burden was self-reported, follow-up was one year, and Taiwan's long-term care system and family caregiving norms may not generalize to other countries."
+    },
+    {
+      "headline": "Conscientious People Show Fewer Signs of Nerve Damage in Blood Tests",
+      "journal": "Neurobiol Aging",
+      "published": "2026 Dec",
+      "pmid": "42485867",
+      "doi": "10.1016/j.neurobiolaging.2026.07.005",
+      "the_study": "Researchers measured two blood markers of brain injury \u2014 neurofilament light (NfL, a marker of nerve fiber damage) and GFAP (a marker of reactive brain inflammation) \u2014 in 4,076 participants from the Health and Retirement Study, mean age 67, of whom 19.3% were cognitively impaired. Higher neuroticism was linked to higher NfL, while extraversion, openness, agreeableness and conscientiousness were linked to lower NfL. After adjusting for demographics, health behaviors and medical conditions, conscientiousness remained independently associated with lower NfL. Personality was largely unrelated to GFAP, and the findings held regardless of cognitive status, age, sex or APOE \u03b54 status.",
+      "why_it_matters": "It adds biological texture to prior evidence that personality tracks with dementia risk, suggesting the organized, disciplined traits captured by conscientiousness may show up in measurable brain-injury markers.",
+      "story_angle_primary": "Personality isn't destiny, and this study can't tell you that changing your habits changes your blood markers \u2014 but the behaviors bundled into conscientiousness, like keeping appointments, taking medications on schedule and following through on exercise plans, are things you can practice regardless of temperament.",
+      "story_angle_secondary": "For families and professionals: the researchers explicitly note the arrow may point the other way \u2014 early neurodegeneration can itself alter personality. A noticeable shift toward disorganization or increased anxiety in an older adult is worth mentioning to a clinician rather than dismissing as 'just getting older.'",
+      "caveats": "Cross-sectional observational analysis; cannot establish causation, and the authors state they cannot determine whether personality drives the biology or reflects it. Personality was self-reported. Blood biomarkers are not diagnostic of dementia on their own, and effect sizes were small (\u03b2=-0.039 for conscientiousness)."
+    },
+    {
+      "headline": "Diabetes Plus Depression Together Carry a Fourfold Dementia Risk",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1",
+      "pmid": "42556583",
+      "doi": "10.1016/j.jad.2026.122353",
+      "the_study": "Researchers analyzed 15,765 UK Biobank participants, including 1,230 with major depression only, 3,644 with type 2 diabetes only, and 721 with both conditions. Those with both diabetes and depression had poorer cognitive performance and more than four times the 15-year dementia incidence compared with controls (HR 4.44). Blood proteomics showed 41 of 60 apoptosis-related (programmed cell death) proteins were elevated in the comorbid group, four of them higher than in either condition alone, and nine were linked to white matter damage on brain scans.",
+      "why_it_matters": "It quantifies how sharply dementia risk escalates when metabolic and mood problems occur together \u2014 a combination that is common in older adults and often managed by separate clinicians who don't talk to each other.",
+      "story_angle_primary": "If you're living with both type 2 diabetes and depression, treat them as one connected problem rather than two separate ones: make sure the doctor managing your blood sugar knows about your mood treatment and vice versa, and ask whether your cognitive health is being monitored.",
+      "story_angle_secondary": "For families and care teams: this pairing is a practical flag for closer cognitive follow-up and better care coordination. The protein findings are research-stage only \u2014 there is no blood test here you can order today.",
+      "caveats": "Retrospective observational analysis of an existing cohort; cannot establish causation, and the association may partly reflect shared underlying factors. UK Biobank participants are healthier and less diverse than the general population, limiting generalizability. The apoptosis protein findings are exploratory and have no current clinical application; proteins were not associated with cognitive performance or brain atrophy."
+    },
+    {
+      "headline": "A Blood Test Plus a Brain Scan Predicted Who Would Decline Fastest",
+      "journal": "J Alzheimers Dis.",
+      "published": "2026 Sep 22",
+      "pmid": "42773069",
+      "doi": "10.1177/13872877261489619",
+      "the_study": "Researchers in Taiwan prospectively enrolled 100 adults aged 65 and older with mild cognitive impairment or mild dementia and gave each one a full clinical workup, brain MRI, an amyloid PET scan, and a blood test for phosphorylated tau-217 (p-tau217). Amyloid PET came back positive in 45% of participants and changed the working diagnosis in 39% of cases. The blood test identified amyloid-positive patients reasonably well (AUC 0.855), and both markers independently predicted faster cognitive decline over a median 1.3 years \u2014 people positive on both declined fastest.",
+      "why_it_matters": "It suggests a relatively simple blood draw can flag which people with early memory problems are most likely to worsen quickly, and that a sizeable share of early diagnoses are revised once biomarkers are added.",
+      "story_angle_primary": "If you or a partner has been given a vague diagnosis of \"mild memory problems,\" it is reasonable to ask your neurologist whether amyloid or p-tau217 biomarker testing is available where you're seen, what it would and would not tell you, and whether the result would change your treatment or planning.",
+      "story_angle_secondary": "For families and care planners, the notable number here is that roughly 4 in 10 diagnoses shifted after biomarker testing \u2014 a reminder that an early label is provisional, and that care plans, expectations and legal and financial planning may need revisiting after a full workup.",
+      "caveats": "Small N (100), single health system in Taiwan, short median follow-up (1.3 years), population may not generalize to other ethnic or healthcare settings; biomarker results do not by themselves dictate treatment."
+    },
+    {
+      "headline": "Diabetes Drug Linked to Lower Dementia Risk in People With Early Memory Loss",
+      "journal": "Alzheimers Dement (N Y).",
+      "published": "2026 Sep 20",
+      "pmid": "42769274",
+      "doi": "10.1002/trc2.70315",
+      "the_study": "Using a large global health-records network, researchers designed an analysis that mimics a randomized trial, comparing 1,320 propensity-matched adults (mean age 67, 702 women) who had both type 2 diabetes and mild cognitive impairment and who newly started either a GLP-1 receptor agonist or a DPP4 inhibitor. Over up to five years, dementia developed in 101 GLP-1 users versus 132 DPP4i users (hazard ratio 0.74). Cumulative incidence at a mean 3.9 years was 15.5% versus 20.4% \u2014 about one fewer dementia diagnosis for every 21 people treated. Sensitivity analyses, including comparison against basal insulin, supported the finding.",
+      "why_it_matters": "GLP-1 drugs are already widely prescribed for diabetes and weight, so the possibility that one class may also slow progression from mild cognitive impairment to dementia is directly relevant to millions of older adults choosing among diabetes medications.",
+      "story_angle_primary": "If you have type 2 diabetes and have been told you have mild cognitive impairment, it's fair to ask your doctor how your current diabetes medication was chosen and whether a GLP-1 agonist is appropriate for you \u2014 but note this is early, non-randomized evidence and a recent randomized trial in early Alzheimer's found no cognitive benefit.",
+      "story_angle_secondary": "For clinicians and senior living health teams, this adds a cognitive dimension to diabetes formulary conversations in residents with MCI, while underscoring that the definitive randomized evidence in this specific population doesn't yet exist.",
+      "caveats": "Observational database study (cannot establish causation; explicitly labeled hypothesis-generating by the authors), potential residual confounding by who gets prescribed which drug, and extensive pharmaceutical industry ties among authors including Novo Nordisk, Eli Lilly, AstraZeneca and Regeneron employment/consulting; the EVOKE randomized trials of oral semaglutide found no slowing of decline in early Alzheimer's."
+    },
+    {
+      "headline": "Even a Well-Integrated Health System Struggles to Deliver Dementia Care, Clinicians Say",
+      "journal": "J Am Geriatr Soc.",
+      "published": "2026 Sep 17",
+      "pmid": "42750559",
+      "doi": "10.1111/jgs.70698",
+      "the_study": "Researchers interviewed 28 clinicians \u2014 social workers, psychologists, geriatricians, neurologists and others \u2014 at six Veterans Affairs facilities chosen to vary by size, rurality, racial diversity and geography, between August 2024 and July 2025. Clinicians praised the VA's interdisciplinary home-based and clinic teams, national caregiver support program, dementia committees and shared electronic records. But they consistently named four problem areas: screening and diagnosis, staff training, care pathways, and access to services.",
+      "why_it_matters": "The VA is often held up as the model of coordinated care, so finding persistent gaps there tells families everywhere that they may still need to actively navigate diagnosis, referrals and services rather than assume the system will connect the dots.",
+      "story_angle_primary": "Don't assume your health system will automatically route you to dementia services \u2014 ask directly who your point of contact is after a diagnosis, what the referral pathway looks like, and what caregiver support programs you're eligible for.",
+      "story_angle_secondary": "For senior living operators and care coordinators, this maps the specific weak joints \u2014 diagnosis, staff dementia training, clear pathways, service access \u2014 worth auditing in your own organization, and highlights cross-site learning as a low-cost improvement lever.",
+      "caveats": "Qualitative interviews with a small purposive sample (28 clinicians, 6 facilities) within a single national system; clinician perspectives only, no patient or family voices, no outcome data; VA patient population may not generalize."
+    },
+    {
+      "headline": "In Bipolar Disorder, Some Older Adults' Thinking Problems Rival Dementia",
+      "journal": "J Affect Disord.",
+      "published": "2026 Dec 1",
+      "pmid": "42456815",
+      "doi": "10.1016/j.jad.2026.122273",
+      "the_study": "Brazilian researchers assessed cognition and everyday functioning in 108 people with bipolar disorder and 39 people with diagnosed major neurocognitive disorder (dementia), using the MMSE, MoCA, neuropsychological testing and the Functioning Assessment Short Test. They sorted the bipolar group into three profiles: dementia-like (69 people), mild (22) and preserved (17). The dementia-like group performed about as poorly as the dementia group on verbal fluency and memory, and older age, hypertension and more depressive symptoms were associated with worse profiles.",
+      "why_it_matters": "It suggests that thinking and functional problems in older adults with long-standing bipolar disorder can be profound and shouldn't be dismissed as just mood symptoms \u2014 nor automatically assumed to be Alzheimer's disease.",
+      "story_angle_primary": "If you live with bipolar disorder and have noticed memory or word-finding trouble, raise it specifically with your psychiatrist rather than chalking it up to mood or medication; the study also points to blood pressure control and depressive symptom treatment as things worth discussing.",
+      "story_angle_secondary": "For families and care staff, this is a caution against two errors: assuming a resident's confusion is \"just their bipolar,\" and assuming it must be Alzheimer's. Careful cognitive and functional assessment should distinguish the two.",
+      "caveats": "Cross-sectional design (cannot establish causation or direction), modest sample sizes, single-center Brazilian clinical population that may not generalize, and cognitive profiles were defined by screening-test cutoffs rather than independent diagnostic adjudication."
+    },
+    {
+      "headline": "Daily Mouth Care Helped Some Nursing Home Residents Get Off Feeding Tubes",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov (Epub 2026 Jul 2)",
+      "pmid": "42472523",
+      "doi": "10.1016/j.archger.2026.106350",
+      "the_study": "Researchers ran an open-label randomized controlled trial across eight long-term care facilities in Taiwan, comparing daily 30-40 minute one-on-one \"comprehensive oral care\" \u2014 facial and intraoral muscle massage, salivary gland stimulation, and oral moisturizing \u2014 against routine oral hygiene in 77 residents with swallowing difficulty who were being fed by nasogastric tube (40 intervention, 37 control). After six months, 16.7% of the intervention group had their feeding tube removed and returned to full oral intake, compared with none in the control group, and swallowing function scores (Functional Oral Intake Scale) were significantly better. Dementia was the most common underlying condition among those who successfully came off the tube. There were no differences in body weight change, pneumonia rates, or mortality.",
+      "why_it_matters": "Nasogastric tube feeding is common, uncomfortable, and often treated as permanent in long-term care; this trial suggests a low-tech, non-drug daily routine can restore eating by mouth for a meaningful minority of residents, including those with dementia.",
+      "story_angle_primary": "If you or your spouse is being fed through a nasogastric tube in a care facility, it is fair to ask the staff whether a structured daily oral care program \u2014 not just tooth brushing, but massage, salivary stimulation and moisturizing \u2014 is offered, and whether a swallowing reassessment is scheduled. Tube feeding is not always a one-way door.",
+      "story_angle_secondary": "For senior living operators and directors of nursing, this is a staffing-and-training question: the intervention required a dedicated 30-40 minutes per resident per day, and the payoff was measured in tube removals and swallowing scores rather than in pneumonia reduction. Consider whether your facility's oral care protocol goes beyond hygiene, and how you would resource a daily one-on-one session.",
+      "caveats": "Small sample (N=77), open-label design with no blinding, conducted in Taiwanese long-term care facilities so results may not generalize to other systems; only eight participants in the intervention group actually achieved full oral intake; no benefit was seen for pneumonia or weight; six-month follow-up."
+    },
+    {
+      "headline": "Nearly One in Four Hospice Patients With Dementia Left Hospice Alive \u2014 and For-Profit Agencies Led the Trend",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep 15 (online ahead of print)",
+      "pmid": "42744747",
+      "doi": "10.1111/jgs.70707",
+      "the_study": "Investigators analyzed Medicare records for 1,436,018 adults aged 65 and older admitted to hospice with dementia as the qualifying terminal illness between 2012 and 2019, tracking \"live discharge\" (disenrollment) and the agency-reported reason. Overall disenrollment barely moved, from 24.0% in 2012 to 23.2% in 2019. Discharges for \"extended prognosis\" (living longer than expected) fell after federal policy changes in 2014 and 2016, but transfers to another hospice rose from 2.6% to 4.0% and moves out of the service area from 0.7% to 1.5%. For-profit hospices consistently discharged patients alive at higher rates than nonprofits, and the gap in transfers, moves, and revocations widened.",
+      "why_it_matters": "A live discharge from hospice is a disruptive transition that can abruptly end nursing visits, aide support, equipment, and medication coverage for a family already stretched thin \u2014 and the odds of it happening vary by the agency you choose.",
+      "story_angle_primary": "Before you sign on with a hospice, ask directly: what percentage of your dementia patients are discharged alive, and what happens to my care if I live longer than six months? Dementia is notoriously hard to prognosticate, and you are entitled to know an agency's track record and ownership status.",
+      "story_angle_secondary": "For families and care staff arranging hospice for a resident with dementia, build a contingency plan at enrollment \u2014 who to call if the agency initiates discharge, how to appeal, and how care will continue during a gap. The data suggest transfers and service-area \"moves\" are the growing forms of disruption, especially at for-profit agencies.",
+      "caveats": "Observational, serial cross-sectional analysis of administrative claims \u2014 it cannot establish that ownership causes discharge patterns; relies on agency-reported reasons that may not reflect actual circumstances; data end in 2019 and predate pandemic-era changes in hospice."
+    },
+    {
+      "headline": "Lithium Linked to Lower Dementia Risk Than Valproate in People With Bipolar Disorder",
+      "journal": "J Affect Disord",
+      "published": "2026 Nov 15 (Epub 2026 Jul 13)",
+      "pmid": "42442665",
+      "doi": "10.1016/j.jad.2026.122251",
+      "the_study": "Using the TriNetX global health records network, researchers identified adults aged 18-60 newly diagnosed with bipolar disorder who started either lithium or valproate between 2015 and 2024, excluding anyone with existing dementia, then matched 41,086 patients in each group on comorbidities and kidney function (mean age 37.4; 54.4% female). Over five years, those who started lithium had about a 19% lower rate of new dementia diagnoses than those who started valproate (hazard ratio 0.815). The finding held across 10-year follow-up and in sensitivity analyses accounting for deaths.",
+      "why_it_matters": "Mood stabilizers are taken for decades, and this very large comparison suggests the choice between two common options may carry different long-term brain consequences \u2014 a conversation worth having well before old age.",
+      "story_angle_primary": "If you or a family member takes a mood stabilizer for bipolar disorder, this is a reason to ask your prescriber how your particular medication fits your long-term cognitive health \u2014 but not a reason to stop or switch on your own. Abruptly changing bipolar medication carries real risks, and this study cannot prove lithium protects the brain.",
+      "story_angle_secondary": "For clinicians and care coordinators supporting residents with long-standing psychiatric histories, this adds to the case for documenting lifetime mood-stabilizer exposure when evaluating unexplained cognitive decline, and for involving psychiatry rather than making unilateral changes.",
+      "caveats": "Observational cohort using electronic health records \u2014 cannot establish causation; no dosage data, so no dose-response analysis was possible; dementia diagnoses came from coded records of variable quality; the cohort was younger (mean age 37) and studied early-onset dementia, so findings may not transfer to late-life dementia risk."
+    },
+    {
+      "headline": "When a Loved One With Alzheimer's Struggles to Follow Conversation, Behavior Problems Are More Likely",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Sep 22 (online ahead of print)",
+      "pmid": "42770466",
+      "doi": "10.1177/13872877261489803",
+      "the_study": "At a Japanese memory clinic, researchers assessed 101 patients with clinically diagnosed Alzheimer's disease, using structured caregiver interviews to rate \"functional hearing difficulty\" \u2014 trouble following everyday listening situations that standard hearing tests don't capture. Greater functional hearing difficulty was specifically associated with poorer verbal fluency, but not with other cognitive test scores, and was also associated with more severe behavioral and psychological symptoms of dementia on the Neuropsychiatric Inventory. Exploratory analysis suggested the link to behavioral symptoms may run partly through verbal fluency.",
+      "why_it_matters": "Difficulty following conversation in real-world settings may be an overlooked driver of agitation, anxiety and other distressing behaviors in Alzheimer's \u2014 and it may be missed entirely by a normal audiogram.",
+      "story_angle_primary": "If you have memory problems and find that you can hear sounds but can't follow what people are saying in a busy room, mention it specifically at your next appointment \u2014 a clean hearing test doesn't rule out a real, treatable communication problem. Ask about listening strategies, quieter settings, and whether hearing devices might help.",
+      "story_angle_secondary": "For caregivers and care home staff, this supports treating communication breakdown as a first-line explanation for agitation and distress: reduce background noise, face the person, slow down, use short sentences, and confirm understanding before assuming a behavior is \"just the dementia.\"",
+      "caveats": "Cross-sectional and single-center with about 100 participants \u2014 it cannot show whether hearing difficulty causes behavioral symptoms or the reverse; hearing difficulty was caregiver-rated rather than measured audiometrically; Japanese memory clinic population may not generalize."
+    },
+    {
+      "headline": "Researchers Argue Post-Surgery Delirium Is \"Acute Brain Failure,\" Not a Passing Confusion",
+      "journal": "Alzheimers Dement (N Y)",
+      "published": "2026 Sep 16",
+      "pmid": "42756469",
+      "doi": "10.1002/trc2.70324",
+      "the_study": "In this review, anesthesiology and medicine researchers at Duke and UCSF propose that delirium \u2014 the sudden confusion, inattention and fluctuating awareness that often follows surgery or serious illness in older adults \u2014 reflects injury to the brain's small blood vessels and blood-brain barrier, linking systemic inflammation to vascular contributions to cognitive impairment and dementia. They cite a 2025 national cohort of more than 5.5 million older adults undergoing major non-cardiac surgery in which postoperative delirium was associated with markedly higher odds of death, major complications, and 30-day mortality. The authors argue delirium should be treated as acute brain failure and tracked as a quality-of-care target, since it also raises the risk of lasting cognitive decline.",
+      "why_it_matters": "Delirium is one of the most consequential complications of hospitalization in later life, and reframing it as brain injury rather than temporary confusion changes how urgently hospitals and families should work to prevent and respond to it.",
+      "story_angle_primary": "If you are facing surgery, ask your surgical team what their delirium prevention plan is \u2014 sleep protection, early mobility, hydration, minimizing sedating drugs, and getting your glasses and hearing aids back promptly are standard measures. And tell them about any prior episode of confusion after an operation, because it raises your risk.",
+      "story_angle_secondary": "For families and senior living staff, the practical takeaway is vigilance around hospitalizations: a sudden change in attention or alertness is a medical emergency to report, not something to wait out, and post-discharge cognitive follow-up should be arranged rather than assumed unnecessary.",
+      "caveats": "This is a narrative review advancing a conceptual framework, not new primary research; the vascular mechanism described remains a hypothesis, and the large cohort finding it cites is observational and cannot prove delirium itself causes the worse outcomes."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42441396",
+      "headline": "Another Alzheimer's Drug Falls Short: Tau-Targeting Pill Failed to Slow Decline \u2014 and the Higher Dose Looked Worse",
+      "verdict": "accurate",
+      "notes": "N, design, site count, demographics, 32% greater progression on 3 mg, adverse event rates, MRI volume finding and Lilly authorship all match the abstract; caveats correctly note the low-to-medium tau primary population.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "pmid": "42600788",
+      "headline": "Frailty That Worsens Raises Dementia Risk \u2014 and Depression May Be a Key Link",
+      "verdict": "minor",
+      "notes": "All numbers check out (59,331; 7.51 years; 9.49%; HR ranges; 29.29%\u201344.78% mediation). Headline uses causal-sounding language for an observational finding, and the reader tip describes a frailty phenotype rather than the deficit-accumulation index actually used.",
+      "issues": [
+        {
+          "label": "Causal phrasing in headline",
+          "severity": "Minor",
+          "as_written": "Frailty That Worsens Raises Dementia Risk \u2014 and Depression May Be a Key Link",
+          "abstract_says": "Frailty worsening was associated with higher dementia risk, whereas frailty improvement was associated with lower risk in some cohorts.",
+          "problem": "\"Raises\" implies causation from pooled observational cohort data; the body text and caveats correctly hedge, but the headline does not.",
+          "suggested_fix": "\"Worsening Frailty Is Linked to Higher Dementia Risk \u2014 and Depression May Be a Key Link\""
+        },
+        {
+          "label": "Frailty measure described as phenotype",
+          "severity": "Minor",
+          "as_written": "Ask your clinician about a frailty check-up that looks at things like walking speed, grip strength, exhaustion, and weight loss",
+          "abstract_says": "A harmonized 25-item FI defined frailty (FI \u2265 0.25).",
+          "problem": "The study used a 25-item deficit-accumulation frailty index, not the Fried phenotype criteria (gait speed, grip strength, exhaustion, weight loss) the tip describes, so the suggested assessment doesn't match what was measured.",
+          "suggested_fix": "Reword to \"a frailty assessment that tallies up health deficits \u2014 mobility problems, everyday-task difficulty, mood and other conditions \u2014 as this study did.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42561582",
+      "headline": "A Simple Memory Test Predicted Who Would Decline, Even Among People Who Looked Cognitively Normal",
+      "verdict": "accurate",
+      "notes": "N=911, mean age 72, 59% female, 62% APOE \u03b54, 37% progression over 4.5 years, HR 3.04 for SOMI 3/4 and independence from p-tau217 all match. Royalty disclosure and industry ties correctly flagged. The \"predominantly well-educated volunteers\" descriptor is not verifiable from the abstract alone but is a caveat, not an overclaim.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "pmid": "42766299",
+      "headline": "A New Way of Reading Tau Brain Scans Catches Alzheimer's Changes Far Earlier",
+      "verdict": "minor",
+      "notes": "Participant count, age range, demographics, site count, 5-class framework, agreement statistics and prevalence ratios (1.89\u20132.73 in cognitively unimpaired) all match. Headline overstates a cross-sectional detection difference as detection \"far earlier.\"",
+      "issues": [
+        {
+          "label": "Headline implies temporal earliness not measured",
+          "severity": "Minor",
+          "as_written": "A New Way of Reading Tau Brain Scans Catches Alzheimer's Changes Far Earlier",
+          "abstract_says": "detected more early-stage tau pathology than the regulatory-approved binary approach ... prospective multicenter cross-sectional study",
+          "problem": "The study is cross-sectional with no follow-up; it shows more people classified as having early-stage tau, not that changes are detected \"far earlier\" in a person's disease course.",
+          "suggested_fix": "\"A New Way of Reading Tau Brain Scans Flags More Early-Stage Changes\""
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42777279",
+      "headline": "Black Dementia Caregivers Report Coping Well \u2014 but Their Bodies Tell a Different Story",
+      "verdict": "accurate",
+      "notes": "Six-member team, 97 studies, six databases, Roy Adaptation Model, psychosocial vs physical health discrepancy and NIA funding (K01AG065420) all match; framing correctly avoids causal claims.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "pmid": "42586247",
+      "headline": "Lifestyle Programs Can Change Habits in People Worried About Their Memory \u2014 If They're Built the Right Way",
+      "verdict": "minor",
+      "notes": "26 papers/23 RCTs, COM-B framing, moderate-certainty diet finding, low-certainty cognition link and the 13%/9% reporting figures all match. Two small slips: one reporting category is renamed, and one story angle adds a conclusion the abstract doesn't state.",
+      "issues": [
+        {
+          "label": "Reporting category renamed",
+          "severity": "Minor",
+          "as_written": "9% recorded socioeconomic status",
+          "abstract_says": "Few studies recorded ethnicity (13%) or sociodemographic status (9%)",
+          "problem": "The abstract's category is \"sociodemographic status,\" which is broader than socioeconomic status.",
+          "suggested_fix": "Change to \"9% recorded sociodemographic status.\""
+        },
+        {
+          "label": "Unstated comparison about education-only programs",
+          "severity": "Minor",
+          "as_written": "brief education-only workshops underperform, while sustained, socially embedded, resource-supplied programs move the needle",
+          "abstract_says": "Moderate-certainty evidence indicated that interventions providing a socially supportive environment and combining nutritional education and counselling for 6 + months improved diet. Physical activity improved primarily in interventions incorporating education, structured training, and enablement strategies",
+          "problem": "The abstract identifies what worked but never reports a head-to-head finding that brief education-only workshops underperform; this is an inference presented as a review finding.",
+          "suggested_fix": "Reframe as \"education alone was not enough \u2014 the programs that worked added structure, social support and practical tools.\""
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42774284",
+      "headline": "Blood Tests for Dementia Perform Well in a Real Clinic \u2014 But Which Test Matters Depends on the Diagnosis",
+      "verdict": "accurate",
+      "notes": "N=118 and subgroup sizes, GFAP AUC 0.924, poor FTD discrimination, NfL performance and the renal impairment effect all match; industry disclosures (Eisai, Biogen, Lilly, Roche, Novo Nordisk, equity holdings) are accurately summarized in Caveats.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42430965",
+      "headline": "Could an Eye Scan Someday Spot Alzheimer's? Genetic Study Finds Real Retinal Changes \u2014 and Tempers the Hype",
+      "verdict": "accurate",
+      "notes": "13 ocular measures, n=52,798, the arteriolar tortuosity finding (\u03b2=0.007), weak mRNFL/mGCIPL evidence, the optic disc area/refractive error mediation, and the industry disclosures (Seonix director; Siloton advisory board) all match. Framing appropriately avoids screening recommendations.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42567210",
+      "headline": "Optimism Is Linked to Less Depression in Your 70s and 80s \u2014 But It Doesn't Cushion Life's Hard Blows",
+      "verdict": "accurate",
+      "notes": "N=10,791, age \u226570, exclusion criteria, median 3.5-year follow-up, HRs of 0.92/1.07/1.17, polygenic score adjustment, CES-D-10 outcome and the null moderation result all match; language stays correlational.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "pmid": "42754545",
+      "headline": "A Heart Attack Diagnosis Shouldn't Be Written Off Because of Dementia",
+      "verdict": "accurate",
+      "notes": "117,318 beneficiaries, 7,348 with ADRD, 225.1 vs 299.4 days (adjusted \u221237.8), \"more than half spent over 300 days at home,\" nursing-home difference of \u221271.9 days and 42.4% one-year survival all match; claims-data and generalizability limits are flagged.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "pmid": "42430964",
+      "headline": "Even Patients Actively Seeking New Alzheimer's Drugs Are Missing Basic Brain-Health Steps",
+      "verdict": "accurate",
+      "notes": "N, comparison group, 15-factor framework, <3% figure, 44\u201363% range, and missing-lab percentages all match the abstract; funding sources correctly disclosed.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "pmid": "42594757",
+      "headline": "When Dementia Strikes Before 65, Caregivers Carry More and Get Less Help",
+      "verdict": "minor",
+      "notes": "Core numbers (1,816 dyads; 167 YOD; 17.4% vs 26.1%) are correct; two framing points reach slightly beyond the abstract.",
+      "issues": [
+        {
+          "label": "\"Driven by\" implies explanation of the group difference",
+          "severity": "Minor",
+          "as_written": "Caregivers in the young-onset group reported significantly higher burden, driven by greater functional impairment and neuropsychiatric symptoms",
+          "abstract_says": "Caregivers of individuals with YOD reported significantly higher burden than those caring for individuals with LOD. Among individuals with YOD, greater functional impairment and overall neuropsychiatric symptom severity were associated with higher caregiver burden",
+          "problem": "The functional-impairment and neuropsychiatric associations were found within the young-onset group, not shown to explain (drive) the YOD-versus-LOD burden gap.",
+          "suggested_fix": "Reword to: \"...reported significantly higher burden; within the young-onset group, greater functional impairment and neuropsychiatric symptoms were associated with higher burden.\""
+        },
+        {
+          "label": "Unsupported claim about program design",
+          "severity": "Minor",
+          "as_written": "existing adult day programs and residential options are largely built around people in their 80s, and younger clients may decline them for that reason",
+          "abstract_says": "This discrepancy suggests potential unmet needs and highlights the importance of flexible, age-appropriate LTC strategies for YOD populations.",
+          "problem": "The specific assertion that services are built for people in their 80s and are therefore declined is not in the abstract; it is editorial inference presented as established fact. Unverifiable from abstract only.",
+          "suggested_fix": "Attribute as interpretation, e.g. \"the authors call for more flexible, age-appropriate long-term care options, suggesting current services may not fit younger clients.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42485867",
+      "headline": "Conscientious People Show Fewer Signs of Nerve Damage in Blood Tests",
+      "verdict": "accurate",
+      "notes": "N=4,076, mean age 67, 19.3% cognitively impaired, direction of NfL associations, \u03b2=-0.039, null GFAP result and absence of moderation all match; reverse-causation caveat correctly attributed to the authors.",
+      "issues": []
+    },
+    {
+      "number": 14,
+      "pmid": "42556583",
+      "headline": "Diabetes Plus Depression Together Carry a Fourfold Dementia Risk",
+      "verdict": "accurate",
+      "notes": "Sample sizes, HR 4.44, 41 of 60 proteins, the four proteins exceeding both single conditions, and the nine white-matter associations are all accurate; caveats correctly note proteins were unrelated to cognition and atrophy.",
+      "issues": []
+    },
+    {
+      "number": 15,
+      "pmid": "42773069",
+      "headline": "A Blood Test Plus a Brain Scan Predicted Who Would Decline Fastest",
+      "verdict": "accurate",
+      "notes": "N=100, aged \u226565, 45% amyloid-positive, 39% diagnostic revision, AUC 0.855, independent prediction of decline and median 1.3-year follow-up all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 16,
+      "pmid": "42769274",
+      "headline": "Diabetes Drug Linked to Lower Dementia Risk in People With Early Memory Loss",
+      "verdict": "accurate",
+      "notes": "Target-trial emulation design, 1,320 matched patients, 702 women, mean age 67.2, 101 vs 132 events, HR 0.74, 15.5% vs 20.4%, NNT 21 and sensitivity analyses all accurate; hypothesis-generating label, EVOKE null result and industry ties correctly flagged.",
+      "issues": []
+    },
+    {
+      "number": 17,
+      "pmid": "42750559",
+      "headline": "Even a Well-Integrated Health System Struggles to Deliver Dementia Care, Clinicians Say",
+      "verdict": "accurate",
+      "notes": "28 clinicians, 6 VA facilities, Aug 2024\u2013Jul 2025 interview window, purposive sampling criteria, listed strengths and the four challenge domains all match; caveats appropriately note qualitative design and absence of patient/family voices.",
+      "issues": []
+    },
+    {
+      "number": 18,
+      "pmid": "42456815",
+      "headline": "In Bipolar Disorder, Some Older Adults' Thinking Problems Rival Dementia",
+      "verdict": "minor",
+      "notes": "Group sizes, instruments and cognitive profiles are accurate, but the abstract never states participants' ages, so the \"older adults\" framing is unverifiable; the risk-factor direction is inverted but correctly so.",
+      "issues": [
+        {
+          "label": "Age of study population not stated in abstract",
+          "severity": "Minor",
+          "as_written": "In Bipolar Disorder, Some Older Adults' Thinking Problems Rival Dementia",
+          "abstract_says": "The study included 108 individuals with BD, of whom 32 were euthymic, while the remainder were symptomatic and 39 with major neurocognitive disorder.",
+          "problem": "The abstract gives no age range or mean age for the bipolar sample, so describing them as older adults with \"long-standing bipolar disorder\" is unverifiable from the abstract alone.",
+          "suggested_fix": "Say \"adults with bipolar disorder\" in the headline and body, or note that participant ages were not reported in the abstract."
+        },
+        {
+          "label": "Comparison group for the risk-factor finding not specified",
+          "severity": "Minor",
+          "as_written": "older age, hypertension and more depressive symptoms were associated with worse profiles",
+          "abstract_says": "younger age, lower rates of hypertension, and fewer depressive symptoms were associated with greater odds of belonging to the BD-P and BD-M groups compared with the Dementia",
+          "problem": "The regression compared the preserved and mild bipolar profiles against the dementia group, not against \"worse profiles\" generally; the inversion is directionally right but loses the reference group.",
+          "suggested_fix": "Add the reference group: \"compared with the dementia group, younger age, less hypertension and fewer depressive symptoms predicted membership in the better-functioning bipolar profiles.\""
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "pmid": "42472523",
+      "headline": "Daily Mouth Care Helped Some Nursing Home Residents Get Off Feeding Tubes",
+      "verdict": "accurate",
+      "notes": "Eight-facility open-label RCT, 40/37 allocation, 30\u201340 minute daily sessions, ITT removal rate 16.7% vs 0%, significantly better FOIS scores, dementia as most common condition among successes, and null weight/pneumonia/mortality results all match.",
+      "issues": []
+    },
+    {
+      "number": 20,
+      "pmid": "42744747",
+      "headline": "Nearly One in Four Hospice Patients With Dementia Left Hospice Alive \u2014 and For-Profit Agencies Led the Trend",
+      "verdict": "minor",
+      "notes": "All figures (1,436,018 enrollees; 24.0%\u219223.2%; transfers 2.6%\u21924.0%; moves 0.7%\u21921.5%) match; only the magnitude qualifier on the for-profit gap is dropped.",
+      "issues": [
+        {
+          "label": "Dropped \"slightly\" from widening ownership gap",
+          "severity": "Minor",
+          "as_written": "For-profit hospices consistently discharged patients alive at higher rates than nonprofits, and the gap in transfers, moves, and revocations widened.",
+          "abstract_says": "For-profit hospices had consistently higher overall disenrollment rates than nonprofits, with slightly widening differences in transfers, moves, and revocations.",
+          "problem": "Omitting \"slightly\" makes the ownership divergence sound larger than the authors describe, which also inflates the headline claim that for-profits \"led the trend.\"",
+          "suggested_fix": "Restore the qualifier: \"...and the gap in transfers, moves, and revocations widened slightly.\""
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "pmid": "42442665",
+      "headline": "Lithium Linked to Lower Dementia Risk Than Valproate in People With Bipolar Disorder",
+      "verdict": "accurate",
+      "notes": "Design, cohort size, matching variables, HR and sensitivity analyses all match the abstract; observational limits and the young cohort are properly flagged.",
+      "issues": []
+    },
+    {
+      "number": 22,
+      "pmid": "42770466",
+      "headline": "When a Loved One With Alzheimer's Struggles to Follow Conversation, Behavior Problems Are More Likely",
+      "verdict": "minor",
+      "notes": "Core findings match, but the digest names specific behavioral symptoms and implies treatability/causal direction that the cross-sectional abstract does not support.",
+      "issues": [
+        {
+          "label": "Specific symptoms not reported in abstract",
+          "severity": "Minor",
+          "as_written": "Difficulty following conversation in real-world settings may be an overlooked driver of agitation, anxiety and other distressing behaviors in Alzheimer's",
+          "abstract_says": "Functional hearing difficulty was also associated with greater BPSD severity ... operationalized as the Neuropsychiatric Inventory five-domain total score",
+          "problem": "The abstract reports only a total five-domain NPI severity score; it does not break out agitation or anxiety specifically, and \"driver\" implies causation from a cross-sectional association.",
+          "suggested_fix": "Rewrite as \"may be associated with more severe behavioral and psychological symptoms overall,\" and avoid \"driver\" for a cross-sectional finding."
+        },
+        {
+          "label": "Treatability claim beyond the data",
+          "severity": "Minor",
+          "as_written": "a clean hearing test doesn't rule out a real, treatable communication problem. Ask about listening strategies, quieter settings, and whether hearing devices might help",
+          "abstract_says": "Caregiver-rated functional hearing difficulty was selectively linked to verbal fluency and BPSD severity in patients with AD ... longitudinal studies are needed to clarify temporal relationships",
+          "problem": "No intervention was tested; the study cannot show that functional hearing difficulty is treatable or that devices or strategies change outcomes.",
+          "suggested_fix": "Note that the study only measured associations and did not test whether addressing listening difficulty improves symptoms."
+        },
+        {
+          "label": "Overreach in professional angle",
+          "severity": "Minor",
+          "as_written": "this supports treating communication breakdown as a first-line explanation for agitation and distress",
+          "abstract_says": "Exploratory analyses showed a pattern statistically consistent with an indirect association via verbal fluency.",
+          "problem": "An exploratory indirect-association pattern in 101 cross-sectional cases does not support elevating communication breakdown to a \"first-line explanation\" for behavior.",
+          "suggested_fix": "Soften to \"supports considering communication difficulty as one possible contributor worth checking.\""
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "pmid": "42756469",
+      "headline": "Researchers Argue Post-Surgery Delirium Is \"Acute Brain Failure,\" Not a Passing Confusion",
+      "verdict": "accurate",
+      "notes": "Faithful summary of a conceptual review, including the cited 2025 cohort of >5.5 million; the caveat correctly identifies it as a hypothesis-generating narrative review. The specific prevention steps listed in the reader angle are standard practice rather than findings of this paper, but they are not attributed to the study.",
+      "issues": []
+    }
+  ]
+}

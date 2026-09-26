@@ -20,24 +20,6 @@
         "state": "unreported"
       }
     },
-    "41810943": {
-      "checked_at": "2026-09-12T12:24:44.849039+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.heart.org/en/news/2026/08/31/what-prevent-can-tell-you-about-heart-disease-risk",
-            "outlet": "www.heart.org",
-            "title": "What PREVENT can tell you about heart disease risk"
-          }
-        ],
-        "outlets": [
-          "www.heart.org"
-        ],
-        "query": "Risk Calculators Estimate Your Odds Developing Heart Failure Before You",
-        "returned": 20,
-        "state": "lightly_reported"
-      }
-    },
     "42017838": {
       "checked_at": "2026-09-14T11:37:58.348069+00:00",
       "result": {
@@ -158,16 +140,6 @@
         "state": "unreported"
       }
     },
-    "42349065": {
-      "checked_at": "2026-09-12T12:24:30.688979+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "CPAP sleep apnea without daytime sleepiness modest blood pressure gains",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42362099": {
       "checked_at": "2026-09-17T13:42:54.706970+00:00",
       "result": {
@@ -196,6 +168,36 @@
         "query": "Dental Work Right Before Starting Bone Drugs Linked Higher Jaw",
         "returned": 2,
         "state": "unreported"
+      }
+    },
+    "42392540": {
+      "checked_at": "2026-09-26T13:20:26.680406+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.pharmacytimes.com/view/serial-nt-probnp-may-sharpen-heart-risk-prediction-in-older-adults",
+            "outlet": "Pharmacy Times",
+            "title": "Serial NT-proBNP May Sharpen Heart Risk Prediction in Older Adults"
+          },
+          {
+            "link": "https://medicalxpress.com/news/2026-08-calcium-heart-scans-sharpen-borderline.html",
+            "outlet": "Medical Xpress",
+            "title": "Calcium heart scans sharpen risk estimates mainly for borderline-risk adults"
+          },
+          {
+            "link": "https://www.kantesti.net/apoe4-test-results-alzheimers-heart-risk-explained/",
+            "outlet": "Kantesti AI Blood Test Analyzer",
+            "title": "ApoE4 Test Results: Alzheimer\u2019s and Heart Risk Explained"
+          }
+        ],
+        "outlets": [
+          "Pharmacy Times",
+          "Medical Xpress",
+          "Kantesti AI Blood Test Analyzer"
+        ],
+        "query": "Combined Blood Test Score Sharpen Heart Risk Prediction",
+        "returned": 7,
+        "state": "widely_reported"
       }
     },
     "42398845": {
@@ -265,6 +267,16 @@
         "outlets": [],
         "query": "Eye Scan Someday Spot Alzheimer Genetic Finds Real Retinal Changes",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42435895": {
+      "checked_at": "2026-09-26T13:20:27.787041+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Inflammatory Diets Linked Worse Outcomes Across Reviews But Evidence Base",
+        "returned": 9,
         "state": "unreported"
       }
     },
@@ -348,6 +360,16 @@
         "state": "unreported"
       }
     },
+    "42447644": {
+      "checked_at": "2026-09-26T13:20:20.508830+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Belly Fat Plus Weak Grip Two Part Warning Sign Heart",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42448012": {
       "checked_at": "2026-09-17T13:41:56.943315+00:00",
       "result": {
@@ -408,36 +430,6 @@
         "state": "unreported"
       }
     },
-    "42471187": {
-      "checked_at": "2026-09-12T12:23:52.369453+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://psychiatryonline.org/doi/10.1176/appi.pn.2026.07.7.7",
-            "outlet": "Psychiatry Online",
-            "title": "Point/Counterpoint: Is Lithium the Gold Standard for Bipolar Disorder? | Psychiatric News"
-          },
-          {
-            "link": "https://www.news-medical.net/news/20260629/Lithium-MRI-scans-offer-personalized-treatments-for-bipolar-disorder.aspx",
-            "outlet": "News-Medical",
-            "title": "Lithium MRI scans offer personalized treatments for bipolar disorder"
-          },
-          {
-            "link": "https://www.discovermagazine.com/ozempic-s-active-ingredient-linked-to-lower-hospitalization-risk-in-bipolar-disorder-49654",
-            "outlet": "Discover Magazine",
-            "title": "Ozempic's Active Ingredient Linked to Lower Hospitalization Risk in Bipolar Disorder"
-          }
-        ],
-        "outlets": [
-          "Psychiatry Online",
-          "News-Medical",
-          "Discover Magazine"
-        ],
-        "query": "Lithium Linked Lower Heart Disease Risk People Bipolar Disorder",
-        "returned": 12,
-        "state": "widely_reported"
-      }
-    },
     "42472523": {
       "checked_at": "2026-09-24T13:44:38.917938+00:00",
       "result": {
@@ -449,12 +441,12 @@
       }
     },
     "42475970": {
-      "checked_at": "2026-09-12T12:24:42.708549+00:00",
+      "checked_at": "2026-09-26T13:19:56.891529+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Having Several Chronic Conditions Doubles Death Risk Mind Body Combination",
-        "returned": 1,
+        "query": "Having Several Chronic Conditions Doubles Death Risk Mixing Physical Mental",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -514,6 +506,16 @@
         "articles": [],
         "outlets": [],
         "query": "Audiobooks Aren Automatic Replacement Reading After Vision Loss Listeners Have",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42501509": {
+      "checked_at": "2026-09-26T13:19:24.674870+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Metabolic Syndrome Not Weak Grip Drives Stroke Risk After",
         "returned": 0,
         "state": "unreported"
       }
@@ -578,6 +580,16 @@
         "state": "unreported"
       }
     },
+    "42521082": {
+      "checked_at": "2026-09-26T13:20:07.138441+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Olive Oil Antioxidant Boost Depended Who Drinking Not How Many",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42521465": {
       "checked_at": "2026-09-21T15:20:05.917104+00:00",
       "result": {
@@ -588,13 +600,13 @@
         "state": "unreported"
       }
     },
-    "42534924": {
-      "checked_at": "2026-09-12T12:25:00.064592+00:00",
+    "42526099": {
+      "checked_at": "2026-09-26T13:19:42.803662+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Arginine Supplement Muscle Circulation Not Harmless After Heart Disease",
-        "returned": 1,
+        "query": "Going Bed Same Time Every Night Tracked Lower Blood Pressure",
+        "returned": 20,
         "state": "unreported"
       }
     },
@@ -638,6 +650,16 @@
         "state": "unreported"
       }
     },
+    "42551563": {
+      "checked_at": "2026-09-26T13:19:19.930265+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Eye Photo Hold Clues Depression Heart Risk Years Ahead",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "42551769": {
       "checked_at": "2026-09-18T13:12:00.006295+00:00",
       "result": {
@@ -675,6 +697,16 @@
         "outlets": [],
         "query": "Simple Memory Test Sorts Who Declines Fastest Among People Amyloid",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42567210": {
+      "checked_at": "2026-09-26T13:19:18.413936+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Optimism Linked Less Depression Your 70s But Doesn Cushion Life",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -726,6 +758,16 @@
         "state": "lightly_reported"
       }
     },
+    "42570796": {
+      "checked_at": "2026-09-26T13:20:01.188172+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "One Five Hospitalized Patients Had Swallowing Problem Nobody Had Flagged",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42574660": {
       "checked_at": "2026-09-17T13:43:29.744766+00:00",
       "result": {
@@ -775,12 +817,12 @@
       }
     },
     "42594758": {
-      "checked_at": "2026-09-12T12:23:32.366613+00:00",
+      "checked_at": "2026-09-26T13:19:10.178558+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Living Past Increasingly Means Living Disability Not Dying Heart Disease",
-        "returned": 16,
+        "query": "People over dying less heart disease living longer disability instead",
+        "returned": 20,
         "state": "unreported"
       }
     },
@@ -854,13 +896,13 @@
         "state": "unreported"
       }
     },
-    "42607606": {
-      "checked_at": "2026-09-12T12:24:55.307314+00:00",
+    "42612584": {
+      "checked_at": "2026-09-26T13:19:04.951010+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Staying Under Waist Target Not Just Hitting Once Tracks Lower",
-        "returned": 1,
+        "query": "Your walking speed mood hearing predict heart trouble well your",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -886,6 +928,34 @@
         "query": "When You Eat When You Sleep Researchers Map How Diet",
         "returned": 20,
         "state": "lightly_reported"
+      }
+    },
+    "42617399": {
+      "checked_at": "2026-09-26T13:19:06.245007+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.thestatesman.com/lifestyle/health/one-serving-of-beans-a-day-could-lower-heart-disease-risk-according-to-acharya-balkrishna-and-multiple-studies-1503640066.html",
+            "outlet": "The Statesman",
+            "title": "One serving of beans a day could lower heart disease risk, according to Acharya Balkrishna and multiple studies"
+          }
+        ],
+        "outlets": [
+          "The Statesman"
+        ],
+        "query": "blood protein fingerprint healthy eating tracked lower heart disease risk",
+        "returned": 3,
+        "state": "lightly_reported"
+      }
+    },
+    "42624218": {
+      "checked_at": "2026-09-26T13:19:11.865395+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Diabetes Depression Raises Heart Risk Blood Sugar Doesn Explain Why",
+        "returned": 20,
+        "state": "unreported"
       }
     },
     "42628578": {
@@ -1002,16 +1072,6 @@
         "state": "unreported"
       }
     },
-    "42669304": {
-      "checked_at": "2026-09-12T12:24:32.031528+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Pregnancy complications decades ago still shape woman heart risk today",
-        "returned": 11,
-        "state": "unreported"
-      }
-    },
     "42674351": {
       "checked_at": "2026-09-14T15:17:34.505663+00:00",
       "result": {
@@ -1082,34 +1142,14 @@
         "state": "unreported"
       }
     },
-    "42684704": {
-      "checked_at": "2026-09-12T12:24:58.518223+00:00",
+    "42679726": {
+      "checked_at": "2026-09-26T13:19:35.178444+00:00",
       "result": {
-        "articles": [
-          {
-            "link": "https://www.mindbodygreen.com/articles/how-dietary-fat-may-affect-longevity-after-prostate-cancer",
-            "outlet": "MindBodyGreen",
-            "title": "This Type Of Fat May Be A Bigger Problem After Prostate Cancer"
-          },
-          {
-            "link": "https://www.medicaldaily.com/plant-fat-animal-fat-prostate-cancer-survival-study-478320",
-            "outlet": "medicaldaily.com",
-            "title": "Swapping Animal Fat for Plant Fat Was Linked to Longer Survival After a Prostate Cancer Diagnosis"
-          },
-          {
-            "link": "https://www.newsweek.com/one-diet-change-could-improve-survival-chances-after-prostate-cancer-12411583",
-            "outlet": "Newsweek",
-            "title": "One Diet Change Could Improve Survival Chances After Prostate Cancer"
-          }
-        ],
-        "outlets": [
-          "MindBodyGreen",
-          "medicaldaily.com",
-          "Newsweek"
-        ],
-        "query": "After Prostate Cancer Diagnosis Fat Your Plate Tied Heart Deaths",
-        "returned": 8,
-        "state": "widely_reported"
+        "articles": [],
+        "outlets": [],
+        "query": "Semaglutide Nudged Blood Vessel Function Type Diabetes But Signal Mixed",
+        "returned": 0,
+        "state": "unreported"
       }
     },
     "42686460": {
@@ -1119,16 +1159,6 @@
         "outlets": [],
         "query": "Steady Daily Rhythm Not Just More Sleep Tracked Healthier Kidneys",
         "returned": 3,
-        "state": "unreported"
-      }
-    },
-    "42687462": {
-      "checked_at": "2026-09-12T12:24:57.278206+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Inflammation Marker Flags Hidden Heart Failure Risk People Diabetes",
-        "returned": 1,
         "state": "unreported"
       }
     },
@@ -1259,16 +1289,6 @@
         "outlets": [],
         "query": "Doctors nurses spot frailty readily but often miss when time",
         "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42702521": {
-      "checked_at": "2026-09-12T12:24:49.808642+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Quiet Liver Problem Early Warning Heart Trouble",
-        "returned": 20,
         "state": "unreported"
       }
     },
@@ -1686,37 +1706,6 @@
         "query": "Effects Konjac glucosylceramides cognitive function cognitively unimpaired subjective cognitive concerns",
         "returned": 0,
         "state": "unreported"
-      }
-    },
-    "42715935": {
-      "checked_at": "2026-09-12T12:24:18.401633+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.sciencedaily.com/releases/2026/09/260911003847.htm",
-            "outlet": "Science Daily",
-            "title": "Too much light at night may quietly reshape your heart"
-          },
-          {
-            "link": "https://6abc.com/story/hidden-risk-heart-sleeping-low-light/19816290/",
-            "outlet": "6abc Philadelphia",
-            "title": "The hidden risk to your heart from sleeping in low light"
-          },
-          {
-            "link": "https://mbiz.heraldcorp.com/article/10869415",
-            "outlet": "\ud5e4\ub7f4\ub4dc\uacbd\uc81c",
-            "title": "Sleeping with lights on may reshape your heart, study finds"
-          }
-        ],
-        "outlets": [
-          "Science Daily",
-          "6abc Philadelphia",
-          "\ud5e4\ub7f4\ub4dc\uacbd\uc81c",
-          "The Times of India"
-        ],
-        "query": "Sleeping lights reshape your heart large finds",
-        "returned": 20,
-        "state": "widely_reported"
       }
     },
     "42716078": {
@@ -2235,16 +2224,6 @@
         "state": "unreported"
       }
     },
-    "42727321": {
-      "checked_at": "2026-09-12T12:24:16.213044+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Renamed Syndrome Means Lifelong Heart Risk Monitoring Women Who Had",
-        "returned": 2,
-        "state": "unreported"
-      }
-    },
     "42727536": {
       "checked_at": "2026-09-14T11:36:56.313646+00:00",
       "result": {
@@ -2727,6 +2706,16 @@
         "outlets": [],
         "query": "Audiologists Say Testing Your Hearing Background Noise Valuable but Half",
         "returned": 6,
+        "state": "unreported"
+      }
+    },
+    "42735406": {
+      "checked_at": "2026-09-26T13:19:53.585689+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "DoD Cholesterol Guideline Pushes Harder Treatment People Who Already Have",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -3894,6 +3883,16 @@
         "state": "unreported"
       }
     },
+    "42762436": {
+      "checked_at": "2026-09-26T13:19:32.565945+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Fear Moving After Heart Event Common Exercise Programs Appear Ease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42762629": {
       "checked_at": "2026-09-20T13:23:28.834565+00:00",
       "result": {
@@ -4054,6 +4053,16 @@
         "state": "unreported"
       }
     },
+    "42767983": {
+      "checked_at": "2026-09-26T13:20:16.677794+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Heart Disease Not Stroke Tracks Faster Memory Loss Across Four",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42769274": {
       "checked_at": "2026-09-24T13:44:37.110402+00:00",
       "result": {
@@ -4177,6 +4186,16 @@
         "state": "unreported"
       }
     },
+    "42772316": {
+      "checked_at": "2026-09-26T13:19:08.933844+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "artery disease your legs kills more people than many cancers",
+        "returned": 13,
+        "state": "unreported"
+      }
+    },
     "42772541": {
       "checked_at": "2026-09-25T14:04:59.242719+00:00",
       "result": {
@@ -4247,6 +4266,16 @@
         "state": "unreported"
       }
     },
+    "42773923": {
+      "checked_at": "2026-09-26T13:24:28.647355+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Development Preliminary Feasibility Testing PACERS Physical Activity Centered Intervention Rural",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42774284": {
       "checked_at": "2026-09-24T13:44:20.736226+00:00",
       "result": {
@@ -4271,6 +4300,26 @@
         "articles": [],
         "outlets": [],
         "query": "Tai chi Baduanjin yoga improved balance frail pre frail review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42775737": {
+      "checked_at": "2026-09-26T13:19:29.445360+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Big Trial Finds Multivitamins Cocoa Extract Don Move Brain Damage",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42775783": {
+      "checked_at": "2026-09-26T13:24:20.590717+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Neuropsychiatric symptom role reorganization amyloid PET positive Alzheimer disease expanded",
         "returned": 0,
         "state": "unreported"
       }
@@ -4331,6 +4380,16 @@
         "articles": [],
         "outlets": [],
         "query": "Effectiveness advance care planning decision aids network meta analysis randomised",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42778869": {
+      "checked_at": "2026-09-26T13:24:35.515046+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Baseline peripheral inflammatory profiles predict phenoconversion prodromal Parkinson disease longitudinal",
         "returned": 0,
         "state": "unreported"
       }
@@ -4597,6 +4656,224 @@
         "articles": [],
         "outlets": [],
         "query": "Association Between Residential Movement Successful Evidence Korean Longitudinal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42787302": {
+      "checked_at": "2026-09-26T13:22:46.067390+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Extracerebral microvascular burden links dementia risk brain structural changes Evidence",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42787370": {
+      "checked_at": "2026-09-26T13:24:15.078114+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Comprehensive evaluation imaging biomarkers predicting cognitive decline",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42787512": {
+      "checked_at": "2026-09-26T13:24:04.748569+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Humanized APP primary determinant regional brain volume humanized APOE knock",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42787519": {
+      "checked_at": "2026-09-26T13:24:12.345112+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cerebrospinal fluid protein elevations Alzheimer disease dissociated immune cell composition",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42787809": {
+      "checked_at": "2026-09-26T13:22:43.777394+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Clinical utility LUMIPULSE plasma tau217 identify amyloid positivity among candidates",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42788840": {
+      "checked_at": "2026-09-26T13:23:11.267886+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Nonpharmacological interventions cognitive decline dementia related outcomes Asian systematic review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42789327": {
+      "checked_at": "2026-09-26T13:23:54.382695+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Rationale Design Baseline Characteristics TARGET Cohort Assessing Fall Fracture Risk",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42789437": {
+      "checked_at": "2026-09-26T13:24:02.545406+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Taking First Step Pilot Gait Initiation Training People Parkinson Disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42789462": {
+      "checked_at": "2026-09-26T13:23:03.856377+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.sportschosun.com/en/culture/2026-09-18/202609180100126710008192",
+            "outlet": "\uc2a4\ud3ec\uce20\uc870\uc120",
+            "title": "\"Mild cognitive impairment is not a definitive diagnosis of dementia; it is a time to identify and address the cause\""
+          }
+        ],
+        "outlets": [
+          "\uc2a4\ud3ec\uce20\uc870\uc120"
+        ],
+        "query": "Anxiety Symptoms Risk Dementia Progression Mild Cognitive Impairment Systematic Review",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42790294": {
+      "checked_at": "2026-09-26T13:23:02.609326+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "protocol pilot randomized controlled trial SONATA social network intervention advanced",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42790647": {
+      "checked_at": "2026-09-26T13:23:19.567214+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Sleep disturbances subsequent suicide risk dementia nationwide cohort",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42790659": {
+      "checked_at": "2026-09-26T13:23:51.882782+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Developing validating intrinsic capacity scores early adulthood midlife year follow",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42790802": {
+      "checked_at": "2026-09-26T13:23:59.097177+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Protective effects sarcopenia related traits spinal degenerative diseases large prospective",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42791055": {
+      "checked_at": "2026-09-26T13:22:33.160075+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Comparison ketamine versus lignocaine intravenous infusion refractory cancer pain prospective",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42791168": {
+      "checked_at": "2026-09-26T13:23:30.383634+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "association between depressive disorders dementia very old longitudinal year follow",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42791223": {
+      "checked_at": "2026-09-26T13:23:00.565851+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Onset Parental Loss Child Decreases Psychosocial Well Being Among Persons",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42791452": {
+      "checked_at": "2026-09-26T13:22:50.453607+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Dietary pattern epigenetic longitudinal twin",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42791519": {
+      "checked_at": "2026-09-26T13:23:48.729179+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Experiences language development intervention nursing homes perspective first line managers",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42791633": {
+      "checked_at": "2026-09-26T13:23:42.532529+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Moment Moment Performance Nightly Subjective Assessments Multi Timescale Associations Between",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42791643": {
+      "checked_at": "2026-09-26T13:22:37.168658+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Range Consistency Reported Outcomes Interventional Studies involving Frail Inpatients Systematic",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42798288": {
+      "checked_at": "2026-09-26T13:23:23.762699+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Image guided programming improves motor control chronic subthalamic nucleus deep",
         "returned": 0,
         "state": "unreported"
       }

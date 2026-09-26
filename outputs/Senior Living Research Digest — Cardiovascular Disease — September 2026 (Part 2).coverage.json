@@ -1,0 +1,989 @@
+{
+  "coverage_checked": 20,
+  "coverage_cached": 3,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42612584": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42617399": {
+      "state": "lightly_reported",
+      "outlets": [
+        "The Statesman"
+      ],
+      "articles": [
+        {
+          "title": "One serving of beans a day could lower heart disease risk, according to Acharya Balkrishna and multiple studies",
+          "outlet": "The Statesman",
+          "link": "https://www.thestatesman.com/lifestyle/health/one-serving-of-beans-a-day-could-lower-heart-disease-risk-according-to-acharya-balkrishna-and-multiple-studies-1503640066.html"
+        }
+      ]
+    },
+    "42772316": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42594758": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42424748": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42624218": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42567210": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42551563": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42501509": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42775737": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42759976": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42762436": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42679726": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42526099": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42735406": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42475970": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42570796": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42521082": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42767983": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42447644": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42746141": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42392540": {
+      "state": "widely_reported",
+      "outlets": [
+        "Pharmacy Times",
+        "Medical Xpress",
+        "Kantesti AI Blood Test Analyzer"
+      ],
+      "articles": [
+        {
+          "title": "Serial NT-proBNP May Sharpen Heart Risk Prediction in Older Adults",
+          "outlet": "Pharmacy Times",
+          "link": "https://www.pharmacytimes.com/view/serial-nt-probnp-may-sharpen-heart-risk-prediction-in-older-adults"
+        },
+        {
+          "title": "Calcium heart scans sharpen risk estimates mainly for borderline-risk adults",
+          "outlet": "Medical Xpress",
+          "link": "https://medicalxpress.com/news/2026-08-calcium-heart-scans-sharpen-borderline.html"
+        },
+        {
+          "title": "ApoE4 Test Results: Alzheimer\u2019s and Heart Risk Explained",
+          "outlet": "Kantesti AI Blood Test Analyzer",
+          "link": "https://www.kantesti.net/apoe4-test-results-alzheimers-heart-risk-explained/"
+        }
+      ]
+    },
+    "42435895": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42594758": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42612584": {
+      "pubdate": "2026 Oct",
+      "journal": "Maturitas"
+    },
+    "42424748": {
+      "pubdate": "2026 Oct",
+      "journal": "The journal of prevention of Alzheimer's disease"
+    },
+    "42772316": {
+      "pubdate": "2026 Sep 22",
+      "journal": "Lancet (London, England)"
+    },
+    "42617399": {
+      "pubdate": "2026 Oct",
+      "journal": "Clinical nutrition (Edinburgh, Scotland)"
+    },
+    "42624218": {
+      "pubdate": "2026 Dec 15",
+      "journal": "Journal of affective disorders"
+    },
+    "42567210": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42551563": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42501509": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42775737": {
+      "pubdate": "2026 Sep 23",
+      "journal": "Journal of Alzheimer's disease : JAD"
+    },
+    "42759976": {
+      "pubdate": "2026 Sep 18",
+      "journal": "BMJ (Clinical research ed.)"
+    },
+    "42526099": {
+      "pubdate": "2026 Nov",
+      "journal": "Sleep medicine"
+    },
+    "42762436": {
+      "pubdate": "2026 Sep 19",
+      "journal": "Disability and rehabilitation"
+    },
+    "42679726": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of diabetes and its complications"
+    },
+    "42570796": {
+      "pubdate": "2026 Oct",
+      "journal": "Clinical nutrition ESPEN"
+    },
+    "42475970": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42521082": {
+      "pubdate": "2026 Oct",
+      "journal": "Clinical nutrition ESPEN"
+    },
+    "42735406": {
+      "pubdate": "2026 Sep 15",
+      "journal": "Annals of internal medicine"
+    },
+    "42767983": {
+      "pubdate": "2026 Sep",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42435895": {
+      "pubdate": "2026 Oct",
+      "journal": "Clinical nutrition ESPEN"
+    },
+    "42392540": {
+      "pubdate": "2026 Oct",
+      "journal": "Clinical nutrition ESPEN"
+    },
+    "42746141": {
+      "pubdate": "2026 Jul-Sep",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)"
+    },
+    "42447644": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Your walking speed, mood and hearing may predict heart trouble as well as your blood pressure does",
+      "journal": "Maturitas",
+      "published": "2026 Oct",
+      "pmid": "42612584",
+      "doi": "10.1016/j.maturitas.2026.109089",
+      "the_study": "Researchers pooled three large long-running aging studies from China, England and the United States, following 13,807 older adults who were scored on five dimensions of \"intrinsic capacity\" \u2014 thinking, mobility, vitality, psychological health and senses (vision and hearing). Over follow-up, 3,650 people developed cardiovascular disease. Compared with people who had intact capacity and no hypertension, those with impaired capacity alone had a 53% higher risk, hypertension alone a 68% higher risk, and both together more than double the risk (HR 2.29). Risk climbed steadily with each additional impaired domain, with mobility, psychological function and sensory problems the biggest contributors.",
+      "why_it_matters": "It suggests that everyday functional decline \u2014 slower walking, low mood, fading hearing or vision \u2014 carries cardiovascular information that a blood pressure cuff alone misses, and that combining the two gives a fuller picture of who is most vulnerable.",
+      "story_angle_primary": "If you have high blood pressure and you have also noticed changes in your walking, balance, hearing, vision or mood, mention all of it at the same visit rather than treating them as separate complaints \u2014 this research suggests those functional changes may travel together with heart risk, and they are worth putting on your doctor's radar as part of the same conversation.",
+      "story_angle_secondary": "For senior living and geriatric care teams, this supports building routine multidomain function checks \u2014 gait, sensory screening, mood \u2014 into the same workflow as blood pressure monitoring, since residents flagged on both dimensions represent a distinctly higher-risk group.",
+      "caveats": "Observational cohort data; cannot establish that impaired intrinsic capacity causes cardiovascular disease. Adding the measures improved statistical discrimination only modestly (C-index 0.619 to 0.649). Cohorts differed in how domains were assessed, and findings may not generalize beyond the three countries studied."
+    },
+    {
+      "headline": "A blood-protein fingerprint of healthy eating tracked lower heart disease risk over 25 years",
+      "journal": "Clin Nutr",
+      "published": "2026 Oct",
+      "pmid": "42617399",
+      "doi": "10.1016/j.clnu.2026.106758",
+      "the_study": "Using two generations of the Framingham Heart Study (n=1,611, average age 55; and n=862, average age 46), researchers identified 11 blood proteins linked to healthy eating patterns and combined them into a single \"dietary proteomic score,\" which correlated most strongly with the DASH diet. Over a median of 25 and 13 years there were 533 cardiovascular events; a one-standard-deviation higher score was tied to 20% lower cardiovascular risk, and those in the top third had 38% lower risk than the bottom third. However, the association largely disappeared once researchers adjusted for known cardiometabolic risk factors such as blood pressure, cholesterol and blood sugar.",
+      "why_it_matters": "It offers a biological explanation for how diet quality translates into heart health \u2014 apparently working largely through the standard risk factors clinicians already measure and treat.",
+      "story_angle_primary": "There is no blood test for \"good diet\" you can ask for yet, but the practical takeaway holds: the DASH-style eating pattern \u2014 vegetables, fruit, whole grains, lean protein, less sodium \u2014 showed up in participants' blood chemistry and tracked with a lower chance of heart disease decades later, and its benefits appear to run through the very numbers your doctor already checks.",
+      "story_angle_secondary": "For dining directors and family caregivers, this reinforces that menu quality is cardiovascular care, not just comfort \u2014 and that its payoff is visible in blood pressure, lipids and glucose readings you can actually follow over time.",
+      "caveats": "Observational cohort; cannot establish causation. Diet measured by food frequency questionnaire (self-reported). The protective association was attenuated to non-significance after adjusting for cardiometabolic risk factors. Participants were middle-aged and predominantly white, limiting generalizability to older and more diverse populations. The score has not been validated in independent cohorts."
+    },
+    {
+      "headline": "The artery disease in your legs that kills more people than many cancers \u2014 and is routinely missed",
+      "journal": "Lancet",
+      "published": "2026 Sep 22",
+      "pmid": "42772316",
+      "doi": "10.1016/S0140-6736(26)00846-9",
+      "the_study": "In the first of a three-part Lancet clinical Series, an international group of vascular specialists reviews the global state of lower extremity peripheral arterial disease. They report that the condition often stays silent for years or decades and is typically diagnosed only at an advanced stage \u2014 at which point five-year mortality runs between 30% and 50%, exceeding that of severe cancer and heart attack. The authors argue that peripheral arterial disease is systematically underacknowledged, underdiagnosed and undertreated relative to heart and stroke disease, compounded by poor adherence to preventive medication and lifestyle change.",
+      "why_it_matters": "Leg pain when walking, non-healing foot sores or cold, numb feet are frequently written off as \"just aging\" in older adults \u2014 yet they can signal a condition whose survival statistics rival those of serious cancers.",
+      "story_angle_primary": "If your calves, thighs or buttocks cramp when you walk and ease when you stop, or you have a foot wound that will not heal, ask your doctor specifically about peripheral arterial disease and whether an ankle-brachial index test is appropriate \u2014 and if you are diagnosed, take the preventive medications and walking advice as seriously as you would after a heart attack.",
+      "story_angle_secondary": "For caregivers and senior living staff, this is a case for routine foot inspection and for noticing when a resident quietly stops walking as far as they used to \u2014 reduced walking distance is often the first and only sign, and it is easy to misattribute to arthritis or general frailty.",
+      "caveats": "This is a narrative clinical review and policy Series, not new primary research; it presents no original data and its recommendations reflect expert synthesis. Several authors declare consulting fees, honoraria and travel funding from industry, including AstraZeneca, Bayer, Abbott, Novo Nordisk and Gore Medical."
+    },
+    {
+      "headline": "People over 80 are dying less of heart disease \u2014 and living longer with disability instead",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42594758",
+      "doi": "10.1016/j.archger.2026.106374",
+      "the_study": "Analyzing Global Burden of Disease 2023 data from 1990 to 2023 across 10 selected countries, researchers tracked how health loss among adults aged 80 and older shifted between years of life lost to death and years lived with disability. The population aged 80+ in these countries more than tripled, from 31.8 million to 103.8 million. Death rates fell in all 10 countries (median \u221231.3%), while disability rates rose in six, and the disability share of total health burden climbed from 19.0% to 25.9%. Cardiovascular disease's share of the burden fell sharply, from 42.3% to 28.6%, while cancers and neurological conditions each grew.",
+      "why_it_matters": "The gains against heart disease in the oldest-old are real, but they are shifting the burden toward conditions that disable rather than kill \u2014 which means demand for long-term, function-preserving care will keep rising faster than mortality figures suggest.",
+      "story_angle_primary": "Progress against heart disease means more of us will reach our 80s and beyond \u2014 which makes planning for function, not just survival, the more useful goal: think about mobility, vision, hearing and cognition, and what supports you would want in place if they decline.",
+      "story_angle_secondary": "For senior living operators and policy planners, these trends quantify the shift families are already feeling: the oldest-old cohort is tripling in size and its needs are increasingly about sustained daily function and long-term care rather than acute cardiac crisis management.",
+      "caveats": "Based on modeled estimates rather than individual patient records, in a purposively selected sample of 10 countries that may not generalize. The authors explicitly caution the findings do not establish individual-level expansion or compression of morbidity. Projections are labeled exploratory."
+    },
+    {
+      "headline": "Heart risk factors were linked to more self-reported memory and thinking complaints in Hispanic/Latina women",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Oct",
+      "pmid": "42424748",
+      "doi": "10.1016/j.tjpad.2026.100637",
+      "the_study": "Researchers analyzed 5,985 middle-aged and older Hispanic/Latino adults in the Study of Latinos - Investigation of Neurocognitive Aging, comparing self-reported cognitive decline between men and women using the Everyday Cognition questionnaire. Women reported more perceived decline than men in language and visuospatial abilities. Notably, the sex gap in language complaints was smaller among participants with lower cardiovascular risk, and the gap in visuospatial complaints was smaller among those with higher English-language acculturation.",
+      "why_it_matters": "Perceived cognitive decline is often an early warning sign, and this suggests that among Hispanic/Latina women the perception is entangled with cardiovascular risk \u2014 reinforcing the heart-brain connection in a group underrepresented in dementia research.",
+      "story_angle_primary": "If you have noticed changes in word-finding or spatial skills, do not dismiss them \u2014 and know that the same blood pressure, cholesterol and diabetes numbers your doctor tracks for your heart are also part of the brain conversation, so it is reasonable to ask how your cardiovascular risk profile fits into your concerns about memory.",
+      "story_angle_secondary": "For families and clinicians working with Spanish-speaking older adults, this is a reminder that cognitive complaint questionnaires can be influenced by language and acculturation \u2014 a low or high score may reflect how the questions land as much as what is happening in the brain.",
+      "caveats": "Cross-sectional analysis of self-reported cognition, not objective testing or diagnosis; cannot establish causation. Findings are specific to Hispanic/Latino adults in US urban field centers and may not generalize. Funded in part by the National Institute on Aging and National Cancer Institute."
+    },
+    {
+      "headline": "In Diabetes, Depression Raises Heart Risk \u2014 and Blood Sugar Doesn't Explain Why",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 15;415:122401",
+      "pmid": "42624218",
+      "doi": "10.1016/j.jad.2026.122401",
+      "the_study": "Researchers tracked 571,129 Chinese adults with type 2 diabetes (mean age 60, two-thirds women) attending structured diabetes assessments in Hong Kong between 2000 and 2024, none of whom had heart disease or end-stage kidney disease at the start. About 7.5% had depression, identified through diagnostic codes or antidepressant prescriptions. Those with depression had a 21% higher risk of developing cardiovascular disease and a 30% higher risk of dying from any cause, plus more hospital admissions and longer stays. Mediation analysis found that standard cardiometabolic risk factors such as HbA1c, blood pressure and cholesterol explained only a small fraction of the excess risk \u2014 most of it was tied directly to depression itself.",
+      "why_it_matters": "For the millions of older adults managing type 2 diabetes, this suggests that mood is not a side issue but a cardiovascular risk factor in its own right, and that a well-controlled A1c does not cancel out the risk carried by untreated depression.",
+      "story_angle_primary": "If you have type 2 diabetes and have been feeling persistently low, withdrawn or hopeless, it's worth raising at your next diabetes appointment rather than waiting for a separate mental health visit \u2014 ask whether your care team screens for depression as part of routine diabetes review.",
+      "story_angle_secondary": "For clinics and senior living communities, this argues for building depression screening into diabetes management workflows rather than treating physical and mental health as separate service lines; staff who notice mood changes in residents with diabetes have a concrete reason to escalate.",
+      "caveats": "Observational design cannot establish causation; depression was identified from diagnostic codes and prescriptions, so milder or untreated depression was likely missed; Hong Kong Chinese population may not generalize elsewhere; several authors report extensive pharmaceutical industry grants and honoraria (AstraZeneca, Boehringer Ingelheim, Novo Nordisk, Sanofi and others), though the study itself is registry-based."
+    },
+    {
+      "headline": "Optimism Is Linked to Less Depression in Your 70s \u2014 But It Doesn't Cushion Life's Blows",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1;414:122359",
+      "pmid": "42567210",
+      "doi": "10.1016/j.jad.2026.122359",
+      "the_study": "Using data from the ASPREE Longitudinal Study of Older Persons, researchers followed 10,791 adults aged 70 and older who were free of cardiovascular disease, dementia, disability and depression at baseline, for a median of 3.5 years. Optimism and pessimism were measured with the Life Orientation Test-Revised, and new depression was defined by a score of 8 or higher on the 10-item CES-D. Optimism was linked to lower depression risk and pessimism to higher risk, even after accounting for lifestyle, medical factors and genetic predisposition. But contrary to expectations, optimistic people were just as affected by stressful life events such as bereavement or illness as pessimistic people were.",
+      "why_it_matters": "It reframes a common assumption in later life \u2014 that a positive outlook will carry you through hard times \u2014 and suggests that everyone, regardless of temperament, needs real support when major losses hit.",
+      "story_angle_primary": "A hopeful outlook may be linked to better mood overall, but don't expect it to shield you when a spouse dies or a serious diagnosis lands \u2014 if you're going through a major life event, seek support proactively rather than assuming your usual resilience will carry you.",
+      "story_angle_secondary": "Caregivers and community staff often triage emotional support toward residents who seem visibly fragile; this study suggests the cheerful, stoic resident who has just lost a partner may be at comparable risk and shouldn't be overlooked.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; depression measured by self-reported symptom scale rather than clinical diagnosis; participants were relatively healthy volunteers aged 70+ (largely Australian and US), which may limit generalizability; median follow-up of only 3.5 years."
+    },
+    {
+      "headline": "An Eye Photo May Hold Clues to Depression and Heart Risk Years Ahead",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1;414:122349",
+      "pmid": "42551563",
+      "doi": "10.1016/j.jad.2026.122349",
+      "the_study": "Researchers analyzed retinal photographs from 43,445 UK Biobank participants \u2014 40,905 without depression and 2,540 with depression at baseline \u2014 using automated software to measure the width, density and twistiness of blood vessels at the back of the eye. Over a median 11.3 years, people with wider retinal veins were about 25-31% more likely to develop depression. Among those who already had depression, more tortuous (twisted) retinal vessels were associated with roughly double the risk of subsequent cardiovascular disease.",
+      "why_it_matters": "Routine retinal photographs, already taken at many eye exams and diabetic screenings, may eventually double as an early warning signal for mood and heart problems \u2014 though this is a research finding, not yet a clinical test.",
+      "story_angle_primary": "This is early-stage science, so don't request a retinal scan for heart or mood screening \u2014 but it's one more reason to keep your regular eye exams, since the back of your eye offers a rare direct view of small blood vessels throughout your body.",
+      "story_angle_secondary": "For care professionals, the practical takeaway today is coordination: eye exam findings are rarely fed back into cardiovascular or mental health care, and this research hints that gap may matter more than previously assumed.",
+      "caveats": "Observational study \u2014 cannot establish causation; UK Biobank volunteers are healthier and less diverse than the general population; retinal measures were automated and require external validation; the cardiovascular analysis rested on a small subgroup of roughly 1,500 people, producing wide confidence intervals."
+    },
+    {
+      "headline": "Metabolic Syndrome, Not Weak Grip, Drives Stroke Risk After 50",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov;150:106361",
+      "pmid": "42501509",
+      "doi": "10.1016/j.archger.2026.106361",
+      "the_study": "Researchers followed 6,200 Chinese adults aged 50 and older in the China Health and Retirement Longitudinal Study, classifying them by whether they had metabolic syndrome (a cluster of high waist circumference, blood pressure, blood sugar, triglycerides and low HDL) and whether they had low handgrip strength. Metabolic syndrome alone was associated with roughly double the risk of a new stroke, and having both conditions carried a similar risk. Low grip strength on its own was not significantly associated with stroke, and the two conditions did not amplify each other.",
+      "why_it_matters": "It helps older adults and their clinicians prioritize: when both a metabolic problem and physical weakness are present, the metabolic side appears to be what's driving stroke risk and deserves first attention.",
+      "story_angle_primary": "If you've been told you have metabolic syndrome \u2014 a combination of waist size, blood pressure, blood sugar and cholesterol problems \u2014 ask your doctor what your stroke prevention plan looks like; strength training remains valuable for falls and independence, but it shouldn't substitute for managing those metabolic numbers.",
+      "story_angle_secondary": "Senior living programs that emphasize strength and mobility should pair those efforts with attention to blood pressure, weight and diabetes management, since grip strength alone appears not to be the lever for stroke prevention in this population.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; strokes were identified by self-reported physician diagnosis, which may miss or misclassify events; findings come from middle-aged and older Chinese adults and may not generalize to other populations; grip strength thresholds used Asian-specific criteria."
+    },
+    {
+      "headline": "Big Trial Finds Multivitamins and Cocoa Extract Don't Move Brain-Damage Markers in Blood",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Sep 23",
+      "pmid": "42775737",
+      "doi": "10.1177/13872877261489739",
+      "the_study": "Researchers used blood samples from participants in COSMOS, a randomized placebo-controlled trial of a daily multivitamin-multimineral (Centrum Silver) and/or a cocoa flavanol extract in older US adults free of major cardiovascular disease and recent cancer. In roughly 500 participants, they measured two-year changes in three blood markers linked to neurodegeneration: neurofilament light chain, an N-terminal tau fragment, and oligomeric amyloid-beta. Neither the multivitamin nor the cocoa extract changed any of the three markers compared with placebo.",
+      "why_it_matters": "Earlier COSMOS results hinted that a daily multivitamin might modestly help cognitive scores; this analysis suggests any such benefit does not show up as slowed nerve-cell damage or reduced amyloid in the blood, which tempers marketing claims about supplements 'protecting the brain.'",
+      "story_angle_primary": "If you take a daily multivitamin or cocoa flavanol supplement hoping to protect your brain, know that this rigorous trial found no effect on blood markers of brain injury or Alzheimer-related proteins over two years \u2014 worth discussing with your clinician before you spend money on higher-priced 'brain health' formulations.",
+      "story_angle_secondary": "For families and senior living staff fielding questions about supplement regimens, this gives an evidence-based talking point: supplements are not a substitute for blood pressure control, hearing care, exercise, and social engagement, which have stronger evidence behind them.",
+      "caveats": "Ancillary analysis of a subset (about 500 of a much larger trial), two-year follow-up only, biomarker outcomes rather than clinical dementia diagnoses; participants were relatively healthy older US adults, which may limit generalizability. COSMOS supplements were provided by industry partners (Pfizer Consumer Healthcare/Haleon for Centrum Silver and Mars Edge for cocoa extract)."
+    },
+    {
+      "headline": "For the Oldest Kidney Patients, a Lower-Quality Donor Kidney May Not Beat Staying on Dialysis",
+      "journal": "BMJ",
+      "published": "2026 Sep 18",
+      "pmid": "42759976",
+      "doi": "10.1136/bmj-2026-100624",
+      "the_study": "Using registry data from five European countries, researchers emulated a clinical trial among 64,036 dialysis patients aged 20 and older who were waitlisted for a first deceased-donor kidney between 2000 and 2019; 39,244 received a transplant. Standard-criteria donor kidneys were linked to better five-year survival than continued dialysis at every age. But the advantage of 'expanded criteria' donor kidneys shrank with age: among 75-year-olds receiving an expanded-criteria kidney donated after circulatory death, five-year survival was 59% versus 55% on dialysis \u2014 not a statistically significant difference \u2014 and early post-transplant death was about three times higher.",
+      "why_it_matters": "Older adults facing kidney failure are often offered marginal-quality kidneys to shorten waiting time; this is the clearest evidence yet that for the oldest patients, that trade-off may not extend life and carries a real upfront risk of dying soon after surgery.",
+      "story_angle_primary": "If you or your spouse is on dialysis and being offered a kidney, ask the transplant team specifically what kind of donor kidney it is (standard versus expanded criteria, donation after brain death versus circulatory death) and what the estimated survival benefit is for someone your age \u2014 the answer can differ substantially.",
+      "story_angle_secondary": "For families and care coordinators, this study reframes the conversation around what matters beyond survival: quality of life off dialysis, recovery burden after major surgery, and the higher early mortality risk that should be part of any shared decision-making discussion.",
+      "caveats": "Observational registry data with target trial emulation \u2014 cannot fully establish causation, and unmeasured differences between those who received transplants and those who waited may remain. Estimates for the oldest recipients had wide confidence intervals. European registries may not generalize to US practice. Numerous authors report industry relationships; the ERA Registry is funded by the European Renal Association."
+    },
+    {
+      "headline": "Fear of Moving After a Heart Event Is Common \u2014 and Exercise Programs Appear to Ease It",
+      "journal": "Disabil Rehabil",
+      "published": "2026 Sep 19",
+      "pmid": "42762436",
+      "doi": "10.1080/09638288.2026.2732177",
+      "the_study": "Researchers pooled 10 studies covering 1,505 patients with cardiovascular disease to test whether structured exercise programs reduce kinesiophobia \u2014 the fear of physical movement that often develops after a heart attack or cardiac surgery. Exercise interventions were associated with meaningfully lower fear-of-movement scores (standardized mean difference -0.91), though results varied widely between studies and all studies carried a moderate risk of bias. Only 2 of the 10 studies reported adequate safety data.",
+      "why_it_matters": "Fear of exertion is a major and under-recognized reason older heart patients avoid rehabilitation, deconditioning further; this review suggests supervised exercise itself can help break that cycle, ideally alongside education and psychological support.",
+      "story_angle_primary": "If you've been avoiding walking, stairs or exercise since a cardiac event because you're afraid of triggering another one, that fear is common and treatable \u2014 ask your cardiologist or rehab team to screen you for fear of movement and to start you on a supervised program with monitoring so you can rebuild confidence safely.",
+      "story_angle_secondary": "For caregivers and senior living activity staff: reluctance to join exercise classes after a heart event may be fear rather than apathy or frailty. Routine screening with validated tools on admission, real-time vital sign monitoring, and pairing exercise with plain-language education about what is actually safe can convert avoidance into participation.",
+      "caveats": "Systematic review of moderate-quality studies with very high statistical heterogeneity (I\u00b2 = 93%); safety data were reported in only two studies; subgroup findings on exercise dose are exploratory and cannot support specific prescriptions. Self-reported fear scales were the primary outcome."
+    },
+    {
+      "headline": "Semaglutide Nudged Blood Vessel Function in Type 2 Diabetes \u2014 But the Signal Was Mixed",
+      "journal": "J Diabetes Complications",
+      "published": "2026 Oct",
+      "pmid": "42679726",
+      "doi": "10.1016/j.jdiacomp.2026.109397",
+      "the_study": "In a post hoc analysis of a 32-week randomized trial, 120 adults aged 50 and older with type 2 diabetes received semaglutide, empagliflozin, both, or placebo, and researchers measured markers of blood vessel lining (endothelial) health. Semaglutide improved the reactive hyperemic index compared with participants' own baseline but not significantly versus placebo, and lowered the adhesion molecule E-Selectin versus placebo \u2014 yet VCAM-1 actually rose in the semaglutide and combination groups. Empagliflozin showed no effect on vessel reactivity.",
+      "why_it_matters": "These widely prescribed diabetes drugs clearly cut heart attacks and strokes in large outcome trials, but this analysis suggests improved endothelial function is not a simple, unified explanation for how they work.",
+      "story_angle_primary": "If you take semaglutide or empagliflozin for type 2 diabetes, the cardiovascular benefits established in large outcome trials still stand \u2014 this smaller study simply couldn't pin down the biological mechanism, so it's not a reason to change anything about your treatment.",
+      "story_angle_secondary": "Limited direct relevance for caregivers beyond understanding that mechanistic studies like this one rarely change day-to-day care; medication decisions should stay anchored to the large cardiovascular outcome trials.",
+      "caveats": "Post hoc analysis not designed to answer this question, small sample (N=120), single-center Danish trial, 32-week follow-up, surrogate biomarker outcomes rather than clinical events, and authors acknowledge limited statistical power. Multiple authors report funding from the Novo Nordisk Foundation and relationships with Novo Nordisk, AstraZeneca, and Bayer."
+    },
+    {
+      "headline": "Going to Bed at the Same Time Every Night Tracked With Lower Blood Pressure",
+      "journal": "Sleep Med",
+      "published": "2026 Nov",
+      "pmid": "42526099",
+      "doi": "10.1016/j.sleep.2026.109169",
+      "the_study": "Researchers in Hong Kong measured blood pressure and one week of wrist-worn accelerometer sleep data in 500 community-dwelling adults (mean age 39, 66% women), combining sleep efficiency, regularity, duration, timing, satisfaction and daytime alertness into a single sleep health score. After adjusting for demographics, lifestyle, stress and existing hypertension diagnoses, people with the best sleep health scores had systolic blood pressure about 4 mmHg lower and diastolic about 3 mmHg lower than those with the worst. Sleep regularity stood out as the individual dimension most consistently linked to blood pressure, and better sleep timing was associated with lower odds of hypertension.",
+      "why_it_matters": "A 3-4 mmHg difference in blood pressure is on the order of what some lifestyle interventions achieve, and sleep regularity \u2014 going to bed and waking at consistent times \u2014 is a modifiable habit that doesn't require a prescription.",
+      "story_angle_primary": "Consistency may matter as much as hours: if your bedtime drifts widely from night to night, try anchoring your sleep and wake times, and keep tracking your home blood pressure readings so you and your clinician can see whether anything changes.",
+      "story_angle_secondary": "For senior living operators and family caregivers, this supports building predictable evening and morning routines \u2014 consistent lights-out, stable meal and activity schedules, and minimizing nighttime disruptions from checks or noise \u2014 as a low-cost part of cardiovascular care.",
+      "caveats": "Cross-sectional design cannot establish causation or direction of effect; the sample averaged 39 years old and was two-thirds female, so findings may not generalize to older adults; some sleep dimensions were self-reported; single city (Hong Kong); N=500 is modest for the number of subgroups examined. Funded by the National Natural Science Foundation of China and the Health and Medical Research Fund."
+    },
+    {
+      "headline": "New VA/DoD Cholesterol Guideline Pushes Harder Treatment for People Who Already Have Heart Disease",
+      "journal": "Ann Intern Med",
+      "published": "2026 Sep 15",
+      "pmid": "42735406",
+      "doi": "10.7326/ANNALS-26-01374",
+      "the_study": "A joint Department of Veterans Affairs and Department of Defense panel updated its 2020 lipid management guideline, reviewing English-language evidence published from May 2019 through January 2025 and issuing 24 graded recommendations. Key changes: use of the PREVENT risk calculator for primary prevention, removal of the prior recommendation against routine lipid monitoring, coronary artery calcium scanning when risk is uncertain, and a one-time lipoprotein(a) test to spot hidden inherited risk. For people who already have atherosclerotic cardiovascular disease and are at very high risk, the guideline now suggests combining a high-intensity or maximally tolerated statin with ezetimibe and/or a PCSK9 inhibitor.",
+      "why_it_matters": "Most people on cholesterol medication are older adults, and this update changes both how risk is estimated and how aggressively cholesterol is lowered after a heart attack or stroke \u2014 potentially meaning added medications for many patients.",
+      "story_angle_primary": "If you've had a heart attack, stroke, or stent, it's reasonable to ask your clinician whether your current statin is enough or whether adding ezetimibe or a PCSK9 inhibitor fits the newer, more intensive approach \u2014 and if you've never had a lipoprotein(a) test, ask whether a one-time check makes sense for you.",
+      "story_angle_secondary": "For families and care staff, the shift toward combination lipid therapy means more pills, injections, and refill coordination; it's worth reviewing medication lists at care conferences and raising goals-of-care questions for very frail or limited-life-expectancy residents, where intensive prevention may not serve them.",
+      "caveats": "This is a guideline synopsis, not new primary research; recommendations were developed for a veteran and military population that skews male, and several recommendations are graded as 'suggestions' rather than strong evidence. Multiple authors report institutional and industry disclosures (forms posted with the article)."
+    },
+    {
+      "headline": "Having Several Chronic Conditions Doubles Death Risk \u2014 And Mixing Physical and Mental Illness Is the Riskiest Combination",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42475970",
+      "doi": "10.1016/j.archger.2026.106358",
+      "the_study": "Researchers pooled 69 population-based cohort studies covering more than 22.7 million people to quantify how multimorbidity \u2014 living with multiple chronic conditions \u2014 relates to death. Multimorbidity roughly doubled all-cause mortality risk (hazard ratio 2.02) and nearly tripled cardiovascular death risk (HR 2.77) in the general population. Risk was highest among those with cardiovascular clusters (HR 2.28 for all-cause death) and, most strikingly, those with combined physical and mental health conditions (HR 4.01).",
+      "why_it_matters": "It quantifies what many older adults experience daily \u2014 that conditions don't arrive one at a time \u2014 and makes the case that treating depression alongside heart disease or diabetes may matter as much as treating any one of them.",
+      "story_angle_primary": "If you're managing several conditions at once, especially heart disease plus depression or anxiety, consider asking for a single coordinated care review rather than separate appointments with separate specialists \u2014 and don't treat low mood as a side issue to your physical health.",
+      "story_angle_secondary": "For senior living operators and care managers, these findings argue for integrated, patient-centered care models over siloed disease management, and for screening residents with cardiovascular disease for depression and cognitive concerns rather than treating mental health as a separate service line.",
+      "caveats": "Meta-analysis of observational cohort studies \u2014 association, not causation. Statistical heterogeneity between studies was extremely high (I\u00b2 up to 99.8%), and some pooled estimates rest on very few studies (as few as two for cancer mortality in cardiovascular multimorbidity)."
+    },
+    {
+      "headline": "One in Five Hospitalized Older Patients Had a Swallowing Problem Nobody Had Flagged",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct",
+      "pmid": "42570796",
+      "doi": "10.1016/j.clnesp.2026.105016",
+      "the_study": "Over six months at a Danish hospital, staff screened 679 patients admitted to a pulmonary medicine department \u2014 everyone 65 or older plus younger patients with risk factors \u2014 using a simple four-question test and a 30 mL water swallow test. Of those screened, 160 (17%) flagged positive, and when 118 went on to a full clinical swallow assessment, dysphagia was confirmed in 111 (94%). More than half of the positive screens had no prior dysphagia diagnosis, and screening positivity was actually higher among patients admitted for non-pulmonary reasons, including cardiovascular disease (32%), than for lung conditions (21%).",
+      "why_it_matters": "Undetected swallowing difficulty raises the risk of aspiration pneumonia, malnutrition, and dehydration in hospitalized older adults \u2014 and this study shows a bedside test taking a few minutes catches most of it.",
+      "story_angle_primary": "If you or someone you're with is admitted to the hospital and has been coughing during meals, feeling food stick, or avoiding certain textures, mention it on day one and ask whether a swallow screen has been done \u2014 the screening tests used here are quick and don't require special equipment.",
+      "story_angle_secondary": "For senior living and hospital staff, the takeaway is that dysphagia risk doesn't follow the admission diagnosis: cardiac and infection admissions screened positive more often than pulmonary ones, so universal screening of older admissions beats targeting by diagnosis.",
+      "caveats": "Single-center Danish study with an observational design; 121 eligible patients were never screened because of early discharge or time constraints, which may bias the prevalence estimate. The 94% confirmation rate applies only to those who completed full assessment, and findings may not generalize to other health systems."
+    },
+    {
+      "headline": "Olive Oil's Antioxidant Boost Depended on Who Was Drinking It \u2014 Not How Many Phenols It Contained",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct",
+      "pmid": "42521082",
+      "doi": "10.1016/j.clnesp.2026.103625",
+      "the_study": "In a pilot randomized trial, 34 older adults (average age 73, 65% men) \u2014 some healthy, some recovering from a heart attack \u2014 consumed 25 mL a day of standard extra-virgin olive oil, phenol-enriched EVOO, or refined olive oil for 26 weeks. Within the standard EVOO group, blood antioxidant capacity rose significantly more in post-heart-attack participants than in healthy controls, and more in those who already ate a Mediterranean-style diet than in those who didn't. Extra phenolic enrichment produced no added benefit over standard EVOO.",
+      "why_it_matters": "It suggests that premium 'high-polyphenol' olive oils marketed at a premium price may not outperform ordinary extra-virgin olive oil, and that the surrounding diet matters more than the supplement-style intensity of any single food.",
+      "story_angle_primary": "If you're adding olive oil for heart health, this small trial gives no reason to pay extra for phenol-enriched products \u2014 standard extra-virgin olive oil eaten within an overall Mediterranean-style pattern of vegetables, legumes, fish, and whole grains is where the measurable response showed up.",
+      "story_angle_secondary": "For dining directors and caregivers planning menus, the finding supports investing in the whole dietary pattern rather than single 'functional' ingredients \u2014 the olive oil response was strongest in people whose baseline diet already looked Mediterranean.",
+      "caveats": "Very small pilot trial (N=34) at a single Canadian center with short-term follow-up and a surrogate biochemical outcome (plasma antioxidant capacity), not clinical events like heart attacks. Baseline diet was assessed by self-reported 3-day food diaries; the authors themselves call for larger trials."
+    },
+    {
+      "headline": "Heart Disease \u2014 Not Stroke \u2014 Tracks With Faster Memory Loss Across Four Western Countries",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Sep",
+      "pmid": "42767983",
+      "doi": "10.1002/alz.71843",
+      "the_study": "Researchers pooled individual data on 83,159 adults aged 50 and older from five major aging cohorts spanning 24 countries (CHARLS in China, the US Health and Retirement Study, SHARE in Europe, ELSA in England, and the Mexican Health and Aging Study) and tracked cognitive test scores over time. Across the four Western cohorts, heart disease was consistently linked to accelerated cognitive decline, while stroke alone showed no significant association in any cohort. The China cohort behaved differently \u2014 in some analyses the association reversed \u2014 and overall heterogeneity between cohorts was very large (I2 = 97.5%).",
+      "why_it_matters": "It suggests the heart, not just the brain's blood vessels, deserves attention in conversations about protecting memory \u2014 and that findings from one country's population may not transfer to another.",
+      "story_angle_primary": "If you have been diagnosed with heart disease \u2014 heart failure, atrial fibrillation, coronary artery disease \u2014 it is reasonable to ask your doctor how your cardiac care and medications fit into your broader brain health picture, and to request cognitive screening as part of routine follow-up rather than waiting until a problem is obvious.",
+      "story_angle_secondary": "For care teams and families: residents with cardiac diagnoses may warrant closer cognitive monitoring than those with stroke history alone, and this study is a caution against applying dementia risk estimates derived from one population to residents from very different backgrounds.",
+      "caveats": "Observational pooled cohort data \u2014 cannot establish causation. Enormous unexplained heterogeneity between cohorts, with opposite-direction findings in China versus Western countries, means conclusions are unsettled. Cardiovascular diagnoses and medication use were measured inconsistently across studies."
+    },
+    {
+      "headline": "Belly Fat Plus a Weak Grip: A Two-Part Warning Sign for Heart Disease and Stroke",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42447644",
+      "doi": "10.1016/j.archger.2026.106356",
+      "the_study": "Researchers followed 6,967 middle-aged and older Chinese adults (mean age 58.6, 52.8% female) who were free of cardiovascular disease at baseline for a median of 8.9 years, measuring the visceral adiposity index (a calculation combining waist size, BMI, triglycerides and HDL cholesterol) and handgrip strength. Nearly a quarter (22.1%) developed cardiovascular disease. Higher visceral adiposity was tied to a 36% higher risk of cardiovascular disease and an 82% higher stroke risk; stronger grip was tied to lower risk; and those with both high visceral fat and weak grip had the highest risk of all (51% elevated).",
+      "why_it_matters": "Two simple, inexpensive measures \u2014 waist-based fat distribution and how hard you can squeeze \u2014 together flag cardiovascular vulnerability better than either alone, and both are potentially modifiable through diet and resistance training.",
+      "story_angle_primary": "Grip strength is one of the few aging markers you can actively train \u2014 ask whether your checkup includes a grip test alongside waist measurement, and consider whether your exercise routine includes resistance work, not just walking.",
+      "story_angle_secondary": "Senior living and wellness programs already collect grip strength for frailty screening; this study suggests that pairing those numbers with waist and lipid data could help identify residents who would benefit most from strength classes and cardiometabolic referral.",
+      "caveats": "Observational design \u2014 cannot prove that building grip strength lowers heart risk. Cardiovascular events were based on self-reported physician diagnoses. Single-country Chinese cohort with mean age under 60, so findings may not generalize to older or Western populations. Funded by Chinese government research programs."
+    },
+    {
+      "headline": "Vitamin D and Fish Oil Failed to Move Alzheimer's Blood Markers Over Four Years",
+      "journal": "Alzheimers Dement (N Y)",
+      "published": "2026 Sep 14",
+      "pmid": "42746141",
+      "doi": "10.1002/trc2.70312",
+      "the_study": "In a secondary analysis of the large VITAL randomized placebo-controlled trial, researchers measured four blood markers linked to Alzheimer's disease and related dementias in 929 participants (mean age 65, 49% female, 8.2% Black) at baseline and at two and four years. Neither 2000 IU/day of vitamin D3 nor 1 g/day of marine omega-3 fatty acids significantly changed any of the biomarkers compared with placebo. Exploratory subgroup analyses hinted at possible effects among men and among Black participants, but these were not corrected for multiple testing.",
+      "why_it_matters": "Millions of older adults take these supplements partly in hope of protecting their brains; this rigorous trial analysis finds no biomarker evidence that they do.",
+      "story_angle_primary": "If you are taking vitamin D or fish oil specifically hoping to stave off dementia, this trial gives you no support for that reason \u2014 worth a conversation with your doctor about whether you have another evidence-based indication, such as documented vitamin D deficiency.",
+      "story_angle_secondary": "For families and communities managing residents' supplement regimens: this is a useful reference point when reviewing pill burden, since brain protection is a common but unsupported justification for continuing these products.",
+      "caveats": "Secondary analysis of a trial designed for cardiovascular and cancer endpoints; biomarker subcohort of 929 is modest relative to the parent trial. Subgroup signals by sex and race were uncorrected for multiple comparisons and are hypothesis-generating only. Participants were relatively young (mean 65) and healthy; four-year follow-up may be too short. Several investigators report industry relationships, including Mars Edge and Nordic Naturals."
+    },
+    {
+      "headline": "A Combined Blood Test Score May Sharpen Heart Risk Prediction in Older Adults",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct",
+      "pmid": "42392540",
+      "doi": "10.1016/j.clnesp.2026.103445",
+      "the_study": "Using 9,190 participants from a nationwide Chinese health and retirement cohort who had no history of stroke or heart disease at baseline, researchers combined two markers \u2014 TyG-BMI, an index of insulin resistance, and hs-CRP, a marker of low-grade inflammation \u2014 and tracked new cardiovascular events. Participants with both markers elevated had a roughly 22% higher risk of cardiovascular disease overall; the association was strongest for heart disease in those aged 45\u201359 and for stroke in those aged 60\u201369 (69% higher risk).",
+      "why_it_matters": "Insulin resistance and inflammation often go unmeasured in routine heart risk assessment, yet both are influenced by diet, weight and activity \u2014 and together they may identify people whose risk standard calculators miss.",
+      "story_angle_primary": "At your next physical, you can ask whether your risk assessment accounts for insulin resistance and inflammation, not just cholesterol and blood pressure \u2014 though these particular combined markers are not yet part of standard clinical guidelines.",
+      "story_angle_secondary": "Limited direct relevance for day-to-day caregiving; the main takeaway for professionals is that metabolic and inflammatory markers may become part of future cardiovascular risk conversations.",
+      "caveats": "Observational cohort \u2014 cannot establish causation. Cardiovascular events based on self-reported physician diagnoses. Single-country Chinese population that may not generalize. The authors themselves note the findings require validation in independent cohorts before clinical use."
+    },
+    {
+      "headline": "Inflammatory Diets Linked to Worse Outcomes Across 90 Reviews \u2014 But the Evidence Base Is Shaky",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct",
+      "pmid": "42435895",
+      "doi": "10.1016/j.clnesp.2026.103590",
+      "the_study": "Researchers conducted an umbrella review \u2014 a review of reviews \u2014 pulling together 90 systematic reviews and meta-analyses examining the Dietary Inflammatory Index, a score rating how pro- or anti-inflammatory a person's overall diet is. The reviews covered cancer, mortality, metabolic disorders, cardiovascular disease, cognition and mental health, body composition, and bone disorders. Higher (more pro-inflammatory) diet scores were consistently associated with worse outcomes, but the authors rated most underlying reviews as low or critically low methodological quality.",
+      "why_it_matters": "It reinforces the broad case for anti-inflammatory eating patterns \u2014 vegetables, fruit, legumes, nuts, whole grains, fatty fish \u2014 while being honest that the evidence is associative rather than proven cause and effect.",
+      "story_angle_primary": "You do not need a diet score to act on this: shifting toward more vegetables, fruit, legumes, nuts, whole grains and oily fish, and away from refined sugars and processed fats, is low-risk and supported by a broad body of associational evidence.",
+      "story_angle_secondary": "For dining directors and family meal planners: menu design that leans anti-inflammatory aligns with this evidence, but claims that a specific diet score prevents cancer or dementia would overstate what these reviews actually show.",
+      "caveats": "Umbrella review of observational literature \u2014 cannot establish causation. The authors explicitly rate most included reviews as low or critically low methodological quality, and note randomized trials are still needed. Dietary intake in the underlying studies was self-reported."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42612584",
+      "headline": "Your walking speed, mood and hearing may predict heart trouble as well as your blood pressure does",
+      "verdict": "minor",
+      "notes": "All numbers (N=13,807; 3,650 events; HRs 1.53/1.68/2.29; C-index 0.619\u21920.649; contributing domains) match the abstract. Only the headline's implied head-to-head comparison with blood pressure goes slightly beyond what was tested.",
+      "issues": [
+        {
+          "label": "Headline implies untested comparison",
+          "severity": "Minor",
+          "as_written": "Your walking speed, mood and hearing may predict heart trouble as well as your blood pressure does",
+          "abstract_says": "impaired IC alone (HR 1.53, 95% CI 1.34-1.74) and hypertension alone (HR 1.68, 95% CI 1.46-1.93) were associated with higher CVD risk... Adding IC impairment and hypertension modestly improved model discrimination",
+          "problem": "The study reported separate hazard ratios and a modest combined improvement in discrimination; it did not formally compare the predictive performance of intrinsic capacity against blood pressure, so 'as well as your blood pressure does' is an inference.",
+          "suggested_fix": "Reword to something like 'carry heart-risk information on top of your blood pressure' or 'were linked to heart trouble about as strongly as hypertension was in this analysis'."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42617399",
+      "headline": "A blood-protein fingerprint of healthy eating tracked lower heart disease risk over 25 years",
+      "verdict": "minor",
+      "notes": "Sample sizes, ages, 533 events, 20% and 38% risk reductions, DASH correlation and the attenuation after cardiometabolic adjustment all match. The caveat that participants were 'predominantly white' is not stated in the abstract (unverifiable from abstract only, though consistent with the Framingham cohort) and is a conservative addition.",
+      "issues": [
+        {
+          "label": "Attenuation treated as demonstrated mechanism",
+          "severity": "Minor",
+          "as_written": "It offers a biological explanation for how diet quality translates into heart health \u2014 apparently working largely through the standard risk factors clinicians already measure and treat.",
+          "abstract_says": "these associations were attenuated after further adjustment for known cardiometabolic risk factors (1-SD: HR 0.94, [0.85, 1.04]; T3 vs T1: 0.81 [0.63, 1.03])",
+          "problem": "Attenuation after covariate adjustment is suggestive but is not a formal mediation analysis; the abstract only says the findings 'provide insight into the mechanisms' and calls for further study.",
+          "suggested_fix": "Say the association weakened once blood pressure, lipids and glucose were accounted for, which is consistent with \u2014 but does not prove \u2014 those factors being the pathway."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42772316",
+      "headline": "The artery disease in your legs that kills more people than many cancers \u2014 and is routinely missed",
+      "verdict": "minor",
+      "notes": "Correctly identified as paper 1 of a three-part Lancet clinical Series; the 30\u201350% five-year mortality figure, the 'underacknowledgment, underdiagnosis, undertreatment' framing and the industry disclosures all check out. Several clinical specifics in the story angles are not in the abstract.",
+      "issues": [
+        {
+          "label": "Headline conflates mortality rate with number of deaths",
+          "severity": "Minor",
+          "as_written": "The artery disease in your legs that kills more people than many cancers",
+          "abstract_says": "the overall 5-year mortality is between 30% and 50%, thus even surpassing outcomes of severe cancer and acute myocardial infarction",
+          "problem": "The abstract describes a higher five-year mortality rate among diagnosed patients, not a higher absolute number of deaths than cancers.",
+          "suggested_fix": "Reword to 'whose five-year survival is worse than that of many severe cancers'."
+        },
+        {
+          "label": "Ankle-brachial index recommendation not in abstract",
+          "severity": "Minor",
+          "as_written": "ask your doctor specifically about peripheral arterial disease and whether an ankle-brachial index test is appropriate",
+          "abstract_says": "The abstract discusses underdiagnosis and preventive measures but does not mention the ankle-brachial index or any specific diagnostic test.",
+          "problem": "A specific test recommendation is attributed to a narrative Series paper that does not mention it in the abstract.",
+          "suggested_fix": "Flag as 'Unverifiable from abstract only' or attribute the ABI suggestion to general clinical practice rather than this paper."
+        },
+        {
+          "label": "Claim about reduced walking distance as first sign",
+          "severity": "Minor",
+          "as_written": "reduced walking distance is often the first and only sign, and it is easy to misattribute to arthritis or general frailty",
+          "abstract_says": "Individuals with peripheral arterial disease frequently remain asymptomatic for many years, often decades, and are typically diagnosed only at an advanced stage",
+          "problem": "The abstract says patients are often asymptomatic; it makes no claim that reduced walking distance is the first and only sign.",
+          "suggested_fix": "Soften to 'symptoms can be subtle or absent for years' or note the detail is not verifiable from the abstract."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42594758",
+      "headline": "People over 80 are dying less of heart disease \u2014 and living longer with disability instead",
+      "verdict": "minor",
+      "notes": "Population growth (31.8M\u2192103.8M), median YLL decline of \u221231.3%, YLD increases in six countries, DBR 19.0%\u219225.9% and the cardiovascular share drop 42.3%\u219228.6% are all accurate. The headline states the individual-level 'expansion of morbidity' conclusion the authors explicitly disclaim, and 'death rates' is a loose gloss on YLL rates.",
+      "issues": [
+        {
+          "label": "Headline asserts the conclusion the authors disclaim",
+          "severity": "Moderate",
+          "as_written": "People over 80 are dying less of heart disease \u2014 and living longer with disability instead",
+          "abstract_says": "The findings support greater emphasis on function-preserving geriatric care and long-term care, but do not by themselves establish individual-level expansion or compression of morbidity... no country reached a YLD-over-YLL crossover",
+          "problem": "'Living longer with disability instead' is precisely the individual-level expansion-of-morbidity claim the authors say their data cannot establish; the digest's own caveat contradicts the headline and 'Why it matters' text.",
+          "suggested_fix": "Reword to 'a growing share of their health loss comes from disability rather than early death' and keep the aggregate-level framing throughout."
+        },
+        {
+          "label": "YLL rates described as death rates",
+          "severity": "Minor",
+          "as_written": "Death rates fell in all 10 countries (median \u221231.3%), while disability rates rose in six",
+          "abstract_says": "YLL ASRs declined in all 10 countries (median change, -31.3%), whereas YLD ASRs increased in six (median change, +1.9%)",
+          "problem": "The measures are age-standardized years of life lost and years lived with disability, not crude death or disability rates.",
+          "suggested_fix": "Write 'rates of years of life lost fell... rates of years lived with disability rose in six'."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42424748",
+      "headline": "Heart risk factors were linked to more self-reported memory and thinking complaints in Hispanic/Latina women",
+      "verdict": "minor",
+      "notes": "The body text accurately reports the sex differences in language and visuospatial SCD and the two effect modifications. The headline recasts an interaction as a main effect and names domains (memory) where no difference was reported.",
+      "issues": [
+        {
+          "label": "Headline misstates the finding and the domains",
+          "severity": "Moderate",
+          "as_written": "Heart risk factors were linked to more self-reported memory and thinking complaints in Hispanic/Latina women",
+          "abstract_says": "Overall, females reported more SCD in language and visuospatial domains. This was less pronounced for 1) language SCD at lower levels of CVD risk, and 2) visuospatial SCD with higher language acculturation.",
+          "problem": "The study's primary finding is a sex difference in language and visuospatial subjective decline; cardiovascular risk appeared only as a modifier of that sex gap, not as a direct association with 'memory and thinking complaints'.",
+          "suggested_fix": "Reword to 'The gap between Hispanic/Latina women's and men's language-related cognitive complaints was narrower among those with lower cardiovascular risk'."
+        },
+        {
+          "label": "Acculturation measure specified as English-language",
+          "severity": "Minor",
+          "as_written": "the gap in visuospatial complaints was smaller among those with higher English-language acculturation",
+          "abstract_says": "visuospatial SCD with higher language acculturation",
+          "problem": "The abstract refers to 'language acculturation' without specifying English; the specification is an inference.",
+          "suggested_fix": "Use 'higher language acculturation' as the abstract does."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42624218",
+      "headline": "In Diabetes, Depression Raises Heart Risk \u2014 and Blood Sugar Doesn't Explain Why",
+      "verdict": "minor",
+      "notes": "N=571,129, 7.5% depression prevalence, HR 1.21 for CVD, HR 1.30 for all-cause death, greater hospitalisation burden and the predominantly direct (non-mediated) effect all match. Industry disclosures are correctly flagged. The headline's verb is causal for a registry cohort.",
+      "issues": [
+        {
+          "label": "Causal verb in headline",
+          "severity": "Moderate",
+          "as_written": "In Diabetes, Depression Raises Heart Risk \u2014 and Blood Sugar Doesn't Explain Why",
+          "abstract_says": "Depression is associated with greater risks for incident cardiovascular disease and all-cause death in people with type 2 diabetes.",
+          "problem": "'Raises' asserts causation from an observational registry analysis; the abstract consistently uses 'associated with'.",
+          "suggested_fix": "Change to 'Depression Is Linked to Higher Heart Risk \u2014 and Blood Sugar Doesn't Explain Why'."
+        },
+        {
+          "label": "Named mediators not specified in abstract",
+          "severity": "Minor",
+          "as_written": "standard cardiometabolic risk factors such as HbA1c, blood pressure and cholesterol explained only a small fraction of the excess risk",
+          "abstract_says": "We examined the mediating effects of eight cardiometabolic risk factors... Mediation analyses revealed minor contributions from metabolic risk factors",
+          "problem": "The abstract does not list which eight cardiometabolic factors were tested, so the specific examples are unverifiable from the abstract.",
+          "suggested_fix": "Say 'eight standard cardiometabolic risk factors' without naming specific ones, or note the detail is from the full text."
+        },
+        {
+          "label": "Cohort demographics attributed to whole sample",
+          "severity": "Minor",
+          "as_written": "571,129 Chinese adults with type 2 diabetes (mean age 60, two-thirds women)",
+          "abstract_says": "Among 571,129 people with type 2 diabetes, 7.5% had depression (mean age 60.4 years, 66.1% women, mean HbA1c 7.2%)",
+          "problem": "The abstract places the age and sex figures in a parenthetical immediately after the depression subgroup, so it is ambiguous whether they describe the whole cohort or the depressed group.",
+          "suggested_fix": "Attribute the figures with a hedge, or omit them if the abstract's referent is unclear."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42567210",
+      "headline": "Optimism Is Linked to Less Depression in Your 70s \u2014 But It Doesn't Cushion Life's Blows",
+      "verdict": "accurate",
+      "notes": "N=10,791, age \u226570, exclusion criteria, LOT-R, CES-D-10 cut-off of 8, median 3.5-year follow-up, polygenic-score adjustment and the null interaction with stressful life events all match the abstract. The caveat that participants were 'largely Australian and US' is not stated in the abstract (true of ASPREE, but unverifiable from abstract only).",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42551563",
+      "headline": "An Eye Photo May Hold Clues to Depression and Heart Risk Years Ahead",
+      "verdict": "accurate",
+      "notes": "Participant counts (43,445; 40,905; 2,540), AutoMorph-derived vessel measures, median 11.3-year follow-up, HRs 1.25\u20131.31 for incident depression with wider veins, tortuosity HRs of 2.24/1.90 for cardiovascular disease and the ~1,500-person subgroup all match. Framing appropriately labels this as pre-clinical research.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42501509",
+      "headline": "Metabolic Syndrome, Not Weak Grip, Drives Stroke Risk After 50",
+      "verdict": "accurate",
+      "notes": "N=6,200 CHARLS participants aged \u226550, MetS alone HR 1.93, joint exposure HR 2.05, non-significant grip-strength association (HR 1.26, CI 0.91\u20131.75) and absence of interaction are all reported correctly. The headline's 'drives' mirrors the abstract's own conclusion wording ('MetS rather than low HGS drove the excess stroke risk'), and the caveats flag self-reported stroke and AWGS criteria.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "pmid": "42775737",
+      "headline": "Big Trial Finds Multivitamins and Cocoa Extract Don't Move Brain-Damage Markers in Blood",
+      "verdict": "accurate",
+      "notes": "Trial design, population (older US adults free of major CVD and recent cancer), the ~500-participant biomarker subsets (506 for NT1/NfL, 498 for oA\u03b2), the three biomarkers and the null two-year results are all reported accurately, with the ancillary nature flagged in caveats. Two added details \u2014 earlier COSMOS cognition findings and the Pfizer/Haleon and Mars Edge supplement provision \u2014 are not in this abstract (unverifiable from abstract only), though the industry disclosure is a conservative addition.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "pmid": "42759976",
+      "headline": "For the Oldest Kidney Patients, a Lower-Quality Donor Kidney May Not Beat Staying on Dialysis",
+      "verdict": "minor",
+      "notes": "Numbers, design and the 75-year-old comparison all match the abstract; small slips are the \"five European countries\" label (one site is a region, Catalonia) and the \"clearest evidence yet\" framing.",
+      "issues": [
+        {
+          "label": "Countries vs. regions",
+          "severity": "Minor",
+          "as_written": "Using registry data from five European countries",
+          "abstract_says": "European Renal Association Registry data from five countries or regions: Catalonia (Spain), Denmark, France, Norway, and the UK.",
+          "problem": "Catalonia is a region of Spain, not a country; the abstract deliberately says \"countries or regions.\"",
+          "suggested_fix": "Change to \"five European countries or regions (Catalonia, Denmark, France, Norway and the UK)\"."
+        },
+        {
+          "label": "Superlative framing",
+          "severity": "Minor",
+          "as_written": "this is the clearest evidence yet that for the oldest patients, that trade-off may not extend life",
+          "abstract_says": "the oldest recipients had a smaller and more statistically uncertain estimated survival advantage over continued dialysis",
+          "problem": "\"Clearest evidence yet\" is a comparative claim about the whole literature that the abstract does not make, and the abstract stresses statistical uncertainty in exactly this group.",
+          "suggested_fix": "Soften to \"adds large-scale evidence that, for the oldest patients, the survival advantage shrinks and becomes statistically uncertain.\""
+        },
+        {
+          "label": "Background claim not in abstract",
+          "severity": "Minor",
+          "as_written": "Older adults facing kidney failure are often offered marginal-quality kidneys to shorten waiting time",
+          "abstract_says": "The abstract describes donor quality categories and survival estimates but makes no statement about how often older patients are offered expanded-criteria kidneys or why.",
+          "problem": "Unverifiable from abstract only.",
+          "suggested_fix": "Attribute to background/context or drop."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42762436",
+      "headline": "Fear of Moving After a Heart Event Is Common \u2014 and Exercise Programs Appear to Ease It",
+      "verdict": "minor",
+      "notes": "Study size, SMD, risk of bias and the 2-of-10 safety figure are all correct, but the digest states the effect more confidently than the authors do and adds unsupported claims about prevalence and \"supervised\" programs.",
+      "issues": [
+        {
+          "label": "Effect stated more firmly than authors",
+          "severity": "Moderate",
+          "as_written": "Exercise interventions were associated with meaningfully lower fear-of-movement scores (standardized mean difference -0.91)",
+          "abstract_says": "The pooled effect estimate indicated a numerical trend toward lower kinesiophobia scores with exercise interventions (SMD = -0.91; 95% CI [-1.33, -0.49]; I2 = 93%), although all included studies were rated as having moderate risk of bias.",
+          "problem": "The authors describe the pooled result only as a \"numerical trend\" and say heterogeneity and quality \"restrict definitive inferences\"; \"meaningfully lower\" overstates their own characterization.",
+          "suggested_fix": "Use the authors' language: \"pooled results showed a trend toward lower fear-of-movement scores (SMD -0.91), though the authors caution that heterogeneity and study quality limit firm conclusions.\""
+        },
+        {
+          "label": "Prevalence claim",
+          "severity": "Minor",
+          "as_written": "Fear of exertion is a major and under-recognized reason older heart patients avoid rehabilitation",
+          "abstract_says": "The abstract reports only pooled effect sizes on kinesiophobia scores; it gives no prevalence data and does not restrict the population to older adults.",
+          "problem": "Prevalence and age-specific framing are unverifiable from abstract only.",
+          "suggested_fix": "Frame as context (\"clinicians describe fear of movement as common after cardiac events\") or drop the age qualifier."
+        },
+        {
+          "label": "\"Supervised\" not specified",
+          "severity": "Minor",
+          "as_written": "this review suggests supervised exercise itself can help break that cycle",
+          "abstract_says": "Ten studies involving 1,505 cardiovascular disease patients ... exploratory subgroup analyses detected numerical differences in pooled effect sizes across different exercise parameters, yet these observational trends cannot support definitive exercise recommendations",
+          "problem": "The abstract does not specify that interventions were supervised, and explicitly says exercise parameters cannot support recommendations.",
+          "suggested_fix": "Say \"structured exercise programs\" rather than \"supervised exercise.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42679726",
+      "headline": "Semaglutide Nudged Blood Vessel Function in Type 2 Diabetes \u2014 But the Signal Was Mixed",
+      "verdict": "accurate",
+      "notes": "Design, N, direction of every biomarker result and the conflict-of-interest disclosures match the abstract; the mixed-signal framing mirrors the authors' own conclusion.",
+      "issues": []
+    },
+    {
+      "number": 14,
+      "pmid": "42526099",
+      "headline": "Going to Bed at the Same Time Every Night Tracked With Lower Blood Pressure",
+      "verdict": "minor",
+      "notes": "Sample, mmHg differences, sleep-regularity and sleep-timing findings all match; only the accelerometer wear description goes beyond the abstract.",
+      "issues": [
+        {
+          "label": "Accelerometer detail",
+          "severity": "Minor",
+          "as_written": "measured blood pressure and one week of wrist-worn accelerometer sleep data",
+          "abstract_says": "objective sleep parameters were derived from data acquired using an ActiGraph Link accelerometer",
+          "problem": "The abstract does not state the wear duration (one week) or placement (wrist).",
+          "suggested_fix": "Say \"accelerometer-measured sleep\" without specifying duration or wear site, or mark as unverifiable from the abstract."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42735406",
+      "headline": "New VA/DoD Cholesterol Guideline Pushes Harder Treatment for People Who Already Have Heart Disease",
+      "verdict": "accurate",
+      "notes": "Evidence window, 24 graded recommendations, PREVENT, CAC, Lp(a) and the secondary-prevention combination therapy all match the synopsis; caveats correctly note this is a guideline synopsis, not primary research.",
+      "issues": []
+    },
+    {
+      "number": 16,
+      "pmid": "42475970",
+      "headline": "Having Several Chronic Conditions Doubles Death Risk \u2014 And Mixing Physical and Mental Illness Is the Riskiest Combination",
+      "verdict": "minor",
+      "notes": "All pooled hazard ratios and the 69-study/22.7-million figures are correct; headline verb is causal-sounding and the headline-grabbing 4.01 estimate rests on five studies with a very wide confidence interval that the digest does not mention.",
+      "issues": [
+        {
+          "label": "Causal verb in headline",
+          "severity": "Minor",
+          "as_written": "Having Several Chronic Conditions Doubles Death Risk",
+          "abstract_says": "The pooled hazard ratios ... for multiple chronic conditions and risk of all-cause mortality were 2.015 (95% CI:1.870-2.171) in the general population (meta-analysis of observational cohort studies)",
+          "problem": "\"Doubles\" reads as causal for a meta-analysis of observational data; the body and caveats correctly say association.",
+          "suggested_fix": "\"Having Several Chronic Conditions Is Linked to Double the Death Risk.\""
+        },
+        {
+          "label": "Precision of the physical-mental estimate",
+          "severity": "Minor",
+          "as_written": "most strikingly, those with combined physical and mental health conditions (HR 4.01)",
+          "abstract_says": "4.006 (95% CI:2.094-7.666, I2:99.8%, n = 5) in patients with physical-mental multimorbidity",
+          "problem": "The most dramatic figure in the digest comes from just five studies with a confidence interval spanning 2.1 to 7.7 and near-total heterogeneity; the caveats flag thin evidence only for the cancer-mortality estimate.",
+          "suggested_fix": "Add \"(based on just five studies, 95% CI 2.1\u20137.7)\" or extend the caveat to cover this estimate."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "pmid": "42570796",
+      "headline": "One in Five Hospitalized Older Patients Had a Swallowing Problem Nobody Had Flagged",
+      "verdict": "significant",
+      "notes": "Body numbers are accurate, but the headline overstates undiagnosed prevalence and the 32% figure is attributed to cardiovascular admissions when it covers all non-pulmonary admissions combined.",
+      "issues": [
+        {
+          "label": "Headline overstates undiagnosed prevalence",
+          "severity": "Major",
+          "as_written": "One in Five Hospitalized Older Patients Had a Swallowing Problem Nobody Had Flagged",
+          "abstract_says": "Overall, 160 patients (17%) screened positive for dysphagia risk ... Among these, 74 (46%) had previously been diagnosed with dysphagia. Ultimately, 118 patients underwent further assessment, with dysphagia confirmed in 111 (94%).",
+          "problem": "17% screened positive (about one in six), and only about half of those (54%) had no prior diagnosis \u2014 so roughly one in eleven screened patients had a previously unflagged problem, not one in five. The headline roughly doubles the undiagnosed rate.",
+          "suggested_fix": "\"About One in Six Hospitalized Older Patients Screened Positive for Swallowing Trouble \u2014 and Half Had Never Been Diagnosed.\""
+        },
+        {
+          "label": "32% attributed to cardiovascular admissions",
+          "severity": "Moderate",
+          "as_written": "screening positivity was actually higher among patients admitted for non-pulmonary reasons, including cardiovascular disease (32%), than for lung conditions (21%)",
+          "abstract_says": "A positive screening test was identified in 21% of patients admitted with pulmonary diseases. In comparison, 32% of patients admitted with other medical conditions, including those with a working or admission diagnosis of cardiovascular disease, non-pulmonary infections, or cancer, screened positive.",
+          "problem": "The 32% is the rate for the whole non-pulmonary group (cardiovascular, non-pulmonary infection and cancer combined); no cardiovascular-specific rate is reported. The story angle repeats this by saying \"cardiac and infection admissions screened positive more often than pulmonary ones.\"",
+          "suggested_fix": "State that 32% of all non-pulmonary admissions (a group that included cardiovascular, infection and cancer cases) screened positive, and remove the diagnosis-specific comparison from the story angle."
+        },
+        {
+          "label": "Screening sensitivity implied",
+          "severity": "Minor",
+          "as_written": "this study shows a bedside test taking a few minutes catches most of it",
+          "abstract_says": "Ultimately, 118 patients underwent further assessment, with dysphagia confirmed in 111 (94%) ... simple bedside screening can effectively identify patients at risk of dysphagia",
+          "problem": "The 94% is the confirmation rate among screen-positives (positive predictive value); the study cannot show what proportion of true cases the screen \"catches,\" since screen-negatives were not assessed.",
+          "suggested_fix": "Say \"nearly all patients who screened positive and were fully assessed did have dysphagia\" rather than implying the test catches most cases."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "pmid": "42521082",
+      "headline": "Olive Oil's Antioxidant Boost Depended on Who Was Drinking It \u2014 Not How Many Phenols It Contained",
+      "verdict": "minor",
+      "notes": "Sample, dose, duration and the within-EVOO subgroup findings match; the \"single Canadian center\" descriptor is an inference from author affiliations.",
+      "issues": [
+        {
+          "label": "Single-center claim",
+          "severity": "Minor",
+          "as_written": "Very small pilot trial (N=34) at a single Canadian center",
+          "abstract_says": "The abstract describes a pilot randomized intervention trial in 34 older adults but does not state the number or location of study sites (authors are affiliated with the University of Sherbrooke, Quebec, among others).",
+          "problem": "Unverifiable from abstract only.",
+          "suggested_fix": "Drop \"single Canadian center\" or say \"conducted by a Canadian research group.\""
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "pmid": "42767983",
+      "headline": "Heart Disease \u2014 Not Stroke \u2014 Tracks With Faster Memory Loss Across Four Western Countries",
+      "verdict": "minor",
+      "notes": "Sample size, cohort list, I\u00b2 and the heart-disease-versus-stroke contrast are accurate; the headline miscounts cohorts as countries and one caveat slightly re-words the authors' explanation for heterogeneity.",
+      "issues": [
+        {
+          "label": "Cohorts vs. countries in headline",
+          "severity": "Moderate",
+          "as_written": "Heart Disease \u2014 Not Stroke \u2014 Tracks With Faster Memory Loss Across Four Western Countries",
+          "abstract_says": "pooled data from five multinational cohorts ... (83,159 adults \u226550 years) ... heart disease correlated with accelerated cognitive decline across four Western cohorts",
+          "problem": "The four Western cohorts (HRS, SHARE, ELSA, MHAS) span many countries \u2014 SHARE alone covers much of Europe, and the pooled data come from 24 countries \u2014 so \"four Western countries\" is factually wrong.",
+          "suggested_fix": "\"...Across Four Western Cohorts.\""
+        },
+        {
+          "label": "Caveat wording on measurement",
+          "severity": "Minor",
+          "as_written": "Cardiovascular diagnoses and medication use were measured inconsistently across studies.",
+          "abstract_says": "This heterogeneity may be partially explained by variations in the composition of heart disease and the use of medication across five cohorts.",
+          "problem": "The authors point to variation in the composition of heart disease and in medication use, not explicitly to inconsistent measurement.",
+          "suggested_fix": "\"The mix of heart conditions and medication use differed across cohorts, which the authors say may partly explain the heterogeneity.\""
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "pmid": "42447644",
+      "headline": "Belly Fat Plus a Weak Grip: A Two-Part Warning Sign for Heart Disease and Stroke",
+      "verdict": "minor",
+      "notes": "N, follow-up, event rate and every hazard ratio match the abstract; the \"better than either alone\" claim and the self-reported-outcomes caveat go slightly beyond what the abstract reports.",
+      "issues": [
+        {
+          "label": "Incremental value claim",
+          "severity": "Minor",
+          "as_written": "Two simple, inexpensive measures \u2014 waist-based fat distribution and how hard you can squeeze \u2014 together flag cardiovascular vulnerability better than either alone",
+          "abstract_says": "Jointly, the highest risk of CVD was observed in participants with higher VAI (\u22652.04) and lower handgrip strength (the quartile 1-2) (HR, 1.51; 95%CI:1.24-1.85). High VAI and low handgrip strength were independently associated with increased CVD risk.",
+          "problem": "The abstract reports a joint category with the highest risk (HR 1.51 vs 1.36 for high VAI alone) but no test of added predictive value or interaction, so \"flag ... better than either alone\" is stronger than the data shown.",
+          "suggested_fix": "\"People with both high visceral adiposity and weak grip had the highest risk of any group.\""
+        },
+        {
+          "label": "Outcome ascertainment caveat",
+          "severity": "Minor",
+          "as_written": "Cardiovascular events were based on self-reported physician diagnoses.",
+          "abstract_says": "The abstract states only that the primary outcome was incident CVD in the China Health and Retirement Longitudinal Study; it does not describe how events were ascertained.",
+          "problem": "Unverifiable from abstract only (though consistent with CHARLS methodology).",
+          "suggested_fix": "Attribute to CHARLS methodology generally or note it is not specified in the abstract."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "pmid": "42746141",
+      "headline": "Vitamin D and Fish Oil Failed to Move Alzheimer's Blood Markers Over Four Years",
+      "verdict": "minor",
+      "notes": "Sample, doses, demographics and null result all match. One wording slip: the subgroup analyses were pre-specified, not exploratory.",
+      "issues": [
+        {
+          "label": "Subgroup analyses mischaracterized as exploratory",
+          "severity": "Minor",
+          "as_written": "Exploratory subgroup analyses hinted at possible effects among men and among Black participants, but these were not corrected for multiple testing.",
+          "abstract_says": "Repeated-measures models were used, with sex and race were pre-specified effect modifiers... Pre-specified subgroup analyses suggested potential interactions by sex and race.",
+          "problem": "The abstract states sex and race were pre-specified effect modifiers; calling the analyses \"exploratory\" understates their planned status, even though the authors do caution they were uncorrected for multiple testing and hypothesis-generating.",
+          "suggested_fix": "Change to \"Pre-specified subgroup analyses hinted at possible effects among men and among Black participants, though they were not corrected for multiple testing and the authors call them hypothesis-generating.\""
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "pmid": "42392540",
+      "headline": "A Combined Blood Test Score May Sharpen Heart Risk Prediction in Older Adults",
+      "verdict": "minor",
+      "notes": "Hazard ratios and cohort details accurate; small wording issues about the outcome named for the 45\u201359 group, the \"blood test\" framing, and the age range of the sample.",
+      "issues": [
+        {
+          "label": "Outcome for the 45\u201359 age group",
+          "severity": "Minor",
+          "as_written": "the association was strongest for heart disease in those aged 45\u201359 and for stroke in those aged 60\u201369 (69% higher risk)",
+          "abstract_says": "The risk was particularly pronounced in the age group of 45-59 years, with an aHR of 1.325 (95% CI 1.131-1.552) for cardiovascular diseases and 1.687 (95% CI 1.143-2.490) for stroke in the 60-69 years age group.",
+          "problem": "The 45\u201359 estimate is for composite cardiovascular disease, not specifically \"heart disease.\" The digest narrows the outcome label.",
+          "suggested_fix": "Change \"heart disease in those aged 45\u201359\" to \"cardiovascular disease overall in those aged 45\u201359.\""
+        },
+        {
+          "label": "\"Blood test score\" framing in headline",
+          "severity": "Minor",
+          "as_written": "A Combined Blood Test Score May Sharpen Heart Risk Prediction in Older Adults",
+          "abstract_says": "Baseline TyG-BMI and hs-CRP were measured.",
+          "problem": "TyG-BMI combines blood triglycerides and glucose with body mass index, so the composite is not purely a blood test; the headline slightly overstates the simplicity of the measure.",
+          "suggested_fix": "Reword, e.g., \"A Combined Blood-and-Body-Measure Score May Sharpen Heart Risk Prediction.\""
+        },
+        {
+          "label": "Age range of study population",
+          "severity": "Minor",
+          "as_written": "Using 9,190 participants from a nationwide Chinese health and retirement cohort who had no history of stroke or heart disease at baseline",
+          "abstract_says": "Data from 9190 participants in a nationwide health and retirement longitudinal study were analyzed... in an aging Chinese population, with the strongest associations observed for CVD in adults aged 45-59 years",
+          "problem": "The cohort includes middle-aged adults from age 45, yet the headline frames the finding as applying to \"Older Adults\"; the body text never states the age range.",
+          "suggested_fix": "Note in the study description that participants were middle-aged and older (from about age 45)."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "pmid": "42435895",
+      "headline": "Inflammatory Diets Linked to Worse Outcomes Across 90 Reviews \u2014 But the Evidence Base Is Shaky",
+      "verdict": "accurate",
+      "notes": "Review count, outcome domains, direction of association and the AMSTAR2 quality caveat all match the abstract; framing is appropriately associative.",
+      "issues": []
+    }
+  ]
+}

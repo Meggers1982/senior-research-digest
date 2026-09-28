@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:58:51.994522+00:00",
+  "generated_at": "2026-09-28T20:19:52.790413+00:00",
   "geo": "US",
   "no_signal": [
     "cardiovascular disease",
@@ -11,52 +11,52 @@
   "rising_queries": [],
   "rotation": {
     "dementia": {
-      "change_pct": -11.8,
-      "peak": 15.0,
-      "prior_mean": 13.8,
-      "recent_mean": 12.1
+      "change_pct": -11.3,
+      "peak": 14.0,
+      "prior_mean": 13.2,
+      "recent_mean": 11.8
     },
     "depression": {
-      "change_pct": -25.6,
-      "peak": 34.0,
-      "prior_mean": 24.9,
-      "recent_mean": 18.5
+      "change_pct": -26.3,
+      "peak": 33.0,
+      "prior_mean": 24.2,
+      "recent_mean": 17.9
     },
     "falls": {
-      "change_pct": -8.3,
+      "change_pct": -8.4,
       "peak": 100.0,
-      "prior_mean": 93.2,
-      "recent_mean": 85.5
+      "prior_mean": 92.8,
+      "recent_mean": 85.0
     },
     "hearing loss": {
-      "change_pct": -39.8,
+      "change_pct": -38.8,
       "peak": 100.0,
-      "prior_mean": 81.4,
-      "recent_mean": 49.0
+      "prior_mean": 79.9,
+      "recent_mean": 48.9
     },
     "nutrition": {
-      "change_pct": -40.3,
-      "peak": 77.0,
-      "prior_mean": 63.0,
-      "recent_mean": 37.6
+      "change_pct": -39.2,
+      "peak": 76.0,
+      "prior_mean": 60.0,
+      "recent_mean": 36.5
     },
     "polypharmacy": {
-      "change_pct": -33.3,
+      "change_pct": -37.0,
       "peak": 5.0,
       "prior_mean": 3.4,
-      "recent_mean": 2.2
+      "recent_mean": 2.1
     },
     "sleep": {
-      "change_pct": -20.6,
+      "change_pct": -20.0,
       "peak": 100.0,
-      "prior_mean": 87.5,
-      "recent_mean": 69.5
+      "prior_mean": 89.9,
+      "recent_mean": 71.9
     },
     "vision loss": {
-      "change_pct": -61.5,
-      "peak": 49.0,
-      "prior_mean": 37.0,
-      "recent_mean": 14.2
+      "change_pct": -58.0,
+      "peak": 48.0,
+      "prior_mean": 34.5,
+      "recent_mean": 14.5
     }
   },
   "window": "today 12-m"

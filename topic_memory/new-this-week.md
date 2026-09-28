@@ -1,28 +1,28 @@
 # Topic Memory: New this week
-_Last updated: 2026-09-27_
+_Last updated: 2026-09-28_
 
 ## Established findings
-- Measurement and screening systems routinely misrepresent what they exist to catch: 545 outcomes in frail-inpatient research with only 26% patient-reported (42791643), elder abuse chart flags 87% false positive (42778967, 2026-09-27), older adults skipped by automated depression/anxiety monitoring (42800511, 2026-09-27), claims dementia algorithms (42760257), frailty indexes (42760259).
-- "Biological age" and self-perception describe the present, not the trajectory: twin diet-epigenetic null (42791452), epigenetic clocks predicting peak score but not four-year change (42799693, 2026-09-27), felt age driving self-rated cognition (42791633), device steps beating self-reported exercise (42785603).
-- Alzheimer's biomarker results depend on which test and which threshold: memory-clinic cutoffs (42787809), FDA-cleared p-tau217/Aβ42 with unresolved lab thresholds (42800042, 2026-09-27), tau imaging outperforming blood and CSF across 42 definitions (42787370, 2026-09-27).
-- Vascular and sensory decline recur as dementia signals: TIA (42777184), microvascular disease of eye/kidney/nerve (42787302), visual impairment and rate of vision decline (42801054, 2026-09-27).
-- Non-drug approaches hold their ground where drug evidence is thin; format matters less than engagement: sleep drugs in Parkinson's (42782386), negative Adderall trial in MS (42800227, 2026-09-27), all activity types improving quality of life with solo pursuits ranking well (42800122, 2026-09-27), gait-initiation specificity (42789437).
-- A diagnosis or label is a poor reason to withhold treatment: dementia and STEMI (42754545), frailty and cardiac rehab (42772577), cancer history and mitral repair (42786380).
+- Markers of "how old you are inside" describe current level, not future trajectory: epigenetic clocks (42799693, 2026-09-27), twin diet-epigenetic null (42791452), cortical thickness fading as a correlate of late-life cognition (42784930, 2026-09-28).
+- Alzheimer's biomarker answers depend on which test and threshold, and real-world eligibility is narrow: memory-clinic cutoffs (42787809), FDA-cleared p-tau217/Aβ42 with unresolved thresholds (42800042), tau imaging beating blood/CSF (42787370), only 11.7% donanemab-eligible with frequent clinical-vs-amyloid disagreement (42803707, 2026-09-28).
+- Anti-amyloid benefit is small and monitoring-heavy: real-world lecanemab ARIA 11.4% (42798750), pooled ARIA-E 23.9% vs 1.9% placebo with sub-half-point scale gains and doubled risk in APOE ε4 carriers (42803728, 2026-09-28).
+- A label is a poor reason to withhold treatment: dementia and heart attack care (42754545), frailty and cardiac rehab (42772577), frailty and stroke thrombolysis at population scale (42803571, 2026-09-28).
+- Measurement and data systems misrepresent what they exist to track: elder abuse chart flags 87% false positive (42778967), older adults skipped by automated mood monitoring (42800511), 545 outcomes in frail-inpatient research (42791643).
+- Movement and engagement hold their value where drug evidence is thin, and there is no age at which activity stops mattering: all activity types improving quality of life (42800122), sedentary at 78 tripling odds of impairment by 85 (42803718, 2026-09-28), lifelong cyclists at the 90th percentile after nine more years (42802250, 2026-09-28).
+- Cheap, already-collected measures carry real prognostic signal: vision decline and dementia timing (42801054), hypertensive retinopathy predicting white matter progression (42801966, 2026-09-28), calf circumference plus SPPB in heart failure (42800123, 2026-09-28), routine blood count inflammation in prodromal Parkinson's (42778869, 2026-09-28).
 
 ## Emerging threads
-- End-of-life decision quality outpacing end-of-life tools: untested deprescribing instruments (42799555), regret driven by how decisions were made (42772893), aggressive care in the final three months concentrated in younger, treatment-responsive patients (42776059), palliative training available in only ~30% of Latin American countries (42785972).
-- Anti-amyloid therapy moving from eligibility to real-world delivery: lecanemab ARIA 11.4% with structured MRI surveillance and heavy logistics (42798750).
-- Elder abuse: brief motivational interviewing reduced mistreatment (42799592) while the structured data used to count it proved unreliable (42778967).
-- Falls as a cognitive-load problem: prefrontal compensation failing at unexpected obstacles (42785654), sensor/VR fall screening still in progress (42789327).
-- Long-term care workforce and communication as a quality-of-life variable: Swedish language-skills workshops (42791519).
-- Common long-term medications under new scrutiny: levothyroxine and accelerated bone loss in women with normal labs (42777903); orexin antagonists showing no fall signal (42799573).
-- Purpose and boredom as a modifiable pathway to later memory (42773782); environment as neurodegenerative risk (42778501).
+- Repurposing enthusiasm outrunning evidence: lithium and dementia risk (42803710, 2026-09-28), ambroxol in GBA1 Parkinson's with a pivotal trial only as a preprint (42801449, 2026-09-28), negative Adderall trial in MS (42800227).
+- Cognitive decline as partly reversible, with modifiable ingredients (sleep, mood, social participation): 42802990 (2026-09-28).
+- Same program name, very different service: VA hospital-at-home variation from 6% to 85% inpatient transfers (42802388, 2026-09-28) — a delivery-side echo of the measurement-inconsistency theme.
+- Technology older adults will actually use when it is culturally tailored, and discrimination-related stress as a treatable target: VR positive psychology at mean age 81 (42802583, 2026-09-28).
+- End-of-life decision quality outpacing end-of-life tools: untested deprescribing instruments (42799555), regret driven by process (42772893), aggressive final-months care (42776059), palliative training gaps (42785972).
+- Aerobic training does not protect muscle; strength work needs separate billing in wellness programming (42802250, 42801941).
 
 ## Feature ideas already pitched
-- 2026-09-21: "Three frailty tests, three answers" (42760259, 42760257, 42750643, 42765144).
-- 2026-09-25: "The exercise details that matter" — dose, supervision, body region, measurement (42786581, 42773385, 42772577, 42773257, 42785603).
-- 2026-09-26: "Aging tech arrives before the rulebook" — standards, algorithms, blood-test cutoffs, sensor screening (42779484, 42771090, 42787809, 42789327). Targets: Next Avenue, LeadingAge, Caring.com, Generations Journal.
-- 2026-09-27: "The conversation is the intervention" — end-of-life decision quality vs untested tools (42799555, 42772893, 42776059, 42785972). Targets: Next Avenue, Caring.com, LeadingAge, Generations Journal.
-- Not yet pitched: "Who gets left out of the research" (42770427, 42788840, 42786385, 42791643, 42800511).
-- Not yet pitched: "Before you call it aging" — treatable mimics (42734938, 42736699, 42753227, 42799779).
-- Not yet pitched: "The cheap signals already in your chart" (42764591, 42753932, 42784800, 42801054).
+- 2026-09-25: "The exercise details that matter" — dose, supervision, body region, measurement (42786581, 42773385, 42772577, 42785603).
+- 2026-09-26: "Aging tech arrives before the rulebook" (42779484, 42771090, 42787809, 42789327).
+- 2026-09-27: "The conversation is the intervention" — end-of-life decision quality vs untested tools (42799555, 42772893, 42776059, 42785972).
+- 2026-09-28: "The dementia drugs are here, and most people can't have them" — benefit size, eligibility, repurposing hype (42803728, 42803707, 42803710, 42801449). Targets: Next Avenue, Caring.com, Being Patient, LeadingAge.
+- Not yet pitched: "The cheap signals already in your chart" (42801966, 42800123, 42778869, 42801054).
+- Not yet pitched: "Who gets left out of the research" (42770427, 42788840, 42791643, 42800511).
+- Not yet pitched: "Before you call it aging" — treatable mimics (42734938, 42753227, 42799779).

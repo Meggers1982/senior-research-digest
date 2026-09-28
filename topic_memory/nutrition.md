@@ -1,22 +1,24 @@
 # Topic Memory: nutrition
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-28_
 
 ## Established findings
-- Whole dietary patterns (produce, legumes, nuts, whole grains, omega-3s) outperform isolated supplements for countering "inflammaging"; human supplement evidence limited to biomarkers (PMID 42425421; Jul & Sep 2026 runs)
-- Nutrition, sleep and circadian rhythm act as one linked system in brain aging; meal timing is a target alongside diet content (PMID 42612710 review, Aug & Sep 2026; human data PMID 42425244)
-- Oral health tracks with function, nutrition and quality of life in later life (PMIDs 42128471, 40971116, 42716517)
-- Protein alone does not prevent frailty; exercise is the necessary partner, and combined programs rank best (PMIDs 41999683, 42570706, 42547949, 42716495)
-- Observational nutrition-and-aging evidence is dominated by NHANES and CHARLS; most 2026 items are cross-sectional and cannot show causation
+- Whole dietary patterns beat isolated supplements for aging outcomes; supplement evidence is mechanistic or biomarker-level at best (PMIDs 42425421, 42679454, 42586246, 42476484; Jul–Sep 2026 runs)
+- Nutrition, sleep and circadian timing act as one system; meal-timing regularity tracks with mood and insomnia independent of bedtime (PMIDs 42612710, 42425244)
+- Protein plus resistance exercise, not protein alone and not protein restriction, is the defensible muscle strategy in later life (PMIDs 42547949, 42716495, 42721581)
+- Nutrition delivery, not nutrition science, is the weak link in institutional care: ICU protocols improve intake but not survival; dietitian involvement at ICU-to-ward transfer closes a ~30% intake gap; frontline nurses rate nutrition their weakest geriatric skill (PMIDs 42674351, 42660495, 42705819)
+- Malnutrition is a survival-relevant diagnosis, not an inevitable side effect — GLIM-defined malnutrition tripled death risk in hospitalized cancer patients (PMID 42668014)
+- Composite metabolic and "biological age" indices underperform simple function and plain BMI in older adults, and flip direction by population (PMIDs 42753933, 42731357, 42537115)
+- Evidence base remains dominated by cross-sectional NHANES and CHARLS analyses; causation claims are rare
 
 ## Emerging threads
-- Function beats biomarkers: gait, grip, cognition and mood outpredict commercial "biological age" panels in older adults (PMID 42731357), though biological-age scores retain value within disease groups (PMID 42727262) — tension with earlier proteomic clock work (PMID 42373948)
-- Body weight conceals muscle loss: sarcopenic obesity ~11% globally, with zero data from nursing homes/long-term care (PMID 42716222); grip strength as fast, cheap screen (PMID 42692360)
-- Food as medicine moving to randomized evidence; culturally tailored meals cut hospitalizations in heart failure (PMID 42507456)
-- Delivery-side gaps: frontline nurses rate nutrition as their weakest geriatric skill (PMID 42705819); ICU feeding protocols improve delivery but not survival (PMID 42674351)
-- Label composition as a clinical issue — hidden potassium additives in 28% of ultra-processed products (PMID 42692364)
-- Digital and non-digital self-guided coaching both work; printed workbooks a legitimate option (PMIDs 42503319, 42442524, 42424333)
-- End-of-life feeding vocabulary emerging: "Minimal Comfort Feeding" acceptable to surveyed hospice clinicians (PMID 42331265)
+- Personalized response: polygenic variation explains why fish oil moves blood omega-3 far more in some people than others (PMID 42721579)
+- Culturally adapted eating patterns moving from one randomized meal trial to proposed frameworks (PMIDs 42507456, 42419161)
+- Food access, geography and gender as diet determinants, with older men and rural residents eating least produce (PMID 42776721); aging-agency contracting capacity shapes who gets meals and rides (PMID 42776185)
+- Feeding-related advance care planning: tube feeding is the most-refused intervention, and preferences track with mood and function rather than living situation (PMIDs 42791516, 42331265)
+- Label composition as a clinical issue — potassium additives in 28% of ultra-processed products, invisible on the nutrition panel (PMID 42692364)
+- Caregivers' own nutrition is an untested blank spot in lifestyle support programs (PMID 42593223)
 
 ## Feature ideas already pitched
-- Aug 2026: "Context over calories" — social, temporal and systemic factors shaping nutrition outcomes (living arrangements, circadian rhythms, care-funding trade-offs, hospital diet restrictions)
-- Sep 2026: "What a handshake tells you that the scale can't" — function and grip strength versus weight, BMI and commercial biological-age panels; sarcopenic obesity screening gap in long-term care
+- Aug 2026: "Context over calories" — social, temporal and systemic factors shaping nutrition outcomes
+- Sep 2026 (run 1): "What a handshake tells you that the scale can't" — function and grip strength versus weight, BMI and commercial biological-age panels
+- Sep 2026 (run 2): "The supplement shelf versus the hospital tray" — unproven supplement spending alongside unmeasured undernutrition at hospitalization and ICU transfer

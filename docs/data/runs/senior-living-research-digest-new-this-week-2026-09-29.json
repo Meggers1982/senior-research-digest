@@ -1,0 +1,773 @@
+{
+  "id": "senior-living-research-digest-new-this-week-2026-09-29",
+  "filename": "Senior Living Research Digest \u2014 New This Week \u2014 2026-09-29.md",
+  "title": "Senior Living Research Digest \u2014 New This Week \u2014 2026-09-29",
+  "run_date": "2026-09-29",
+  "coverage_window": "Last 7 days",
+  "journals_searched": "632",
+  "articles_screened": "40 (of 551 published)",
+  "focus": "New this week",
+  "topic": "New this week",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 18,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Hearing aids didn't stop dementia in people with mild cognitive impairment \u2014 but six times more of them got better",
+      "journal": "JAMA Neurol",
+      "published": "2026 Sep 28",
+      "pmid": "42804222",
+      "doi": "10.1001/jamaneurol.2026.3395",
+      "the_study": "Researchers in Shanghai screened nearly 22,000 adults aged 60 and older and randomized 703 people who had both moderate-to-severe hearing loss and mild cognitive impairment to either hearing aids or hearing care education, then followed them for two years. Conversion to dementia-level impairment was low in both groups and the difference was not statistically significant (3.09% with hearing aids vs. 4.74% with education). However, a prespecified secondary outcome found that 15.3% of the hearing aid group improved back to a normal cognitive rating, compared with just 2.4% of the education group \u2014 nearly a six-fold difference. No study-related adverse events occurred.",
+      "why_it_matters": "This is one of the first large randomized trials to test hearing aids specifically in people who already have mild cognitive impairment, and while it does not show that hearing aids prevent dementia, it suggests that treating hearing loss may help some people's cognitive test scores recover.",
+      "story_angle_primary": "If you've been told you have mild cognitive impairment and you also struggle to hear, this trial is a reason to get a formal hearing test and ask your doctor about hearing aids \u2014 not as a dementia cure, but because in this trial the people fitted with hearing aids were far more likely to score back in the normal range two years later. Be clear-eyed about what the headline finding actually was: the trial did not show fewer dementia diagnoses.",
+      "story_angle_secondary": "For senior living staff and family caregivers, this reinforces that untreated hearing loss can make cognition look worse than it is \u2014 and that a resident whose memory screening slipped may deserve an audiology referral before conclusions are drawn. Consider auditing how many residents with diagnosed hearing loss actually wear working, properly fitted devices.",
+      "caveats": "The primary outcome was negative \u2014 the cognitive improvement finding is a secondary outcome and should be treated as hypothesis-generating. Open-label design (participants knew which group they were in), which can inflate subjective and performance-based measures. Single-city Chinese population, predominantly male (64%), 24-month follow-up, 13% dropout.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 22000,
+      "journal_tier": 1,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 2,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "dementia",
+        "hearing loss"
+      ],
+      "covered_by": [
+        "MedPage Today"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "A one-question screen at hospital admission got dying patients palliative care nearly three days sooner",
+      "journal": "J Palliat Med",
+      "published": "2026 Sep 29",
+      "pmid": "42806888",
+      "doi": "10.1177/10966218261488922",
+      "the_study": "Researchers at three NYU Langone hospital sites analyzed 8,970 propensity-matched hospital admissions from 2020 to 2025 among patients who either died in the hospital or were discharged to hospice. Admitting clinicians had answered the \"Surprise Question\" \u2014 \"Would you be surprised if this patient died in the next year?\" When the answer was \"No\" (meaning death would not be surprising), patients had 28% higher odds of receiving advance care planning documentation or a palliative care consultation, and received it an average of 2.7 days earlier.",
+      "why_it_matters": "A single question asked at the front door of the hospital appears to shift whether and when seriously ill patients get conversations about what they want at the end of life \u2014 days that matter enormously to patients and families.",
+      "story_angle_primary": "If you or someone you love is admitted to the hospital with serious illness, you don't have to wait for the system to start the conversation \u2014 you can ask directly for a palliative care consultation and make sure your advance care planning wishes are documented in your chart on day one, not day four.",
+      "story_angle_secondary": "For senior living and hospital professionals, this is practical evidence that embedding one simple prognostic question into the admission workflow is associated with earlier goals-of-care action \u2014 a low-cost process change worth raising with quality committees.",
+      "caveats": "Retrospective and observational \u2014 propensity matching reduces but cannot eliminate confounding, and this design cannot establish that the question caused the earlier consultations. Restricted to patients who died or went to hospice, so it says nothing about accuracy in patients who survived. Three sites in one New York City health system; may not generalize.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 3,
+      "title": "A common fruit fiber supplement improved leg strength and mood in frail older adults in a small four-week trial",
+      "journal": "Geroscience",
+      "published": "2026 Sep 28",
+      "pmid": "42803883",
+      "doi": "10.1007/s11357-026-02562-8",
+      "the_study": "UK researchers ran a four-week double-blind, randomized, placebo-controlled trial of low-methoxy pectin \u2014 a fermentable fiber found in plant cell walls \u2014 in older adults living with frailty. Thirty-one enrolled and 29 finished. Compared with placebo, the pectin group gained significantly more repetitions on the 30-second sit-to-stand test (2.07 vs. 0.71), reported lower anxiety and depression scores and better physical functioning, vitality, mental health and social functioning on the SF-36, and showed increased gut abundance of Coprococcus comes. Timed Up and Go performance and inflammatory blood markers did not change.",
+      "why_it_matters": "Frailty has few effective treatments beyond exercise and protein, so an inexpensive, well-tolerated dietary fiber that may nudge both leg strength and mood is a lead worth watching \u2014 though far from proven.",
+      "story_angle_primary": "Before you go buy pectin supplements, note this trial had only 29 completers over four weeks \u2014 but it's a reasonable prompt to ask your doctor or dietitian whether you're getting enough fermentable fiber, and to track your own sit-to-stand count as a simple home measure of leg strength.",
+      "story_angle_secondary": "For dining directors and care staff, the underlying signal here is about fiber-rich food in frail residents' diets and the gut-brain link \u2014 an area where menu planning may eventually matter as much as protein supplementation. Nothing here yet justifies adding a supplement to care plans.",
+      "caveats": "Very small N (29 completers), short four-week follow-up, single-center, and multiple outcomes tested without clear correction \u2014 the authors themselves call the findings preliminary. Several secondary outcomes were self-reported. Two senior authors report commercial affiliations (consulting fees from numerous pharmaceutical companies; scientific advisory board roles at Chuckling Goat and OLIPOP Inc.), though stated as unrelated to this study.",
+      "score": 75,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "depression",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 4,
+      "title": "A digitally coordinated hip fracture follow-up program left patients markedly more independent a year later",
+      "journal": "Osteoporos Int",
+      "published": "2026 Sep 28",
+      "pmid": "42803811",
+      "doi": "10.1007/s00198-026-08219-8",
+      "the_study": "In Barcelona, 119 adults aged 65 and older who had surgery for a femur fragility fracture were randomized to either usual care or an eHealth-supported Fracture Liaison Service that coordinated follow-up across hospitals, rehabilitation sites and primary care through a shared web platform. At 12 months, the FLS group scored far higher on the Barthel Index of daily-living independence (80.1 vs. 61.2) and stayed on osteoporosis medication more consistently. Readmissions and repeat fractures did not differ. All eight deaths in the trial occurred in the FLS group \u2014 a finding the authors explicitly caution should not be read causally given the small sample.",
+      "why_it_matters": "Most people who break a hip never get treated for the underlying osteoporosis; this trial suggests structured, coordinated follow-up may translate into meaningfully more independence a year out.",
+      "story_angle_primary": "If you or a parent has had a hip or femur fracture, ask whether your hospital has a fracture liaison service and who is responsible for starting and continuing osteoporosis treatment after discharge \u2014 the gap between surgery and bone health follow-up is where most people fall through.",
+      "story_angle_secondary": "For senior living and rehab professionals, the Barthel Index gap of nearly 20 points at one year is a striking argument for owning the care handoff rather than assuming primary care will pick it up. Note the baseline imbalance and the mortality signal before treating these numbers as settled.",
+      "caveats": "Pilot trial, small N (119), open-label, single health area in Spain. The FLS group had a better pre-fracture functional profile at baseline, which could explain part of the recovery difference. All eight deaths occurred in the intervention arm \u2014 unexplained and a reason for caution. The eHealth platform was provided in-kind by Trilema Salud SL. No significant difference in the prespecified primary outcomes (refractures, readmissions).",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 119,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls",
+        "osteoporosis",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 5,
+      "title": "Where you live may shape whether your memory problems ever make it into your medical record",
+      "journal": "Neurol Clin Pract",
+      "published": "2026 Dec",
+      "pmid": "42804729",
+      "doi": "10.1212/CPJ.0000000000200658",
+      "the_study": "Researchers analyzed records from 1,144,081 adults aged 50-89 seen at 201 US neurology practices between 2017 and 2023 through the American Academy of Neurology's former Axon Registry. About 12.8% (146,273 people) carried a diagnostic code for mild cognitive impairment, Alzheimer disease, or a related dementia, but the odds of carrying such a code varied by region \u2014 highest in the Northeast and lowest in the Midwest. The share of patients whose codes escalated to 'complicated' disease (for example, with behavioral disturbances) within 180 days also differed sharply by region, from 2.04% in the Northeast to 1.06% in the Midwest. The most common accompanying conditions were high blood pressure, depression or mood disorders, and gait abnormalities.",
+      "why_it_matters": "How and whether cognitive impairment gets formally documented affects access to treatment, clinical trials, support services and insurance coverage \u2014 and this analysis suggests documentation practices differ substantially depending on where a patient happens to live.",
+      "story_angle_primary": "If you have raised memory or thinking concerns with a clinician, it is reasonable to ask whether a formal cognitive evaluation was done and what, if anything, was entered in your chart \u2014 a documented diagnosis is often the key that unlocks specialty referrals, care coordination and research opportunities. It is also worth noting that blood pressure, mood problems and walking difficulty showed up repeatedly alongside cognitive diagnoses, so ask how those are being managed too.",
+      "story_angle_secondary": "For families and senior living staff who coordinate care across state lines or with relocating residents, this is a reminder that an absent dementia code does not mean an absent condition; when a new resident arrives without documentation, a fresh cognitive assessment may be warranted rather than assuming previous clinicians ruled it out.",
+      "caveats": "Observational analysis of billing codes only \u2014 it cannot distinguish true differences in disease prevalence from differences in coding and documentation behavior, and cannot establish causation. Data come exclusively from neurology practices participating in a registry, so patients seen only in primary care are missing and the findings may not generalize. The authors themselves note that phenotyping beyond ICD codes is needed to validate the results.",
+      "score": 77,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 1144081,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "cost & policy",
+        "dementia",
+        "depression",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 6,
+      "title": "Three simple mobility tests at rehab admission predict how independent you'll be at discharge",
+      "journal": "Am J Phys Med Rehabil",
+      "published": "2026 Sep 29",
+      "pmid": "42806440",
+      "doi": "10.1097/PHM.0000000000003166",
+      "the_study": "Japanese researchers reviewed records of 158 patients aged 65 and older admitted to a subacute orthopedic rehabilitation ward and tested whether three routine bedside measures \u2014 comfortable walking speed, the Timed Up and Go test, and the Berg Balance Scale \u2014 improved prediction of how independent patients would be at discharge (measured by the Functional Independence Measure motor score). All three measures added predictive value beyond standard clinical factors, and a simple equal-weight composite of the three outperformed any single test. Patients in the low, mid and high composite score groups had progressively better predicted discharge independence.",
+      "why_it_matters": "A short set of walking and balance tests done in the first days after admission can give patients, families and rehab teams a realistic early picture of likely recovery \u2014 useful for planning discharge, home modifications and the level of help that will be needed.",
+      "story_angle_primary": "If you are admitted to rehab after a fracture or orthopedic surgery, ask your therapist what your walking speed, Timed Up and Go and balance scores were on admission and what they suggest about your likely level of independence at discharge \u2014 then ask what specifically you can work on to beat that starting point.",
+      "story_angle_secondary": "For discharge planners and senior living professionals, admission-day mobility and balance scores may be a cheap, interpretable early signal of what a returning resident will need \u2014 enabling earlier conversations about home equipment, staffing and whether assisted living or short-term higher-acuity care is the right destination.",
+      "caveats": "Retrospective, single-center study at one Japanese hospital with fewer than 200 patients; predictive performance was only tested internally (cross-validation), not in an independent population, so it may not generalize to other health systems or patient mixes. The design is observational and cannot show that acting on these scores improves outcomes.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 200,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 7,
+      "title": "Sarcopenia experts argue muscle loss isn't really about muscle \u2014 and that's why treatments keep disappointing",
+      "journal": "Lancet Healthy Longev",
+      "published": "2026 Sep 28",
+      "pmid": "42805229",
+      "doi": "10.1016/j.lanhl.2026.100904",
+      "the_study": "In a Personal View, a group of leading aging researchers including the National Institute on Aging's Luigi Ferrucci argue that sarcopenia \u2014 age-related loss of muscle function \u2014 should be reframed as a failure of the body's whole energy system rather than a disease of muscle tissue itself. They marshal three strands of existing evidence: muscle strength predicts disability and death far better than muscle mass does; interventions that successfully build muscle mass often fail to improve real-world function; and mitochondrial performance is limited by upstream systems that deliver oxygen and fuel to the muscle. They propose that fatigability and slow recovery after exertion may be earlier, more meaningful warning signs than muscle size.",
+      "why_it_matters": "This challenges the popular assumption that the goal of aging well is simply 'more muscle,' and points instead toward strength, endurance, fatigue and recovery as the things worth tracking and training.",
+      "story_angle_primary": "If you have noticed that you tire faster than you used to or take longer to bounce back after a busy day, that may be worth mentioning to your clinician \u2014 these authors argue fatigability and slow recovery are early signals of declining function, and that chasing muscle bulk alone, through supplements or protein powders, may not translate into being able to do more.",
+      "story_angle_secondary": "For caregivers and senior living fitness and wellness staff, this perspective supports programming and assessment that emphasize strength, endurance, fatigue and recovery time \u2014 and multisystem screening including heart, lung and metabolic health \u2014 rather than body composition measures alone.",
+      "caveats": "This is a Personal View \u2014 an expert perspective piece synthesizing existing literature, not new data \u2014 and the authors explicitly present their framework as a testable hypothesis rather than an established conclusion. No new patients were studied and the clinical benefit of reorienting assessment around fatigability and recovery has not yet been demonstrated in trials.",
+      "score": 63,
+      "band": "Worth a look",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "sarcopenia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 8,
+      "title": "A simple health checklist before the next crisis could flag which older adults will struggle most",
+      "journal": "Aging Ment Health",
+      "published": "2026 Sep 28",
+      "pmid": "42804380",
+      "doi": "10.1080/13607863.2026.2735468",
+      "the_study": "Researchers used COVID-19 as a natural experiment, analyzing pre-pandemic (2018) data from 11,533 adults in two major aging cohorts \u2014 the US Health and Retirement Study (6,185 participants) and the English Longitudinal Study of Ageing (5,348) \u2014 to see whether ordinary, easy-to-collect health and social information could predict who would later report the heaviest pandemic-related stress. About a quarter (25.4%) fell into the high-stress group. Poor self-rated health, loneliness, functional limitations, multiple chronic conditions, vision impairment, higher BMI, and being female raised the odds; higher life satisfaction, greater household wealth, better cognition, more physical activity \u2014 and, counterintuitively, older age \u2014 lowered them. The model performed moderately well (AUC 0.729) and the pattern held across both countries.",
+      "why_it_matters": "It suggests that public health agencies, health systems, and senior living operators could identify the residents and patients most likely to be psychologically overwhelmed by a future emergency using information already sitting in routine records \u2014 before the emergency starts.",
+      "story_angle_primary": "Notice that the strongest protective factors here were things you have some influence over: staying physically active, keeping social connection going so loneliness doesn't take hold, and getting vision problems checked and corrected. If you already know you're isolated or managing several chronic conditions, it's worth asking your clinician or community center now what emergency check-in supports exist \u2014 rather than waiting for the next crisis to find out.",
+      "story_angle_secondary": "For senior living and community aging programs, this is a case for building a vulnerability list in advance. The predictors \u2014 loneliness, functional impairment, sensory loss, chronic disease burden \u2014 are already captured in most intake and care-plan assessments, meaning a pre-crisis triage flag could be assembled without new data collection.",
+      "caveats": "Observational design; stress response was measured as a relative, self-reported index constructed separately within each cohort rather than a clinical diagnosis; the model's predictive accuracy is moderate, not strong enough for individual-level decisions; findings come from US and English populations and may not generalize elsewhere.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 11533,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "depression",
+        "vision loss"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 9,
+      "title": "Childhood hardship still shows up in health decades later \u2014 and living alone may sharpen the effect",
+      "journal": "Int J Aging Hum Dev",
+      "published": "2026 Sep 28",
+      "pmid": "42803784",
+      "doi": "10.1177/00914150261474077",
+      "the_study": "Using data on 3,897 Chinese adults aged 60 and older from the China Health and Retirement Longitudinal Study, researchers examined whether adverse childhood experiences were linked to \"intrinsic capacity\" \u2014 a composite of cognitive, psychological, sensory, locomotor, and vitality function \u2014 and how it changed over time. Childhood adversity was tied to lower intrinsic capacity at baseline but not to faster overall decline; however, declines specifically in psychological capacity tracked with total and threat-related adversity. Notably, the link between threat-related adversity and lower capacity was stronger among older adults not living with their children, and deprivation-related adversity was linked to sensory decline only in that group. Social support did not explain away these associations.",
+      "why_it_matters": "It reframes early-life trauma as a durable health factor in late life, and hints that living arrangements may buffer or amplify it \u2014 relevant for anyone weighing where and with whom an older relative lives.",
+      "story_angle_primary": "If you carried difficult experiences out of childhood, they may be showing up now as mood and psychological resilience rather than as a general physical decline. That's worth naming to your doctor, because psychological capacity is a domain that can be assessed and supported, not simply accepted as aging.",
+      "story_angle_secondary": "For families and housing professionals, the signal that effects clustered among older adults not living with their children is a reminder that structural living arrangements \u2014 not just formal \"social support\" \u2014 may matter. Notably, measured social support did not mediate the association, so simply layering on visits or services may not be the fix.",
+      "caveats": "Observational design; cannot establish causation; childhood adversity was recalled retrospectively, which risks recall bias; only two waves of intrinsic capacity measurement; Chinese cohort with distinct multigenerational living norms may not generalize to Western populations.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 10,
+      "title": "After a stroke or TIA from narrowed brain arteries, 86% had cognitive impairment \u2014 and it didn't improve over a year",
+      "journal": "J Clin Neurosci",
+      "published": "2026 Sep 28",
+      "pmid": "42805023",
+      "doi": "10.1016/j.jocn.2026.112320",
+      "the_study": "Researchers prospectively followed 120 patients (mean age 60, 77% men) after a first-ever TIA or ischemic stroke caused by intracranial atherosclerotic disease \u2014 narrowing of the arteries inside the brain \u2014 testing cognition with the Montreal Cognitive Assessment at 3 and 15 months. Cognitive impairment was present in 85.9% at 3 months and 85.7% at 15 months, with moderate-to-severe impairment in roughly 38-40% at both points. Scores did not improve over the year, and the roughly one-third who declined further were more likely to have had a recurrent cerebrovascular event (51.5% vs 30.4%). Older age, having a full stroke rather than a TIA as the first event, and post-stroke depression independently predicted moderate-to-severe impairment; no brain imaging feature did.",
+      "why_it_matters": "Even a \"minor\" event like a TIA from intracranial artery disease was followed by lasting cognitive impairment in the great majority of patients, and the impairment did not resolve on its own \u2014 arguing for cognitive screening and rehabilitation as standard follow-up, not an afterthought.",
+      "story_angle_primary": "If you or a partner has had a TIA or stroke traced to narrowed arteries inside the brain, ask specifically for a cognitive assessment at follow-up rather than assuming thinking problems will fade. Ask too about depression screening \u2014 depressive symptoms were independently linked to worse cognitive outcomes here \u2014 and about what you can do to prevent a repeat event, since recurrence tracked with further decline.",
+      "story_angle_secondary": "For care teams and families, the striking finding is that brain imaging features predicted nothing while age, event severity, and depression predicted a lot. Clinical history and a mood screen may be a better guide to who needs cognitive rehabilitation than a scan report.",
+      "caveats": "Observational; single-center in India with a predominantly male sample and mean age of 60, so findings may not fully transfer to older, more female, or other ethnic populations; N=120 with no control group of stroke-free peers; MoCA-based impairment thresholds can overstate prevalence in lower-education populations; 15-month follow-up is relatively short.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 120,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 11,
+      "title": "VA doctors order far fewer PSA tests in men least likely to benefit than Medicare fee-for-service doctors do",
+      "journal": "JAMA Intern Med",
+      "published": "2026 Sep 28",
+      "pmid": "42804174",
+      "doi": "10.1001/jamainternmed.2026.4660",
+      "the_study": "Using linked national VA-Medicare data from 2004 to 2023, researchers tracked PSA testing and prostate biopsy rates among a 30% random sample of 1.41 million male veterans aged 65 and older (mean age 71) who were enrolled in both VA and fee-for-service Medicare, totaling 8.67 million person-years. From 2018 to 2023, among men 80 and older, PSA testing was 188 per 1,000 person-years in VA primary care versus 268 in fee-for-service Medicare (30% lower), and biopsy rates were 3.4 versus 5.1. Testing was also lower in VA among men with a predicted life expectancy under five years. In contrast, VA testing was slightly higher among men aged 65 to 69 \u2014 the group most likely to benefit.",
+      "why_it_matters": "Screening a man in his 80s or with limited life expectancy can trigger biopsies, anxiety, and treatment side effects without extending life; this shows that where a man gets his primary care meaningfully changes how likely he is to be tested.",
+      "story_angle_primary": "If you're over 80, or living with serious illness that limits life expectancy, it is entirely reasonable to ask your doctor: \"Given my age and overall health, is this PSA test likely to help me \u2014 and what happens next if it's abnormal?\" Declining a test that can't plausibly extend your life is a legitimate choice, not neglect.",
+      "story_angle_secondary": "For families and senior living staff, an incidental PSA test can set off a chain of biopsies and referrals for a resident with a short life expectancy. This study suggests the pattern is system-driven rather than patient-driven, which makes it a fair question to raise during care-plan reviews and care transitions between health systems.",
+      "caveats": "Retrospective observational study; cannot prove the VA's lower testing rates caused better outcomes, only that testing was better aligned with predicted benefit; population is male veterans dually enrolled in VA and fee-for-service Medicare and excludes Medicare Advantage enrollees, so findings may not generalize to other men; life expectancy was model-predicted, not observed.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 2004,
+      "journal_tier": 1,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy",
+        "depression"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 12,
+      "title": "An off-kilter sodium level before surgery flagged a 10-fold higher death rate in older patients",
+      "journal": "Eur Geriatr Med",
+      "published": "2026 Sep 27",
+      "pmid": "42802297",
+      "doi": "10.1007/s41999-026-01610-y",
+      "the_study": "In the BioCog cohort, researchers examined preoperative blood sodium in 618 patients aged 65 and older (median age 72, 46% women) without dementia who were scheduled for elective surgery lasting at least an hour. Just 5% had low sodium and 2.6% had high sodium, but those with any abnormality fared markedly worse: postoperative delirium in 38.3% versus 20.8%, in-hospital death in 17.0% versus 1.6%, 90-day death in 27.7% versus 2.8%, and more severe complications in 65.2% versus 38.4%. However, once established risk factors were accounted for, adding sodium status barely improved prediction of delirium or complications \u2014 though it modestly improved prediction of in-hospital and 90-day death.",
+      "why_it_matters": "A routine, cheap lab value that most patients never think about identified a small group of older surgical patients at dramatically elevated risk of dying within three months \u2014 useful for conversations about whether and when to operate.",
+      "story_angle_primary": "Before elective surgery, it's fair to ask whether your blood sodium is normal and, if not, what's driving it \u2014 common culprits include diuretics, some antidepressants, and other medications. An abnormal result doesn't mean surgery is off the table, but it is a reasonable prompt to ask whether it should be corrected or investigated first.",
+      "story_angle_secondary": "For clinicians and care teams, the nuance matters: sodium abnormalities marked high-risk patients but added little to formal prediction models for delirium beyond factors already assessed. Treat it as a signal to look harder at the underlying cause and to set expectations with the family, not as a new scoring variable.",
+      "caveats": "Observational; cannot establish that abnormal sodium caused the poor outcomes rather than reflecting underlying illness; very small numbers with abnormalities (31 with hyponatremia, 16 with hypernatremia), making the mortality estimates imprecise; excluded patients with dementia and limited to elective surgery of at least 60 minutes, so findings may not apply to emergency surgery or people with dementia; two authors are affiliated with Pharmaimage Biomarker Solutions GmbH.",
+      "score": 63,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 618,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 13,
+      "title": "A routine blood-test combo may flag who is on track to become frail \u2014 years ahead",
+      "journal": "Maturitas",
+      "published": "2026 Sep 25",
+      "pmid": "42805127",
+      "doi": "10.1016/j.maturitas.2026.109138",
+      "the_study": "Researchers tracked a combined marker of inflammation and metabolic strain \u2014 the C-reactive protein\u2013triglyceride\u2013glucose index, built from three common blood tests \u2014 across repeated measurements in 3,947 older adults in the China Health and Retirement Longitudinal Study and 1,431 in the English Longitudinal Study of Ageing. They sorted participants into consistently low, moderate, and high trajectories and compared frailty measured by a 31-item deficit index. People on a persistently high trajectory started out frailer, were 24% (China) to 42% (England) more likely to become newly frail during follow-up, and accumulated health deficits faster over time \u2014 and this held regardless of body weight.",
+      "why_it_matters": "Frailty is what turns a minor illness or fall into a hospital stay and a loss of independence, and this suggests the warning signs may already sit in blood work most older adults have done anyway, including in people whose weight looks perfectly normal.",
+      "story_angle_primary": "If you have recent labs, you likely already have the three numbers involved \u2014 C-reactive protein, triglycerides, and fasting glucose. Rather than chasing a new test, it's worth asking your clinician at your next visit whether your inflammatory and metabolic numbers have been drifting upward over the years, and what non-drug steps \u2014 strength training, protein intake, sleep, managing chronic conditions \u2014 are most relevant to you. A normal BMI does not put you in the clear.",
+      "story_angle_secondary": "For care teams and senior living wellness staff, the actionable idea here is trend-watching: a single lab draw says less than the direction of travel across several years. Repeat measures could help identify residents who look stable today but are accumulating deficits quickly, prompting earlier physical therapy or nutrition referral.",
+      "caveats": "Observational cohort study \u2014 it cannot show that the inflammatory-metabolic burden causes frailty, and the index has not been tested as a screening tool in practice. Frailty was measured by a deficit index rather than clinical assessment, and the two cohorts (China and England) may not generalize to other populations or health systems.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 3947,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "falls",
+        "nutrition",
+        "sarcopenia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 14,
+      "title": "Ten years of brain scans show epilepsy quietly erodes a key memory pathway faster than aging alone",
+      "journal": "Epilepsy Behav",
+      "published": "2026 Sep 26",
+      "pmid": "42800214",
+      "doi": "10.1016/j.yebeh.2026.111292",
+      "the_study": "Researchers in Shanghai scanned 16 adults with temporal lobe epilepsy affecting one side of the brain and 15 age- and sex-matched healthy comparison participants, then scanned them again roughly a decade later. Over those 10 years, the epilepsy group lost measurable integrity in the fornix \u2014 the main output cable from the hippocampus, the brain's memory hub \u2014 and in the corpus callosum, while the healthy group showed no significant change. The longer someone had lived with epilepsy, the steeper the fornix decline.",
+      "why_it_matters": "It suggests that in temporal lobe epilepsy the brain changes are not a one-time injury that stays put but a slow progression that outpaces typical aging, which reframes long-term seizure control as potentially brain-protective, not just seizure-preventive.",
+      "story_angle_primary": "If you or a partner has lived with temporal lobe epilepsy for decades, it's reasonable to ask your neurologist about periodic memory and cognitive check-ins rather than focusing only on seizure counts \u2014 and to revisit whether your seizures are as well controlled as they could be. This study cannot tell you that better control prevents the decline, but it does argue against assuming long-standing epilepsy is a stable, settled condition.",
+      "story_angle_secondary": "For families and care staff supporting older adults with long-standing epilepsy, the takeaway is expectation-setting: gradual memory and orientation difficulties in this group may reflect the epilepsy's own trajectory rather than a separate emerging dementia, and are worth reporting to the neurology team rather than attributing to age.",
+      "caveats": "Very small sample (16 patients, 15 controls), single-center, and observational. The link between fornix decline and poorer orientation was exploratory and did not survive correction for multiple comparisons. Imaging changes were not confirmed against brain tissue, and the findings may not generalize beyond this Chinese hospital cohort.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 15,
+      "title": "Feeling lonely \u2014 not simply being alone \u2014 tracks with worse menopause symptoms",
+      "journal": "Maturitas",
+      "published": "2026 Sep 25",
+      "pmid": "42805125",
+      "doi": "10.1016/j.maturitas.2026.109135",
+      "the_study": "Using the French nationwide CLIMATERE survey, researchers analyzed 4,124 women who completed the Greene Climacteric Scale, a standard measure of menopausal symptom burden, and sorted them by whether they were lonely, socially isolated, both, or neither. Women who reported loneliness without objective isolation had markedly higher symptom scores and 68% greater odds of severe symptom burden, after adjustment. Objective social isolation on its own showed no consistent relationship \u2014 an apparent protective signal reversed or vanished depending on how isolation was defined.",
+      "why_it_matters": "It separates two things that are routinely lumped together: the subjective ache of loneliness appears to track with how badly women experience hot flushes, mood changes and other symptoms, while a small social circle by itself does not.",
+      "story_angle_primary": "If menopausal symptoms are hitting you hard, it may be worth raising loneliness with your clinician alongside the physical complaints \u2014 the two appear connected, and the felt quality of your relationships seems to matter more than the head count. Nothing here says socializing more will ease symptoms, but a conversation about mood and social connection is a fair thing to ask for.",
+      "story_angle_secondary": "For clinicians and program staff, the practical distinction is that a standard headcount-based isolation screen would have missed the women at highest symptom risk here; a question about how connected someone feels captured something the objective measure did not.",
+      "caveats": "Cross-sectional web-based survey \u2014 it cannot establish direction of causation, and worse symptoms may well drive loneliness rather than the reverse. All outcomes were self-reported, the isolation finding was highly sensitive to how the threshold was set, and a self-selected online French cohort of midlife women may not generalize to older or more diverse populations.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 4124,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "depression"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 16,
+      "title": "Adding a geriatrician to the hip fracture team cut in-hospital deaths by more than half",
+      "journal": "Osteoporos Int",
+      "published": "2026 Sep 28",
+      "pmid": "42806170",
+      "doi": "10.1007/s00198-026-08244-7",
+      "the_study": "Researchers in Lisbon reviewed the records of 872 consecutively admitted patients aged 65 and older with a proximal femur (hip) fracture over 23 months, comparing prescribing and outcomes before and after the hospital launched an orthogeriatric co-management unit in which geriatricians work alongside orthopedic surgeons. After implementation, prescriptions for bone-protecting treatments jumped sharply (vitamin D 2.5% to 56.7%, calcium 2.7% to 51.5%, zoledronic acid 1.4% to 12.7%), as did iron and folic acid for anemia and laxatives to prevent constipation, while intramuscular haloperidol for delirium fell from 21.7% to 10.9%. Unadjusted in-hospital mortality dropped from 7.7% to 2.9%.",
+      "why_it_matters": "A hip fracture is one of the most dangerous events in later life, and this study suggests that who manages the hospital stay \u2014 not just who performs the surgery \u2014 measurably changes both the medicines given and the odds of surviving it.",
+      "story_angle_primary": "If you or your spouse breaks a hip, it is fair to ask whether the hospital has an orthogeriatric or geriatric co-management service, and whether the discharge plan includes treatment to prevent the next fracture \u2014 calcium, vitamin D and a bone-strengthening drug were prescribed to roughly half of patients only after geriatricians joined the team.",
+      "story_angle_secondary": "For senior living operators and discharge planners, this is a concrete quality marker to track in referral hospitals: rates of secondary fracture prevention at discharge, anemia treatment, bowel care, and sedative use for delirium. The drop in injected haloperidol also points to a model worth emulating in facility delirium protocols.",
+      "caveats": "Retrospective, observational, single-center design cannot establish causation; the mortality comparison was unadjusted for differences between the before and after groups, and other hospital improvements over the 23 months may have contributed.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls",
+        "nutrition",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 17,
+      "title": "Strokes are falling in older adults \u2014 and nearly doubling in people under 55",
+      "journal": "Neurology",
+      "published": "2026 Oct 27",
+      "pmid": "42777185",
+      "doi": "10.1212/WNL.0000000000218622",
+      "the_study": "Using a validated population-based surveillance system covering five counties around Cincinnati, physicians adjudicated 2,076 first-ever strokes in adults aged 20-54 across six study periods from 1993/94 through 2020. Stroke incidence in young adults rose from 33.9 to 62.18 cases per 100,000 person-years, driven mainly by ischemic stroke, while incidence in older adults fell from 618.78 to 453.04 per 100,000. Hypertension, diabetes, atrial fibrillation and substance use all became more common among the young patients, and 30-day death rates declined modestly overall.",
+      "why_it_matters": "The decades-long push to control blood pressure, diabetes and atrial fibrillation appears to be paying off in older adults \u2014 the group still at highest absolute risk \u2014 even as the same risk factors spread to younger generations.",
+      "story_angle_primary": "Your generation's stroke rate is going down, and the risk factors behind that decline are the ones you can keep working on: blood pressure control, diabetes management, and being checked for atrial fibrillation. Ask your clinician which of these numbers is currently your weakest link.",
+      "story_angle_secondary": "For families, the striking finding is generational reversal: the adult children and grandchildren who help manage an older relative's medications may themselves be carrying untreated hypertension or diabetes. Caregiver health screening \u2014 often deferred while caring for a parent \u2014 deserves its own place on the family agenda.",
+      "caveats": "Observational surveillance data cannot establish why rates changed; the population comes from a single five-county region and may not generalize nationally; the primary focus was adults aged 20-54, with older adults included for comparison.",
+      "score": 55,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 2,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 18,
+      "title": "What makes a family caregiver feel a loved one died well? Less burden, not more duty alone",
+      "journal": "J Palliat Care",
+      "published": "2026 Sep 28",
+      "pmid": "42804262",
+      "doi": "10.1177/08258597261487886",
+      "the_study": "Researchers surveyed 256 primary caregivers of terminally ill patients at a medical center in southern Taiwan between December 2022 and April 2023, measuring filial piety values, caregiving burden, and perceptions of a \"good death.\" Caregiving burden was the strongest predictor of a poorer sense that the death was good (\u03b2 = -0.48), as was being employed, while strong filial piety values, religious belief, and being older than 40 predicted more positive perceptions. Together the factors explained about 28% of the variation.",
+      "why_it_matters": "How families remember a death shapes their grief for years, and this suggests the most modifiable lever is not the family's values but the practical and emotional load carried by the person doing the caregiving.",
+      "story_angle_primary": "If you are the primary caregiver for a dying spouse or parent \u2014 especially while still working \u2014 accepting respite help, hospice support, or chaplaincy is not a failure of devotion; caregivers under the heaviest strain were the least likely to experience the death as a good one.",
+      "story_angle_secondary": "For hospice and senior living staff, this argues for explicitly assessing caregiver burden as part of end-of-life care planning, and for building on rather than bypassing families' cultural and religious frameworks \u2014 respecting duty-based values while actively reducing the workload those values impose.",
+      "caveats": "Cross-sectional design with purposive sampling from a single medical center; all outcomes self-reported; findings are rooted in Taiwanese family-centered cultural values and may not generalize to other populations; associations cannot establish causation.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "caregiving"
+      ],
+      "covered_by": []
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42804222",
+      "journal": "JAMA Neurol",
+      "date": "2026 Sep 28",
+      "doi": "10.1001/jamaneurol.2026.3395"
+    },
+    {
+      "pmid": "42806888",
+      "journal": "J Palliat Med",
+      "date": "2026 Sep 29",
+      "doi": "10.1177/10966218261488922"
+    },
+    {
+      "pmid": "42803883",
+      "journal": "Geroscience",
+      "date": "2026 Sep 28",
+      "doi": "10.1007/s11357-026-02562-8"
+    },
+    {
+      "pmid": "42803811",
+      "journal": "Osteoporos Int",
+      "date": "2026 Sep 28",
+      "doi": "10.1007/s00198-026-08219-8"
+    },
+    {
+      "pmid": "42804729",
+      "journal": "Neurol Clin Pract",
+      "date": "2026 Dec",
+      "doi": "10.1212/CPJ.0000000000200658"
+    },
+    {
+      "pmid": "42806440",
+      "journal": "Am J Phys Med Rehabil",
+      "date": "2026 Sep 29",
+      "doi": "10.1097/PHM.0000000000003166"
+    },
+    {
+      "pmid": "42805229",
+      "journal": "Lancet Healthy Longev",
+      "date": "2026 Sep 28",
+      "doi": "10.1016/j.lanhl.2026.100904"
+    },
+    {
+      "pmid": "42804380",
+      "journal": "Aging Ment Health",
+      "date": "2026 Sep 28",
+      "doi": "10.1080/13607863.2026.2735468"
+    },
+    {
+      "pmid": "42803784",
+      "journal": "Int J Aging Hum Dev",
+      "date": "2026 Sep 28",
+      "doi": "10.1177/00914150261474077"
+    },
+    {
+      "pmid": "42805023",
+      "journal": "J Clin Neurosci",
+      "date": "2026 Sep 28",
+      "doi": "10.1016/j.jocn.2026.112320"
+    },
+    {
+      "pmid": "42804174",
+      "journal": "JAMA Intern Med",
+      "date": "2026 Sep 28",
+      "doi": "10.1001/jamainternmed.2026.4660"
+    },
+    {
+      "pmid": "42802297",
+      "journal": "Eur Geriatr Med",
+      "date": "2026 Sep 27",
+      "doi": "10.1007/s41999-026-01610-y"
+    },
+    {
+      "pmid": "42805127",
+      "journal": "Maturitas",
+      "date": "2026 Sep 25",
+      "doi": "10.1016/j.maturitas.2026.109138"
+    },
+    {
+      "pmid": "42800214",
+      "journal": "Epilepsy Behav",
+      "date": "2026 Sep 26",
+      "doi": "10.1016/j.yebeh.2026.111292"
+    },
+    {
+      "pmid": "42805125",
+      "journal": "Maturitas",
+      "date": "2026 Sep 25",
+      "doi": "10.1016/j.maturitas.2026.109135"
+    },
+    {
+      "pmid": "42806170",
+      "journal": "Osteoporos Int",
+      "date": "2026 Sep 28",
+      "doi": "10.1007/s00198-026-08244-7"
+    },
+    {
+      "pmid": "42777185",
+      "journal": "Neurology",
+      "date": "2026 Oct 27",
+      "doi": "10.1212/WNL.0000000000218622"
+    },
+    {
+      "pmid": "42804262",
+      "journal": "J Palliat Care",
+      "date": "2026 Sep 28",
+      "doi": "10.1177/08258597261487886"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n\n- **Cheap, already-collected measures keep earning their keep as early-warning signals.** Last week's *An eye exam may flag which older adults' brains are silently aging fastest* (PMID 42801966), *A tape measure and a two-minute walk test can flag which heart failure patients are at highest risk* (PMID 42800123) and *A routine blood count may hold early clues about who develops Parkinson's disease* (PMID 42778869) are joined by four more: *A routine blood-test combo may flag who is on track to become frail \u2014 years ahead* (PMID 42805127), *An off-kilter sodium level before surgery flagged a 10-fold higher death rate in older patients* (PMID 42802297), *Three simple mobility tests at rehab admission predict how independent you'll be at discharge* (PMID 42806440), and *A simple health checklist before the next crisis could flag which older adults will struggle most* (PMID 42804380). The same caveat recurs in all of them: strong association, modest added value over existing prediction models.\n- **Cognitive impairment is not always a one-way street.** *Mild cognitive trouble often reverses \u2014 and a handful of everyday advantages predict who bounces back* (PMID 42802990) finds its randomized companion in *Hearing aids didn't stop dementia in people with mild cognitive impairment \u2014 but six times more of them got better* (PMID 42804222), where 15.3% of the hearing aid group returned to a normal cognitive rating versus 2.4% of controls.\n- **Scans explain less than people assume.** *A thicker brain in midlife doesn't guarantee sharper thinking after 80* (PMID 42784930) is echoed by *After a stroke or TIA from narrowed brain arteries, 86% had cognitive impairment \u2014 and it didn't improve over a year* (PMID 42805023), where no imaging feature predicted moderate-to-severe impairment while age, event severity and depression all did.\n- **Where you are cared for changes what care you get.** *'Hospital at home' looks very different depending on where you live \u2014 even inside one health system* (PMID 42802388) and *Frail stroke patients are far less likely to get clot-busting drugs* (PMID 42803571) are now matched by *Where you live may shape whether your memory problems ever make it into your medical record* (PMID 42804729) and *VA doctors order far fewer PSA tests in men least likely to benefit than Medicare fee-for-service doctors do* (PMID 42804174).\n\n**Advances**\n\n- **From \"aerobic exercise doesn't protect muscle\" to \"muscle mass may be the wrong target entirely.\"** *Nine years of cycling later: these older athletes still outperform 99% of their peers* (PMID 42802250) documented 8.1% lean tissue loss in dedicated riders; *Sarcopenia experts argue muscle loss isn't really about muscle \u2014 and that's why treatments keep disappointing* (PMID 42805229) pushes further, arguing strength, fatigability and recovery \u2014 not body composition \u2014 are what should be measured and trained.\n- **Frailty moves from gatekeeping question to intervention target.** Last week frailty mostly determined who was denied treatment (PMID 42803571); this week it is something being predicted years ahead (PMID 42805127) and, tentatively, treated \u2014 *A common fruit fiber supplement improved leg strength and mood in frail older adults in a small four-week trial* (PMID 42803883).\n\n**Counterpoints**\n\n- **Stroke's direction of travel splits by generation.** Against the prior digest's focus on who gets acute stroke treatment (PMID 42803571), *Strokes are falling in older adults \u2014 and nearly doubling in people under 55* (PMID 42777185) reports incidence in older adults dropping from 618.78 to 453.04 per 100,000 while young-adult rates nearly doubled.\n\n**New themes**\n\n- **Hip fracture aftercare as its own field:** *A digitally coordinated hip fracture follow-up program left patients markedly more independent a year later* (PMID 42803811) and *Adding a geriatrician to the hip fracture team cut in-hospital deaths by more than half* (PMID 42806170).\n- **End-of-life process and caregiver load:** *A one-question screen at hospital admission got dying patients palliative care nearly three days sooner* (PMID 42806888) and *What makes a family caregiver feel a loved one died well? Less burden, not more duty alone* (PMID 42804262).\n- **Felt loneliness versus counted isolation:** *Feeling lonely \u2014 not simply being alone \u2014 tracks with worse menopause symptoms* (PMID 42805125), alongside loneliness as a top predictor in PMID 42804380 and living arrangements sharpening childhood-adversity effects in *Childhood hardship still shows up in health decades later* (PMID 42803784).",
+  "feature_pitch_raw": "**The pattern:** Three studies in this batch converge on the same overlooked stretch of time \u2014 what happens after an older adult's bone is fixed. *Adding a geriatrician to the hip fracture team cut in-hospital deaths by more than half* (PMID 42806170) found that once geriatricians joined the orthopedic team, vitamin D prescribing went from 2.5% to 56.7% and injected haloperidol for delirium fell by half; *A digitally coordinated hip fracture follow-up program left patients markedly more independent a year later* (PMID 42803811) found a nearly 20-point gap on the Barthel Index at 12 months when follow-up was coordinated across hospital, rehab and primary care; and *Three simple mobility tests at rehab admission predict how independent you'll be at discharge* (PMID 42806440) shows the recovery trajectory is largely readable within days of rehab admission. Neither of the two trials moved its primary outcome \u2014 readmissions and repeat fractures didn't budge \u2014 yet independence and medication follow-through did.\n\n**Why pitch this now:** Families choosing a hospital or a rehab setting after a fall are usually told to ask about the surgeon and the surgery, when the evidence here points at something else entirely \u2014 who manages the medicines, the delirium, the bone treatment and the handoff home.\n\n**Angle:** A practical guide for older adults and adult children on the questions that actually shape the year after a hip fracture, paired with a trade-facing version on why secondary fracture prevention, delirium protocols and owning the discharge handoff are measurable quality markers rather than nice-to-haves.\n\n**Potential headlines:**\n- What Happens After Hip Surgery Shapes the Next Year More Than the Surgery Does\n- The Bone Gets Fixed. The Osteoporosis Usually Doesn't.\n- Ask Who's in Charge of Your Parent's Recovery, Not Just Who's Doing the Operation\n\n**Potential outlets:**\n- **Next Avenue** \u2014 its readers are frequently the adult child fielding a 2 a.m. call about a parent's fall, and this gives them a concrete list of questions for the hospital and the rehab unit.\n- **Caring.com** \u2014 decision-stage families comparing rehab and post-acute options can use secondary fracture prevention and geriatric co-management as screening criteria.\n- **LeadingAge** \u2014 provider and post-acute members are exactly who owns (or drops) the handoff these studies describe, and the delirium-medication and bone-treatment numbers are usable quality benchmarks.\n- **National Council on Aging** \u2014 falls and bone health are core to its consumer education work, and this extends the message past prevention into what to demand after the fracture happens.",
+  "pitch_ideas_raw": "- **Hearing aids didn't stop dementia in people with mild cognitive impairment \u2014 but six times more of them got better (PMID 42804222):** Lead with the honest split \u2014 the dementia-prevention result was negative, yet far more hearing aid users tested back in the normal range, so untreated hearing loss may be making cognition look worse than it is; for a consumer health explainer and a memory-care clinical brief.\n- **A one-question screen at hospital admission got dying patients palliative care nearly three days sooner (PMID 42806888):** Families don't have to wait for the system \u2014 you can request a palliative care consultation and get wishes documented on day one; for a caregiver-advice column, with a hospital quality-committee version for trade.\n- **A common fruit fiber supplement improved leg strength and mood in frail older adults in a small four-week trial (PMID 42803883):** A careful \"interesting, not actionable\" piece \u2014 29 completers over four weeks, commercial disclosures on the author list, and a better takeaway about fermentable fiber in everyday meals than about buying a supplement; for a consumer nutrition explainer and a senior-living dining brief.\n- **A digitally coordinated hip fracture follow-up program left patients markedly more independent a year later (PMID 42803811):** Ask who is responsible for starting and continuing osteoporosis treatment after discharge \u2014 with honest handling of the baseline imbalance and the unexplained deaths in the intervention arm; for a consumer bone-health explainer and a post-acute care trade brief.\n- **Where you live may shape whether your memory problems ever make it into your medical record (PMID 42804729):** A missing dementia code doesn't mean a missing condition \u2014 relevant to anyone relocating a parent or moving into a new community, where a fresh cognitive assessment may be warranted; for a caregiver-advice column and a senior-living admissions brief.\n- **Three simple mobility tests at rehab admission predict how independent you'll be at discharge (PMID 42806440):** Ask your therapist for your walking speed, Timed Up and Go and balance scores on day one, then ask what would move them; for a consumer rehab explainer and a discharge-planning trade brief.\n- **Sarcopenia experts argue muscle loss isn't really about muscle \u2014 and that's why treatments keep disappointing (PMID 42805229):** The counterintuitive one \u2014 tiring faster and taking longer to bounce back may matter more than muscle size, which reframes protein powders and body-composition scans; for a consumer aging-well feature and a senior-living fitness programming brief.\n- **A simple health checklist before the next crisis could flag which older adults will struggle most (PMID 42804380):** Communities can build a vulnerability list now from information already in intake assessments \u2014 loneliness, functional limits, sensory loss, chronic conditions; for an emergency-preparedness trade brief and a consumer piece on asking your senior center what check-in supports exist.\n- **Childhood hardship still shows up in health decades later \u2014 and living alone may sharpen the effect (PMID 42803784):** Early hardship showed up in psychological capacity rather than general physical decline, and measured social support didn't explain it away \u2014 so more visits may not be the fix; for a consumer mental-health explainer and a family-decision piece on living arrangements.\n- **After a stroke or TIA from narrowed brain arteries, 86% had cognitive impairment \u2014 and it didn't improve over a year (PMID 42805023):** Ask for cognitive and depression screening at stroke follow-up rather than waiting for thinking problems to fade \u2014 the scan predicted nothing here, but mood and event severity predicted a lot; for a consumer neurology explainer and a stroke-rehab trade brief.\n- **VA doctors order far fewer PSA tests in men least likely to benefit than Medicare fee-for-service doctors do (PMID 42804174):** Give readers the exact sentence to say at the appointment \u2014 \"given my age and health, is this test likely to help me, and what happens next if it's abnormal?\" \u2014 and frame declining as a legitimate choice; for a consumer health explainer or a men's health column.\n- **An off-kilter sodium level before surgery flagged a 10-fold higher death rate in older patients (PMID 42802297):** Before elective surgery, ask whether sodium is normal and whether a diuretic or antidepressant is behind it \u2014 while being clear it's a flag to investigate, not a scoring tool; for a consumer pre-surgery explainer and a perioperative care brief.\n- **A routine blood-test combo may flag who is on track to become frail \u2014 years ahead (PMID 42805127):** The direction of travel across years of routine labs matters more than any single draw, and a normal BMI doesn't put you in the clear; for a consumer health explainer and a senior-living wellness trade brief on trend-watching.\n- **Ten years of brain scans show epilepsy quietly erodes a key memory pathway faster than aging alone (PMID 42800214):** Expectation-setting for families \u2014 gradual memory changes in someone with long-standing temporal lobe epilepsy may belong to the epilepsy itself, not a separate emerging dementia, and are worth reporting to neurology; for a caregiver-advice column or an epilepsy patient publication.\n- **Feeling lonely \u2014 not simply being alone \u2014 tracks with worse menopause symptoms (PMID 42805125):** A headcount-based isolation screen would have missed the women at highest symptom risk here; ask how connected someone feels, not how many people they see; for a women's midlife health explainer and a clinical screening brief.\n- **Adding a geriatrician to the hip fracture team cut in-hospital deaths by more than half (PMID 42806170):** Turn it into a checklist of referral-hospital quality markers \u2014 bone treatment at discharge, anemia and bowel care, sedative use for delirium; for a senior-living operations trade brief and a consumer piece on what to ask when a parent breaks a hip.\n- **Strokes are falling in older adults \u2014 and nearly doubling in people under 55 (PMID 42777185):** The generational reversal is the story \u2014 the adult children managing a parent's medications may be the ones with untreated blood pressure; for a local-news health segment and a caregiver-health column.\n- **What makes a family caregiver feel a loved one died well? Less burden, not more duty alone (PMID 42804262):** Accepting respite, hospice support or chaplaincy isn't a failure of devotion \u2014 caregiver burden, not family values, was the strongest modifiable factor in how the death was remembered; for a caregiver-advice column and a hospice practice brief.",
+  "fact_check": {
+    "checked": "2026-09-29",
+    "studies_reviewed": "18",
+    "verdicts_by_pmid": {
+      "42804222": "\u2705 Accurate",
+      "42806888": "\u26a0\ufe0f Minor issues",
+      "42803883": "\u2705 Accurate",
+      "42803811": "\u26a0\ufe0f Minor issues",
+      "42804729": "\u2705 Accurate",
+      "42806440": "\u2705 Accurate",
+      "42805229": "\u2705 Accurate",
+      "42804380": "\u26a0\ufe0f Minor issues",
+      "42803784": "\u26a0\ufe0f Minor issues",
+      "42805023": "\u2705 Accurate",
+      "42804174": "\u26a0\ufe0f Minor issues",
+      "42802297": "\u26a0\ufe0f Minor issues",
+      "42805127": "\u2705 Accurate",
+      "42800214": "\u26a0\ufe0f Minor issues",
+      "42805125": "\u26a0\ufe0f Minor issues",
+      "42806170": "\u26a0\ufe0f Minor issues",
+      "42777185": "\u26a0\ufe0f Minor issues",
+      "42804262": "\u26a0\ufe0f Minor issues"
+    },
+    "summary": {
+      "total_issues": "17 (16 Minor, 1 Moderate, 0 Major)",
+      "entries_requiring_revision": "11",
+      "entries_cleared": "7"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 New This Week \u2014 September 2026\n**Checked:** 2026-09-29 | **Studies reviewed:** 18\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n### Study 1: Hearing aids didn't stop dementia in people with mild cognitive impairment \u2014 but six times more of them got better\n**PMID:** 42804222 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 2: A one-question screen at hospital admission got dying patients palliative care nearly three days sooner\n**PMID:** 42806888 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal headline for observational design** \u2014 Severity: Minor\n\n- **As written:** \"A one-question screen at hospital admission got dying patients palliative care nearly three days sooner\"\n- **Abstract says:** \"An SQ response of \"No\" at the time of admission was associated with an increased likelihood and earlier timing of PC interventions.\"\n- **Problem:** \"Got\" attributes the earlier consultations to the screening question, whereas the study is a retrospective propensity-matched cohort that can only show association \u2014 which the digest's own caveats acknowledge.\n- **Suggested fix:** \"Rephrase to something like \"A one-question screen at admission was linked to palliative care nearly three days sooner.\"\"\n\n**Issue B. Encounters described as admissions** \u2014 Severity: Minor\n\n- **As written:** \"analyzed 8,970 propensity-matched hospital admissions from 2020 to 2025\"\n- **Abstract says:** \"After propensity matching, 8,970 encounters were analyzed.\"\n- **Problem:** The unit of analysis was hospital encounters on the Hospital Medicine service, not necessarily unique admissions or patients.\n- **Suggested fix:** \"Use \"8,970 propensity-matched hospital encounters.\"\"\n\n### Study 3: A common fruit fiber supplement improved leg strength and mood in frail older adults in a small four-week trial\n**PMID:** 42803883 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 4: A digitally coordinated hip fracture follow-up program left patients markedly more independent a year later\n**PMID:** 42803811 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Prescription vs. adherence** \u2014 Severity: Minor\n\n- **As written:** \"stayed on osteoporosis medication more consistently\"\n- **Abstract says:** \"Osteoporosis treatment prescription was more sustained in the FLS group.\"\n- **Problem:** The abstract reports more sustained prescribing by clinicians (adherence was listed as an assessed secondary outcome but no result is given); the digest attributes the difference to patients staying on medication.\n- **Suggested fix:** \"Change to \"had osteoporosis treatment prescribed more consistently over the year.\"\"\n\n### Study 5: Where you live may shape whether your memory problems ever make it into your medical record\n**PMID:** 42804729 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 6: Three simple mobility tests at rehab admission predict how independent you'll be at discharge\n**PMID:** 42806440 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 7: Sarcopenia experts argue muscle loss isn't really about muscle \u2014 and that's why treatments keep disappointing\n**PMID:** 42805229 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 8: A simple health checklist before the next crisis could flag which older adults will struggle most\n**PMID:** 42804380 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Ranking and reframing of predictors** \u2014 Severity: Minor\n\n- **As written:** \"Notice that the strongest protective factors here were things you have some influence over: staying physically active, keeping social connection going so loneliness doesn't take hold, and getting vision problems checked and corrected.\"\n- **Abstract says:** \"Poor self-rated health, perceived loneliness, functional impairment, chronic disease burden, visual impairment, higher BMI, and female sex/gender were associated with higher odds of high stress response, whereas older age, higher life satisfaction, greater household wealth, better cognitive function, and greater physical activity were associated with lower odds.\"\n- **Problem:** The abstract does not rank predictors by strength, and visual impairment and loneliness were risk factors rather than protective factors; presenting corrected vision and social connection as the \"strongest protective factors\" goes beyond the reported results.\n- **Suggested fix:** \"Say that loneliness and vision impairment were among the risk factors identified and physical activity among the protective ones, without claiming which were strongest.\"\n\n### Study 9: Childhood hardship still shows up in health decades later \u2014 and living alone may sharpen the effect\n**PMID:** 42803784 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Living alone\" misstates the moderator** \u2014 Severity: Minor\n\n- **As written:** \"and living alone may sharpen the effect\"\n- **Abstract says:** \"Threat-related ACEs showed a stronger association with lower baseline IC among those not living with children, and deprivation-related ACEs were linked to greater sensory decline ... only in this group.\"\n- **Problem:** The modifier was not living with one's children \u2014 which includes people living with a spouse or others \u2014 not living alone; the headline implies solitary living was the condition studied.\n- **Suggested fix:** \"Change to \"\u2014 and not living with your children may sharpen the effect.\"\"\n\n**Issue B. Baseline vs. overall capacity** \u2014 Severity: Minor\n\n- **As written:** \"the link between threat-related adversity and lower capacity was stronger among older adults not living with their children\"\n- **Abstract says:** \"Threat-related ACEs showed a stronger association with lower baseline IC among those not living with children\"\n- **Problem:** The stronger association applied specifically to baseline intrinsic capacity, not capacity generally or its change over time.\n- **Suggested fix:** \"Add \"baseline\": \"...and lower baseline intrinsic capacity was stronger among...\"\"\n\n### Study 10: After a stroke or TIA from narrowed brain arteries, 86% had cognitive impairment \u2014 and it didn't improve over a year\n**PMID:** 42805023 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 11: VA doctors order far fewer PSA tests in men least likely to benefit than Medicare fee-for-service doctors do\n**PMID:** 42804174 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Sample description ambiguous** \u2014 Severity: Minor\n\n- **As written:** \"researchers tracked PSA testing and prostate biopsy rates among a 30% random sample of 1.41 million male veterans aged 65 and older (mean age 71)\"\n- **Abstract says:** \"A 30% random sample of male veterans 65 years or older who were dually enrolled in VA and FFS Medicare Parts A and B were included... Among 1.41 million dually enrolled male veterans (mean [SD] age, 71.3 [7.1] years), 8.67 million person-years were observed.\"\n- **Problem:** The 1.41 million veterans are the 30% sample, not the pool from which 30% was drawn; as written a reader could infer the analytic sample was about 423,000.\n- **Suggested fix:** \"\"a 30% national random sample comprising 1.41 million male veterans aged 65 and older (mean age 71)\"\"\n\n**Issue B. Inference about cause of the setting difference** \u2014 Severity: Minor\n\n- **As written:** \"This study suggests the pattern is system-driven rather than patient-driven\"\n- **Abstract says:** \"compared with FFS Medicare, VA primary care was associated with lower PSA testing and biopsy rates among veterans least likely to benefit, suggesting closer alignment of testing intensity with likelihood of benefit\"\n- **Problem:** The retrospective design shows an association between predominant care setting and testing intensity; it cannot separate system behavior from patient self-selection into settings. \"Where a man gets his primary care meaningfully changes how likely he is to be tested\" is similarly causal.\n- **Suggested fix:** \"Reword to \"testing rates differed by care setting, which points to system-level practice patterns\" and avoid \"changes.\"\"\n\n### Study 12: An off-kilter sodium level before surgery flagged a 10-fold higher death rate in older patients\n**PMID:** 42802297 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Mortality outcomes were exploratory** \u2014 Severity: Minor\n\n- **As written:** \"in-hospital death in 17.0% versus 1.6%, 90-day death in 27.7% versus 2.8%\"\n- **Abstract says:** \"We assessed our primary outcome, postoperative delirium... Our secondary, exploratory outcomes were postoperative complications, and in-hospital as well as 90-day mortality.\"\n- **Problem:** The headline and \"Why it matters\" are built on outcomes the authors label secondary and exploratory (based on 8 and 13 deaths), while the primary outcome analysis showed sodium added essentially nothing.\n- **Suggested fix:** \"Add \"secondary, exploratory outcome\" when introducing the mortality figures, as the digest already does for imprecision in Caveats.\"\n\n### Study 13: A routine blood-test combo may flag who is on track to become frail \u2014 years ahead\n**PMID:** 42805127 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 14: Ten years of brain scans show epilepsy quietly erodes a key memory pathway faster than aging alone\n**PMID:** 42800214 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Seizure control not studied** \u2014 Severity: Minor\n\n- **As written:** \"which reframes long-term seizure control as potentially brain-protective, not just seizure-preventive\"\n- **Abstract says:** \"Greater longitudinal fornix FA decline was associated with longer disease duration (r = 0.570, P = 0.021)... TLE shows progressive white matter degeneration beyond normal aging, with preferential involvement of the fornix.\"\n- **Problem:** The abstract reports an association with disease duration only; seizure frequency or control was not examined, so the study offers no evidence that better control slows the decline.\n- **Suggested fix:** \"Frame as \"longer disease duration tracked with steeper decline,\" and note that whether seizure control modifies this was not tested.\"\n\n**Issue B. Participant ages not reported** \u2014 Severity: Minor\n\n- **As written:** \"If you or a partner has lived with temporal lobe epilepsy for decades\"\n- **Abstract says:** \"Sixteen patients with unilateral TLE and 15 age- and sex-matched healthy controls underwent diffusion tensor imaging at baseline and approximately 10-year follow-up.\"\n- **Problem:** The abstract gives no participant ages or mean disease duration, so it is unverifiable from the abstract alone that this cohort represents older adults with decades-long epilepsy \u2014 the audience the story angles address.\n- **Suggested fix:** \"State that the abstract does not report participant ages, or soften the angle to \"adults living with temporal lobe epilepsy long term.\"\"\n\n### Study 15: Feeling lonely \u2014 not simply being alone \u2014 tracks with worse menopause symptoms\n**PMID:** 42805125 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Effect size characterized as \"markedly\"** \u2014 Severity: Minor\n\n- **As written:** \"Women who reported loneliness without objective isolation had markedly higher symptom scores and 68% greater odds of severe symptom burden, after adjustment.\"\n- **Abstract says:** \"loneliness alone was associated with a higher continuous GCS score (B = 2.91, 95% CI 1.61 to 4.22)... with having severe symptom burden (OR = 1.68, 95% CI 1.13 to 2.50). The GCS median was 17 (interquartile range 12-24).\"\n- **Problem:** A 2.91-point higher GCS score against a median of 17 (IQR 12-24) is a modest shift; \"markedly higher\" inflates it.\n- **Suggested fix:** \"\"had modestly higher symptom scores (about 3 points on the Greene scale) and 68% greater odds of severe symptom burden\"\"\n\n### Study 16: Adding a geriatrician to the hip fracture team cut in-hospital deaths by more than half\n**PMID:** 42806170 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal headline from before-after data** \u2014 Severity: Moderate\n\n- **As written:** \"Adding a geriatrician to the hip fracture team cut in-hospital deaths by more than half\"\n- **Abstract says:** \"A 23-month retrospective, observational study... Unadjusted intra-hospital mortality declined significantly (7.7% vs 2.9%, p = 0.005).\"\n- **Problem:** \"Cut\" asserts causation from an unadjusted retrospective before-after comparison; secular trends and case-mix differences cannot be ruled out. The digest's own Caveats say causation cannot be established.\n- **Suggested fix:** \"\"In-hospital deaths more than halved after a geriatrician joined the hip fracture team\" or \"...was followed by less than half the in-hospital death rate.\"\"\n\n### Study 17: Strokes are falling in older adults \u2014 and nearly doubling in people under 55\n**PMID:** 42777185 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Case-fatality decline applies to young adults** \u2014 Severity: Minor\n\n- **As written:** \"and 30-day death rates declined modestly overall\"\n- **Abstract says:** \"There was a modest decline in the 30-day CFR in young adults (11.7% in 1993/4 to 9.4% in 2020, trend p = 0.002), driven by intracerebral hemorrhage... and subarachnoid hemorrhage\"\n- **Problem:** The abstract reports 30-day case fatality only for young adults; \"overall\" implies it covers all ages, including the older adults the digest's audience belongs to.\n- **Suggested fix:** \"\"and 30-day death rates among the young patients declined modestly (11.7% to 9.4%)\"\"\n\n**Issue B. Attributing the older-adult decline to risk factor control** \u2014 Severity: Minor\n\n- **As written:** \"The decades-long push to control blood pressure, diabetes and atrial fibrillation appears to be paying off in older adults\"\n- **Abstract says:** \"Observational surveillance study; \"The incidence of stroke in young adults is rising over time, while the CFR simultaneously declines. This coincides with a rise in both traditional vascular risk factors and substance use.\"\"\n- **Problem:** The study does not test why older-adult incidence fell; attributing it to risk factor control is speculation, and the digest's Caveats acknowledge the design cannot establish why rates changed.\n- **Suggested fix:** \"\"Older adults' stroke rates fell over this period, though this surveillance study cannot say why.\"\"\n\n**Issue C. Risk factor trend generalized to the young population** \u2014 Severity: Minor\n\n- **As written:** \"even as the same risk factors spread to younger generations\"\n- **Abstract says:** \"Hypertension, diabetes, atrial fibrillation, and substance use were more common over time (p < 0.001) [among the 2,076 first-ever strokes in young adults]\"\n- **Problem:** The rising prevalence was measured among young stroke patients in the registry, not in the general population of young adults, so the caregiver-screening angle rests on an extrapolation the data do not support.\n- **Suggested fix:** \"\"even as these risk factors became more common among the young people who had strokes\" and soften the caregiver-screening angle accordingly.\"\n\n### Study 18: What makes a family caregiver feel a loved one died well? Less burden, not more duty alone\n**PMID:** 42804262 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline downplays filial piety** \u2014 Severity: Minor\n\n- **As written:** \"Less burden, not more duty alone\"\n- **Abstract says:** \"filial piety (\u03b2 = 0.33, p = .001), religious belief (\u03b2 = 0.35, p = .012), and older age... were significant positive predictors\"\n- **Problem:** Filial piety was a significant positive predictor of good-death perception, not a null factor; the headline (and the \"most modifiable lever is not the family's values\" line) could read as dismissing it.\n- **Suggested fix:** \"\"Caregiver burden weighed most \u2014 but duty and faith helped\" or similar, keeping filial piety's positive role visible.\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Hearing aids didn't stop dementia in people with mild cognitive impairment \u2014 but six times more of them got better | \u2705 Accurate | All key numbers, design details and the negative primary outcome are faithfully reported; caveats correctly flag the secondary-outcome status. |\n| 2 | A one-question screen at hospital admission got dying patients palliative care nearly three days sooner | \u26a0\ufe0f Minor issues | Numbers match (OR 1.28, 2.7 days, 8,970 matched encounters); headline and \"Why it matters\" lean causal for a retrospective design the caveats correctly describe as non-causal. |\n| 3 | A common fruit fiber supplement improved leg strength and mood in frail older adults in a small four-week trial | \u2705 Accurate | Design, N (31 enrolled/29 completed), sit-to-stand effect, SF-36 domains, Coprococcus comes and null TUG/inflammatory findings all match; commercial affiliations disclosed in caveats. |\n| 4 | A digitally coordinated hip fracture follow-up program left patients markedly more independent a year later | \u26a0\ufe0f Minor issues | Barthel figures, null primary outcomes, baseline imbalance, mortality signal and in-kind platform funding all accurate; one wording slip conflates sustained prescribing with patient adherence. |\n| 5 | Where you live may shape whether your memory problems ever make it into your medical record | \u2705 Accurate | N, age range, registry, 12.8%/146,273, regional odds ranking, 2.04% vs 1.06% progression and top comorbidities all match; coding-based limitations appropriately flagged. |\n| 6 | Three simple mobility tests at rehab admission predict how independent you'll be at discharge | \u2705 Accurate | Sample (158, \u226565, single Japanese subacute ward), the three measures, composite superiority, progressive group means and internal cross-validation are all correctly represented. |\n| 7 | Sarcopenia experts argue muscle loss isn't really about muscle \u2014 and that's why treatments keep disappointing | \u2705 Accurate | Correctly identified as a Personal View with no new data; the three lines of evidence and the hypothesis framing match the abstract. |\n| 8 | A simple health checklist before the next crisis could flag which older adults will struggle most | \u26a0\ufe0f Minor issues | Sample sizes, 25.4% high-stress group, predictor direction (including the counterintuitive age finding) and AUC 0.729 all match; one story angle ranks and reframes predictors beyond what the abstract reports. |\n| 9 | Childhood hardship still shows up in health decades later \u2014 and living alone may sharpen the effect | \u26a0\ufe0f Minor issues | Body text accurately reports the baseline association, domain-specific psychological decline, the living-arrangement modifier and the non-mediating role of social support; the headline mislabels the moderator. |\n| 10 | After a stroke or TIA from narrowed brain arteries, 86% had cognitive impairment \u2014 and it didn't improve over a year | \u2705 Accurate | Prevalence (85.9%/85.7%), moderate-to-severe rates (39.5%/37.5%), 36.6% decliners, 51.5% vs 30.4% recurrence figures, independent predictors and null imaging findings all match; setting and sample characteristics correctly described. |\n| 11 | VA doctors order far fewer PSA tests in men least likely to benefit than Medicare fee-for-service doctors do | \u26a0\ufe0f Minor issues | Rates, IRRs and cohort size match the abstract; two small framing/phrasing points (sample description and a system-vs-patient causal inference). |\n| 12 | An off-kilter sodium level before surgery flagged a 10-fold higher death rate in older patients | \u26a0\ufe0f Minor issues | All percentages, N, age and sex figures match; the only gap is that the mortality results the headline leads with were secondary, exploratory outcomes. |\n| 13 | A routine blood-test combo may flag who is on track to become frail \u2014 years ahead | \u2705 Accurate | Cohort sizes, hazard ratios (1.24 China, 1.42 England), baseline frailty finding, faster deficit accumulation and BMI-independence all match; language appropriately hedged. |\n| 14 | Ten years of brain scans show epilepsy quietly erodes a key memory pathway faster than aging alone | \u26a0\ufe0f Minor issues | Sample sizes, fornix and corpus callosum findings, duration correlation and the failed FDR correction are all reported correctly; two interpretive stretches about seizure control and participant age. |\n| 15 | Feeling lonely \u2014 not simply being alone \u2014 tracks with worse menopause symptoms | \u26a0\ufe0f Minor issues | N, the 68% figure, and the threshold-dependent isolation result are all faithful; \"markedly higher\" overstates a roughly 3-point difference on the GCS. |\n| 16 | Adding a geriatrician to the hip fracture team cut in-hospital deaths by more than half | \u26a0\ufe0f Minor issues | All prescribing percentages, the haloperidol drop and the unadjusted mortality figures (7.7% vs 2.9%) match the results section; the headline's causal verb goes beyond a retrospective before-after design, though the Caveats correct it. |\n| 17 | Strokes are falling in older adults \u2014 and nearly doubling in people under 55 | \u26a0\ufe0f Minor issues | Incidence figures, case count, study periods and region are accurate; three interpretive points need tightening (whose case-fatality fell, why older-adult rates fell, and whose risk factors rose). |\n| 18 | What makes a family caregiver feel a loved one died well? Less burden, not more duty alone | \u26a0\ufe0f Minor issues | N, dates, setting, betas and the 28% variance explained all match; headline risks understating filial piety, which was itself a significant positive predictor. |\n\n**Total issues:** 17 (16 Minor, 1 Moderate, 0 Major)\n**Entries requiring revision:** 11\n**Entries cleared:** 7\n"
+  }
+}

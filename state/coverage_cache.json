@@ -20,16 +20,6 @@
         "state": "unreported"
       }
     },
-    "42107653": {
-      "checked_at": "2026-09-15T13:50:06.241065+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "socioeconomic social built neighbourhood characteristics associated persistence depression over years",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42215273": {
       "checked_at": "2026-09-21T15:19:26.468561+00:00",
       "result": {
@@ -57,36 +47,6 @@
         "outlets": [],
         "query": "Why Farmers Wear Hearing Protection Has Little How Loud Work",
         "returned": 2,
-        "state": "unreported"
-      }
-    },
-    "42250520": {
-      "checked_at": "2026-09-15T13:51:30.699516+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Acute akinetic collapse Parkinson disease retrospective sustained immobilization clinical outcomes",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42275797": {
-      "checked_at": "2026-09-15T13:51:19.841873+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Application clinical scale predicting positivity multicentre Canadian dementia cohort necessity",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42287769": {
-      "checked_at": "2026-09-15T13:51:00.992401+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Plasma phosphorylated tau217 discordance amyloid status ethnically diverse mixed memory",
-        "returned": 0,
         "state": "unreported"
       }
     },
@@ -371,16 +331,6 @@
         "outlets": [],
         "query": "Broken Wrist Missed Diagnosis Austrian Hospital Data Show Osteoporosis Goes",
         "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42456217": {
-      "checked_at": "2026-09-15T13:47:14.423203+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Medicare Free Annual Wellness Visit Linked Catching Mild Cognitive Impairment",
-        "returned": 0,
         "state": "unreported"
       }
     },
@@ -684,16 +634,6 @@
         "state": "unreported"
       }
     },
-    "42567211": {
-      "checked_at": "2026-09-15T13:46:32.883832+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Circadian Syndrome Poor Sleep Plus Metabolic Problems Plus Low Mood",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42567492": {
       "checked_at": "2026-09-18T13:11:32.653565+00:00",
       "result": {
@@ -810,16 +750,6 @@
         "state": "unreported"
       }
     },
-    "42596580": {
-      "checked_at": "2026-09-15T13:46:02.919765+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Long daytime naps linked slower thinking speed sleep finds",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42599028": {
       "checked_at": "2026-09-21T15:19:31.824389+00:00",
       "result": {
@@ -851,11 +781,11 @@
       }
     },
     "42600483": {
-      "checked_at": "2026-09-15T13:46:43.383235+00:00",
+      "checked_at": "2026-09-29T15:01:21.991147+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Pre Surgery Snapshot Including Sleep Body Clock Predicts Who Struggles",
+        "query": "Multisystem Burden Score Before Cancer Surgery Predicted Delirium Survival Three",
         "returned": 0,
         "state": "unreported"
       }
@@ -918,6 +848,16 @@
         "state": "lightly_reported"
       }
     },
+    "42624217": {
+      "checked_at": "2026-09-29T15:01:45.280035+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Night Shift Nurses Show Measurable Brain Metabolic Changes Linked Low",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42624218": {
       "checked_at": "2026-09-26T13:19:11.865395+00:00",
       "result": {
@@ -939,21 +879,13 @@
       }
     },
     "42628578": {
-      "checked_at": "2026-09-15T13:46:01.034512+00:00",
+      "checked_at": "2026-09-29T15:01:24.754890+00:00",
       "result": {
-        "articles": [
-          {
-            "link": "https://www.washingtonpost.com/wellness/2026/06/22/hot-weather-can-make-these-9-health-conditions-worse/",
-            "outlet": "washingtonpost.com",
-            "title": "Hot weather can make these 9 health conditions worse"
-          }
-        ],
-        "outlets": [
-          "washingtonpost.com"
-        ],
-        "query": "Heart Metabolic Conditions Make Depression Stickier Bad Sleep Makes Worse",
-        "returned": 1,
-        "state": "lightly_reported"
+        "articles": [],
+        "outlets": [],
+        "query": "Short long sleep amplifies depression risk comes heart metabolic disease",
+        "returned": 2,
+        "state": "unreported"
       }
     },
     "42632431": {
@@ -1015,12 +947,42 @@
       }
     },
     "42648048": {
-      "checked_at": "2026-09-15T13:45:53.917996+00:00",
+      "checked_at": "2026-09-29T15:00:53.273229+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.sciencedaily.com/releases/2026/08/260823094156.htm",
+            "outlet": "ScienceDaily",
+            "title": "Too much or too little sleep may make your body age faster"
+          },
+          {
+            "link": "https://timesofindia.indiatimes.com/india/sleeping-too-little-or-too-much-could-speed-up-aging/articleshow/134300356.cms",
+            "outlet": "The Times of India",
+            "title": "Sleeping too little, or too much, could speed up aging"
+          },
+          {
+            "link": "https://www.nbcnews.com/health/heart-health/heart-damage-light-exposure-too-much-at-night-research-rcna596695",
+            "outlet": "NBC News",
+            "title": "Too much light during nighttime sleep may damage the heart, new research finds"
+          }
+        ],
+        "outlets": [
+          "ScienceDaily",
+          "The Times of India",
+          "NBC News"
+        ],
+        "query": "Both Too Little Too Much Sleep Linked Earlier Death",
+        "returned": 20,
+        "state": "widely_reported"
+      }
+    },
+    "42648548": {
+      "checked_at": "2026-09-29T15:01:23.387276+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Sleeping Nine Hours More Signal Trouble Large Chinese Links Sleep",
-        "returned": 0,
+        "query": "Mindfulness therapy helped depression sleep better least short term",
+        "returned": 8,
         "state": "unreported"
       }
     },
@@ -1050,6 +1012,26 @@
         "articles": [],
         "outlets": [],
         "query": "Cardiovascular Care Should Incorporate Cognition Frailty Heart Group Says Statement",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42665164": {
+      "checked_at": "2026-09-29T15:01:16.786767+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Sleep Problems Symptom Most Likely Linger Antidepressants Huge Claims Analysis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42665464": {
+      "checked_at": "2026-09-29T15:00:57.693731+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Poor Sleep Before Heart Valve Surgery Predicts Confusion Afterward",
         "returned": 0,
         "state": "unreported"
       }
@@ -1134,16 +1116,6 @@
         "state": "unreported"
       }
     },
-    "42679410": {
-      "checked_at": "2026-09-15T13:47:18.267479+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Weighted Blankets Dementia Safe Well Tolerated but Proof They Improve",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42679454": {
       "checked_at": "2026-09-28T16:58:26.498489+00:00",
       "result": {
@@ -1174,16 +1146,6 @@
         "state": "unreported"
       }
     },
-    "42686460": {
-      "checked_at": "2026-09-15T13:46:56.310343+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Steady Daily Rhythm Not Just More Sleep Tracked Healthier Kidneys",
-        "returned": 3,
-        "state": "unreported"
-      }
-    },
     "42687648": {
       "checked_at": "2026-09-25T14:05:35.085247+00:00",
       "result": {
@@ -1211,16 +1173,6 @@
         "outlets": [],
         "query": "Fall Past Year Change Your Fracture Risk Score Enough Change",
         "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42690762": {
-      "checked_at": "2026-09-15T13:46:21.842603+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Sleeping Hours More Regular Daytime Napping Flag Lower Cognitive Scores",
-        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1294,6 +1246,16 @@
         "state": "unreported"
       }
     },
+    "42697250": {
+      "checked_at": "2026-09-29T15:01:04.159683+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Six Weeks Acupuncture Beat Four Chronic Insomnia But Eight Weeks",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42700391": {
       "checked_at": "2026-09-16T13:39:59.887472+00:00",
       "result": {
@@ -1310,16 +1272,6 @@
         "articles": [],
         "outlets": [],
         "query": "Worry About Falling Plus Slow Walking Combination Predicts Falls",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42708477": {
-      "checked_at": "2026-09-15T13:47:07.274716+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Subtle Sleep Brain Wave Pattern Weakened Alzheimer Reflect Brain Overnight",
         "returned": 0,
         "state": "unreported"
       }
@@ -1344,24 +1296,6 @@
         "state": "unreported"
       }
     },
-    "42711172": {
-      "checked_at": "2026-09-15T13:46:11.482713+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://wausaupilotandreview.com/2026/07/30/rise-in-us-preteen-suicide-rate-alarms-mental-health-experts/",
-            "outlet": "Wausau Pilot & Review",
-            "title": "Rise in US preteen suicide rate alarms mental health experts"
-          }
-        ],
-        "outlets": [
-          "Wausau Pilot & Review"
-        ],
-        "query": "How rate their own sleep sits center their mental health",
-        "returned": 20,
-        "state": "lightly_reported"
-      }
-    },
     "42711379": {
       "checked_at": "2026-09-17T13:44:41.427221+00:00",
       "result": {
@@ -1372,23 +1306,13 @@
         "state": "unreported"
       }
     },
-    "42712247": {
-      "checked_at": "2026-09-15T13:46:04.349860+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "One five Yorkers surveyed used cannabis past year half reported",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42714024": {
-      "checked_at": "2026-09-15T13:46:34.211744+00:00",
+      "checked_at": "2026-09-29T15:01:09.072532+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Pill Narcolepsy Restores Daytime Wakefulness Two Large Trials",
-        "returned": 2,
+        "query": "Pill Narcolepsy Delivers Dramatic Wakefulness Gains Two Large Trials",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1412,36 +1336,6 @@
         "state": "unreported"
       }
     },
-    "42714950": {
-      "checked_at": "2026-09-15T13:54:30.308890+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Fairness decision making younger associated neural indices",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42714954": {
-      "checked_at": "2026-09-15T13:54:12.955928+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Personal networks cognitive health across rural urban contexts",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42714960": {
-      "checked_at": "2026-09-15T13:54:08.549156+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "share agreement experiences elicit love consensus individual differences judgments",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42716078": {
       "checked_at": "2026-09-19T12:41:28.788992+00:00",
       "result": {
@@ -1460,112 +1354,12 @@
         "state": "lightly_reported"
       }
     },
-    "42716442": {
-      "checked_at": "2026-09-15T13:53:59.568400+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Canonical complement C3a C3AR1 signalling ageing age related disease Cellular",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42716809": {
       "checked_at": "2026-09-21T15:17:51.389981+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Trouble Reading Close Linked Weaker Thinking Skills Large Rural Eye",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42716874": {
-      "checked_at": "2026-09-15T13:46:53.840896+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Expert Panel Issues Roadmap Bladder Problems Parkinson Including Nighttime Trips",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42717165": {
-      "checked_at": "2026-09-15T13:53:02.944129+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Lower bioelectrical phase angle associated audiometric hearing loss middle aged",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42717860": {
-      "checked_at": "2026-09-15T13:53:38.587710+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Arterial Spin Labeling Hemodynamic Indices Relate Cognitive Small Vessel Disease",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42720743": {
-      "checked_at": "2026-09-15T13:53:39.731987+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Network outcome analysis cognitive function daily functioning risk dementia among",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42720824": {
-      "checked_at": "2026-09-15T13:53:43.704125+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Mesenchymal Stem Cell Derived Exosomes Alzheimer Disease Mechanisms Preclinical Evidence",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42720933": {
-      "checked_at": "2026-09-15T13:52:33.852939+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "More positive more active Effects daily intergenerational engagement emotion physical",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42720967": {
-      "checked_at": "2026-09-15T13:53:22.439078+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Beyond Conversation Eric Topol",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42720968": {
-      "checked_at": "2026-09-15T13:52:30.846247+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Composition size close social networks among same sex different sex",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42721346": {
-      "checked_at": "2026-09-15T13:53:49.139084+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Does serial position effect identify those risk dementia Findings Canadian",
         "returned": 0,
         "state": "unreported"
       }
@@ -1600,16 +1394,6 @@
         "state": "unreported"
       }
     },
-    "42722214": {
-      "checked_at": "2026-09-15T13:53:10.967257+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "vascular muscle adiposity phenotype incident stroke risk middle aged multi",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42723140": {
       "checked_at": "2026-09-25T14:05:51.631701+00:00",
       "result": {
@@ -1640,6 +1424,16 @@
         "state": "unreported"
       }
     },
+    "42727946": {
+      "checked_at": "2026-09-29T15:01:30.301983+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "One ten started dementia drug later prescribed sleep medication",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42728658": {
       "checked_at": "2026-09-28T16:59:28.986641+00:00",
       "result": {
@@ -1656,16 +1450,6 @@
         "articles": [],
         "outlets": [],
         "query": "Caring Loved One Advanced Cancer War Zone Nearly Half Family",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42729514": {
-      "checked_at": "2026-09-15T13:52:59.252213+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Hippocampal mediation lipid Alzheimer disease pathway high dimensional mediation analysis",
         "returned": 0,
         "state": "unreported"
       }
@@ -1700,52 +1484,12 @@
         "state": "unreported"
       }
     },
-    "42731925": {
-      "checked_at": "2026-09-15T13:47:11.497204+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Sleep Experts Issue 114 Consensus Recommendations Parkinson Related Sleep Problems",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42732263": {
-      "checked_at": "2026-09-15T13:52:19.882299+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Routine Early Post operative Ray Following Partial Hip Replacement After",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42732841": {
       "checked_at": "2026-09-17T13:45:37.939078+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Reading Routine Chest Rays Catch Osteoporosis Early Anyone Follows",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42733408": {
-      "checked_at": "2026-09-15T13:52:04.639727+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Osteoporosis Increases Risk Periprosthetic Fracture Loosening after Total Elbow Arthroplasty",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42734090": {
-      "checked_at": "2026-09-15T13:50:24.393763+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Single versus double burr hole drainage chronic subdural hematoma systematic",
         "returned": 0,
         "state": "unreported"
       }
@@ -1760,16 +1504,6 @@
         "state": "unreported"
       }
     },
-    "42734938": {
-      "checked_at": "2026-09-15T13:51:58.035553+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Idiopathic Normal Pressure Hydrocephalus Review",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42734951": {
       "checked_at": "2026-09-16T13:42:35.824661+00:00",
       "result": {
@@ -1777,34 +1511,6 @@
         "outlets": [],
         "query": "Why Some Hospitals Get Dying Cancer Patients Into Hospice Others",
         "returned": 20,
-        "state": "unreported"
-      }
-    },
-    "42734971": {
-      "checked_at": "2026-09-15T13:50:20.140778+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.cureus.com/articles/485930-real-time-intelligent-coaching-versus-human-expert-instruction-in-surgical-skills-training-a-systematic-review-and-meta-analysis",
-            "outlet": "Cureus",
-            "title": "Real-Time Intelligent Coaching Versus Human Expert Instruction in Surgical Skills Training: A Systematic Review and Meta-Analysis"
-          }
-        ],
-        "outlets": [
-          "Cureus"
-        ],
-        "query": "Cognitive impacts learning using digital technology systematic review meta analysis",
-        "returned": 2,
-        "state": "lightly_reported"
-      }
-    },
-    "42734975": {
-      "checked_at": "2026-09-15T13:51:50.243178+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "When reminders fail eliminate age differences prospective memory",
-        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1834,124 +1540,6 @@
         "articles": [],
         "outlets": [],
         "query": "Osteoporosis men common dangerous mostly untreated",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42735812": {
-      "checked_at": "2026-09-15T13:50:18.018297+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Biological age measured DNA methylation clocks reproductive history Systematic review",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42736256": {
-      "checked_at": "2026-09-15T13:51:53.701062+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Agile Analytics Continue James Rudolph Legacy",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42736449": {
-      "checked_at": "2026-09-15T13:51:32.374819+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.nature.com/articles/s43587-026-01207-x",
-            "outlet": "Nature",
-            "title": "A microprotein atlas of the human frontal cortex in Alzheimer\u2019s disease"
-          },
-          {
-            "link": "https://www.genomeweb.com/research/proteomics/gnw-microprotein-alzheimer-brain-20260914/",
-            "outlet": "genomeweb.com",
-            "title": "New Frontal Cortex Microprotein Atlas Informs Alzheimer\u2019s Brain Changes"
-          },
-          {
-            "link": "https://theprint.in/science/new-brain-atlas-can-aid-fight-against-alzheimers-disease/3043320/",
-            "outlet": "ThePrint",
-            "title": "New brain atlas can aid fight against Alzheimer\u2019s disease"
-          }
-        ],
-        "outlets": [
-          "Nature",
-          "genomeweb.com",
-          "ThePrint"
-        ],
-        "query": "microprotein atlas human frontal cortex Alzheimer disease",
-        "returned": 6,
-        "state": "widely_reported"
-      }
-    },
-    "42736451": {
-      "checked_at": "2026-09-15T13:51:54.753277+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.nature.com/articles/s41582-026-01268-x",
-            "outlet": "Nature",
-            "title": "Somatic mosaicism in the brain: linking development, ageing and neurodegeneration"
-          }
-        ],
-        "outlets": [
-          "Nature"
-        ],
-        "query": "Somatic mosaicism brain linking development ageing neurodegeneration",
-        "returned": 1,
-        "state": "lightly_reported"
-      }
-    },
-    "42736501": {
-      "checked_at": "2026-09-15T13:49:43.825994+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Non coding RNAs Mitochondrial Dysfunction Alzheimer Disease Systematic Review",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42736670": {
-      "checked_at": "2026-09-15T13:50:42.174315+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Effect Acetylcysteine Reducing Postoperative Cognitive Dysfunction after Anaesthesia Elderly Patients",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42736699": {
-      "checked_at": "2026-09-15T13:50:38.078253+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Impact Anticholinergic Burden Cognitive Function Adverse Events Among Patients Parkinson",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42740566": {
-      "checked_at": "2026-09-15T13:49:22.797998+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "WHO ICOPE Aligned Multidomain Interventions Intrinsic Capacity Community Dwelling Systematic",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42740686": {
-      "checked_at": "2026-09-15T13:50:00.925192+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Effect branched chain amino acid depression systematic review",
         "returned": 0,
         "state": "unreported"
       }
@@ -2234,6 +1822,24 @@
         "query": "Effects long term daily supplementation vitamin marine omega fatty acids",
         "returned": 4,
         "state": "unreported"
+      }
+    },
+    "42746961": {
+      "checked_at": "2026-09-29T15:01:34.426493+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.sleepfoundation.org/sleep-aids/glycine-for-sleep",
+            "outlet": "Sleep Foundation",
+            "title": "Glycine for Sleep: Benefits, Dosage, and Side Effects"
+          }
+        ],
+        "outlets": [
+          "Sleep Foundation"
+        ],
+        "query": "Asked what they want insomnia treatment named side effects first",
+        "returned": 20,
+        "state": "lightly_reported"
       }
     },
     "42747296": {
@@ -3345,6 +2951,16 @@
         "state": "lightly_reported"
       }
     },
+    "42770459": {
+      "checked_at": "2026-09-29T15:01:00.048535+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Sleep Problems Top List Menopause Complaints Most Women Never Asked",
+        "returned": 3,
+        "state": "unreported"
+      }
+    },
     "42770466": {
       "checked_at": "2026-09-24T13:44:47.024312+00:00",
       "result": {
@@ -3410,6 +3026,16 @@
         "outlets": [],
         "query": "Effectiveness PASRR Program Compared Claims Data Identifying Nursing Home Admissions",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42772086": {
+      "checked_at": "2026-09-29T15:01:42.399938+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Does Hot Weather Make Menopause Worse Global Review Finds Less",
+        "returned": 3,
         "state": "unreported"
       }
     },
@@ -3641,6 +3267,16 @@
         "state": "unreported"
       }
     },
+    "42777167": {
+      "checked_at": "2026-09-29T15:05:07.983340+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Antibody Dependent Cellular Phagocytosis Cytotoxicity Patients LGI1 CASPR2 Encephalitis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42777184": {
       "checked_at": "2026-09-25T14:09:05.083131+00:00",
       "result": {
@@ -3648,6 +3284,16 @@
         "outlets": [],
         "query": "Long Term Risk Dementia After TIA Population Wide Matched Cohort",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42777185": {
+      "checked_at": "2026-09-29T15:05:10.230216+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Stroke Young Incidence Day Case Fatality Rates Risk Factors Over",
+        "returned": 7,
         "state": "unreported"
       }
     },
@@ -3759,6 +3405,24 @@
         "query": "Mapping Landscape AgeTech Standards Guidelines Gray Literature Review",
         "returned": 0,
         "state": "unreported"
+      }
+    },
+    "42780441": {
+      "checked_at": "2026-09-29T15:01:37.577546+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://neurosciencenews.com/sleep-quality-brain-networks-aging-31047/",
+            "outlet": "Neuroscience News",
+            "title": "Poor Sleep Alters Brain Network Communication Differently as We Age"
+          }
+        ],
+        "outlets": [
+          "Neuroscience News"
+        ],
+        "query": "Poor Sleep Brain Inflammation What Studies Say About Alzheimer Connection",
+        "returned": 20,
+        "state": "lightly_reported"
       }
     },
     "42781277": {
@@ -4265,6 +3929,16 @@
         "state": "unreported"
       }
     },
+    "42798625": {
+      "checked_at": "2026-09-29T15:01:10.861208+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Overnight Brain Scans Suggest Sleep Apnea Disrupts Brain Nighttime Reset",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "42798750": {
       "checked_at": "2026-09-27T14:12:40.306998+00:00",
       "result": {
@@ -4485,6 +4159,16 @@
         "state": "unreported"
       }
     },
+    "42802251": {
+      "checked_at": "2026-09-29T15:05:46.732870+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Gastrocnemius medialis muscle tendon behavior during eccentric exercise young active",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42802297": {
       "checked_at": "2026-09-28T17:03:22.259076+00:00",
       "result": {
@@ -4631,6 +4315,244 @@
         "articles": [],
         "outlets": [],
         "query": "Adverse Childhood Experiences Longitudinal Changes Intrinsic Capacity Chinese Role Social",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42803810": {
+      "checked_at": "2026-09-29T15:05:43.379701+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Real world comparison abaloparatide romosozumab effects bone mineral density three",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42803811": {
+      "checked_at": "2026-09-29T15:04:13.974500+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "territorially coordinated eHealth supported fracture liaison service following femur fragility",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42803883": {
+      "checked_at": "2026-09-29T15:04:06.917524+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "effect pectin supplementation geriatric individuals frailty randomised placebo controlled dietary",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42803884": {
+      "checked_at": "2026-09-29T15:05:36.921633+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Hypomorphic STING1 TMEM173 variants support immuno metabolic resilience people living",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42804007": {
+      "checked_at": "2026-09-29T15:06:05.407771+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Interlocking pentagons task visuospatial deficit parkinsonian syndrome quantitative approach",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42804039": {
+      "checked_at": "2026-09-29T15:05:50.705823+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Neuropsychiatric Symptoms Primary Progressive Aphasia Phenomenology Circuits Clinical Management",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42804174": {
+      "checked_at": "2026-09-29T15:04:50.406634+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Prostate Cancer Screening Likelihood Benefit Veterans Affairs Fee Service Medicare",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42804201": {
+      "checked_at": "2026-09-29T15:04:46.872686+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Policy Design Considerations Most Favored Nation Drug Pricing",
+        "returned": 6,
+        "state": "unreported"
+      }
+    },
+    "42804222": {
+      "checked_at": "2026-09-29T15:04:00.295322+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.medpagetoday.com/neurology/dementia/123177",
+            "outlet": "MedPage Today",
+            "title": "Unexpected Cognitive Improvement Emerges in Hearing Aid Trial"
+          }
+        ],
+        "outlets": [
+          "MedPage Today"
+        ],
+        "query": "Hearing Intervention Mild Cognitive Impairment CHOICE Randomized Clinical Trial",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42804262": {
+      "checked_at": "2026-09-29T15:05:30.476883+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Factors Associated Good Death Perception Among Primary Caregivers Terminally Ill",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42804353": {
+      "checked_at": "2026-09-29T15:06:02.077197+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cardiovascular risk factors regional neuropathology autopsy confirmed Alzheimer disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42804380": {
+      "checked_at": "2026-09-29T15:04:39.453130+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Identifying heightened stress responsivity before public health crises retrospective cohort",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42804729": {
+      "checked_at": "2026-09-29T15:04:20.257894+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Geographic Variation Diagnostic Codes Associated Mild Cognitive Impairment Alzheimer Disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42805023": {
+      "checked_at": "2026-09-29T15:04:43.727712+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Prevalence factors associated cognitive impairment symptomatic intracranial atherosclerotic disease prospective",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42805125": {
+      "checked_at": "2026-09-29T15:05:00.952804+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Associations loneliness social isolation menopausal symptom burden findings CLIMATERE population",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42805127": {
+      "checked_at": "2026-09-29T15:04:55.338235+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Longitudinal trajectories reactive protein triglyceride glucose index frailty progression two",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42805229": {
+      "checked_at": "2026-09-29T15:04:33.998071+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Sarcopenia manifestation systemic energetic failure ageing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42805302": {
+      "checked_at": "2026-09-29T15:05:54.191461+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Heterogeneous vascular contributions cognitive impairment dementia",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42805307": {
+      "checked_at": "2026-09-29T15:05:56.885846+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Thalamic Volume Associated Dopaminergic Degeneration Depressive Symptoms Parkinson Disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42806170": {
+      "checked_at": "2026-09-29T15:05:23.869652+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Impact orthogeriatric care prescription patterns hospitalized",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42806210": {
+      "checked_at": "2026-09-29T15:05:19.351200+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Therapeutic potential MitoQ mitochondria targeted antioxidant age related physiological dysfunction",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42806440": {
+      "checked_at": "2026-09-29T15:04:24.260919+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Composite Physical Performance Score Predicting Discharge Functional Independence Measure motor",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42806888": {
+      "checked_at": "2026-09-29T15:04:02.942806+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Admission Surprise Question Response Its Association Advance Care Planning Documentation",
         "returned": 0,
         "state": "unreported"
       }

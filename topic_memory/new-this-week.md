@@ -1,28 +1,27 @@
 # Topic Memory: New this week
-_Last updated: 2026-09-28_
+_Last updated: 2026-09-29_
 
 ## Established findings
-- Markers of "how old you are inside" describe current level, not future trajectory: epigenetic clocks (42799693, 2026-09-27), twin diet-epigenetic null (42791452), cortical thickness fading as a correlate of late-life cognition (42784930, 2026-09-28).
-- Alzheimer's biomarker answers depend on which test and threshold, and real-world eligibility is narrow: memory-clinic cutoffs (42787809), FDA-cleared p-tau217/Aβ42 with unresolved thresholds (42800042), tau imaging beating blood/CSF (42787370), only 11.7% donanemab-eligible with frequent clinical-vs-amyloid disagreement (42803707, 2026-09-28).
-- Anti-amyloid benefit is small and monitoring-heavy: real-world lecanemab ARIA 11.4% (42798750), pooled ARIA-E 23.9% vs 1.9% placebo with sub-half-point scale gains and doubled risk in APOE ε4 carriers (42803728, 2026-09-28).
-- A label is a poor reason to withhold treatment: dementia and heart attack care (42754545), frailty and cardiac rehab (42772577), frailty and stroke thrombolysis at population scale (42803571, 2026-09-28).
-- Measurement and data systems misrepresent what they exist to track: elder abuse chart flags 87% false positive (42778967), older adults skipped by automated mood monitoring (42800511), 545 outcomes in frail-inpatient research (42791643).
-- Movement and engagement hold their value where drug evidence is thin, and there is no age at which activity stops mattering: all activity types improving quality of life (42800122), sedentary at 78 tripling odds of impairment by 85 (42803718, 2026-09-28), lifelong cyclists at the 90th percentile after nine more years (42802250, 2026-09-28).
-- Cheap, already-collected measures carry real prognostic signal: vision decline and dementia timing (42801054), hypertensive retinopathy predicting white matter progression (42801966, 2026-09-28), calf circumference plus SPPB in heart failure (42800123, 2026-09-28), routine blood count inflammation in prodromal Parkinson's (42778869, 2026-09-28).
+- Cheap, already-collected measures carry real prognostic signal but add little to existing prediction models: retinal exam (42801966), calf circumference + SPPB (42800123), routine blood count in prodromal Parkinson's (42778869), CRP-TyG frailty trajectory (42805127, 2026-09-29), preoperative sodium (42802297), admission mobility tests (42806440), pre-crisis vulnerability checklist (42804380).
+- Structural imaging explains less about function than assumed: cortical thickness fading as a correlate of late-life cognition (42784930), no imaging feature predicting post-stroke cognitive impairment while age, severity and depression did (42805023, 2026-09-29).
+- Cognitive impairment is partly reversible, with modifiable ingredients: sleep/mood/social participation (42802990), hearing aid arm reverting to normal cognition 15.3% vs 2.4% in a randomized trial (42804222, 2026-09-29).
+- Where and by whom you are cared for changes what care you get: VA hospital-at-home variation (42802388), frailty and thrombolysis (42803571), regional variation in dementia coding (42804729), VA vs fee-for-service PSA testing in men 80+ (42804174).
+- Anti-amyloid benefit is small, monitoring-heavy, and reaches few: pooled ARIA-E 23.9% (42803728), 11.7% donanemab-eligible (42803707).
+- Movement and engagement retain value where drug evidence is thin, at every age: 42800122, 42803718, 42802250.
 
 ## Emerging threads
-- Repurposing enthusiasm outrunning evidence: lithium and dementia risk (42803710, 2026-09-28), ambroxol in GBA1 Parkinson's with a pivotal trial only as a preprint (42801449, 2026-09-28), negative Adderall trial in MS (42800227).
-- Cognitive decline as partly reversible, with modifiable ingredients (sleep, mood, social participation): 42802990 (2026-09-28).
-- Same program name, very different service: VA hospital-at-home variation from 6% to 85% inpatient transfers (42802388, 2026-09-28) — a delivery-side echo of the measurement-inconsistency theme.
-- Technology older adults will actually use when it is culturally tailored, and discrimination-related stress as a treatable target: VR positive psychology at mean age 81 (42802583, 2026-09-28).
-- End-of-life decision quality outpacing end-of-life tools: untested deprescribing instruments (42799555), regret driven by process (42772893), aggressive final-months care (42776059), palliative training gaps (42785972).
-- Aerobic training does not protect muscle; strength work needs separate billing in wellness programming (42802250, 42801941).
+- Sarcopenia reframed as a whole-body energy failure — strength, fatigability and recovery over muscle mass (42805229, 2026-09-29), consistent with lean-mass loss in lifelong cyclists (42802250).
+- Hip fracture aftercare as its own intervention target: eHealth-coordinated Fracture Liaison Service (42803811), orthogeriatric co-management (42806170) — both with soft primary outcomes but large independence/prescribing differences.
+- Felt loneliness outperforming counted isolation as a risk signal: menopause symptom burden (42805125), pandemic stress prediction (42804380), living arrangements sharpening childhood-adversity effects (42803784).
+- Low-cost process changes at the front door of serious illness: the Surprise Question and earlier palliative care (42806888); caregiver burden as the strongest modifiable driver of a "good death" (42804262).
+- Generational reversal in stroke incidence — falling in older adults, nearly doubling under 55 (42777185) — with caregiver-health implications.
+- Repurposing and supplement enthusiasm outrunning evidence: lithium (42803710), ambroxol (42801449), pectin in frailty with commercial author ties (42803883).
 
 ## Feature ideas already pitched
-- 2026-09-25: "The exercise details that matter" — dose, supervision, body region, measurement (42786581, 42773385, 42772577, 42785603).
 - 2026-09-26: "Aging tech arrives before the rulebook" (42779484, 42771090, 42787809, 42789327).
 - 2026-09-27: "The conversation is the intervention" — end-of-life decision quality vs untested tools (42799555, 42772893, 42776059, 42785972).
-- 2026-09-28: "The dementia drugs are here, and most people can't have them" — benefit size, eligibility, repurposing hype (42803728, 42803707, 42803710, 42801449). Targets: Next Avenue, Caring.com, Being Patient, LeadingAge.
-- Not yet pitched: "The cheap signals already in your chart" (42801966, 42800123, 42778869, 42801054).
-- Not yet pitched: "Who gets left out of the research" (42770427, 42788840, 42791643, 42800511).
-- Not yet pitched: "Before you call it aging" — treatable mimics (42734938, 42753227, 42799779).
+- 2026-09-28: "The dementia drugs are here, and most people can't have them" (42803728, 42803707, 42803710, 42801449). Targets: Next Avenue, Caring.com, Being Patient, LeadingAge.
+- 2026-09-29: "Who owns the year after a hip fracture" — geriatric co-management, coordinated follow-up, early mobility prediction (42806170, 42803811, 42806440). Targets: Next Avenue, Caring.com, LeadingAge, NCOA.
+- Not yet pitched: "The cheap signals already in your chart" (42805127, 42802297, 42800123, 42801966, 42778869).
+- Not yet pitched: "Lonely is not the same as alone" (42805125, 42804380, 42803784).
+- Not yet pitched: "Before you call it aging" — treatable mimics (42734938, 42753227, 42799779, 42804222).

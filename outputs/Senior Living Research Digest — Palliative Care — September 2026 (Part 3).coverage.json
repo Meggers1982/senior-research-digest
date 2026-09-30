@@ -1,0 +1,865 @@
+{
+  "coverage_checked": 19,
+  "coverage_cached": 3,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42748398": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42742117": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42599269": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42674364": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42730948": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42714187": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42463061": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42536632": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42603866": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42714185": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42533745": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42544535": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42592757": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42519959": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42533730": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42533729": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42406410": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42744336": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42517466": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42504041": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42804262": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42490651": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42748398": {
+      "pubdate": "2026 Sep 16",
+      "journal": "JMIR aging"
+    },
+    "42742117": {
+      "pubdate": "2026 Sep 12",
+      "journal": "The Gerontologist"
+    },
+    "42599269": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of pain and symptom management"
+    },
+    "42674364": {
+      "pubdate": "2026 Oct",
+      "journal": "Clinical nutrition ESPEN"
+    },
+    "42730948": {
+      "pubdate": "2026 Sep 12",
+      "journal": "International journal of clinical pharmacy"
+    },
+    "42536632": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of palliative care"
+    },
+    "42714187": {
+      "pubdate": "2026 Oct 1",
+      "journal": "Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association"
+    },
+    "42603866": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42714185": {
+      "pubdate": "2026 Oct 1",
+      "journal": "Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association"
+    },
+    "42463061": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of pain and symptom management"
+    },
+    "42592757": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42544535": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42533745": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42519959": {
+      "pubdate": "2026 Oct 1",
+      "journal": "Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association"
+    },
+    "42533730": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42406410": {
+      "pubdate": "2026 Oct 1",
+      "journal": "Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association"
+    },
+    "42533729": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42744336": {
+      "pubdate": "2026 Sep 15",
+      "journal": "BMJ (Clinical research ed.)"
+    },
+    "42517466": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42504041": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42804262": {
+      "pubdate": "2026 Sep 28",
+      "journal": "Journal of palliative care"
+    },
+    "42490651": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    }
+  },
+  "studies": [
+    {
+      "headline": "A Computer Model Can Flag Which New Nursing Home Residents Are Most at Risk of Dying Within Six Months",
+      "journal": "JMIR Aging",
+      "published": "2026 Sep 16",
+      "pmid": "42748398",
+      "doi": "10.2196/94567",
+      "the_study": "Researchers used routine intake assessment records from 636 long-term care facilities in Taiwan to build a machine learning model predicting death within 180 days of admission, training it on 23,901 first-time residents admitted from 2020 to 2023 and then testing it on a separate group of 6,216 residents admitted in 2024. Roughly 22% of the development group and 29% of the validation group died within six months. The best model distinguished those who died from those who survived with high accuracy (area under the curve 0.90), and the most influential warning signs were frequent hospitalizations in the prior six months, difficulty with activities of daily living, and weight loss.",
+      "why_it_matters": "Early death after moving into long-term care is common but often unanticipated, and a tool that uses information already collected at admission could prompt earlier conversations about goals of care, advance directives, and palliative care referral instead of leaving families blindsided.",
+      "story_angle_primary": "If you or your spouse is moving into a long-term care facility, this is a reasonable moment to put your wishes in writing. Ask the facility how they identify residents who would benefit from advance care planning or a palliative care assessment, and mention specifically if you have had repeat hospitalizations, unintended weight loss, or new difficulty with dressing, bathing, or walking \u2014 those were the strongest signals in this study.",
+      "story_angle_secondary": "For facility leaders and clinical directors, this shows risk stratification is achievable with intake data you already gather, no hospital records linkage required \u2014 but the authors themselves note no one has yet tested whether flagging residents actually changes care or family experience. The practical question for administrators is what workflow follows a high-risk flag: who has the conversation, when, and with what training.",
+      "caveats": "Retrospective and observational \u2014 the model predicts, it does not explain or establish cause. Conducted entirely in Taiwanese facilities using a private administrative registry, so performance in US or European settings is unproven. Notable industry entanglement: one author is a paid consultant for Jubo Health Technologies and another is a full-time Jubo employee; Jubo was contracted with grant funds for technical implementation and data extraction, though the authors state the company had no role in design, analysis, or the decision to publish. Mild miscalibration at the highest predicted risk levels, and no prospective implementation data."
+    },
+    {
+      "headline": "What Actually Counts as Success When Palliative Care Comes Into a Nursing Home? Staff Say the Usual Metrics Miss Most of It",
+      "journal": "Gerontologist",
+      "published": "2026 Sep 12",
+      "pmid": "42742117",
+      "doi": "10.1093/geront/gnag220",
+      "the_study": "Researchers interviewed 33 key participants \u2014 nursing home staff, palliative care consultants, nursing home directors, and palliative care agency directors \u2014 across 14 nursing homes in the eastern United States about what makes a palliative care consultation worthwhile. Rather than the hospitalization and utilization numbers health systems typically track, participants described meaningful results in four interlocking domains: residents (care matching their stated goals, symptom relief, understanding their choices), families (shared decision-making, understanding the disease trajectory, feeling supported), staff (greater capacity to deliver quality care, plus emotional support), and the facility itself (filling care gaps, reputation, and staff morale).",
+      "why_it_matters": "How palliative care gets measured determines whether it gets funded and expanded, and this work suggests current evaluation frameworks capture only a fraction of its value \u2014 particularly the family support and staff-sustaining effects that people closest to the work consider central.",
+      "story_angle_primary": "If you live in a nursing home or are considering one, you can ask directly whether the facility has a palliative care consultant and what that consultation involves. Based on what the professionals in this study described, a good consultation should leave you clearer about your options, better on symptoms like pain and breathlessness, and confident that the care plan reflects what you actually want \u2014 not just fewer trips to the hospital.",
+      "story_angle_secondary": "For families, this is a reminder that palliative care consultation is partly for you: participants named shared decision-making, understanding what to expect as the illness progresses, and simply feeling supported as core outcomes. For nursing home administrators, the findings make an unusual business case \u2014 staff morale and facility reputation were described as real returns on palliative care partnerships, alongside the clinical benefits.",
+      "caveats": "Qualitative study with a small sample (N=33) drawn from 14 facilities in one US region, so views may not generalize nationally. Reflects the perspectives of staff, consultants, and directors \u2014 residents and family members were not interviewed directly, a limitation the authors flag themselves. No measurement of whether these outcomes actually improve after consultation."
+    },
+    {
+      "headline": "Cancer Patients Preferred AI-Written Words of Comfort Over Those From Palliative Care Doctors Nearly Three Times Out of Four",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Oct",
+      "pmid": "42599269",
+      "doi": "10.1016/j.jpainsymman.2026.05.011",
+      "the_study": "In a secondary analysis of the randomized PALL-AI trial, 105 cancer patients read blinded pairs of empathic statements responding to fear and anxiety about cancer treatment \u2014 some written by palliative care physicians, some generated by AI, all working from the same prompt and length limit. Patients chose the AI-generated statement 72.4% of the time. Language analysis found all three AI statements registered positive sentiment while all three physician statements registered negative sentiment, with AI using roughly twice as many positive words; the emotional tones most strongly linked to patient preference were \"trust\" and \"joy.\"",
+      "why_it_matters": "As health systems begin drafting patient messages with AI, this suggests tone may matter more than patients or clinicians assume \u2014 while also raising the uncomfortable question of whether a more upbeat message is actually a more honest or useful one in serious illness.",
+      "story_angle_primary": "If you are living with cancer or another serious illness, it is worth knowing that some messages from your care team may be AI-drafted, and you can ask whether that is the case. This study also hints at something you can use: if a clinician's words land as cold or discouraging, say so \u2014 patients in this study responded strongly to language that conveyed warmth and trust, and you are entitled to ask for a conversation, not just a summary.",
+      "story_angle_secondary": "For clinicians and care staff, the finding is less about AI's superiority than about what patients respond to: more positive-valence language, without necessarily removing the hard news. Worth discussing in team training \u2014 and worth noting that preference for a written statement is not the same as benefit from a real conversation.",
+      "caveats": "Small sample (N=105), single health system (Mayo Clinic referrals), and only three statement pairs tested. Patients rated short written statements in a survey, not real clinical encounters, and preference was the outcome \u2014 not comprehension, trust over time, or any health result. Secondary analysis of an existing trial. No external funding reported."
+    },
+    {
+      "headline": "A Tape Measure Around the Calf, Combined With Two Simple Lab Values, Helps Predict Survival in Advanced Cancer",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct",
+      "pmid": "42674364",
+      "doi": "10.1016/j.clnesp.2026.105053",
+      "the_study": "Brazilian researchers followed 370 adult outpatients with incurable cancer at a specialized palliative care unit between June 2021 and February 2025, measuring calf circumference (a low-cost proxy for muscle mass) alongside nutritional and inflammatory markers. Low calf circumference alone was independently linked to a 58% higher risk of dying within 90 days, but its predictive power was weak on its own. Combining it with recent weight loss, low albumin, or elevated C-reactive protein roughly tripled the associated mortality risk and meaningfully improved prediction accuracy.",
+      "why_it_matters": "Prognosis in advanced cancer drives decisions about treatment intensity, hospice timing, and nutrition support, and this points to a prediction strategy that needs only a tape measure and standard blood tests \u2014 usable in clinics without advanced body composition equipment.",
+      "story_angle_primary": "If you are receiving palliative care for advanced cancer, muscle loss and unintended weight loss are not just cosmetic \u2014 they carry real prognostic weight. It is reasonable to ask your team whether they are tracking your muscle mass, weight trend, and inflammatory markers, and what those numbers mean for decisions you may want to make about treatment and planning. Do not read a single measurement as a verdict; these tools describe groups, not individuals.",
+      "story_angle_secondary": "For clinicians and care staff in resource-limited settings, this supports building calf circumference into routine assessment rather than treating it as a standalone screen \u2014 the signal comes from combining it with weight loss history and inflammation. For families, understand these are statistical tools that inform planning conversations, not predictions about a specific person's timeline.",
+      "caveats": "Single-center, observational cohort at one Brazilian cancer institute \u2014 cannot establish causation, and the population (palliative care outpatients with incurable cancer) may not generalize to other groups. Predictive accuracy remained modest even in the best combinations (area under the curve around 0.63). Short outcome window of 90 days."
+    },
+    {
+      "headline": "Pharmacy Technicians Visiting Housebound Seniors at Home Found Dozens of Missed Checkups and Cut Emergency Contacts by More Than Half",
+      "journal": "Int J Clin Pharm",
+      "published": "2026 Sep 12",
+      "pmid": "42730948",
+      "doi": "10.1007/s11096-026-02211-2",
+      "the_study": "Two general practices in a deprived area of Glasgow tested home visits by pharmacy technicians, supervised by a clinical pharmacist, for 25 housebound adults aged 60 to 89 (median age 81) who had at least two long-term conditions and five or more regular medications. Participants were taking a median of 14 regular medications, and 23 of them had collectively missed 91 long-term condition reviews since becoming housebound. Across 83 visits, 21 medications were stopped, 19 started and 15 adjusted; over three months, self-reported falls fell from 8 to zero, unscheduled care contacts dropped from 56 to 21, and quality-of-life scores rose modestly.",
+      "why_it_matters": "Older adults who cannot get to the clinic quietly fall out of routine medication and condition reviews, and this suggests a relatively low-cost workforce \u2014 pharmacy technicians going into the home \u2014 can surface a large backlog of unmet need.",
+      "story_angle_primary": "If you are largely housebound and taking multiple medications, you may be overdue for reviews you do not know you have missed. It is worth asking your practice whether a pharmacist or pharmacy technician can come to your home to go through your medicines, and whether any of them can safely be stopped \u2014 the people in this study were on a median of 14 drugs, and some were discontinued.",
+      "story_angle_secondary": "For family caregivers, keep a running list of which annual condition reviews have actually happened, because housebound status made these slip for nearly everyone in the study. For commissioners and primary care leaders, this is a feasibility signal for deploying technician-led domiciliary review in deprived areas \u2014 but note that people receiving palliative care were explicitly excluded, so the model has not been tested in that group.",
+      "caveats": "Very small (N=25), two practices only, pre-post design with no control group, and just three months of follow-up \u2014 improvements could reflect regression to the mean or other changes. Falls were self-reported. Conducted as a service evaluation within NHS Greater Glasgow and Clyde; findings may not generalize outside the UK primary care context. Cannot establish causation."
+    },
+    {
+      "headline": "Written Wishes Do Cut Hospital Trips at the End of Life \u2014 But Only If Staff Follow Them",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1;28(5):E217-E224",
+      "pmid": "42714187",
+      "doi": "10.1097/NJH.0000000000001217",
+      "the_study": "Australian researchers conducted a scoping review of 23 studies published between 2004 and 2024 across nine countries, looking at why residents of aged care facilities get sent to hospital in their final months and what role advance care planning plays. Roughly 70% of aged care residents are transferred to a hospital during the last few months of life. Advance care plans and directives that contained specific instructions \u2014 such as do-not-resuscitate or do-not-hospitalize orders \u2014 were associated with fewer transfers than plans without them. The reviewers also found troubling reports of residents being sent to hospital against the wishes documented in their own plans.",
+      "why_it_matters": "A hospital transfer in the last weeks of life is disruptive, often distressing, and frequently unwanted \u2014 and this review suggests that the specificity of what you write down, and whether staff actually act on it, determines whether your wishes hold.",
+      "story_angle_primary": "If you have an advance care plan, consider whether it says what you actually want in concrete terms. Vague statements about \"comfort\" leave room for interpretation; explicit instructions about resuscitation and hospitalization were the ones linked to fewer transfers. Ask your facility where your document is stored, who can find it at 2 a.m., and whether the after-hours or locum doctor will see it.",
+      "story_angle_secondary": "For families and aged care staff: the review found transfers happening against documented wishes, often driven by acuity, perceived vulnerability, or family pressure in a crisis. Facilities can audit how often a resident's plan is actually retrieved and consulted before a 000/911 call, and families can decide in advance who will speak for the resident so a panicked late-night decision doesn't override years of planning.",
+      "caveats": "Scoping review of heterogeneous studies, mostly observational, so associations between documented instructions and fewer transfers cannot establish causation; studies span 20 years and nine countries with differing aged care and emergency systems."
+    },
+    {
+      "headline": "Palliative Care Doctors Are Warming to AI Prognosis Tools \u2014 While Admitting They Barely Understand Them",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Oct;72(4):e340-e347",
+      "pmid": "42463061",
+      "doi": "10.1016/j.jpainsymman.2026.07.005",
+      "the_study": "Researchers at the University of Colorado surveyed 2,500 US hospice and palliative medicine physicians between January 2024 and March 2025, receiving 537 completed responses. Nearly all respondents reported low knowledge of AI-based prognostication (91.8%), and only 24% had ever used an AI-generated prognosis, yet attitudes were broadly positive: 70.9% believed AI could bring patients to palliative care earlier, 78% thought it could help patients plan for the end of life, and 62.8% supported a role in hospice eligibility decisions. Meanwhile, 36.3% worried about legal liability and 37.5% feared such tools could damage patients' sense of hope.",
+      "why_it_matters": "Machine learning models that estimate how long someone has to live are already being built into electronic health records, and they may soon shape when you're offered a palliative care referral or judged eligible for hospice.",
+      "story_angle_primary": "If a clinician gives you a prognosis, it's fair to ask how it was arrived at \u2014 clinical judgment, a statistical model, or a tool built into the medical record. You can also say how much detail you want. More than a third of these doctors worried these tools could undercut patients' hope, so telling your team how you prefer to receive difficult numbers is a reasonable request.",
+      "story_angle_secondary": "For families and senior living professionals: expect prognostic algorithms to increasingly influence referral timing and hospice eligibility conversations. Worth asking hospital and hospice partners whether they use such tools, who reviews the output before it reaches a family, and how disagreements between the model and the clinical team are resolved.",
+      "caveats": "Survey with a roughly 21% response rate, raising the possibility that respondents were more technology-interested than the field overall; respondents were predominantly White (73.2%); self-reported attitudes, not actual behavior; US-only, so findings may not generalize."
+    },
+    {
+      "headline": "An IV Drug Hoped to Relieve Cancer Pain That Opioids Couldn't Touch Failed to Beat Placebo",
+      "journal": "J Palliat Care",
+      "published": "2026 Oct;41(4):424-431",
+      "pmid": "42536632",
+      "doi": "10.1177/08258597261461797",
+      "the_study": "French investigators ran a multicenter, randomized, double-blind, placebo-controlled trial in palliative care units testing 48 hours of continuous low-dose intravenous lidocaine against placebo in patients whose cancer pain was not responding to opioids. Thirty-five patients were analyzed (18 lidocaine, 17 placebo). There was no significant difference between groups on the primary pain endpoint or on secondary pain outcomes \u2014 pain fell in both arms \u2014 although lidocaine was well tolerated with mostly mild side effects. The trial did not reach its planned enrollment and was therefore underpowered.",
+      "why_it_matters": "Intravenous lidocaine is sometimes offered when opioids fail to control cancer pain; this trial provides no evidence it helps more than placebo, and it highlights how thin the rigorous evidence base is for many palliative pain treatments.",
+      "story_angle_primary": "If your cancer pain isn't controlled by opioids and an intravenous lidocaine infusion is proposed, it's reasonable to ask what the evidence is, what the goal is, and how long the team will try it before reassessing. The reassuring news is that it appeared safe; the sobering news is that in this trial it worked no better than a placebo drip.",
+      "story_angle_secondary": "For families and clinicians: the meaningful pain reduction seen in the placebo group is a reminder of how much attentive monitoring, being in a palliative care unit, and expectation can contribute to symptom relief \u2014 and of how hard it is to recruit enough seriously ill patients to answer these questions definitively.",
+      "caveats": "Small sample (N=35), underpowered because planned enrollment was not reached, so a real benefit cannot be firmly ruled out; very short 48-hour intervention and follow-up; conducted in specialist French palliative care units, which may not generalize to other settings."
+    },
+    {
+      "headline": "Grief After a Child's Cancer Death Can Last Decades \u2014 And Poverty Makes It Worse",
+      "journal": "Palliat Med",
+      "published": "2026 Oct;40(9):1408-1419",
+      "pmid": "42603866",
+      "doi": "10.1177/02692163261465772",
+      "the_study": "Swiss researchers surveyed 103 parents of 81 children who had died of cancer at least a year earlier, recruited through the Swiss Childhood Cancer Registry and three pediatric oncology centers. Using the PG-13 grief measure, they found average grief intensity of 23.3 out of 55, with yearning the most prominent symptom. Latent profile analysis identified three groups: low grief (56%), moderate (32%), and high grief (12%). High poverty risk and the child having died in a healthcare facility rather than at home were both linked to more intense grief, while more time since the death was linked to less.",
+      "why_it_matters": "Bereavement support typically fades within months, yet a substantial minority of parents carry severe grief symptoms for many years \u2014 a reality that matters for older adults who lost a child decades ago and for the professionals who serve them.",
+      "story_angle_primary": "If you are living with grief from a child's death years or even decades ago, this research confirms you are not unusual and not failing to \"move on\" \u2014 about one in eight bereaved parents in this study still had high-intensity grief. Persistent yearning that interferes with daily life is treatable, and it's worth raising with your doctor rather than assuming too much time has passed.",
+      "story_angle_secondary": "For clinicians and senior living staff: financial hardship was the strongest predictor of severe long-term grief, suggesting bereavement risk screening should include economic circumstances. Where a death occurred also mattered, which strengthens the case for anticipatory guidance and home-death support during palliative care rather than only after the loss.",
+      "caveats": "Cross-sectional design cannot establish causation or track individuals over time; only 103 of 388 eligible parents participated, raising selection bias concerns; single-country Swiss sample; self-reported grief measures; the apparent decline in grief with time may reflect differences between cohorts rather than true recovery."
+    },
+    {
+      "headline": "Adding a Palliative Care Nurse Practitioner to an MS Clinic Uncovered Symptoms Nobody Was Asking About",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1;28(5):230-236",
+      "pmid": "42714185",
+      "doi": "10.1097/NJH.0000000000001230",
+      "the_study": "A New York multiple sclerosis center embedded a nurse practitioner-led palliative care clinic within its existing neurology practice and evaluated the first three months. Twenty-six patients were referred; the average number of symptoms identified per patient jumped from 1.8 before the intervention to 6.7 afterward. Seventeen patients (85% of those assessed) had a documented serious illness discussion, compared with none beforehand, and nurse practitioner productivity rose 67%.",
+      "why_it_matters": "Palliative care is still widely assumed to be for cancer or the final weeks of life, but people with progressive neurological disease carry heavy symptom burdens for years \u2014 and this project suggests many of those symptoms simply go unrecorded unless someone is assigned to ask.",
+      "story_angle_primary": "If you live with multiple sclerosis, Parkinson's, or another progressive neurological condition, you can ask your neurology team whether palliative or supportive care is available alongside your regular treatment. It is not the same as hospice, and the point is symptom relief and planning conversations \u2014 patients in this project had nearly four times as many symptoms identified once someone specifically looked.",
+      "story_angle_secondary": "For families and care organizations: this is a model worth raising with specialty clinics \u2014 embedding a palliative-trained nurse practitioner within an existing center increased uptake without requiring patients to accept an outside \"palliative care\" referral, which many resist. The productivity gain also suggests the model can be financially viable.",
+      "caveats": "Very small feasibility project (N=26 referred), single center, no control group, only three months of follow-up, and the sharp rise in documented symptoms partly reflects more thorough documentation rather than proven improvement in patients' well-being."
+    },
+    {
+      "headline": "Propofol for Sedation at the End of Life: Promising in Hard Cases, but the Evidence Is Thin",
+      "journal": "Palliat Med",
+      "published": "2026 Oct",
+      "pmid": "42533745",
+      "doi": "10.1177/02692163261465774",
+      "the_study": "Researchers at the University of Lisbon systematically reviewed 10 non-randomized studies published between 2005 and 2024 covering 4,072 adult patients with terminal illness \u2014 mostly cancer \u2014 of whom about 28% received palliative sedation. Propofol, a fast-acting intravenous anesthetic, controlled refractory symptoms in 73%\u2013100% of cases and reached the intended depth of sedation in 52%\u2013100%, used either alone or alongside other sedatives. Respiratory depression was the main safety concern, and the reviewers rated the overall certainty of evidence as low to very low. They also flagged ethical gaps, including instances where explicit consent was not documented.",
+      "why_it_matters": "Palliative sedation is reserved for suffering that cannot be relieved any other way at the very end of life, and families often face this decision with little information; this review shows propofol can work but should be handled by experienced teams under clear institutional protocols.",
+      "story_angle_primary": "If you are thinking ahead about how you want severe, unrelievable symptoms handled at the end of life, palliative sedation is a topic worth raising now with your doctor and naming in your advance directive \u2014 you can ask which medications your hospital or hospice uses, who monitors you, and how your consent will be documented.",
+      "story_angle_secondary": "For hospice and senior living clinicians, the review's most actionable finding is not the drug itself but the documentation gap: consent for palliative sedation was often absent or implicit, which argues for written institutional protocols and explicit family conversations before sedation begins.",
+      "caveats": "Systematic review of only 10 non-randomized studies (observational, cohort, case series, before-and-after designs) of mostly moderate quality; certainty of evidence rated low to very low; outcome definitions varied widely across studies; most studies conducted in Europe and in cancer patients, which may limit generalizability."
+    },
+    {
+      "headline": "Where People Die Is Poorly Recorded Worldwide \u2014 And That Distorts Planning for Hospice and Nursing Home Care",
+      "journal": "Palliat Med",
+      "published": "2026 Oct",
+      "pmid": "42544535",
+      "doi": "10.1177/02692163261468152",
+      "the_study": "Researchers surveyed 16 international experts who had collectively analyzed death certificate data from 67 countries, most for more than a decade, to assess how well national systems record where people die. While most classification systems were stable and included a \"home\" category, researchers consistently reported missing or ambiguous categories for settings that matter most to older adults \u2014 hospices and nursing homes \u2014 along with inconsistent terminology across countries. The authors call for a standardized international classification aligned with UN and WHO recommendations and better training for clinicians completing death certificates.",
+      "why_it_matters": "Governments and health systems use place-of-death data to decide where to fund hospice beds, home care teams, and nursing home palliative services \u2014 if deaths in care homes and hospices are invisible in the data, those services are under-counted and under-resourced.",
+      "story_angle_primary": "Most people say they want to die at home or somewhere familiar rather than in a hospital \u2014 it is worth stating your preference in writing now, because national statistics that guide service funding may not be capturing the settings where older adults actually die.",
+      "story_angle_secondary": "Senior living and nursing home administrators have a direct stake here: if your residents' deaths are being coded simply as \"other\" or lumped in with hospital deaths, the case for funding on-site palliative capacity gets harder to make. Accurate death certificate completion is a low-cost advocacy tool.",
+      "caveats": "Small sample (16 researchers surveyed), cross-sectional survey of expert opinion rather than an audit of the data systems themselves, self-reported perspectives, and data coverage ended in 2022; one author declares an advisory role with the La Caixa Foundation Programme of Comprehensive Care for People with Advanced Diseases."
+    },
+    {
+      "headline": "China Built a Palliative Care Policy Framework in 35 Years \u2014 Now Comes the Harder Part",
+      "journal": "Palliat Med",
+      "published": "2026 Oct",
+      "pmid": "42592757",
+      "doi": "10.1177/02692163261464373",
+      "the_study": "Researchers analyzed the full body of palliative care policy documents issued in mainland China from 1991 to 2023, retrieved from legal databases and government websites, using network analysis and text mining to map how policy priorities and the agencies behind them evolved. They identified five distinct periods, with development accelerating sharply after 2016, and a shift from single-department regulation to multi-sector governance led by the National Health Commission. Policy language increasingly emphasized an institution-community-home continuum of care, but persistent gaps remain in dedicated legislation, sustainable funding, clinician training, and digital infrastructure.",
+      "why_it_matters": "China is home to one of the world's largest and fastest-growing populations of older adults, and how it funds and organizes end-of-life care will shape the experience of hundreds of millions of families \u2014 and offers a case study for other rapidly aging countries.",
+      "story_angle_primary": "If you or your family have roots in China or are planning care across borders, this analysis shows palliative services there are expanding fast on paper but access remains uneven \u2014 worth asking specifically what hospice and home-based support exists in a given city or province rather than assuming national policy has reached it.",
+      "story_angle_secondary": "For senior care professionals and policymakers, the takeaway is the sequence: China built the framework first and is still working on funding, workforce education, and equitable access. Framework-building is the easy part, and that lesson travels.",
+      "caveats": "Policy document analysis rather than a study of patient outcomes \u2014 it tells you what governments wrote, not what care people actually received; no measurement of access, quality, or patient experience; findings specific to mainland China."
+    },
+    {
+      "headline": "When Fewer Pills Is Better Care: Rethinking Medications at the End of Life",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1;28(5):E210-E216",
+      "pmid": "42519959",
+      "doi": "10.1097/NJH.0000000000001254",
+      "the_study": "Researchers conducted a rapid review of the evidence on deprescribing \u2014 the deliberate, supervised stopping of medications \u2014 for adults with serious illness and limited life expectancy. Searching PubMed, CINAHL, and Scopus for studies published from January 2020 through December 2025, they screened 494 records and included 37 studies, spanning qualitative and observational research, pharmacist-led interventions, systematic reviews, and evaluations of tools such as STOPPFrail and OncPal. The evidence indicates that long-term preventive drugs near the end of life \u2014 statins, blood pressure medicines, diabetes drugs, blood thinners, and vitamins \u2014 often offer little short-term benefit while adding side effects and treatment burden, yet deprescribing remains inconsistent and usually reactive rather than planned.",
+      "why_it_matters": "People in hospice and palliative care frequently keep taking pills that can no longer help them in the time they have, and each unnecessary drug adds cost, side effects, swallowing difficulty, and daily work for family caregivers. The review positions nurses as the professionals best placed to review medication lists, spot inappropriate drugs, and guide conversations about stopping them.",
+      "story_angle_primary": "If you or someone you love is on hospice or palliative care, it is reasonable to ask the care team a simple question about every medication on the list: what is this doing for me now, and what would happen if I stopped it? Preventive medicines aimed at problems years away \u2014 cholesterol drugs, some blood pressure and diabetes pills, vitamins \u2014 may be the first candidates for a planned, monitored taper rather than an abrupt stop.",
+      "story_angle_secondary": "For hospice nurses, care home staff, and family caregivers managing pill boxes, this review argues for building a proactive medication review into the care plan instead of waiting for a swallowing problem or a fall to force the issue \u2014 and for monitoring the patient closely after any medication is withdrawn so changes can be reversed if symptoms worsen.",
+      "caveats": "A rapid review rather than a full systematic review or meta-analysis; the included evidence is largely qualitative and observational, so it cannot prove that deprescribing itself improves comfort or quality of life. No new patient data were collected."
+    },
+    {
+      "headline": "What Actually Stops Doctors and Patients From Cutting Back Unnecessary Medicines at Home",
+      "journal": "Palliat Med",
+      "published": "2026 Oct;40(9):1270-1288",
+      "pmid": "42533730",
+      "doi": "10.1177/02692163261465769",
+      "the_study": "A Dutch team ran a qualitative systematic review, searching MEDLINE, Embase, CINAHL, and PsycINFO from 2000 to January 2025, to understand what helps and hinders deprescribing for people living at home with palliative care needs. Twenty-three studies were synthesized, covering the views of patients, their caregivers, and primary care clinicians. Four themes emerged: each person's starting attitude toward stopping medicines (shaped by personal values and clinician confidence), the quality of the deprescribing conversation itself (individualized deliberation and shared decision-making), organizational factors such as teamwork and systematic work processes, and broader system-level conditions.",
+      "why_it_matters": "Most people with advanced illness live at home and get their prescriptions from a family doctor, so whether unhelpful medications ever get reviewed usually comes down to a single conversation that may never happen. The review shows the decisive ingredient is a tailored, two-way discussion rather than a rule or checklist.",
+      "story_angle_primary": "You do not have to wait for your family doctor to raise the subject \u2014 you can bring your full medication list, including over-the-counter pills and supplements, to an appointment and ask which ones still serve your goals. Frame the conversation around what matters to you now, whether that is fewer side effects, easier days, or simply fewer tablets to swallow.",
+      "story_angle_secondary": "For caregivers and primary care teams, the practical lesson is structural: deprescribing happens when someone owns the medication review, when pharmacists, nurses, and GPs communicate, and when the conversation is scheduled rather than squeezed in. Care home and home care staff can flag medication burden early and prompt a formal review.",
+      "caveats": "Qualitative synthesis of 23 studies, so it describes perceptions and barriers rather than measuring outcomes; several review authors had co-authored included papers; findings come largely from Western primary care systems and may not generalize elsewhere."
+    },
+    {
+      "headline": "Predicting How Long Someone With Advanced Dementia Has Left Remains Guesswork, Review Finds",
+      "journal": "Palliat Med",
+      "published": "2026 Oct;40(9):1289-1301",
+      "pmid": "42533729",
+      "doi": "10.1177/02692163261468148",
+      "the_study": "Researchers at University College London systematically reviewed prognostic models built to estimate survival in advanced dementia, searching four databases from inception to April 2025 plus grey literature. They found six tools across seven studies covering 225,553 people with advanced dementia in community, hospital, and nursing home settings. Accuracy was modest and inconsistent \u2014 discrimination scores (AUC) ranged from 0.55 to 0.76, with the PRO-MADE model performing best but losing accuracy when tested in new populations, and five of the studies carried a high risk of bias.",
+      "why_it_matters": "Dementia is often not recognized as a terminal illness, which delays hospice referral and comfort-focused care, but the review makes clear that no current tool can reliably tell families how much time is left. Key predictors that did matter were comorbidities and how dependent the person had become in daily function.",
+      "story_angle_primary": "If you are planning ahead for dementia, do not wait for a prediction of months remaining to set out your wishes \u2014 write down your preferences about hospitalization, feeding, antibiotics, and comfort care while you can still express them, because the science cannot pinpoint timing.",
+      "story_angle_secondary": "For families and care home staff pressing clinicians for a number, this review is permission to shift the question: instead of \"how long?\", ask what changes in eating, mobility, infections, and function would signal it is time to bring in palliative or hospice support. Treat any prognostic score as one input among many, never as a standalone decision-maker.",
+      "caveats": "Systematic review of existing models, not new patient research; five of seven studies were rated high risk of bias and most tools lacked external validation, so the pooled picture may overstate or understate real-world accuracy."
+    },
+    {
+      "headline": "In Rural Hospitals, One Nurse Practitioner May Be Handling Every End-of-Life Conversation",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1;28(5):208-213",
+      "pmid": "42406410",
+      "doi": "10.1097/NJH.0000000000001241",
+      "the_study": "This practice-focused article describes the reality for advanced practice registered nurses working as solo hospitalists in critical access hospitals \u2014 small rural facilities where specialty palliative care consultations, ethics committees, and structured advance care planning processes are frequently unavailable. Using a case example from a single shift, the author shows how one clinician must simultaneously handle admissions, discharges, deteriorating patients, and family distress while also leading goals-of-care, health care agent, and end-of-life planning discussions. Proposed remedies include tele-palliative care, remote ethics consultation, and APRN-focused palliative education.",
+      "why_it_matters": "Millions of older Americans live in areas served only by critical access hospitals, where the depth of end-of-life support depends heavily on one overstretched clinician rather than a specialist team. Knowing that gap exists changes how rural families should prepare.",
+      "story_angle_primary": "If your local hospital is a small rural or critical access facility, do your advance care planning before a crisis: name a health care agent, put your wishes in writing, and ask your primary care clinician whether tele-palliative care is available in your area, rather than relying on a specialist team being on hand when you are admitted.",
+      "story_angle_secondary": "For rural senior living operators and health systems, the article is a call to invest in tele-palliative and remote ethics support and to recognize the moral and emotional load carried by solo APRN hospitalists \u2014 burnout in that single clinician directly degrades the quality of end-of-life conversations for an entire community.",
+      "caveats": "This is a descriptive clinical practice article with a single illustrative case, not original research \u2014 no data, no control group, and no measurement of outcomes; the perspective reflects one clinician's US rural setting and may not generalize."
+    },
+    {
+      "headline": "Why people choose assisted suicide: it's rarely about pain alone",
+      "journal": "BMJ",
+      "published": "2026 Sep 15",
+      "pmid": "42744336",
+      "doi": "10.1136/bmj-2026-100610",
+      "the_study": "Researchers in Switzerland interviewed 30 adults with decision-making capacity who had already contacted a right-to-die association and were actively pursuing an assisted suicide request; 14 died by assisted suicide within weeks of their interview. Interviews were conducted at home or in hospital in French, German, or Italian and analyzed thematically. Six interwoven motivations emerged, including imagining and shaping one's own death, reclaiming control over the medicalization of dying, seeking validation from others, crossing a personal threshold of unbearability, and acting before a narrowing window of physical or mental capacity closed. The authors concluded that the decision was a forward-looking, meaning-making process built on personal values and relationships, not simply a reaction to physical suffering.",
+      "why_it_matters": "It reframes a conversation that families and clinicians often reduce to pain control, showing that fear of losing control, of prolonged medicalized dying, and of missing the moment to act can matter as much as symptoms.",
+      "story_angle_primary": "If thoughts about how and when you want to die are on your mind, this research suggests they are often about control, timing, and values rather than pain alone \u2014 which means it's worth naming those specific concerns out loud to your doctor or palliative care team, and asking what options exist to address each one, including advance directives and symptom planning.",
+      "story_angle_secondary": "For families and care staff: when an older person raises assisted dying, treating it purely as a symptom-management problem may miss the point. The findings suggest listening for the underlying themes \u2014 loss of authority over one's own care, fear of a drawn-out institutional death, wanting to be understood \u2014 and opening dialogue rather than closing it.",
+      "caveats": "Qualitative study with 30 participants recruited largely through right-to-die associations, so views likely skew toward people already committed to that path; Swiss legal context differs substantially from most countries; findings describe experiences, not causes or outcomes. Funded by the Swiss National Science Foundation and the Pallium Foundation, which had no role in the work."
+    },
+    {
+      "headline": "Videos and booklets about end-of-life choices boost understanding \u2014 but don't ease the hardest part of deciding",
+      "journal": "Palliat Med",
+      "published": "2026 Oct",
+      "pmid": "42517466",
+      "doi": "10.1177/02692163261464375",
+      "the_study": "A systematic review and meta-analysis pooled 16 randomized controlled trials of decision aids \u2014 mostly videos or printed materials covering goals of care, prognosis, and treatment options \u2014 for adults with palliative care needs and their caregivers, with participant ages spanning 44 to 85. The aids significantly improved decision-related knowledge and sharply reduced the likelihood that patients wanted CPR (odds ratio 0.28). However, they made no measurable difference to decisional conflict, satisfaction with the decision, or later regret, and the authors rated overall evidence quality as low.",
+      "why_it_matters": "Decision aids are increasingly handed out in hospitals and nursing homes; this shows they genuinely inform people about what resuscitation and aggressive treatment involve, but they are not a substitute for an unhurried conversation with a clinician who knows you.",
+      "story_angle_primary": "If a clinician offers you a video or booklet about CPR and goals of care, it's worth watching or reading \u2014 the evidence says people come away understanding their options better. But don't expect it to settle how you feel; ask for a follow-up conversation to work through the doubts the material raises.",
+      "story_angle_secondary": "For senior living and hospice teams: a decision aid can standardize information delivery, but this analysis shows it won't reduce family conflict or second-guessing on its own. Budget staff time for the discussion that follows, and be aware that the drop in CPR preference reflects better-informed choices rather than proof of better-quality decisions.",
+      "caveats": "Only 16 trials, heterogeneous in design and setting; overall evidence graded low quality by GRADE; no evidence that decisions better matched patients' values; most aids were tested in specific clinical populations that may not generalize to all older adults."
+    },
+    {
+      "headline": "What actually gets palliative care started earlier: lessons from a four-hospital Australian trial",
+      "journal": "Palliat Med",
+      "published": "2026 Oct",
+      "pmid": "42504041",
+      "doi": "10.1177/02692163261465765",
+      "the_study": "As part of a stepped-wedge implementation trial of an early palliative care model called 'Care Plus' across four Australian hospitals, researchers conducted 51 interviews with patients (n=11), caregivers (n=2), and healthcare providers (n=38); 232 patients in total received the intervention, which offered at least three outpatient palliative care consultations alongside usual cancer treatment plus primary care case conferences. The strategies participants judged most effective were defining clear illness 'transition points' that trigger a referral, systematically identifying eligible patients, building referral into routine workflows, branding the service as 'Care Plus' with agreed phrasing for clinicians, giving clinicians regular feedback, and physically co-locating palliative and cancer clinics.",
+      "why_it_matters": "Early palliative care improves quality of life for people with serious illness, yet referrals are inconsistent; this identifies concrete, copyable fixes \u2014 including simply calling it something other than 'palliative care' and putting the clinic next door to oncology.",
+      "story_angle_primary": "You don't have to wait for your oncologist to raise it. If you have advanced cancer, you can ask directly whether a palliative or supportive care consultation can run alongside your treatment \u2014 this research found that framing and wording are often what stand between patients and a referral, not medical need.",
+      "story_angle_secondary": "For clinicians and senior care administrators: the effective ingredients here are systems-level, not personality-driven \u2014 embedded referral triggers, workflow integration, co-location, and mentored scripts for clinicians who find the conversation hard. These are replicable without new clinical evidence.",
+      "caveats": "Qualitative component only, with very few caregivers (n=2) and modest patient representation; four Australian hospitals and cancer patients specifically, so may not generalize to other health systems or non-cancer illness; perceptions of effectiveness are not the same as measured outcomes."
+    },
+    {
+      "headline": "Caregiver burnout, not the patient's illness, shapes whether families feel a death was a good one",
+      "journal": "J Palliat Care",
+      "published": "2026 Sep 28",
+      "pmid": "42804262",
+      "doi": "10.1177/08258597261487886",
+      "the_study": "Researchers surveyed 256 primary caregivers of terminally ill patients at a medical center in southern Taiwan between December 2022 and April 2023, measuring filial piety values, caregiving burden, and perceptions of a good death. Higher caregiving burden was the strongest predictor of a poorer perception of the patient's death, and being employed also predicted lower scores. Stronger filial piety values, holding religious beliefs, and being older were each associated with more positive perceptions of a dignified death; the model explained about 28% of the variation.",
+      "why_it_matters": "How a family member remembers a death shapes their grief for years, and this suggests that supporting the exhausted caregiver may be as important to that memory as anything done for the patient.",
+      "story_angle_primary": "If you are caring for a dying spouse, sibling, or parent, accepting respite, hired help, or hospice support isn't a failure of devotion \u2014 burden was the single biggest factor linked to caregivers feeling the death went badly. Ask the care team specifically what respite and practical support is available to you, not just to the patient.",
+      "story_angle_secondary": "For hospice and senior living teams: screening caregivers for burden, and paying particular attention to those still working full-time and to younger caregivers, may be a practical lever for improving family-reported quality of dying. In East Asian and other family-centered cultures, the findings suggest honoring rather than sidelining traditional duty-of-care values within the care plan.",
+      "caveats": "Cross-sectional and observational, so causation cannot be established \u2014 burdened caregivers may also be caring for patients with harder deaths; purposive sampling at a single medical center in Taiwan, so results may not generalize to other cultures; all outcomes self-reported."
+    },
+    {
+      "headline": "Adults with intellectual disabilities and advanced lung cancer get far less cancer treatment \u2014 though palliative care access held up",
+      "journal": "Palliat Med",
+      "published": "2026 Oct",
+      "pmid": "42490651",
+      "doi": "10.1177/02692163261464345",
+      "the_study": "Using population health data from Ontario, Canada, researchers followed 33,184 adults diagnosed with stage IV non-small-cell lung cancer between 2010 and 2022, including 106 with intellectual or developmental disabilities. Those with disabilities were substantially less likely to see any cancer specialist (hazard ratio 0.62), to receive any cancer-directed treatment (HR 0.52), or to receive radiation or systemic therapy (HR 0.49). Receipt of palliative care in the year after diagnosis, by contrast, did not differ between the two groups.",
+      "why_it_matters": "It documents a real gap in specialist consultations and treatment for a group that already faces communication and access barriers, while showing that palliative care is one part of the system reaching them equally.",
+      "story_angle_primary": "If you have a disability and a serious cancer diagnosis, you are entitled to the same specialist consultations as anyone else. It's reasonable to ask explicitly whether you have been referred to a medical or radiation oncologist and, if not, why \u2014 and to bring someone with you who can help you ask.",
+      "story_angle_secondary": "For families, group home staff, and guardians supporting adults with intellectual or developmental disabilities: this is a prompt to track whether referrals are actually being made and to ensure that decisions to forgo treatment are genuinely the person's informed choice rather than an assumption made on their behalf. Communication supports and extra appointment time can be requested.",
+      "caveats": "Observational administrative-data study; cannot establish why the gaps occurred and cannot distinguish clinically appropriate decisions or patient preference from bias. Only 106 patients with intellectual or developmental disabilities, giving imprecise estimates; single Canadian province with universal health coverage, so findings may not generalize to other systems; administrative codes may under-identify disability."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42748398",
+      "headline": "A Computer Model Can Flag Which New Nursing Home Residents Are Most at Risk of Dying Within Six Months",
+      "verdict": "accurate",
+      "notes": "Cohort sizes, mortality rates, AUROC, top predictors, calibration caveat and the Jubo Health Technologies conflict of interest all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "pmid": "42742117",
+      "headline": "What Actually Counts as Success When Palliative Care Comes Into a Nursing Home? Staff Say the Usual Metrics Miss Most of It",
+      "verdict": "minor",
+      "notes": "N, setting and the four outcome domains are right, but the digest drops hospitalization rates from the resident domain and overstates how much existing frameworks miss.",
+      "issues": [
+        {
+          "label": "Hospitalization outcomes mischaracterized",
+          "severity": "Minor",
+          "as_written": "Rather than the hospitalization and utilization numbers health systems typically track, participants described meaningful results in four interlocking domains: residents (care matching their stated goals, symptom relief, understanding their choices)",
+          "abstract_says": "Resident outcomes included goal-concordant care, symptom management, hospitalization rates, and understanding of care choices and control.",
+          "problem": "Participants actually named hospitalization rates as one of the meaningful resident outcomes; the digest sets utilization metrics in opposition to participants' views and omits hospitalization from the resident list.",
+          "suggested_fix": "Note that participants valued hospitalization rates too, but added resident, family, staff and facility outcomes that utilization metrics alone do not capture."
+        },
+        {
+          "label": "Overstated share of value missed",
+          "severity": "Minor",
+          "as_written": "this work suggests current evaluation frameworks capture only a fraction of its value",
+          "abstract_says": "These findings highlight multi-domain and interdependent PC consultation outcomes across residents, families, staff, and NH facilities that may be overlooked in existing evaluation frameworks.",
+          "problem": "The abstract says some outcomes may be overlooked; it does not quantify how much of palliative care's value existing frameworks capture, and the headline's \"Miss Most of It\" goes further still.",
+          "suggested_fix": "Rephrase to \"may overlook outcomes that people closest to the work consider central\" and soften the headline."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42599269",
+      "headline": "Cancer Patients Preferred AI-Written Words of Comfort Over Those From Palliative Care Doctors Nearly Three Times Out of Four",
+      "verdict": "accurate",
+      "notes": "N=105, 72.4% preference, sentiment findings, \"trust\"/\"joy\" correlations, secondary analysis of PALL-AI and the no-external-funding note all match.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "pmid": "42674364",
+      "headline": "A Tape Measure Around the Calf, Combined With Two Simple Lab Values, Helps Predict Survival in Advanced Cancer",
+      "verdict": "accurate",
+      "notes": "N=370, dates, HR 1.58, combination HRs (2.83-3.20) and AUC values (0.541 alone to ~0.63) are all faithfully represented, including the modest-accuracy caveat.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "pmid": "42730948",
+      "headline": "Pharmacy Technicians Visiting Housebound Seniors at Home Found Dozens of Missed Checkups and Cut Emergency Contacts by More Than Half",
+      "verdict": "minor",
+      "notes": "All numbers match the abstract; the headline asserts causation that the uncontrolled pre-post design (and the digest's own caveats) cannot support.",
+      "issues": [
+        {
+          "label": "Causal headline for uncontrolled pre-post study",
+          "severity": "Moderate",
+          "as_written": "Cut Emergency Contacts by More Than Half",
+          "abstract_says": "Pre-post intervention study, in two primary care general practices... unscheduled care contacts reduced from a total of 56 (range 0-7) to 21 (0-4).",
+          "problem": "A single-arm pre-post feasibility evaluation with 25 patients cannot show the visits \"cut\" contacts; the headline also contradicts the digest's own caveat that causation cannot be established.",
+          "suggested_fix": "Reword to something like \"...and Unscheduled Care Contacts Fell by More Than Half\" and keep the no-control-group framing."
+        },
+        {
+          "label": "\"Emergency contacts\" vs unscheduled care",
+          "severity": "Minor",
+          "as_written": "Cut Emergency Contacts by More Than Half",
+          "abstract_says": "unscheduled care contacts reduced from a total of 56 (range 0-7) to 21 (0-4)",
+          "problem": "The measured outcome was unscheduled care contacts, a broader category than emergency contacts.",
+          "suggested_fix": "Use \"unscheduled care contacts\" in the headline as the body text already does."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42714187",
+      "headline": "Written Wishes Do Cut Hospital Trips at the End of Life \u2014 But Only If Staff Follow Them",
+      "verdict": "minor",
+      "notes": "Review details (23 studies, 9 countries, 2004-2024, ~70% transferred) are accurate; the headline states causation and a conditional the review did not test.",
+      "issues": [
+        {
+          "label": "Causal headline from a scoping review",
+          "severity": "Moderate",
+          "as_written": "Written Wishes Do Cut Hospital Trips at the End of Life \u2014 But Only If Staff Follow Them",
+          "abstract_says": "Advance care plans or advance care directives that included instructions to not resuscitate or not hospitalize resulted in fewer hospital transfers than those that did not. ... Of concern were reports of hospital transfers against resident's wishes",
+          "problem": "The review pooled mostly observational studies; the digest's own caveat says causation cannot be established, and no analysis tested the \"only if staff follow them\" condition \u2014 it is an inference from scattered reports of transfers against documented wishes.",
+          "suggested_fix": "Reframe as \"Specific Written Instructions Are Linked to Fewer Hospital Trips \u2014 But Some Residents Are Transferred Against Their Documented Wishes.\""
+        },
+        {
+          "label": "Reasons for transfer attributed to wish-violating transfers",
+          "severity": "Minor",
+          "as_written": "the review found transfers happening against documented wishes, often driven by acuity, perceived vulnerability, or family pressure in a crisis",
+          "abstract_says": "Reasons for hospital transfer were classified as age, acuity, vulnerability, and family-related. Of concern were reports of hospital transfers against resident's wishes as documented on advance care plans and advance care directives.",
+          "problem": "The abstract lists drivers of hospital transfer generally (including age), not specifically of transfers that contradicted documented wishes.",
+          "suggested_fix": "Separate the two findings: transfer drivers were age, acuity, vulnerability and family-related; separately, some transfers occurred against documented wishes."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42463061",
+      "headline": "Palliative Care Doctors Are Warming to AI Prognosis Tools \u2014 While Admitting They Barely Understand Them",
+      "verdict": "accurate",
+      "notes": "Survey size, response count, response rate, all percentages (91.8%, 24.0%, 70.9%, 78.0%, 62.8%, 36.3%, 37.5%, 73.2% White) and the Colorado affiliation match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42536632",
+      "headline": "An IV Drug Hoped to Relieve Cancer Pain That Opioids Couldn't Touch Failed to Beat Placebo",
+      "verdict": "minor",
+      "notes": "Design, N=35 (18/17), null primary and secondary pain results, tolerability and underpowering all match; the digest omits that this was explicitly a feasibility study.",
+      "issues": [
+        {
+          "label": "Feasibility design not stated",
+          "severity": "Minor",
+          "as_written": "French investigators ran a multicenter, randomized, double-blind, placebo-controlled trial in palliative care units testing 48 hours of continuous low-dose intravenous lidocaine against placebo",
+          "abstract_says": "We conducted a multicenter, randomized, double-blind, placebo-controlled feasibility study... To assess the feasibility and tolerability of continuous low-dose intravenous lidocaine infusion... and to explore its potential impact on pain outcomes",
+          "problem": "The study was designed primarily to test feasibility and tolerability, with pain effects exploratory; presenting it as an efficacy trial that \"failed\" slightly overstates what it was powered or intended to determine.",
+          "suggested_fix": "Add \"feasibility\" to the design description and note that the pain comparison was exploratory."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "pmid": "42603866",
+      "headline": "Grief After a Child's Cancer Death Can Last Decades \u2014 And Poverty Makes It Worse",
+      "verdict": "minor",
+      "notes": "Grief scores, profiles and regression findings match, but the headline is causal, \"decades\" is not supported by the abstract, and the denominator of 388 refers to identified cases rather than eligible parents.",
+      "issues": [
+        {
+          "label": "Causal headline from cross-sectional data",
+          "severity": "Moderate",
+          "as_written": "Grief After a Child's Cancer Death Can Last Decades \u2014 And Poverty Makes It Worse",
+          "abstract_says": "This multicenter cross-sectional survey... High poverty risk (\u03b2 = 11.04, p<0.001) and death in healthcare facility (\u03b2 = 3.82, p = 0.024) were associated with higher grief intensity",
+          "problem": "\"Makes it worse\" asserts causation from a single-timepoint survey, contradicting the digest's own caveat that causation cannot be established.",
+          "suggested_fix": "Change to \"...And Financial Hardship Is Linked to More Intense Grief.\""
+        },
+        {
+          "label": "\"Decades\" not supported",
+          "severity": "Minor",
+          "as_written": "Grief After a Child's Cancer Death Can Last Decades",
+          "abstract_says": "Evidence on grief symptoms beyond ten years post-loss remains limited... had died \u2a7e1 year prior to study participation... Parental grief symptoms can persist long after the death of a child to cancer.",
+          "problem": "The abstract reports only that the child died at least a year before participation and that grief can persist long after; the time range supporting \"decades\" is not verifiable from the abstract.",
+          "suggested_fix": "Say grief \"can persist for many years\" unless full-text confirms time-since-death range."
+        },
+        {
+          "label": "Denominator described as eligible parents",
+          "severity": "Minor",
+          "as_written": "only 103 of 388 eligible parents participated",
+          "abstract_says": "Of 388 identified cases, 103 parents of 81 deceased children participated.",
+          "problem": "388 refers to identified cases (children/families), not individual eligible parents, so the participation fraction is not strictly a parent-level response rate.",
+          "suggested_fix": "Write \"103 parents, from 388 identified cases, took part.\""
+        },
+        {
+          "label": "\"Strongest predictor\" claim",
+          "severity": "Minor",
+          "as_written": "financial hardship was the strongest predictor of severe long-term grief",
+          "abstract_says": "High poverty risk (\u03b2 = 11.04, p<0.001) and death in healthcare facility (\u03b2 = 3.82, p = 0.024) were associated with higher grief intensity, while longer time since death was associated with lower grief intensity (\u03b2 = -5.46, p = 0.041).",
+          "problem": "Poverty risk had the largest coefficient, but the abstract never ranks predictors, and raw betas across differently scaled variables are not directly comparable.",
+          "suggested_fix": "Say poverty risk showed the largest association among the factors examined."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42714185",
+      "headline": "Adding a Palliative Care Nurse Practitioner to an MS Clinic Uncovered Symptoms Nobody Was Asking About",
+      "verdict": "minor",
+      "notes": "26 referrals, 1.8-to-6.7 symptom rise, 17 (85%) serious illness discussions and 67% productivity gain all match; the financial-viability inference goes beyond the abstract.",
+      "issues": [
+        {
+          "label": "Financial viability inference",
+          "severity": "Minor",
+          "as_written": "The productivity gain also suggests the model can be financially viable.",
+          "abstract_says": "NP productivity increased by 67%.",
+          "problem": "The abstract reports a productivity increase only; no cost, revenue or sustainability analysis is described, so financial viability is not supported.",
+          "suggested_fix": "Limit the claim to the reported productivity increase, noting cost-effectiveness was not assessed."
+        },
+        {
+          "label": "Denominator for 85% not specified in abstract",
+          "severity": "Minor",
+          "as_written": "Seventeen patients (85% of those assessed) had a documented serious illness discussion",
+          "abstract_says": "Seventeen (85%) had serious illness discussions documented compared with zero preintervention.",
+          "problem": "The abstract gives 85% without stating the denominator; \"of those assessed\" is the digest's interpretation and cannot be confirmed from the abstract.",
+          "suggested_fix": "Report \"17 patients (85%)\" and flag the denominator as unclear from the abstract."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42533745",
+      "headline": "Propofol for Sedation at the End of Life: Promising in Hard Cases, but the Evidence Is Thin",
+      "verdict": "accurate",
+      "notes": "Study design, sample (10 non-randomized studies, 4,072 patients, ~28% sedated), outcome ranges, safety concern, certainty of evidence and ethical gaps all match the abstract; caveats are appropriately cautious.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "pmid": "42544535",
+      "headline": "Where People Die Is Poorly Recorded Worldwide \u2014 And That Distorts Planning for Hospice and Nursing Home Care",
+      "verdict": "minor",
+      "notes": "Sample (16 researchers, 67 countries, data to 2022), findings and the La Caixa advisory conflict are correctly reported; one word overstates the uniformity of the reported shortcomings.",
+      "issues": [
+        {
+          "label": "Overstated uniformity of findings",
+          "severity": "Minor",
+          "as_written": "researchers consistently reported missing or ambiguous categories for settings that matter most to older adults",
+          "abstract_says": "However, shortcomings were identified: lack of detailed categories for relevant settings (e.g. hospice, nursing home), ambiguous or inconsistent terminology, and limited use of hierarchical or multi-axial structures.",
+          "problem": "The abstract does not quantify how many respondents reported these shortcomings; \"consistently\" implies near-universal agreement that is not documented.",
+          "suggested_fix": "Change to \"researchers also identified missing or ambiguous categories...\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42592757",
+      "headline": "China Built a Palliative Care Policy Framework in 35 Years \u2014 Now Comes the Harder Part",
+      "verdict": "accurate",
+      "notes": "Date range, methods (network analysis, text mining), five periods, post-2016 acceleration, National Health Commission role and the listed persistent gaps all match; caveats correctly note this is document analysis, not outcomes data.",
+      "issues": []
+    },
+    {
+      "number": 14,
+      "pmid": "42519959",
+      "headline": "When Fewer Pills Is Better Care: Rethinking Medications at the End of Life",
+      "verdict": "minor",
+      "notes": "Search sources, dates, 494 records/37 studies, tools (STOPPFrail, OncPal) and drug classes all match. Two small points go slightly beyond the abstract.",
+      "issues": [
+        {
+          "label": "Nurses' role slightly overstated",
+          "severity": "Minor",
+          "as_written": "The review positions nurses as the professionals best placed to review medication lists, spot inappropriate drugs, and guide conversations about stopping them.",
+          "abstract_says": "Nurses play a central role in medication reconciliation, identifying potentially inappropriate medications, facilitating shared decision-making, and monitoring patient response after medication withdrawal.",
+          "problem": "\"Best placed\" implies a comparative claim of superiority over other professions that the abstract does not make; it says nurses have a central role.",
+          "suggested_fix": "Change to \"positions nurses as central to reviewing medication lists...\""
+        },
+        {
+          "label": "Tapering advice not in abstract",
+          "severity": "Minor",
+          "as_written": "may be the first candidates for a planned, monitored taper rather than an abrupt stop",
+          "abstract_says": "Nurses play a central role in ... monitoring patient response after medication withdrawal.",
+          "problem": "The abstract supports monitoring after withdrawal but says nothing about tapering versus abrupt discontinuation; this specific clinical detail is unverifiable from the abstract.",
+          "suggested_fix": "Drop \"taper rather than an abrupt stop\" or reword to \"a planned, monitored withdrawal with follow-up.\""
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42533730",
+      "headline": "What Actually Stops Doctors and Patients From Cutting Back Unnecessary Medicines at Home",
+      "verdict": "minor",
+      "notes": "Databases, date range, 23 studies, participant perspectives and all four themes match the abstract, as does the author-overlap caveat; the \"Why it matters\" singles out one theme as decisive.",
+      "issues": [
+        {
+          "label": "Single 'decisive ingredient' framing",
+          "severity": "Minor",
+          "as_written": "The review shows the decisive ingredient is a tailored, two-way discussion rather than a rule or checklist.",
+          "abstract_says": "Deprescribing ... can be optimised by employing a multidimensional strategy that includes patient-centredness, shared decision-making, education, collaboration within the multidisciplinary care team, and systematic work processes",
+          "problem": "The review's conclusion is explicitly multidimensional and includes systematic work processes; presenting the conversation as the single decisive factor over-simplifies and sits awkwardly with the digest's own \"structural\" story angle.",
+          "suggested_fix": "Reword to \"The review points to an individualised, two-way conversation as central \u2014 but only when organisational routines and teamwork make it happen.\""
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42533729",
+      "headline": "Predicting How Long Someone With Advanced Dementia Has Left Remains Guesswork, Review Finds",
+      "verdict": "accurate",
+      "notes": "Institution, databases, search date, six tools across seven studies, 225,553 individuals, AUC 0.55\u20130.76, PRO-MADE performance and five high-risk-of-bias studies all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 17,
+      "pmid": "42406410",
+      "headline": "In Rural Hospitals, One Nurse Practitioner May Be Handling Every End-of-Life Conversation",
+      "verdict": "minor",
+      "notes": "The description of the practice article, the case example and the proposed remedies (tele-palliative care, remote ethics support, APRN education) match; one background figure is not sourced from the abstract.",
+      "issues": [
+        {
+          "label": "Unsourced population figure",
+          "severity": "Minor",
+          "as_written": "Millions of older Americans live in areas served only by critical access hospitals",
+          "abstract_says": "The abstract refers to remote areas and rural workforce shortages but gives no population figures.",
+          "problem": "Unverifiable from abstract only; the number is presented as established context.",
+          "suggested_fix": "Attribute the figure to an external source or soften to \"Many older Americans in rural areas rely on critical access hospitals.\""
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "pmid": "42744336",
+      "headline": "Why people choose assisted suicide: it's rarely about pain alone",
+      "verdict": "minor",
+      "notes": "Sample (30 participants, 14 subsequent deaths), recruitment, languages, settings, themes and funding all match; one theme is paraphrased with an added detail.",
+      "issues": [
+        {
+          "label": "Added detail to a theme",
+          "severity": "Minor",
+          "as_written": "acting before a narrowing window of physical or mental capacity closed",
+          "abstract_says": "seizing the narrowing window of opportunity",
+          "problem": "The abstract does not specify that the narrowing window concerned physical or mental capacity; the digest adds an interpretation not stated in the abstract.",
+          "suggested_fix": "Use the abstract's wording \u2014 \"seizing a narrowing window of opportunity\" \u2014 or mark the interpretation as such."
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "pmid": "42517466",
+      "headline": "Videos and booklets about end-of-life choices boost understanding \u2014 but don't ease the hardest part of deciding",
+      "verdict": "accurate",
+      "notes": "16 RCTs, age range 44\u201385, improved decision-related knowledge, OR 0.28 for lower CPR preference, null results for decisional conflict/satisfaction/regret and low GRADE quality all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 20,
+      "pmid": "42504041",
+      "headline": "What actually gets palliative care started earlier: lessons from a four-hospital Australian trial",
+      "verdict": "accurate",
+      "notes": "51 interviews with the stated breakdown, 232 patients receiving Care Plus, the intervention components and all six implementation strategies match the abstract; caveats correctly note the qualitative, perception-based design.",
+      "issues": []
+    },
+    {
+      "number": 21,
+      "pmid": "42804262",
+      "headline": "Caregiver burnout, not the patient's illness, shapes whether families feel a death was a good one",
+      "verdict": "minor",
+      "notes": "Sample, dates, setting, predictors and R\u00b2 all match the abstract; the headline and one \"why it matters\" line assert a comparison with patient illness factors that the study never measured, and \"burnout\"/\"full-time\" overstate the measured variables.",
+      "issues": [
+        {
+          "label": "Headline asserts an untested comparison",
+          "severity": "Moderate",
+          "as_written": "Caregiver burnout, not the patient's illness, shapes whether families feel a death was a good one",
+          "abstract_says": "Multiple regression analysis (R2 = 28.18%) revealed that caregiving burden (\u03b2 = -0.48, p < .001) and being employed (\u03b2 = -0.39, p = .009) were negative predictors of good death perceptions. In contrast, filial piety (\u03b2 = 0.33, p = .001), religious belief (\u03b2 = 0.35, p = .012), and older age ... were significant positive predictors.",
+          "problem": "The regression included caregiver characteristics (burden, employment, filial piety, religion, age) \u2014 no patient illness variables appear in the abstract. The headline sets up a contrast the study did not test, and \"shapes\" reads as causal for a cross-sectional survey.",
+          "suggested_fix": "Reframe, e.g., \"Caregiver burden is the factor most strongly linked to whether families feel a death was a good one\" and drop \"not the patient's illness.\""
+        },
+        {
+          "label": "\"Burnout\" for a burden inventory score",
+          "severity": "Minor",
+          "as_written": "Caregiver burnout, not the patient's illness",
+          "abstract_says": "Primary caregivers (N = 256) of terminally ill patients completed the Chinese Filial Piety Scale, Caregiver Burden Inventory, and the Good Death Inventory-Short Version.",
+          "problem": "The study measured caregiving burden with the Caregiver Burden Inventory; \"burnout\" is a distinct clinical construct that was not assessed.",
+          "suggested_fix": "Use \"caregiving burden\" or \"caregiver strain\" instead of \"burnout.\""
+        },
+        {
+          "label": "Same untested comparison in Why it matters",
+          "severity": "Minor",
+          "as_written": "this suggests that supporting the exhausted caregiver may be as important to that memory as anything done for the patient",
+          "abstract_says": "caregiving burden remains a primary barrier to positive end-of-life perceptions. Palliative care interventions should be culturally sensitive, focusing on alleviating the emotional and physical strain of caregivers",
+          "problem": "The study did not compare caregiver-directed support against patient-directed care, so the relative-importance claim goes beyond the data.",
+          "suggested_fix": "Say the findings point to caregiver burden as an important and modifiable factor in how families perceive a death, without ranking it against patient care."
+        },
+        {
+          "label": "\"Working full-time\" not specified",
+          "severity": "Minor",
+          "as_written": "paying particular attention to those still working full-time and to younger caregivers",
+          "abstract_says": "being employed (\u03b2 = -0.39, p = .009) were negative predictors of good death perceptions ... older age (41-55 years: \u03b2 = 0.29, p = .015; >55 years: \u03b2 = 0.32, p = .013) were significant positive predictors",
+          "problem": "The abstract reports employment status only, not full-time versus part-time work.",
+          "suggested_fix": "Change to \"those who are employed\" rather than \"working full-time.\""
+        },
+        {
+          "label": "Unsupported background claim",
+          "severity": "Minor",
+          "as_written": "How a family member remembers a death shapes their grief for years",
+          "abstract_says": "(no data on subsequent grief trajectories reported)",
+          "problem": "Unverifiable from abstract only \u2014 the study measured good-death perception at one time point and followed no one into bereavement.",
+          "suggested_fix": "Attribute this to prior bereavement literature or soften to a general statement."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "pmid": "42490651",
+      "headline": "Adults with intellectual disabilities and advanced lung cancer get far less cancer treatment \u2014 though palliative care access held up",
+      "verdict": "accurate",
+      "notes": "Cohort size, disability subgroup, province, years, all three hazard ratios and the null palliative care finding match the abstract; observational limits and the small IDD subgroup are correctly flagged in Caveats.",
+      "issues": [
+        {
+          "label": "\"Any cancer specialist\" gloss",
+          "severity": "Minor",
+          "as_written": "substantially less likely to see any cancer specialist (hazard ratio 0.62)",
+          "abstract_says": "significantly less likely to receive any cancer-directed consultation (hazard ratio [HR] = 0.62; 95% confidence interval [CI] 0.49-0.78)",
+          "problem": "The outcome was receipt of a cancer-directed consultation with a surgeon, medical oncologist or radiation oncologist; \"see any cancer specialist\" is a reasonable but looser paraphrase that could be read as including all oncology contact.",
+          "suggested_fix": "Use \"receive any cancer-directed specialist consultation (surgeon, medical or radiation oncologist).\""
+        }
+      ]
+    }
+  ]
+}

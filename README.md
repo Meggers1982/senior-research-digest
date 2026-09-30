@@ -8,7 +8,7 @@ run to a browsable dashboard.
 ## How it works
 
 `.github/workflows/daily-digest.yml` runs `scripts/main.py` twice on a daily
-cron (08:23 UTC, early AM Central) via GitHub Actions: once for the **topic
+cron (10:23 UTC, early AM Central) via GitHub Actions: once for the **topic
 rotation** described below, and once for the **new-this-week** run — see
 [The new-this-week run](#the-new-this-week-run). Expect it to start late --
 GitHub queues scheduled workflows, and observed delays have run from 30 minutes
@@ -224,7 +224,7 @@ instead of Pages). Vercel's Git integration is deliberately **disconnected**, so
 | | When to use it |
 | --- | --- |
 | Actions → **Deploy dashboard** → Run workflow | A markup, styling or scoring change. Rebuilds `docs/data` from the committed `outputs/` and deploys. Touches no API and costs nothing. |
-| Wait for the 08:23 UTC daily run | A content change — it regenerates the digest anyway. Note it is queued, not punctual; it has landed as late as 20:32 UTC. |
+| Wait for the 10:23 UTC daily run | A content change — it regenerates the digest anyway. Note it is queued, not punctual; it has landed as late as 20:32 UTC. |
 | `cd docs && vercel deploy --prod` | Local, when you already have the CLI logged in. |
 
 `deploy-dashboard.yml` exists because the daily run spends real Anthropic and

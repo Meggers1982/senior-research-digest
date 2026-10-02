@@ -1,26 +1,31 @@
 # Topic Memory: sarcopenia
-_Last updated: 2026-09-18_
+_Last updated: 2026-10-02_
+
+## Topic Memory: sarcopenia
+_Last updated: 2026-10-02_
 
 ## Established findings
-- Frailty predicts disability and loss of independence more strongly than sarcopenia or muscle mass alone (PMID 42600484, Sep 2026; PMID 42594504, Aug 2026; PMID 42537596, Sep 2026)
-- Grip-strength trajectories and thresholds — not single readings — predict mortality and ADL disability years ahead; stricter cut-offs miss at-risk people (PMID 42570738, PMID 42556116, Sep 2026)
-- Sarcopenic obesity is the highest-risk metabolic phenotype, exceeding obesity or low muscle alone (PMID 42439362, Sep 2026)
-- Low muscle/strength before surgery or acute illness predicts mortality, delirium and failure to regain independence (PMID 42710621, PMID 42600483, PMID 42721978, PMID 42567492, Sep 2026)
-- Combined exercise + adequate protein + vitamin D outperforms single interventions; malnutrition accompanies roughly a quarter of sarcopenia cases (PMID 42208412; PMID 42560848)
-- Later-life weight loss, including drug-assisted, requires explicit muscle-preservation planning (PMID 42689016, Sep 2026; PMID 42633386, Aug 2026)
+- Frailty predicts disability, falls and loss of independence more reliably than sarcopenia or muscle mass alone; frailty transitions are asymmetric, so pre-frailty is the actionable stage (PMIDs 42600484, 42537596, 42669283)
+- Grip strength is most useful as a raw, repeated number: labels shift with which guideline is used, strict cut-offs flag people too late, and each increment maps onto recovered function (PMIDs 42556116, 42697178, 42570738)
+- Muscle quality (fat infiltration / density) outperforms muscle size for predicting power loss, surgical recovery, cancer recurrence and mortality in most 2026 cohorts (PMIDs 42753450, 42779183, 42648596, 42486011); contested in TAVI, where volume won (42567492)
+- Low strength or sarcopenia before surgery, dialysis, stroke, heart attack or cancer treatment predicts mortality, toxicity, delirium and failure to regain independence (PMIDs 42782098, 42660496, 42600483, 42806518, 42816755, 42710621)
+- Weakness, not body weight, drives the association with depression, cognition and metabolic risk; sarcopenic obesity hides behind normal or heavy weight (PMIDs 42741804, 42822208, 42439362)
+- Later-life weight loss, including GLP-1-assisted, requires explicit muscle-preservation planning: protein plus resistance training, monitor function not weight (PMIDs 42772087, 42689016)
+- Structured exercise works and is safe in chronic illness and dementia; consistency matters more than timing or optimal hour (PMIDs 42791208, 42461169, 42668018, 42551769)
 
 ## Emerging threads
-- Cheap functional tests (SARC-F, chair rise, grip) repeatedly outperform imaging and body composition; muscle quality declines far faster than muscle size (PMID 42696807, 42741804, 42486011, Sep 2026)
-- Sarcopenia within specific diseases — type 2 diabetes, cirrhosis/transplant waiting lists — with candidate lab flags (free fatty acids, GDF-15) (PMID 42750344, 42692360, 42696448, 42723363, Sep 2026)
-- Muscle–brain link now contested: no reliable grip-to-dementia pathway in CHARLS, while cross-sectional mood/cognition associations persist (PMID 42675832 vs 42741804, 42684633)
-- Chronic inflammation as pooled, measurable correlate of sarcopenia, though study quality is low (PMID 42398194, Sep 2026)
-- Phenotype-specific nutrition: amino acid patterns run opposite directions in thin vs obese sarcopenia, questioning blanket supplement protocols (PMID 42727175, Sep 2026)
-- Measurement standardization becoming its own topic (pre-scan hydration affecting DXA lean mass) (PMID 42668016, Aug 2026)
-- Digital/home exercise works for function but not quality of life; supervision appears to matter (PMID 42551769, Oct 2026; PMID 42668018)
+- Cheap routine lab values repurposed as muscle flags — creatinine/cystatin C ratio, WBC/HDL ratio, free fatty acids — while hair cortisol came back null; none prospectively validated (PMIDs 42777518, 42802037, 42750344, 42689261)
+- Measurement standardization becoming its own subtopic: pre-scan hydration, height- vs BMI-indexing, grip cut-point choice (PMIDs 42668016, 42816755, 42697178)
+- Midlife/menopause as the steep stretch for bone, muscle and intramuscular fat — pulling prevention earlier (PMID 42811242)
+- Strength and nutritional status as independent, non-substitutable levers on survival (PMID 42747379)
+- Novel downstream outcomes: urinary incontinence tied to sarcopenic obesity and falls (PMID 42786931)
+- Care-delivery gap: nutrition plans collapse at transitions between hospital, rehab, facility and home; no one owns the handoff (PMID 42807943)
+- Exercise dose should be matched to frailty level rather than prescribed uniformly (PMID 42537596)
 
 ## Feature ideas already pitched
 - "Muscle as systemic aging indicator" (lungs, brain, bones) — Aug 7, 2026
 - "Personalized sarcopenia medicine" (phenotyping, sex, biological age) — Aug 21, 2026
-- "Sarcopenia as nervous-system disease" (neural, bone, brain integration) — Sep 4, 2026
+- "Sarcopenia as nervous-system disease" — Sep 4, 2026
 - "Cheap function tests beat expensive scans" (SARC-F, chair rise, grip vs CT/MRI/DXA) — Sep 18, 2026
-- Not yet pitched, candidate for next run: muscle reserve before a planned surgery / prehabilitation as a family decision point
+- "Muscle marbling: fat inside muscle beats muscle size" (quality over quantity, midlife onset) — Oct 2, 2026
+- Not yet pitched, candidates for next run: muscle reserve before a planned surgery as a family decision point; the nutrition-handoff failure at care transitions

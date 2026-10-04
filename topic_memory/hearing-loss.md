@@ -1,25 +1,29 @@
 # Topic Memory: hearing loss
-_Last updated: 2026-09-20_
+_Last updated: 2026-10-04_
+
+## Topic Memory: hearing loss
+_Last updated: 2026-10-04_
 
 ## Established findings
-- Hearing loss tracks with worse memory, faster cognitive decline and brain structural change across cohorts; treatment appears protective (PMIDs 42744782, 42753934, 42447643, Sep 2026; 42675511, 42645764, 42223330, Aug-Sep 2026)
-- Hearing loss belongs to a cluster of modifiable risks (frailty, metabolic, depression, bone health) rather than standing alone (PMIDs 42717165, 42756103, 42728658, Sep 2026; 42223330, 42400121, 42574660)
-- Delivery and access, not technology, is the bottleneck: unfound hospital amplifiers, state-dependent Medicaid coverage, unmade implant referrals, undetected loss in underserved communities (PMIDs 42677253, 42172530, 42685269, 42446280 — recurring across two runs)
+- Hearing loss tracks with worse memory and faster cognitive decline across large cohorts, but the first randomized test in people with mild cognitive impairment found no reduction in dementia conversion at 24 months — association is solid, prevention is not (PMIDs 42804222 Sep 2026; 42753934, 42744782, 42447643, Sep 2026; 42675511, 42645764)
+- Hearing loss belongs to a cluster of aging processes — multimorbidity, frailty, immune aging, mortality risk — rather than standing alone (PMIDs 42728658, 42756103, 42717165, Sep 2026)
+- Delivery and access, not technology, is the bottleneck: unfound hospital amplifiers, state-dependent Medicaid coverage, unmade implant referrals, too few implant-trained providers, undetected loss in underserved communities (PMIDs 42677253, 42172530, 42685269, 42418229, 42446280 — recurring across three runs)
 - Self-report is an unreliable diagnostic but a useful alarm: 70% wrong about ear asymmetry; felt listening effort carries information beyond the audiogram (PMIDs 42467662, 42348455 — recurring)
-- Specific nutrients (seafood, omega-3) show no hearing signal; whole-body nutritional/physiological status may (PMIDs 42697173, 42717165, Sep 2026; 42693926)
-- Older workers in noisy trades (farmers, shop teachers) rarely use hearing protection; habit and training gaps, not noise awareness, drive it (PMIDs 42247643, 42334971)
+- Popular remedies show no hearing signal: seafood/omega-3 (PMID 42697173), systemic stem cell infusions (PMID 42819495)
+- Older workers in noisy trades rarely use hearing protection; habit and training gaps, not noise awareness, drive it (PMIDs 42247643, 42334971)
 
 ## Emerging threads
-- Hearing loss as a mortality signal, not only a cognitive one, especially alongside multimorbidity (PMID 42728658) — watch for replication
-- The quiet-booth gap: speech-in-noise testing underused by clinicians, and lowering amplification in noise improves comfort without costing speech understanding (PMIDs 42735379, 42760273)
-- Uptake barriers are psychosocial and informational, not severity-driven — social loneliness predicted refusal despite worse hearing; knowledge predicted willingness (PMIDs 42707027, 42447317)
-- Biological mechanism work entering the stream: immune aging and inner-ear inflammation (PMID 42756103)
-- Audiometric practice refinements (dropping routine 250-Hz bone conduction) may shorten tests and cut unnecessary ENT referrals (PMID 42229406)
-- Hearing aids as general health devices (built-in step counting) (PMID 42138544)
+- Post-fitting support is where the gains are: wear time, guided internet aural rehabilitation, comfort-in-noise fitting settings (PMIDs 42776967, 42804507, 42760273)
+- The quiet-booth gap persists — speech-in-noise testing underused by clinicians despite high stated confidence (PMID 42735379)
+- Cross-modal compensation: hearing loss shifts brain resources toward vision, making lighting and sightlines a rehabilitation variable (PMID 41317239)
+- Communication coaching can overshoot — trained "clear speech" sounded least natural (PMID 42757902); watch for follow-ups testing intelligibility in actual hard-of-hearing listeners
+- Uptake barriers are psychosocial and informational, not severity-driven (PMIDs 42707027, 42447317)
+- Drug augmentation for poor cochlear implant performers — very preliminary (PMID 42776967)
 
 ## Feature ideas already pitched
-- "Your Ears as a Window to Aging" – hearing loss as systemic aging sentinel (July 2026)
-- "The Dementia Risk You Can Actually Do Something About" – awareness gap on hearing-dementia link (Aug 2026)
-- "More Than Your Ears: Why Hearing Loss Is a Whole-Body Warning Sign" – multi-system risk reframe (Aug 2026)
-- "The Hearing Aids Are There. Getting One Is the Hard Part." – delivery/access failure points from suspicion to working device (Sep 6 2026)
-- "The Hearing Test Most Clinics Skip" – quiet-booth testing misses noisy-room struggle; speech-in-noise testing and comfort-in-noise fittings (Sep 20 2026)
+- "Your Ears as a Window to Aging" – hearing loss as systemic aging sentinel (Jul 2026)
+- "The Dementia Risk You Can Actually Do Something About" – hearing-dementia awareness gap (Aug 2026)
+- "More Than Your Ears" – multi-system risk reframe (Aug 2026)
+- "The Hearing Aids Are There. Getting One Is the Hard Part." – delivery/access failure points (Sep 6 2026)
+- "The Hearing Test Most Clinics Skip" – speech-in-noise testing and comfort-in-noise fittings (Sep 20 2026)
+- "The Hearing Aid Is Only Half the Job" – post-fitting rehab, wear time, coaching and room design as the real levers (Oct 4 2026)

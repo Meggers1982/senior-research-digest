@@ -1,0 +1,636 @@
+{
+  "coverage_checked": 17,
+  "coverage_cached": 0,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42693831": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42501620": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42500929": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42635108": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42716809": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42645764": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42752539": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42752554": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42331364": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42371784": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42215273": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42521465": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "41076606": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "41535098": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "41521029": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "41249002": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42476825": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42693831": {
+      "pubdate": "2026 Sep",
+      "journal": "International journal of geriatric psychiatry"
+    },
+    "42635108": {
+      "pubdate": "2026 Aug",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42500929": {
+      "pubdate": "2026 Jul 25",
+      "journal": "Disability and rehabilitation"
+    },
+    "42501620": {
+      "pubdate": "2026 Oct",
+      "journal": "Gait & posture"
+    },
+    "42331364": {
+      "pubdate": "2026 Sep 22",
+      "journal": "The British journal of ophthalmology"
+    },
+    "42752539": {
+      "pubdate": "2026 Sep 17",
+      "journal": "JAMA ophthalmology"
+    },
+    "42716809": {
+      "pubdate": "2026 Sep 9",
+      "journal": "The British journal of ophthalmology"
+    },
+    "42752554": {
+      "pubdate": "2026 Sep 1",
+      "journal": "Investigative ophthalmology & visual science"
+    },
+    "42645764": {
+      "pubdate": "2026 Aug 26",
+      "journal": "GeroScience"
+    },
+    "42371784": {
+      "pubdate": "2026 Aug 5",
+      "journal": "The Gerontologist"
+    },
+    "42215273": {
+      "pubdate": "2026 Aug 20",
+      "journal": "The British journal of ophthalmology"
+    },
+    "41076606": {
+      "pubdate": "2026 Aug",
+      "journal": "GeroScience"
+    },
+    "42521465": {
+      "pubdate": "2026 Jul 28",
+      "journal": "The British journal of ophthalmology"
+    },
+    "41535098": {
+      "pubdate": "2026 Jul 22",
+      "journal": "The British journal of ophthalmology"
+    },
+    "41521029": {
+      "pubdate": "2026 Jul 22",
+      "journal": "The British journal of ophthalmology"
+    },
+    "41249002": {
+      "pubdate": "2026 Jul 22",
+      "journal": "The British journal of ophthalmology"
+    },
+    "42476825": {
+      "pubdate": "2026 Jul 20",
+      "journal": "The British journal of ophthalmology"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Glaucoma Surgery Linked to Lower Dementia Risk Than Eye Drops Alone in Study of 100,000 Patients",
+      "journal": "Int J Geriatr Psychiatry",
+      "published": "2026 Sep;41(9):e70252",
+      "pmid": "42693831",
+      "doi": "10.1002/gps.70252",
+      "the_study": "Researchers used the TriNetX multinational health records database to compare two matched groups of 51,923 glaucoma patients each (average age 64, 55% women), all aged 40 or older, following them from their first definitive treatment until a dementia diagnosis, death, or July 2026. Patients who had glaucoma surgery had a 19% lower risk of all-cause dementia and a 47% lower risk of vascular dementia than those managed with eye drops and other medical therapy; the reduction in Alzheimer's disease specifically was not statistically significant. Surgical patients did have more subsequent vision loss, which the authors attribute to those patients having more advanced glaucoma to begin with.",
+      "why_it_matters": "The 2024 Lancet Commission named visual impairment a modifiable dementia risk factor, and this is one of the first large analyses suggesting how glaucoma is treated \u2014 not just whether eye pressure is controlled \u2014 may track with long-term brain outcomes.",
+      "story_angle_primary": "If you have glaucoma, this is a reason to ask your ophthalmologist at your next visit how well your pressure is controlled on your current regimen and whether you are a candidate for laser or surgical treatment \u2014 not to demand surgery, since this study cannot prove that the operation itself protects the brain.",
+      "story_angle_secondary": "For care teams and senior living staff: glaucoma management is often treated as a narrow eye-care issue, but findings like these support including eye appointments and drop adherence in overall health and cognitive risk reviews, since many older adults quietly stop using daily drops they find difficult to instill.",
+      "caveats": "Observational real-world database study \u2014 it cannot establish causation, and people selected for surgery differ systematically from those kept on medication (confounding by indication, as shown by the higher rate of subsequent visual loss in the surgical group). Dementia diagnoses come from coded health records rather than standardized assessment."
+    },
+    {
+      "headline": "Low-Contrast Obstacles Make Older Walkers Cut It Close \u2014 Even Those With Normal Vision",
+      "journal": "Gait Posture",
+      "published": "2026 Oct;130:110296",
+      "pmid": "42501620",
+      "doi": "10.1016/j.gaitpost.2026.110296",
+      "the_study": "Twenty-nine older adults \u2014 15 with normal vision (average age 78) and 14 with central vision loss (average age 79) \u2014 walked a 6-meter black carpeted path and stepped over an obstacle that varied in height (1 cm versus 19 cm) and in visual contrast against the floor, with motion-capture cameras tracking their feet. Every participant, regardless of vision status, lifted their feet less over low-contrast obstacles than high-contrast ones \u2014 a riskier pattern that invites tripping. Those with central vision loss adjusted more dramatically between tall and short obstacles and tilted their heads down to compensate when obstacles were short.",
+      "why_it_matters": "It suggests fall prevention isn't only about removing clutter but about making unavoidable hazards \u2014 thresholds, door sills, curbs, step edges \u2014 visually stand out, which is a cheap fix for homes and senior living communities.",
+      "story_angle_primary": "Walk through your home and look for anything low that blends into the floor \u2014 a dark threshold on dark carpet, a step edge the same color as the stair. Marking those edges with contrasting tape or paint may help your feet clear them, because this study shows even people with good vision shorten their step over things they can barely see.",
+      "story_angle_secondary": "For facility managers and designers: contrast, not just illumination, deserves a line in fall-prevention audits. Sills, transitions between flooring types, and the leading edge of every stair tread are candidates for high-contrast marking, particularly in communities serving residents with macular degeneration.",
+      "caveats": "Small sample (N=29), single-center laboratory study on a controlled walkway rather than real homes, and it measured gait mechanics rather than actual falls. One author reports funding from the American Academy of Optometry Foundation and a consulting relationship with Ray Therapeutics, Inc."
+    },
+    {
+      "headline": "Audiobooks Aren't an Automatic Replacement for Reading After Vision Loss \u2014 Listening Is a Skill",
+      "journal": "Disabil Rehabil",
+      "published": "2026 Jul 25 (online ahead of print)",
+      "pmid": "42500929",
+      "doi": "10.1080/09638288.2026.2704461",
+      "the_study": "Researchers conducted in-depth interviews with adults aged 60 and older living with vision loss about how they use audiobooks, how they adapted to the technology, and whether listening gave them the same absorbed experience print reading once did. Three themes emerged: vision loss as a rupture requiring emotional as well as technological adjustment; 'learning to listen,' meaning immersion took real cognitive and sensory effort to develop; and audiobooks as a route back to companionship, book clubs, and a continued identity as a reader. Barriers were often about inaccessible browsing and book-selection systems rather than the listening itself.",
+      "why_it_matters": "Losing leisure reading is a quiet, under-addressed loss after vision decline, and this study shows that simply handing someone an audiobook app is not enough \u2014 training and follow-up support determine whether they stay engaged readers and stay socially connected.",
+      "story_angle_primary": "If print has become hard for you, expect a learning curve with audiobooks rather than an instant swap \u2014 give yourself several weeks, experiment with narrators and playback speed, and ask your low-vision rehabilitation provider or local library about accessible audiobook services and reading groups rather than navigating the apps alone.",
+      "story_angle_secondary": "For families and activity directors: the practical barrier is usually the catalog, not the content. Helping someone browse and choose titles, setting up a device once properly, and connecting them to a listener-friendly book club addresses the drop-off point this study identified.",
+      "caveats": "Qualitative interview study with a small, self-selected sample of audiobook users; findings describe experiences rather than measuring outcomes and may not generalize to all older adults with vision loss. The abstract does not report the exact number of participants."
+    },
+    {
+      "headline": "Depression in Midlife Emerges as the Dominant Dementia Risk Factor Among American Indians",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Aug;22(8):e71626",
+      "pmid": "42635108",
+      "doi": "10.1002/alz.71626",
+      "the_study": "The Strong Heart Study followed American Indian adults from the Southwest, Southern Plains, and Northern Plains across multiple visits from 1989 to 2019, with cognitive status adjudicated by expert panel consensus at ages 70 to 95. Risk factor patterns differed sharply from the widely cited general-population model: midlife depression, head injury, smoking, hypertension, obesity, and diabetes were more common, while high LDL cholesterol, inactivity, and heavy drinking were less common. The share of dementia cases statistically attributable to each factor was striking for depression (60%), with education (19%), social isolation (13%), and hypertension (11%) also significant.",
+      "why_it_matters": "It challenges the assumption that a single global list of dementia risk factors applies equally to every community, and points to treating midlife depression and isolation as a concrete prevention priority in American Indian populations.",
+      "story_angle_primary": "If you or someone in your family has been living with untreated depression or has become socially isolated, these findings are a reason to raise it with your doctor as a health issue \u2014 not just a mood issue \u2014 alongside blood pressure control, which also ranked high here.",
+      "story_angle_secondary": "For tribal health programs and senior services: prevention resources modeled on national risk-factor rankings may be misdirected. Behavioral health capacity, head injury prevention, and programming that counters isolation appear to be the higher-yield investments in these communities.",
+      "caveats": "Observational cohort \u2014 population attributable fractions describe statistical associations, not proven causation, and depression's very high share may partly reflect reverse causation if early cognitive changes contribute to depressive symptoms. Hearing loss, vision loss, and air pollution were not assessed at all, so their contribution is unknown. Findings are specific to American Indian communities in three regions and do not generalize to other populations."
+    },
+    {
+      "headline": "Trouble Seeing Up Close Was Linked to Weaker Thinking Scores in a Study of 3,650 Older Adults",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Sep 9",
+      "pmid": "42716809",
+      "doi": "10.1136/bjo-2025-329310",
+      "the_study": "Researchers in the Handan Eye Follow-up Study examined 3,650 rural Chinese adults aged 50 and older, measuring both distance and near visual acuity alongside cognitive performance on the Mini-Mental State Examination and physical mobility tests. Near vision impairment was extremely common (92% of participants) and was associated with roughly three times higher odds of poorer cognitive scores even after adjusting for the full set of demographic and health covariates. Distance vision impairment (27.5% of participants) showed an association initially, but it disappeared once all covariates were accounted for.",
+      "why_it_matters": "Near vision problems are often the easiest kind of vision loss to fix \u2014 with reading glasses or cataract surgery \u2014 yet they went uncorrected in the vast majority of this population, raising the possibility that a cheap intervention sits alongside brain health.",
+      "story_angle_primary": "If you have given up on reading, puzzles, or hobbies because the print is blurry, do not write it off as inevitable aging \u2014 ask your eye doctor specifically about near vision correction, and mention any changes in memory or concentration at the same visit.",
+      "story_angle_secondary": "For families and senior living staff: a resident who has stopped reading, doing crosswords, or joining activities may be showing a vision problem rather than cognitive decline \u2014 check whether reading glasses are current, present, and actually being worn before concluding anything about memory.",
+      "caveats": "Observational, cross-sectional design \u2014 cannot establish that vision loss causes cognitive decline, and reverse causation is plausible (cognitive impairment can affect test performance on vision assessment). Cognitive screening relied on the MMSE alone. Rural Chinese population with very high rates of uncorrected near vision impairment may not generalize to settings where reading glasses are widely available."
+    },
+    {
+      "headline": "Each Added Health Risk Factor \u2014 Including Vision Loss \u2014 Chipped Away at Brain Health in 38,000 Older Adults",
+      "journal": "Geroscience",
+      "published": "2026 Aug 26",
+      "pmid": "42645764",
+      "doi": "10.1007/s11357-026-02473-8",
+      "the_study": "Using data from 38,414 older adults in the National Alzheimer's Coordinating Center database, researchers built a simple score counting ten modifiable risk factors: high blood pressure, diabetes, high cholesterol, alcohol misuse, smoking, depression, obesity, hearing loss, vision loss, and low education. Every additional risk factor was associated with worse global cognition, worse delayed recall and semantic fluency, more severe clinical status, and higher odds of white matter hyperintensities, brain infarcts, and hippocampal atrophy on MRI. Hippocampal atrophy showed the strongest statistical pathway linking risk burden to cognitive performance.",
+      "why_it_matters": "It reframes vision and hearing loss not as isolated sensory nuisances but as part of a cluster of modifiable risks that together track with measurable brain injury \u2014 supporting a multi-pronged rather than one-at-a-time approach to protecting cognition.",
+      "story_angle_primary": "Count your own risk factors from this list of ten \u2014 the study suggests the total burden matters, so addressing two or three you can realistically change (getting your vision corrected, treating blood pressure, addressing depression) may be more useful than agonizing over any single one.",
+      "story_angle_secondary": "For care providers and senior living operators: this supports bundling sensory screening, cardiovascular management, and mood assessment into a single brain-health review rather than treating them as separate referral silos.",
+      "caveats": "Cross-sectional and observational \u2014 the design cannot establish causation, and the authors' \"indirect pathway\" analyses are correlational, not proof of mechanism. The NACC database draws from Alzheimer's research centers, so participants are not a representative community sample. Risk factors were coded as simple yes/no, losing severity information."
+    },
+    {
+      "headline": "After Eye Injections Clear Up This Form of Macular Disease, Half of Patients Relapse Within Two Years",
+      "journal": "JAMA Ophthalmol",
+      "published": "2026 Sep 17",
+      "pmid": "42752539",
+      "doi": "10.1001/jamaophthalmol.2026.3927",
+      "the_study": "At four Thai university hospitals, 81 previously untreated patients (mean age 64) with polypoidal choroidal vasculopathy \u2014 a common global cause of vision loss and a variant of wet macular degeneration \u2014 received monthly aflibercept injections. Of the 32 eyes whose abnormal vessels fully regressed by week 12 or 24, treatment was then given only as needed; half recurred within two years, and among those with recurrence, 21% lost 10 or more letters of vision and 36% developed new bleeding. Certain OCT scan features at baseline predicted who was more or less likely to relapse.",
+      "why_it_matters": "It shows that \"your scan looks clear\" is not the same as \"you are done\" \u2014 continued monitoring after injections stop is what catches a relapse before vision is permanently lost.",
+      "story_angle_primary": "If your retina specialist pauses your eye injections because the disease has regressed, ask how often you still need scans and what symptoms should prompt an urgent call \u2014 in this study half of cleared eyes came back, and some lost meaningful vision at the point of recurrence.",
+      "story_angle_secondary": "For families and transport coordinators: the follow-up burden does not end when injections stop. Keeping monthly-to-bimonthly monitoring appointments is a logistical commitment worth planning around, since relapses in this study were often accompanied by vision loss and bleeding.",
+      "caveats": "Relatively small number of eyes reached the key analysis (26-32 eyes with regression), making the confidence intervals wide. Single-country, predominantly Asian population \u2014 polypoidal choroidal vasculopathy is more common in Asian populations and results may not generalize. Several authors report grants and personal fees from Bayer (which markets aflibercept) and other manufacturers; the lead author received Bayer grants during the study. Some findings were post hoc exploratory analyses."
+    },
+    {
+      "headline": "A Routine Eye Scan Measurement May Flag Which Diabetic Eyes Will Get Worse Over Two Years",
+      "journal": "Invest Ophthalmol Vis Sci",
+      "published": "2026 Sep 1",
+      "pmid": "42752554",
+      "doi": "10.1167/iovs.67.11.35",
+      "the_study": "Researchers analyzed baseline macular OCT scans from 190 eyes of 121 patients across the full spectrum of diabetic retinopathy severity, none with macular swelling at the start, and tracked them for two years. One in four eyes progressed \u2014 worsening on angiography, losing 10 or more letters of vision, bleeding into the vitreous, or requiring laser or anti-VEGF treatment. Greater baseline outer retinal volume independently predicted progression even after adjusting for retinopathy severity, blood pressure, age, and lens status, while inner retinal volume predicted nothing.",
+      "why_it_matters": "OCT scanners are already standard equipment in eye clinics, so this measurement could eventually help identify which patients with diabetes need closer surveillance before vision is threatened \u2014 at no added cost or discomfort.",
+      "story_angle_primary": "If you have diabetes, keep getting the dilated exam and OCT scan your eye doctor recommends even when your vision feels fine \u2014 this study found that scan details, not symptoms, were what distinguished the eyes headed for trouble.",
+      "story_angle_secondary": "For caregivers managing a loved one's diabetes care: annual eye imaging is a concrete, schedulable item that belongs on the same checklist as A1c and foot checks, and it generates information that can change how closely the eye is watched.",
+      "caveats": "Observational study with no control group \u2014 it identifies a prognostic association, not a treatment. Fewer than 200 eyes from 121 patients at what appears to be a single academic center; segmentation required manual correction, which may limit immediate real-world use. The senior author discloses consulting relationships with Roche/Genentech, Boehringer Ingelheim, RegenXbio, and 3Helix."
+    },
+    {
+      "headline": "Nearly 9 in 10 Breast Cancer Patients on Newer Targeted Drugs Developed Eye Surface Damage",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Sep 22",
+      "pmid": "42331364",
+      "doi": "10.1136/bjo-2026-329526",
+      "the_study": "Researchers followed 21 patients with HER2-positive breast cancer receiving HER2-targeted antibody-drug conjugates, performing detailed eye exams including corneal imaging, nerve assessment, and dry eye measures from baseline onward. Ocular surface toxicity appeared in 85.7% of patients, starting on average 28 days after treatment began, and included blurred vision, dry eye, a distinctive whorl-like corneal deposit pattern, and significant loss of corneal nerve fibers with reduced corneal sensitivity. The damage tracked with dose and time but was partially reversible, with signs of corneal recovery after 12 treatment cycles.",
+      "why_it_matters": "These drugs are increasingly used in older adults with breast cancer, and patients often are not told to expect eye symptoms \u2014 knowing they are common, expected, and often reversible can prevent both panic and silent suffering.",
+      "story_angle_primary": "If you are starting a HER2-targeted antibody-drug conjugate for breast cancer, ask your oncologist about a baseline eye exam and report blurred vision, grittiness, or dryness promptly \u2014 symptoms typically start about a month in and the damage in this study was dose-related and largely reversible.",
+      "story_angle_secondary": "For caregivers and oncology nurses: screen for eye complaints at each cycle rather than waiting for the patient to raise them. Reduced corneal sensitivity means the eye can be damaged without the pain that would normally prompt a report.",
+      "caveats": "Very small sample (N=21), single-center, no control group, and short follow-up. Patients were drawn from one Chinese eye hospital cohort and may not represent all patients on these drugs. The study describes toxicity patterns but does not test any preventive or treatment strategy."
+    },
+    {
+      "headline": "Childhood Hardship Can Echo Into Old-Age Memory \u2014 Sometimes Through Untreated Vision Loss",
+      "journal": "Gerontologist",
+      "published": "2026 Aug 5",
+      "pmid": "42371784",
+      "doi": "10.1093/geront/gnag147",
+      "the_study": "Researchers at the University of Southern California analyzed data from 20,010 adults aged 40 and older in the China Health and Retirement Longitudinal Study and its 2014 Life History Survey, using structural equation modeling to trace how 11 types of adverse childhood experiences relate to cognition decades later. Emotional abuse and exposure to community violence were directly linked to poorer later-life cognition. Physical neglect and parental divorce or death showed indirect links, working through lower educational attainment, depression, and \u2014 notably \u2014 untreated vision loss. Two adversities, emotional neglect and household violence, showed unexpected positive associations with cognition.",
+      "why_it_matters": "The analysis puts untreated vision loss alongside depression and low education as a modifiable link in the chain between early hardship and later cognitive decline \u2014 a reminder that something as fixable as an uncorrected eye problem may carry weight for brain health.",
+      "story_angle_primary": "If you have been putting off an eye exam, this study is a reminder that vision loss is one of the few dementia risk factors you can actually do something about. Ask your doctor when you are next due for a full eye check, and whether your glasses prescription, cataracts, or any untreated eye condition could be addressed.",
+      "story_angle_secondary": "For care professionals and family members, the finding supports screening for sensory impairment \u2014 not just cognition \u2014 in older adults with difficult early-life histories, and treating uncorrected vision as a health-equity issue rather than a cosmetic inconvenience.",
+      "caveats": "Observational design \u2014 the modeling cannot establish causation, only statistical pathways. The sample is Chinese adults aged 40+, and childhood adversity was recalled retrospectively decades later, which invites recall bias. Some findings (positive associations for emotional neglect and household violence) were unexpected and unexplained, suggesting measurement issues. Results may not generalize to other countries or health systems."
+    },
+    {
+      "headline": "A Chemotherapy Drug, Injected Into the Cornea, Shrinks Vision-Threatening Blood Vessels",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Aug 20",
+      "pmid": "42215273",
+      "doi": "10.1136/bjo-2026-329997",
+      "the_study": "Surgeons at Moorfields Eye Hospital in London reviewed 39 procedures performed between March 2023 and March 2025 using mitomycin C to shut down abnormal blood vessel growth in the cornea, a condition that causes scarring, fat deposits, and vision loss. Because threading a cannula into the tiny vessels succeeded only 15% of the time, 70% of cases used the simpler intrastromal injection approach instead. Vessel regression was seen in 59% of eyes by objective image analysis, 71% by masked independent graders, and 81% by the surgeons themselves, over a median 12 months of follow-up. Four patients went on to successful corneal transplants with no recurrence of the vessels; two serious complications occurred when the drug migrated into the front of the eye in corneas that were already thin or previously perforated.",
+      "why_it_matters": "Corneal neovascularization is stubbornly hard to treat and raises the risk that a corneal transplant will be rejected, so an accessible injection technique that calms the vessels first could improve transplant odds for older adults with scarred or damaged corneas.",
+      "story_angle_primary": "If you have been told that abnormal blood vessels in your cornea make you a poor candidate for a transplant, it may be worth asking a corneal specialist whether mitomycin C injection is an option to stabilize the eye first \u2014 and specifically whether your cornea is thin or has been perforated, since those cases carried the serious complications in this series.",
+      "story_angle_secondary": "For families coordinating care, this is a reminder that corneal disease is often managed at specialist centers rather than local clinics; a second opinion from a corneal service may surface treatment routes that were not on the table before.",
+      "caveats": "Small retrospective case series (39 procedures) from a single specialist center, with no control group and no randomization. Outcome assessment was partly surgeon-reported, and the three measurement methods disagreed substantially (59% vs. 81% regression). Median follow-up was only 12 months, so durability is unknown, and two serious complications occurred."
+    },
+    {
+      "headline": "Women Carry a Heavier Burden of Blindness Worldwide \u2014 and the Gap Isn't Closing",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Jul 28",
+      "pmid": "42521465",
+      "doi": "10.1136/bjo-2025-328771",
+      "the_study": "Researchers analyzed sex-separated Global Burden of Disease 2023 data covering 1990 to 2023 to compare rates of disability from blindness and vision impairment in women versus men, and tested whether those gaps tracked with national measures of gender inequality. In 2023, women had higher age-standardized years-lived-with-disability rates than men for overall blindness and vision loss (300.9 vs 262.8 per 100,000, a 14.5% excess), cataract (26.7% excess) and age-related macular degeneration (18% excess); glaucoma was the exception, hitting men harder. The female excess was largest in South Asia, and countries with worse scores on the Gender Inequality Index and Gender Development Index showed wider gaps. Bayesian projections suggest the disparities will persist or widen through 2040 without targeted action.",
+      "why_it_matters": "Cataract and AMD are leading causes of vision loss in later life, and this analysis suggests older women are more likely to be living with untreated or under-treated eye disease \u2014 much of it, like cataract, entirely fixable with surgery.",
+      "story_angle_primary": "If you are an older woman, don't assume fading vision is just part of getting older: cataract is one of the most reversible causes of sight loss there is. Ask when your last dilated eye exam was and whether anything found is treatable.",
+      "story_angle_secondary": "For families and senior living staff: track whether the women in your care are actually getting to eye appointments at the same rate as the men, and look at the practical barriers \u2014 transportation, cost, who gets prioritized for a ride to the specialist.",
+      "caveats": "Ecological analysis of modeled national-level data, not individual patient records; cannot establish causation between gender inequality and vision outcomes; GBD estimates depend heavily on the quality of underlying country data, which is sparse in some regions."
+    },
+    {
+      "headline": "Beyond the Needle: What's Coming Next for Macular Degeneration and Diabetic Eye Disease",
+      "journal": "Geroscience",
+      "published": "2026 Aug",
+      "pmid": "41076606",
+      "doi": "10.1007/s11357-025-01921-1",
+      "the_study": "This review, which includes a meta-analysis of key human clinical trials, surveys decades of treatment for neovascular age-related macular degeneration and proliferative diabetic retinopathy \u2014 the two leading causes of severe vision loss tied to abnormal blood vessel growth. The authors confirm that anti-VEGF injections work, but note that many of the most common complications \u2014 infection inside the eye (endophthalmitis), retinal detachment \u2014 come from the repeated injection procedure itself, alongside rarer systemic risks such as stroke. They then review emerging alternatives, including gene therapy and small-molecule tyrosine kinase inhibitors delivered orally, as slow-release intravitreal implants or depots, or by suprachoroidal injection.",
+      "why_it_matters": "Millions of older adults endure eye injections every four to twelve weeks indefinitely; a credible path toward longer-acting or non-injected treatment would change the rhythm of life for patients and the family members who drive them to appointments.",
+      "story_angle_primary": "If you are on a schedule of eye injections, it is reasonable to ask your retina specialist whether any longer-acting formulations, implants or clinical trials might suit you \u2014 and to keep asking, because this field is moving quickly. Don't stop or stretch out your current injections on your own; the treatment works and lapses cost vision.",
+      "story_angle_secondary": "For caregivers and senior living operators: injection appointments are a major recurring transportation and scheduling burden. Understanding that longer-acting options are in development can help with long-range planning, but the logistics problem is here now and worth solving with ride coordination and appointment clustering.",
+      "caveats": "This is a narrative review with an embedded meta-analysis, not new primary research; most of the novel therapies described are still experimental and not approved for routine use; the balance of evidence for emerging agents is early-stage."
+    },
+    {
+      "headline": "Swollen Eyelids in Older Men May Signal a Rare Inflammatory Disease \u2014 and Occasionally Threaten Sight",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Jul 22",
+      "pmid": "41535098",
+      "doi": "10.1136/bjo-2025-328652",
+      "the_study": "Ophthalmologists across Australia, New Zealand, the UK, Denmark, Spain and the US pooled 14 cases of eye involvement in VEXAS syndrome, a recently recognized multisystem inflammatory disorder caused by UBA1 mutations that overwhelmingly affects older men (all 14 patients were male, median age 73, range 49\u201378). Every patient had eyelid swelling and periorbital edema; 71% had eye pain, 57% had tear gland inflammation and 50% had inflammation of the eye muscles. Visual acuity was normal and unchanged for most, but two patients (14%) lost vision severely in one eye from orbital compartment syndrome and necrotizing fasciitis around the eye, and one patient died of VEXAS complications.",
+      "why_it_matters": "Persistent eyelid and around-the-eye swelling in an older man is easy to write off as allergy or a stye, but in this rare condition it was the universal presenting sign \u2014 and in a minority of cases progressed to sight-threatening emergencies within days.",
+      "story_angle_primary": "If you have swelling around the eyes that doesn't settle, especially alongside pain or other unexplained inflammatory symptoms elsewhere in your body, press for an ophthalmology assessment rather than waiting it out. Sudden worsening with pain and pressure behind the eye is an emergency.",
+      "story_angle_secondary": "For families and care staff: note how fast this can move \u2014 most patients presented within two to seven days of symptoms starting. Document when eyelid swelling began and escalate rather than monitoring for weeks, particularly in residents already carrying a diagnosis of unexplained systemic inflammation or blood disorder.",
+      "caveats": "Very small case series (N=14), retrospective and voluntarily submitted by specialist surgeons, which skews toward more severe or unusual presentations; no control group; VEXAS itself is rare, so these findings describe a narrow population and should not raise general alarm about puffy eyelids."
+    },
+    {
+      "headline": "An Experimental Gel Injection Restored Vision in Eyes With Dangerously Low Pressure",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Jul 22",
+      "pmid": "41521029",
+      "doi": "10.1136/bjo-2025-327866",
+      "the_study": "In a prospective pilot series at Moorfields Eye Hospital, eight patients with chronic ocular hypotony \u2014 persistently low internal eye pressure under 6.5 mm Hg lasting more than three months, which deforms the eye and blurs vision \u2014 received repeated intravitreal injections of hydroxypropylmethylcellulose gel every two to four weeks until pressure and eye shape normalized. Vision improved in seven of eight eyes and stayed stable in the eighth; eye pressure rose in seven of eight, and eye length increased in 75%. Two adverse events occurred: uveitis flares that clouded the gel in two eyes, and temporary post-injection vision loss in two eyes resolved by drainage.",
+      "why_it_matters": "Chronic hypotony after glaucoma surgery or inflammation has had few good options and often leads to permanent vision loss, so a repeatable protocol that reversed both the anatomy and the sight loss in a majority of treated eyes is a meaningful first step.",
+      "story_angle_primary": "If you've been told your eye pressure is too low after glaucoma surgery or chronic inflammation and that nothing more can be done, this early work suggests the question is worth revisiting with a specialist \u2014 while recognizing the treatment is still experimental and was tested in only eight people.",
+      "story_angle_secondary": "For caregivers: this protocol required injections every two to four weeks over months plus 12 months of follow-up. Any family weighing a referral should understand the appointment load involved before committing.",
+      "caveats": "Very small pilot (N=8), single-center, no control group, no randomization; adverse events occurred in several of the eight eyes; findings are preliminary and require larger controlled trials before this becomes standard care."
+    },
+    {
+      "headline": "When Two Eye Diseases Overlap, the Risk of Severe Vision Loss Nearly Doubles",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Jul 22;110(8):949-954",
+      "pmid": "41249002",
+      "doi": "10.1136/bjo-2025-327643",
+      "the_study": "Researchers followed about 500,000 adults in South Korea's National Health Insurance Service screening cohort from 2004 to 2019 \u2014 roughly 7.5 million person-years \u2014 tracking new diagnoses of glaucoma, macular and posterior pole degeneration, and diabetes with eye complications, then linking to health check-up records and the national disability registry to identify severe visual impairment. Each condition alone sharply raised the risk of severe vision loss (adjusted hazard ratios of 4.78 for glaucoma, 8.27 for macular degeneration, and 3.23 for diabetic eye disease). Critically, the risks did not simply add up: compared with having one age-related eye disease, having a second nearly doubled the risk (aHR 9.54) and a third pushed it higher still (aHR 12.59, though with a very wide confidence interval reflecting few cases).",
+      "why_it_matters": "Older adults are frequently managed one diagnosis at a time \u2014 a glaucoma clinic here, a retina clinic there \u2014 but this suggests the combination carries a disproportionate threat to usable sight, arguing for coordinated, whole-eye care rather than siloed follow-up.",
+      "story_angle_primary": "If you already have one eye condition such as glaucoma, macular degeneration, or diabetic eye disease, it's worth asking your eye doctor directly whether you are being monitored for the others too \u2014 and what your personal risk factors are for developing a second one. Keeping existing appointments, using prescribed drops, and managing blood sugar and blood pressure are the levers you already control.",
+      "story_angle_secondary": "For families and senior living staff, this is a prompt to look at a resident's full eye-care picture: are multiple eye diagnoses being tracked by different specialists who never speak to each other? Consolidating records, coordinating appointments, and flagging a second ocular diagnosis as a higher-stakes event can help catch deterioration before it becomes a fall, a lost driver's license, or a move to a higher level of care.",
+      "caveats": "Observational cohort study \u2014 it shows association, not causation, and cannot prove that preventing a second disease prevents blindness. Diagnoses were identified from administrative insurance codes plus prescriptions, which can misclassify. The three-disease estimate rests on very few people (confidence interval 2.32 to 68.44) and should be treated as imprecise. Findings come from a single national Korean population and may not generalize elsewhere."
+    },
+    {
+      "headline": "Diabetes-Related Vision Loss Is Rising Worldwide \u2014 and Wealthier Countries Saw the Biggest Jump",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Jul 20 (online ahead of print)",
+      "pmid": "42476825",
+      "doi": "10.1136/bjo-2025-328581",
+      "the_study": "Using Global Burden of Disease 2021 data, researchers analyzed worldwide trends in blindness and vision loss caused by diabetic retinopathy from 1990 to 2021, separating type 1 from type 2 diabetes and breaking results down by countries' socio-demographic development level. The age-standardized prevalence of diabetes-related blindness and vision loss climbed from 48.8 to 67.3 per 100,000 people, with the steepest relative rise (45.8%) in the most developed countries. Vision loss tied to type 1 diabetes edged slightly downward, while type 2 diabetes drove unfavorable period and cohort trends \u2014 and prevalence rose steadily with advancing age across all regions.",
+      "why_it_matters": "Type 2 diabetes is overwhelmingly a condition of middle and later life, and this analysis indicates its toll on eyesight is still growing even in places with well-resourced health systems \u2014 meaning screening and blood sugar control are not keeping pace with the spread of the disease.",
+      "story_angle_primary": "If you have type 2 diabetes, a dilated retinal exam at the interval your doctor recommends is the single most reliable way to catch retinopathy while it is still treatable \u2014 early damage usually causes no symptoms at all. Ask when your last retinal imaging was done and when the next one is due, and don't assume good vision means a healthy retina.",
+      "story_angle_secondary": "For caregivers and senior living operators, diabetes is common among residents and retinal screening is easy to let slide when transportation and specialist access are barriers. Building eye exams into routine diabetes care plans \u2014 and considering on-site retinal photography where available \u2014 addresses a gap this global data suggests is widening, not closing.",
+      "caveats": "This is a secondary analysis of modeled Global Burden of Disease estimates, not primary patient data; country-level figures depend on the quality of underlying surveillance, which is uneven. It is ecological and observational, so it cannot explain why trends diverged, and rising prevalence may partly reflect better detection and longer survival with diabetes rather than worse eye care alone."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42693831",
+      "headline": "Glaucoma Surgery Linked to Lower Dementia Risk Than Eye Drops Alone in Study of 100,000 Patients",
+      "verdict": "accurate",
+      "notes": "Cohort sizes, demographics, hazard ratios (HR 0.81 = 19% lower; HR 0.53 = 47% lower), non-significant Alzheimer's finding, and the higher visual-loss risk in surgical patients all match the abstract. Observational framing and confounding-by-indication caveat are appropriately stated.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "pmid": "42501620",
+      "headline": "Low-Contrast Obstacles Make Older Walkers Cut It Close \u2014 Even Those With Normal Vision",
+      "verdict": "accurate",
+      "notes": "Sample (15 controls, mean 78.1 years; 14 with central vision loss, mean 79.4 years), 6-metre walkway, 1 cm vs 19 cm obstacle heights, the universal reduction in foot clearance with low-contrast obstacles, and the greater tall-vs-short adjustment plus head-angle compensation in the CVL group all match. Competing-interest disclosures are correctly reported in Caveats.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "pmid": "42500929",
+      "headline": "Audiobooks Aren't an Automatic Replacement for Reading After Vision Loss \u2014 Listening Is a Skill",
+      "verdict": "accurate",
+      "notes": "The three themes (Adaptation, Learning to listen, Building connections), the age-60-and-older qualitative interview design, and the browsing/book-selection barrier all match the abstract and plain-language summary. The digest correctly flags that no participant count is reported.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "pmid": "42635108",
+      "headline": "Depression in Midlife Emerges as the Dominant Dementia Risk Factor Among American Indians",
+      "verdict": "accurate",
+      "notes": "Regions, visit span (1989\u20132019), adjudication by panel consensus at ages 70\u201395, the direction of prevalence differences, and all four PAF figures (depression 60%, education 19%, isolation 13%, hypertension 11%) match. Caveats correctly note that hearing loss, vision loss and air pollution were not assessed and that PAFs are associational.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "pmid": "42716809",
+      "headline": "Trouble Seeing Up Close Was Linked to Weaker Thinking Scores in a Study of 3,650 Older Adults",
+      "verdict": "minor",
+      "notes": "Sample size, prevalence figures and the pattern of findings are accurate; the effect size is rounded downward slightly and the \"uncorrected\" characterisation of near vision impairment goes a little beyond the abstract.",
+      "issues": [
+        {
+          "label": "Effect size rounded down",
+          "severity": "Minor",
+          "as_written": "was associated with roughly three times higher odds of poorer cognitive scores even after adjusting for the full set of demographic and health covariates",
+          "abstract_says": "Near VI was associated with a 2.21-fold higher likelihood of poorer MMSE scores following initial adjustment (p=0.025), and this association remained significant after full adjustment (OR= 3.44, p=0.028).",
+          "problem": "The fully adjusted odds ratio is 3.44; \"roughly three times\" understates it slightly and omits the fact that the partially adjusted estimate was 2.21.",
+          "suggested_fix": "Say \"about 3.4 times higher odds after full adjustment (OR 3.44)\" or cite both the initial and fully adjusted estimates."
+        },
+        {
+          "label": "\"Uncorrected\" not stated in abstract",
+          "severity": "Minor",
+          "as_written": "yet they went uncorrected in the vast majority of this population",
+          "abstract_says": "The prevalence of distance VI and near VI was 27.53% and 91.99%, respectively... highlighting the potential role of correctable vision loss in cognitive health.",
+          "problem": "The abstract reports prevalence of near visual impairment and describes the vision loss as \"correctable,\" but does not state that the impairment was uncorrected (i.e. whether acuity was presenting or best-corrected).",
+          "suggested_fix": "Reword to \"near vision impairment was present in the vast majority of this population and is the type most often correctable,\" or note that the abstract does not specify correction status."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42645764",
+      "headline": "Each Added Health Risk Factor \u2014 Including Vision Loss \u2014 Chipped Away at Brain Health in 38,000 Older Adults",
+      "verdict": "accurate",
+      "notes": "N = 38,414, NACC database, the ten binary risk factors, the per-factor associations with cognition, clinical severity and MRI markers, and hippocampal atrophy showing the largest indirect pathway all match. Cross-sectional design and the correlational nature of the indirect-pathway analyses are correctly flagged.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "pmid": "42752539",
+      "headline": "After Eye Injections Clear Up This Form of Macular Disease, Half of Patients Relapse Within Two Years",
+      "verdict": "minor",
+      "notes": "Setting, N, age, and recurrence/vision-loss percentages match, but the body text attaches the 50% recurrence figure to the wrong denominator and overstates how firmly the OCT biomarkers predict relapse.",
+      "issues": [
+        {
+          "label": "Recurrence denominator conflated",
+          "severity": "Minor",
+          "as_written": "Of the 32 eyes whose abnormal vessels fully regressed by week 12 or 24, treatment was then given only as needed; half recurred within two years",
+          "abstract_says": "32 (40%) achieved regression at week 12 or 24. Of 26 eyes with regression, 13 (50%; 95% CI, 30%-70%) recurred within 2 years.",
+          "problem": "The 50% recurrence figure applies to the 26 eyes analysed for recurrence, not to all 32 eyes that achieved regression. The Caveats mention the 26\u201332 range, but the body text attributes the figure to the 32-eye group.",
+          "suggested_fix": "Write \"32 eyes achieved full regression; among the 26 analysed for recurrence, half (13) recurred within two years.\""
+        },
+        {
+          "label": "Biomarker prediction overstated",
+          "severity": "Minor",
+          "as_written": "Certain OCT scan features at baseline predicted who was more or less likely to relapse.",
+          "abstract_says": "Post hoc exploratory analyses... baseline massive subretinal hemorrhage had lower recurrence (HR, 0.18...; P = .01). In contrast, leakage without subretinal hemorrhage may have had a higher hazard of recurrence (HR, 2.65; 95% CI, 0.89-7.94; P = .07).",
+          "problem": "One of the two features (leakage without subretinal haemorrhage) was not statistically significant, and both came from post hoc exploratory analysis; \"predicted\" implies firmer evidence than the data support. The Caveats note the post hoc nature but the body text does not hedge.",
+          "suggested_fix": "Say \"exploratory post hoc analysis suggested certain baseline features may be associated with recurrence risk, one of them not statistically significant.\""
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "pmid": "42752554",
+      "headline": "A Routine Eye Scan Measurement May Flag Which Diabetic Eyes Will Get Worse Over Two Years",
+      "verdict": "accurate",
+      "notes": "190 eyes/121 patients, 25.3% progression, the composite progression definition, the independent association for outer (but not inner) retinal volume, the covariates adjusted for, and the senior author's consulting disclosures all match. Prognostic-not-therapeutic framing is appropriate.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42331364",
+      "headline": "Nearly 9 in 10 Breast Cancer Patients on Newer Targeted Drugs Developed Eye Surface Damage",
+      "verdict": "minor",
+      "notes": "All clinical figures (85.7%, 18/21, 28.0\u00b18.4 day onset, vortex keratopathy, nerve fibre loss, dose/time dependence, partial reversibility after 12 cycles) match. The only stretch is the implied older-adult relevance, which the abstract does not support with any age data.",
+      "issues": [
+        {
+          "label": "Age of study population not reported",
+          "severity": "Minor",
+          "as_written": "These drugs are increasingly used in older adults with breast cancer, and patients often are not told to expect eye symptoms",
+          "abstract_says": "21 HER2-positive breast cancer patients receiving HER2-ADC therapy were enrolled.",
+          "problem": "The abstract gives no participant ages, so the relevance of these findings specifically to older adults is unverifiable from the abstract alone; the claim about usage patterns in older adults comes from outside the study.",
+          "suggested_fix": "Note that the study did not report participant ages, and attribute the \"increasingly used in older adults\" context to background rather than to this study."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42371784",
+      "headline": "Childhood Hardship Can Echo Into Old-Age Memory \u2014 Sometimes Through Untreated Vision Loss",
+      "verdict": "accurate",
+      "notes": "N = 20,010 adults aged 40+, CHARLS plus the 2014 Life History Survey, USC affiliation, structural equation modelling of 11 ACEs, the direct associations for emotional abuse and community violence, the indirect pathways via education, depression and untreated vision loss, and the unexpected positive associations for emotional neglect and household violence all match. Caveats correctly limit the interpretation to statistical pathways.",
+      "issues": []
+    },
+    {
+      "number": 11,
+      "pmid": "42215273",
+      "headline": "A Chemotherapy Drug, Injected Into the Cornea, Shrinks Vision-Threatening Blood Vessels",
+      "verdict": "accurate",
+      "notes": "All key figures (39 procedures, 15% cannulation success, 70% MIST-only, 59%/71%/81% regression, median 12-month follow-up, 4 keratoplasties, 2 serious complications) match the abstract. Caveats correctly note the retrospective, single-center, uncontrolled design and the disagreement between assessment methods.",
+      "issues": [
+        {
+          "label": "Eyes vs. procedures",
+          "severity": "Minor",
+          "as_written": "Vessel regression was seen in 59% of eyes by objective image analysis",
+          "abstract_says": "39 procedures were performed... NV regression was demonstrated in 59% by ImageJ analysis, 71% by independent grading and 81% by surgeon-reported outcomes.",
+          "problem": "The abstract reports percentages without specifying whether the denominator is eyes, patients or procedures; the digest assigns them to \"eyes.\"",
+          "suggested_fix": "Say \"in 59% of cases by objective image analysis\" or note that the abstract does not specify the denominator."
+        },
+        {
+          "label": "Transplant rejection claim not in abstract",
+          "severity": "Minor",
+          "as_written": "Corneal neovascularization is stubbornly hard to treat and raises the risk that a corneal transplant will be rejected",
+          "abstract_says": "Corneal neovascularisation (NV) is a refractory condition associated with lipid deposition, scarring and vision loss... may have an important role in stabilising high-risk corneas prior to keratoplasty.",
+          "problem": "The rejection-risk statement is background context not stated in the abstract (the abstract only refers to \"high-risk corneas\"). Unverifiable from abstract only.",
+          "suggested_fix": "Attribute the rejection-risk point to general background rather than to this study, or reword as \"corneas the authors describe as high-risk for transplant.\""
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42521465",
+      "headline": "Women Carry a Heavier Burden of Blindness Worldwide \u2014 and the Gap Isn't Closing",
+      "verdict": "minor",
+      "notes": "Numbers (300.9 vs 262.8 per 100,000, +14.5%; cataract +26.7%; AMD +18%; glaucoma higher in males; largest female excess in South Asia; GII/GDI associations; Bayesian projection to 2040) all match. One interpretive leap about under-treatment goes slightly past the YLD data.",
+      "issues": [
+        {
+          "label": "Inference about untreated disease",
+          "severity": "Minor",
+          "as_written": "this analysis suggests older women are more likely to be living with untreated or under-treated eye disease",
+          "abstract_says": "females had higher YLD rates than males for blindness and vision loss (BVI) (300.9 vs 262.8 per 100 000; +14.5%), cataract (95.1 vs 75.0; +26.7%)... The strong association with GDI and GII indicates these disparities are modifiable and linked to structural factors.",
+          "problem": "Higher years-lived-with-disability rates can reflect higher prevalence, longer survival or treatment gaps; the abstract does not measure treatment coverage, so \"untreated or under-treated\" is an inference.",
+          "suggested_fix": "Reword to \"older women carry a larger share of the disability burden from cataract and AMD, which the authors link to structural gender inequality.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "41076606",
+      "headline": "Beyond the Needle: What's Coming Next for Macular Degeneration and Diabetic Eye Disease",
+      "verdict": "accurate",
+      "notes": "Accurately characterizes the article as a review with an embedded meta-analysis, correctly reports that the most frequent adverse events (endophthalmitis, retinal detachment) are injection-related with systemic risks such as stroke, and correctly lists gene therapy and TKIs by oral, implant, depot and suprachoroidal routes. Caveats appropriately flag the experimental status of the novel therapies.",
+      "issues": [
+        {
+          "label": "Injection interval figure not from abstract",
+          "severity": "Minor",
+          "as_written": "Millions of older adults endure eye injections every four to twelve weeks indefinitely",
+          "abstract_says": "The review describes anti-VEGF treatment and novel alternatives but gives no figures on patient numbers or dosing intervals.",
+          "problem": "The scale and dosing-interval figures are outside the abstract. Unverifiable from abstract only.",
+          "suggested_fix": "Frame as general background (\"anti-VEGF regimens typically require injections every one to three months\") rather than as a study finding."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "41535098",
+      "headline": "Swollen Eyelids in Older Men May Signal a Rare Inflammatory Disease \u2014 and Occasionally Threaten Sight",
+      "verdict": "minor",
+      "notes": "Case details (14 males, median age 73, range 49\u201378, 100% eyelid swelling/periorbital oedema, 71% eye pain, 57% dacryoadenitis, 50% orbital myositis, 14% severe unilateral vision loss, one death) are all correct. One story-angle statistic is overstated and the \"within days\" progression claim is not in the abstract.",
+      "issues": [
+        {
+          "label": "\"Most patients\" overstates 43%",
+          "severity": "Moderate",
+          "as_written": "note how fast this can move \u2014 most patients presented within two to seven days of symptoms starting",
+          "abstract_says": "Eye symptoms showed variable duration at presentation, most commonly 2-7 days (n=6, 43%).",
+          "problem": "2\u20137 days was the most common category, but it covered only 43% of patients \u2014 fewer than half, not \"most.\" The abstract also explicitly describes duration as variable.",
+          "suggested_fix": "Change to \"the most common symptom duration at presentation was 2\u20137 days (43% of patients), though duration varied.\""
+        },
+        {
+          "label": "Progression speed not reported",
+          "severity": "Minor",
+          "as_written": "in a minority of cases progressed to sight-threatening emergencies within days",
+          "abstract_says": "Severe vision loss occurred unilaterally in two patients (14%), due to orbital compartment syndrome and periorbital necrotising fasciitis.",
+          "problem": "The abstract reports symptom duration before presentation, not how quickly cases progressed to severe vision loss; the \"within days\" time course is not supported.",
+          "suggested_fix": "Drop \"within days\" or say \"in 14% of cases progressed to sight-threatening complications.\""
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "41521029",
+      "headline": "An Experimental Gel Injection Restored Vision in Eyes With Dangerously Low Pressure",
+      "verdict": "minor",
+      "notes": "Design, N=8, IOP <6.5 mm Hg for >3 months, 2\u20134 week dosing, 87.5% vision improvement with one stable eye, 87.5% IOP rise, 75% axial length increase and the two adverse-event types all match. Headline wording and one follow-up detail need tightening.",
+      "issues": [
+        {
+          "label": "\"Restored Vision\" in headline",
+          "severity": "Minor",
+          "as_written": "An Experimental Gel Injection Restored Vision in Eyes With Dangerously Low Pressure",
+          "abstract_says": "Best corrected visual acuity (BCVA) logarithm of the minimum angle of resolution (LogMAR) improved in 87.5% of eyes, with one eye remaining stable... The treatment improved vision and restored ocular anatomy.",
+          "problem": "The abstract reports improved acuity (e.g., 0.3\u20131.7 to 0.1\u20131.6 LogMAR) and restored anatomy, not restored vision; \"restored\" overstates the visual gains in an eight-eye pilot.",
+          "suggested_fix": "Change to \"Improved Vision in Eyes With Dangerously Low Pressure\" and keep the experimental framing."
+        },
+        {
+          "label": "Follow-up duration described as additional",
+          "severity": "Minor",
+          "as_written": "this protocol required injections every two to four weeks over months plus 12 months of follow-up",
+          "abstract_says": "They were followed up for 12 months after the first intravitreal injection.",
+          "problem": "The 12 months of follow-up runs from the first injection and includes the treatment period, rather than being 12 months on top of months of injections.",
+          "suggested_fix": "Reword to \"injections every two to four weeks, with follow-up for 12 months from the first injection.\""
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "41249002",
+      "headline": "When Two Eye Diseases Overlap, the Risk of Severe Vision Loss Nearly Doubles",
+      "verdict": "accurate",
+      "notes": "Cohort size (~0.5 million), 2004\u20132019 window, ~7.5 million person-years, data sources, and all hazard ratios (4.78 glaucoma, 8.27 DMPP, 3.23 DOC; 4.96 for one AROD, 9.54 for two, 12.59 for three with CI 2.32\u201368.44) match the abstract. Caveats correctly note administrative coding, imprecision of the three-disease estimate and limited generalizability.",
+      "issues": []
+    },
+    {
+      "number": 17,
+      "pmid": "42476825",
+      "headline": "Diabetes-Related Vision Loss Is Rising Worldwide \u2014 and Wealthier Countries Saw the Biggest Jump",
+      "verdict": "minor",
+      "notes": "GBD 2021 source, 1990\u20132021 window, 48.8 to 67.3 per 100,000, 45.8% relative rise in high SDI, modest type 1 decline and unfavorable type 2 period/cohort effects are all accurate. Two framing points go a little beyond the ecological data.",
+      "issues": [
+        {
+          "label": "\"Regions\" vs SDI groups",
+          "severity": "Minor",
+          "as_written": "prevalence rose steadily with advancing age across all regions",
+          "abstract_says": "Increasing ASPR with advancing age was consistent across SDI groups though less pronounced for type 1 than type 2 diabetes.",
+          "problem": "The abstract reports consistency across socio-demographic index groups, not geographic regions.",
+          "suggested_fix": "Change \"across all regions\" to \"across all development levels (SDI groups).\""
+        },
+        {
+          "label": "Why it matters contradicts own caveat",
+          "severity": "Minor",
+          "as_written": "meaning screening and blood sugar control are not keeping pace with the spread of the disease",
+          "abstract_says": "Substantially different trends were observed for ASPR, period and cohort effects in recent decades for type 1 versus type 2 diabetes across different SDI.",
+          "problem": "The analysis cannot attribute rising prevalence to screening or glycemic control failures, and the digest's own caveat says rising prevalence may partly reflect better detection and longer survival.",
+          "suggested_fix": "Soften to \"the burden of diabetes-related vision loss is still growing even in well-resourced systems, though the analysis cannot say why.\""
+        }
+      ]
+    }
+  ]
+}

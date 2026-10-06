@@ -1,0 +1,923 @@
+{
+  "coverage_checked": 12,
+  "coverage_cached": 8,
+  "coverage_skipped": 4,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "41345290": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42669283": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42533730": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42519959": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42832039": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42669382": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42814388": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42536289": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42799555": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42777277": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42821180": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42530030": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42783349": {
+      "state": "lightly_reported",
+      "outlets": [
+        "MedPage Today"
+      ],
+      "articles": [
+        {
+          "link": "https://www.medpagetoday.com/geriatrics/generalgeriatrics/123135",
+          "outlet": "MedPage Today",
+          "title": "Possible Drug-Drug Interactions Flagged for Older Americans"
+        }
+      ]
+    },
+    "42467355": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42628444": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42731364": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42594508": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42503320": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42701177": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42806170": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "41345290": {
+      "pubdate": "2026 Oct",
+      "journal": "GeroScience"
+    },
+    "42669283": {
+      "pubdate": "2026 Dec",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42533730": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42832039": {
+      "pubdate": "2026 Oct 5",
+      "journal": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA"
+    },
+    "42669382": {
+      "pubdate": "2026 Dec 15",
+      "journal": "Journal of affective disorders"
+    },
+    "42519959": {
+      "pubdate": "2026 Oct 1",
+      "journal": "Journal of hospice and palliative nursing : JHPN : the official journal of the Hospice and Palliative Nurses Association"
+    },
+    "42799555": {
+      "pubdate": "2026 Sep 26",
+      "journal": "Palliative medicine"
+    },
+    "42821180": {
+      "pubdate": "2026 Oct 1",
+      "journal": "European geriatric medicine"
+    },
+    "42536289": {
+      "pubdate": "2026 Oct",
+      "journal": "International journal of clinical pharmacy"
+    },
+    "42777277": {
+      "pubdate": "2026 Sep 23",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    },
+    "42814388": {
+      "pubdate": "2026 Sep 30",
+      "journal": "Drugs & aging"
+    },
+    "42628444": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of the American Medical Directors Association"
+    },
+    "42467355": {
+      "pubdate": "2026 Oct",
+      "journal": "International journal of clinical pharmacy"
+    },
+    "42530030": {
+      "pubdate": "2026 Sep",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42783349": {
+      "pubdate": "2026 Sep 24",
+      "journal": "JAMA"
+    },
+    "42731364": {
+      "pubdate": "2026 Sep 12",
+      "journal": "Journal of geriatric oncology"
+    },
+    "42503320": {
+      "pubdate": "2026 Dec 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42594508": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of the American Medical Directors Association"
+    },
+    "42701177": {
+      "pubdate": "2026 Sep 5",
+      "journal": "BMC geriatrics"
+    },
+    "42313336": {
+      "pubdate": "2026 Oct",
+      "journal": "International journal of clinical pharmacy"
+    },
+    "42645013": {
+      "pubdate": "2026 Aug 18",
+      "journal": "Geriatrics (Basel, Switzerland)"
+    },
+    "42806170": {
+      "pubdate": "2026 Sep 28",
+      "journal": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA"
+    },
+    "42126766": {
+      "pubdate": "2026 Oct",
+      "journal": "International journal of clinical pharmacy"
+    },
+    "42627454": {
+      "pubdate": "2026 Sep",
+      "journal": "Drugs & aging"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Frail patients with atrial fibrillation are less likely to get stroke-preventing blood thinners \u2014 and the gap is widest in Asia",
+      "journal": "Geroscience",
+      "published": "2026 Oct;48(5):6871-6885",
+      "pmid": "41345290",
+      "doi": "10.1007/s11357-025-02026-5",
+      "the_study": "Researchers compared two large prospective registries of patients with atrial fibrillation \u2014 one European (EORP AF Long-Term Registry), one Asian (APHRS AF registry) \u2014 measuring multimorbidity, polypharmacy (number of medicines at baseline) and frailty using a 40-item frailty index. European patients carried more multimorbidity, frailty and polypharmacy, but Asian patients with those features were markedly less likely to be prescribed oral anticoagulants, especially if frail (odds ratio 0.34 vs 0.47 in Europe). All three domains predicted higher risk of death and major cardiovascular events, and that excess risk was greater in Asian patients.",
+      "why_it_matters": "Frailty and a long medication list appear to make doctors hesitant to prescribe the anticoagulants that prevent AF-related strokes \u2014 yet those same patients are at the highest risk of bad outcomes.",
+      "story_angle_primary": "If you have atrial fibrillation and are taking many medicines or have been described as frail, it is worth asking your doctor whether you are on a stroke-prevention anticoagulant and, if not, what specifically is driving that decision \u2014 frailty alone is not an automatic reason to withhold it.",
+      "story_angle_secondary": "For care teams and family advocates: frailty assessments can inadvertently become a reason to under-treat. When reviewing a resident's medication list, check whether anticoagulation was ever started, stopped, or quietly never initiated, and whether that decision was documented and revisited.",
+      "caveats": "Observational registry data \u2014 cannot establish causation; prescribing patterns reflect era and regional practice and may not generalize to current US care; several authors report consultancy and speaker fees from anticoagulant manufacturers (BMS/Pfizer, Boehringer Ingelheim, Daiichi-Sankyo, Bayer, Anthos) and EU Horizon program funding."
+    },
+    {
+      "headline": "Four years of tracking older adults shows frailty rarely reverses \u2014 and certain drug classes track with decline",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Dec;151:106388",
+      "pmid": "42669283",
+      "doi": "10.1016/j.archger.2026.106388",
+      "the_study": "Researchers followed 973 community-dwelling Mexican adults aged 60 and older for four years, measuring frailty phenotype annually and modeling transitions between states. They identified four distinct frailty trajectories; movement between states was asymmetric, with improvement the least likely annual outcome. Greater age, female sex, multimorbidity and use of antihypertensive, psycholeptic/psychoanaleptic (sedative and antidepressant-type), antiparkinsonian or antivertiginous drugs were each associated with a higher probability of moving toward more severe frailty, while more education and having a partner were protective.",
+      "why_it_matters": "The window to act is at the prefrailty stage, and the drug classes flagged here are extremely common in older adults \u2014 making an honest medication review part of frailty prevention rather than an afterthought.",
+      "story_angle_primary": "If you have been told you are \"a bit slower\" or prefrail, treat that as your window: ask for a full medication review focused on sedatives, antidepressants, blood pressure drugs and dizziness medicines, and ask whether any are still earning their place \u2014 while also pushing on exercise and nutrition.",
+      "story_angle_secondary": "For families and senior living staff: frailty trajectories in this cohort mostly went one way. Annual, structured reviews of psychoactive and blood-pressure medicines \u2014 paired with attention to social connection and partnership, which were protective \u2014 belong in routine care planning rather than waiting for a fall.",
+      "caveats": "Observational secondary analysis \u2014 the drug associations may reflect the underlying conditions being treated (confounding by indication) rather than harm from the drugs themselves; single Mexican cohort of social-security beneficiaries, so may not generalize; no intervention tested."
+    },
+    {
+      "headline": "Why stopping unnecessary medicines near the end of life is so hard \u2014 and what actually makes it work",
+      "journal": "Palliat Med",
+      "published": "2026 Oct;40(9):1270-1288",
+      "pmid": "42533730",
+      "doi": "10.1177/02692163261465769",
+      "the_study": "A qualitative systematic review synthesized 23 studies on deprescribing for community-dwelling adults with palliative care needs, drawing on the views of patients, caregivers and primary care practitioners. Four themes emerged: people's initial stance toward stopping medicines (shaped by values and beliefs about prescribing), the quality of the deprescribing conversation itself (individualized deliberation, shared decision-making, tailored communication), organizational factors such as interprofessional collaboration and systematic work processes, and broader system-level prerequisites.",
+      "why_it_matters": "Potentially inappropriate medicines persist at the end of life largely because the conversation never happens \u2014 not because patients refuse; knowing what makes that conversation go well gives families and clinicians a concrete script.",
+      "story_angle_primary": "If you or someone you love is in the last phase of a serious illness, you can start the conversation yourself: ask your GP or pharmacist which of your medicines are meant to prevent problems years from now versus which help you feel better today, and whether the preventive ones are still worth the pills and side effects.",
+      "story_angle_secondary": "For caregivers and care-home teams: this review suggests deprescribing succeeds when it is built into routine work processes and shared across the team \u2014 a scheduled medication review with the pharmacist, GP and nurse present beats hoping someone raises it at a crisis visit. Reassure families that stopping a drug is not \"giving up.\"",
+      "caveats": "Qualitative evidence synthesis, not a trial \u2014 describes influences on practice, not outcomes; three review authors co-authored papers included in the review; findings are drawn largely from European and other high-income primary care systems."
+    },
+    {
+      "headline": "Hospice nurses are often the ones who spot the pills that no longer help",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1;28(5):E210-E216",
+      "pmid": "42519959",
+      "doi": "10.1097/NJH.0000000000001254",
+      "the_study": "A rapid review screened 494 records and included 37 studies published from 2020 through 2025 on deprescribing in adults with serious illness, covering medication burden, deprescribing patterns, tools such as STOPPFrail and OncPal, and the nursing role. The evidence indicates that long-term preventive drugs near the end of life \u2014 statins, antihypertensives, diabetes medicines, antithrombotics and vitamins \u2014 offer limited short-term benefit while adding side effects and treatment burden, yet deprescribing remains inconsistent and usually reactive rather than planned.",
+      "why_it_matters": "It identifies the specific medication categories most likely to be safely reducible in late-stage illness and positions nurses \u2014 often the clinician families see most \u2014 as the practical starting point for that conversation.",
+      "story_angle_primary": "If you are on hospice or palliative care, ask directly about statins, blood pressure pills, diabetes drugs and vitamins: these are the classes most often found to add burden without adding comfort at this stage. Nothing should be stopped without your care team's involvement, but you are entitled to ask why each one is still there.",
+      "story_angle_secondary": "For hospice and senior living nurses: structured tools like STOPPFrail and OncPal exist and are underused. Building medication reconciliation and post-withdrawal monitoring into admission and regular review \u2014 rather than reacting to a swallowing problem or an adverse event \u2014 is where this review says the gains are.",
+      "caveats": "Rapid review rather than a full systematic review or meta-analysis; included studies are heterogeneous (qualitative, observational, framework evaluations) with no pooled effect estimates; no new patient-level outcome data."
+    },
+    {
+      "headline": "Pelvic fractures after 50 look a lot like hip fractures \u2014 and may deserve the same seriousness",
+      "journal": "Osteoporos Int",
+      "published": "2026 Oct 5 (online ahead of print)",
+      "pmid": "42832039",
+      "doi": "10.1007/s00198-026-08221-0",
+      "the_study": "Using national Dutch claims and population data, researchers analyzed all 7,120 people aged 50 and older diagnosed with a pelvic (n=6,091) or acetabular (n=1,029) fracture in 2019. Pelvic fracture patients were older (mean 77 vs 74), overwhelmingly female (79% vs 36%), and had higher pre-injury rates of osteoporosis, connective tissue disease and polypharmacy, while acetabular fractures led to more hospital admission, surgery and complication-related readmission. Despite those differences, one-year mortality was similar and high in both groups (15% vs 17%), as were rates of new major fractures.",
+      "why_it_matters": "A pelvic fracture is often treated as a minor, non-surgical injury, yet one in six of these patients died within a year \u2014 a profile comparable to hip fracture and a signal that bone health and medication review should follow.",
+      "story_angle_primary": "If you break your pelvis \u2014 even if you are told it will heal without surgery and you are sent home \u2014 ask for an osteoporosis evaluation, a fall-risk check and a review of medicines that can cause dizziness or unsteadiness. This is not a trivial injury, and it predicts further fractures.",
+      "story_angle_secondary": "For families and senior living professionals: a resident with a \"conservatively managed\" pelvic fracture warrants the same post-fracture pathway you would trigger after a hip fracture \u2014 bone density assessment, polypharmacy review, and intensified fall prevention \u2014 not just pain control and time.",
+      "caveats": "Retrospective administrative claims analysis \u2014 observational, cannot establish causation, and relies on coding accuracy; single national health system (Netherlands) with care patterns that may not match other countries; no data on functional recovery or pre-fracture frailty measures beyond diagnoses."
+    },
+    {
+      "headline": "Botox for depression: pooled trial data hint at a drug-free alternative for people already on many medicines",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 15;415:122443",
+      "pmid": "42669382",
+      "doi": "10.1016/j.jad.2026.122443",
+      "the_study": "A systematic review and meta-analysis pooled 8 randomized controlled trials with 636 participants comparing facial botulinum toxin A injections against placebo or the antidepressant sertraline. BoNT/A was associated with a significant reduction in depressive symptoms versus controls (SMD \u22120.81), was superior to placebo (SMD \u22121.04), and performed comparably to sertraline (SMD \u22120.23). Standard glabellar (frown-line) injection protocols worked; high-dose pan-facial protocols did not separate from controls. Overall adverse event rates matched controls, with only transient local reactions and none of the systemic side effects seen with oral antidepressants.",
+      "why_it_matters": "For people whose medication lists are already long, a treatment that does not add another daily systemic drug \u2014 and does not interact with existing ones \u2014 is a meaningful option to know about and discuss.",
+      "story_angle_primary": "If depression is part of your picture and you are already juggling many pills or have had bad reactions to antidepressants, this is a reasonable question to raise with your doctor \u2014 while recognizing that the evidence base is still small and not specific to older adults, and that nothing here means stopping a medication that is working.",
+      "story_angle_secondary": "For clinicians and care teams managing polypharmacy: this adds a non-systemic candidate to the conversation about treatment burden in depression, but access, cost, insurance coverage and the limited elder-specific data make it a discussion point rather than a care-plan change.",
+      "caveats": "Meta-analysis of only 8 trials totaling 636 participants; trial populations were not older adults specifically, so generalizability to seniors is unproven; blinding is inherently difficult with an injection that visibly changes facial expression; short follow-up in most trials; outcomes based on depression rating scales."
+    },
+    {
+      "headline": "More Than Half of Older Adults on Acid-Reflux Pills Stay on Them Long Term, Finnish Data Show",
+      "journal": "Drugs Aging",
+      "published": "2026 Sep 30",
+      "pmid": "42814388",
+      "doi": "10.1007/s40266-026-01335-4",
+      "the_study": "Researchers at Finland's Social Insurance Institution analyzed nationwide prescription records from 2017 to 2024, comparing proton pump inhibitor (PPI) use in adults aged 65 and older with use in adults aged 18-64. The number of PPI users rose 12% and dispensations rose 37% over the period, with the steepest climb among older adults. By 2024, nearly half of all PPI users were 65 or older, and 56.3% of them were long-term users (at least three dispensations a year) versus 34.1% of working-age adults. Among older PPI users, 47% were also taking more than ten other prescription medicines and 39% were on anticoagulants.",
+      "why_it_matters": "PPIs are often started for a short, specific reason and then quietly continued for years, adding to an already heavy medication load and to potential long-term risks in people who may no longer need them.",
+      "story_angle_primary": "If you have been taking omeprazole, pantoprazole or a similar acid-reducing pill for months or years, it is worth asking your prescriber at your next visit why you are still on it, whether the original reason still applies, and whether a planned taper or on-demand use would be reasonable for you. Do not stop on your own, since some people need these drugs long term and abrupt stopping can cause rebound symptoms.",
+      "story_angle_secondary": "For family caregivers and senior living staff, PPIs are a prime candidate for inclusion in routine medication-review checklists: flag any resident who has been on one continuously for more than a year and ask the prescriber to document the ongoing indication, particularly when the resident is also on ten-plus other medicines or an anticoagulant.",
+      "caveats": "Observational register study of dispensing data, so it cannot establish whether long-term use caused harm; data reflect dispensed prescriptions rather than confirmed use or clinical indication; Finnish population and prescribing patterns may not generalize elsewhere; study conducted by the national insurance institution that administers the reimbursement data."
+    },
+    {
+      "headline": "Counting Only Pills Undercounts Your Medications: Creams, Patches and Eye Drops Add Up",
+      "journal": "Int J Clin Pharm",
+      "published": "2026 Oct",
+      "pmid": "42536289",
+      "doi": "10.1007/s11096-026-02194-0",
+      "the_study": "Australian researchers used linked medication dispensing records for adults over 65 in Western Australia from 2012/13 to 2018/19, comparing the conventional way of measuring polypharmacy (oral tablets and capsules only) with a broader count that also included creams, ointments, patches, and eye and ear drops. Adding non-oral products raised the measured medicine burden in both community-dwelling older adults and residential aged care residents, with a larger relative increase in aged care. The share of people in the five-or-more-medicines category rose by about 3 to 4 percentage points, and dry-eye treatments emerged as the seventh most common medicine class in aged care, while opioids split into separate oral and patch rankings.",
+      "why_it_matters": "The true complexity of an older person's medication regimen, including the daily work of applying patches, creams and drops, is routinely invisible in the records clinicians and researchers rely on to spot risky polypharmacy.",
+      "story_angle_primary": "When you bring a medication list to an appointment, include everything that is not a pill: pain patches, hormone or nitrate patches, steroid creams, eye drops, ear drops and inhalers. These count toward your total drug exposure and toward how much daily medication management you are juggling, and leaving them off can make your regimen look simpler and safer than it is.",
+      "story_angle_secondary": "For senior living and aged care operators, this is an argument for brown-bag reviews and medication administration records that capture topical and transdermal products explicitly, and for recognizing the staff time and error risk attached to drops, creams and patches that never appear in standard polypharmacy counts.",
+      "caveats": "Observational analysis of administrative dispensing data, which cannot confirm that medicines were actually used; single Australian state; data end in 2018/19; does not measure clinical outcomes such as adverse events or hospitalization."
+    },
+    {
+      "headline": "Tools to Safely Cut Back Medicines Near the End of Life Show Promise, but the Evidence Is Still Thin",
+      "journal": "Palliat Med",
+      "published": "2026 Sep 26",
+      "pmid": "42799555",
+      "doi": "10.1177/02692163261483456",
+      "the_study": "Australian researchers screened 4,108 papers and reviewed 34 studies covering 18 different deprescribing tools designed for adults approaching the end of life. Eight studies showed the tools reduced the number of medicines taken, and there was some supportive evidence for lower mortality, fewer acute care referrals and lower medication costs. However, most comparisons against usual care were not statistically significant, definitions of \"end of life\" varied widely between studies, and risk of bias was rated moderate to high throughout.",
+      "why_it_matters": "For people in their last months of life, continuing preventive drugs such as statins or bone medicines offers little benefit while adding side effects, cost and pill burden, and this review maps which structured tools clinicians can use to have that conversation.",
+      "story_angle_primary": "If you or someone you love is living with advanced illness, it is reasonable to ask the treating team to run a structured medication review and to ask of each drug: what is this doing for me now, and how long would it take to help? Stopping preventive medicines that no longer serve your goals is a legitimate part of good care, not giving up.",
+      "story_angle_secondary": "Hospice, palliative care and senior living clinicians should note that validated, standardized deprescribing tools exist but that no single instrument has strong outcome evidence behind it; pick one that fits your setting, document the rationale, and expect to defend decisions on clinical judgment rather than trial data.",
+      "caveats": "Systematic review without meta-analysis; included studies had moderate to high risk of bias; inconsistent definitions of end of life limit comparability; most clinical outcome comparisons were non-significant."
+    },
+    {
+      "headline": "In Hospitalized Seniors, Combined Memory and Mobility Problems Multiply the Risk of Falls, Pressure Injuries and Other Complications",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Sep 23",
+      "pmid": "42777277",
+      "doi": "10.1016/j.gerinurse.2026.104364",
+      "the_study": "Researchers at a tertiary hospital in Wuhan, China, assessed 459 inpatients aged 60 and older for intrinsic capacity (cognition, mobility, vitality, sensory function and psychological health) and for five nursing risks: falls, pressure injuries, aspiration, deep vein thrombosis and unplanned tube removal. Nearly three-quarters (73.2%) had at least one of these risks. Overall intrinsic capacity impairment was strongly associated with both having a risk at all and having multiple stacked risks, and patients with both cognitive and mobility impairment had by far the highest odds of escalating risk. The authors also pointed to pain and polypharmacy as modifiable contributors.",
+      "why_it_matters": "It identifies a simple, high-yield combination \u2014 trouble thinking clearly plus trouble walking \u2014 that should trigger intensified safety precautions the moment an older person is admitted to the hospital.",
+      "story_angle_primary": "If you are admitted to the hospital and you already have memory changes along with unsteady walking, ask the nursing team what specific precautions are in place for falls, skin breakdown, swallowing and blood clots, and ask whether your pain control and your medication list have been reviewed for drugs that make confusion or unsteadiness worse.",
+      "story_angle_secondary": "For nursing leadership and senior living staff accompanying residents through hospitalizations, the practical takeaway is to screen for intrinsic capacity domains on admission rather than relying on single-risk checklists, and to treat co-occurring cognitive plus mobility impairment as a flag for bundled, not piecemeal, prevention.",
+      "caveats": "Cross-sectional design cannot establish causation or direction of effect; single center with convenience sampling; Chinese tertiary hospital inpatients may not generalize to other systems; very wide confidence intervals on the main odds ratios suggest unstable estimates."
+    },
+    {
+      "headline": "Facing Surgery in Your 80s or 90s? What the Evidence Says Should Happen Before, During and After",
+      "journal": "Eur Geriatr Med",
+      "published": "2026 Oct 1",
+      "pmid": "42821180",
+      "doi": "10.1007/s41999-026-01617-5",
+      "the_study": "Polish intensive care and geriatrics specialists reviewed the available evidence on perioperative care for very old surgical patients. They concluded that preoperative assessment should go beyond heart and lung risk to screen for frailty, sarcopenia, malnutrition and cognitive decline, with positive findings triggering interdisciplinary intervention. They emphasized caution with medications because of frequent polypharmacy and altered drug handling in older bodies, structured prevention and management of postoperative delirium, and coordinated rehabilitation and post-discharge care to counter functional decline.",
+      "why_it_matters": "Surgery is a common turning point where an independent older adult can lose function permanently, and the review lays out which assessments and precautions families can reasonably expect to be in place.",
+      "story_angle_primary": "Before a planned operation, ask your surgical team whether you will have a frailty, nutrition and memory assessment, whether your full medication list (including sedatives and anticholinergics) will be reviewed for the perioperative period, what the delirium prevention plan is, and what rehabilitation is arranged for after discharge.",
+      "story_angle_secondary": "Senior living and care-coordination staff can use these domains as a pre-admission checklist and should plan early for the post-discharge window, when functional decline and medication changes most often go unmanaged after an older resident returns from surgery.",
+      "caveats": "Non-systematic narrative review rather than new data; no formal quality appraisal or quantitative synthesis; some recommendations extrapolated from broader older populations rather than the very old specifically."
+    },
+    {
+      "headline": "Sedating and Anticholinergic Drug Loads Rarely Change in the Hospital \u2014 and That Shapes Where Patients Go Next",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Sep",
+      "pmid": "42530030",
+      "doi": "10.1111/jgs.70549",
+      "the_study": "Researchers at three academic health system hospitals used electronic health records to automatically calculate the Drug Burden Index \u2014 a measure of cumulative exposure to sedating and anticholinergic medications \u2014 for 3,450 patients aged 65 and older who were prescribed central nervous system\u2013active drugs around a hospital stay (2018\u20132020). In 80% of patients, the drug burden did not change at all during hospitalization. Any change in burden, up or down, was linked to much lower odds of being discharged home, and higher burden at admission or discharge was linked to more outpatient visits in the next 90 days; no link was found with 30-day readmission.",
+      "why_it_matters": "A hospital stay is one of the few moments when someone reviews a whole medication list at once, yet for four out of five older patients on brain-active drugs, the sedative and anticholinergic load left the hospital exactly as it arrived.",
+      "story_angle_primary": "If you take sleep aids, strong painkillers, antidepressants, bladder medications, or antihistamines, a hospital admission is a reasonable time to ask the team: has anyone reviewed my full medication list for sedating or anticholinergic effects, and did anything change? Ask for the reasoning behind any new drug added during the stay and when it should be reassessed.",
+      "story_angle_secondary": "For discharge planners and senior living staff, this suggests flagging patients whose brain-active drug burden shifted during hospitalization \u2014 in either direction \u2014 as a group needing more intensive post-discharge follow-up, since they are far less likely to go straight home and tend to need more clinic visits.",
+      "caveats": "Retrospective observational study of health records \u2014 cannot establish causation; limited to three academic hospitals and to patients already on CNS-active medications, so findings may not generalize; drug burden was derived from prescribing records rather than confirmed intake."
+    },
+    {
+      "headline": "National Snapshot: How Much Older Americans Mix Prescriptions, Over-the-Counter Drugs and Supplements",
+      "journal": "JAMA",
+      "published": "2026 Sep 24",
+      "pmid": "42783349",
+      "doi": "10.1001/jama.2026.17268",
+      "the_study": "Using a nationally representative US sample, researchers compared medication use among older adults between 2015\u20132016 and 2021\u20132023, counting not only prescription drugs but also over-the-counter products and dietary supplements. The analysis tracked concurrent use of multiple products and the frequency of combinations flagged as potentially major drug-drug interactions.",
+      "why_it_matters": "Pill counts that ignore drugstore products and supplements understate real exposure, and some of the riskiest combinations in older adults involve something that was never prescribed by a doctor.",
+      "story_angle_primary": "Bring everything \u2014 prescriptions, aspirin, heartburn pills, fish oil, herbal and vitamin supplements \u2014 to your next appointment or to a pharmacist for a 'brown bag' review, and specifically ask whether any two items on your list interact. Do not stop a prescribed medication on your own.",
+      "story_angle_secondary": "Families and senior living staff often track prescriptions carefully while bedside-drawer supplements and OTC purchases go unrecorded; building those into the medication list is a concrete, low-cost safety step.",
+      "caveats": "Only a plain-language summary was available in the abstract record, so effect sizes and specific interaction rates are not reported here; cross-sectional survey design cannot establish causation; medication use in national surveys relies in part on respondent report. Authors report consulting and grant funding including NIH, Arnold Ventures, and the National Community Pharmacists Association."
+    },
+    {
+      "headline": "Pharmacist Medication Reviews for Patients on Five-Plus Drugs Paid for Themselves \u2014 About \u20ac181 Per Patient",
+      "journal": "Int J Clin Pharm",
+      "published": "2026 Oct",
+      "pmid": "42467355",
+      "doi": "10.1007/s11096-026-02190-4",
+      "the_study": "Over 19 months at a Dutch academic hospital, junior pharmacists supervised by clinical pharmacists performed 271 medication reviews for patients taking five or more medications who had at least one additional risk factor, producing 1,689 recommendations. A cost model found the reviews cost about \u20ac104 per patient but generated roughly \u20ac46 in medication savings and \u20ac239 in avoided medication-related readmissions, for a net \u20ac181 per patient \u2014 around \u20ac688,000 if scaled across the hospital. No patient characteristic \u2014 age, kidney function, medication count, or ward \u2014 predicted who would yield the most savings.",
+      "why_it_matters": "It supports offering structured medication reviews broadly to anyone on multiple drugs rather than rationing them to the patients who look highest-risk on paper, since the analysis could not identify a subgroup where the reviews paid off more.",
+      "story_angle_primary": "If you take five or more medications, ask whether a pharmacist \u2014 not only your physician \u2014 can conduct a formal medication review during a hospital stay or at your pharmacy, and ask for the written list of recommendations so you can discuss them with your regular doctor.",
+      "story_angle_secondary": "For administrators and care organizations, this is an economic argument for staffing pharmacist review programs, including supervised junior pharmacists, rather than treating them as a discretionary extra.",
+      "caveats": "Modeled cost analysis, not a trial measuring actual readmissions avoided; relatively small sample (271 reviews); single-center in the Netherlands, so costs and savings may not translate to other health systems; savings depended on an assumed rate of preventable medication-related admissions."
+    },
+    {
+      "headline": "Fear of Falling Runs Deepest in Older Adults With More Falls, More Hospital Visits and Longer Medication Lists",
+      "journal": "J Am Med Dir Assoc",
+      "published": "2026 Oct",
+      "pmid": "42628444",
+      "doi": "10.1016/j.jamda.2026.106418",
+      "the_study": "Researchers assessed 391 adults aged 65 and older (average age 78.6; 60% women) attending a geriatric clinic in northeastern Mexico who had fallen within the past two years, measuring concern about falling with a validated Spanish-language scale. Severe concern was independently associated with more frequent falls, hospitalizations, emergency visits, a higher medication count, and female sex; moderate concern was linked to falls, hospitalizations, diabetes, gait disorders, and frailty.",
+      "why_it_matters": "Fear of falling is not just an emotional state \u2014 it clusters with frailty, polypharmacy, and heavy health care use, and it drives people to restrict activity in ways that make future falls more likely.",
+      "story_angle_primary": "If worry about falling has started shaping what you do \u2014 skipping errands, avoiding stairs, going out less \u2014 say so at your next visit, and ask for a fall-risk assessment that includes a review of your medication list alongside gait and balance testing.",
+      "story_angle_secondary": "For families and senior living staff, a resident's expressed fear of falling is a useful screening signal worth documenting; it may flag someone who also warrants a medication review, gait assessment, and a structured activity plan before the next fall happens.",
+      "caveats": "Cross-sectional observational design \u2014 cannot determine whether medication burden or health care use causes fear of falling or the reverse; single semiprivate tertiary clinic in one region of Mexico, so results may not generalize; some data drawn from caregiver reports."
+    },
+    {
+      "headline": "Pharmacist-led medication reviews cut risky prescriptions in half for older cancer patients",
+      "journal": "J Geriatr Oncol",
+      "published": "2026 Sep 12",
+      "pmid": "42731364",
+      "doi": "10.1016/j.jgo.2026.104120",
+      "the_study": "Researchers pooled eight studies involving 1,018 adults aged 65 and older who had cancer and were taking medications flagged as potentially inappropriate. Every program involved a clinical pharmacist, usually working within a multidisciplinary team, reviewing medication lists and recommending stopping or tapering drugs. Across four studies reporting rates, 62.5% to 73% of flagged medications were successfully deprescribed, and a meta-analysis of three studies found the share of patients taking at least one inappropriate medication dropped by roughly half (pooled relative risk 0.49).",
+      "why_it_matters": "Older adults in cancer treatment often accumulate medications from multiple prescribers, raising the risk of interactions with chemotherapy and other side effects \u2014 and this review shows a structured pharmacist review can safely trim that list.",
+      "story_angle_primary": "If you or a loved one is being treated for cancer, you can ask whether a clinical pharmacist has reviewed your full medication list \u2014 including over-the-counter products and supplements \u2014 alongside your oncology plan, and whether any long-standing drugs are still earning their place.",
+      "story_angle_secondary": "For oncology and senior living teams: the evidence supports embedding a pharmacist in the geriatric oncology workflow, but the review also exposes how rarely anyone measures whether deprescribing actually improves falls, hospitalizations or quality of life \u2014 a gap worth tracking locally.",
+      "caveats": "Systematic review of mostly small, uncontrolled before-and-after service evaluations (range 26\u2013392 participants) with serious risk of bias; only three studies contributed to the meta-analysis (n=189); patient-centered outcomes such as symptoms, function and survival were reported only narratively."
+    },
+    {
+      "headline": "One in five prescriptions for older Chinese outpatients contained a potentially risky medication \u2014 and polypharmacy was the biggest red flag",
+      "journal": "J Am Med Dir Assoc",
+      "published": "2026 Oct",
+      "pmid": "42594508",
+      "doi": "10.1016/j.jamda.2026.106423",
+      "the_study": "Researchers analyzed 130,243 geriatric outpatient prescriptions from 59 hospitals across six Chinese cities for patients aged 65 and older (median age 76). Depending on which of eight screening tools was applied, between 13.3% and 36.5% of prescriptions included a potentially inappropriate medication, with psychiatric drugs and NSAIDs the leading culprits. Taking five or more medications was the strongest predictor of exposure (adjusted odds ratio 3.40\u20135.58), followed by psychiatric comorbidity and advanced age.",
+      "why_it_matters": "It quantifies, at a national scale, how quickly the risk of an inappropriate prescription climbs once a medication list passes five drugs \u2014 and pinpoints sedatives, antidepressants and anti-inflammatories as the usual suspects.",
+      "story_angle_primary": "Count your medications. If you're at five or more \u2014 especially if any are sleeping pills, anxiety or depression medications, or regular anti-inflammatory painkillers \u2014 that's a reasonable prompt to request a full medication review at your next appointment rather than a reason to stop anything on your own.",
+      "story_angle_secondary": "For care teams and family caregivers: the study found that different screening criteria flag very different drugs, so a medication reviewed as 'fine' under one tool may be flagged under another \u2014 worth asking which criteria your clinician or pharmacy uses.",
+      "caveats": "Cross-sectional prescription-data analysis \u2014 it identifies potentially inappropriate prescribing, not actual harm, and cannot establish causation; conducted in Chinese tertiary and secondary hospital geriatric clinics, so prescribing patterns may not generalize to other health systems; no clinical outcomes measured."
+    },
+    {
+      "headline": "Older hospital patients with depression get more sedatives and antipsychotics than younger ones, 16-year survey finds",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1",
+      "pmid": "42503320",
+      "doi": "10.1016/j.jad.2026.122322",
+      "the_study": "Using a long-running drug surveillance program covering psychiatric hospitals in Germany and Austria from 2007 to 2023, researchers compared prescribing for 25,881 inpatients with major depressive disorder, of whom 5,297 were over 64. Older patients were far more likely to have psychotic depression (16.9% vs. 9.1%) and to be on multiple psychotropic drugs at once. They received antipsychotics more often (57.4% vs. 45.9%) along with more tranquilizers and sleeping medications, while SSRIs and tricyclics were more common in younger patients.",
+      "why_it_matters": "Antipsychotics, tranquilizers and hypnotics carry heightened risks of falls, confusion and sedation in later life, so knowing that these are disproportionately used in hospitalized older adults with depression gives patients and families a concrete reason to ask about the plan for tapering them.",
+      "story_angle_primary": "If you're hospitalized for depression, ask directly what each psychiatric medication is for, how long it's meant to continue, and specifically whether any sedative or antipsychotic is intended as a short-term measure \u2014 and make sure that plan follows you home to your regular doctor.",
+      "story_angle_secondary": "For families and senior living staff receiving a resident back from a psychiatric admission: the discharge medication list may include drugs started for acute agitation or sleep that were never meant to be permanent. Flagging these for review at the first follow-up visit is a practical safeguard.",
+      "caveats": "Observational cross-sectional surveys of prescribing patterns \u2014 no outcome data on effectiveness or harm, and no causal conclusions possible; limited to inpatient psychiatric settings in Germany and Austria; the AMSP program has long received unrestricted educational and research grants from numerous pharmaceutical companies, and several authors report industry honoraria and advisory roles."
+    },
+    {
+      "headline": "Polypharmacy raises the odds of being admitted when older adults land in the emergency department",
+      "journal": "BMC Geriatr",
+      "published": "2026 Sep 5",
+      "pmid": "42701177",
+      "doi": "10.1186/s12877-026-08158-3",
+      "the_study": "This analysis of the EGERS study tracked 2,794 patients aged 65 and older (mean age 77.4) with a single non-traumatic complaint across 36 emergency departments in nine European countries during a seven-week window in late 2020. Shortness of breath, abdominal pain, chest pain, weakness/fatigue, and extremity pain accounted for 59% of visits. Being 85 or older, having geriatric risk factors (dementia, home help, prior falls), taking multiple medications, and presenting with shortness of breath all increased the odds of hospital admission; shortness of breath also doubled the odds of in-hospital death.",
+      "why_it_matters": "It confirms that the complaint an older person walks in with tells emergency staff little about how sick they are \u2014 and that a long medication list is itself a marker of needing closer scrutiny.",
+      "story_angle_primary": "Keep an up-to-date medication list (including doses and over-the-counter items) somewhere you can hand over at the emergency department \u2014 along with notes on recent falls and any memory problems \u2014 because those details, more than your presenting symptom, shape how carefully you'll be assessed.",
+      "story_angle_secondary": "For senior living operators and family caregivers: a vague complaint like 'weakness and fatigue' in a resident with polypharmacy deserves the same urgency as a dramatic one. The authors argue for geriatric-specific emergency care pathways and staff training rather than triage by symptom alone.",
+      "caveats": "Observational cross-sectional secondary analysis \u2014 cannot establish causation; data were collected during the Covid-19 pandemic, which likely altered who came to emergency departments and who was admitted; patients with more than one documented chief complaint were excluded; European emergency systems may not generalize elsewhere."
+    },
+    {
+      "headline": "Hospitals are testing ways to catch bad prescriptions at the front door \u2014 but almost no one is measuring whether patients do better",
+      "journal": "Int J Clin Pharm",
+      "published": "2026 Oct",
+      "pmid": "42313336",
+      "doi": "10.1007/s11096-026-02170-8",
+      "the_study": "Researchers searched the literature from 1991 to 2025 for programs aimed at reducing potentially inappropriate prescribing in adults aged 65 and over arriving at emergency departments or acute geriatric units. They found 21 studies, only four of which were randomized controlled trials, describing 18 interventions: pharmacist-led medication reviews, computerized clinical decision support, prescriber education and academic detailing, or combinations. Nearly all measured whether prescribing changed; very few looked at whether patients were readmitted, fell less, or felt better.",
+      "why_it_matters": "Acute hospital visits are a prime moment to fix a bloated medication list, and this review maps which approaches hospitals are actually using \u2014 while flagging that the field still can't say which ones improve the outcomes patients care about.",
+      "story_angle_primary": "A hospital or emergency visit is a natural checkpoint for your medications \u2014 it's reasonable to ask whether a pharmacist will review your list before you're discharged and to request that any changes be explained in writing for your regular doctor.",
+      "story_angle_secondary": "For senior living and post-acute professionals: the review identifies pharmacist-led review, decision support software and prescriber education as the main models, and highlights unanswered questions about prescriber follow-through and communication back to community providers \u2014 an obvious handoff point where residents' medication changes get lost.",
+      "caveats": "Scoping review, not a meta-analysis \u2014 it maps the evidence rather than quantifying effectiveness; the underlying literature is heterogeneous, mostly non-randomized, short-term, and focused on prescribing metrics rather than clinical outcomes or patient experience."
+    },
+    {
+      "headline": "Assisted Living Has Become a High-Medication Setting With Thin Medical Oversight, Review Finds",
+      "journal": "Geriatrics (Basel)",
+      "published": "2026 Aug 18",
+      "pmid": "42645013",
+      "doi": "10.3390/geriatrics11040109",
+      "the_study": "Researchers screened the published literature from 2010 to 2025 for studies dealing specifically with medication safety and care coordination in assisted living (as distinct from nursing homes or general long-term care). Only 22 studies met their strict definition, drawn from just four countries \u2014 the United States (13), Finland (6), Canada (2) and the UK (1) \u2014 and every randomized trial came from a single Finnish research program. The authors conclude that assisted living now houses an older, frailer, more heavily medicated population than ever, yet is typically regulated as a social rather than a clinical setting, with no requirement for on-site nursing and no clear point of clinical accountability for medications.",
+      "why_it_matters": "Residents and families often assume that moving into assisted living means someone is actively reviewing the medication list \u2014 this review suggests that in many places no one formally owns that job, and rigorous trials of deprescribing in this setting barely exist.",
+      "story_angle_primary": "If you live in or are considering assisted living, ask directly who reviews your full medication list, how often, and whether that person talks to your prescribing doctors and pharmacy \u2014 don't assume the community handles it as part of the package.",
+      "story_angle_secondary": "For operators and administrators: this is a structural accountability gap, not a clinical one. Consider documenting who is responsible for medication reconciliation, building a standing relationship with a consultant pharmacist, and making that arrangement explicit in marketing and admission materials \u2014 families are increasingly asking.",
+      "caveats": "Scoping review of a sparse literature (22 sources) from only four high-income countries; the evidence base is dominated by one Finnish research program, so findings may not generalize to all assisted living models or regulatory environments."
+    },
+    {
+      "headline": "Adding Geriatricians to Hip Fracture Care Changed Prescribing \u2014 And Deaths in Hospital Fell by More Than Half",
+      "journal": "Osteoporos Int",
+      "published": "2026 Sep 28",
+      "pmid": "42806170",
+      "doi": "10.1007/s00198-026-08244-7",
+      "the_study": "A Portuguese hospital compared 872 consecutively admitted patients aged 65 and older with hip and other proximal femoral fractures before and after launching an orthogeriatric co-management unit, where geriatricians work alongside orthopedic surgeons. After implementation, prescribing of bone-protective and supportive treatments rose sharply (vitamin D 2.5% to 56.7%, calcium 2.7% to 51.5%, zoledronic acid 1.4% to 12.7%, iron infusion 1.4% to 20.6%, laxatives 8.1% to 74.5%), while injected haloperidol \u2014 a sedating antipsychotic often used for delirium \u2014 dropped from 21.7% to 10.9%. Unadjusted in-hospital mortality fell from 7.7% to 2.9%.",
+      "why_it_matters": "It shows that who manages an older patient after a fracture changes what drugs they receive \u2014 more prevention of the next fracture, fewer sedatives \u2014 and is associated with markedly better survival during the hospital stay.",
+      "story_angle_primary": "If you or your spouse break a hip, ask whether the hospital has an orthogeriatric or co-management service, and before discharge ask specifically whether osteoporosis treatment, vitamin D, calcium, anemia correction and a bowel plan have been started \u2014 these are the items that were routinely missed before geriatricians were involved.",
+      "story_angle_secondary": "For families and care staff: the sharp fall in injected haloperidol is worth noting. Delirium after hip fracture is common, and this model suggests much of it can be managed without reflexive sedation \u2014 a reasonable thing to raise with the hospital team when a parent becomes confused post-surgery.",
+      "caveats": "Retrospective, observational before-and-after study at a single center over 23 months; mortality figures were unadjusted, so other changes in care over the period could contribute. Causation cannot be established."
+    },
+    {
+      "headline": "Nearly All Advanced Lung Cancer Patients Were Flagged for a Questionable Medication \u2014 And Most Said They'd Happily Stop One",
+      "journal": "Int J Clin Pharm",
+      "published": "2026 Oct",
+      "pmid": "42126766",
+      "doi": "10.1007/s11096-026-02158-4",
+      "the_study": "Dutch researchers screened the medication records of 817 patients with stage IV non-small cell lung cancer using the OncoSTRIP checklist and surveyed 37 patients, 15 caregivers, 24 clinicians and 24 pharmacists about deprescribing. Potentially inappropriate medications were flagged in 97.1% of patients; 40.8% of flagged drugs were confirmed problematic on chart review, most often because of adverse-event risk (47.3%) or because the therapy was simply unnecessary (30.0%). Nearly 9 in 10 patients (89.2%) and 73.3% of caregivers said they would be willing to stop a medication if their doctor recommended it.",
+      "why_it_matters": "When life expectancy is limited, drugs aimed at preventing problems years down the road can cause harm without delivering benefit \u2014 and this study suggests patients are far more open to stopping them than clinicians assume.",
+      "story_angle_primary": "If you're living with advanced cancer or another serious illness, it is reasonable to ask your oncologist or pharmacist: which of my pills are still working for me today, and which were started for a benefit that is years away? Most patients in this study welcomed that conversation.",
+      "story_angle_secondary": "For caregivers and care teams: the bottleneck was not patient resistance but professional hesitancy \u2014 doctors cited poor collaboration and uncertainty, pharmacists cited competence and patient-related concerns. Prompting a formal medication review, and making clear the family is open to it, can break that stalemate.",
+      "caveats": "Observational chart review plus small survey samples (37 patients, 15 caregivers); 59.2% of flagged medications could not be confirmed as inappropriate because of missing record data, likely inflating the headline prevalence. Single hospital system in the Netherlands; attitudes were self-reported and hypothetical, not actual deprescribing outcomes."
+    },
+    {
+      "headline": "Expert Panel Sets Out How Opioids Should \u2014 and Shouldn't \u2014 Be Used for Chronic Pain in Older Adults",
+      "journal": "Drugs Aging",
+      "published": "2026 Sep",
+      "pmid": "42627454",
+      "doi": "10.1007/s40266-026-01329-2",
+      "the_study": "A multidisciplinary Portuguese panel spanning palliative care, anesthesiology, rheumatology, orthopedics, rehabilitation and family medicine reviewed the evidence and reached consensus recommendations on opioid use for chronic pain in older adults. They emphasize that aging reduces kidney and liver clearance, lowers lean body mass and alters protein binding, so doses and dosing intervals must be adjusted \u2014 \"start low, go slow\" \u2014 with preference for opioids that have inactive metabolites or predictable clearance. They draw a sharp distinction between cancer pain, where potent opioids (including transdermal and rapid-acting formulations) are often appropriate, and chronic non-cancer pain, where the emphasis should be on treating the underlying pain mechanism, formal risk-benefit assessment, and time-limited opioid use.",
+      "why_it_matters": "Opioids interact with the many other drugs older adults take and raise the risk of constipation, confusion and falls, yet undertreated pain is also harmful \u2014 this consensus gives a framework for getting the balance right.",
+      "story_angle_primary": "If you're prescribed an opioid, ask what the plan is: what dose you're starting at, when it will be reassessed, how long it's intended to last, and what's being done up front about constipation and fall risk. For non-cancer pain, a time limit and an exit plan should be part of the conversation from day one.",
+      "story_angle_secondary": "For families and senior living staff: new or increased opioids warrant extra fall-prevention attention and bowel monitoring in the following days. A sudden change in alertness, balance or continence after a dose change is a reason to call the prescriber rather than to wait it out.",
+      "caveats": "Consensus review based on expert opinion and narrative literature synthesis, not new patient data or a systematic review; recommendations reflect one national panel and may not match local prescribing guidance or drug availability."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "41345290",
+      "headline": "Frail patients with atrial fibrillation are less likely to get stroke-preventing blood thinners \u2014 and the gap is widest in Asia",
+      "verdict": "accurate",
+      "notes": "Registry comparison, odds ratios, frailty index and conflict-of-interest disclosures all match the abstract; only a mildly causal turn of phrase in \"Why it matters,\" which the Caveats already offset.",
+      "issues": [
+        {
+          "label": "Mildly causal phrasing for an observational association",
+          "severity": "Minor",
+          "as_written": "Frailty and a long medication list appear to make doctors hesitant to prescribe the anticoagulants that prevent AF-related strokes",
+          "abstract_says": "Being frail was associated with a higher likelihood of not being prescribed OAC, particularly in Asian patients.",
+          "problem": "The registry shows an association between frailty and lower anticoagulant prescribing; it did not examine prescriber reasoning. The phrasing attributes a motive to clinicians, though \"appear to\" hedges it and the Caveats note the observational design.",
+          "suggested_fix": "Reword to \"Frail patients and those on long medication lists were less likely to be prescribed anticoagulants \u2014 yet those same patients are at the highest risk of bad outcomes.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42669283",
+      "headline": "Four years of tracking older adults shows frailty rarely reverses \u2014 and certain drug classes track with decline",
+      "verdict": "minor",
+      "notes": "Sample size, four trajectories, asymmetric transitions, drug classes and protective factors all match; one descriptor in the Caveats is not verifiable from the abstract.",
+      "issues": [
+        {
+          "label": "Cohort descriptor not in abstract",
+          "severity": "Minor",
+          "as_written": "single Mexican cohort of social-security beneficiaries, so may not generalize",
+          "abstract_says": "Secondary analysis of data from the study \"Cohort of Obesity, Sarcopenia and Frailty of Older Mexican Adults\". The baseline sample included adults \u2265 60 years, with annual monitoring for four years.",
+          "problem": "The abstract describes a community-dwelling Mexican cohort but does not state that participants were social-security (IMSS) beneficiaries. Unverifiable from abstract only.",
+          "suggested_fix": "Say \"single community-dwelling Mexican cohort\" unless the enrolment source is confirmed in the full text."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42533730",
+      "headline": "Why stopping unnecessary medicines near the end of life is so hard \u2014 and what actually makes it work",
+      "verdict": "minor",
+      "notes": "Design, study count and the four themes are reported accurately, but \"Why it matters\" asserts a cause of persistent prescribing that the review does not establish, and one Caveat about study settings is unverifiable.",
+      "issues": [
+        {
+          "label": "Unsupported causal explanation in \"Why it matters\"",
+          "severity": "Moderate",
+          "as_written": "Potentially inappropriate medicines persist at the end of life largely because the conversation never happens \u2014 not because patients refuse",
+          "abstract_says": "Patients with palliative needs often use potentially inappropriate medications, leading to adverse health outcomes. Deprescribing remains poorly enacted in primary care... Four themes were established: (i) initial stance towards deprescribing: shaped by values, general perceptions of (de)prescribing, and competencies...",
+          "problem": "The review maps influences on deprescribing; it does not quantify why inappropriate medicines persist, and it explicitly identifies patients' initial stance and values as one of the four influencing themes, so ruling out patient reluctance overstates the findings.",
+          "suggested_fix": "Rewrite as \"The review identifies what shapes whether the deprescribing conversation happens at all \u2014 patients' and clinicians' starting attitudes, how the conversation is held, and how teams are organized.\""
+        },
+        {
+          "label": "Geographic claim not in abstract",
+          "severity": "Minor",
+          "as_written": "findings are drawn largely from European and other high-income primary care systems",
+          "abstract_says": "MEDLINE, Embase, CINAHL, and PsycINFO were searched from 2000 to January 2025... 23 studies were included.",
+          "problem": "The abstract does not report the countries or health systems of the included studies. Unverifiable from abstract only.",
+          "suggested_fix": "Drop the geographic claim or verify the included studies' settings from the full text."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42519959",
+      "headline": "Hospice nurses are often the ones who spot the pills that no longer help",
+      "verdict": "minor",
+      "notes": "Screening numbers, date range, drug classes and the nursing role match the abstract; two small extrapolations (\"safely reducible,\" tools \"underused\") go slightly beyond what the abstract states.",
+      "issues": [
+        {
+          "label": "\"Safely reducible\" overstates the evidence",
+          "severity": "Minor",
+          "as_written": "It identifies the specific medication categories most likely to be safely reducible in late-stage illness",
+          "abstract_says": "Evidence indicates that long-term preventive medications near the end-of-life, including statins, antihypertensives, hypoglycemics, antithrombotic agents, and vitamins, often provide limited short-term benefit while increasing the risk of side effects and treatment burden.",
+          "problem": "The review reports limited benefit and added burden; it does not report safety outcomes of withdrawal, so \"safely reducible\" imputes a finding the abstract does not make.",
+          "suggested_fix": "Change to \"the categories most often judged to add burden without short-term benefit in late-stage illness.\""
+        },
+        {
+          "label": "\"Underused\" tools not stated",
+          "severity": "Minor",
+          "as_written": "structured tools like STOPPFrail and OncPal exist and are underused",
+          "abstract_says": "37 studies met the inclusion criteria, including... evaluations of frameworks such as STOPPFrail and OncPal... Despite this, deprescribing remains inconsistent and frequently reactive rather than proactive.",
+          "problem": "The abstract says deprescribing practice is inconsistent and reactive but does not state that these specific tools are underused.",
+          "suggested_fix": "Reword to \"structured tools like STOPPFrail and OncPal exist, yet deprescribing remains inconsistent and reactive.\""
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42832039",
+      "headline": "Pelvic fractures after 50 look a lot like hip fractures \u2014 and may deserve the same seriousness",
+      "verdict": "minor",
+      "notes": "Cohort size, subgroup counts, demographics, comorbidity and mortality figures all match; the \"one in six\" rounding slightly overstates the pelvic-fracture mortality rate.",
+      "issues": [
+        {
+          "label": "Rounding of mortality rate",
+          "severity": "Minor",
+          "as_written": "yet one in six of these patients died within a year",
+          "abstract_says": "New major fracture rates (6.6% vs 8.4%) and 1-year mortality rates (15% vs 17%) were comparable.",
+          "problem": "Pelvic fracture one-year mortality was 15%, closer to one in seven; \"one in six\" applies better to the acetabular group (17%) and nudges the pelvic figure upward.",
+          "suggested_fix": "Use \"about one in seven pelvic fracture patients (15%) died within a year\" or \"15\u201317% of these patients died within a year.\""
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42669382",
+      "headline": "Botox for depression: pooled trial data hint at a drug-free alternative for people already on many medicines",
+      "verdict": "minor",
+      "notes": "Trial count, participant number, all SMDs and adverse-event findings match the abstract; the \"drug-free\" headline and the drug-interaction claim go beyond what was studied.",
+      "issues": [
+        {
+          "label": "\"Drug-free\" mischaracterizes the intervention",
+          "severity": "Minor",
+          "as_written": "pooled trial data hint at a drug-free alternative for people already on many medicines",
+          "abstract_says": "These findings provide valuable insights into a non-systemic therapeutic alternative, particularly for patients intolerant to oral antidepressants or those with polypharmacy burdens.",
+          "problem": "Botulinum toxin A is a drug administered by injection; the abstract calls it \"non-systemic,\" not drug-free, and the headline could mislead readers into thinking no medication is involved.",
+          "suggested_fix": "Change to \"a non-systemic alternative for people already on many medicines.\""
+        },
+        {
+          "label": "Drug-interaction claim not tested",
+          "severity": "Minor",
+          "as_written": "a treatment that does not add another daily systemic drug \u2014 and does not interact with existing ones",
+          "abstract_says": "While overall adverse event rates were similar to controls (RR = 1.04), BoNT/A was associated with transient local reactions, avoiding the systemic side effects observed with sertraline.",
+          "problem": "The meta-analysis reports adverse events and the absence of systemic side effects; it did not assess drug\u2013drug interactions, so the no-interaction claim is unverifiable from the abstract.",
+          "suggested_fix": "Trim to \"a treatment that does not add another daily systemic drug\" or add \"interactions were not specifically studied.\""
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42814388",
+      "headline": "More Than Half of Older Adults on Acid-Reflux Pills Stay on Them Long Term, Finnish Data Show",
+      "verdict": "accurate",
+      "notes": "All figures (12% user increase, 37% dispensations, 56.3% vs 34.1% long-term use, 47% on >10 other medicines, 39% on anticoagulants), the register source and the Kela affiliation are faithfully reported, and the caveats appropriately flag the dispensing-data design.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42536289",
+      "headline": "Counting Only Pills Undercounts Your Medications: Creams, Patches and Eye Drops Add Up",
+      "verdict": "accurate",
+      "notes": "Population, state, years, the 4.0%/3.4% absolute increases in the 5+ category, dry-eye drugs ranking 7th and the opioid oral/patch split all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42799555",
+      "headline": "Tools to Safely Cut Back Medicines Near the End of Life Show Promise, but the Evidence Is Still Thin",
+      "verdict": "accurate",
+      "notes": "Screening numbers (4,108 papers, 34 studies, 18 tools), the eight studies showing medicine reduction, the non-significant clinical comparisons and moderate-to-high risk of bias are all reported correctly; the statin/bone-medicine example in \"Why it matters\" is general background rather than a finding of this review.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "pmid": "42777277",
+      "headline": "In Hospitalized Seniors, Combined Memory and Mobility Problems Multiply the Risk of Falls, Pressure Injuries and Other Complications",
+      "verdict": "minor",
+      "notes": "Setting, risk domains, 73.2% prevalence and the cognitive-plus-mobility interaction match; the headline uses causal language for a cross-sectional study and the enrolled sample was 470 (459 analyzed).",
+      "issues": [
+        {
+          "label": "Causal headline for cross-sectional data",
+          "severity": "Minor",
+          "as_written": "Combined Memory and Mobility Problems Multiply the Risk of Falls, Pressure Injuries and Other Complications",
+          "abstract_says": "A cross-sectional study... The strongest interaction was observed for concurrent cognitive and mobility impairments (OR = 19.594, 95% CI: 8.207-46.783). CONCLUSION: IC impairment was associated with cumulative nursing risk among hospitalized older adults.",
+          "problem": "\"Multiply the risk\" implies the impairments cause the complications, but the design measures capacity and risk status at the same time and cannot establish direction; the Caveats acknowledge this, so the headline contradicts the body's own hedge.",
+          "suggested_fix": "Reword to \"Combined Memory and Mobility Problems Go With Far Higher Odds of Falls, Pressure Injuries and Other Risks.\""
+        },
+        {
+          "label": "Sample size wording",
+          "severity": "Minor",
+          "as_written": "assessed 459 inpatients aged 60 and older",
+          "abstract_says": "A cross-sectional study was conducted among 470 inpatients aged \u226560 years from a tertiary hospital in China using convenience sampling... A total of 459 older inpatients were included in the final analysis",
+          "problem": "470 were assessed; 459 were included in the analysis. The digest attaches the analysed figure to the assessment step.",
+          "suggested_fix": "Write \"assessed 470 inpatients aged 60 and older, 459 of whom were included in the analysis.\""
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42821180",
+      "headline": "Facing Surgery in Your 80s or 90s? What the Evidence Says Should Happen Before, During and After",
+      "verdict": "accurate",
+      "notes": "Faithful summary of a narrative review; caveats correctly flag the non-systematic design and extrapolation from broader older populations.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "pmid": "42530030",
+      "headline": "Sedating and Anticholinergic Drug Loads Rarely Change in the Hospital \u2014 and That Shapes Where Patients Go Next",
+      "verdict": "minor",
+      "notes": "Core numbers (3,450 patients, 80% no change, no readmission link) are correct, but the story angle attributes 'more clinic visits' to patients whose burden changed, which reverses one reported finding.",
+      "issues": [
+        {
+          "label": "Outpatient-visit finding misattributed to the 'any change' group",
+          "severity": "Moderate",
+          "as_written": "flagging patients whose brain-active drug burden shifted during hospitalization \u2014 in either direction \u2014 as a group needing more intensive post-discharge follow-up, since they are far less likely to go straight home and tend to need more clinic visits",
+          "abstract_says": "High DBIs at admission or discharge were linked to more clinical visits post-discharge, while a DBI increase during hospitalization was associated with fewer visits (RR: 0.86 [0.73-1.00]).",
+          "problem": "More post-discharge visits were associated with high DBI at admission/discharge, not with a change in DBI; for patients whose burden increased during the stay, visits were actually fewer. The angle reverses the direction for part of the group it describes.",
+          "suggested_fix": "Reword to: '...far less likely to go straight home; separately, patients with a high drug burden at admission or discharge had more outpatient visits, while those whose burden increased during the stay had slightly fewer.'"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42783349",
+      "headline": "National Snapshot: How Much Older Americans Mix Prescriptions, Over-the-Counter Drugs and Supplements",
+      "verdict": "minor",
+      "notes": "Description matches the plain-language summary and the digest openly flags that no effect sizes were available; two small claims go beyond what the record shows.",
+      "issues": [
+        {
+          "label": "Claim about riskiest combinations not in the record",
+          "severity": "Minor",
+          "as_written": "some of the riskiest combinations in older adults involve something that was never prescribed by a doctor",
+          "abstract_says": "This study uses a nationally representative sample to estimate changes in the use and concurrent use of prescription and over-the-counter (OTC) medications and dietary supplements among older adults in the US between 2015-2016 and 2021-2023, including use of potentially major drug-drug interactions.",
+          "problem": "The abstract record contains only a plain-language summary with no results, so no statement about which combinations are riskiest can be supported. Unverifiable from abstract only.",
+          "suggested_fix": "Soften to note that the study counted OTC products and supplements alongside prescriptions and measured potentially major interactions, without asserting which combinations carry the most risk."
+        },
+        {
+          "label": "Study design stated as cross-sectional survey",
+          "severity": "Minor",
+          "as_written": "cross-sectional survey design cannot establish causation; medication use in national surveys relies in part on respondent report",
+          "abstract_says": "This study uses a nationally representative sample to estimate changes in the use and concurrent use of prescription and over-the-counter (OTC) medications and dietary supplements among older adults in the US between 2015-2016 and 2021-2023",
+          "problem": "The design and data-collection method are not described in the available record; calling it a cross-sectional survey with self-report is an inference.",
+          "suggested_fix": "Attribute the design description as an assumption, e.g. 'the published record does not describe the design or data source in detail.'"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42467355",
+      "headline": "Pharmacist Medication Reviews for Patients on Five-Plus Drugs Paid for Themselves \u2014 About \u20ac181 Per Patient",
+      "verdict": "minor",
+      "notes": "All cost figures, sample size and setting match; the 'no predictors' claim is slightly broader than what was actually tested.",
+      "issues": [
+        {
+          "label": "Scope of the null predictor finding overstated",
+          "severity": "Minor",
+          "as_written": "No patient characteristic \u2014 age, kidney function, medication count, or ward \u2014 predicted who would yield the most savings.",
+          "abstract_says": "No significant associations were found between any of the included patient characteristics and budget impact related to medication recommendations.",
+          "problem": "The regression tested budget impact from medication recommendations only (the \u20ac46 component), not total savings including avoided readmissions, so 'who would yield the most savings' overstates what was modeled.",
+          "suggested_fix": "Specify that no patient characteristic predicted the budget impact attributable to medication recommendations."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42628444",
+      "headline": "Fear of Falling Runs Deepest in Older Adults With More Falls, More Hospital Visits and Longer Medication Lists",
+      "verdict": "minor",
+      "notes": "Sample, setting, scale and the moderate/severe association patterns are accurately reported; one causal sentence in 'Why it matters' goes beyond the cross-sectional data.",
+      "issues": [
+        {
+          "label": "Causal claim about activity restriction",
+          "severity": "Minor",
+          "as_written": "it drives people to restrict activity in ways that make future falls more likely",
+          "abstract_says": "CAF was associated with a multidimensional clinical phenotype linked to frailty, functional decline, polypharmacy, and health care utilization.",
+          "problem": "The study is cross-sectional and reports associations only; it did not measure activity restriction or subsequent falls, so the causal chain is not supported by this paper.",
+          "suggested_fix": "Reframe as 'concern about falling clusters with frailty, polypharmacy and heavy health care use, and has been linked in other research to activity restriction.'"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42731364",
+      "headline": "Pharmacist-led medication reviews cut risky prescriptions in half for older cancer patients",
+      "verdict": "minor",
+      "notes": "Study counts and pooled RR are accurate and caveats are strong, but 'safely trim' asserts a safety finding the review did not produce.",
+      "issues": [
+        {
+          "label": "Unsupported safety claim",
+          "severity": "Moderate",
+          "as_written": "this review shows a structured pharmacist review can safely trim that list",
+          "abstract_says": "Evidence for broader patient-centred outcomes was limited and primarily narrative... confidence in this finding is limited by the small number of studies with serious risk of bias.",
+          "problem": "The review explicitly found limited evidence on patient-centred outcomes, so it cannot establish that deprescribing was safe \u2014 only that PIM use fell in mostly uncontrolled before-after studies.",
+          "suggested_fix": "Change to 'this review found that structured pharmacist review was associated with fewer inappropriate medications, though its effects on symptoms, falls and survival were not well measured.'"
+        },
+        {
+          "label": "Inclusion criteria slightly overstated",
+          "severity": "Minor",
+          "as_written": "Researchers pooled eight studies involving 1,018 adults aged 65 and older who had cancer and were taking medications flagged as potentially inappropriate.",
+          "abstract_says": "A systematic review and meta-analysis... evaluating deprescribing interventions in adults aged \u226565 years with cancer.",
+          "problem": "Studies enrolled older adults with cancer receiving deprescribing interventions; not all participants are described as already taking a potentially inappropriate medication.",
+          "suggested_fix": "Drop 'and were taking medications flagged as potentially inappropriate' or recast as 'who underwent deprescribing interventions.'"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "pmid": "42594508",
+      "headline": "One in five prescriptions for older Chinese outpatients contained a potentially risky medication \u2014 and polypharmacy was the biggest red flag",
+      "verdict": "minor",
+      "notes": "Sample, criteria range and predictor figures are accurate; the headline's single 'one in five' figure is not a number the study reports.",
+      "issues": [
+        {
+          "label": "Headline prevalence figure not reported",
+          "severity": "Moderate",
+          "as_written": "One in five prescriptions for older Chinese outpatients contained a potentially risky medication",
+          "abstract_says": "The prevalence of PIMs varied significantly across criteria, ranging from 13.33% (Screening Tool of Older Persons' Prescriptions 2023) to 36.48% (PIM-China 2024).",
+          "problem": "The study gives a range across eight criteria with no single pooled estimate; '20%' is an invented midpoint and the body text correctly gives the range, creating an internal mismatch.",
+          "suggested_fix": "Rewrite the headline to reflect the range, e.g. 'Between one in seven and one in three prescriptions for older Chinese outpatients was potentially inappropriate \u2014 depending on the tool used.'"
+        },
+        {
+          "label": "'Different drugs' vs different prevalence",
+          "severity": "Minor",
+          "as_written": "the study found that different screening criteria flag very different drugs",
+          "abstract_says": "The prevalence of PIMs varied significantly across criteria... Overall agreement among the 8 criteria was moderate (\u03ba = 0.477).",
+          "problem": "The abstract documents differing prevalence and only moderate agreement between criteria; it does not report which specific drugs each tool flags.",
+          "suggested_fix": "Say the criteria produced markedly different prevalence estimates and agreed only moderately with each other."
+        },
+        {
+          "label": "'National scale' framing",
+          "severity": "Minor",
+          "as_written": "It quantifies, at a national scale, how quickly the risk of an inappropriate prescription climbs",
+          "abstract_says": "prescription data from 59 health care institutions (comprising 48 tertiary and 11 secondary hospitals) across 6 cities in China",
+          "problem": "Six cities and 59 hospitals is multicenter but not a nationally representative sample.",
+          "suggested_fix": "Replace 'at a national scale' with 'across 59 hospitals in six Chinese cities.'"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "pmid": "42503320",
+      "headline": "Older hospital patients with depression get more sedatives and antipsychotics than younger ones, 16-year survey finds",
+      "verdict": "accurate",
+      "notes": "All percentages, sample sizes, setting and date range match the abstract, and the extensive AMSP industry funding and author honoraria are disclosed in the caveats.",
+      "issues": []
+    },
+    {
+      "number": 19,
+      "pmid": "42701177",
+      "headline": "Polypharmacy raises the odds of being admitted when older adults land in the emergency department",
+      "verdict": "minor",
+      "notes": "Cohort size, complaint distribution and mortality odds ratio are accurate; the data-collection window is described differently from the abstract and the headline uses causal phrasing.",
+      "issues": [
+        {
+          "label": "Data collection window",
+          "severity": "Minor",
+          "as_written": "across 36 emergency departments in nine European countries during a seven-week window in late 2020",
+          "abstract_says": "Data collection from routine clinical records of all patients aged 65 and older over a 7-day period from October 19 to November 30, 2020 during the Covid-19 pandemic.",
+          "problem": "The abstract specifies a 7-day collection period (falling within an October\u2013November 2020 window), not a seven-week window of continuous collection.",
+          "suggested_fix": "Say each site collected data over a 7-day period between 19 October and 30 November 2020."
+        },
+        {
+          "label": "Causal headline for observational data",
+          "severity": "Minor",
+          "as_written": "Polypharmacy raises the odds of being admitted when older adults land in the emergency department",
+          "abstract_says": "Highest age (\u2265 85), geriatric risks... polypharmacy, and shortness of breath increased the odds of being admitted to hospital (OR... 1.3 [1.1-1.6]...)",
+          "problem": "The abstract's phrasing is associational within a cross-sectional analysis; 'raises' implies the medication count itself causes admission rather than marking sicker patients.",
+          "suggested_fix": "Use 'is associated with higher odds of admission' in the headline."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "pmid": "42313336",
+      "headline": "Hospitals are testing ways to catch bad prescriptions at the front door \u2014 but almost no one is measuring whether patients do better",
+      "verdict": "minor",
+      "notes": "Study count, RCT count, intervention types and search years all match; one quantifier is slightly stronger than the abstract's wording.",
+      "issues": [
+        {
+          "label": "Quantifier overstated",
+          "severity": "Minor",
+          "as_written": "Nearly all measured whether prescribing changed; very few looked at whether patients were readmitted, fell less, or felt better.",
+          "abstract_says": "While PIP was frequently a primary outcome measure, few studies reported clinical outcomes or explored prescriber adherence and experiences of older adults and prescribers.",
+          "problem": "The abstract says potentially inappropriate prescribing was 'frequently' a primary outcome, not that nearly all studies measured it.",
+          "suggested_fix": "Change 'Nearly all' to 'Most studies made prescribing change the main outcome.'"
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "pmid": "42645013",
+      "headline": "Assisted Living Has Become a High-Medication Setting With Thin Medical Oversight, Review Finds",
+      "verdict": "accurate",
+      "notes": "Scoping review details, country distribution, Finnish-trial observation and structural-accountability conclusion all match the abstract; framing is appropriately non-causal.",
+      "issues": []
+    },
+    {
+      "number": 22,
+      "pmid": "42806170",
+      "headline": "Adding Geriatricians to Hip Fracture Care Changed Prescribing \u2014 And Deaths in Hospital Fell by More Than Half",
+      "verdict": "minor",
+      "notes": "All prescribing and mortality figures match the abstract's results section, but headline and \"Why it matters\" use causal wording that the digest's own caveat disclaims. Note the abstract's own summary blurb reports different mortality figures (8.6% to 3.2%) than its results (7.7% vs 2.9%); the digest used the results figures.",
+      "issues": [
+        {
+          "label": "Causal framing of a before-after observational study",
+          "severity": "Moderate",
+          "as_written": "It shows that who manages an older patient after a fracture changes what drugs they receive \u2014 more prevention of the next fracture, fewer sedatives \u2014 and is associated with markedly better survival during the hospital stay.",
+          "abstract_says": "Implementation of the orthogeriatric unit was associated with significant increases in the prescription of laxatives... Unadjusted intra-hospital mortality declined significantly (7.7% vs 2.9%, p = 0.005).",
+          "problem": "\"Changed prescribing\"/\"changes what drugs they receive\" asserts cause and effect from a retrospective, unadjusted pre-/post-implementation comparison at one hospital, contradicting the digest's own caveat that \"Causation cannot be established.\"",
+          "suggested_fix": "Rephrase to association, e.g. \"After geriatricians joined hip fracture care, prescribing patterns shifted and in-hospital deaths were lower\" in both headline and \"Why it matters.\""
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "pmid": "42126766",
+      "headline": "Nearly All Advanced Lung Cancer Patients Were Flagged for a Questionable Medication \u2014 And Most Said They'd Happily Stop One",
+      "verdict": "minor",
+      "notes": "Prevalence (97.1%), confirmation rate (40.8%), classification percentages and willingness figures all match; one small paraphrase of the clinician-barrier finding is loose.",
+      "issues": [
+        {
+          "label": "Clinician barriers paraphrased imprecisely",
+          "severity": "Minor",
+          "as_written": "doctors cited poor collaboration and uncertainty, pharmacists cited competence and patient-related concerns",
+          "abstract_says": "medical clinicians were most affected by collaboration- and competence-related concerns, whereas pharmacists were constrained by competence- and patient-related factors",
+          "problem": "The abstract attributes competence-related concerns to clinicians as well as pharmacists; the digest substitutes the vaguer \"uncertainty\" for clinicians, slightly altering the reported barrier.",
+          "suggested_fix": "Change to \"doctors cited collaboration- and competence-related concerns; pharmacists cited competence- and patient-related ones.\""
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "pmid": "42627454",
+      "headline": "Expert Panel Sets Out How Opioids Should \u2014 and Shouldn't \u2014 Be Used for Chronic Pain in Older Adults",
+      "verdict": "accurate",
+      "notes": "Consensus content, pharmacology-of-aging points, cancer vs non-cancer distinction and \"start low, go slow\" all match the abstract; caveats correctly identify it as expert consensus rather than new data, and the abstract reports no conflicts of interest.",
+      "issues": []
+    }
+  ]
+}

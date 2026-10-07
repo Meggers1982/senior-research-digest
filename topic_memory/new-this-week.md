@@ -1,26 +1,28 @@
 # Topic Memory: New this week
-_Last updated: 2026-10-06_
+_Last updated: 2026-10-07_
 
 ## Established findings
-- Products marketed for brain and body health routinely outrun their human evidence: vitamin E (41964896), donepezil add-ons (42816922), Ginkgo EGb 761 moving blood proteins but not cognition (42810842, 2026-10-06), prebiotics with only 13 of 79 human studies (42028746), cricket protein adding nothing beyond exercise (42813244), acupuncture with short-term, heterogeneous gains (42831987).
-- Technology for older adults reliably improves engagement or physical measures, not the cognitive outcome it is sold on: VR Tai Chi (42814913), AR exercise improving mobility and respiratory strength with no cognitive gain (41087006, 2026-10-06), exergaming (42576230).
-- Short, low-dose, low-tech movement produces measurable function gains in later life: accelerometer self-monitoring (42830457), eight sessions of manual-resistance PNF at mean age 80 (40983316), exercise added to bisphosphonates improving femoral neck density (42815459). Untreated comparison groups measurably declined within 4-6 weeks.
-- Coverage and even an abnormal lab result do not guarantee care: insurance predicting only HbA1c draw (42380557), one in three newly confirmed diabetes cases never coded or treated, with multimorbid patients most often missed (42832327, 2026-10-06).
-- Reassuring labels hide cognitive impairment: CVT survivors rated "no disability" (41416684), autistic adults over 50 (42815817), EEG and cognitive changes in sleep apnea and COPD (42349048).
-- Caregiver-directed programs help caregivers and do not spill over to the person with dementia: behavioral sleep programs, very low certainty (42472449); self-efficacy training holding mental-QoL gains at 9 months (42834794, 2026-10-06).
+- Products marketed to older adults for brain, muscle or longevity benefit routinely outrun their human evidence: vitamin E (41964896), Ginkgo EGb 761 (42810842), prebiotics with 13 of 79 human studies (42028746), cricket protein (42813244), and now redesigned fisetin senolytics tested only in mice, with patents and a founded company behind them (42836501, 2026-10-07).
+- Biological-age and organ-clock products do not deliver what they are sold on: moderate-drinking organ-age findings reflect healthy-drinker bias (42782071); 15 epigenetic clocks in 5,844 women predicted survival to 90 but gave no signal on cognitive health (42679383, 2026-10-07).
+- Technology and devices for older adults improve engagement or physical measures, not the cognitive outcome in the marketing: VR Tai Chi (42814913), AR exercise (41087006), exergaming (42576230).
+- Short, low-dose, low-tech movement produces measurable function gains; untreated comparison groups decline within 4-6 weeks: self-monitoring (42830457), manual-resistance PNF at mean age 80 (40983316), exercise added to bisphosphonates (42815459).
+- Caregiver outcomes and patient outcomes decouple in both directions: caregiver self-efficacy training helped caregivers only (42834794); memantine patients held steady on rating scales while caregiver burden rose (42838860, 2026-10-07).
+- Non-drug group activity moves the emotional side of dementia care but not cognition or clinical depression: dramatized reading workshops improved quality of life and loneliness (42838128, 2026-10-07).
+- Reassuring labels and single scores hide impairment: CVT survivors (41416684), autistic adults over 50 (42815817), sleep apnea/COPD EEG changes (42349048), single depression screens missing persistent trajectories (42839307, 2026-10-07).
 
 ## Emerging threads
-- Blood biomarkers are entering routine memory clinic practice: first randomized evidence that early p-tau217/NfL disclosure speeds definitive diagnosis and treatment starts without added distress (42832237) — watch for primary care replication.
-- Incentives versus pharmacotherapy in behavior change: cash roughly doubled verified quit rates while free quit medication added nothing (42832220).
-- Plant-forward eating and frailty: top-tertile Planetary Health Diet adherence tied to about half the odds of frailty (42836649); contradicts the undernutrition worry about plant-based diets in older adults.
-- Non-invasive, portable neuromodulation as an access story: tACS for Parkinson's (42822133), HRV biofeedback after stroke/TBI (42832688) — both promising, both immature with no standard protocol.
-- Scientific uncertainty beneath the anti-amyloid drug pipeline (42625110), and media-literacy pieces pushing back on aging-clock and moderate-drinking headlines (42782071).
-- Loneliness as several distinct conditions, with purposeful activity and specific family contact outperforming general socializing (41934642, 42590895, 41201818, 42029190).
+- Alzheimer's biomarker testing has moved from "should we disclose?" (42832237) to "how reliable is the number?" — amyloid PET gray zone of 11-26 Centiloids with 95-97% heterogeneity (42441390), p-tau217 disagreeing with gold standard in 8.5% of cases, driven by kidney function, BMI and thyroid disease (42821845). Watch for primary care replication and payer/eligibility fallout.
+- Duration, not intensity, of social disconnection is the variable tied to memory (42837505) — refines the earlier loneliness thread (41934642, 42590895, 41201818).
+- Generational health decline as a service-demand forecast: Add Health cohort entering their 40s sicker than prior cohorts despite better behaviors, with widening education gaps (42837509).
+- Pre-symptomatic prediction in Parkinson's: blood metabolite shifts before cognitive decline, no clinical test yet (42836749); pairs with earlier access story on portable tACS (42822133).
+- Repurposed cheap generics as a counterweight to supplement skepticism: metformin with a small pooled cognitive benefit in adults 60+ (42841129).
+- Clear prevention wins amid thin intervention results: RSVpreF 83.3% effective against RSV hospitalization in 131,276 Danish adults 60+, with a nine-fold baseline risk gradient in immunosuppressed participants (42838078).
 
 ## Feature ideas already pitched
-- 2026-10-03: "Older patients are finally being offered these operations — the recovery happens at home" (41706582, 42825924, 42364622, 42424791, 42811735).
 - 2026-10-04: "Your care plan may be based on your best 20 minutes" — clinic tests vs everyday function (42296946, 40847579, 42264275, 42435825).
-- 2026-10-05: "A full activity calendar may not touch the loneliness that hurts most" (41934642, 42590895, 41201818, 42029190). Targets: Next Avenue, Caring.com, LeadingAge, Generations Journal.
-- 2026-10-06: "Eight sessions of resisted walking did more than a year of Ginkgo" — what you buy vs what you do, plus control groups losing ground in weeks (42810842, 42028746, 42813244, 42782071, 40983316, 41087006, 42815459, 42836649). Targets: Next Avenue, NCOA, Caring.com, LeadingAge.
-- Not yet pitched: "When the hospital leaves town" — closures, hospital-at-home and transfer planning (42343058, 42816724).
-- Not yet pitched: "The diagnosis that got crowded out" — abnormal labs that go nowhere in multimorbid older patients (42832327, 42380557), paired with early biomarker disclosure (42832237).
+- 2026-10-05: "A full activity calendar may not touch the loneliness that hurts most" (41934642, 42590895, 41201818, 42029190).
+- 2026-10-06: "Eight sessions of resisted walking did more than a year of Ginkgo" — what you buy vs what you do (42810842, 42028746, 42813244, 42782071, 40983316, 41087006, 42815459, 42836649).
+- 2026-10-07: "Ask for the number, not just the word positive" — biomarker and aging-clock results that sound final and aren't (42441390, 42821845, 42679383, 42836749). Targets: Next Avenue, Caring.com, LeadingAge, Generations Journal.
+- Not yet pitched: "When the hospital leaves town" — closures, hospital-at-home, transfer planning (42343058, 42816724).
+- Not yet pitched: "The diagnosis that got crowded out" — abnormal labs that go nowhere in multimorbid older patients (42832327, 42380557).
+- Not yet pitched: "The next generation of residents is arriving sicker" — generational health decline as an operator and workforce planning story (42837509, 42839307).

@@ -1,0 +1,691 @@
+{
+  "coverage_checked": 0,
+  "coverage_cached": 15,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42842242": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42844230": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42843988": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42842855": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Medscape",
+        "University of Cincinnati"
+      ],
+      "articles": [
+        {
+          "link": "https://www.medscape.com/viewarticle/exercise-tied-long-term-cognitive-and-motor-benefits-2026a10011lo",
+          "outlet": "Medscape",
+          "title": "Exercise Tied to Long-Term Cognitive and Motor Benefits in Parkinson's"
+        },
+        {
+          "link": "https://www.uc.edu/news/articles/2026/09/n21434479.html",
+          "outlet": "University of Cincinnati",
+          "title": "UC study correlates increased physical activity with slower Parkinson\u2019s progression"
+        }
+      ]
+    },
+    "42844416": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42842206": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Bioengineer.org"
+      ],
+      "articles": [
+        {
+          "link": "https://bioengineer.org/myasthenia-gravis-strikes-hardest-after-65-but-long-term-outlook-may-surprise/",
+          "outlet": "Bioengineer.org",
+          "title": "Myasthenia Gravis Strikes Hardest After 65, But Long-Term Outlook May Surprise"
+        }
+      ]
+    },
+    "42843461": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42842074": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42843430": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42844026": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42574864": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42841610": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42225261": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42469138": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "41638194": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Frontiers"
+      ],
+      "articles": [
+        {
+          "link": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1956100/full",
+          "outlet": "Frontiers",
+          "title": "Associations between community built environment and leisure-time physical activity among older adults: a systematic review and meta-analysis"
+        }
+      ]
+    }
+  },
+  "pubmed": {
+    "42844230": {
+      "pubdate": "2026 Oct 7",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42844026": {
+      "pubdate": "2026 Oct 7",
+      "journal": "Aging & mental health"
+    },
+    "42842206": {
+      "pubdate": "2026 Oct 7",
+      "journal": "European geriatric medicine"
+    },
+    "42843461": {
+      "pubdate": "2026 Oct 7",
+      "journal": "Ageing research reviews"
+    },
+    "42843988": {
+      "pubdate": "2026 Oct 7",
+      "journal": "BMJ supportive & palliative care"
+    },
+    "42842074": {
+      "pubdate": "2026 Oct 7",
+      "journal": "GeroScience"
+    },
+    "42843430": {
+      "pubdate": "2026 Oct 7",
+      "journal": "Journal of pain and symptom management"
+    },
+    "42841610": {
+      "pubdate": "2026 Oct",
+      "journal": "Aging cell"
+    },
+    "42574864": {
+      "pubdate": "2026 Oct",
+      "journal": "Parkinsonism & related disorders"
+    },
+    "42469138": {
+      "pubdate": "2026 Oct",
+      "journal": "Parkinsonism & related disorders"
+    },
+    "41638194": {
+      "pubdate": "2026 Oct 1",
+      "journal": "Journal of aging and physical activity"
+    },
+    "42842855": {
+      "pubdate": "2026 Nov 10",
+      "journal": "Neurology"
+    },
+    "42844416": {
+      "pubdate": "2026 Oct 8",
+      "journal": "Journal of neurology"
+    },
+    "42842242": {
+      "pubdate": "2026 Oct 7",
+      "journal": "JAMA"
+    },
+    "42225261": {
+      "pubdate": "2026 Oct 5",
+      "journal": "Brain : a journal of neurology"
+    }
+  },
+  "studies": [
+    {
+      "headline": "A trained guide helped Black older adults plan end-of-life care \u2014 a self-serve workbook worked just as well for White patients",
+      "journal": "JAMA",
+      "published": "2026 Oct 7",
+      "pmid": "42842242",
+      "doi": "10.1001/jama.2026.17619",
+      "the_study": "The EQUAL ACP cluster randomized trial enrolled 791 community-dwelling Black and White adults aged 65 and older with serious illness across 10 primary care and geriatrics clinics in the US South. Clinics were randomized to a facilitated advance care planning approach (Respecting Choices First Steps) or a self-guided one (Five Wishes), both delivered by lay facilitators, with participants further randomized to a facilitator of the same or different race. Overall, 69% completed some form of advance care planning within a year, and neither approach beat the other within either racial group \u2014 but the interaction test showed the facilitated approach worked relatively better for Black participants and the self-guided approach relatively better for White participants. Matching patient and facilitator by race made no difference.",
+      "why_it_matters": "Nearly 7 in 10 older adults with serious illness took some advance care planning step within a year when offered either approach, suggesting the biggest barrier may be that no one asks \u2014 and that one format does not fit everyone.",
+      "story_angle_primary": "If you have a serious illness, you can ask your primary care clinic what advance care planning support it offers \u2014 and know there is more than one route. Some people do best talking it through with a trained guide; others prefer filling out a document like Five Wishes at home. Also worth noting: most of the planning that happened here was an informal conversation with family, not a legal form, and those conversations are something you can start today.",
+      "story_angle_secondary": "For clinic leaders and senior living staff, the finding that racial concordance between facilitator and patient didn't drive completion is practically useful \u2014 it means programs shouldn't be shelved for lack of a demographically matched workforce. The signal that facilitated conversations may add more for Black patients argues for offering both formats rather than standardizing on the cheaper one.",
+      "caveats": "The primary comparisons were not statistically significant within either racial group; the race-by-intervention interaction is a secondary finding and should be treated as hypothesis-generating. Conducted entirely in the US South, which may limit generalizability. Most \"completion\" was participant-reported informal discussion rather than documented in the medical record \u2014 only 130 of 789 had a formal advance directive or order."
+    },
+    {
+      "headline": "Back pain that stops you from doing things predicts frailty seven years later",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 7",
+      "pmid": "42844230",
+      "doi": "10.1111/jgs.70755",
+      "the_study": "Researchers followed 2,554 community-dwelling older men (mean age 71.6) from the Osteoporotic Fractures in Men (MrOS) Study who were robust or pre-frail at baseline, reassessing frailty an average of seven years later. Several back pain measures predicted later frailty in basic models, but after full adjustment \u2014 including for pre-frail status at baseline \u2014 only activity-limiting back pain remained independently associated with progressing to frailty (OR 1.40, 95% CI 1.03\u20131.90). Plain presence, severity or frequency of back pain did not independently predict frailty once other factors were accounted for.",
+      "why_it_matters": "It suggests the clinically meaningful question is not \"does your back hurt?\" but \"does your back stop you from doing what you need to do?\" \u2014 and that treating functional limitation from back pain may be a lever against frailty.",
+      "story_angle_primary": "If back pain is keeping you from walking, gardening, carrying groceries or getting out of a chair, that's worth raising with your doctor as more than a nuisance \u2014 this study links activity-limiting back pain specifically to becoming frail years later. Aim the conversation at restoring function (physical therapy, graded activity, pain management that lets you move) rather than just pain relief. The research cannot prove treating the pain prevents frailty, but it identifies who is at higher risk.",
+      "story_angle_secondary": "For caregivers and senior living staff, this supports screening residents on what back pain prevents them from doing, not just on a 0\u201310 pain score \u2014 the functional question is the one carrying the prognostic signal, and it is easy to add to routine check-ins.",
+      "caveats": "Observational cohort \u2014 cannot establish causation. Participants were all men, mostly older community-dwellers in the US, so findings may not generalize to women or to people in residential care. Back pain and activity limitation were self-reported. Deaths between visits were handled as a separate category, and survivor effects may influence estimates."
+    },
+    {
+      "headline": "When advanced cancer blocks the bowel, chemotherapy relieves it in only one patient in three \u2014 and the toxicity is heavy",
+      "journal": "BMJ Support Palliat Care",
+      "published": "2026 Oct 7",
+      "pmid": "42843988",
+      "doi": "10.1136/spcare-2026-006508",
+      "the_study": "A retrospective single-center cohort at a Paris university hospital reviewed 64 patients (median age 62) hospitalized between 2015 and 2025 with inoperable malignant bowel obstruction that had not responded to medical management and who were then given systemic anticancer therapy. Obstruction resolved in 33%, but 38% of responders re-obstructed within about a month, median overall survival was just 50 days, and 58% experienced severe (grade 3 or higher) adverse events. Patients with gynecological tumors fared somewhat better, particularly when treated in the first line.",
+      "why_it_matters": "It puts hard numbers on a decision many families face late in a cancer illness \u2014 the chance of relief is modest, short-lived, and bought at a high cost in side effects, which makes an honest goals-of-care conversation more valuable than another treatment cycle for many patients.",
+      "story_angle_primary": "If you or someone you love is facing a bowel obstruction from advanced cancer, it is reasonable to ask the oncologist directly: what is the realistic chance this treatment opens the blockage, how long might that last, and what will the side effects cost me in my remaining time? This study suggests roughly a one-in-three chance of relief, with most patients surviving under two months \u2014 information you deserve before deciding.",
+      "story_angle_secondary": "For palliative care teams and family caregivers, the data argue for triggering goals-of-care discussions at the point of refractory obstruction rather than after a failed treatment line, and for preparing families that symptom relief, if it comes, may be temporary.",
+      "caveats": "Retrospective, single-center, no control group \u2014 patients who were not offered therapy weren't compared. Small N (64) with subgroup analyses that are exploratory. Median age 62 and 84% female, so the population skews younger and more gynecologic-cancer-heavy than a general older cancer population. No quality-of-life outcomes measured."
+    },
+    {
+      "headline": "People with Parkinson's who stay the most active decline the slowest \u2014 and total time moving matters more than intensity",
+      "journal": "Neurology",
+      "published": "2026 Nov 10",
+      "pmid": "42842855",
+      "doi": "10.1212/WNL.0000000000218682",
+      "the_study": "Researchers followed 294 people with mild-to-moderate Parkinson disease (mean age 66) enrolled in the Cincinnati Cohort Biomarker Program, tracking motor symptoms for up to 7 years and cognition for up to 5 years while measuring physical activity through standardized interviews. Those in the highest tertile of total activity time showed essentially no cognitive decline (-0.007 MoCA points per year) compared with a drop of -0.478 points per year in the least active group, and their motor scores actually improved slightly while the least active group worsened. Notably, once total activity time was accounted for, vigorous activity added no extra benefit \u2014 and recent activity predicted outcomes even after adjusting for the previous decade of activity.",
+      "why_it_matters": "It suggests that for people living with Parkinson disease, the amount of time spent moving \u2014 and keeping it up now, not just having been athletic in the past \u2014 tracks with slower loss of both thinking skills and movement ability.",
+      "story_angle_primary": "If you're living with Parkinson disease, this is reason to ask your neurologist or physical therapist about building more total daily movement into your week rather than worrying about whether it's intense enough \u2014 and to know that starting or restarting now appears to count, regardless of how active you were ten years ago. These are associations, not proof that exercise changes the disease course, so treat it as a conversation starter rather than a prescription.",
+      "story_angle_secondary": "For care partners and activity staff in senior living, the practical takeaway is design: accumulating hours of moderate movement across the day \u2014 walking, chores, group classes \u2014 may matter more than offering a few high-intensity sessions, and programming should assume that consistency and ongoing engagement are the levers, not peak exertion.",
+      "caveats": "Observational design, so it cannot establish that activity causes slower progression \u2014 people declining more slowly may simply be able to do more. Physical activity was self-reported via interview, the cohort was single-center and two-thirds male, and the authors flag potential selection bias."
+    },
+    {
+      "headline": "Older adults quit their dizziness exercises within a year \u2014 and most never tell anyone",
+      "journal": "J Neurol",
+      "published": "2026 Oct 8",
+      "pmid": "42844416",
+      "doi": "10.1007/s00415-026-14195-0",
+      "the_study": "Researchers followed 337 adults aged 60 and older (mean age 71, 53% women) treated for vertigo, dizziness and balance disorders at a German specialty center, checking in at 3 and 12 months after they received exercise and lifestyle recommendations. Self-reported adherence to the specific balance exercises dropped sharply over time \u2014 the odds of sticking with them at 12 months were about a quarter of the odds at 3 months. People whose dizziness caused more handicap at baseline stuck with exercises more; men were less likely to follow lifestyle advice, and people with higher confidence in their own ability to manage (self-efficacy) followed it more.",
+      "why_it_matters": "Vestibular exercises only work while you do them, and dizziness is a leading contributor to falls \u2014 so a quiet drop-off at the nine-month mark can undo the gains of treatment without anyone noticing.",
+      "story_angle_primary": "If you were given balance or vertigo exercises, mark the 6- and 12-month points on your calendar and raise them at your next appointment \u2014 adherence in this study faded fast after the initial follow-up, and you can ask your clinician whether your routine still fits your current symptoms and how to rebuild the habit.",
+      "story_angle_secondary": "For families and care staff: adherence support shouldn't stop at the three-month check-in. Consider building vestibular exercises into an existing daily routine and watching for the pattern this study found \u2014 people who feel better may be the first to stop, and men in particular may need more follow-up on lifestyle recommendations.",
+      "caveats": "Observational cohort \u2014 cannot establish cause; adherence was self-reported on a single Likert-scale item; single tertiary referral center in Germany, so patients may be more severely affected than typical primary care patients."
+    },
+    {
+      "headline": "Myasthenia gravis starting after 65 hits harder at the start \u2014 but long-term outcomes may be just as good",
+      "journal": "Eur Geriatr Med",
+      "published": "2026 Oct 7",
+      "pmid": "42842206",
+      "doi": "10.1007/s41999-026-01621-9",
+      "the_study": "Researchers pooled 10 observational studies comparing myasthenia gravis that begins at age 65 or older (\"very late-onset,\" 647 patients) with earlier-onset disease (1,620 patients). Severe early presentation \u2014 the class of disease involving a crisis or severe weakness \u2014 was more than twice as common in the very late-onset group (10.2% vs 3.8%), with more early swallowing, speech and breathing involvement and more need for intubation. Notably, the conventional cutoff of age 50 showed no such difference, and long-term disease control appeared broadly comparable across age groups, especially when immunotherapy was used.",
+      "why_it_matters": "Drooping eyelids, slurred speech, swallowing trouble or weakness that worsens through the day in someone over 65 is often chalked up to \"just aging\" or stroke \u2014 but this analysis suggests that when myasthenia starts this late, the early course is more dangerous and the window for quick diagnosis is narrower.",
+      "story_angle_primary": "If you develop new drooping eyelids, double vision, a change in your voice, trouble swallowing, or weakness that is worse by evening and better after rest, ask specifically about myasthenia gravis \u2014 this analysis found the disease can present severely in people over 65, and the encouraging news is that long-term control with treatment appears comparable to that in younger patients.",
+      "story_angle_secondary": "For senior living and nursing staff: new swallowing difficulty, nasal or slurred speech, or breathing trouble in a resident over 65 deserves a neurological workup rather than being managed only as a dysphagia or aspiration problem \u2014 early bulbar and respiratory involvement was the hallmark of this group.",
+      "caveats": "Meta-analysis of observational studies only; just four studies contributed to the main pooled estimate; definitions of age strata, follow-up length and treatment exposure varied widely between studies; long-term outcomes were summarized qualitatively rather than pooled."
+    },
+    {
+      "headline": "Brain white-matter damage grows faster with age \u2014 and lower blood pressure didn't predict slower progression",
+      "journal": "Ageing Res Rev",
+      "published": "2026 Oct 7",
+      "pmid": "42843461",
+      "doi": "10.1016/j.arr.2026.103393",
+      "the_study": "Investigators pooled 54 longitudinal MRI studies to quantify how fast white matter hyperintensities \u2014 the bright spots on brain scans that reflect small-vessel damage \u2014 accumulate in older adults. Burden increased over time in every category of study, including those with the most rigorous health screening, and progressed faster in older samples. Counterintuitively, samples with lower average baseline diastolic or mean arterial pressure showed faster progression, as did samples with more vascular disease; progression was unrelated to the sample's sex or ethno-racial makeup. Among the healthiest samples, lower baseline cognitive scores predicted faster accumulation.",
+      "why_it_matters": "White matter changes are tied to slower walking, falls and cognitive decline, and this is the largest synthesis to date of how quickly they actually advance \u2014 with a surprising signal that very low blood pressure in later life may not be protective for the brain's small vessels.",
+      "story_angle_primary": "If a brain scan report mentions \"white matter hyperintensities\" or \"small vessel disease,\" it's common with age rather than a diagnosis in itself \u2014 but it's a reasonable prompt to ask your doctor how your blood pressure is being managed, including whether your readings run low, since this analysis found faster progression in groups with lower average pressures. Don't change any medication on your own.",
+      "story_angle_secondary": "For clinicians and care professionals: this synthesis cautions against assuming lower is always better for blood pressure in older patients with small-vessel disease, and highlights how much of what we think we know about progression rests on cross-sectional snapshots rather than repeated scans.",
+      "caveats": "Meta-analysis of study-level averages, not individual patients \u2014 group-level associations like the blood pressure finding can't be applied to any one person (ecological fallacy risk); observational data cannot establish causation; studies used varied imaging protocols and measurement methods; reverse causation (sicker patients being treated to lower pressures) cannot be ruled out."
+    },
+    {
+      "headline": "Living in a neighborhood without toilets raises depression risk for older adults \u2014 even for those who have one at home",
+      "journal": "Geroscience",
+      "published": "2026 Oct 7",
+      "pmid": "42842074",
+      "doi": "10.1007/s11357-026-02537-9",
+      "the_study": "Using the 2017-2018 Longitudinal Aging Study in India, researchers applied multilevel modeling to examine whether the share of households without toilets in a community predicted depression among adults over 45. People living in communities in the lowest quintile of toilet coverage had a 38% higher risk of depressive symptoms than those in the highest-coverage communities (OR 1.38, 95% CI 1.08-1.76), with the same pattern holding for probable major depression. The authors suggest place-based stigma, community-wide shame and a \"disorder-generating environment\" as possible pathways.",
+      "why_it_matters": "It's among the first large studies to show that the conditions of the surrounding neighborhood \u2014 not just an individual's own household \u2014 shape late-life mental health in a low- and middle-income country, where most of the world's older adults will soon live.",
+      "story_angle_primary": "Your mood in later life is shaped by more than your own household circumstances \u2014 the state of the neighborhood around you matters too. If you feel persistently low, it's worth naming your living environment and sanitation or safety concerns when you talk to a health worker, rather than treating depression as a purely personal failing.",
+      "story_angle_secondary": "For those designing aging services and housing: this is evidence that infrastructure investment is mental health investment, and that screening for depression in older adults should take community conditions into account, not just individual risk factors.",
+      "caveats": "Cross-sectional analysis \u2014 cannot establish causation or rule out reverse direction; depressive symptoms were self-reported via screening instruments rather than clinical diagnosis; findings from India may not generalize to high-income settings; unmeasured community poverty could explain part of the association."
+    },
+    {
+      "headline": "Adding methadone to existing opioids eased stubborn cancer pain in every study reviewed \u2014 but the evidence is thin",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Oct 7",
+      "pmid": "42843430",
+      "doi": "10.1016/j.jpainsymman.2026.09.032",
+      "the_study": "Researchers screened 4,680 articles and found 13 studies \u2014 just one randomized trial \u2014 covering 641 patients (mean age 62.8) who received low-dose methadone added to an ongoing opioid regimen for cancer pain. Every study reported meaningful pain relief from the adjunct approach, and while 10 studies reported side effects, only a few cases were described as severe. The authors, publishing the first systematic review on this question, rate the overall evidence as low quality and call for larger randomized trials.",
+      "why_it_matters": "Many people with advanced cancer reach a point where escalating their opioid dose brings more side effects than relief, and this review suggests a widely available, inexpensive option that may help without a full and risky opioid switch.",
+      "story_angle_primary": "If your cancer pain isn't controlled despite rising opioid doses \u2014 or the doses are leaving you sedated, constipated or confused \u2014 it's reasonable to ask your palliative care team or oncologist whether adding low-dose methadone to your current regimen is an option for you. Methadone interacts with many drugs and affects heart rhythm, so this is a specialist conversation, not a self-directed change.",
+      "story_angle_secondary": "For families and hospice staff: this review helps explain a practice some palliative teams already use, and gives caregivers language to raise it \u2014 while making clear the evidence rests largely on retrospective studies and case reports, so expectations should be set accordingly.",
+      "caveats": "Systematic review of mostly low-quality evidence \u2014 only one RCT, with five retrospective studies and four case reports; small total sample (641); mean age under 65, so findings are not specific to older patients; no pooled quantitative estimate of benefit; publication bias toward positive results is likely."
+    },
+    {
+      "headline": "Adults with Down syndrome develop Alzheimer's early \u2014 and language changes may be an overlooked warning sign",
+      "journal": "Aging Ment Health",
+      "published": "2026 Oct 7",
+      "pmid": "42844026",
+      "doi": "10.1080/13607863.2026.2733920",
+      "the_study": "Researchers systematically reviewed 14 studies on cognitive and linguistic decline in adults with Down syndrome who develop Alzheimer's disease \u2014 a group at very high genetic risk, often with onset in their 40s and 50s. Impairments in episodic memory, executive function and attention emerged consistently as early markers, alongside receptive language problems, declining semantic verbal fluency and word-finding difficulty. Crucially, the review found that existing assessment tools focus heavily on cognition while language and communication decline remains comparatively unstudied.",
+      "why_it_matters": "Adults with Down syndrome are living longer than ever and their families and support staff are often the first to notice change \u2014 but the standard tools clinicians use may miss the communication changes that families see first.",
+      "story_angle_primary": "If you are aging with Down syndrome or supporting someone who is, know that word-finding trouble, difficulty understanding what's said, or a shrinking ability to name familiar things can be early signs worth raising with a doctor \u2014 and ask whether a baseline assessment can be done now, while abilities are stable, to make later changes easier to detect.",
+      "story_angle_secondary": "For group home and day program staff: your observations of a resident's everyday communication may be more sensitive than the formal cognitive tests currently in use. Documenting a person's typical vocabulary, comprehension and conversational patterns while they are well gives clinicians the comparison point the research field currently lacks.",
+      "caveats": "Systematic review of only 14 heterogeneous studies with no pooled analysis; most underlying studies are cross-sectional, so the sequence of decline is inferred rather than demonstrated; the authors themselves note a lack of population-appropriate assessment tools, limiting confidence in the findings."
+    },
+    {
+      "headline": "Brief sessions of thin-air breathing proved safe in Parkinson's \u2014 and shifted stress and metabolic hormones",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Oct",
+      "pmid": "42574864",
+      "doi": "10.1016/j.parkreldis.2026.108922",
+      "the_study": "Researchers in Brazil ran a randomized, double-blind crossover trial in 15 people with Parkinson's disease and 15 sex-matched people without neurological disease. Each participant completed two 39-minute sessions on separate occasions \u2014 one of intermittent normobaric hypoxia (four 6-minute periods breathing low-oxygen air, interspersed with normal air) and one of ordinary air \u2014 with wrist actigraphy and blood biomarkers measured at baseline, right after, and 24 hours later. The low-oxygen session reliably dropped blood oxygen saturation and, in the Parkinson's group, acutely lowered cortisol and leptin and raised adiponectin, with no change in BDNF, IL-6, or iron and no disruption of sleep immediately afterward; total sleep time did dip 24 hours later compared with the post-session measurement.",
+      "why_it_matters": "Intermittent hypoxia is being floated as a possible neuroprotective therapy for Parkinson's, and this is an early safety check in real patients showing a single controlled session can be tolerated without wrecking sleep \u2014 a necessary step before anyone tests whether repeated sessions help.",
+      "story_angle_primary": "If you have Parkinson's and have seen 'altitude training' or hypoxia chambers marketed as a treatment, this trial shows only that one carefully supervised laboratory session was tolerated \u2014 not that it slows the disease or improves symptoms. It is a reason to follow the research and ask your neurologist about clinical trials, not to buy a device or try it on your own.",
+      "story_angle_secondary": "For care staff and family: the useful detail here is the 24-hour sleep dip after a single session. If an older person with Parkinson's enrolls in any hypoxia-based research, sleep is worth logging for a couple of days afterward rather than only on the day of the session.",
+      "caveats": "Very small sample (15 people with Parkinson's, 15 controls); single session with only 24-hour follow-up; biomarker and sleep outcomes rather than symptoms or function; actigraphy-based sleep measures; single-center; participant age range not reported, so applicability to the oldest patients is unclear."
+    },
+    {
+      "headline": "A cancer drug restored muscle strength in aged mice by clearing a metabolic traffic jam",
+      "journal": "Aging Cell",
+      "published": "2026 Oct",
+      "pmid": "42841610",
+      "doi": "10.1111/acel.70703",
+      "the_study": "Working in human muscle cells and in progeroid (rapidly aging) mice, researchers found that senescent muscle precursor cells ramp up an enzyme called glutaminase (GLS1), which causes urea to build up inside cells and poisons mitochondrial function. Blocking GLS1 with CB-839, a drug already developed for cancer, lowered urea, restored the mitochondrial electron transport chain machinery, and improved respiratory capacity. In the mice, that translated into better muscle structure and measurably greater strength.",
+      "why_it_matters": "Sarcopenia \u2014 the age-related loss of muscle mass and strength \u2014 drives falls, frailty, and loss of independence, and there is still no approved drug for it; this points to an existing compound and a specific metabolic target worth testing in people.",
+      "story_angle_primary": "This is mouse-and-cell work, so there is nothing to ask your doctor to prescribe. What it reinforces for you right now is that muscle loss is a biological process researchers are actively trying to treat \u2014 and until a drug exists, resistance training and adequate protein remain the only tools with human evidence behind them.",
+      "story_angle_secondary": "For senior living and rehab professionals: expect 'anti-sarcopenia drug' headlines to accelerate. Knowing that this evidence is preclinical helps you set realistic expectations with residents and families who arrive asking about a pill for weakness.",
+      "caveats": "Entirely preclinical \u2014 cultured cells and progeroid mice, no human subjects; progeroid mice model accelerated aging and may not reflect normal human aging; no data on safety or dosing in older adults; CB-839 is an investigational cancer drug, not approved for muscle conditions."
+    },
+    {
+      "headline": "Scientists finally built an animal model of the tiny brain bleeds linked to memory loss in older adults",
+      "journal": "Brain",
+      "published": "2026 Oct 5",
+      "pmid": "42225261",
+      "doi": "10.1093/brain/awag048",
+      "the_study": "Cerebral microbleeds \u2014 specks of old bleeding seen on MRI \u2014 are a key marker of small vessel disease, a leading cause of stroke and cognitive decline in later life, but no good animal model existed. Korean researchers used gene editing delivered specifically to brain blood vessels in adult mice to disable Col4a1, a collagen gene, and produced microbleeds that closely mirrored the human pattern, accumulating over six months alongside progressive cognitive decline and motor incoordination. They then analyzed MRI and genomic data from 836 people in the BICWALZS biobank and found four variants in the TIMP2 gene associated with greater microbleed burden (odds ratios 1.50\u20131.96).",
+      "why_it_matters": "Microbleeds show up on brain scans of many older adults and currently come with no treatment and little explanation; having a working model and a candidate genetic pathway is the step that makes drug development possible.",
+      "story_angle_primary": "If a brain scan has ever mentioned 'microbleeds' and you were told there was nothing to do about them, that remains true for now \u2014 but research has moved from describing them to reproducing them in the lab, which is how treatments eventually get built. Vascular risk control \u2014 blood pressure above all \u2014 is still the only lever with human evidence behind it.",
+      "story_angle_secondary": "For families: incidental microbleed findings on an MRI often cause alarm out of proportion to what clinicians can act on. It helps to know that this is an active, fast-moving research area rather than a dead end, and to redirect the conversation toward the modifiable vascular risks the care team can actually address.",
+      "caveats": "Primarily an animal study; the human component is observational genetic association in a single biobank of 836 participants and cannot establish causation; findings in gene-edited mice may not reflect sporadic human disease; no therapeutic tested."
+    },
+    {
+      "headline": "Sudden wild, flinging movements on one side of the body: a big review rewrites what doctors thought they knew",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Oct",
+      "pmid": "42469138",
+      "doi": "10.1016/j.parkreldis.2026.108442",
+      "the_study": "Researchers in Finland pooled every published case they could find of hemichorea-ballism caused by a brain lesion \u2014 586 cases, most commonly triggered by strokes and other acute brain injuries that disproportionately affect older adults. For decades the disorder has been taught as a hallmark of damage to a small structure called the subthalamic nucleus, but only 24.6% of cases actually involved it. Symptoms came on abruptly, within seven days, in 83.1% of cases; 82.2% responded to medication and 52.8% of cases eventually remitted. Where the lesion sat mattered for outcome: subthalamic lesions produced more violent flinging movements, responded less often to drugs, and took longer to settle, while purely cortical lesions had the best prognosis.",
+      "why_it_matters": "Abrupt involuntary flinging or writhing on one side of the body is most often a sign of acute brain injury such as a stroke, and this review shows the great majority of people improve with treatment \u2014 information that can reduce panic and guide realistic expectations during recovery.",
+      "story_angle_primary": "If uncontrollable jerking, writhing or flinging movements appear suddenly on one side of your body, treat it like any other sudden neurological change and seek emergency care \u2014 these movements usually start within days of an underlying brain event, and brain imaging is what identifies the cause. It is also worth knowing the outlook is often better than it looks: most people in this review responded to medication and about half saw their symptoms resolve.",
+      "story_angle_secondary": "For families and senior living staff, the practical lesson is recognition: new, dramatic one-sided movements are a medical emergency, not agitation, 'nerves,' or a behavioral issue, and they warrant an immediate call rather than observation. Staff should also be prepared for a period of high fall and injury risk while the movements are active, and can reassure families that remission is common.",
+      "caveats": "Systematic review of published case reports and series, which overrepresent unusual or severe presentations and lack a control group; no standardized treatment protocol across cases; associations between lesion location and prognosis are observational. Study support came from Finnish academic foundations; several authors report speaking fees and consulting relationships with pharmaceutical and device companies including AbbVie, Novartis and Lundbeck."
+    },
+    {
+      "headline": "The exercise research guiding senior fitness programs is measuring activity with tools never designed for older bodies",
+      "journal": "J Aging Phys Act",
+      "published": "2026 Feb 4 (print 2026 Oct 1)",
+      "pmid": "41638194",
+      "doi": "10.1123/japa.2024-0254",
+      "the_study": "Following a federal review that struggled to compare physical activity studies in older adults, researchers examined 45 published intervention evaluations to see how activity was actually measured. Most relied on self-reported questionnaires that were not adapted for older adults, device-based studies used widely inconsistent thresholds for what counts as 'moderate' activity, and few studies reported whether their own measurements were reliable or valid.",
+      "why_it_matters": "Claims that a given walking group, chair-exercise class or wellness program 'increases physical activity' rest on measurement tools that may systematically misread how older bodies move, making it hard to know which programs genuinely work.",
+      "story_angle_primary": "When a program promises to get you moving more, ask how they will know \u2014 a step counter, a questionnaire, or a timed test \u2014 and remember that tools calibrated on younger, faster walkers can undercount real effort. Tracking something you can feel and verify, like how far you walk before resting or how easily you rise from a chair, may tell you more about your own progress than an app's activity minutes.",
+      "story_angle_secondary": "For senior living activity directors and program evaluators, this is a prompt to choose measures validated specifically in older adults and to report them consistently, so results from your program can actually be compared with the evidence base rather than adding to the noise.",
+      "caveats": "A methodological review of published literature, not a study of older adults' outcomes; it identifies measurement problems but does not establish which programs work or test a solution. Conducted by authors at a consulting firm; no clinical recommendations follow from it."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42842242",
+      "headline": "A trained guide helped Black older adults plan end-of-life care \u2014 a self-serve workbook worked just as well for White patients",
+      "verdict": "minor",
+      "notes": "Body text and numbers match the abstract closely; the headline states an effect the trial did not find significant, and the caveat's description of \"formal\" ACP is slightly narrower than the study's definition.",
+      "issues": [
+        {
+          "label": "Headline asserts a non-significant within-group effect",
+          "severity": "Minor",
+          "as_written": "A trained guide helped Black older adults plan end-of-life care \u2014 a self-serve workbook worked just as well for White patients",
+          "abstract_says": "Among Black participants, 152 of 213 (71%) in facilitated clinics and 131 of 213 (62%) in self-guided clinics completed ACP within 1 year (adjusted risk ratio [RR], 1.15 [95% CI, 0.83-1.59])... CONCLUSIONS AND RELEVANCE: ACP completion within 1 year did not differ significantly between facilitated vs self-guided ACP approaches within Black or White racial groups.",
+          "problem": "The headline reads as if facilitation produced a real benefit for Black participants, but the within-group comparison was not statistically significant; only the race-by-intervention interaction was. The body and caveats state this correctly, so the headline is out of step with the digest's own hedging.",
+          "suggested_fix": "Reword to signal the relative nature of the finding, e.g. \"Neither advance care planning format beat the other \u2014 but the facilitated version did relatively better for Black patients\"."
+        },
+        {
+          "label": "Definition of \"formal\" ACP narrowed",
+          "severity": "Minor",
+          "as_written": "only 130 of 789 had a formal advance directive or order",
+          "abstract_says": "new formal (advance directive, clinician note, or orders for life-sustaining treatment form in the medical record)",
+          "problem": "The study's formal category also included a clinician note in the medical record; the digest lists only directives and orders.",
+          "suggested_fix": "Say \"only 130 of 789 had formal documentation in the medical record (advance directive, clinician note or treatment orders).\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42844230",
+      "headline": "Back pain that stops you from doing things predicts frailty seven years later",
+      "verdict": "minor",
+      "notes": "N, cohort, mean age and the odds ratio are all correct; the digest omits that the significant association was specifically frail vs pre-frail, with no back pain measure predicting frail vs robust.",
+      "issues": [
+        {
+          "label": "Outcome comparison not specified",
+          "severity": "Minor",
+          "as_written": "only activity-limiting back pain remained independently associated with progressing to frailty (OR 1.40, 95% CI 1.03\u20131.90)",
+          "abstract_says": "only the activity-limiting back pain phenotype was associated with significantly higher odds of later being classified as frail vs. prefrail (OR = 1.40 [1.03-1.90]), and no back pain phenotypes were associated with higher odds of later being classified as frail vs. robust",
+          "problem": "The OR applies to the frail-versus-pre-frail comparison only; in the fully adjusted models nothing predicted becoming frail relative to staying robust. Readers may assume a broader result than the data show.",
+          "suggested_fix": "Add the comparison, e.g. \"...associated with later being classified as frail rather than pre-frail (OR 1.40); no back pain measure predicted frailty versus staying robust.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42843988",
+      "headline": "When advanced cancer blocks the bowel, chemotherapy relieves it in only one patient in three \u2014 and the toxicity is heavy",
+      "verdict": "accurate",
+      "notes": "Sample size, setting, dates, resolution rate, reobstruction, median survival, toxicity and the gynecological subgroup all match the abstract; caveats appropriately note the retrospective single-center design and absent quality-of-life data.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "pmid": "42842855",
+      "headline": "People with Parkinson's who stay the most active decline the slowest \u2014 and total time moving matters more than intensity",
+      "verdict": "accurate",
+      "notes": "N, mean age, follow-up lengths, MoCA tertile slopes, the motor direction of effect, and the residualized analyses on vigorous and recent activity all match; observational limits are clearly flagged.",
+      "issues": []
+    },
+    {
+      "number": 5,
+      "pmid": "42844416",
+      "headline": "Older adults quit their dizziness exercises within a year \u2014 and most never tell anyone",
+      "verdict": "minor",
+      "notes": "Sample, odds ratios and predictor findings are reported accurately, but the headline's second clause has no basis in the abstract and the \"nine-month mark\" framing invents a timepoint.",
+      "issues": [
+        {
+          "label": "Unsupported headline claim",
+          "severity": "Moderate",
+          "as_written": "and most never tell anyone",
+          "abstract_says": "Self-reported adherence was measured using a five-point Likert scale and dichotomised at predefined cut-offs... adherence to specific exercises was lower at 12 than at 3 months (odds ratio (OR) 0.28; 95% confidence interval (CI) 0.12-0.67).",
+          "problem": "The study measured only self-reported adherence; nothing in the abstract addresses whether patients disclose stopping to clinicians or anyone else. The claim is invented.",
+          "suggested_fix": "Drop the clause or replace with something the study supports, e.g. \"\u2014 and the drop-off happens after the first follow-up visit.\""
+        },
+        {
+          "label": "Timepoint not studied",
+          "severity": "Minor",
+          "as_written": "a quiet drop-off at the nine-month mark can undo the gains of treatment",
+          "abstract_says": "The participants were assessed at baseline and followed up after 3 and 12 months.",
+          "problem": "Assessments were at 3 and 12 months; the study cannot locate the drop-off at nine months.",
+          "suggested_fix": "Say \"a quiet drop-off somewhere between the 3- and 12-month checks\"."
+        },
+        {
+          "label": "Falls claim not in abstract",
+          "severity": "Minor",
+          "as_written": "dizziness is a leading contributor to falls",
+          "abstract_says": "Specific exercises and lifestyle-related recommendations are used to manage vertigo, dizziness, and balance disorders (VDB), but evidence on adherence and its determinants in older adults is limited.",
+          "problem": "Background assertion not supported by this abstract; it is general context rather than a study finding.",
+          "suggested_fix": "Attribute it as general background or cite a source, e.g. \"dizziness is widely recognized as a fall risk factor\"."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42842206",
+      "headline": "Myasthenia gravis starting after 65 hits harder at the start \u2014 but long-term outcomes may be just as good",
+      "verdict": "minor",
+      "notes": "Patient counts, percentages, the age-50 null comparison and the qualitative bulbar/respiratory findings are accurate; the digest smooths over the abstract's description of long-term outcomes as \"inconsistent.\"",
+      "issues": [
+        {
+          "label": "Long-term outcome consistency overstated",
+          "severity": "Minor",
+          "as_written": "long-term disease control appeared broadly comparable across age groups, especially when immunotherapy was used",
+          "abstract_says": "long-term outcomes were inconsistent though often comparable among different age-at-onset groups, particularly when immunotherapy was used",
+          "problem": "The abstract explicitly calls the long-term results inconsistent across studies; \"broadly comparable\" reads as a more settled finding than the evidence supports.",
+          "suggested_fix": "Write \"long-term results were inconsistent across studies but often comparable, particularly when immunotherapy was used.\""
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42843461",
+      "headline": "Brain white-matter damage grows faster with age \u2014 and lower blood pressure didn't predict slower progression",
+      "verdict": "minor",
+      "notes": "The meta-analytic findings (54 studies, age effect, blood pressure and vascular disease moderators, null sex/ethno-racial effects, cognition in healthiest samples) are reported correctly; two contextual claims go beyond the abstract.",
+      "issues": [
+        {
+          "label": "\"Largest synthesis to date\" claim",
+          "severity": "Minor",
+          "as_written": "this is the largest synthesis to date of how quickly they actually advance",
+          "abstract_says": "we conducted a meta-analysis of 54 longitudinal studies",
+          "problem": "The abstract makes no priority or size claim relative to other reviews. Unverifiable from abstract only.",
+          "suggested_fix": "Say \"a meta-analysis pooling 54 longitudinal MRI studies\" without the superlative."
+        },
+        {
+          "label": "Clinical consequences not in abstract",
+          "severity": "Minor",
+          "as_written": "White matter changes are tied to slower walking, falls and cognitive decline",
+          "abstract_says": "White matter hyperintensities (WMH) are ubiquitous on magnetic resonance images (MRI) in older adults. However, the rate and mechanisms of their proliferation remain unclear",
+          "problem": "The abstract does not report associations with gait, falls or cognitive decline (only baseline cognitive status as a moderator of progression). Unverifiable from abstract only.",
+          "suggested_fix": "Flag as outside background or drop, e.g. \"White matter changes are a marker of small-vessel disease\"."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "pmid": "42842074",
+      "headline": "Living in a neighborhood without toilets raises depression risk for older adults \u2014 even for those who have one at home",
+      "verdict": "significant",
+      "notes": "The odds ratio, population and multilevel design are reported correctly, but the headline uses causal language for a cross-sectional study (contradicting the digest's own caveat) and adds a household-level claim the abstract does not support.",
+      "issues": [
+        {
+          "label": "Causal headline for cross-sectional data",
+          "severity": "Moderate",
+          "as_written": "Living in a neighborhood without toilets raises depression risk for older adults",
+          "abstract_says": "This cross-sectional study examines community-level toilet coverage in India as a possible determinant of depression among adults over 45... an increase in the proportion of individuals living in no-toilet households within communities is associated with a greater risk of depressive symptoms",
+          "problem": "\"Raises\" asserts causation from a single cross-sectional survey; the digest's own caveat says causation cannot be established, so the headline contradicts it.",
+          "suggested_fix": "Use associational wording: \"Living in a neighborhood where few households have toilets is linked to higher depression risk in older adults.\""
+        },
+        {
+          "label": "Unsupported individual-level qualifier",
+          "severity": "Moderate",
+          "as_written": "even for those who have one at home",
+          "abstract_says": "people living in communities with the lowest quintile of toilet coverage had a higher risk of experiencing depressive symptoms (OR 1.38, 95% CI 1.08 to 1.76) compared to those living in communities with the highest quintile of toilet coverage",
+          "problem": "The abstract does not report results stratified by, or adjusted for, whether the respondent's own household had a toilet, so this claim cannot be verified from the abstract.",
+          "suggested_fix": "Remove the clause, or say \"the study looked at community-level toilet coverage rather than individual households\" if the full text supports it."
+        },
+        {
+          "label": "Population described as older adults",
+          "severity": "Minor",
+          "as_written": "predicted depression among adults over 45",
+          "abstract_says": "depression among adults over 45",
+          "problem": "The body text is correct, but the headline and audience framing present a sample starting at age 45 as a finding about \"older adults\"; worth a brief note so readers understand the age span.",
+          "suggested_fix": "Note in the body that the sample included middle-aged adults from 45 upward, not only seniors."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "pmid": "42843430",
+      "headline": "Adding methadone to existing opioids eased stubborn cancer pain in every study reviewed \u2014 but the evidence is thin",
+      "verdict": "minor",
+      "notes": "Screening numbers, study count, participants, mean age, study mix and the low-quality verdict are all accurate; \"low-dose\" and \"inexpensive\" are details the abstract does not supply.",
+      "issues": [
+        {
+          "label": "\"Low-dose\" not specified in abstract",
+          "severity": "Minor",
+          "as_written": "641 patients (mean age 62.8) who received low-dose methadone added to an ongoing opioid regimen",
+          "abstract_says": "13 studies including 641 participants (mean age 62.8 years, 53% male)... the efficacy, safety and tolerability of adjunct methadone in combination with ongoing opioid regimens for cancer-related pain",
+          "problem": "The abstract describes adjunct methadone without specifying dose; \"low-dose\" is unverifiable from abstract only and repeats in the story angle.",
+          "suggested_fix": "Use \"adjunct methadone added to an ongoing opioid regimen\" unless dose details can be confirmed from the full text."
+        },
+        {
+          "label": "Cost and availability claim",
+          "severity": "Minor",
+          "as_written": "this review suggests a widely available, inexpensive option",
+          "abstract_says": "Although findings across all studies suggest analgesic benefit for cancer-related pain, high-quality, larger-scale RCTs are required to better inform clinical recommendations.",
+          "problem": "The review says nothing about cost or availability; these are added editorial claims.",
+          "suggested_fix": "Drop the cost framing or attribute it separately as context, not as a review finding."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42844026",
+      "headline": "Adults with Down syndrome develop Alzheimer's early \u2014 and language changes may be an overlooked warning sign",
+      "verdict": "minor",
+      "notes": "The number of studies and the cognitive/linguistic findings match the abstract; a few contextual and methodological statements (age of onset, cross-sectional designs) are not in the abstract.",
+      "issues": [
+        {
+          "label": "Age-of-onset detail not in abstract",
+          "severity": "Minor",
+          "as_written": "a group at very high genetic risk, often with onset in their 40s and 50s",
+          "abstract_says": "To explore the cognitive and linguistic impairments associated with Alzheimer's disease (AD) in individuals with Down syndrome (DS), identify gaps in current research, and propose directions for future investigation.",
+          "problem": "The abstract gives no onset ages or genetic risk figures; this is outside background. Unverifiable from abstract only.",
+          "suggested_fix": "Attribute the onset-age context to general literature rather than to this review."
+        },
+        {
+          "label": "Study design characterization",
+          "severity": "Minor",
+          "as_written": "most underlying studies are cross-sectional, so the sequence of decline is inferred rather than demonstrated",
+          "abstract_says": "Future research should prioritize longitudinal studies and population-sensitive assessment tools to improve early detection and individualized interventions.",
+          "problem": "The abstract calls for more longitudinal research but does not state that most included studies were cross-sectional. The inference is plausible but unverifiable from the abstract.",
+          "suggested_fix": "Reframe as \"the authors call for longitudinal studies, suggesting the current evidence base is largely non-longitudinal.\""
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42574864",
+      "headline": "Brief sessions of thin-air breathing proved safe in Parkinson's \u2014 and shifted stress and metabolic hormones",
+      "verdict": "minor",
+      "notes": "Study design, protocol details, biomarker results and sleep findings all match the abstract. Only the headline word \"proved\" overstates a 15-participant, single-session safety signal.",
+      "issues": [
+        {
+          "label": "\"Proved safe\" overstates a single-session pilot",
+          "severity": "Minor",
+          "as_written": "Brief sessions of thin-air breathing proved safe in Parkinson's \u2014 and shifted stress and metabolic hormones",
+          "abstract_says": "A single IH session is a safe and effective method for inducing hypoxia and modulating biomarkers in pwPD, without disrupting sleep behavior. These findings support the safety of the protocol and encourage investigation into long-term IH",
+          "problem": "The authors say the findings \"support the safety\" of one session in 15 patients; \"proved safe\" implies a level of certainty that a tiny crossover trial with 24-hour follow-up cannot deliver.",
+          "suggested_fix": "Reword to \"appeared safe in a small Parkinson's trial\" or \"was well tolerated in a small Parkinson's trial.\""
+        },
+        {
+          "label": "Device detail not in abstract",
+          "severity": "Minor",
+          "as_written": "with wrist actigraphy and blood biomarkers measured at baseline, right after, and 24 hours later",
+          "abstract_says": "Actigraphy-based sleep metrics and biomarkers (BDNF, cortisol, IL-6, iron, leptin, and adiponectin) were assessed at baseline, immediately post-session, and at 24-h after follow-up.",
+          "problem": "The abstract says \"actigraphy-based\" without specifying wrist placement. Unverifiable from abstract only.",
+          "suggested_fix": "Say \"actigraphy\" without specifying the wrist, or confirm from the full text."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42841610",
+      "headline": "A cancer drug restored muscle strength in aged mice by clearing a metabolic traffic jam",
+      "verdict": "minor",
+      "notes": "Mechanism and results faithfully reported; headline says \"aged mice\" when the animals were progeroid (accelerated-aging) models, and the \"human muscle cells\" and \"cancer drug\" descriptors aren't stated in the abstract.",
+      "issues": [
+        {
+          "label": "Headline says \"aged mice\"; animals were progeroid",
+          "severity": "Minor",
+          "as_written": "A cancer drug restored muscle strength in aged mice by clearing a metabolic traffic jam",
+          "abstract_says": "CB-839 administration to progeroid mice similarly upregulated ETC complexes and enhanced mitochondrial respiratory capacity in skeletal muscle",
+          "problem": "Progeroid mice model accelerated aging rather than normal aging; the headline implies naturally aged animals. The body text and caveats get this right, so only the headline misleads.",
+          "suggested_fix": "Change to \"in rapidly aging mice\" or \"in a mouse model of accelerated aging.\""
+        },
+        {
+          "label": "Cell species not specified in abstract",
+          "severity": "Minor",
+          "as_written": "Working in human muscle cells and in progeroid (rapidly aging) mice",
+          "abstract_says": "senescent skeletal muscle myoblasts exhibit elevated activity and expression of the enzyme glutaminase (GLS1)",
+          "problem": "The abstract does not state that the myoblasts were human. Unverifiable from abstract only.",
+          "suggested_fix": "Say \"in cultured muscle cells\" unless the full text confirms human origin."
+        },
+        {
+          "label": "CB-839's cancer-drug status not in abstract",
+          "severity": "Minor",
+          "as_written": "Blocking GLS1 with CB-839, a drug already developed for cancer",
+          "abstract_says": "Pharmacological inhibition of GLS1 with CB-839 reduced urea levels, restored the expression of electron transport chain (ETC) complexes, and improved mitochondrial function.",
+          "problem": "The abstract makes no mention of CB-839's oncology development history; accurate externally but unverifiable from abstract only.",
+          "suggested_fix": "Attribute the cancer-drug description to outside sources or drop it from the lead."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42225261",
+      "headline": "Scientists finally built an animal model of the tiny brain bleeds linked to memory loss in older adults",
+      "verdict": "accurate",
+      "notes": "Mouse model description, six-month time course, biobank sample size and the TIMP2 odds-ratio range all match the abstract; preclinical status is clearly flagged.",
+      "issues": []
+    },
+    {
+      "number": 14,
+      "pmid": "42469138",
+      "headline": "Sudden wild, flinging movements on one side of the body: a big review rewrites what doctors thought they knew",
+      "verdict": "minor",
+      "notes": "All headline statistics (586 cases, 24.6%, 83.1%, 82.2%, 52.8%) match exactly and conflicts of interest are disclosed; two small framing slips about etiology and the cortical-lesion comparison.",
+      "issues": [
+        {
+          "label": "Stroke as most common cause not stated in abstract",
+          "severity": "Minor",
+          "as_written": "586 cases, most commonly triggered by strokes and other acute brain injuries that disproportionately affect older adults",
+          "abstract_says": "Of the 586 cases identified, only 24.6 % had lesions intersecting the STN. The majority of cases (83.1 %) had acute symptom-onset within 7 days.",
+          "problem": "The abstract reports lesion locations and onset timing but gives no breakdown of etiology or patient age. Unverifiable from abstract only.",
+          "suggested_fix": "Drop the etiology claim or attribute it to background knowledge rather than this review's findings."
+        },
+        {
+          "label": "Cortical-lesion prognosis comparison narrowed in the abstract",
+          "severity": "Minor",
+          "as_written": "while purely cortical lesions had the best prognosis",
+          "abstract_says": "Within cases with non-STN lesions, pure cortical lesions were associated with a more favorable prognosis and a shorter delay to remission compared to non-STN lesions involving subcortical structures",
+          "problem": "The favorable prognosis was established only against other non-STN (subcortical) lesions, not against all lesion locations including STN.",
+          "suggested_fix": "Write \"purely cortical lesions had a better prognosis than other non-subthalamic lesions.\""
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "41638194",
+      "headline": "The exercise research guiding senior fitness programs is measuring activity with tools never designed for older bodies",
+      "verdict": "minor",
+      "notes": "Accurately conveys the review's methods findings and discloses the consulting-firm affiliation; two statements press slightly past what the abstract reports.",
+      "issues": [
+        {
+          "label": "\"Most relied on \u2026 not adapted\" conflates two separate findings",
+          "severity": "Minor",
+          "as_written": "Most relied on self-reported questionnaires that were not adapted for older adults",
+          "abstract_says": "Studies often used either self-report or device-measured approaches, with most utilizing self-report measures. Self-report measures used were often not tailored to older adult populations.",
+          "problem": "The abstract reports that most studies used self-report and, separately, that self-report tools were \"often\" (not uniformly) untailored; the digest merges these into a stronger single claim.",
+          "suggested_fix": "Write \"Most relied on self-reported questionnaires, which were often not tailored to older adults.\""
+        },
+        {
+          "label": "\"Undercount real effort\" goes beyond the review",
+          "severity": "Minor",
+          "as_written": "remember that tools calibrated on younger, faster walkers can undercount real effort",
+          "abstract_says": "Cutoff points for device-measured approaches frequently varied when assessing physical activity levels.",
+          "problem": "The review documents inconsistent cut-points and untailored instruments but does not establish the direction of error (undercounting) in older adults.",
+          "suggested_fix": "Say the tools \"may misclassify how hard older adults are actually working\" rather than specifying undercounting."
+        }
+      ]
+    }
+  ]
+}

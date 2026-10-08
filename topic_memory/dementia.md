@@ -1,26 +1,27 @@
 # Topic Memory: dementia
-_Last updated: 2026-09-24_
+_Last updated: 2026-10-08_
 
 ## Established findings
-- Sustained (6+ month), socially supported, skill-building lifestyle programs change diet and activity behavior in people with memory concerns, but evidence that behavior change protects cognition remains low certainty; almost no data on minority ethnic or lower-income participants (PMID 42586247, recurring Sep 2026)
-- Frailty predicts dementia across four international cohorts; worsening frailty raises risk further and depressive symptoms mediate roughly 29-45% of the link (PMID 42600788, recurring Sep 2026)
-- Mood and psychiatric history are load-bearing in dementia risk: diabetes plus depression carries >4x 15-year risk, bipolar cognitive profiles can look dementia-like, mood stabilizer choice tracks with later dementia rates, and optimism does not buffer stressful life events (PMIDs 42556583, 42456815, 42442665, 42567210)
-- Caregiver self-report understates real harm: distress persists at clinical levels after placement, and Black caregivers reporting good coping show elevated cardiovascular risk and impaired cortisol recovery (PMIDs 42720084, 42777279)
-- Young-onset dementia families carry higher burden yet use fewer formal services; anxiety is the symptom most tied to caregiver strain (PMID 42594757)
-- Personality traits, especially conscientiousness, track with lower NfL, though direction of causation is unresolved and effect sizes are tiny (PMID 42485867)
+- Frailty predicts dementia across four international cohorts; worsening frailty raises risk further and depressive symptoms mediate ~29-45% of the link (PMID 42600788, recurring Sep/Oct 2026)
+- Caregiver self-report understates real harm: Black caregivers reporting good coping show elevated cardiovascular risk (PMID 42777279); caregiver burden tracks with snoring, sleep latency and sleep-medication use, almost entirely among women (PMID 42580292)
+- Young-onset dementia families carry higher burden yet use fewer formal services; anxiety drives the strain (PMID 42594757, recurring)
+- Personality, especially conscientiousness, tracks with lower NfL; causal direction unresolved and effect sizes tiny (PMID 42485867, recurring)
+- Blood biomarkers (p-tau217, GFAP, NfL) perform well in ordinary clinics and can revise working diagnoses; a randomized trial now shows earlier disclosure speeds diagnosis without raising anxiety or depression (PMIDs 42774284, 42773069, 42832237)
+- Delirium is near-universal and consequential in hospitalized older adults with dementia (55.6% delirious on arrival in nonagenarians), and should be treated as acute brain injury (PMIDs 42840854, 42756469)
 
 ## Emerging threads
-- Detection is outpacing treatment and delivery: graded tau PET staging, real-clinic blood panels, biomarker-driven diagnosis revision in ~39% of cases, and a cheap cued-recall test all advancing while a tau-targeting drug failed and the higher dose looked worse (PMIDs 42766299, 42774284, 42773069, 42561582, 42441396)
-- Basics being skipped in the anti-amyloid era: <3% of treatment-seeking patients met all 15 modifiable risk targets and lab values were missing from charts (PMID 42430964)
-- System capacity gaps even in integrated care: VA clinicians name diagnosis, training, pathways and access as persistent weak joints; ~23% of dementia hospice patients discharged alive, higher at for-profit agencies (PMIDs 42750559, 42744747)
-- Low-tech, non-drug interventions with real effects: daily comprehensive oral care restoring oral intake in tube-fed residents; functional hearing difficulty as a modifiable driver of behavioral symptoms (PMIDs 42472523, 42770466)
-- Delirium reframed as acute brain failure with vascular mechanism, linking hospitalization to lasting decline (PMID 42756469; follows 42686639)
-- Dementia label alone is a weak prognostic tool — living situation predicted post-heart-attack days at home better than diagnosis (PMID 42754545)
-- GLP-1 agonists as possible dementia-risk modifiers in diabetes plus MCI, contradicted by the EVOKE randomized trials (PMID 42769274)
-- Retinal imaging: genetic evidence supports a small vascular signal, not the retinal thinning markers commonly promoted (PMID 42430965)
+- Widely used symptom drugs are weakly evidenced: scheduled acetaminophen no better than placebo in advanced dementia, RBD drugs backed mostly by subjective small studies, memantine modest and no caregiver relief (PMIDs 42843009, 42623795, 42838860)
+- Organizational fixes outperform drugs for comfort: structured palliative pathway in long-term care followed by near-elimination of end-of-life hospital transfers; dementia among fastest-rising drivers of global serious health-related suffering, 62.4% of it in people not dying that year (PMIDs 42580497, 42456903)
+- Anti-amyloid benefit is real but heterogeneous — about a third still declined meaningfully after clearance (PMID 42841310)
+- Clinician type shapes the dementia workup; advanced practice providers least confident diagnosing yet most likely to prescribe anti-amyloid therapy (PMID 42832713), on top of documented system gaps even in integrated care (PMID 42750559)
+- The paid home care workforce as a new frontier: racism, workplace violence, burnout and unmet dementia-training demand among aides (PMID 42527830)
+- Sleep working in three directions — restless/short sleep as an early risk marker, caregiver sleep as treatable target, RBD treatment as evidence gap (PMIDs 42721722, 42580292, 42623795)
+- Underexamined protective/relational factors: intimacy and romance with slower memory decline, 1-3 days a week of work with better well-being, physical performance buffering executive decline (PMIDs 42648931, 42732746, 42833623)
+- Equity specifics: comorbidity burden, not polypharmacy, tracked with weaker cognition in African American adults (PMID 42842789)
 
 ## Feature ideas already pitched
 - Aug 21, 2026: Social structure of relationships and dementia risk
 - Aug 27, 2026: Hidden upstream dementia risks (self-rated health, sensory loss, air pollution, frailty plus isolation)
 - Sep 10, 2026: Mood and psychiatric history as a dementia pathway
-- Sep 24, 2026: Detection outpacing treatment and delivery — new tests and staging versus a failed drug, skipped modifiable basics, and system gaps
+- Sep 24, 2026: Detection outpacing treatment and delivery — new tests and staging versus a failed drug, skipped modifiable basics, system gaps
+- Oct 8, 2026: The comfort gap — weakly evidenced symptom drugs versus organizational palliative models in advanced dementia

@@ -1,25 +1,26 @@
 # Topic Memory: falls
-_Last updated: 2026-09-25_
+_Last updated: 2026-10-09_
 
 ## Established findings
-- Frailty phenotype and self-report instruments (worry about falling, SARC-F, PDDS, self-rated health, fatigability, condition counts) predict falls, recovery and disability as well as or better than timed tests, grip strength, calf circumference or muscle mass (PMIDs 42600484, 42696807, 42772541, 42708074, 42605068, 42678611, 42288171; 2026)
-- Fall risk compounds across domains — mobility plus cognition plus vision/hearing plus mood — and single-domain screening underperforms (PMIDs 42575258, 42759165, 42731172, 42497575, 42235161; 2026)
-- Balance-focused and multicomponent exercise remains the best-evidenced lever; dose matters (roughly 2-4 sessions/week, 30-60 min, 13+ weeks; perturbation training 1 month = reactive saves, 3 months = general balance) (PMIDs 42775218, 42716502, 42208412)
-- Bone health and falls services run in silos: osteoporosis under-coded after wrist/upper-limb fractures, missed in Parkinson's clinics, and fall history is a FRAXplus input that reclassifies treatment eligibility (PMIDs 42448012, 42723140, 42689245, 42720850)
-- Medication burden (anticholinergics, sedatives, opioids) is a real contributor, but deprescribing alone has not reduced facility fall rates; it appears to help when bundled with exercise and pain management (PMIDs 42542092, 42786600, 42755166)
-- Cognitive impairment plus slow gait is a high-risk combination, with sex differences in the oldest old (cognition independently predictive in men) (PMIDs 42734897, 42666693)
+- Frailty phenotype and brief self-report tools (SARC-F, worry about falling, PDDS, fatigability) predict falls, disability and post-fracture recovery as well as or better than grip strength, calf circumference or muscle mass; measurable declines are already present at the prefrail stage (PMIDs 42600484, 42696807, 42138269, 42708074, 42605068; 2026)
+- Fall risk compounds across domains — mobility plus cognition plus vision/hearing plus mood — and single-domain screening underperforms (PMIDs 42575258, 42759165, 42833804, 42822543, 42731172; 2026)
+- Bone health and falls run in silos: osteoporosis under-coded after wrist/upper-limb fractures, only 4.2% of fractured nursing home residents on a bisphosphonate, fall history underused in risk calculators (PMIDs 42448012, 42632250, 42358089, 42689245, 42723140)
+- Medication burden matters but deprescribing alone has not reduced fall rates; benzodiazepine use after hip fracture has fallen sharply while opioid use has not (PMIDs 42852585, 42786600, 42755166, 42632250)
+- Balance-focused, multicomponent exercise remains the best-evidenced lever, with dose dependence (roughly 2-4 sessions/week, 30-60 min, 13+ weeks) (PMIDs 42775218, 42716502)
+- Slow gait speed predicts falls across the lifespan, from midlife through the 90s, using a simple timed walk (PMIDs 42837653, 42734897)
 
 ## Emerging threads
-- Digital and AI fall prediction still validated only as models, not as fall-reduction tools; user acceptance hinges on discretion, cost and privacy (PMIDs 42696799, 42677268)
-- Timing of intervention emerging as its own variable: safety education at the walking-independence milestone, the four-month post-hip-fracture plateau, the first 30 days after hip surgery (PMIDs 42731691, 42696807, 42771096)
-- Dual-task and reactive/unpredictable training may be the active ingredient rather than the delivery technology; telerehabilitation removed travel barriers in a small Parkinson's trial (PMIDs 42468927, 42475977, 42677025, 42678611)
-- Falls-confidence measures behaving as prognostic markers of frailty and mortality, not just fall prediction (PMID 42771096)
-- Disease-specific fall prevention maturing as a field: MS, Parkinson's, stroke rehabilitation, knee osteoarthritis (PMIDs 42772541, 42468927, 42731691, 42759165)
-- Equity and coverage gaps entering the falls literature — racial/ethnic disparities in dementia risk alongside untreated hearing, vision and dental needs (PMID 42731172)
-- Mechanistic threads to watch: white matter integrity and uneven terrain, fatigability, chronic pain plus slowed processing, midlife multimorbidity (PMIDs 42679689, 42605068, 42687648, 42288171)
+- Technology and devices still unproven as fall reducers: bed/chair alarms lack evidence yet persist, AI and wearable/VR prediction validated only as models (PMIDs 42833806, 42696799, 42789327)
+- Timing as its own variable: fall risk shifts by hospital day 3 and 7, recovery plateaus at four months post-hip-fracture, safety education at the walking-independence milestone (PMIDs 42842205, 42696807, 42731691)
+- Biomechanics of the fall itself — head-impact direction, protective arm use and body rotation, trailing limb angle in stroke — as a trainable target rather than luck (PMIDs 42832847, 42696957)
+- Uptake and identity barriers: fall prevention classes read as "for weak people"; homebound programs stall on pain, fear and unsupported wearables (PMIDs 42831317, 42847733)
+- Falls as a presenting symptom of something else — unrecognized seizures, Charles Bonnet Syndrome hallucinations (PMIDs 42848964, 42833804)
+- Newer insomnia drugs (DORAs) not linked to more falls, though evidence remains underpowered in older adults (PMID 42799573)
+- Policy framing: 2025 National Falls Prevention Action Plan positions falls as a housing, transport and community-services issue (PMID 42833801)
 
 ## Feature ideas already pitched
 - "Beyond Balance Class: Why Preventing Falls Takes a Village" — systems-level resilience and community infrastructure (Aug 2026)
 - "Falls Start in the Mind" — loneliness, aging attitudes, sleep as overlooked risk factors (Aug 2026)
-- "Simple Questions Predict Falls Better Than the Timed Walking Test" — self-report and reaction-based screening outperforming standard mobility tests (Sep 2026)
-- "Cutting Sedatives Didn't Lower Falls" — measurement and deprescribing versus actual programs: exercise dose, timed safety conversations, pain-medication reduction (Sep 2026)
+- "Simple Questions Predict Falls Better Than the Timed Walking Test" — self-report screening outperforming mobility tests (Sep 2026)
+- "Cutting Sedatives Didn't Lower Falls" — measurement and deprescribing versus actual programs (Sep 2026)
+- "After a Broken Wrist, Four Things That Should Happen Next" — the post-fall/post-fracture follow-up gap: seizure evaluation, osteoporosis assessment, medication review, fear-of-falling rehab (Oct 2026)

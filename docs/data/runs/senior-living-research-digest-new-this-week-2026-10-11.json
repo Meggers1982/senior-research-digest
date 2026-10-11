@@ -1,0 +1,815 @@
+{
+  "id": "senior-living-research-digest-new-this-week-2026-10-11",
+  "filename": "Senior Living Research Digest \u2014 New This Week \u2014 2026-10-11.md",
+  "title": "Senior Living Research Digest \u2014 New This Week \u2014 2026-10-11",
+  "run_date": "2026-10-11",
+  "coverage_window": "Last 7 days",
+  "journals_searched": "632",
+  "articles_screened": "40 (of 543 published)",
+  "focus": "New this week",
+  "topic": "New this week",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 19,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Tai chi, yoga and dance top the list for Parkinson's symptoms \u2014 and more weekly exercise tracks with better movement",
+      "journal": "J Neurol",
+      "published": "2026 Oct 10",
+      "pmid": "42859236",
+      "doi": "10.1007/s00415-026-14189-y",
+      "the_study": "Researchers pooled 173 randomized trials of exercise in people with Parkinson's disease using a Bayesian network meta-analysis, comparing exercise types head-to-head for motor symptoms, balance, walking speed and the Timed Up and Go test. Mind-body exercise (such as tai chi, yoga and dance-based programs) showed the largest average benefit for motor symptoms versus no exercise. Across trials, every additional 250 MET-minutes per week of planned structured exercise was associated with greater average improvement in motor symptoms, balance and Timed Up and Go \u2014 but not walking speed. The authors stress that no single modality emerged as universally best, prediction intervals all crossed zero, and the overall confidence in the evidence was rated low or very low.",
+      "why_it_matters": "Exercise remains one of the few interventions that can meaningfully change how Parkinson's feels day to day, and this is the largest synthesis yet suggesting that mind-body approaches deserve a place alongside conventional gym-style training \u2014 with total weekly volume mattering as much as the specific activity.",
+      "story_angle_primary": "If you have Parkinson's, the most defensible takeaway here is that the amount of structured activity you accumulate each week may matter more than picking the 'perfect' program \u2014 so choose something you'll actually keep doing, and ask your neurologist or physical therapist whether a supervised tai chi, dance or yoga class could be added to what you already do.",
+      "story_angle_secondary": "For senior living activity directors and care staff: this supports investing in mind-body group programming \u2014 tai chi, dance, adapted yoga \u2014 rather than assuming only treadmill or resistance training 'counts,' and it argues for tracking total weekly exercise exposure for residents with Parkinson's rather than session attendance alone.",
+      "caveats": "Meta-analysis of aggregate trial data, not individual patients; CINeMA confidence rated low to very low; all active-versus-control prediction intervals crossed zero; dose associations were trial-level (ecological) and within-trial randomized dose comparisons were imprecise; the Timed Up and Go finding was sensitive to high-dose outlier trials; authors explicitly state no optimal dose or best modality was established.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls"
+      ],
+      "covered_by": [
+        "Bioengineer.org"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "The MIND diet is linked to lower Parkinson's risk and later onset \u2014 but the evidence is thin",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct 10",
+      "pmid": "42858790",
+      "doi": "10.1016/j.clnesp.2026.105193",
+      "the_study": "Neurologists systematically reviewed all available research on the MIND diet \u2014 a hybrid of the Mediterranean and DASH eating patterns emphasizing leafy greens, berries, nuts, whole grains, fish and olive oil \u2014 and Parkinson's disease outcomes. Five observational studies covering 73,790 participants met criteria. Higher adherence was associated with lower incident parkinsonism (HR 0.89), lower Parkinson's incidence (HR 0.75), slower progression of parkinsonian signs, and later age at onset, though one study found no association at all. Three of the five studies were rated poor quality, and certainty of evidence was low for incidence and very low for everything else.",
+      "why_it_matters": "The MIND diet is already widely promoted for brain health and memory, and this is the first systematic attempt to ask whether it also tracks with Parkinson's \u2014 a reminder that the eating pattern may have broader neurological relevance, but not yet proof it prevents anything.",
+      "story_angle_primary": "If you're already eating a MIND-style diet for your memory, this review suggests there may be a parallel signal for movement disorders \u2014 but the research is observational, so treat it as one more reason to keep leafy greens, berries and fish on your plate, not as a proven way to prevent Parkinson's.",
+      "story_angle_secondary": "For dining directors and family caregivers planning menus: MIND-pattern foods are inexpensive, familiar and carry no downside, so this is low-risk to build into meal planning \u2014 just be careful not to let marketing outrun the evidence when talking with residents or relatives worried about neurodegeneration.",
+      "caveats": "Only five observational studies; three rated poor quality on the Newcastle-Ottawa Scale; certainty of evidence low to very low; no quantitative pooling was possible because of heterogeneity; one included study found no association; the incidence benefit was reported in selected women; causation cannot be inferred and dietary adherence is typically self-reported.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": 73790,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "nutrition"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 3,
+      "title": "Blood draws keep coming right up to the end of life in cancer \u2014 and almost nobody has shown they help",
+      "journal": "Am J Hosp Palliat Care",
+      "published": "2026 Oct 10",
+      "pmid": "42857913",
+      "doi": "10.1177/10499091261496863",
+      "the_study": "A PRISMA-registered systematic review pulled together 35 studies (42 publications) on laboratory testing in the final stretch of life for patients with cancer. Between 68% and 97% of patients had lab tests ordered near the end of life, and in breast and gynecologic cancer the testing actually increased as death approached. Hospice and palliative models generally showed lower lab use and costs, and timely advance care planning was the factor most consistently linked to fewer tests. Critically, very few studies connected test results to any change in management, symptom relief, or patient experience.",
+      "why_it_matters": "Needle sticks, transport to a lab, and waiting for results carry real burden for someone with weeks to live \u2014 and this review suggests much of that testing continues by routine rather than because it changes anything.",
+      "story_angle_primary": "If you or someone close to you is in end-of-life cancer care, it is entirely reasonable to ask the care team a simple question before each blood draw: what will you do differently depending on the result? Completing advance care planning early was the factor most consistently tied to less unnecessary testing.",
+      "story_angle_secondary": "For hospice teams, hospital clinicians and senior living nurses: this is an argument for building a 'clear clinical question' checkpoint into standing lab orders, and for documenting goals of care early \u2014 the review found advance care planning, more than the palliative care model itself, predicted lower utilization.",
+      "caveats": "Systematic review of heterogeneous observational studies with inconsistent outcome definitions and units of analysis; narrative synthesis only, no pooled estimates; findings describe association, not causation; included studies rarely measured patient-reported burden directly, so the harm side of the ledger remains largely inferred.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 4,
+      "title": "Adding nighttime melatonin to an exercise program sharpened cholesterol gains in postmenopausal women",
+      "journal": "Exp Gerontol",
+      "published": "2026 Oct 10",
+      "pmid": "42858810",
+      "doi": "10.1016/j.exger.2026.113354",
+      "the_study": "Thirty-eight postmenopausal women in Tunisia were randomized to 12 weeks of concurrent (aerobic plus resistance) training three times weekly with either 3 mg of nightly melatonin or placebo, or to a no-intervention control group. Both training groups lost fat mass, shrank waist and hip circumference, and gained muscle mass. The group taking melatonin alongside training showed additional improvements the placebo-training group did not \u2014 notably lower LDL cholesterol and triglycerides, plus better liver enzymes, glucose and markers of cellular damage.",
+      "why_it_matters": "Postmenopausal women face rising cardiometabolic risk, and this is an early signal that a cheap, widely available sleep supplement might amplify the metabolic payoff of exercise \u2014 though the trial is far too small to act on.",
+      "story_angle_primary": "Exercise alone clearly reshaped body composition in this trial, which is the reliable takeaway. If you're curious about melatonin, raise it with your doctor rather than self-prescribing \u2014 it interacts with blood pressure, blood thinning and diabetes medications, and this single small trial is not grounds for starting it.",
+      "story_angle_secondary": "For wellness staff running programs for postmenopausal and older women: the headline-worthy result for your work is the training effect itself \u2014 three sessions a week of combined aerobic and resistance work produced measurable fat loss, waist reduction and muscle gain in 12 weeks. The melatonin question belongs with prescribers, not program design.",
+      "caveats": "Very small sample (N=38, roughly 12-13 per group); single-center; short 12-week follow-up; participant ages not reported in the abstract; many biomarkers tested across three groups without clear correction for multiple comparisons, raising the chance of false positives; no clinical endpoints such as cardiovascular events; findings in Tunisian postmenopausal women may not generalize.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 38,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 5,
+      "title": "A dementia diagnosis didn't raise the odds of going back to the hospital after rehab",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 10",
+      "pmid": "42858190",
+      "doi": "10.1111/jgs.70752",
+      "the_study": "Researchers linked Health and Retirement Study data to Medicare claims from 2000 to 2019 and examined 4,527 discharges home following a short rehabilitation stay (under 100 days) in a skilled nursing home. About 16% of those discharges ended in a hospital readmission within 30 days. Dementia \u2014 documented in 42% of the group \u2014 was not associated with higher readmission odds. What did predict readmission: a higher burden of other chronic conditions and hospital or emergency department visits in the year before the nursing home stay. Being female, married, and living in the Midwest or West were linked to lower odds.",
+      "why_it_matters": "It pushes back on the assumption that dementia itself is what drives people back to the hospital after rehab, and points instead at overall medical complexity and whether someone has support at home \u2014 factors that discharge planners can actually act on.",
+      "story_angle_primary": "If you or your spouse is finishing a rehab stay in a skilled nursing facility, the strongest warning signs for a return trip to the hospital aren't memory problems \u2014 they're how many other chronic conditions you're managing and how often you were hospitalized in the past year. Ask the discharge planner directly what the plan is for those conditions in the first 30 days home, and who you call when something goes wrong.",
+      "story_angle_secondary": "For facility staff and discharge planners: this analysis suggests screening on prior utilization and comorbidity burden, not on dementia status alone, and paying special attention to residents who live alone. The authors also argue a dementia diagnosis should still trigger enhanced discharge support \u2014 the absence of extra risk may reflect the extra attention staff already give.",
+      "caveats": "Observational analysis of claims data \u2014 cannot establish causation; dementia was identified from Medicare claims, which undercount and misclassify cases; data span 2000\u20132019 and may not reflect current discharge practices; no measure of the quality or content of discharge planning.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cost & policy",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 6,
+      "title": "How hard you can blow into a tube at 60 tracks with your thinking a decade later",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Oct 10",
+      "pmid": "42858068",
+      "doi": "10.1177/13872877261494159",
+      "the_study": "Researchers followed 2,604 Chinese adults aged 60 and over from the CHARLS cohort who had normal cognitive scores at baseline, tracking peak expiratory flow \u2014 a simple measure of how forcefully you can exhale \u2014 against cognitive test scores over a median nine years. Of these, 636 developed score-based cognitive impairment. Each one-standard-deviation increase in peak flow was tied to roughly 20% lower risk, and nine-year cumulative incidence fell from 35.6% in the lowest quartile of lung function to 16.6% in the highest. However, adding peak flow to prediction models improved accuracy only marginally, and the finding weakened under stricter definitions of impairment.",
+      "why_it_matters": "Peak flow is cheap, fast, and already measured in many clinics, and this suggests respiratory strength is entangled with brain health in later life \u2014 though it is far from a diagnostic test for dementia risk.",
+      "story_angle_primary": "Lung function and brain function appear to travel together as you age. This study can't show that strengthening your breathing protects your memory, but it's one more reason to take breathlessness, untreated asthma or COPD, and smoking seriously, and to ask your doctor whether your respiratory health is being tracked over time rather than just at one visit.",
+      "story_angle_secondary": "For clinicians and senior living wellness staff: declining peak flow in a resident may be worth noting as a general marker of frailty and physiological reserve rather than treated as a cognitive screening tool \u2014 the study's own authors found its added predictive value was limited.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; outcome was a cognitive test score cutoff, not a clinical diagnosis of mild cognitive impairment or dementia; findings did not hold under stricter outcome definitions; trajectory analyses were exploratory with no clear dose-response pattern; Chinese population may not generalize elsewhere.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 7,
+      "title": "Fatty liver disease came with stronger bones, not weaker ones, in a national US survey",
+      "journal": "Osteoporos Int",
+      "published": "2026 Oct 10",
+      "pmid": "42859223",
+      "doi": "10.1007/s00198-026-08226-9",
+      "the_study": "Using NHANES data from 6,470 US adults aged 18 and up (mean age 53), researchers compared bone mineral density in people with and without metabolic dysfunction-associated steatotic liver disease, the condition formerly called NAFLD. Nearly a quarter met criteria for the condition. After adjusting for other factors, those with MASLD had higher hip and femoral neck bone density and lower odds of osteoporosis. Participants with individual metabolic features \u2014 overweight, diabetes, hypertension, high cholesterol \u2014 also showed higher bone density.",
+      "why_it_matters": "It complicates a common assumption that metabolic liver disease weakens bone, and is a reminder that higher bone density readings in people carrying extra weight don't necessarily mean lower fracture risk.",
+      "story_angle_primary": "If you've been told you have fatty liver disease, don't read this as reassurance about your bones or a reason to skip a bone density scan. Density is only one piece of fracture risk \u2014 balance, falls, bone quality and medications all matter \u2014 and this snapshot study can't tell you what will happen to your skeleton over time.",
+      "story_angle_secondary": "For clinicians and care staff: higher measured bone mineral density in residents with obesity or metabolic disease can create false reassurance. Fracture prevention programs should still emphasize fall risk, vitamin D, and mobility regardless of a favorable DXA number.",
+      "caveats": "Cross-sectional design \u2014 a single snapshot that cannot establish causation or direction; no fracture outcomes measured, only bone density; mean age 53 with no older-adult-specific analysis reported; bone density may be inflated by body weight rather than reflecting true bone strength; US survey population.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 6470,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "falls",
+        "osteoporosis"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 8,
+      "title": "A simple bedside score predicts how long patients live after starting home palliative care",
+      "journal": "Am J Hosp Palliat Care",
+      "published": "2026 Oct 10",
+      "pmid": "42857916",
+      "doi": "10.1177/10499091261494205",
+      "the_study": "Researchers reviewed the records of 471 adults with cancer enrolled in a public home-based palliative care program in Brazil between 2013 and 2023. Two routinely collected pieces of information \u2014 the Palliative Performance Scale (a measure of how much a person can still do for themselves) and the type of tumor \u2014 predicted survival about as well as far more complicated statistical models. Patients admitted with a performance score of 30% or less had sharply reduced survival in the first 30 to 60 days, and liver and lung cancers carried the poorest outlook.",
+      "why_it_matters": "Families often ask 'how long do we have?' when home palliative care begins, and this shows that a basic functional assessment a nurse can do at the kitchen table carries real prognostic information \u2014 useful for planning visits, caregiving shifts, and final wishes.",
+      "story_angle_primary": "If you or someone close to you is being referred to home-based palliative care, ask the team what your functional status score is and what it typically means for the months ahead \u2014 it is a reasonable, concrete question, and the answer can help you decide how to spend your time and what help to arrange now rather than later.",
+      "story_angle_secondary": "For home care agencies and hospice programs, the finding argues for using performance status at admission to triage staffing and visit intensity, since a large share of deaths cluster in the first one to two months after referral \u2014 a signal that many patients are being referred far too late.",
+      "caveats": "Retrospective records review from a single public program in Brazil; observational design cannot establish causation; predictive accuracy was modest (C-index ~0.63); referral patterns in a low- and middle-income setting may not generalize to US or European services.",
+      "score": 63,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 471,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 9,
+      "title": "A hospital system found a way to let general neurologists prescribe new Alzheimer's drugs safely",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 9",
+      "pmid": "42857600",
+      "doi": "10.1002/dad2.70479",
+      "the_study": "Sutter Health serves more than 3.5 million patients with over 100 neurologists but only five cognitive specialists \u2014 a bottleneck for prescribing amyloid-targeting Alzheimer's drugs like lecanemab and donanemab, which require careful patient selection and brain imaging surveillance. The system created a multidisciplinary review board (cognitive specialists, a neuroradiologist, a pharmacist and a nurse program manager) that vets cases submitted by any neurologist. Across 447 cases from 51 neurologists, 77% were judged eligible for treatment, annual volume rose 148% in 2025, and rates of amyloid-related imaging abnormalities were 17.4% for lecanemab and 28.8% for donanemab.",
+      "why_it_matters": "The shortage of dementia specialists is the single biggest practical barrier to these new drugs, and this describes a workable model that could bring treatment within reach of people who live nowhere near a memory center.",
+      "story_angle_primary": "If you have been told you'd need to travel to a specialty memory center to be considered for an amyloid-targeting drug, ask your neurologist whether their health system has a review board or tele-consultation pathway \u2014 and ask directly about the roughly one-in-five to one-in-four chance of brain swelling or microbleeds on follow-up scans, and what monitoring is involved.",
+      "story_angle_secondary": "For senior living operators and care navigators, this is a template worth raising with partnering health systems: a central review board plus clear imaging protocols can expand access without each site hiring a cognitive specialist it cannot find.",
+      "caveats": "Descriptive report of a single health system's quality-improvement program with no control group and no patient outcome data; the lead author discloses advisory board service and speaker honoraria from Eisai, Eli Lilly, Biogen and Axsome, the manufacturers and marketers of these drugs.",
+      "score": 37,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": [
+        "News-Medical"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Knowing someone with dementia changes attitudes more than any health campaign",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 9",
+      "pmid": "42857477",
+      "doi": "10.1002/dad2.70504",
+      "the_study": "Researchers surveyed 630 members of the general public in rural Makueni County, Kenya, measuring dementia knowledge and attitudes alongside sociodemographic, religious and personal-experience factors. Having personal experience with dementia was linked to both better knowledge and more positive attitudes, while having consulted a spiritual healer was associated with poorer dementia knowledge. Strikingly, the models implied a person would need a near-perfect knowledge score (49.5 out of 50) before facts alone would lift attitudes to the aspirational threshold \u2014 suggesting education by itself cannot close the stigma gap.",
+      "why_it_matters": "Stigma keeps families from seeking a diagnosis or help, and this suggests that contact and lived experience \u2014 not leaflets and lectures \u2014 is what actually shifts how communities treat people with dementia.",
+      "story_angle_primary": "If you are living with memory problems or caring for a spouse who is, consider that being open with neighbors and your faith community may do more to change local attitudes than any awareness campaign \u2014 and if you are consulting a traditional or spiritual healer, you can do that alongside, not instead of, a medical evaluation.",
+      "story_angle_secondary": "For anyone designing dementia awareness programs in faith-based or culturally diverse communities, this is a warning that fact-based education alone is unlikely to be enough; contact-based approaches that put the public in direct conversation with families affected by dementia deserve the budget.",
+      "caveats": "Cross-sectional survey, so it cannot show that experience causes better attitudes; self-reported measures; conducted in one rural Kenyan county and may not generalize to other settings; the 'attitude target' is a statistical extrapolation, not an observed result.",
+      "score": 48,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 0
+      },
+      "verdict": "\u274c Significant issues",
+      "tags": [
+        "New this week",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 11,
+      "title": "The same Alzheimer's damage in the brain hurts thinking more in people who had harder lives",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 9",
+      "pmid": "42856984",
+      "doi": "10.1002/dad2.70462",
+      "the_study": "Using Brazil's Biobank for Aging Studies, researchers combined brain autopsy findings, APOE genotyping, and interviews about the person's cognition before death in 1,193 people (mean age 73, half women, 65% White). APOE-\u03b54 carriers had nearly four times the odds of Alzheimer's pathology, and pathology was strongly tied to worse cognition \u2014 but that link was substantially stronger in people with unfavorable social circumstances (education, income, occupation) than in those with favorable profiles. Social determinants did not change the genetic risk of developing pathology itself, and race showed no modifying effect.",
+      "why_it_matters": "It suggests that social and educational advantage doesn't stop Alzheimer's plaques and tangles from forming \u2014 it buffers how much damage they do to everyday thinking, which points to lifelong learning and economic security as realistic dementia-prevention levers even for people carrying high-risk genes.",
+      "story_angle_primary": "You cannot change your genes, but this adds to evidence that cognitive and social enrichment may help your brain tolerate disease \u2014 keeping up education, complex hobbies, work and social engagement across later life is worth prioritizing, and it is a reasonable topic to raise at your next checkup.",
+      "story_angle_secondary": "For senior living and community programs, this supports investing in genuinely cognitively demanding activities and in reaching residents with lower education or income, who appear to have less reserve to absorb the same underlying brain pathology.",
+      "caveats": "Observational autopsy study \u2014 cannot establish causation; cognition was measured by informant interview (CDR-Sum of Boxes) rather than direct testing; conducted in a Brazilian urban autopsy biobank, so social gradients and population mix may not generalize elsewhere.",
+      "score": 55,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 1193,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 12,
+      "title": "Losing the pleasure in things may be the earliest warning sign of frontotemporal dementia",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 9",
+      "pmid": "42856930",
+      "doi": "10.1002/dad2.70501",
+      "the_study": "Australian researchers measured two distinct kinds of pleasure loss \u2014 the ability to look forward to enjoyable things (anticipatory) and the ability to enjoy them in the moment (consummatory) \u2014 in people with behavioral variant frontotemporal dementia (bvFTD), people with Alzheimer's disease, and healthy controls, using the Temporal Experience of Pleasure Scale. They then used event-based modeling to estimate when each symptom typically appears in the disease sequence. People with bvFTD lost both kinds of pleasure, and that loss showed up before clear memory or thinking changes, while people with Alzheimer's lost only anticipatory pleasure, and mostly after cognitive decline had already begun.",
+      "why_it_matters": "Behavioral variant frontotemporal dementia is frequently mistaken for depression or for Alzheimer's for years, and a simple question \u2014 'do you still enjoy things while you're doing them?' \u2014 may help separate the two far earlier than cognitive tests do.",
+      "story_angle_primary": "If a spouse or friend has stopped enjoying food, music, or company they once loved \u2014 not just lost interest in planning ahead, but genuinely gets no pleasure in the moment \u2014 that pattern is worth describing in detail to a doctor rather than writing it off as depression or normal aging. Ask whether a specialist assessment for frontotemporal dementia is warranted, especially if it started before any memory problems.",
+      "story_angle_secondary": "For care staff and families, this reframes 'he just sits there' as a potential diagnostic clue rather than a personality change. Documenting whether a resident still experiences enjoyment during an activity \u2014 not just whether they agreed to attend \u2014 gives clinicians information that standard cognitive screens miss.",
+      "caveats": "Sample size not reported in the abstract; cross-sectional data used to infer a time sequence via modeling rather than following people over years; specialty clinic populations may not reflect the general older population; pleasure ratings are self-reported, which is complicated in a condition affecting self-awareness.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 13,
+      "title": "The first broken bone is the warning: geriatricians argue fracture clinics should be screening for frailty, not just bone density",
+      "journal": "Ageing Res Rev",
+      "published": "2026 Oct 7",
+      "pmid": "42843462",
+      "doi": "10.1016/j.arr.2026.103394",
+      "the_study": "A group of Italian geriatricians and orthopedic specialists reviewed the evidence linking frailty, falls, and fragility fractures, arguing that hip fracture is the clearest real-world test of an older person's physiological resilience \u2014 the point at which someone either recovers function or tips into long-term dependency. They make the case that comprehensive geriatric assessment on hospital admission, rather than treatment of the broken bone alone, is what determines the longer-term outcome. They also review Fracture Liaison Services, a coordinated care model designed to catch people after a first fragility fracture and prevent the next one.",
+      "why_it_matters": "Most people who break a bone from a minor fall are treated for the fracture and sent home without anyone assessing why they fell or testing their bones \u2014 and the care gap after a first fracture is where the next, often worse, fracture comes from.",
+      "story_angle_primary": "If you have broken a wrist, hip, shoulder, or vertebra from a fall from standing height, treat it as a system-wide alert, not an accident. Ask whether your hospital or clinic has a Fracture Liaison Service, and ask specifically for a bone density scan, a medication review, a falls risk assessment, and a check of vitamin D and muscle strength \u2014 before you leave.",
+      "story_angle_secondary": "Senior living and rehabilitation teams can use the post-fracture window as a structured intervention point: the review frames the weeks after a fragility fracture as the moment when comprehensive geriatric assessment most changes the trajectory, which supports building formal discharge follow-up rather than relying on the orthopedic team alone.",
+      "caveats": "This is a narrative review and expert perspective, not new primary data or a systematic analysis; it reflects the position of FFN Italy and European care models that may not map onto other health systems; one author discloses an editorial role with the journal.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "falls",
+        "osteoporosis",
+        "sarcopenia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 14,
+      "title": "Steroids in advanced cancer: two-thirds of patients had a side effect, and most showed up within 10 days",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Oct 7",
+      "pmid": "42843431",
+      "doi": "10.1016/j.jpainsymman.2026.09.031",
+      "the_study": "French researchers reviewed hospital charts of 29 adults with advanced incurable cancer (mean age 68) who started systemic corticosteroids during an admission, tracking 12 pre-defined side effects. Nineteen patients (65.5%) had at least one adverse event, totaling 52 events, with the most common being high blood pressure, infections, high blood sugar, and insomnia. About half of all adverse events appeared within the first 10 days of starting the steroid.",
+      "why_it_matters": "Corticosteroids are among the most commonly prescribed drugs in palliative and cancer care \u2014 used for appetite, fatigue, pain, and nausea \u2014 and this suggests their short-term burden may be substantially higher and faster-arriving than many patients are told.",
+      "story_angle_primary": "If you or a loved one is started on a steroid such as dexamethasone or prednisone for cancer symptoms, ask what it is meant to achieve, when that benefit should be visible, and when the dose will be reassessed. Report new sleeplessness, raised blood sugar, infection signs, or blood pressure changes in the first two weeks rather than assuming they are the cancer itself.",
+      "story_angle_secondary": "For hospice and palliative teams, the clustering of events in the first 10 days argues for a scheduled early review point and routine blood pressure and glucose monitoring after initiation \u2014 in this study, glucose was monitored in only half the patients, so some events were likely missed entirely.",
+      "caveats": "Very small sample (N=29), single center, retrospective chart review by a single investigator, no control group, so side effects cannot be firmly attributed to the steroids rather than to advanced cancer itself; monitoring was incomplete for several outcomes; the authors describe it explicitly as hypothesis-generating.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "cohort",
+      "sample_size": 29,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cardiovascular disease",
+        "cost & policy",
+        "palliative care",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 15,
+      "title": "A short, intensive home visit program after hospital discharge cut 90-day readmissions by a third",
+      "journal": "BMC Geriatr",
+      "published": "2026 Oct 6",
+      "pmid": "42859151",
+      "doi": "10.1186/s12877-026-08367-w",
+      "the_study": "Swedish researchers compared 128 patients aged 75 and older (mean age 85.5) who received \"Safe homecoming\" \u2014 a time-limited, team-based home health care package delivered by primary care after a hospital stay \u2014 with 512 closely matched patients who got standard care, drawn from a county-wide pool of more than 38,000 admissions between 2013 and 2020. Within 90 days of discharge, 20.3% of the intervention group was readmitted to hospital versus 33.6% of controls, roughly a 43% lower risk. The advantage faded by one year, and differences in death rates were too imprecise to interpret.",
+      "why_it_matters": "The weeks right after a hospital discharge are the most dangerous stretch in an older adult's year, and this suggests a structured, interprofessional handoff into the home \u2014 not just a discharge summary \u2014 may keep people out of the hospital during that window.",
+      "story_angle_primary": "Before you or a spouse leaves the hospital, ask specifically what happens in the first two weeks at home: who will visit, who reconciles the medication list, and whom you call at 2 a.m. If your clinic offers a structured post-discharge home follow-up, it is reasonable to ask to be enrolled.",
+      "story_angle_secondary": "For senior living operators and home care agencies, this is a blueprint worth examining \u2014 a time-limited, interprofessional home intervention rather than a permanent service expansion \u2014 and a reminder that the readmission benefit concentrated in the first 90 days, which is where staffing and attention should go.",
+      "caveats": "Observational, retrospective design with propensity matching \u2014 it cannot establish causation; only 128 patients received the intervention, all at a single primary health care center; residual confounding is likely since clinicians chose who got the program; multiple follow-up time points were tested. The authors themselves call the findings exploratory.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 128,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 16,
+      "title": "One set of strength exercises worked as well as three for older adults with cognitive impairment \u2014 and neither improved memory",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "published": "2026 Oct 6",
+      "pmid": "42678372",
+      "doi": "10.1093/gerona/glag216",
+      "the_study": "Portuguese researchers assigned 43 people with cognitive impairment to eight weeks of resistance training using either a single set per exercise (n=15), three sets (n=15), or no training (n=13). Both training groups improved physical function compared with controls, but the single-set group gained more on the Short Physical Performance Battery (+2.7 points versus +1.4) and was the only group with a significant strength increase. Neither training dose produced detectable improvement in global cognition or in blood levels of BDNF, the brain growth factor often invoked to explain exercise's cognitive benefits.",
+      "why_it_matters": "A 2.7-point gain on the SPPB is clinically meaningful for mobility and fall risk, and it suggests a minimal, tolerable dose of strength training may be enough \u2014 important for people with dementia or mild cognitive impairment who struggle with long sessions.",
+      "story_angle_primary": "If you have memory problems and have been avoiding strength training because the recommended programs feel like too much, this suggests one well-performed set per exercise may deliver the physical benefits. Expect better walking, balance and chair-rising \u2014 but don't count on an eight-week program to improve your memory.",
+      "story_angle_secondary": "For activity directors and memory care staff, shorter single-set sessions may be easier to staff, better tolerated, and no less effective for function \u2014 but the null cognitive result is a caution against marketing exercise classes as memory treatment.",
+      "caveats": "Small sample (N=43 total) and quasi-experimental \u2014 the control group was not randomized; short 8-week follow-up; single-center; cognition and BDNF were secondary-signal outcomes that an 8-week trial of this size was unlikely to detect even if real.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 43,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "dementia",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 17,
+      "title": "What predicts whether you feel old? Memory decline, new illness \u2014 and loneliness",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "published": "2026 Oct 7",
+      "pmid": "42625387",
+      "doi": "10.1093/geronb/gbag170",
+      "the_study": "Using nine years of data from the Berlin Aging Study II (N=753, aged 61-81 at baseline), researchers tested which long-term health changes actually shape how people later perceive their own aging. Stronger baseline grip strength and recall memory predicted perceiving fewer age-related losses, while steeper declines in recall and rising illness burden predicted a more loss-focused view of aging. Loneliness was the most consistent factor of all \u2014 lonelier people saw more losses and fewer gains \u2014 whereas hearing, vision, processing speed and working memory showed no association.",
+      "why_it_matters": "How people perceive their own aging consistently predicts their later health and well-being, and this preregistered study points to loneliness and memory, rather than sensory decline, as the levers most tied to a loss-focused outlook.",
+      "story_angle_primary": "If aging feels like it's mostly subtraction lately, look at your social connection as seriously as your health numbers \u2014 loneliness was the factor most consistently tied to seeing losses and missing the gains. Note too that everyday hearing and vision changes did not predict a gloomier view of aging.",
+      "story_angle_secondary": "For families and communities, this reframes social programming as something more than recreation: isolation was more tightly linked to a negative aging self-view than most physical measures, and a resident's grim outlook may be a signal about their social life rather than their body.",
+      "caveats": "Observational cohort \u2014 associations cannot establish causation; AARC and loneliness are self-reported; the sample is German, relatively healthy and well-educated, so findings may not generalize to frailer or more diverse populations.",
+      "score": 63,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 753,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "depression",
+        "hearing loss",
+        "sarcopenia",
+        "vision loss"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 18,
+      "title": "Painful hand arthritis diagnoses jumped 65% in a decade, Dutch records show",
+      "journal": "Arthritis Care Res (Hoboken)",
+      "published": "2026 Oct 6",
+      "pmid": "42839719",
+      "doi": "10.1002/acr.80183",
+      "the_study": "Researchers mined primary care electronic health records for about 1.8 million Dutch patients aged 30 and over from 2013 to 2023, using a validated algorithm that reads doctors' free-text notes as well as diagnostic codes (90% accuracy on manual review). They identified 152,900 people with symptomatic hand osteoarthritis \u2014 mean age 68.4, 72% women. Standardized prevalence rose from 5.7% to 9.4% over the decade, a 65% increase, with new cases rising 20%; the relative increase was steeper in men.",
+      "why_it_matters": "Hand OA is a leading cause of lost independence in daily tasks \u2014 opening jars, buttoning, writing \u2014 and these numbers suggest the burden among older adults, especially women, is growing faster than health systems have planned for.",
+      "story_angle_primary": "If hand pain and stiffness are making daily tasks harder, don't write it off as inevitable \u2014 ask your GP specifically about hand osteoarthritis and about referral for hand therapy, splinting and joint-protection techniques, which are standard but often overlooked.",
+      "story_angle_secondary": "For care staff and families, hand OA quietly drives dependence in dressing, cooking and medication management; rising prevalence means assistive tools like jar openers, built-up handles and pill organizers should be part of routine functional assessment, not an afterthought.",
+      "caveats": "Observational analysis of routine medical records \u2014 part of the rise may reflect better recognition, coding and documentation rather than a true increase in disease; based on a single national primary care database (the Netherlands) and may not generalize; diagnoses were not confirmed by imaging or examination.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 152900,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 19,
+      "title": "Older adults say they're more tuned in to their bodies \u2014 but one lab test suggests they're less accurate",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "published": "2026 Oct 7",
+      "pmid": "42625395",
+      "doi": "10.1093/geronb/gbag169",
+      "the_study": "Researchers tested 78 healthy adults aged 18 to 79 on their ability to sense internal bodily signals, using a heartbeat-tapping task (including under a breath-holding challenge), a breathing-resistance task, and a questionnaire about self-perceived body awareness. Older age was linked to reduced accuracy in detecting heartbeats when the body was perturbed, while the ability to sense breathing resistance held steady across ages. Yet self-reported body awareness actually increased with age \u2014 meaning confidence and accuracy appear to diverge over the lifespan.",
+      "why_it_matters": "If the ability to detect cardiac signals weakens with age while confidence in body awareness rises, it may help explain why some older adults miss or misread cardiac warning signs \u2014 a known contributor to delayed care for heart events.",
+      "story_angle_primary": "Trusting your gut about your body is valuable, but this hints that heart-related sensations may be harder to read accurately as you age. When something feels off \u2014 unusual fatigue, breathlessness, vague chest discomfort \u2014 treat it as worth checking rather than assuming you'd clearly feel a real problem.",
+      "story_angle_secondary": "For caregivers, the takeaway is to weigh objective signs \u2014 vital signs, color, exertion tolerance, behavior changes \u2014 alongside what an older person reports feeling, since confident self-report may not track accuracy for cardiac sensations.",
+      "caveats": "Small sample (N=78) spanning a wide age range, with relatively few participants at any given age; cross-sectional, so apparent \"aging\" effects may reflect generational differences; single session, single center; the self-reported awareness measure is a questionnaire; healthy volunteers only, so results may not generalize to people with cardiac or cognitive conditions.",
+      "score": 50,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 78,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "New this week",
+        "cardiovascular disease"
+      ],
+      "covered_by": []
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42859236",
+      "journal": "J Neurol",
+      "date": "2026 Oct 10",
+      "doi": "10.1007/s00415-026-14189-y"
+    },
+    {
+      "pmid": "42858790",
+      "journal": "Clin Nutr ESPEN",
+      "date": "2026 Oct 10",
+      "doi": "10.1016/j.clnesp.2026.105193"
+    },
+    {
+      "pmid": "42857913",
+      "journal": "Am J Hosp Palliat Care",
+      "date": "2026 Oct 10",
+      "doi": "10.1177/10499091261496863"
+    },
+    {
+      "pmid": "42858810",
+      "journal": "Exp Gerontol",
+      "date": "2026 Oct 10",
+      "doi": "10.1016/j.exger.2026.113354"
+    },
+    {
+      "pmid": "42858190",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Oct 10",
+      "doi": "10.1111/jgs.70752"
+    },
+    {
+      "pmid": "42858068",
+      "journal": "J Alzheimers Dis",
+      "date": "2026 Oct 10",
+      "doi": "10.1177/13872877261494159"
+    },
+    {
+      "pmid": "42859223",
+      "journal": "Osteoporos Int",
+      "date": "2026 Oct 10",
+      "doi": "10.1007/s00198-026-08226-9"
+    },
+    {
+      "pmid": "42857916",
+      "journal": "Am J Hosp Palliat Care",
+      "date": "2026 Oct 10",
+      "doi": "10.1177/10499091261494205"
+    },
+    {
+      "pmid": "42857600",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Oct 9",
+      "doi": "10.1002/dad2.70479"
+    },
+    {
+      "pmid": "42857477",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Oct 9",
+      "doi": "10.1002/dad2.70504"
+    },
+    {
+      "pmid": "42856984",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Oct 9",
+      "doi": "10.1002/dad2.70462"
+    },
+    {
+      "pmid": "42856930",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Oct 9",
+      "doi": "10.1002/dad2.70501"
+    },
+    {
+      "pmid": "42843462",
+      "journal": "Ageing Res Rev",
+      "date": "2026 Oct 7",
+      "doi": "10.1016/j.arr.2026.103394"
+    },
+    {
+      "pmid": "42843431",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Oct 7",
+      "doi": "10.1016/j.jpainsymman.2026.09.031"
+    },
+    {
+      "pmid": "42859151",
+      "journal": "BMC Geriatr",
+      "date": "2026 Oct 6",
+      "doi": "10.1186/s12877-026-08367-w"
+    },
+    {
+      "pmid": "42678372",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "date": "2026 Oct 6",
+      "doi": "10.1093/gerona/glag216"
+    },
+    {
+      "pmid": "42625387",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "date": "2026 Oct 7",
+      "doi": "10.1093/geronb/gbag170"
+    },
+    {
+      "pmid": "42839719",
+      "journal": "Arthritis Care Res (Hoboken)",
+      "date": "2026 Oct 6",
+      "doi": "10.1002/acr.80183"
+    },
+    {
+      "pmid": "42625395",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "date": "2026 Oct 7",
+      "doi": "10.1093/geronb/gbag169"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n\n- **Function, not diagnosis, keeps carrying the prognostic signal.** Last week's *Before heart surgery, two hidden risks stack up* (PMID 42854514) and *The WHO's big-picture measure of 'how much function you have left' finally gets US benchmarks* (PMID 42853646) argued that what someone can still do predicts outcomes better than a problem list. This week says it three more ways: *A dementia diagnosis didn't raise the odds of going back to the hospital after rehab* (PMID 42858190), where comorbidity burden and prior utilization \u2014 not the dementia label \u2014 predicted readmission; *A simple bedside score predicts how long patients live after starting home palliative care* (PMID 42857916), where a functional scale matched complex models; and *The first broken bone is the warning* (PMID 42843462), which frames hip fracture as the real-world test of physiological reserve.\n- **Self-report keeps missing what matters.** Last week's *The oldest seniors reported the least heat stress* (PMID 42841726) and *Your memory worries may never make it into your medical chart* (PMID 42842937) both showed systems losing people who don't say anything. This week's *Older adults say they're more tuned in to their bodies \u2014 but one lab test suggests they're less accurate* (PMID 42625395) supplies a possible mechanism: confidence in body awareness rose with age while accuracy in detecting cardiac signals fell.\n- **Beliefs and social connection as measurable clinical variables.** Last week's *Pessimism about aging \u2014 not optimism about it \u2014 predicted how well patients recovered after hip fracture and stroke* (PMID 42625386) and *How you feel about getting older may shape how thoroughly you plan for care* (PMID 42647180) are joined by *What predicts whether you feel old? Memory decline, new illness \u2014 and loneliness* (PMID 42625387), which found loneliness the single most consistent predictor of a loss-focused view of aging \u2014 more so than hearing, vision or processing speed.\n- **End-of-life care as a delivery-system problem.** Last week's *Making a digital collage of your life lifted confidence in older cancer patients* (PMID 42853972) showed what a cheap, deliberate program can add. This week shows the other half of the ledger \u2014 what routine adds without asking: *Blood draws keep coming right up to the end of life in cancer* (PMID 42857913) and *Steroids in advanced cancer: two-thirds of patients had a side effect* (PMID 42843431).\n\n**Advances**\n\n- **From flagging risk on an MRI to actually getting people treated.** Last week's *A brain-scan finding could flag who's headed for bleeding in the brain* (PMID 42855813) addressed who needs closer surveillance on anti-amyloid drugs. This week's *A hospital system found a way to let general neurologists prescribe new Alzheimer's drugs safely* (PMID 42857600) moves to the delivery bottleneck, with real-world amyloid-related imaging abnormality rates of 17.4% and 28.8% \u2014 the numbers patients would actually be consenting to.\n- **Parkinson's moves from prediction back to action.** Last week's *A lysosomal enzyme measured in blood may flag which Parkinson's patients face faster cognitive decline* (PMID 42843141) asked who declines. This week asks what to do: *Tai chi, yoga and dance top the list for Parkinson's symptoms* (PMID 42859236) and *The MIND diet is linked to lower Parkinson's risk and later onset* (PMID 42858790), both with candid admissions that the evidence is low-certainty.\n- **Prognostic tools get cheaper.** Last week's cluster of lab and imaging markers (PMIDs 42855813, 42841728, 42843141, 42671305) is answered this week by two things anyone can do at the bedside: *How hard you can blow into a tube at 60 tracks with your thinking a decade later* (PMID 42858068) and the Palliative Performance Scale (PMID 42857916). Both report the same honest limit \u2014 real signal, modest added predictive value.\n\n**Counterpoints**\n\n- **A number that moves the wrong way.** Last week's measurement caution was about scans too variable to use. This week *Fatty liver disease came with stronger bones, not weaker ones, in a national US survey* (PMID 42859223) is the sharper version: a favorable bone density reading in someone carrying extra weight may create false reassurance about fracture risk.\n- **Exercise and the brain, again.** Last week's *A 4-week trial of '40 Hz' light therapy failed to change brain activity* (PMID 42847333) was a commercial device missing its own endpoint. This week *One set of strength exercises worked as well as three for older adults with cognitive impairment \u2014 and neither improved memory* (PMID 42678372) delivers the same caution to a beloved non-commercial intervention: clear physical gains, no detectable cognitive or BDNF effect.\n\n**New themes**\n\n- **The handoff home:** *A short, intensive home visit program after hospital discharge cut 90-day readmissions by a third* (PMID 42859151) alongside the SNF readmission analysis (PMID 42858190).\n- **Dementia stigma as a contact problem, not a knowledge problem:** *Knowing someone with dementia changes attitudes more than any health campaign* (PMID 42857477).\n- **Cognitive reserve as a social asset:** *The same Alzheimer's damage in the brain hurts thinking more in people who had harder lives* (PMID 42856984).\n- **Early behavioral markers of frontotemporal dementia:** *Losing the pleasure in things may be the earliest warning sign* (PMID 42856930).\n- **Rising hand disability:** *Painful hand arthritis diagnoses jumped 65% in a decade* (PMID 42839719).",
+  "feature_pitch_raw": "**The pattern:** Four studies this week converge on the same window \u2014 the weeks right after a hospital stay, a broken bone, or a referral \u2014 and all four say the system is watching the wrong thing. *A short, intensive home visit program after hospital discharge cut 90-day readmissions by a third* (PMID 42859151) and *A dementia diagnosis didn't raise the odds of going back to the hospital after rehab* (PMID 42858190) point to chronic-disease burden, prior hospital use and support at home as the real flags, not the memory diagnosis everyone fixates on; *The first broken bone is the warning* (PMID 42843462) argues the same about fracture clinics treating the bone and ignoring why the person fell; and *A simple bedside score predicts how long patients live after starting home palliative care* (PMID 42857916) found deaths clustered in the first one to two months after referral, a sign people are being handed off far too late.\n\n**Why pitch this now:** Separately these read as four specialty findings; together they describe one failure that families already feel \u2014 the moment attention stops is exactly the moment risk peaks, and the checklists in use screen for the wrong flags.\n\n**Angle:** A practical guide for older adults and the family members managing a discharge, built around what to line up before the papers are signed and what to ask in the first two weeks at home, with a parallel track for senior living and home care professionals on where to concentrate staffing. Audience: adult children and spouses coordinating care, plus discharge planners and operators.\n\n**Potential headlines:**\n- The First 90 Days at Home Shape Recovery More Than the Hospital Stay Did\n- Dementia Isn't What Sends Most People Back to the Hospital After Rehab\n- Before the Discharge Papers Are Signed, Find Out Who Visits You Next Week\n\n**Potential outlets:**\n- **Next Avenue** \u2014 their readers are often the adult child standing at the discharge desk, and the piece turns into four concrete questions they can ask that afternoon.\n- **Caring.com** \u2014 decision-stage families comparing rehab and home care will use the readmission and home-visit findings directly when choosing a provider and a follow-up plan.\n- **LeadingAge** \u2014 the Swedish time-limited home program and the case for comprehensive geriatric assessment after a first fracture are operational and staffing decisions nonprofit providers make at the policy level.\n- **National Council on Aging** \u2014 post-discharge safety and falls prevention sit squarely inside their practical programming, and the \"first fracture is the warning\" framing gives their falls work a fresh hook.",
+  "pitch_ideas_raw": "- **Tai chi, yoga and dance top the list for Parkinson's symptoms (PMID 42859236):** Total weekly movement may matter more than picking the perfect class \u2014 pick what you'll keep doing, and ask whether a supervised mind-body class can be added to what you already do, for a consumer health explainer and an activity-director trade brief.\n- **The MIND diet is linked to lower Parkinson's risk and later onset (PMID 42858790):** The eating pattern sold for memory may have a parallel signal for movement \u2014 a low-risk menu idea with an honest warning not to let marketing outrun five observational studies, for a nutrition column or a dining-services trade note.\n- **Blood draws keep coming right up to the end of life in cancer (PMID 42857913):** One question families can ask before every draw \u2014 what will you do differently depending on the result? \u2014 plus the finding that early advance care planning was what most consistently reduced testing, for a caregiver-advice column and a hospice trade brief.\n- **Adding nighttime melatonin to an exercise program sharpened cholesterol gains in postmenopausal women (PMID 42858810):** The reliable story is the training effect \u2014 three combined sessions a week reshaped body composition in 12 weeks \u2014 with a clear \"talk to your prescriber, don't self-start melatonin\" caution, for a women's health or wellness-program piece.\n- **A dementia diagnosis didn't raise the odds of going back to the hospital after rehab (PMID 42858190):** What actually predicts a return trip is how many conditions you manage and how often you were hospitalized last year \u2014 questions to put to the discharge planner, for a caregiver-advice column and a skilled nursing trade brief.\n- **How hard you can blow into a tube at 60 tracks with your thinking a decade later (PMID 42858068):** Lung function and brain function travel together in later life \u2014 a reason to take breathlessness and untreated COPD seriously, framed carefully as not a dementia test, for a consumer health explainer.\n- **Fatty liver disease came with stronger bones, not weaker ones (PMID 42859223):** A good bone density number can be false reassurance \u2014 why fracture prevention still means balance, vitamin D and medication review, for a consumer bone-health explainer and a clinical care brief.\n- **A simple bedside score predicts how long patients live after starting home palliative care (PMID 42857916):** Families can ask for the functional status score and what it usually means for the months ahead \u2014 a concrete answer to \"how long do we have?\" \u2014 for a hospice and home-care trade outlet or a caregiver feature.\n- **A hospital system found a way to let general neurologists prescribe new Alzheimer's drugs safely (PMID 42857600):** Ask whether your health system has a review board or tele-consult pathway instead of assuming you must travel to a memory center \u2014 and ask about the one-in-five to one-in-four imaging abnormality rates, for a consumer dementia-care explainer and a senior-living partnerships brief, with the author's industry disclosures noted.\n- **Knowing someone with dementia changes attitudes more than any health campaign (PMID 42857477):** Being open with neighbors and a faith community may do more for local attitudes than any awareness leaflet \u2014 with a practical note for program designers that contact-based approaches deserve the budget, for a community-aging or faith-community piece.\n- **The same Alzheimer's damage in the brain hurts thinking more in people who had harder lives (PMID 42856984):** Education and economic security as a buffer against the damage plaques do, not a shield against the plaques themselves \u2014 and what that means for which residents to reach first, for a consumer brain-health explainer and an aging-services policy brief.\n- **Losing the pleasure in things may be the earliest warning sign of frontotemporal dementia (PMID 42856930):** \"He just sits there\" may be a diagnostic clue, not a personality change \u2014 the difference between no longer looking forward to things and getting no enjoyment in the moment, for a caregiver-advice column and a memory care staff-training brief.\n- **The first broken bone is the warning (PMID 42843462):** A wrist or shoulder broken in a standing-height fall should trigger a bone scan, medication review, falls assessment and strength check before you leave \u2014 ask whether a Fracture Liaison Service exists, for a consumer falls-prevention piece and a rehab trade brief.\n- **Steroids in advanced cancer: two-thirds of patients had a side effect (PMID 42843431):** Ask what the steroid is meant to achieve and when it will be reassessed, and report sleeplessness, infection signs or blood sugar changes in the first two weeks \u2014 for a palliative care trade brief and a caregiver medication column, flagged as a small hypothesis-generating study.\n- **A short, intensive home visit program after hospital discharge cut 90-day readmissions by a third (PMID 42859151):** A time-limited team handoff into the home rather than a permanent service \u2014 what to ask for before discharge, and a model worth examining for providers, for a caregiver-advice column and a home health trade brief.\n- **One set of strength exercises worked as well as three (PMID 42678372):** If long strength sessions feel like too much, one good set per exercise may deliver the walking and balance gains \u2014 with a direct warning against marketing exercise classes as memory treatment, for a consumer fitness explainer and a memory care programming brief.\n- **What predicts whether you feel old? Memory decline, new illness \u2014 and loneliness (PMID 42625387):** If aging feels like mostly subtraction, look at social connection as seriously as lab values \u2014 and a reframe for communities treating social programming as recreation rather than health, for a consumer aging-well piece and a senior living activities brief.\n- **Painful hand arthritis diagnoses jumped 65% in a decade (PMID 42839719):** Hand pain is not an inevitable part of aging \u2014 ask about hand therapy, splinting and joint protection, and build jar openers and pill organizers into routine functional checks, for a consumer arthritis explainer and a home care trade note.\n- **Older adults say they're more tuned in to their bodies \u2014 but one lab test suggests they're less accurate (PMID 42625395):** Why \"I'd know if something were wrong with my heart\" is worth questioning, and why caregivers should weigh vital signs and exertion tolerance alongside what someone reports feeling, for a consumer heart health explainer or a local-news health segment.",
+  "fact_check": {
+    "checked": "2026-10-11",
+    "studies_reviewed": "19",
+    "verdicts_by_pmid": {
+      "42859236": "\u26a0\ufe0f Minor issues",
+      "42858790": "\u26a0\ufe0f Minor issues",
+      "42857913": "\u26a0\ufe0f Minor issues",
+      "42858810": "\u26a0\ufe0f Minor issues",
+      "42858190": "\u26a0\ufe0f Minor issues",
+      "42858068": "\u2705 Accurate",
+      "42859223": "\u2705 Accurate",
+      "42857916": "\u26a0\ufe0f Minor issues",
+      "42857600": "\u26a0\ufe0f Minor issues",
+      "42857477": "\u274c Significant issues",
+      "42856984": "\u26a0\ufe0f Minor issues",
+      "42856930": "\u26a0\ufe0f Minor issues",
+      "42843462": "\u26a0\ufe0f Minor issues",
+      "42843431": "\u26a0\ufe0f Minor issues",
+      "42859151": "\u26a0\ufe0f Minor issues",
+      "42678372": "\u26a0\ufe0f Minor issues",
+      "42625387": "\u26a0\ufe0f Minor issues",
+      "42839719": "\u26a0\ufe0f Minor issues",
+      "42625395": "\u26a0\ufe0f Minor issues"
+    },
+    "summary": {
+      "total_issues": "32 (25 Minor, 7 Moderate, 0 Major)",
+      "entries_requiring_revision": "17",
+      "entries_cleared": "2"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 New This Week \u2014 October 2026\n**Checked:** 2026-10-11 | **Studies reviewed:** 19\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n### Study 1: Tai chi, yoga and dance top the list for Parkinson's symptoms \u2014 and more weekly exercise tracks with better movement\n**PMID:** 42859236 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Unverifiable superlative** \u2014 Severity: Minor\n\n- **As written:** \"this is the largest synthesis yet suggesting that mind-body approaches deserve a place alongside conventional gym-style training\"\n- **Abstract says:** \"We synthesized 173 randomized trials using covariance-aware Bayesian random-effects network meta-analysis... The evidence did not establish a universally best modality, an optimal dose, or an individual causal target.\"\n- **Problem:** The abstract never claims this is the largest synthesis of its kind, and makes a point of saying no best modality was established. Unverifiable from abstract only.\n- **Suggested fix:** \"Replace with \"this large synthesis of 173 trials\" and keep the authors' caveat that no modality was shown to be best.\"\n\n### Study 2: The MIND diet is linked to lower Parkinson's risk and later onset \u2014 but the evidence is thin\n**PMID:** 42858790 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"First systematic attempt\" not supported** \u2014 Severity: Minor\n\n- **As written:** \"this is the first systematic attempt to ask whether it also tracks with Parkinson's\"\n- **Abstract says:** \"The Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) diet has been associated with cognitive benefits, but its relationship with Parkinson's disease (PD) remains unclear. We systematically reviewed evidence on associations between MIND diet adherence and PD-related outcomes.\"\n- **Problem:** The abstract does not claim priority; it only states the relationship is unclear. Unverifiable from abstract only.\n- **Suggested fix:** \"Change to \"this systematic review pulls together what evidence exists on the MIND diet and Parkinson's.\"\"\n\n**Issue B. \"All available research\" overstates the search** \u2014 Severity: Minor\n\n- **As written:** \"Neurologists systematically reviewed all available research on the MIND diet\"\n- **Abstract says:** \"PubMed, Embase, and Google Scholar were searched through June 2026.\"\n- **Problem:** Three databases searched to a cutoff date is not \"all available research.\"\n- **Suggested fix:** \"Say \"searched three major databases through June 2026.\"\"\n\n### Study 3: Blood draws keep coming right up to the end of life in cancer \u2014 and almost nobody has shown they help\n**PMID:** 42857913 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Registration mislabeled** \u2014 Severity: Minor\n\n- **As written:** \"A PRISMA-registered systematic review\"\n- **Abstract says:** \"We conducted a PRISMA 2020 systematic review registered in PROSPERO (CRD420261493528).\"\n- **Problem:** PRISMA is a reporting guideline, not a registry; the review was registered in PROSPERO.\n- **Suggested fix:** \"Write \"a PROSPERO-registered systematic review following PRISMA 2020.\"\"\n\n**Issue B. Causal verb for an association** \u2014 Severity: Minor\n\n- **As written:** \"the review found advance care planning, more than the palliative care model itself, predicted lower utilization\"\n- **Abstract says:** \"Associations with palliative care services varied by model and setting, whereas timely advance care planning was more consistently associated with lower utilization.\"\n- **Problem:** \"Predicted\" implies a forecasting/causal relationship in heterogeneous observational studies that only reported associations.\n- **Suggested fix:** \"Use \"was more consistently associated with lower testing.\"\"\n\n### Study 4: Adding nighttime melatonin to an exercise program sharpened cholesterol gains in postmenopausal women\n**PMID:** 42858810 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Comparison group misattributed** \u2014 Severity: Moderate\n\n- **As written:** \"The group taking melatonin alongside training showed additional improvements the placebo-training group did not \u2014 notably lower LDL cholesterol and triglycerides, plus better liver enzymes, glucose and markers of cellular damage.\"\n- **Abstract says:** \"Alanine aminotransferase, creatine kinase (CK), alkaline phosphatase, glucose, total cholesterol... decreased... in CTM group compared with C group at T1... Comparatively with CTP, triglycerides (p < 0.05) and LDL-C (p < 0.01) decreased in CTM group at T1. In CTP group, CK (p < 0.05) decreased and phosphorus (p < 0.001) increased over time.\"\n- **Problem:** Only LDL-C and triglycerides were better in the melatonin group than in the placebo-training group. The liver enzyme, glucose and creatine kinase improvements were measured against the no-exercise control, and the placebo-training group also lowered creatine kinase, so \"markers of cellular damage\" is not an exclusive melatonin advantage.\n- **Suggested fix:** \"State that melatonin's only advantage over training-plus-placebo was lower LDL cholesterol and triglycerides, and note that liver enzyme and glucose improvements were relative to the untrained control group.\"\n\n### Study 5: A dementia diagnosis didn't raise the odds of going back to the hospital after rehab\n**PMID:** 42858190 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Living arrangement not measured** \u2014 Severity: Minor\n\n- **As written:** \"paying special attention to residents who live alone\"\n- **Abstract says:** \"Female sex, being married, and living in the Midwest or Western United States were associated with lower odds of readmission... social support factors such as marital status\"\n- **Problem:** The abstract reports marital status, not whether someone lives alone; these are not interchangeable.\n- **Suggested fix:** \"Change to \"paying special attention to residents without a spouse or other social support.\"\"\n\n### Study 6: How hard you can blow into a tube at 60 tracks with your thinking a decade later\n**PMID:** 42858068 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 7: Fatty liver disease came with stronger bones, not weaker ones, in a national US survey\n**PMID:** 42859223 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 8: A simple bedside score predicts how long patients live after starting home palliative care\n**PMID:** 42857916 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Unreported mortality clustering** \u2014 Severity: Minor\n\n- **As written:** \"since a large share of deaths cluster in the first one to two months after referral \u2014 a signal that many patients are being referred far too late\"\n- **Abstract says:** \"Patients with PPS \u226430 had markedly reduced short-term survival, particularly within the first 30-60 days.\"\n- **Problem:** The abstract describes short survival in the low-performance-status subgroup, not the proportion of all deaths occurring in the first 30-60 days. The \"referred far too late\" conclusion is the digest's own inference.\n- **Suggested fix:** \"Say \"patients admitted with a performance score of 30% or less had markedly reduced survival in the first 30-60 days,\" and present the late-referral point as context rather than a study finding.\"\n\n### Study 9: A hospital system found a way to let general neurologists prescribe new Alzheimer's drugs safely\n**PMID:** 42857600 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. ARIA rates converted imprecisely** \u2014 Severity: Minor\n\n- **As written:** \"ask directly about the roughly one-in-five to one-in-four chance of brain swelling or microbleeds on follow-up scans\"\n- **Abstract says:** \"Total amyloid-related imaging abnormality rate was 17.4% for lecanemab and 28.8% for donanemab.\"\n- **Problem:** 17.4% is closer to one in six and 28.8% is closer to three in ten, so the stated range understates the upper end and is not drug-specific.\n- **Suggested fix:** \"Write \"about one in six on lecanemab and close to three in ten on donanemab.\"\"\n\n### Study 10: Knowing someone with dementia changes attitudes more than any health campaign\n**PMID:** 42857477 | **Verdict:** \u274c Significant issues\n\n**Issue A. Causal headline contradicts the digest's own caveat** \u2014 Severity: Moderate\n\n- **As written:** \"Knowing someone with dementia changes attitudes more than any health campaign\"\n- **Abstract says:** \"A cross-sectional survey was conducted among the general public in Makueni County, Kenya... Dementia experiences were associated with better dementia knowledge (\u0394R2 = 0.10, p < 0.001) and attitudes (\u0394R2 = 0.06, p < 0.001)\"\n- **Problem:** The study is cross-sectional and reports associations only; the headline says experience \"changes\" attitudes, directly contradicting the digest's own caveat that causation cannot be shown. No health campaign was studied or compared.\n- **Suggested fix:** \"Rephrase as \"People who have known someone with dementia hold more positive attitudes \u2014 and knowledge alone may not be enough.\"\"\n\n**Issue B. Unsupported comparison with education campaigns** \u2014 Severity: Moderate\n\n- **As written:** \"this suggests that contact and lived experience \u2014 not leaflets and lectures \u2014 is what actually shifts how communities treat people with dementia\"\n- **Abstract says:** \"Dementia experiences were associated with better dementia knowledge... and attitudes... although sociodemographics accounted for the greatest variance... Regression models revealed that a target knowledge score of 49.5/50 on the Dementia Knowledge Assessment Scale (DKAS) would be required to statistically achieve the aspirational threshold of 102 on the Dementia Attitude Scale (DAS) in this sample.\"\n- **Problem:** The survey compared variance explained by different factors within one sample; it did not evaluate any educational intervention, and the knowledge-target result is a statistical extrapolation, not evidence that contact outperforms campaigns.\n- **Suggested fix:** \"Say the modelling implies knowledge alone is unlikely to reach the attitude threshold, and that personal experience was associated with more positive attitudes \u2014 without claiming superiority over awareness campaigns.\"\n\n**Issue C. Omitted dominant predictor** \u2014 Severity: Minor\n\n- **As written:** \"Having personal experience with dementia was linked to both better knowledge and more positive attitudes\"\n- **Abstract says:** \"Dementia experiences were associated with better dementia knowledge (\u0394R2 = 0.10, p < 0.001) and attitudes (\u0394R2 = 0.06, p < 0.001), although sociodemographics accounted for the greatest variance.\"\n- **Problem:** The digest leaves out that sociodemographic factors, not experience, explained the greatest variance in both models \u2014 which undercuts the framing built around experience.\n- **Suggested fix:** \"Add that sociodemographic characteristics accounted for the largest share of variance in knowledge and attitudes.\"\n\n### Study 11: The same Alzheimer's damage in the brain hurts thinking more in people who had harder lives\n**PMID:** 42856984 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Claim about pathology formation not tested** \u2014 Severity: Moderate\n\n- **As written:** \"It suggests that social and educational advantage doesn't stop Alzheimer's plaques and tangles from forming \u2014 it buffers how much damage they do to everyday thinking\"\n- **Abstract says:** \"SDoH did not modify the APOE-\u03b54-pathology association (p = 0.806)\"\n- **Problem:** The abstract reports only that SDoH did not modify the gene\u2013pathology relationship; it does not report testing whether social or educational advantage itself is associated with the presence of AD pathology. The digest converts a null interaction into a null main effect.\n- **Suggested fix:** \"Reword to: 'Social circumstances did not alter the link between APOE-\u03b54 and Alzheimer's pathology, but they did alter how strongly that pathology tracked with poorer thinking.'\"\n\n**Issue B. Composition of the SDoH measure unverifiable** \u2014 Severity: Minor\n\n- **As written:** \"that link was substantially stronger in people with unfavorable social circumstances (education, income, occupation)\"\n- **Abstract says:** \"SDoH modified this pathology-cognition association (p = 0\u00b7002), which was stronger in the unfavorable ... versus the favorable SDoH profile\"\n- **Problem:** The abstract does not specify which variables made up the favorable/unfavorable SDoH profiles. Unverifiable from abstract only.\n- **Suggested fix:** \"Either drop the parenthetical list or attribute it ('the authors' social determinants profile, which the paper defines in full').\"\n\n**Issue C. Enrichment framing beyond measured variables** \u2014 Severity: Minor\n\n- **As written:** \"this adds to evidence that cognitive and social enrichment may help your brain tolerate disease \u2014 keeping up education, complex hobbies, work and social engagement across later life is worth prioritizing\"\n- **Abstract says:** \"AD pathology was more strongly associated with poorer cognition in unfavorable SDoH profiles, highlighting SDoH as targets for AD prevention\"\n- **Problem:** Hobbies and social engagement were not among the reported study variables; the study measured a social determinants profile in an autopsy cohort, not enrichment activities.\n- **Suggested fix:** \"Limit the advice to the constructs studied (education, income, occupation/social circumstance) and note that activity-based enrichment was not measured here.\"\n\n### Study 12: Losing the pleasure in things may be the earliest warning sign of frontotemporal dementia\n**PMID:** 42856930 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. 'Earliest' overstates the staging result** \u2014 Severity: Minor\n\n- **As written:** \"Losing the pleasure in things may be the earliest warning sign of frontotemporal dementia\"\n- **Abstract says:** \"Event-based modeling placed consummatory and anticipatory anhedonia dimensions as early features of bvFTD occurring prior to overt cognitive changes\"\n- **Problem:** The model staged anhedonia relative to apathy and cognitive symptoms and found it early, not necessarily first; the abstract does not claim it is the earliest sign.\n- **Suggested fix:** \"Change to 'may be an early warning sign of frontotemporal dementia.'\"\n\n**Issue B. 'Far earlier than cognitive tests' is an extrapolation** \u2014 Severity: Minor\n\n- **As written:** \"may help separate the two far earlier than cognitive tests do\"\n- **Abstract says:** \"support the value of multidimensional hedonic assessment for improving dementia differentiation\"\n- **Problem:** The abstract reports probabilistic ordering within a model, not a head-to-head comparison of lead time against cognitive testing.\n- **Suggested fix:** \"Say the modeling placed pleasure loss before overt cognitive change in bvFTD, so it may add diagnostic information that cognitive tests alone miss.\"\n\n### Study 13: The first broken bone is the warning: geriatricians argue fracture clinics should be screening for frailty, not just bone density\n**PMID:** 42843462 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Timing of CGA shifted from admission to post-discharge weeks** \u2014 Severity: Minor\n\n- **As written:** \"the review frames the weeks after a fragility fracture as the moment when comprehensive geriatric assessment most changes the trajectory\"\n- **Abstract says:** \"Upon hospital admission, the comprehensive geriatric assessment (CGA) is pivotal to detect and manage frailty and consequences\"\n- **Problem:** The abstract locates CGA at hospital admission, not in the weeks after discharge; the body text of the digest itself says 'on hospital admission.'\n- **Suggested fix:** \"Align the story angle with the body: the review positions CGA at admission, with FLS bridging care from acute setting to home.\"\n\n**Issue B. Specific assessment checklist not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"ask specifically for a bone density scan, a medication review, a falls risk assessment, and a check of vitamin D and muscle strength \u2014 before you leave\"\n- **Abstract says:** \"Timely interventions removing modifiable risk factors are recommended to counteract the frailty vicious cycle, including falls and fragility fractures\"\n- **Problem:** The abstract endorses CGA and FLS generically; the itemized list (DXA, vitamin D, medication review) is not verifiable from the abstract.\n- **Suggested fix:** \"Frame as 'ask whether a comprehensive geriatric assessment and Fracture Liaison Service review are part of your care,' and mark the specific tests as standard practice rather than this review's findings.\"\n\n**Issue C. Author specialties unverifiable** \u2014 Severity: Minor\n\n- **As written:** \"A group of Italian geriatricians and orthopedic specialists\"\n- **Abstract says:** \"Affiliations list departments of Medicine and Surgery, General Medicine, Rehabilitation, Internal Medicine and Geriatrics units in Italy, on behalf of FFN Italy\"\n- **Problem:** Orthopedic specialty of the authors cannot be confirmed from the abstract. Unverifiable from abstract only.\n- **Suggested fix:** \"Say 'Italian geriatricians and orthogeriatric clinicians writing on behalf of FFN Italy.'\"\n\n**Issue D. Unsourced claim about current practice** \u2014 Severity: Minor\n\n- **As written:** \"Most people who break a bone from a minor fall are treated for the fracture and sent home without anyone assessing why they fell or testing their bones\"\n- **Abstract says:** \"The Fracture Liaison Service (FLS) is a coordinated care model designed to bridge the care gap of people facing fragility fractures in a time-dependent manner\"\n- **Problem:** The abstract refers to a 'care gap' but gives no prevalence figure supporting 'most people.'\n- **Suggested fix:** \"Soften to 'many people ... which is the care gap the authors say Fracture Liaison Services are designed to close.'\"\n\n### Study 14: Steroids in advanced cancer: two-thirds of patients had a side effect, and most showed up within 10 days\n**PMID:** 42843431 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline overstates early-onset proportion** \u2014 Severity: Moderate\n\n- **As written:** \"two-thirds of patients had a side effect, and most showed up within 10 days\"\n- **Abstract says:** \"Approximately half of all adverse events occurred within the first 10 days of treatment.\"\n- **Problem:** 'Most' implies a clear majority; the abstract reports about half. The digest body states it correctly, so the headline contradicts the body.\n- **Suggested fix:** \"Change headline to 'and about half showed up within 10 days.'\"\n\n**Issue B. Comparison to what patients are told is unsupported** \u2014 Severity: Minor\n\n- **As written:** \"this suggests their short-term burden may be substantially higher and faster-arriving than many patients are told\"\n- **Abstract says:** \"adverse events potentially associated with short-term systemic corticosteroid exposure were frequently recorded, often early after treatment initiation ... These exploratory findings support the relevance of existing recommandations for careful monitoring\"\n- **Problem:** The study made no comparison with patient counselling or prior expectations; the authors frame the findings as consistent with existing monitoring recommendations.\n- **Suggested fix:** \"Reword to 'suggests short-term side effects are common and often appear early, supporting existing advice to monitor closely and reassess the dose.'\"\n\n### Study 15: A short, intensive home visit program after hospital discharge cut 90-day readmissions by a third\n**PMID:** 42859151 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal verb in headline for observational data** \u2014 Severity: Moderate\n\n- **As written:** \"A short, intensive home visit program after hospital discharge cut 90-day readmissions by a third\"\n- **Abstract says:** \"The Safe Homecoming intervention was associated with a lower risk of first hospital readmission at 90 days ... Given the observational design, small intervention sample, potential residual confounding ... these findings should be considered exploratory\"\n- **Problem:** 'Cut' asserts causation from a retrospective propensity-matched cohort the authors themselves call exploratory.\n- **Suggested fix:** \"'...was linked to a sharply lower 90-day readmission rate' or 'tracked with ~40% fewer 90-day readmissions.'\"\n\n**Issue B. Headline figure inconsistent with body** \u2014 Severity: Minor\n\n- **As written:** \"cut 90-day readmissions by a third\"\n- **Abstract says:** \"cumulative incidence of first hospital readmission was 20.3% in the intervention group and 33.6% among controls ... Fine-Gray subdistribution hazard ratio was 0.57 (95% CI 0.37-0.86)\"\n- **Problem:** The relative reduction is about 40% (SHR 0.57, i.e., 43% lower), which the body states; 'a third' understates and conflicts with the body text.\n- **Suggested fix:** \"Use 'by about 40%' in the headline to match the body.\"\n\n**Issue C. Selection mechanism unverifiable** \u2014 Severity: Minor\n\n- **As written:** \"residual confounding is likely since clinicians chose who got the program\"\n- **Abstract says:** \"We included 128 patients who received the interprofessional Safe homecoming intervention at a single primary health care centre ... and 512 propensity score-matched controls\"\n- **Problem:** The abstract notes potential residual confounding but does not state that clinicians selected participants. Unverifiable from abstract only.\n- **Suggested fix:** \"'Residual confounding is likely because participants were not randomized to the program.'\"\n\n### Study 16: One set of strength exercises worked as well as three for older adults with cognitive impairment \u2014 and neither improved memory\n**PMID:** 42678372 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Primary outcomes described as secondary** \u2014 Severity: Moderate\n\n- **As written:** \"cognition and BDNF were secondary-signal outcomes that an 8-week trial of this size was unlikely to detect even if real\"\n- **Abstract says:** \"Primary outcomes assessed at baseline and post-intervention included the Dementia Rating Scale-2 (DRS-2), serum BDNF, and the Short Physical Performance Battery (SPPB). Secondary outcomes were creatine kinase (CK) and composite strength\"\n- **Problem:** DRS-2 and BDNF were pre-specified primary outcomes; calling them secondary signals softens a null result on the trial's main questions.\n- **Suggested fix:** \"State that cognition and BDNF were primary outcomes and both were null, while noting the small sample and 8-week duration limit power.\"\n\n**Issue B. 'Older adults' not established by abstract** \u2014 Severity: Minor\n\n- **As written:** \"One set of strength exercises worked as well as three for older adults with cognitive impairment\"\n- **Abstract says:** \"individuals with cognitive impairment (CI)\"\n- **Problem:** The abstract gives no ages or age range for participants, so describing them as older adults is unverifiable from abstract only.\n- **Suggested fix:** \"Say 'people with cognitive impairment' and note that participant ages are not reported in the abstract.\"\n\n**Issue C. Between-group superiority implied** \u2014 Severity: Minor\n\n- **As written:** \"the single-set group gained more on the Short Physical Performance Battery (+2.7 points versus +1.4)\"\n- **Abstract says:** \"Physical performance improved in both RT groups compared with CON, with SPPB increasing by 2.7 points in SET1 and 1.4 points in SET3\"\n- **Problem:** The abstract reports both within-group gains but no statistical test showing SET1 outperformed SET3; 'gained more' implies a demonstrated difference.\n- **Suggested fix:** \"'The single-set group's SPPB gain was numerically larger (+2.7 vs +1.4 points), though the study did not show one dose beat the other.'\"\n\n### Study 17: What predicts whether you feel old? Memory decline, new illness \u2014 and loneliness\n**PMID:** 42625387 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal-sounding framing of associations** \u2014 Severity: Minor\n\n- **As written:** \"this preregistered study points to loneliness and memory, rather than sensory decline, as the levers most tied to a loss-focused outlook\"\n- **Abstract says:** \"higher baseline loneliness perceived more losses and fewer gains ... Steeper declines in recall and stronger increases in morbidity were associated with heightened awareness of losses\"\n- **Problem:** 'Levers' implies these are modifiable causes of a loss-focused outlook; the study reports longitudinal associations only, as the digest's own Caveats acknowledge.\n- **Suggested fix:** \"'...points to loneliness and memory, rather than sensory decline, as the factors most consistently associated with a loss-focused outlook.'\"\n\n### Study 18: Painful hand arthritis diagnoses jumped 65% in a decade, Dutch records show\n**PMID:** 42839719 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Positive predictive value described as accuracy** \u2014 Severity: Minor\n\n- **As written:** \"using a validated algorithm that reads doctors' free-text notes as well as diagnostic codes (90% accuracy on manual review)\"\n- **Abstract says:** \"Manual review of 100 algorithm-identified records yielded a positive predictive value of 90%.\"\n- **Problem:** A 90% PPV on 100 flagged records is not the same as overall accuracy; sensitivity was not reported, so cases could still be missed.\n- **Suggested fix:** \"'90% of flagged records were confirmed as true cases on manual review (positive predictive value).'\"\n\n### Study 19: Older adults say they're more tuned in to their bodies \u2014 but one lab test suggests they're less accurate\n**PMID:** 42625395 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Clinical extrapolation beyond the study** \u2014 Severity: Minor\n\n- **As written:** \"it may help explain why some older adults miss or misread cardiac warning signs \u2014 a known contributor to delayed care for heart events\"\n- **Abstract says:** \"older age was associated with reduced cardiac interoceptive sensitivity during breath-holding ... this study opens new avenues for characterizing age-related changes in interoceptive awareness and bodily regulation\"\n- **Problem:** The study tested healthy volunteers in a lab task and measured no clinical outcomes or symptom recognition; the link to delayed care for heart events is the digest's inference.\n- **Suggested fix:** \"Flag it explicitly as speculation: 'Whether this translates into missing real cardiac symptoms was not tested here.'\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Tai chi, yoga and dance top the list for Parkinson's symptoms \u2014 and more weekly exercise tracks with better movement | \u26a0\ufe0f Minor issues | Numbers, modality ranking, dose associations and confidence ratings all match the abstract; only the unverifiable \"largest synthesis yet\" claim needs softening. |\n| 2 | The MIND diet is linked to lower Parkinson's risk and later onset \u2014 but the evidence is thin | \u26a0\ufe0f Minor issues | Effect sizes, study count, participant total and quality ratings all check out; the \"first systematic attempt\" claim and \"all available research\" phrasing overreach slightly. |\n| 3 | Blood draws keep coming right up to the end of life in cancer \u2014 and almost nobody has shown they help | \u26a0\ufe0f Minor issues | Study counts, testing range and the advance-care-planning signal are faithful; \"PRISMA-registered\" mislabels the registry and \"predicted\" nudges an association toward causation. |\n| 4 | Adding nighttime melatonin to an exercise program sharpened cholesterol gains in postmenopausal women | \u26a0\ufe0f Minor issues | Design, group sizes and the LDL/triglyceride result are right, but several biomarker gains attributed to melatonin-over-placebo were actually comparisons against the no-exercise control, and the placebo group also improved on cellular-damage markers. |\n| 5 | A dementia diagnosis didn't raise the odds of going back to the hospital after rehab | \u26a0\ufe0f Minor issues | Sample, 16% readmission rate, 42% dementia prevalence and the predictor list all match; only the leap from marital status to \"lives alone\" goes beyond the abstract. |\n| 6 | How hard you can blow into a tube at 60 tracks with your thinking a decade later | \u2705 Accurate | N, follow-up, event count, hazard ratio, cumulative incidence and the limited incremental prediction are all reported correctly, and the caveats match the authors' own hedges. |\n| 7 | Fatty liver disease came with stronger bones, not weaker ones, in a national US survey | \u2705 Accurate | Sample size, mean age, MASLD prevalence, direction of the BMD association and the osteoporosis odds all match; cross-sectional limits are properly flagged. |\n| 8 | A simple bedside score predicts how long patients live after starting home palliative care | \u26a0\ufe0f Minor issues | Cohort details, PPS \u226430 finding, tumor-type gradient and C-index are accurate; the claim that deaths cluster in the first one to two months is an inference the abstract doesn't report. |\n| 9 | A hospital system found a way to let general neurologists prescribe new Alzheimer's drugs safely | \u26a0\ufe0f Minor issues | Case counts, eligibility rate, 148% volume growth and ARIA rates are reported exactly; only the plain-language conversion of those ARIA rates is off. |\n| 10 | Knowing someone with dementia changes attitudes more than any health campaign | \u274c Significant issues | The survey details, spiritual-healer finding and 49.5/50 attitude target are accurate, but the headline and \"Why it matters\" assert causation and a comparison with awareness campaigns that this cross-sectional survey did not test \u2014 and the digest omits that sociodemographics explained the most variance. |\n| 11 | The same Alzheimer's damage in the brain hurts thinking more in people who had harder lives | \u26a0\ufe0f Minor issues | Core numbers (N=1,193, mean age 73.4, 50.1% women, 65.4% White, OR 3.95, stronger pathology-cognition link in unfavorable SDoH) all match. 'Why it matters' implies the study tested whether social advantage prevents pathology, which it did not; SDoH components are not specified in the abstract. |\n| 12 | Losing the pleasure in things may be the earliest warning sign of frontotemporal dementia | \u26a0\ufe0f Minor issues | Design, instrument (TEPS), event-based modeling and the bvFTD-vs-AD contrast are reported correctly, and the digest correctly notes the abstract gives no sample size. The headline's 'earliest warning sign' goes slightly beyond 'an early feature.' |\n| 13 | The first broken bone is the warning: geriatricians argue fracture clinics should be screening for frailty, not just bone density | \u26a0\ufe0f Minor issues | Fairly represents a narrative review/position piece from FFN Italy, and the Caveats correctly flag the editorial-role disclosure. Some specifics (orthopedic authorship, the post-discharge 'weeks' window, the detailed assessment checklist) are not in the abstract. |\n| 14 | Steroids in advanced cancer: two-thirds of patients had a side effect, and most showed up within 10 days | \u26a0\ufe0f Minor issues | N=29, mean age 68, 65.5% with \u22651 AE, 52 events and the AE types are all correct, and the Caveats are strong. The headline says 'most' events arrived within 10 days where the abstract says approximately half. |\n| 15 | A short, intensive home visit program after hospital discharge cut 90-day readmissions by a third | \u26a0\ufe0f Minor issues | Sample sizes (128 vs 512, source cohort 38,338), mean age 85.5, dates, 20.3% vs 33.6% and the fade-out at one year are all accurate. The headline uses causal language for a propensity-matched retrospective cohort and understates the size of the association reported in the body. |\n| 16 | One set of strength exercises worked as well as three for older adults with cognitive impairment \u2014 and neither improved memory | \u26a0\ufe0f Minor issues | Group sizes, 8-week duration, SPPB gains (+2.7 vs +1.4), the SET1-only strength increase and the null cognition/BDNF results are accurate. The Caveats misclassify cognition and BDNF as secondary outcomes when the abstract lists them as primary, and the participants' age range is not given in the abstract. |\n| 17 | What predicts whether you feel old? Memory decline, new illness \u2014 and loneliness | \u26a0\ufe0f Minor issues | N=753, ages 61-81, 9-year 3-wave Berlin Aging Study II data, preregistration, and the pattern of findings (baseline recall and grip strength, declines in recall, rising morbidity, loneliness; null for hearing, vision, processing speed, working memory) are all reported correctly. Only the causal-sounding word 'levers' overreaches. |\n| 18 | Painful hand arthritis diagnoses jumped 65% in a decade, Dutch records show | \u26a0\ufe0f Minor issues | Database size, years, case count (152,900), mean age 68.4, 72% women, 5.7%\u21929.4% prevalence (+65%), +20% incidence and the steeper relative rise in men all match. Only the description of the validation statistic is loose. |\n| 19 | Older adults say they're more tuned in to their bodies \u2014 but one lab test suggests they're less accurate | \u26a0\ufe0f Minor issues | N=78, age range 18-79, the three measures (heartbeat tapping with breath-holding, inspiratory load estimation, MAIA-2) and the divergence between declining cardiac sensitivity and rising self-reported sensibility are all accurately described. The cardiac-warning-sign rationale is a speculative leap not addressed in the abstract. |\n\n**Total issues:** 32 (25 Minor, 7 Moderate, 0 Major)\n**Entries requiring revision:** 17\n**Entries cleared:** 2\n"
+  }
+}

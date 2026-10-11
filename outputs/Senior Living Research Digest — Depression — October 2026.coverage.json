@@ -1,0 +1,938 @@
+{
+  "coverage_checked": 17,
+  "coverage_cached": 6,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42721779": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42857391": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42832237": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42546985": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42632461": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42847312": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42749167": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42853972": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42839627": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42842074": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42844914": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42842937": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42624700": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42313335": {
+      "state": "lightly_reported",
+      "outlets": [
+        "ADDitude"
+      ],
+      "articles": [
+        {
+          "title": "Could ADHD Medications Treat Coexisting Depression and Anxiety? New Studies Say Yes.",
+          "outlet": "ADDitude",
+          "link": "https://www.additudemag.com/viloxazine-centanafadine-adhd-anxiety-depression-treatment/"
+        }
+      ]
+    },
+    "42858616": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42830600": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42444638": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42658656": {
+      "state": "lightly_reported",
+      "outlets": [
+        "BBC Science Focus Magazine"
+      ],
+      "articles": [
+        {
+          "title": "25 surprisingly small changes that can significantly lower your dementia risk",
+          "outlet": "BBC Science Focus Magazine",
+          "link": "https://www.sciencefocus.com/wellbeing/25-changes-lower-dementia-risk"
+        }
+      ]
+    },
+    "42623930": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42858052": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42744143": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42658651": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42744145": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42632461": {
+      "pubdate": "2026 Nov",
+      "journal": "Ageing research reviews"
+    },
+    "42721779": {
+      "pubdate": "2026 Dec",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42832237": {
+      "pubdate": "2026 Oct 5",
+      "journal": "JAMA neurology"
+    },
+    "42546985": {
+      "pubdate": "2026 Nov",
+      "journal": "Journal of pain and symptom management"
+    },
+    "42857391": {
+      "pubdate": "2026 Oct-Dec",
+      "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)"
+    },
+    "42749167": {
+      "pubdate": "2026 Dec 15",
+      "journal": "Journal of affective disorders"
+    },
+    "42853972": {
+      "pubdate": "2026 Oct 9",
+      "journal": "The American journal of hospice & palliative care"
+    },
+    "42847312": {
+      "pubdate": "2026 Oct",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42844914": {
+      "pubdate": "2026 Oct 8",
+      "journal": "Palliative & supportive care"
+    },
+    "42842937": {
+      "pubdate": "2026 Oct 7",
+      "journal": "JMIR aging"
+    },
+    "42839627": {
+      "pubdate": "2026 Oct 6",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society"
+    },
+    "42842074": {
+      "pubdate": "2026 Oct 7",
+      "journal": "GeroScience"
+    },
+    "42624700": {
+      "pubdate": "2026 Nov",
+      "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry"
+    },
+    "42313335": {
+      "pubdate": "2026 Oct",
+      "journal": "International journal of clinical pharmacy"
+    },
+    "42830600": {
+      "pubdate": "2026 Oct 5",
+      "journal": "Palliative & supportive care"
+    },
+    "42858616": {
+      "pubdate": "2026 Oct 10",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    },
+    "42444638": {
+      "pubdate": "2026 Oct",
+      "journal": "Palliative medicine"
+    },
+    "42744145": {
+      "pubdate": "2026 Dec 15",
+      "journal": "Journal of affective disorders"
+    },
+    "42658656": {
+      "pubdate": "2026 Oct 7",
+      "journal": "The journals of gerontology. Series B, Psychological sciences and social sciences"
+    },
+    "42623930": {
+      "pubdate": "2026 Oct",
+      "journal": "Journal of the American Medical Directors Association"
+    },
+    "42858052": {
+      "pubdate": "2026 Oct 10",
+      "journal": "Journal of Alzheimer's disease : JAD"
+    },
+    "42744143": {
+      "pubdate": "2026 Dec 15",
+      "journal": "Journal of affective disorders"
+    },
+    "42658651": {
+      "pubdate": "2026 Oct 7",
+      "journal": "The journals of gerontology. Series B, Psychological sciences and social sciences"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Exercise Blunts the Depression Toll of Smoking and Heavy Drinking \u2014 and Socializing Helps When You Can't Move Much",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Dec;151:106383. Epub 2026 Aug 17",
+      "pmid": "42721779",
+      "doi": "10.1016/j.archger.2026.106383",
+      "the_study": "Researchers pooled seven years of data from four major aging cohorts (SHARE, HRS, ELSA and CHARLS) covering 186,066 middle-aged and older adults across 23 countries, sorting people into 16 combinations of four behaviors: smoking, drinking, moderate-to-vigorous physical activity, and social participation. Among people who did moderate-to-vigorous activity at least weekly, depression scores were similar no matter what the other behaviors were. Among those active less than weekly, the worst combination \u2014 smoking, excessive drinking and social isolation \u2014 was linked to a 0.281 standard deviation higher depression score, with women showing the largest increases. Staying socially active appeared protective specifically for people who weren't exercising.",
+      "why_it_matters": "It suggests that regular physical activity and, failing that, regular social contact may be the two most powerful levers older adults have against depressive symptoms \u2014 more so than any single bad habit in isolation.",
+      "story_angle_primary": "If you manage moderate-to-vigorous activity most weeks, your mood appears relatively protected even if other habits aren't perfect; if illness, pain or mobility limits keep you from exercising, this study suggests keeping your calendar full of social contact matters more, not less. Ask your doctor what level of activity is realistic for you.",
+      "story_angle_secondary": "For senior living operators and care teams: these data argue against treating exercise classes and social programming as interchangeable amenities. Residents with low mobility are precisely the group for whom group activities, clubs and visits may carry the most mood benefit \u2014 and women may warrant particular attention.",
+      "caveats": "Observational cohort data; associations cannot establish causation. Behaviors and depression scores were self-reported, and measurement of 'moderate-to-vigorous activity' and drinking differed across the four cohorts and 23 countries."
+    },
+    {
+      "headline": "In Older Adults With Depression, a Common Alzheimer's Gene May Determine Whether Poor Sleep and Low Mood Track With Brain Plaques",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 9;18(4):e70478",
+      "pmid": "42857391",
+      "doi": "10.1002/dad2.70478",
+      "the_study": "Investigators studied 110 adults aged 65 to 88 (66% women) with late-life depression, measuring depression severity, sleep efficiency and duration, amyloid beta burden on imaging, and APOE \u025b4 genotype. Overall, depression severity and sleep measures showed no direct relationship with amyloid. But among APOE \u025b4 carriers only, more severe depression and poorer sleep efficiency were each independently and additively associated with higher amyloid burden and greater odds of crossing the threshold for amyloid positivity. Exploratory analysis found longer lifetime duration of untreated depression was also linked to more amyloid in \u025b4 carriers.",
+      "why_it_matters": "It offers a possible explanation for years of conflicting research on whether late-life depression raises Alzheimer's risk \u2014 the answer may depend on genetics \u2014 and it underscores that leaving depression untreated for years may not be biologically neutral.",
+      "story_angle_primary": "If you're living with depression in later life, this is a reason to treat it rather than wait it out, and to raise persistent poor sleep with your clinician as a separate issue worth addressing \u2014 but note this study cannot show that treating either one lowers amyloid or prevents dementia.",
+      "story_angle_secondary": "For families and care staff: depressive symptoms and fragmented sleep in an older relative are often written off as 'just getting older.' This work supports treating them as clinically meaningful signals deserving a full evaluation, particularly where there is a family history of Alzheimer's disease.",
+      "caveats": "Cross-sectional observational analysis in a modest sample (N=110) drawn from a research cohort, so causation and direction are unknown and findings may not generalize; several authors report extensive pharmaceutical industry consulting and research funding."
+    },
+    {
+      "headline": "Getting Alzheimer's Blood Test Results Sooner Sped Up Diagnosis Without Causing Anxiety or Depression",
+      "journal": "JAMA Neurol",
+      "published": "2026 Oct 5:e263497. Online ahead of print",
+      "pmid": "42832237",
+      "doi": "10.1001/jamaneurol.2026.3497",
+      "the_study": "At a single memory clinic in Spain, 220 new patients with subjective cognitive decline, mild cognitive impairment or mild dementia (median age 73; 56% women) were randomly assigned to have plasma p-tau217 and neurofilament light results disclosed at three months or delayed to nine months. At three months, 50% of the early-disclosure group had a very high-confidence diagnosis versus 4.6% of the delayed group. Early disclosure also meant more people started symptomatic Alzheimer's treatment, fewer repeat neuropsychological tests, and more discharges back to primary care \u2014 with no increase in anxiety, depression, perceived stress, or decline in quality of life.",
+      "why_it_matters": "Blood tests for Alzheimer's pathology are arriving in clinics now, and a common worry \u2014 that telling people their results early will devastate them emotionally \u2014 was not borne out in this randomized trial.",
+      "story_angle_primary": "If you're being evaluated for memory problems, it's reasonable to ask whether a blood biomarker test is available at your clinic and how soon results would be shared; this trial found that learning sooner brought faster answers and treatment decisions without measurable emotional harm.",
+      "story_angle_secondary": "For families and memory-care professionals: earlier diagnostic certainty shortened the limbo period of repeat testing and moved more patients to primary care follow-up \u2014 a practical argument for building biomarker disclosure, with proper counseling, into the diagnostic pathway rather than deferring it.",
+      "caveats": "Single-center trial in Spain with nine months of follow-up; participants were volunteers in a specialized memory clinic and may not represent general practice. Several authors report consulting and research relationships with diagnostics and pharmaceutical companies, including Roche Diagnostics and Eli Lilly."
+    },
+    {
+      "headline": "Psilocybin Therapy for Depression Appeared as Safe and Effective During Active Cancer Treatment as Without It",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov;72(5):603-610. Epub 2026 Aug 3",
+      "pmid": "42546985",
+      "doi": "10.1016/j.jpainsymman.2026.07.030",
+      "the_study": "This secondary analysis of a phase 2 open-label trial included 30 adults with cancer and diagnosed major depressive disorder (mean age 56; 70% women) who received preparation therapy, a single 25-mg psilocybin dose in a group setting, and integration therapy. Seventeen were receiving systemic anticancer treatment within 30 days of dosing and 13 were not. Depression scores fell substantially in both groups with no significant differences at weeks 1, 3 or 8, and adverse event rates were similar; the severe events that occurred were judged unrelated to psilocybin.",
+      "why_it_matters": "Patients on chemotherapy and other systemic cancer therapies have largely been excluded from psychedelic trials, leaving the people arguably most in need of rapid depression relief without evidence \u2014 these preliminary data suggest they could be included.",
+      "story_angle_primary": "If you're in cancer treatment and struggling with depression, this is early evidence that ongoing therapy may not automatically disqualify you from psilocybin trials \u2014 but this was a small, uncontrolled study, so the practical step is asking your oncology team about all depression treatments available to you, including clinical trials.",
+      "story_angle_secondary": "For palliative care and oncology teams: the finding supports broadening eligibility criteria in future trials, and raises the question of how group-based preparation and integration therapy could be staffed in real-world supportive oncology programs.",
+      "caveats": "Very small sample (N=30) in a secondary analysis of an open-label, single-arm trial with no placebo control or randomization; eight-week follow-up; participants were younger (mean 56) than the typical senior living population; conducted with a commercial psychedelic therapy provider (Sunstone Therapies)."
+    },
+    {
+      "headline": "How Air Pollution May Reach the Aging Brain: Blood Vessels, Mood and Sleep Emerge as Possible Routes",
+      "journal": "Ageing Res Rev",
+      "published": "2026 Nov;122:103330. Epub 2026 Aug 22",
+      "pmid": "42632461",
+      "doi": "10.1016/j.arr.2026.103330",
+      "the_study": "Researchers systematically reviewed 16 epidemiological studies examining 72 exposure-mediator-outcome pathways linking six air pollutants \u2014 most often fine particulate matter (PM2.5) \u2014 to cognitive outcomes including memory, processing speed and dementia diagnoses. Cardiovascular and cerebrovascular disease emerged as the most consistent mediator, meaning pollution's effect on the brain may run substantially through the blood vessels. Mental health outcomes including depression and anxiety, along with sleep and lung function, also showed mediating potential but need confirmation.",
+      "why_it_matters": "It reframes air quality as a modifiable factor in brain aging and suggests that the familiar work of controlling blood pressure, treating depression and protecting sleep may also buffer some of pollution's cognitive toll.",
+      "story_angle_primary": "You can't control regional air quality, but you can check local air quality reports on bad-air days, limit outdoor exertion when levels spike, and keep up with the vascular care \u2014 blood pressure, cholesterol, stroke prevention \u2014 that this review identifies as a likely pathway between pollution and cognitive decline.",
+      "story_angle_secondary": "For senior living operators and family caregivers: this is an argument for taking indoor air filtration, building ventilation and outdoor-activity scheduling on high-pollution days seriously as brain-health measures, especially for residents with existing cardiovascular disease.",
+      "caveats": "Systematic review of observational studies only, with most included studies carrying some risk of bias in outcome assessment and confounding adjustment; mediation findings are preliminary and cannot establish causal pathways."
+    },
+    {
+      "headline": "Depression, Dizziness and Delirium Showed Up Years Before an Early Alzheimer's Diagnosis",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Oct",
+      "pmid": "42847312",
+      "doi": "10.1002/alz.71831",
+      "the_study": "Finnish researchers compared nationwide health registry records for 407 people diagnosed with early-onset Alzheimer's disease at two university hospitals between 2010 and 2021 against 4,035 age- and sex-matched controls, looking back 15 years before diagnosis. In the one to five years before diagnosis, the future Alzheimer's patients were significantly more likely to have been treated for depression (5.7% vs. 2.3%), vertigo, headache, delirium, brain injury, thyroid disorders, alcohol-related disorders, epilepsy and stroke. Almost nothing distinguished the two groups 11 to 15 years out, and health care visits rose sharply in the year before diagnosis.",
+      "why_it_matters": "A new or unusual bout of depression in midlife or later \u2014 especially alongside dizziness, headaches or an episode of confusion \u2014 can be part of the earliest visible signature of a brain disease rather than a standalone mood problem.",
+      "story_angle_primary": "If you develop depression for the first time later in life, or your mood symptoms come packaged with new dizziness, headaches, memory lapses or a confusional episode, it is reasonable to ask your doctor to look at the whole picture rather than treating each complaint in a separate appointment.",
+      "story_angle_secondary": "For clinicians and senior living staff, the cluster pattern is the signal: a resident or patient racking up visits for several seemingly unrelated complaints in a short span may warrant a cognitive workup rather than another referral.",
+      "caveats": "Observational case-control design \u2014 these conditions are associations, not proven causes, and most people with depression or vertigo will never develop Alzheimer's. Registry data capture only diagnoses that reached care; findings come from two Finnish hospitals and may not generalize. Several authors report consulting and lecture fees from pharmaceutical companies."
+    },
+    {
+      "headline": "Personalized Brain Stimulation for Stubborn Depression Did No Better Than a Fake Version",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 15",
+      "pmid": "42749167",
+      "doi": "10.1016/j.jad.2026.122515",
+      "the_study": "In a randomized, sham-controlled trial, 51 adults with treatment-resistant depression (43 completed the protocol) were assigned to accelerated intermittent theta burst stimulation targeted using individual brain scans, stimulation tailored by both brain scan and EEG-derived personal frequency, or sham stimulation. All received 10 sessions a day for five straight days, with depression severity measured one and four weeks later. Neither personalized form of active stimulation beat sham on depression scores, anhedonia, response or remission rates.",
+      "why_it_matters": "Accelerated, \"personalized\" magnetic brain stimulation is being marketed aggressively as a fast fix for depression that hasn't responded to medication, and this trial suggests the personalization adds no measurable benefit over a convincing placebo.",
+      "story_angle_primary": "If a clinic offers you an expensive five-day \"personalized\" brain stimulation package for depression, ask what evidence supports the personalization specifically \u2014 and know that standard, longer-course TMS has a far deeper track record than the accelerated, individually-targeted protocols.",
+      "story_angle_secondary": "Families helping an older relative weigh options after several failed antidepressants should treat accelerated personalized TMS as still experimental, and ask whether a trial setting or a better-established treatment is the wiser first step.",
+      "caveats": "Small sample (51 randomized, 43 completed) and short follow-up of four weeks; the trial was not specific to older adults, so applicability to late-life depression is uncertain. Several authors report financial ties to neurotechnology and device companies including Magventure, Brainsway, Wave Neuroscience and Hybrid Harmony."
+    },
+    {
+      "headline": "A Digital 'Life Review' Collage Lifted Confidence in Older Cancer Patients \u2014 and Eased Caregiver Strain",
+      "journal": "Am J Hosp Palliat Care",
+      "published": "2026 Oct 9",
+      "pmid": "42853972",
+      "doi": "10.1177/10499091261496423",
+      "the_study": "Japanese researchers randomized 42 home-dwelling older cancer patients and their families to either three sessions of a digital collage activity built around a structured life review, or to questionnaires alone, over roughly 10 days. Among those who finished (13 intervention, 16 control), patients in the collage group improved on overall self-efficacy and specifically on coping with symptoms and regulating emotions, while their family caregivers reported better overall quality of life and reduced psychological burden. There were no significant differences between groups on self-esteem or depression scales for either patients or families.",
+      "why_it_matters": "A short, low-tech-feeling creative activity delivered at home produced measurable gains in how capable patients felt and how burdened their caregivers felt \u2014 though it did not move depression scores, which matters for setting expectations.",
+      "story_angle_primary": "If you are living with a serious illness at home, structured reminiscence work \u2014 assembling photos and images into a collage while talking through your life story \u2014 may help you feel more able to manage symptoms and difficult feelings; it is worth asking your care team or occupational therapist whether something similar is available.",
+      "story_angle_secondary": "For hospice and home-care teams, this is a reminder that activities designed for the patient can also measurably relieve the family's psychological burden \u2014 a two-for-one return that is easy to overlook when planning care.",
+      "caveats": "Very small sample (42 randomized, only 29 completing) with substantial dropout, single-country setting, self-reported outcomes, and short follow-up of one week post-intervention. Depression and self-esteem showed no benefit, and the authors describe the effectiveness evidence as preliminary."
+    },
+    {
+      "headline": "Ten Years After a Parkinson's Diagnosis: Depression, Apathy and Other Mind Symptoms Keep Climbing",
+      "journal": "Mov Disord",
+      "published": "2026 Oct 6",
+      "pmid": "42839627",
+      "doi": "10.1002/mds.70557",
+      "the_study": "Researchers followed 846 people with biologically confirmed Parkinson's disease and 282 healthy comparison participants for a decade, tracking nine neuropsychiatric symptoms including depression, anxiety, apathy, psychosis, impulse control problems, sleep disturbance and cognitive impairment. Eight of the nine symptoms became steadily more common over 10 years \u2014 the average number of symptoms per person rose from 1.39 to 2.39 \u2014 while anxiety alone edged down and symptom rates in healthy controls stayed flat. Statistical clustering found that people fell into recognizable low-burden and high-burden groups right at diagnosis, and those groupings still held up at 5 and 10 years.",
+      "why_it_matters": "Parkinson's care often centers on tremor and walking, yet this shows depression, apathy and psychosis are a predictable and growing part of the disease \u2014 meaning mood should be monitored as routinely as movement.",
+      "story_angle_primary": "If you or someone close to you has Parkinson's, consider asking at each appointment about mood, motivation, sleep and thinking \u2014 not just movement. Depression and apathy are common and treatable parts of the condition, not personal failings or something you simply have to accept as you age.",
+      "story_angle_secondary": "For care staff and families: the finding that high-burden versus low-burden patterns are visible at diagnosis and persist suggests early neuropsychiatric screening could help anticipate which residents will need more mental health and behavioral support years down the line.",
+      "caveats": "Observational cohort \u2014 it describes the natural course of symptoms but cannot establish what causes them. Participants in a precision-medicine research cohort may be healthier, better educated and more engaged with care than typical patients, limiting generalizability."
+    },
+    {
+      "headline": "Where You Live Shapes Your Mood: Communities Lacking Toilets Show Higher Depression Among Older Adults in India",
+      "journal": "Geroscience",
+      "published": "2026 Oct 7",
+      "pmid": "42842074",
+      "doi": "10.1007/s11357-026-02537-9",
+      "the_study": "Using the Longitudinal Aging Study in India (2017-2018), researchers applied multilevel modeling to examine whether the share of households without toilets in a community was linked to depression among adults over 45. People living in communities in the lowest quintile of toilet coverage had roughly 38% higher odds of depressive symptoms (OR 1.38, 95% CI 1.08-1.76) compared with those in the best-served communities, and the same pattern held for probable major depression. The association was present for both older women and men.",
+      "why_it_matters": "It reinforces that late-life depression is not purely a medical or personal matter \u2014 the dignity, safety and sanitation of the surrounding neighborhood can weigh on older people's mental health.",
+      "story_angle_primary": "If your mood has shifted, it is worth considering the conditions around you \u2014 housing, sanitation, safety, privacy \u2014 alongside anything happening inside your body. Raising environmental stressors with a doctor or social worker can lead to practical help that a prescription alone won't deliver.",
+      "story_angle_secondary": "For senior housing operators and public health planners: infrastructure investments that seem purely physical \u2014 bathrooms, privacy, basic sanitation \u2014 may carry measurable mental health dividends for older residents, a useful argument when making the case for capital spending.",
+      "caveats": "Cross-sectional and observational, so causation cannot be established and reverse or shared causes are possible; depressive symptoms were measured by screening instruments rather than clinical diagnosis; findings come from India and may not transfer to high-income settings."
+    },
+    {
+      "headline": "Caring for a Dying Loved One Takes a Heavy Mental Toll \u2014 and Family Caregivers Are Rarely Screened for It",
+      "journal": "Palliat Support Care",
+      "published": "2026 Oct 8",
+      "pmid": "42844914",
+      "doi": "10.1017/S1478951526103551",
+      "the_study": "Researchers surveyed 100 adult family caregivers of terminally ill cancer patients at a tertiary hospital in Kolkata, India, using the DASS-21 distress scale and the Brief-COPE inventory. Median scores indicated moderate levels of depression, anxiety and stress across the group, most of whom were the patient's adult children (67%, median age 43). Emotion-focused coping was significantly correlated with higher anxiety, depression and stress \u2014 which the authors interpret as a reaction to mounting distress rather than proof that emotional coping is harmful.",
+      "why_it_matters": "Family caregivers at the end of a loved one's life carry clinically meaningful depression and anxiety that routine oncology and palliative care rarely measures or treats.",
+      "story_angle_primary": "If you are the one caring for a seriously ill spouse, sibling or parent, your own mood deserves attention too. Ask the treating team directly whether caregiver counseling, support groups or respite is available \u2014 distress at this level is common and not a sign you are failing.",
+      "story_angle_secondary": "For palliative and oncology teams: this argues for building brief caregiver distress screening into routine visits, so the family member is treated as a second patient rather than an unpaid extension of the care plan.",
+      "caveats": "Small N (100), single-center, cross-sectional and observational \u2014 associations between coping style and distress cannot be given a direction. All measures were self-reported, and the Indian tertiary-hospital, mostly male caregiver sample may not generalize to Western family caregiving."
+    },
+    {
+      "headline": "AI Reads Doctors' Notes and Finds Memory Worries Go Undocumented \u2014 Especially in Poorer Neighborhoods",
+      "journal": "JMIR Aging",
+      "published": "2026 Oct 7",
+      "pmid": "42842937",
+      "doi": "10.2196/93011",
+      "the_study": "Researchers applied a two-stage large language model pipeline to the electronic health records of 15,750 adults aged 65 and older who had scored normal on cognitive testing in a large health system between 2019 and 2024. Only 13.8% had any documented memory or thinking concern noted in the prior year, and the AI identified those notes with high accuracy (sensitivity 0.96, specificity 0.99). Concerns were more likely to be recorded in people with Parkinson's disease, prior stroke, traumatic brain injury, epilepsy, depression (adjusted odds ratio 1.54) and heavy alcohol use \u2014 and less likely in people living in more deprived neighborhoods.",
+      "why_it_matters": "Subjective memory complaints can be an early warning sign, but this suggests they often go unrecorded \u2014 and are recorded unevenly, with disadvantaged older adults least likely to have their concerns written down.",
+      "story_angle_primary": "If you have noticed your memory slipping but a cognitive test came back normal, say so explicitly and ask that the concern be entered in your chart. A documented concern is what makes follow-up and re-testing possible later; an unspoken one leaves no trail.",
+      "story_angle_secondary": "For clinicians and senior living staff: the equity gap here is the headline \u2014 residents in poorer neighborhoods were less likely to have cognitive concerns documented, so proactive, structured asking may matter more than waiting for patients to volunteer complaints.",
+      "caveats": "Retrospective and observational within a single large health system; documentation patterns reflect clinician behavior, not true prevalence of memory concerns. One author reports salary support from Eisai and Eli Lilly and consulting payments from Ono Pharma USA. Findings may not generalize to other health systems or record-keeping cultures."
+    },
+    {
+      "headline": "Nearly 1 in 20 Americans Over 50 Had a Major Depressive Episode \u2014 and a Third Got No Treatment",
+      "journal": "Am J Geriatr Psychiatry",
+      "published": "2026 Nov",
+      "pmid": "42624700",
+      "doi": "10.1016/j.jagp.2026.07.010",
+      "the_study": "Researchers analyzed responses from 20,580 community-dwelling US adults aged 50 and older in the 2022-2023 National Survey on Drug Use and Health. An estimated 4.6% had experienced a major depressive episode in the past year, with higher odds among women, people who were divorced, separated or widowed, and those with alcohol use disorder, cannabis use, or misuse of prescription opioids, tranquilizers or sedatives. Of those with depression, 66.2% received any mental health treatment, but adults 65+ were significantly less likely than those 50-64 to get outpatient care (38.7% vs. 50.1%) and less likely to say they felt they needed treatment (8.8% vs. 23.3%). Among untreated people who did perceive a need, 86.2% cited attitudinal barriers such as believing they could handle it alone, 73.1% cited access problems and 48.6% cited cost.",
+      "why_it_matters": "Depression in later life is common and treatable, yet the oldest adults are the least likely to receive outpatient care \u2014 often because they do not define what they are feeling as a treatable illness.",
+      "story_angle_primary": "If you have been feeling persistently low, uninterested or hopeless, the most common reason older adults go untreated isn't cost or transportation \u2014 it's the belief that you should be able to handle it yourself. Consider raising it at your next primary care visit, and be aware that heavier drinking or regular use of sedatives, opioids or cannabis often travels alongside depression in this age group.",
+      "story_angle_secondary": "For families and senior living staff: don't wait for an older adult to ask for help. This data suggests people 65+ frequently don't perceive an unmet need at all, so routine screening and gentle, repeated offers of a referral may matter more than responding to requests.",
+      "caveats": "Cross-sectional survey design cannot establish causation or direction; depression and substance use were based on self-reported survey instruments; institutionalized adults, including nursing home residents, were excluded, so the findings may not generalize to those settings. One author has consulted for the Washington-Baltimore High Intensity Drug Trafficking Areas program."
+    },
+    {
+      "headline": "Could Your Pharmacist Spot Your Depression? Clinicians Say Yes \u2014 With Conditions",
+      "journal": "Int J Clin Pharm",
+      "published": "2026 Oct",
+      "pmid": "42313335",
+      "doi": "10.1007/s11096-026-02171-7",
+      "the_study": "Australian researchers conducted in-depth interviews with 28 healthcare professionals \u2014 19 pharmacists, five geriatricians and four general practitioners \u2014 about whether pharmacists should screen older adults for depression during routine medication reviews. Participants were broadly supportive, noting that home-based medication reviews create a comfortable setting where older people may open up more readily than in a clinic. But they flagged significant barriers: time pressure, no payment for the extra service, limited mental health training, and uncertainty about who follows up when someone screens positive.",
+      "why_it_matters": "Late-life depression is widely underdiagnosed, and many older adults see a pharmacist more often than any other health professional \u2014 making medication reviews a realistic, underused opportunity to catch it.",
+      "story_angle_primary": "Your pharmacist, especially one who visits your home for a medication review, may be well placed to notice mood changes \u2014 and several of your medications can themselves affect mood. It's reasonable to raise how you've been feeling during a medication review rather than waiting for a doctor's appointment.",
+      "story_angle_secondary": "For senior living operators and care coordinators: if pharmacist-led depression screening is added to medication reviews, the clinicians interviewed here were clear that it fails without a defined follow-up pathway. Build the referral route before building the screen.",
+      "caveats": "Small qualitative study (N=28) of clinician opinions, not patient outcomes; participants were self-selected volunteers, most from one Australian state, so views may not represent the wider profession or translate to other health systems; no evidence yet that such screening improves detection or outcomes."
+    },
+    {
+      "headline": "Painting, Music and Dance Linked to Modest Gains in Memory and Mood for People With Mild Cognitive Impairment",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Oct 10",
+      "pmid": "42858616",
+      "doi": "10.1016/j.gerinurse.2026.104369",
+      "the_study": "Researchers pooled 26 randomized controlled trials involving 1,754 older adults with mild cognitive impairment to test whether creative art therapies \u2014 including visual art, music and movement-based programs \u2014 improve cognition and mood. Across trials, participants showed improvements in global cognition (MMSE +1.32 points; MoCA +3.22 points), executive function, immediate and delayed recall, attention, and verbal fluency. Depression scores fell modestly (mean difference -0.86) and anxiety scores fell as well (-1.40). Different art forms appeared better suited to different functions.",
+      "why_it_matters": "For older adults with early memory problems, structured creative programs are low-risk, widely available activities with measurable benefits for both thinking and mood \u2014 areas where drug options are limited.",
+      "story_angle_primary": "If you've been told you have mild cognitive impairment, a structured art, music or movement program may be worth adding to your week \u2014 the evidence points to small but real gains in memory, attention and mood, not just enjoyment. Ask whether your community center, clinic or library runs a program with a trained facilitator rather than a casual drop-in.",
+      "story_angle_secondary": "For activity directors and memory care programmers: this analysis supports investing in structured, facilitator-led creative sessions as a clinical intervention, not just enrichment \u2014 and suggests matching the art form to the target outcome, since different modalities favored different domains.",
+      "caveats": "Meta-analysis of trials that varied widely in intervention type, dose and quality; improvements in depression and anxiety were small in absolute terms and clinical meaningfulness is uncertain; blinding is essentially impossible in art therapy trials, so placebo and attention effects likely contribute; follow-up durations were generally short."
+    },
+    {
+      "headline": "Grief Counseling Started Before a Loved One Dies Eased Caregivers' Distress \u2014 but Not Their Depression",
+      "journal": "Palliat Support Care",
+      "published": "2026 Oct 5",
+      "pmid": "42830600",
+      "doi": "10.1017/S1478951526103794",
+      "the_study": "In a randomized controlled trial running from October 2024 to November 2025, 111 family caregivers of patients with advanced cancer were assigned either to structured grief counseling (n=55) that began before the patient's death and continued for three months afterward, or to written psychological materials only (n=56). Caregivers receiving counseling reported substantially lower anticipatory grief scores, higher post-traumatic growth, and better health-related quality of life. However, there were no significant differences between groups in bereavement guilt, anxiety or depression scores.",
+      "why_it_matters": "It suggests bereavement support works better when it starts before the death rather than after \u2014 but also that structured grief counseling alone may not be enough to prevent or treat clinical depression in caregivers.",
+      "story_angle_primary": "If you are caring for a spouse or partner with advanced illness, ask the care team whether grief support is available now, not only after the death \u2014 this trial found starting early helped with grief, quality of life and finding meaning. But if you are also experiencing persistent depression or anxiety, counseling of this type may not address it, and that deserves separate attention.",
+      "story_angle_secondary": "For hospice and oncology teams: the results support building standardized, family-centered bereavement programs that begin in the terminal phase. They also argue for screening caregivers separately for depression and anxiety, since those symptoms did not respond to the grief intervention.",
+      "caveats": "Relatively small trial (N=111), single-center, conducted in China and may not generalize to other care systems; outcomes relied on self-report scales; follow-up ended three months after the death, so longer-term effects on complicated grief are unknown; blinding of participants was not possible."
+    },
+    {
+      "headline": "Adding a Palliative Care Clinic to Cancer Treatment Tracked With Less Pain, Anxiety and Depression Over a Year",
+      "journal": "Palliat Med",
+      "published": "2026 Oct",
+      "pmid": "42444638",
+      "doi": "10.1177/02692163261464439",
+      "the_study": "Spanish researchers followed 118 patients with head and neck cancer (mean age 62.9) who attended a palliative care outpatient clinic embedded within their cancer unit, assessing symptoms at six points over 12 months. Average pain intensity dropped from 2.53 to 1.5, total symptom distress from 27.96 to 20.34, anxiety from 1.86 to 1.14, and depression from 3.46 to 2.79, with quality of life improving by month four. Half of patients were referred to social work, 21% to psycho-oncology and 12% to psychiatry. Most participants (91%) still had active disease and 85% were receiving anti-cancer treatment.",
+      "why_it_matters": "It reinforces that palliative care is not only for the end of life \u2014 delivered alongside active cancer treatment, it was associated with better mood, less pain and improved quality of life.",
+      "story_angle_primary": "If you or someone you love is in active cancer treatment, you can ask for a palliative care referral now rather than later; in this clinic, patients receiving concurrent palliative care reported less pain and lower anxiety and depression while still on anti-cancer therapy. Note that half were also connected to social work support, which is often the practical lifeline people don't think to request.",
+      "story_angle_secondary": "For care teams and family members: the high referral rates to social work, psycho-oncology and psychiatry show that an integrated palliative clinic functions largely as a hub that catches unmet psychosocial need. That argues for co-locating these services rather than expecting patients to navigate separate referrals.",
+      "caveats": "Observational cohort with no control group, so improvements cannot be attributed to the palliative care clinic itself; single-center study at one comprehensive cancer center; patients who died or deteriorated may have dropped out, potentially making remaining participants look better; symptom and mood measures were self-reported; mean age under 65, so findings apply to a somewhat younger group than typical geriatric populations."
+    },
+    {
+      "headline": "Variety, Not Frequency, of Activities Linked to Lower Dementia Risk Over 15 Years",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "published": "2026 Oct 7",
+      "pmid": "42658656",
+      "doi": "10.1093/geronb/gbag177",
+      "the_study": "Researchers followed 482 older adults from the Baltimore Experience Corps Study (mean age 68, 84% women, 95% Black/African American) and linked their self-reported engagement in 28 lifestyle activities at baseline to Medicare and private insurance claims through 2022. Over 15 years, each additional distinct activity a person engaged in was associated with about a 6% lower risk of a dementia diagnosis \u2014 roughly a six-month delay in diagnosis per activity. How often people did their activities made no difference, and the variety effect weakened once education, existing health conditions, and depression were accounted for.",
+      "why_it_matters": "It suggests that broadening the range of things you do \u2014 rather than simply doing the same one or two things more often \u2014 may be the more protective pattern, and it is one of very few long-term dementia studies conducted in a predominantly Black older population.",
+      "story_angle_primary": "If your week has shrunk down to the same two or three routines, consider adding a different kind of activity \u2014 something social, something physical, something mentally demanding \u2014 rather than just doing more of what you already do. This is observational research, so it cannot prove that new hobbies prevent dementia, but diversifying your days carries little downside.",
+      "story_angle_secondary": "For activity directors and program planners in senior living: this supports building calendars with breadth across social, physical, creative, and cognitive domains, and tracking how many different activity types each resident touches \u2014 not just attendance counts.",
+      "caveats": "Observational design cannot establish causation; the association weakened and lost statistical significance after fuller adjustment for demographics, health conditions, and depression; activities were self-reported at a single baseline; participants were volunteers in a service program and may not generalize to all older adults."
+    },
+    {
+      "headline": "Can a Talking Chatbot Ease Loneliness in Later Life? Early Evidence Says Sometimes",
+      "journal": "J Am Med Dir Assoc",
+      "published": "2026 Oct",
+      "pmid": "42623930",
+      "doi": "10.1016/j.jamda.2026.106410",
+      "the_study": "Researchers systematically reviewed 11 studies (4 randomized controlled trials, 7 quasi-experimental) testing conversational chatbots built on natural language processing with older adults. Six of nine studies measuring loneliness reported significant reductions, two of four measuring depression reported improvement, and no study showed a meaningful change in overall quality of life. Dropout was low (20% or less) and satisfaction was generally positive, though participants wanted more natural, personalized conversation.",
+      "why_it_matters": "Loneliness is widespread among older adults and hard to treat at scale; this is the first systematic look at whether AI conversation partners actually help, and the honest answer is promising but unproven.",
+      "story_angle_primary": "If you are curious about an AI companion app, the evidence suggests it may take the edge off loneliness and low mood \u2014 especially with regular, sustained use \u2014 but it is not a substitute for human contact or for talking to your doctor about persistent depression.",
+      "story_angle_secondary": "For communities considering purchasing chatbot or companion-robot technology: demand evidence, start with a small pilot, and treat these tools as a supplement to staffing and social programming rather than a replacement. Residents in these studies specifically asked for more personalized, human-like interaction.",
+      "caveats": "Systematic review of a small and mixed evidence base (only 4 RCTs); most included studies were small and short; outcomes were self-reported; results were inconsistent across studies and no pooled effect size was calculated."
+    },
+    {
+      "headline": "Brain Stimulation Improved Sleep in Mild Alzheimer's \u2014 But Not Mood",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Oct 10",
+      "pmid": "42858052",
+      "doi": "10.1177/13872877261492561",
+      "the_study": "In the double-blind, randomized TRANSFORM-AD trial, 43 people with mild Alzheimer's disease received either 30 one-hour sessions of 40 Hz high-intensity transcranial alternating current stimulation or sham stimulation over 15 consecutive days. Those who got the real stimulation reported meaningfully better sleep quality afterward (a 2.34-point improvement on the Pittsburgh Sleep Quality Index versus sham). Effects on anxiety, depression, and quality of life were small and statistically inconclusive.",
+      "why_it_matters": "Poor sleep is one of the most distressing and caregiving-intensive features of early dementia, and this is early randomized evidence that a non-drug approach may help \u2014 though the mood benefits people often hope for were not demonstrated.",
+      "story_angle_primary": "If you or a partner has early Alzheimer's and sleep is a problem, this is worth asking a neurologist about as an emerging research option \u2014 but it is a small, early trial, and the treatment is not yet established care. Don't expect it to lift depression.",
+      "story_angle_secondary": "For care partners and memory care staff: better sleep in residents with mild dementia has knock-on effects for daytime agitation and caregiver rest, which makes trials like this worth tracking \u2014 while recognizing the regimen tested here (30 hour-long sessions in 15 days) is demanding and not yet widely available.",
+      "caveats": "Very small sample (N=43); single-center; sleep and mood were measured by subjective rating scales; mood and quality-of-life results were secondary, exploratory analyses that were underpowered; no long-term follow-up reported."
+    },
+    {
+      "headline": "After a Stroke, a Changed Sense of Self Predicts Later Depression",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 15",
+      "pmid": "42744143",
+      "doi": "10.1016/j.jad.2026.122512",
+      "the_study": "German researchers recruited 488 stroke patients from a stroke unit about six days after their stroke and reassessed 188 of them at 3, 6, and 12 months. They measured \"self-discrepancy\" \u2014 how far patients felt they had drifted from their pre-stroke self \u2014 alongside depressive symptoms. Higher self-discrepancy predicted later increases in depressive symptoms, while both measures remained strikingly stable across the first year.",
+      "why_it_matters": "Post-stroke depression is common and often attributed to physical disability alone; this suggests that how much a survivor feels like a different person is an independent early warning sign that rehabilitation teams could screen for.",
+      "story_angle_primary": "If you are recovering from a stroke and find yourself thinking \"I'm just not the person I was,\" say that out loud to your rehab team or doctor \u2014 that feeling appears to precede depression, and naming it early opens the door to psychological support, not just physical therapy.",
+      "story_angle_secondary": "For families and rehabilitation staff: a brief question about identity change in the first weeks after stroke may flag who needs mental health follow-up months later. Both self-discrepancy and low mood proved highly persistent over a year, so early intervention matters more than watchful waiting.",
+      "caveats": "Observational design cannot establish causation; substantial attrition from 488 at baseline to 188 at 12 months; self-discrepancy measured with a single visual item and depression with the brief two-item PHQ-2; single recruitment site; the reverse association (depression predicting lower self-discrepancy) is unexplained and complicates interpretation."
+    },
+    {
+      "headline": "Teenage Mental Health Still Echoes in How 67-Year-Olds Rate Their Memory",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "published": "2026 Oct 7",
+      "pmid": "42658651",
+      "doi": "10.1093/geronb/gbag180",
+      "the_study": "Swedish researchers tracked 625 people from childhood into their late 60s, with standardized assessments of psychological health, social well-being, socioeconomic status, and cognitive ability at ages 10 and 13, and self-rated memory plus anxiety and depression at age 67. Psychological health at age 13 \u2014 but not at 10 \u2014 predicted self-rated memory nearly six decades later, independent of current anxiety and depressive symptoms. Childhood social well-being, socioeconomic status, school performance, and measured cognitive ability did not predict later subjective memory.",
+      "why_it_matters": "It reframes memory complaints in later life as partly rooted in a lifelong psychological trajectory rather than purely a sign of brain change \u2014 useful context when someone worries their forgetfulness means dementia.",
+      "story_angle_primary": "If you find yourself frequently worried about your memory, know that self-rated memory is shaped by psychological factors as well as actual cognitive change \u2014 current anxiety was also a strong predictor here. Raise concerns with your doctor and ask for objective cognitive testing rather than relying on your own impression alone.",
+      "story_angle_secondary": "For families and clinicians: a resident's or relative's complaints about memory should prompt screening for anxiety and mood alongside cognitive assessment, since subjective memory ratings track emotional health as well as cognition.",
+      "caveats": "Observational design cannot establish causation; outcome was self-reported memory rather than objective cognitive testing; single Swedish birth cohort that may not generalize; the abstract's description of effect direction is ambiguous; only one of several early-life predictors reached significance, raising the possibility of a chance finding."
+    },
+    {
+      "headline": "Depression Tilts the Meaning of Everyday Words \u2014 and Genetic Risk May Play a Part",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 15",
+      "pmid": "42744145",
+      "doi": "10.1016/j.jad.2026.122507",
+      "the_study": "Researchers asked 1,392 participants in Germany's BiDirect Study \u2014 a cohort enriched with people hospitalized for acute depression \u2014 to rate emotional words for pleasantness and intensity at baseline and again three years later. People who were depressed rated words as more negative and more emotionally arousing at both time points, and those whose symptoms improved or went into remission shifted toward less negative ratings. A polygenic risk score for major depression was also independently associated with more negative word ratings.",
+      "why_it_matters": "It provides large-scale confirmation that depression genuinely changes how neutral and emotional language lands \u2014 and that this bias lifts as symptoms improve, offering a tangible way to understand what recovery looks like from the inside.",
+      "story_angle_primary": "If everything people say to you seems to carry a sharper or bleaker edge than it used to, that may be the depression talking rather than reality \u2014 and this study shows the bias measurably eases as symptoms improve, which is a concrete reason to pursue treatment.",
+      "story_angle_secondary": "For families and care staff: a depressed person's tendency to hear comments as more negative than intended is a documented feature of the illness, not stubbornness or ingratitude. Plain, explicitly warm wording and patience with misread intentions are reasonable adaptations.",
+      "caveats": "Observational design cannot establish causation; cohort was deliberately enriched for severe, hospitalized depression and is German, limiting generalization; word ratings are inherently self-reported; the genetic variant analysis was exploratory and requires replication; funding from the German Ministry of Research and Education (BMBF); the cohort was not specific to older adults."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42721779",
+      "headline": "Exercise Blunts the Depression Toll of Smoking and Heavy Drinking \u2014 and Socializing Helps When You Can't Move Much",
+      "verdict": "accurate",
+      "notes": "Cohort details, 0.281 SD estimate, gender pattern and the social-participation finding all match the abstract. One small framing stretch ('worst combination') and a caveat about self-reporting that the abstract does not state.",
+      "issues": [
+        {
+          "label": "'Worst combination' not established in abstract",
+          "severity": "Minor",
+          "as_written": "the worst combination \u2014 smoking, excessive drinking and social isolation \u2014 was linked to a 0.281 standard deviation higher depression score",
+          "abstract_says": "for those less than weekly MVPA, the combination of smoking, excessive drinking, and socially inactive was associated with a 0.281 SD increase in depression score (95% CI: 0.155-0.407) compared to the reference lifestyle",
+          "problem": "The abstract reports this combination's effect relative to a reference lifestyle but does not rank it as the worst of the 16 combinations.",
+          "suggested_fix": "Say 'the combination of smoking, excessive drinking and social inactivity was linked to a 0.281 SD higher depression score compared with the reference lifestyle.'"
+        },
+        {
+          "label": "Self-report and cross-cohort measurement claims",
+          "severity": "Minor",
+          "as_written": "Behaviors and depression scores were self-reported, and measurement of 'moderate-to-vigorous activity' and drinking differed across the four cohorts and 23 countries.",
+          "abstract_says": "The abstract describes a four-dimensional health behavior matrix and standardized depression scores but says nothing about self-report or cross-cohort measurement differences.",
+          "problem": "Plausible but unverifiable from the abstract alone.",
+          "suggested_fix": "Soften to 'these harmonised cohorts rely largely on self-reported behaviour and symptom measures' or attribute to the full text."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42857391",
+      "headline": "In Older Adults With Depression, a Common Alzheimer's Gene May Determine Whether Poor Sleep and Low Mood Track With Brain Plaques",
+      "verdict": "accurate",
+      "notes": "Sample, APOE \u025b4 moderation, additive effects, amyloid-positivity threshold and the exploratory untreated-depression finding all match. Industry disclosures are acknowledged in Caveats.",
+      "issues": []
+    },
+    {
+      "number": 3,
+      "pmid": "42832237",
+      "headline": "Getting Alzheimer's Blood Test Results Sooner Sped Up Diagnosis Without Causing Anxiety or Depression",
+      "verdict": "accurate",
+      "notes": "N, age, sex split, 50.0% vs 4.6% primary outcome, management changes and absence of emotional harm are all faithful. Only quibble is describing enrollees as 'volunteers' when the abstract says consecutive new outpatients.",
+      "issues": [
+        {
+          "label": "Participants described as volunteers",
+          "severity": "Minor",
+          "as_written": "participants were volunteers in a specialized memory clinic and may not represent general practice",
+          "abstract_says": "Consecutive new outpatients with subjective cognitive decline (SCD), mild cognitive impairment (MCI), or mild dementia without a prior etiologic diagnosis were enrolled.",
+          "problem": "'Volunteers' implies a self-selected research sample; the abstract describes consecutive clinic outpatients, a different sampling frame.",
+          "suggested_fix": "Change to 'participants were consecutive new patients at a specialised memory clinic and may not represent general practice.'"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42546985",
+      "headline": "Psilocybin Therapy for Depression Appeared as Safe and Effective During Active Cancer Treatment as Without It",
+      "verdict": "minor",
+      "notes": "Design, N=30, 17 vs 13 split, mean age 56, 70% women and the null between-group MADRS results are accurate. The description of serious adverse events omits that all of them occurred in the group on systemic treatment.",
+      "issues": [
+        {
+          "label": "Imbalance in severe adverse events omitted",
+          "severity": "Minor",
+          "as_written": "adverse event rates were similar; the severe events that occurred were judged unrelated to psilocybin",
+          "abstract_says": "Four severe AEs and one serious AE occurred, all in systemic treatment recipients, but were deemed unrelated to psilocybin.",
+          "problem": "Leaving out that every severe/serious event occurred in the actively treated group understates a safety signal readers may want, even if judged unrelated.",
+          "suggested_fix": "Add: 'four severe and one serious adverse event all occurred in patients receiving systemic treatment, though investigators judged them unrelated to psilocybin.'"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42632461",
+      "headline": "How Air Pollution May Reach the Aging Brain: Blood Vessels, Mood and Sleep Emerge as Possible Routes",
+      "verdict": "minor",
+      "notes": "Counts of studies, pathways and pollutants are correct, but the vascular mediator is described more firmly than the abstract allows.",
+      "issues": [
+        {
+          "label": "Mediator strength overstated",
+          "severity": "Minor",
+          "as_written": "Cardiovascular and cerebrovascular disease emerged as the most consistent mediator",
+          "abstract_says": "Cardio and Cerebro-vascular diseases emerged as a potential key mediator.",
+          "problem": "'Most consistent' implies a comparative consistency assessment; the abstract only calls it a potential key mediator.",
+          "suggested_fix": "Use 'emerged as the leading candidate mediator' or 'a potential key mediator'."
+        },
+        {
+          "label": "'Likely pathway' in story angle",
+          "severity": "Minor",
+          "as_written": "the vascular care \u2014 blood pressure, cholesterol, stroke prevention \u2014 that this review identifies as a likely pathway between pollution and cognitive decline",
+          "abstract_says": "a potential key mediator ... This review highlights the need for rigorous causal mediation analyses",
+          "problem": "The review explicitly calls for rigorous causal mediation work; 'likely pathway' moves past that hedge.",
+          "suggested_fix": "Change to 'a possible pathway identified in this review'."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42847312",
+      "headline": "Depression, Dizziness and Delirium Showed Up Years Before an Early Alzheimer's Diagnosis",
+      "verdict": "minor",
+      "notes": "Numbers (407 cases, 4,035 controls, depression 5.7% vs 2.3%) are exact. The main weakness is applying an early-onset (under-65) Alzheimer's cohort to a seniors audience without flagging the age mismatch, plus a headline that reads as 'early-stage' rather than 'early-onset'.",
+      "issues": [
+        {
+          "label": "Early-onset cohort generalized to later-life onset",
+          "severity": "Moderate",
+          "as_written": "If you develop depression for the first time later in life, or your mood symptoms come packaged with new dizziness, headaches, memory lapses or a confusional episode, it is reasonable to ask your doctor to look at the whole picture",
+          "abstract_says": "This population-based case-control study included 407 EOAD patients diagnosed at two Finnish university hospitals (2010-2021), and 4035 age- and sex-matched controls.",
+          "problem": "Early-onset Alzheimer's is by definition diagnosed before 65, so the prodromal pattern described applies to midlife, not to the digest's primary audience of older adults; the caveats do not note this age mismatch.",
+          "suggested_fix": "Note in the body or caveats that the cohort had early-onset (pre-65) Alzheimer's and the prodromal pattern may differ in late-onset disease."
+        },
+        {
+          "label": "Headline ambiguity: 'early' vs 'early-onset'",
+          "severity": "Minor",
+          "as_written": "Depression, Dizziness and Delirium Showed Up Years Before an Early Alzheimer's Diagnosis",
+          "abstract_says": "Comorbidities and health-care use prior to early-onset Alzheimer's disease: A population-based case-control study",
+          "problem": "'An Early Alzheimer's Diagnosis' reads as early-stage disease rather than early-onset Alzheimer's.",
+          "suggested_fix": "Use 'Before an Early-Onset Alzheimer's Diagnosis'."
+        },
+        {
+          "label": "'Almost nothing' at 11-15 years",
+          "severity": "Minor",
+          "as_written": "Almost nothing distinguished the two groups 11 to 15 years out",
+          "abstract_says": "whereas no differences were seen 11 to 15 years before diagnosis",
+          "problem": "The abstract reports no differences at all at 11-15 years; 'almost nothing' implies some residual differences.",
+          "suggested_fix": "Change to 'nothing distinguished the two groups 11 to 15 years out'."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42749167",
+      "headline": "Personalized Brain Stimulation for Stubborn Depression Did No Better Than a Fake Version",
+      "verdict": "minor",
+      "notes": "Design, randomization numbers, dosing schedule, endpoints and null results all match; conflicts are correctly listed. One comparative claim about standard TMS is not supported by this abstract.",
+      "issues": [
+        {
+          "label": "Comparison with standard TMS not in abstract",
+          "severity": "Minor",
+          "as_written": "know that standard, longer-course TMS has a far deeper track record than the accelerated, individually-targeted protocols",
+          "abstract_says": "The abstract compares individualized aiTBS arms with sham only; it makes no comparison with standard-course TMS and states aiTBS 'is an effective neuromodulatory intervention for treatment resistant depression'.",
+          "problem": "Unverifiable from abstract only \u2014 this trial did not test standard TMS.",
+          "suggested_fix": "Attribute the point to the wider evidence base or drop the comparative claim."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "pmid": "42853972",
+      "headline": "A Digital 'Life Review' Collage Lifted Confidence in Older Cancer Patients \u2014 and Eased Caregiver Strain",
+      "verdict": "accurate",
+      "notes": "Randomization (42, 21 per arm), completion (13 vs 16), the self-efficacy and CQOLC subscale findings, and the null results for self-esteem and depression are all reported correctly, along with the preliminary framing.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42839627",
+      "headline": "Ten Years After a Parkinson's Diagnosis: Depression, Apathy and Other Mind Symptoms Keep Climbing",
+      "verdict": "accurate",
+      "notes": "846 biomarker-positive PD participants, 282 controls, eight of nine symptoms rising, anxiety declining, NPS count 1.39 to 2.39, and the persistent low-/high-burden clusters all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "pmid": "42842074",
+      "headline": "Where You Live Shapes Your Mood: Communities Lacking Toilets Show Higher Depression Among Older Adults in India",
+      "verdict": "minor",
+      "notes": "OR 1.38 (1.08-1.76), the multilevel design, the LASI source and the parallel finding for probable major depression are accurate; the headline and 'Why it matters' use causal phrasing for a cross-sectional association.",
+      "issues": [
+        {
+          "label": "Causal phrasing in headline",
+          "severity": "Minor",
+          "as_written": "Where You Live Shapes Your Mood: Communities Lacking Toilets Show Higher Depression Among Older Adults in India",
+          "abstract_says": "This cross-sectional study examines community-level toilet coverage in India as a possible determinant of depression among adults over 45 ... is associated with a greater risk of depressive symptoms.",
+          "problem": "'Shapes Your Mood' asserts causation from a cross-sectional association, which the digest's own caveats say cannot be established.",
+          "suggested_fix": "Reword to 'Where You Live Tracks With Your Mood' or 'Communities Lacking Toilets Linked to Higher Depression'."
+        },
+        {
+          "label": "Population described as older adults",
+          "severity": "Minor",
+          "as_written": "depression among adults over 45",
+          "abstract_says": "a possible determinant of depression among adults over 45 ... among older and aging women and men in India",
+          "problem": "The body text is correct, but the headline's 'Older Adults' may lead readers to assume a seniors-only sample when the cohort starts at 45.",
+          "suggested_fix": "Note in the headline or first line that the sample covers adults aged 45 and older."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42844914",
+      "headline": "Caring for a Dying Loved One Takes a Heavy Mental Toll \u2014 and Family Caregivers Are Rarely Screened for It",
+      "verdict": "minor",
+      "notes": "Sample, scales, demographics and correlations all match. The \"rarely screened\" claim in the headline and \"Why it matters\" goes slightly beyond what the abstract reports.",
+      "issues": [
+        {
+          "label": "Screening claim not measured",
+          "severity": "Minor",
+          "as_written": "Caring for a Dying Loved One Takes a Heavy Mental Toll \u2014 and Family Caregivers Are Rarely Screened for It",
+          "abstract_says": "Results highlight an urgent need to recognize caregiver distress within oncology settings and to develop culturally informed psychosocial interventions in palliative care, particularly in low-resource environments.",
+          "problem": "The study measured distress and coping; it did not measure how often caregivers are screened. The abstract implies recognition is lacking but reports no screening data.",
+          "suggested_fix": "Reword to something like \"...and the Authors Say Their Distress Often Goes Unrecognised\" and soften the matching sentence in \"Why it matters.\""
+        },
+        {
+          "label": "Unmeasured claim about routine care",
+          "severity": "Minor",
+          "as_written": "carry clinically meaningful depression and anxiety that routine oncology and palliative care rarely measures or treats",
+          "abstract_says": "These associations likely reflect reactive adaptation rather than inherent maladaptiveness. Results highlight an urgent need to recognize caregiver distress within oncology settings",
+          "problem": "The frequency of measurement or treatment in routine care was not assessed in this cross-sectional survey.",
+          "suggested_fix": "Attribute to the authors: \"...distress that the authors argue is under-recognised in oncology settings.\""
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42842937",
+      "headline": "AI Reads Doctors' Notes and Finds Memory Worries Go Undocumented \u2014 Especially in Poorer Neighborhoods",
+      "verdict": "accurate",
+      "notes": "N, cohort window, 13.8% figure, pipeline performance, odds ratios and deprivation finding all match; COI disclosure correctly reported in Caveats.",
+      "issues": []
+    },
+    {
+      "number": 13,
+      "pmid": "42624700",
+      "headline": "Nearly 1 in 20 Americans Over 50 Had a Major Depressive Episode \u2014 and a Third Got No Treatment",
+      "verdict": "minor",
+      "notes": "All headline numbers match the abstract. One nuance: the age comparisons for outpatient care and perceived need were bivariable (unadjusted), which the digest does not note.",
+      "issues": [
+        {
+          "label": "Unadjusted comparisons presented as adjusted findings",
+          "severity": "Minor",
+          "as_written": "adults 65+ were significantly less likely than those 50-64 to get outpatient care (38.7% vs. 50.1%) and less likely to say they felt they needed treatment (8.8% vs. 23.3%)",
+          "abstract_says": "In bivariable comparisons, adults aged \u226565 were less likely than those aged 50-64 to receive outpatient mental health services (38.7% versus 50.1%, p = 0.032) and to report perceived unmet need for treatment (8.8% versus 23.3%, p = 0.019).",
+          "problem": "These were simple unadjusted (bivariable) comparisons, not multivariable results; the digest omits that qualifier, which makes the age difference sound more firmly established.",
+          "suggested_fix": "Add \"in unadjusted comparisons\" before the two percentages."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42313335",
+      "headline": "Could Your Pharmacist Spot Your Depression? Clinicians Say Yes \u2014 With Conditions",
+      "verdict": "minor",
+      "notes": "Participant mix (19 pharmacists, 5 geriatricians, 4 GPs), Australian setting, NSW concentration and the main barriers match. Mental health training is framed in the abstract as a facilitator/requirement rather than a reported barrier.",
+      "issues": [
+        {
+          "label": "Training framed as a barrier",
+          "severity": "Minor",
+          "as_written": "But they flagged significant barriers: time pressure, no payment for the extra service, limited mental health training, and uncertainty about who follows up when someone screens positive.",
+          "abstract_says": "Facilitators such as increased patient comfort in their homes and the importance of mental health training were noted; however, barriers such as time constraints, lack of remuneration for additional services and the difficulties of timely follow-up may impede the provision of such services.",
+          "problem": "The abstract lists three barriers (time, remuneration, follow-up) and treats mental health training as an enabling requirement/facilitator, not as a reported deficit.",
+          "suggested_fix": "Rephrase as \"...and they stressed that targeted mental health training would be a prerequisite.\""
+        },
+        {
+          "label": "Unverified background claim",
+          "severity": "Minor",
+          "as_written": "many older adults see a pharmacist more often than any other health professional",
+          "abstract_says": "Late-life depression (LLD) (depression occurring in individuals aged \u2265 65 years) often goes underdiagnosed and undertreated. Pharmacists who conduct medication reviews may play a significant role in LLD screening.",
+          "problem": "Unverifiable from abstract only \u2014 the abstract makes no claim about contact frequency with pharmacists.",
+          "suggested_fix": "Drop the comparison or cite a source for it."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42858616",
+      "headline": "Painting, Music and Dance Linked to Modest Gains in Memory and Mood for People With Mild Cognitive Impairment",
+      "verdict": "minor",
+      "notes": "Trial count, participant total and all effect sizes (MMSE +1.32, MoCA +3.22, depression -0.86, anxiety -1.40) match. The specific art forms named are not listed in the abstract.",
+      "issues": [
+        {
+          "label": "Specific modalities not named in abstract",
+          "severity": "Minor",
+          "as_written": "creative art therapies \u2014 including visual art, music and movement-based programs",
+          "abstract_says": "We searched eight databases for randomized controlled trials on the effects of art therapy in older adults with MCI... Different art therapy forms differed in the functions they better improved.",
+          "problem": "Unverifiable from abstract only \u2014 the abstract refers generically to \"creative art therapy\" and \"different art therapy forms\" without specifying painting, music or dance.",
+          "suggested_fix": "Say \"creative art therapies (the review notes that different art forms favoured different outcomes)\" or confirm the modality list from the full text."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42830600",
+      "headline": "Grief Counseling Started Before a Loved One Dies Eased Caregivers' Distress \u2014 but Not Their Depression",
+      "verdict": "minor",
+      "notes": "Design, dates, group sizes and outcome pattern (grief, PTG and SF-36 improved; guilt, anxiety, depression not) are accurate. The \"before vs after death\" comparison in \"Why it matters\" is not what the trial tested.",
+      "issues": [
+        {
+          "label": "Comparison not tested by the trial",
+          "severity": "Moderate",
+          "as_written": "It suggests bereavement support works better when it starts before the death rather than after",
+          "abstract_says": "Participants were assigned to structured grief counseling (intervention group, n = 55) or only psychological materials (control group, n = 56). Counseling began before the death and continued for 3 months after the death.",
+          "problem": "The control arm received written materials only, not post-death counselling, so the trial cannot show that early-start support beats later-start support.",
+          "suggested_fix": "Rewrite as \"It suggests structured counselling begun in the terminal phase helps with grief and quality of life compared with written materials alone.\""
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "pmid": "42444638",
+      "headline": "Adding a Palliative Care Clinic to Cancer Treatment Tracked With Less Pain, Anxiety and Depression Over a Year",
+      "verdict": "accurate",
+      "notes": "N, mean age, all four symptom scores, referral rates, disease status and the single-centre Spanish setting match; non-causal framing and no-control-group caveat are appropriately stated.",
+      "issues": []
+    },
+    {
+      "number": 18,
+      "pmid": "42658656",
+      "headline": "Variety, Not Frequency, of Activities Linked to Lower Dementia Risk Over 15 Years",
+      "verdict": "accurate",
+      "notes": "Cohort size, demographics, 28 activities, HR 0.94 (~6% lower risk), six-month delay estimate, null frequency finding and attenuation after fuller adjustment all match.",
+      "issues": []
+    },
+    {
+      "number": 19,
+      "pmid": "42623930",
+      "headline": "Can a Talking Chatbot Ease Loneliness in Later Life? Early Evidence Says Sometimes",
+      "verdict": "minor",
+      "notes": "Study counts and loneliness/depression tallies are correct; the quality-of-life statement omits the reported subdomain improvements, and \"first systematic look\" overstates the abstract.",
+      "issues": [
+        {
+          "label": "Quality-of-life result slightly overstated as null",
+          "severity": "Minor",
+          "as_written": "no study showed a meaningful change in overall quality of life",
+          "abstract_says": "no significant overall quality-of-life changes were observed (only partial subdomain improvements)",
+          "problem": "The abstract reports no significant change in overall quality of life but does note partial improvements in some subdomains; \"no study showed\" is stronger than the pooled statement.",
+          "suggested_fix": "Change to \"overall quality of life did not improve significantly, though some subdomains did.\""
+        },
+        {
+          "label": "\"First\" claim",
+          "severity": "Minor",
+          "as_written": "this is the first systematic look at whether AI conversation partners actually help",
+          "abstract_says": "systematic reviews that comprehensively assess their effectiveness and feasibility are lacking",
+          "problem": "The abstract says comprehensive reviews are lacking, which is not the same as this being the first such review.",
+          "suggested_fix": "Say \"one of the first systematic reviews\" or \"the authors note comprehensive reviews have been lacking.\""
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "pmid": "42858052",
+      "headline": "Brain Stimulation Improved Sleep in Mild Alzheimer's \u2014 But Not Mood",
+      "verdict": "accurate",
+      "notes": "Abstract unavailable from PubMed; none of the claims (N=43, 30 one-hour 40 Hz tACS sessions over 15 days, 2.34-point PSQI improvement, inconclusive mood/QoL effects) could be checked.",
+      "issues": [
+        {
+          "label": "No abstract available for verification",
+          "severity": "Minor",
+          "as_written": "In the double-blind, randomized TRANSFORM-AD trial, 43 people with mild Alzheimer's disease received either 30 one-hour sessions of 40 Hz high-intensity transcranial alternating current stimulation or sham stimulation over 15 consecutive days.",
+          "abstract_says": "ABSTRACT UNAVAILABLE FROM PUBMED",
+          "problem": "Unverifiable from abstract only \u2014 the source abstract was not retrievable, so sample size, protocol, the 2.34-point PSQI figure and the mood findings cannot be confirmed.",
+          "suggested_fix": "Re-check all figures against the published article before release."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "pmid": "42744143",
+      "headline": "After a Stroke, a Changed Sense of Self Predicts Later Depression",
+      "verdict": "minor",
+      "notes": "Sample sizes, timing, measures and the main cross-lagged finding are reported accurately; the body presents the relationship as one-directional while the abstract's favored model was bidirectional (the digest does note the reverse path in Caveats).",
+      "issues": [
+        {
+          "label": "Unidirectional framing of a bidirectional model",
+          "severity": "Minor",
+          "as_written": "Higher self-discrepancy predicted later increases in depressive symptoms, while both measures remained strikingly stable across the first year.",
+          "abstract_says": "Model comparisons favored a bidirectional coupling model (\u0394AIC = 7.41) with cross-process associations in opposite directions. Higher self-discrepancy was associated with subsequent increases in depressive symptoms (1.66, 95% CI [0.56, 2.83]), whereas higher depressive symptoms were associated with subsequent decreases in self-discrepancy (-1.25, 95% CI [-2.13, -0.34]).",
+          "problem": "The study's headline conclusion is reciprocal coupling with effects running in opposite directions; the body text reports only the self-discrepancy-to-depression path, which makes the relationship look simpler than the authors describe. The opposite-direction path appears only in Caveats.",
+          "suggested_fix": "Add a clause to the study paragraph, e.g. 'the model also found the reverse: more depressive symptoms predicted later decreases in self-discrepancy, a pattern the authors say complicates interpretation.'"
+        },
+        {
+          "label": "Intervention advice beyond the data",
+          "severity": "Minor",
+          "as_written": "Both self-discrepancy and low mood proved highly persistent over a year, so early intervention matters more than watchful waiting.",
+          "abstract_says": "Both self-discrepancy and depressive symptoms showed substantial temporal persistence across the first year post-stroke... Findings indicate reciprocal temporal associations between self-discrepancy and depressive symptoms during the first year after stroke.",
+          "problem": "The study measured persistence of symptoms; it tested no intervention and cannot show that early intervention outperforms watchful waiting.",
+          "suggested_fix": "Reword to 'Because both tend to persist, the authors suggest symptoms are unlikely to resolve on their own \u2014 though no treatment was tested here.'"
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "pmid": "42658651",
+      "headline": "Teenage Mental Health Still Echoes in How 67-Year-Olds Rate Their Memory",
+      "verdict": "minor",
+      "notes": "Design, cohort size, ages and the age-13-versus-age-10 contrast are accurate; two statements are slightly firmer than the abstract's hedged wording, and the digest appropriately flags the ambiguous effect direction in Caveats.",
+      "issues": [
+        {
+          "label": "Null results stated more firmly than the abstract",
+          "severity": "Minor",
+          "as_written": "Childhood social well-being, socioeconomic status, school performance, and measured cognitive ability did not predict later subjective memory.",
+          "abstract_says": "The model did not provide sufficient support that social well-being, SES, cognitive ability, and school performance at age 13 predicted subjective memory at age 67.",
+          "problem": "'Did not provide sufficient support' means the evidence was insufficient, not that an absence of association was demonstrated; the digest converts this into a definitive null.",
+          "suggested_fix": "Use 'the model did not find sufficient support that childhood social well-being, socioeconomic status, school performance or measured cognitive ability predicted later subjective memory.'"
+        },
+        {
+          "label": "Unquantified strength claim",
+          "severity": "Minor",
+          "as_written": "current anxiety was also a strong predictor here",
+          "abstract_says": "Additional analysis revealed that psychological health at age 13, but not at age 10, and anxiety symptoms at age 67 uniquely predicted subjective memory at age 67.",
+          "problem": "The abstract reports that anxiety at 67 uniquely predicted subjective memory but gives no effect size, so 'strong' is not supported.",
+          "suggested_fix": "Change to 'current anxiety symptoms also independently predicted how people rated their memory.'"
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "pmid": "42744145",
+      "headline": "Depression Tilts the Meaning of Everyday Words \u2014 and Genetic Risk May Play a Part",
+      "verdict": "minor",
+      "notes": "Cohort, sample size, design and the polygenic risk finding are reported correctly; the direction of change with symptom improvement and the phrase 'genuinely changes' go beyond what the abstract states for an observational study.",
+      "issues": [
+        {
+          "label": "Direction of the remission finding not stated in abstract",
+          "severity": "Moderate",
+          "as_written": "those whose symptoms improved or went into remission shifted toward less negative ratings",
+          "abstract_says": "Changes in depressive symptoms and remission status at y3 related to valence ratings.",
+          "problem": "The abstract reports only that symptom change and remission status 'related to' valence ratings; it does not specify the direction of that relationship. The digest asserts a specific direction and then builds the 'Why it matters' line and a treatment-motivation story angle on it.",
+          "suggested_fix": "Soften to 'changes in symptoms and remission status at three years were related to how people rated word pleasantness (the abstract does not state the direction).' Adjust the story angle accordingly, or label the directional reading as unverifiable from the abstract."
+        },
+        {
+          "label": "Causal language for an observational cohort",
+          "severity": "Moderate",
+          "as_written": "It provides large-scale confirmation that depression genuinely changes how neutral and emotional language lands \u2014 and that this bias lifts as symptoms improve",
+          "abstract_says": "using a large cohort, our study confirmed that depression relates to more negative emotional valence and suggested that genetic risk of depression may confer certain susceptibility to cognitive bias.",
+          "problem": "The authors describe an association ('relates to'); 'genuinely changes' and 'this bias lifts as symptoms improve' assert causation and a direction of change the observational design and the abstract do not establish. The study also rated emotional words, not specifically 'neutral' ones.",
+          "suggested_fix": "Rewrite as 'It confirms in a large cohort that depression is associated with more negative and more arousing ratings of emotional words, and that symptom change over three years relates to those ratings.'"
+        }
+      ]
+    }
+  ]
+}

@@ -572,6 +572,24 @@
         "state": "unreported"
       }
     },
+    "42313335": {
+      "checked_at": "2026-10-11T16:32:38.465011+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.additudemag.com/viloxazine-centanafadine-adhd-anxiety-depression-treatment/",
+            "outlet": "ADDitude",
+            "title": "Could ADHD Medications Treat Coexisting Depression and Anxiety? New Studies Say Yes."
+          }
+        ],
+        "outlets": [
+          "ADDitude"
+        ],
+        "query": "Your Pharmacist Spot Your Depression Clinicians Say Yes Conditions",
+        "returned": 3,
+        "state": "lightly_reported"
+      }
+    },
     "42331364": {
       "checked_at": "2026-10-05T19:27:03.421379+00:00",
       "result": {
@@ -887,12 +905,12 @@
       }
     },
     "42444638": {
-      "checked_at": "2026-09-27T14:09:50.032116+00:00",
+      "checked_at": "2026-10-11T16:32:53.358243+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Adding Palliative Care Cancer Clinics Eased Pain Anxiety Depression Over",
-        "returned": 4,
+        "query": "Adding Palliative Care Clinic Cancer Treatment Tracked Less Pain Anxiety",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1358,16 +1376,6 @@
         "state": "unreported"
       }
     },
-    "42533745": {
-      "checked_at": "2026-09-27T14:09:39.905140+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Review Finds Propofol Ease Unbearable End Life Symptoms But Evidence",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42536289": {
       "checked_at": "2026-10-06T17:02:36.418857+00:00",
       "result": {
@@ -1425,6 +1433,16 @@
         "outlets": [],
         "query": "Where People Die Poorly Recorded Worldwide Distorts Planning Hospice Nursing",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42546985": {
+      "checked_at": "2026-10-11T16:32:20.130880+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Psilocybin Therapy Depression Appeared Safe Effective During Active Cancer Treatment",
+        "returned": 4,
         "state": "unreported"
       }
     },
@@ -1686,16 +1704,6 @@
         "state": "unreported"
       }
     },
-    "42599324": {
-      "checked_at": "2026-09-27T14:10:24.971444+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Depression Emerges One Strongest Predictors Frailty",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42599691": {
       "checked_at": "2026-10-03T14:57:16.405846+00:00",
       "result": {
@@ -1925,11 +1933,11 @@
       }
     },
     "42624700": {
-      "checked_at": "2026-09-27T14:10:11.918167+00:00",
+      "checked_at": "2026-10-11T16:32:36.936054+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Nearly Americans Over Had Major Depression Last Year Third Got",
+        "query": "Nearly Americans Over Had Major Depressive Episode Third Got Treatment",
         "returned": 20,
         "state": "unreported"
       }
@@ -1950,6 +1958,16 @@
         "articles": [],
         "outlets": [],
         "query": "respective roles negative positive views predicting rehabilitation outcomes",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42625387": {
+      "checked_at": "2026-10-11T16:36:18.149501+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Health cognitive psychosocial trajectories over nearly decade distal antecedents awareness",
         "returned": 0,
         "state": "unreported"
       }
@@ -2014,12 +2032,12 @@
         "state": "unreported"
       }
     },
-    "42632431": {
-      "checked_at": "2026-09-27T14:10:18.226662+00:00",
+    "42632461": {
+      "checked_at": "2026-10-11T16:32:23.640994+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Depressive Symptoms Body Brake Sweet Cravings Stop Working",
+        "query": "How Air Pollution Reach Brain Blood Vessels Mood Sleep Emerge",
         "returned": 0,
         "state": "unreported"
       }
@@ -2041,16 +2059,6 @@
         "outlets": [],
         "query": "Rural Urban Disparities Delivery Intensity Medicare Hospice Benefit",
         "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42636013": {
-      "checked_at": "2026-09-27T14:13:45.451573+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Health Care Ownership Patient Care National Institute Workshop",
-        "returned": 3,
         "state": "unreported"
       }
     },
@@ -2260,6 +2268,34 @@
         "state": "unreported"
       }
     },
+    "42658651": {
+      "checked_at": "2026-10-11T16:33:10.723793+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Teenage Mental Health Still Echoes How Year Olds Rate Their",
+        "returned": 4,
+        "state": "unreported"
+      }
+    },
+    "42658656": {
+      "checked_at": "2026-10-11T16:32:56.436106+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.sciencefocus.com/wellbeing/25-changes-lower-dementia-risk",
+            "outlet": "BBC Science Focus Magazine",
+            "title": "25 surprisingly small changes that can significantly lower your dementia risk"
+          }
+        ],
+        "outlets": [
+          "BBC Science Focus Magazine"
+        ],
+        "query": "Variety Not Frequency Activities Linked Lower Dementia Risk Over Years",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
     "42660495": {
       "checked_at": "2026-09-28T16:59:52.205059+00:00",
       "result": {
@@ -2310,16 +2346,6 @@
         "state": "unreported"
       }
     },
-    "42663983": {
-      "checked_at": "2026-09-27T14:13:44.221320+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Cardiovascular Care Should Incorporate Cognition Frailty Heart Group Says Statement",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42664615": {
       "checked_at": "2026-10-01T17:18:39.883280+00:00",
       "result": {
@@ -2356,16 +2382,6 @@
         "articles": [],
         "outlets": [],
         "query": "Impact social determinants health physical therapy utilization home health outpatient",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42667890": {
-      "checked_at": "2026-09-27T14:10:21.235643+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Carrying Extra Weight Low Mood Together Triple Liver Disease Risk",
         "returned": 0,
         "state": "unreported"
       }
@@ -2780,6 +2796,16 @@
         "state": "unreported"
       }
     },
+    "42721779": {
+      "checked_at": "2026-10-11T16:32:16.401428+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Exercise Blunts Depression Toll Smoking Heavy Drinking Socializing Helps When",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42725989": {
       "checked_at": "2026-09-28T16:59:32.363700+00:00",
       "result": {
@@ -2898,22 +2924,32 @@
         "state": "unreported"
       }
     },
-    "42741899": {
-      "checked_at": "2026-09-27T14:10:10.402400+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Doctors Who Show Empathy Linked Less Depression Chronic Pain Patients",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42742117": {
       "checked_at": "2026-09-30T15:06:18.554750+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "What Actually Counts Success When Palliative Care Comes Into Nursing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42744143": {
+      "checked_at": "2026-10-11T16:33:09.343037+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "After Stroke Changed Sense Self Predicts Later Depression",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42744145": {
+      "checked_at": "2026-10-11T16:33:19.824288+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Depression Tilts Meaning Everyday Words Genetic Risk Play Part",
         "returned": 0,
         "state": "unreported"
       }
@@ -2967,11 +3003,11 @@
       }
     },
     "42749167": {
-      "checked_at": "2026-09-27T14:09:47.819771+00:00",
+      "checked_at": "2026-10-11T16:32:33.224284+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Personalized Brain Stimulation Hard Treat Depression Failed Beat Sham Trial",
+        "query": "Personalized Brain Stimulation Stubborn Depression Did Better Than Fake Version",
         "returned": 0,
         "state": "unreported"
       }
@@ -3164,60 +3200,12 @@
         "state": "unreported"
       }
     },
-    "42766893": {
-      "checked_at": "2026-09-27T14:10:05.381845+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Depression Often Precedes Parkinson Diagnosis But Doesn Predict Faster Decline",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42766945": {
       "checked_at": "2026-10-07T17:36:39.275011+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "curled toe rob you nearly your push off power when",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42768111": {
-      "checked_at": "2026-09-27T14:14:02.455074+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.nature.com/articles/s43587-026-01219-7",
-            "outlet": "Nature",
-            "title": "RamanOmics decodes the spatial vibrational\u2013molecular architecture of senescence in aging and repair"
-          }
-        ],
-        "outlets": [
-          "Nature"
-        ],
-        "query": "RamanOmics decodes spatial vibrational molecular architecture senescence repair",
-        "returned": 2,
-        "state": "lightly_reported"
-      }
-    },
-    "42768272": {
-      "checked_at": "2026-09-27T14:14:10.001409+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Gait Speed Survival Those Exceptional Longevity LifeAfter90",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42768715": {
-      "checked_at": "2026-09-27T14:14:07.714106+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Non motor symptoms questionnaire based profiles early stage dementias prospective",
         "returned": 0,
         "state": "unreported"
       }
@@ -3292,46 +3280,6 @@
         "state": "unreported"
       }
     },
-    "42772893": {
-      "checked_at": "2026-09-27T14:13:41.188869+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Decisional regret oncology scoping review",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42773455": {
-      "checked_at": "2026-09-27T14:13:39.763023+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Acute viral respiratory infections not associated increased IMMune Age indeX",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42773782": {
-      "checked_at": "2026-09-27T14:13:36.210166+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Purpose life boredom concurrent prospective associations pathway episodic memory",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42775296": {
-      "checked_at": "2026-09-27T14:10:27.504076+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Rheumatoid Arthritis Fatigue Drives Symptom Cascade Mood Absorbs Damage",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42775653": {
       "checked_at": "2026-10-01T17:18:53.849424+00:00",
       "result": {
@@ -3348,16 +3296,6 @@
         "query": "Thymic Involution Function People HIV General Population Controls Cross Sectional",
         "returned": 1,
         "state": "lightly_reported"
-      }
-    },
-    "42776059": {
-      "checked_at": "2026-09-27T14:13:30.444266+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Potentially inappropriate care end life patients glioblastoma single center observational",
-        "returned": 0,
-        "state": "unreported"
       }
     },
     "42776185": {
@@ -3430,46 +3368,6 @@
         "state": "unreported"
       }
     },
-    "42777518": {
-      "checked_at": "2026-09-27T14:13:59.340057+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Sarcopenia index prognostic indicator mortality rates community dwelling centenarians prospective",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42777903": {
-      "checked_at": "2026-09-27T14:13:26.643425+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Levothyroxine use bone loss Longitudinal analysis among euthyroid men women",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42778211": {
-      "checked_at": "2026-09-27T14:09:41.234455+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Not All Antidepressants Affect Heart Same Way But Serious Cardiac",
-        "returned": 14,
-        "state": "unreported"
-      }
-    },
-    "42778501": {
-      "checked_at": "2026-09-27T14:13:22.521528+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Association Between Long Term Exposure Air Pollution Parkinson Disease Administrative",
-        "returned": 2,
-        "state": "unreported"
-      }
-    },
     "42779183": {
       "checked_at": "2026-10-02T16:28:18.110704+00:00",
       "result": {
@@ -3534,16 +3432,6 @@
         "state": "unreported"
       }
     },
-    "42784930": {
-      "checked_at": "2026-09-27T14:13:56.667964+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Structural brain indicators cognitive performance middle late adulthood Human Connectome",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42785158": {
       "checked_at": "2026-10-07T17:36:27.104902+00:00",
       "result": {
@@ -3564,16 +3452,6 @@
         "state": "unreported"
       }
     },
-    "42788366": {
-      "checked_at": "2026-09-27T14:10:14.625224+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Frontline Dementia Caregivers Trained Spot Depression Small Pilot Says Worth",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42788414": {
       "checked_at": "2026-10-01T17:18:48.885913+00:00",
       "result": {
@@ -3584,32 +3462,12 @@
         "state": "unreported"
       }
     },
-    "42789932": {
-      "checked_at": "2026-09-27T14:09:58.789385+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "When Services Easy Reach Loneliness Hurts Less",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42791208": {
       "checked_at": "2026-10-01T17:18:29.965421+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Effects Daily Rhythm Aligned Training Skeletal Muscle Adaptation Randomized Controlled",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42791221": {
-      "checked_at": "2026-09-27T14:10:34.744656+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "What Protects Black Dementia Caregivers What Wears Them Down",
         "returned": 0,
         "state": "unreported"
       }
@@ -3630,166 +3488,6 @@
         "articles": [],
         "outlets": [],
         "query": "Overnight Brain Scans Suggest Sleep Apnea Disrupts Brain Nighttime Reset",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42798750": {
-      "checked_at": "2026-09-27T14:12:40.306998+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Real world implementation lecanemab Alzheimer disease Japanese cohort",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42799555": {
-      "checked_at": "2026-09-27T14:12:45.227970+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Deprescribing tools towards end life systematic review",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42799573": {
-      "checked_at": "2026-09-27T14:12:36.781404+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Use Dual Orexin Receptor Antagonists Insomnia Risk Falls Fractures Systematic",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42799588": {
-      "checked_at": "2026-09-27T14:10:02.644556+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Cannabis Users Smoking Edibles Tied Problem Use Not Depression",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42799592": {
-      "checked_at": "2026-09-27T14:12:30.452633+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Motivation Interviewing Reduce Elder Abuse Neglect Findings Randomized Controlled Trial",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42799655": {
-      "checked_at": "2026-09-27T14:09:42.373617+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Shape Your Depression Not Just Its Severity Predict Future Memory",
-        "returned": 3,
-        "state": "unreported"
-      }
-    },
-    "42799693": {
-      "checked_at": "2026-09-27T14:13:08.919690+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Exploring Epigenetic Cognitive Change Middle Adulthood",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42799779": {
-      "checked_at": "2026-09-27T14:12:47.571040+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Late onset CMT neuropathy NGS era year retrospective",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42799937": {
-      "checked_at": "2026-09-27T14:09:35.641312+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "How You Say Home Flag Early Alzheimer Risk Says Not",
-        "returned": 19,
-        "state": "unreported"
-      }
-    },
-    "42800042": {
-      "checked_at": "2026-09-27T14:13:18.966362+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Blood based biomarkers anti amyloid era Alzheimer disease clinical utility",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42800122": {
-      "checked_at": "2026-09-27T14:12:59.099572+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Comparative effects activity based interventions quality life among community dwelling",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42800123": {
-      "checked_at": "2026-09-27T14:13:54.079209+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Physical function dependent calf circumference thresholds predicting year mortality patients",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42800214": {
-      "checked_at": "2026-09-27T14:13:14.970049+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Progressive degeneration fornix beyond normal temporal lobe epilepsy year longitudinal",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42800227": {
-      "checked_at": "2026-09-27T14:13:04.347638+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Mixed amphetamine salts extended release cognitive impairment persons randomized controlled",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42800511": {
-      "checked_at": "2026-09-27T14:12:50.808212+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Factors associated symptom progress monitoring psychiatry specialty clinic network retrospective",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42801054": {
-      "checked_at": "2026-09-27T14:13:21.357108+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Severity progression visual impairment risk dementia",
         "returned": 1,
         "state": "unreported"
       }
@@ -5166,6 +4864,16 @@
         "state": "unreported"
       }
     },
+    "42830600": {
+      "checked_at": "2026-10-11T16:32:50.383889+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Grief Counseling Started Before Loved One Dies Eased Caregivers Distress",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42830734": {
       "checked_at": "2026-10-10T16:04:27.266692+00:00",
       "result": {
@@ -6022,6 +5730,16 @@
         "state": "unreported"
       }
     },
+    "42844914": {
+      "checked_at": "2026-10-11T16:32:34.434042+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Caring Dying Loved One Takes Heavy Mental Toll Family Caregivers",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "42845181": {
       "checked_at": "2026-10-08T17:39:30.270892+00:00",
       "result": {
@@ -6048,6 +5766,16 @@
         "articles": [],
         "outlets": [],
         "query": "Impact dementia severity efficacy brexpiprazole agitation Alzheimer dementia post hoc",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42847312": {
+      "checked_at": "2026-10-11T16:32:27.542211+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Depression Dizziness Delirium Showed Years Before Early Alzheimer Diagnosis",
         "returned": 0,
         "state": "unreported"
       }
@@ -6458,6 +6186,16 @@
         "state": "unreported"
       }
     },
+    "42854618": {
+      "checked_at": "2026-10-11T16:36:29.182467+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Epilepsy marker cognitive decline cerebral amyloid angiopathy Evidence large multi",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42854778": {
       "checked_at": "2026-10-10T16:07:34.008674+00:00",
       "result": {
@@ -6514,6 +6252,202 @@
         "query": "Feasibility Mindfulness Based Intervention Children High Grade High Risk Cancer",
         "returned": 0,
         "state": "unreported"
+      }
+    },
+    "42856930": {
+      "checked_at": "2026-10-11T16:36:15.083704+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Early anhedonia distinguishes behavioral variant frontotemporal dementia Alzheimer disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42856984": {
+      "checked_at": "2026-10-11T16:36:11.189115+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Social determinants health modify association Alzheimer disease pathology cognitive abilities",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42857391": {
+      "checked_at": "2026-10-11T16:32:19.009730+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Depression Common Alzheimer Gene Determine Whether Poor Sleep Low Mood",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42857403": {
+      "checked_at": "2026-10-11T16:36:10.109677+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Residualized occipital amyloid burden plasma biomarker profiles relation ARIA during",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42857419": {
+      "checked_at": "2026-10-11T16:36:06.310004+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Regional amyloid PET clearance dynamics anti monoclonal antibody therapy preliminary",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42857477": {
+      "checked_at": "2026-10-11T16:36:01.927045+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Dementia knowledge attitude rural Kenya Associations sociodemographic religious experiential factors",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42857600": {
+      "checked_at": "2026-10-11T16:35:56.786910+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.news-medical.net/news/20261009/Sutter-Health-care-model-safely-expands-local-Alzheimers-treatment.aspx",
+            "outlet": "News-Medical",
+            "title": "Sutter Health care model safely expands local Alzheimer's treatment"
+          }
+        ],
+        "outlets": [
+          "News-Medical"
+        ],
+        "query": "Advanced Therapeutics Alzheimer Disease Review Board multidisciplinary model facilitate safe",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42857913": {
+      "checked_at": "2026-10-11T16:35:33.212930+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Laboratory Testing End Life Patients Cancer Systematic Review Utilization Costs",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42857916": {
+      "checked_at": "2026-10-11T16:35:55.671473+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Survival Patterns Following Admission Home Based Palliative Care Patients Cancer",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42858052": {
+      "checked_at": "2026-10-11T16:32:58.108538+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Brain Stimulation Improved Sleep Mild Alzheimer But Not Mood",
+        "returned": 14,
+        "state": "unreported"
+      }
+    },
+    "42858068": {
+      "checked_at": "2026-10-11T16:35:51.695535+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Baseline longitudinal trajectories peak expiratory flow relation incident cognitive impairment",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42858190": {
+      "checked_at": "2026-10-11T16:35:41.870057+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Readmission Risk Coming Home After Rehabilitation Skilled Nursing Home Dementia",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42858616": {
+      "checked_at": "2026-10-11T16:32:44.093184+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Painting Music Dance Linked Modest Gains Memory Mood People Mild",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42858790": {
+      "checked_at": "2026-10-11T16:35:38.908100+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "MIND Diet Adherence Parkinson Disease Risk Progression Age Onset Systematic",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42858810": {
+      "checked_at": "2026-10-11T16:35:26.683697+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Effects week training melatonin intake biological adaptations anthropometric status postmenopausal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42859151": {
+      "checked_at": "2026-10-11T16:36:22.748910+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Safe homecoming intervention after hospital discharge retrospective cohort mortality readmission",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42859223": {
+      "checked_at": "2026-10-11T16:35:43.193780+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Metabolic dysfunction associated steatotic liver disease associated higher bone mineral",
+        "returned": 4,
+        "state": "unreported"
+      }
+    },
+    "42859236": {
+      "checked_at": "2026-10-11T16:35:24.134752+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://bioengineer.org/massive-analysis-of-173-trials-reveals-how-exercise-type-and-dose-shape-motor-symptoms-in-parkinsons-disease/",
+            "outlet": "Bioengineer.org",
+            "title": "Massive Analysis of 173 Trials Reveals How Exercise Type and Dose Shape Motor Symptoms in Parkinson\u2019s Disease"
+          }
+        ],
+        "outlets": [
+          "Bioengineer.org"
+        ],
+        "query": "Exercise modality planned weekly exercise exposure motor outcomes Parkinson disease",
+        "returned": 1,
+        "state": "lightly_reported"
       }
     }
   }

@@ -1,29 +1,27 @@
 # Topic Memory: New this week
-_Last updated: 2026-10-11_
+_Last updated: 2026-10-13_
 
 ## Established findings
-- Function and functional reserve, not diagnosis labels, carry the prognostic signal: frailty plus sarcopenia tripled risk of no recovery after cardiac surgery (42854514), intrinsic capacity tracked disability (42853646), Palliative Performance Scale matched complex survival models (42857916), dementia did not predict post-rehab readmission while comorbidity burden and prior utilization did (42858190), hip fracture framed as the real-world resilience test (42843462).
-- Interventions and products marketed for brain benefit keep missing their own cognitive endpoints, while physical gains hold up: 40 Hz light therapy (42847333), nicotinamide riboside in Parkinson's (42848371), single- vs three-set resistance training improving SPPB but not cognition or BDNF (42678372).
-- Self-report systematically misses risk in later life: oldest adults reported least heat stress (42841726), memory worries under-documented especially in deprived neighborhoods (42842937), interoceptive accuracy for cardiac signals fell with age while self-rated body awareness rose (42625395).
-- Beliefs about aging and social connection behave as measurable clinical variables: pessimism predicted under-recovery in rehab (42625386), positive self-perceptions predicted pairing documents with conversation (42647180), loneliness was the most consistent predictor of a loss-focused view of aging (42625387).
-- End-of-life and palliative care is primarily a delivery-system problem: routine labs continuing to death with no demonstrated benefit (42857913), steroid harms clustering in the first 10 days (42843431), late referral to home palliative care (42857916), uptake depending on being asked and on staffing model (42849667, 42853125, 42853972).
-- Measurement artifacts mislead: brain MRI markers too heterogeneous to pool (42848092), DXA scanner variation (42841935), higher bone density in MASLD and obesity creating false fracture reassurance (42859223).
-- Geography, documentation and social position decide who gets care and who is harmed by disease: deprived-neighborhood documentation gap (42842937), rehab setting driven by transportation and housing (42667652), social determinants amplifying the cognitive impact of identical Alzheimer's pathology (42856984).
+- Function, behavior and everyday observation outperform diagnostic labels for prognosis: PPS matched complex survival models (42857916), dementia didn't predict post-rehab readmission (42858190), poor appetite predicted mobility loss within 12-18 months (42861605), hip fracture as the real-world resilience test (42843462).
+- Single interventions marketed for brain benefit keep missing cognitive endpoints while physical/vascular gains hold: 40 Hz light (42847333), single vs three-set resistance training (42678372), midlife exercise alone over 18 years (42865774), post-stroke BP/lipid drugs (42863385).
+- Care transitions are the sharp edge of risk: post-discharge home visits cut 90-day readmissions (42859151), interhospital transfer nearly doubled in-hospital death odds (42860638), first unplanned admission marked ~3.8 months median survival in pancreatic cancer (42863588), late home palliative referral (42857916).
+- Self-report systematically mis-sorts risk in both directions: unrecognized hearing loss in 47% of care recipients, with caregiver depressive symptoms doubled (42861992), falling cardiac interoceptive accuracy with rising confidence (42625395) — but self-reported cognitive decline roughly doubles progression risk and deserves workup (42865136).
+- "Just aging" framing blocks effective care: Lancet OA roadmap (42860133), telomere length not causal for spine degeneration while BMI and CRP were (42863602), hand OA prevalence up 65% (42839719).
+- End-of-life care is a delivery-system problem: routine labs to death (42857913), steroid harms clustered in first 10 days (42843431), palliative referral triggered too late (42863588, 42857916).
+- Measurement artifacts and cutoffs mislead: DXA/MRI heterogeneity (42848092, 42841935), higher BMD in MASLD (42859223), %p-tau217 absolute levels differing by race/ethnicity while biology-to-biomarker relationship held (42862590).
 
 ## Emerging threads
-- The post-event window as the decisive intervention point: time-limited interprofessional home visits cutting 90-day readmissions (42859151), Fracture Liaison Services after a first fragility fracture (42843462), early advance care planning reducing futile testing (42857913).
-- Cheap bedside measures competing with lab biomarkers for prediction, all with modest incremental value: peak expiratory flow and later cognition (42858068), PPS and tumor type for survival (42857916), against the lab cluster (42855813, 42841728, 42843141, 42671305).
-- Access models for anti-amyloid therapy: central multidisciplinary review boards as a workaround for the cognitive specialist shortage, with real-world ARIA rates of 17.4% and 28.8% (42857600) and imaging markers of bleeding risk (42855813); watch for industry disclosure issues.
-- Dementia stigma as a contact problem rather than a knowledge problem (42857477); early behavioral markers such as loss of in-the-moment pleasure preceding cognitive change in bvFTD (42856930).
-- Rising musculoskeletal and hand disability burden, partly recognition-driven: symptomatic hand OA prevalence up 65% in a decade (42839719).
-- Exercise prescription converging on "volume and adherence over modality," with mind-body work legitimized for Parkinson's (42859236) and minimal effective doses for people with cognitive impairment (42678372).
+- Sleep architecture over sleep duration: continuity and night-to-night variability, not hours, tracked with cognition (42436643); arousal subtypes split by Alzheimer's genetic risk (42171655); NfL and p-tau217 flagged which apnea patients declined (42862512); drug-induced sleep gains faded by week 12 (42520241).
+- Post-stroke brain health as its own cluster: depression rather than anxiety tied to executive decline (42863797), arcuate fasciculus integrity predicting speech recovery (42034570), medications not protective (42863385).
+- Social connection linked to capacity level but not to rate of decline (42863480) — a brake on overclaiming for social programming, against loneliness as the top predictor of a loss-focused aging view (42625387).
+- Global and equity framing of dementia: first harmonized multi-continent incidence benchmark, higher in women and in low/middle-income countries (42862582); structural genetic variation found in an underrepresented population (42864446).
+- Access and pipeline for dementia therapies: central review boards as a specialist-shortage workaround with real-world ARIA rates (42857600); 38 active FTLD trials, half neuromodulation, one Phase 3 (42865756). Watch industry disclosures throughout.
 
 ## Feature ideas already pitched
-- 2026-10-06: "Eight sessions of resisted walking did more than a year of Ginkgo" — what you buy vs what you do.
-- 2026-10-07: "Ask for the number, not just the word positive" — biomarker results that sound final and aren't.
-- 2026-10-08: "Seven in ten made a plan once someone asked" — conversations late in serious illness.
 - 2026-10-09: "Hip fractures, not memory loss" — the modern medication review.
-- 2026-10-10: "The warning signs older adults rarely report out loud" (42842937, 42841726, 42844572, 42647180). Targets: Next Avenue, LeadingAge, NCOA, Generations Journal.
-- 2026-10-11: "The first 90 days at home" — the post-discharge/post-fracture window and screening for the wrong flags (42859151, 42858190, 42843462, 42857916). Targets: Next Avenue, Caring.com, LeadingAge, NCOA.
+- 2026-10-10: "The warning signs older adults rarely report out loud" (42842937, 42841726, 42647180).
+- 2026-10-11: "The first 90 days at home" — post-discharge/post-fracture window, wrong flags screened (42859151, 42858190, 42843462, 42857916).
+- 2026-10-13: "Stop counting hours" — sleep continuity and regularity over duration, plus overnight disruption in communities (42436643, 42171655, 42862512, 42520241).
 - Not yet pitched: "Your zip code decides where your rehab happens" (42667652, 42852584, 42848386).
-- Not yet pitched: "Exercise is real medicine — just not for memory" (42678372, 42859236, 42847333).
+- Not yet pitched: "Exercise is real medicine — just not for memory, and not alone" (42678372, 42865774, 42859236).
+- Not yet pitched: "Nobody's job after the handoff" — transfer-day and transition risk (42860638, 42863588).

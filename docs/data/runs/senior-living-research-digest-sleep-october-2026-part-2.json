@@ -1,0 +1,975 @@
+{
+  "id": "senior-living-research-digest-sleep-october-2026-part-2",
+  "filename": "Senior Living Research Digest \u2014 Sleep \u2014 October 2026 (Part 2).md",
+  "title": "Senior Living Research Digest \u2014 Sleep \u2014 October 2026 (Part 2)",
+  "run_date": "2026-10-13",
+  "coverage_window": "Last 90 days",
+  "journals_searched": "187",
+  "articles_screened": "40",
+  "focus": "sleep",
+  "topic": "sleep",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 23,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Poor Sleep Before Heart Valve Surgery Doubles the Odds of Post-Op Confusion",
+      "journal": "Am J Geriatr Psychiatry",
+      "published": "2026 Nov;34(11):1376-1387",
+      "pmid": "42665464",
+      "doi": "10.1016/j.jagp.2026.08.003",
+      "the_study": "Researchers at a single tertiary medical center tracked 100 adults aged 40 and older (mean age 67, 64% male) scheduled for surgical aortic valve replacement, measuring their sleep before surgery with self-report questionnaires, ambulatory polysomnography, and wrist actigraphy. Twenty-seven developed delirium after surgery. After adjusting for age, sex, comorbidity, and surgery length, every 10% drop in presurgical sleep efficiency was linked to more than double the odds of delirium, and a 10% weakening of the day-night rest-activity rhythm was tied to roughly 2.6 times the odds. Moderate-to-severe sleep apnea (15+ events/hour) was associated with 3.4 times the odds of delirium, and both poor sleep efficiency and blunted rhythms also predicted more severe delirium.",
+      "why_it_matters": "Postoperative delirium is one of the most feared complications of major surgery in older adults, and this suggests that measurable sleep problems in the weeks before an operation may flag who is most vulnerable \u2014 potentially well before the patient reaches the operating room.",
+      "story_angle_primary": "If you have surgery coming up, it's worth raising your sleep with your surgical team: how fragmented your nights are, whether you snore or have been told you stop breathing, and how consistent your daily routine is. These are things you can describe at a pre-op visit, and this study suggests they may be part of your risk picture \u2014 though it does not yet show that fixing sleep beforehand prevents delirium.",
+      "story_angle_secondary": "For families and senior living staff, the pre-surgical window is an opportunity to document what a resident's nights actually look like \u2014 restlessness, daytime napping, loss of a clear day-night pattern \u2014 and pass that to the surgical team, along with a baseline of the person's usual thinking and behavior so post-op changes are easier to spot.",
+      "caveats": "Small sample (N=100), single center, observational design that cannot establish that poor sleep causes delirium, and limited to one type of cardiac surgery, so findings may not generalize to other procedures. One co-author discloses consulting relationships with several health technology companies.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 100,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 2,
+      "title": "Sleep Problems Emerge as a Leading Risk Marker for Bladder Leaks After 50",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Dec;151:106406",
+      "pmid": "42748569",
+      "doi": "10.1016/j.archger.2026.106406",
+      "the_study": "Investigators pooled 8 to 10 years of follow-up data on 11,126 adults aged 50 and older from three national aging studies \u2014 the Health and Retirement Study (US), the English Longitudinal Study of Ageing, and the China Health and Retirement Longitudinal Study \u2014 to see which social and lifestyle factors predicted new-onset urinary incontinence. New incontinence developed in 19.7% to 28.6% of participants depending on the cohort. Sleep problems carried the strongest lifestyle association with new incontinence (43% higher risk), while regular physical activity was linked to 22% lower risk; higher BMI raised risk modestly. Mediation analysis suggested sleep problems partly explain why inactive people were more likely to develop incontinence.",
+      "why_it_matters": "Urinary incontinence drives isolation, falls during nighttime bathroom trips, and moves into higher levels of care \u2014 and this points to two modifiable habits, sleep and activity, that travel with it.",
+      "story_angle_primary": "If you're waking repeatedly at night or sleeping poorly, it's worth mentioning to your clinician alongside any bladder changes \u2014 the two appear tightly linked in middle-aged and older adults. Staying physically active was associated with meaningfully lower risk of developing incontinence, which is one of the few levers this research suggests is in your hands.",
+      "story_angle_secondary": "Care teams often treat nighttime bathroom trips and poor sleep as separate problems on separate care plans; this large multi-country study suggests they belong in the same conversation, and that supporting regular daytime activity may pay off in both domains.",
+      "caveats": "Observational cohort data \u2014 cannot establish causation; incontinence and sleep problems were largely self-reported; the authors note sleep problems may be a signal of other underlying illness rather than a cause; the unexpected finding that postsecondary education predicted higher risk suggests possible reporting or detection bias.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 11126,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 3,
+      "title": "Acupuncture and Massage Both Eased Insomnia in Advanced Cancer \u2014 With No Clear Winner",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov;72(5):486-496",
+      "pmid": "42471129",
+      "doi": "10.1016/j.jpainsymman.2026.07.008",
+      "the_study": "Drawing on a multicenter pragmatic randomized trial originally comparing acupuncture and massage for pain in advanced cancer, researchers analyzed the 234 of 300 participants who also had clinically meaningful insomnia at baseline. Over 10 weeks of treatment with follow-up to week 26, both therapies improved Insomnia Severity Index scores by nearly identical amounts (-3.86 vs -3.83), with similar responder rates (35.1% vs 33.3%). Sleep and pain moved together: people whose pain improved saw bigger sleep gains, and people whose sleep improved saw bigger pain reductions at both 10 and 26 weeks.",
+      "why_it_matters": "For older adults living with serious illness, where sleep medications carry real risks of falls and confusion, this offers evidence that two drug-free, generally well-tolerated therapies can measurably improve insomnia \u2014 and that treating pain and sleep together may be more effective than tackling either alone.",
+      "story_angle_primary": "If pain is keeping you awake, you may not have to choose between enduring it and adding another pill. Ask your oncology or palliative care team whether acupuncture or massage is available through your center \u2014 in this trial they worked about equally well for sleep, so preference, access, and cost can reasonably guide your choice.",
+      "story_angle_secondary": "For caregivers and palliative care programs, the bidirectional pain-sleep finding argues for assessing both symptoms as a cluster rather than in isolation, and supports advocating for integrative therapy coverage as a legitimate part of symptom management, not a luxury add-on.",
+      "caveats": "Secondary exploratory analysis of a trial designed around pain, not insomnia; no placebo or usual-care control group, so improvement could partly reflect attention, time, or regression to the mean; outcomes were self-reported; participants had advanced cancer and were treated at major cancer centers, limiting generalizability. The senior author reports grants from two pharmaceutical/health companies outside the submitted work.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 300,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "falls",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 4,
+      "title": "Non-Hormonal Hot Flash Drugs Also Improved Sleep in Menopausal Women, Review Finds",
+      "journal": "Menopause",
+      "published": "2026 Oct 6 (online ahead of print)",
+      "pmid": "42837121",
+      "doi": "10.1097/GME.0000000000002903",
+      "the_study": "Researchers pooled seven randomized placebo-controlled trials involving 3,184 perimenopausal and postmenopausal women with moderate to severe hot flashes and night sweats, examining a newer class of non-hormonal drugs called neurokinin receptor antagonists. Compared with placebo, these drugs significantly reduced patient-reported sleep disturbance at 4, 12, and 24 weeks, with the largest effects early and benefits persisting through six months. Both elinzanetant and fezolinetant helped, with elinzanetant showing a larger effect. All trials were rated low risk of bias, but certainty was downgraded to low due to substantial unexplained variation between studies.",
+      "why_it_matters": "Sleep disruption from vasomotor symptoms can persist for years into the postmenopausal period and is frequently treated with sedatives that carry fall and cognitive risks in older women \u2014 a non-hormonal alternative that targets the underlying cause is a genuinely different option.",
+      "story_angle_primary": "If night sweats are wrecking your sleep and hormone therapy isn't an option for you, ask your clinician about neurokinin receptor antagonists. Bring specifics \u2014 how many times you wake, how long you're awake \u2014 since these trials measured patient-reported sleep disturbance, and that's the evidence base your prescriber will be weighing.",
+      "story_angle_secondary": "Clinicians and care staff should note the pooled effect sizes varied widely across trials, so expectations need to be individualized; this is a reason to schedule a follow-up check on sleep rather than assume the prescription settled the issue.",
+      "caveats": "Meta-analysis of trials with substantial unexplained heterogeneity; certainty of evidence rated low by the authors' own GRADE assessment; sleep outcomes were entirely self-reported via a questionnaire, not objectively measured; trials were in women with moderate-to-severe vasomotor symptoms, so results may not apply to sleep problems from other causes; longest follow-up was 24 weeks. One author's institution receives research funding from Bayer, which manufactures elinzanetant, and he reports an ongoing financial relationship with Estetra.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "falls",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 5,
+      "title": "Sedative Prescriptions After Hip Fracture Have Plummeted in Ontario \u2014 But Opioids Haven't",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 9 (online ahead of print)",
+      "pmid": "42852585",
+      "doi": "10.1111/jgs.70739",
+      "the_study": "Using linked provincial health records, researchers tracked 114,055 Ontario adults aged 66 and older admitted with an acute hip fracture between 2008 and 2024, examining what was dispensed before hospitalization and in the year after discharge. Benzodiazepine dispensing \u2014 often given for sleep and anxiety \u2014 fell sharply from 33.7% to 13.3%. Opioid dispensing peaked at 55.8% in 2015 and declined only to 44.6% by 2024, and concurrent use of both drug classes dropped from 3.7% to 1%.",
+      "why_it_matters": "Benzodiazepines and opioids both raise the risk of falls, confusion, and death in older adults \u2014 and a second fall after a hip fracture can be catastrophic \u2014 so knowing which prescribing patterns have changed, and which haven't, tells patients and families where to direct their questions.",
+      "story_angle_primary": "If you or a spouse is recovering from a hip fracture and was started on a sleeping pill or a daily opioid in the hospital, ask directly at each follow-up: is this still needed, and what's the plan to taper it? Nearly half of patients in this study were still being dispensed opioids in the year after discharge, and long-term use carries real fall and dependence risks.",
+      "story_angle_secondary": "For senior living and rehab professionals, the near-disappearance of benzodiazepines after hip fracture shows deprescribing campaigns can shift practice at population scale \u2014 and makes the persistently high opioid rate a reasonable target for medication reviews at admission and at 30, 90, and 180 days post-discharge, paired with non-drug approaches to pain-related sleep disruption.",
+      "caveats": "Retrospective administrative data from a single Canadian province with public drug coverage for those 66 and older \u2014 prescribing patterns may not generalize to the US or other systems; dispensing records do not confirm whether medications were actually taken; the cohort excluded people who died within roughly three months, which may understate risk; the study describes trends and cannot assess whether prescribing was appropriate for any individual.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "falls",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 6,
+      "title": "Acupuncture for Stubborn Insomnia: Six Weeks Beat Four, But Eight Added Little",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 15",
+      "pmid": "42697250",
+      "doi": "10.1016/j.jad.2026.122469",
+      "the_study": "Researchers in China randomly assigned 201 adults with chronic insomnia disorder (78% women) to 4, 6, or 8 weeks of acupuncture, given three times a week using identical acupoints, and tracked them for three months after treatment ended. Insomnia Severity Index scores fell in all three groups, but the 6- and 8-week courses produced roughly 2.7 to 2.8 points more improvement than the 4-week course. Stretching treatment from 6 to 8 weeks added essentially nothing for core sleep outcomes (adjusted difference 0.0 points), and no serious adverse events occurred.",
+      "why_it_matters": "Many older adults turn to acupuncture for insomnia without knowing how many sessions are worth paying for; this trial suggests roughly six weeks is the point of diminishing returns, which matters for both cost and time.",
+      "story_angle_primary": "If you are considering acupuncture for long-standing insomnia, ask the practitioner to commit to a defined course and reassess at six weeks \u2014 this trial suggests four weeks may be too short to judge, while pushing past six weeks added no further sleep benefit. Discuss any complementary treatment with the clinician managing your sleep medications.",
+      "story_angle_secondary": "For senior living activity directors and care coordinators arranging complementary therapies, this gives a concrete planning benchmark: budget for about 18 sessions over six weeks rather than open-ended scheduling, and build in a formal reassessment point.",
+      "caveats": "Participants were predominantly women and recruited in China, so results may not generalize to all older adults; the trial did not report results separately by age and included adults generally rather than seniors specifically. There was no sham-acupuncture or no-treatment control arm, so the comparison is only between course lengths, and secondary outcomes (depression, anxiety) were exploratory. Follow-up extended only three months.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": 201,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 7,
+      "title": "Why Short Sleep May Be Riskier for Some Brains Than Others",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Oct",
+      "pmid": "42861684",
+      "doi": "10.1002/alz.71838",
+      "the_study": "Investigators analyzed 735 deeply characterized participants ranging from cognitively healthy to mild cognitive impairment and Alzheimer's dementia, measuring self-reported sleep with the Pittsburgh Sleep Quality Index alongside brain MRI markers of vascular injury. They separated people with white matter hyperintensities alone from those who also had microbleeds, infarcts, or amyloid angiopathy. In people with mild cognitive impairment plus high vascular burden and in those with Alzheimer's disease, the added vascular injury substantially amplified the link between shorter sleep and greater white matter damage; in Alzheimer's, longer sleep tracked with better cognition when extra vascular injury was present but worse cognition when it was not.",
+      "why_it_matters": "It suggests there is no single ideal sleep duration for brain health \u2014 what short or long sleep signals may depend on what kind of vascular damage a person's brain already carries, which could eventually shape more individualized advice.",
+      "story_angle_primary": "If you have been told you have white matter changes, small strokes, or microbleeds on a brain scan, it is reasonable to ask your doctor whether your sleep patterns deserve closer attention \u2014 but note this study tracked associations, not cause and effect, so changing your sleep is not proven to change brain outcomes.",
+      "story_angle_secondary": "For families and memory-care staff, this is a reminder that a resident's brain imaging history is relevant context when sleep problems come up \u2014 the same sleep pattern may carry different significance in two residents with similar diagnoses.",
+      "caveats": "Observational design cannot establish causation; sleep duration was self-reported rather than measured objectively. The finding that longer sleep related to better cognition in one subgroup was explicitly exploratory. The cohort was a deeply phenotyped research sample and may not represent the general older population.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 8,
+      "title": "A Decade After Parkinson's Diagnosis: Sleep, Mood, and Thinking Symptoms Steadily Multiply",
+      "journal": "Mov Disord",
+      "published": "2026 Oct 6",
+      "pmid": "42839627",
+      "doi": "10.1002/mds.70557",
+      "the_study": "Using the Parkinson's Precision Medicine Initiative, researchers followed 846 people with biomarker-confirmed sporadic Parkinson's disease and 282 healthy controls for 10 years, tracking nine neuropsychiatric symptoms. Eight of the nine rose in prevalence over the decade \u2014 with the steepest increases in psychosis and apathy \u2014 while anxiety slightly declined and controls stayed stable. People with Parkinson's had consistently higher rates of REM sleep behavior disorder, excessive daytime sleepiness, depression, apathy, psychosis, impulse control disorders, and cognitive impairment, and the average number of co-occurring symptoms climbed from 1.39 to 2.39.",
+      "why_it_matters": "Sleep disturbances in Parkinson's \u2014 acting out dreams, daytime sleepiness \u2014 cluster with cognitive and perceptual symptoms and accumulate predictably, so knowing what tends to emerge helps patients and families plan rather than be blindsided.",
+      "story_angle_primary": "If you are living with Parkinson's, raise non-motor issues like acting out dreams, daytime sleepiness, loss of motivation, or seeing things that aren't there at every visit \u2014 these symptoms tend to accumulate over the first decade, and your care team can only address what you report.",
+      "story_angle_secondary": "For care partners and senior living staff, the finding that high- and low-symptom burden groups were identifiable at diagnosis and stayed consistent at 5 and 10 years means early non-motor symptom profiles are worth documenting; they can inform long-range staffing, safety planning for dream enactment, and expectations about supervision needs.",
+      "caveats": "Observational cohort \u2014 it describes the natural course rather than testing any intervention. Research cohort participants with biomarker confirmation may differ from the broader Parkinson's population, and symptom assessment relied partly on rating scales and reports.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 846,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 9,
+      "title": "Opening a Window: An Everyday Habit Linked to Better Mood in Older Adults",
+      "journal": "J Gerontol Soc Work",
+      "published": "2026 Oct 11",
+      "pmid": "42860785",
+      "doi": "10.1080/01634372.2026.2744794",
+      "the_study": "Drawing on 2018 data from the Chinese Longitudinal Healthy Longevity Survey, researchers analyzed 11,374 adults aged 65 and older to examine how often they opened windows for ventilation and how that related to depressive symptoms. More frequent window ventilation was associated with fewer depressive symptoms, with the strongest association in spring and the weakest in winter. Statistical mediation analysis suggested the link ran partly through self-reported total sleep duration and partly through psychological resilience.",
+      "why_it_matters": "It points to an extremely low-cost, modifiable home-environment habit that may connect indoor air, sleep, and mood in older adults who spend most of their day indoors.",
+      "story_angle_primary": "If you spend most of your time at home, consider making a daily habit of airing out your bedroom and living space \u2014 this large study found more frequent window ventilation went along with better reported sleep and fewer depressive symptoms, though it cannot prove the fresh air caused the benefit.",
+      "story_angle_secondary": "For senior living operators and home care aides, ventilation routines are a cheap, overlooked piece of the environmental picture alongside light, noise, and temperature \u2014 and they can be built into daily housekeeping checklists, with seasonal adjustments so residents aren't left cold in winter.",
+      "caveats": "Cross-sectional observational data from a single survey year cannot establish causation, and reverse causation is plausible \u2014 depressed or frail older adults may simply be less likely to open windows. Sleep duration and depressive symptoms were self-reported, and the Chinese population studied may not generalize to other housing and climate contexts.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 11374,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 10,
+      "title": "Too little or too much: both ends of the sleep spectrum tied to earlier death in large Chinese cohort",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42648048",
+      "doi": "10.1016/j.archger.2026.106385",
+      "the_study": "Researchers followed 16,375 middle-aged and older participants in the nationally representative China Health and Retirement Longitudinal Study, tracking self-reported sleep disturbance, total daily sleep, nighttime sleep, and napping against later deaths. Compared with 7-8 hours, sleeping 9 or more hours a day was linked to roughly double the risk of dying during follow-up, and sleeping under 4 hours to about 2.5 times the risk, with a similar U-shaped pattern for nighttime sleep alone. Daytime napping and reported sleep disturbance showed no significant link to mortality.",
+      "why_it_matters": "It puts numbers on a simple, observable habit \u2014 how long you sleep \u2014 and suggests that unusually long sleep deserves as much attention from older adults and their doctors as insomnia does.",
+      "story_angle_primary": "If your nightly sleep has drifted well below 4 hours or crept past 9, it's worth raising at your next appointment \u2014 long sleep in particular can be a signal of an untreated condition rather than just a preference. Note that this study found napping itself was not linked to higher risk.",
+      "story_angle_secondary": "For care staff and family members, a resident or parent who has started sleeping 10-plus hours a day is worth flagging for a medical review rather than dismissing as 'slowing down with age.'",
+      "caveats": "Observational design cannot establish causation \u2014 long sleep may be a marker of underlying illness rather than a cause of death. Sleep was self-reported, not measured. Findings come from a Chinese cohort and may not generalize to other populations.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 11,
+      "title": "Brain stimulation trial improved sleep quality in people with mild Alzheimer's",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Oct 10",
+      "pmid": "42858052",
+      "doi": "10.1177/13872877261492561",
+      "the_study": "In the double-blind, randomized TRANSFORM-AD trial, adults with mild Alzheimer's disease received 30 one-hour sessions of 40 Hz high-intensity transcranial alternating current stimulation or sham stimulation over 15 consecutive days. Among 43 participants with complete assessments, the stimulation group scored 2.34 points lower on the Pittsburgh Sleep Quality Index than sham after adjusting for baseline \u2014 a meaningful improvement in self-reported sleep. Effects on anxiety, depression, and quality of life were imprecise and could not be distinguished from no effect.",
+      "why_it_matters": "Sleep disruption is one of the hardest symptoms of dementia for both patients and caregivers, and this points to a drug-free option that may eventually supplement sedative medications that carry fall and confusion risks.",
+      "story_angle_primary": "If you or a partner has mild Alzheimer's and poor sleep, this is early-stage research worth watching \u2014 but ask your neurologist about non-drug sleep approaches available now rather than seeking out stimulation devices, which remain investigational.",
+      "story_angle_secondary": "Memory care teams should note the intensity of the protocol \u2014 30 hour-long sessions in 15 days \u2014 which raises real questions about feasibility and burden before any such approach could move into routine practice.",
+      "caveats": "Small sample (43 analyzed), sleep outcome was self-reported via questionnaire, sleep was a secondary analysis of a cognition-focused trial, single-center, and no long-term follow-up reported.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "dementia",
+        "depression",
+        "falls",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 12,
+      "title": "Less REM sleep linked to faster buildup of Alzheimer's-related protein in healthy older adults",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Oct",
+      "pmid": "42851166",
+      "doi": "10.1002/alz.71910",
+      "the_study": "Sixty-four cognitively unimpaired adults aged 55 to 90 underwent overnight sleep lab studies (polysomnography) and had blood drawn twice, about 2.6 years apart, to measure amyloid beta markers. Lower REM sleep percentage predicted a steeper decline in the blood A\u03b242/40 ratio over time \u2014 a change that signals accumulating amyloid in the brain \u2014 and the link was strongest among those already amyloid-positive. Slow-wave activity in frontal regions tracked with amyloid levels at a single point in time but not with change over time.",
+      "why_it_matters": "It suggests that specific stages of sleep, not just total hours, may be tied to the biology of Alzheimer's disease years before any memory symptoms emerge.",
+      "story_angle_primary": "You can't directly control REM sleep, but factors that suppress it \u2014 alcohol in the evening, some antidepressants and sleep aids, and untreated sleep apnea \u2014 are things you can reasonably ask your doctor to review.",
+      "story_angle_secondary": "For professionals, this reinforces that sleep architecture may become a measurable target in brain-health programs, though lab-based sleep studies remain the only way to assess it reliably today.",
+      "caveats": "Small sample (N=64), observational and cannot establish causation, single sleep study at one time point, and participants were cognitively unimpaired volunteers who may not represent the broader older population. One author reports consulting for Axsome Therapeutics and Jazz Pharmaceuticals.",
+      "score": 55,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": 64,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "nutrition",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 13,
+      "title": "Mindfulness therapy added to usual care improved sleep in older adults with depression",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 15",
+      "pmid": "42648548",
+      "doi": "10.1016/j.jad.2026.122433",
+      "the_study": "Sixty older adults with late-life depression were randomized to eight weeks of mindfulness-based cognitive therapy plus treatment as usual, or treatment as usual alone, with sleep assessed both by questionnaire and by an objective cardiopulmonary coupling measure. The mindfulness group improved substantially more on the Pittsburgh Sleep Quality Index at week 8 (a 3.8-point advantage) and gained nearly an hour more of 'stable sleep' per night. The advantage was no longer significant at the three-month follow-up.",
+      "why_it_matters": "Sleep problems in depressed older adults are common and often treated with sedatives; this suggests a behavioral alternative can produce real, objectively measurable gains \u2014 at least in the short term.",
+      "story_angle_primary": "If depression is keeping you awake, ask whether a structured mindfulness-based cognitive therapy program is available alongside your current treatment \u2014 and plan for how you'll keep practicing, since benefits faded after the course ended.",
+      "story_angle_secondary": "For senior living activity directors and clinical teams, this supports offering structured eight-week mindfulness courses rather than one-off sessions, and suggests building in ongoing practice to sustain gains.",
+      "caveats": "Small sample (N=60), single-center, secondary analysis of a randomized trial, benefit did not persist at three months, and control group received usual care only (no attention-matched comparison).",
+      "score": 55,
+      "band": "Background",
+      "evidence_type": "randomized trial",
+      "sample_size": 60,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": [
+        "Medical Xpress",
+        "Sleep Foundation"
+      ]
+    },
+    {
+      "number": 14,
+      "title": "Telephone counseling by trained lay volunteers eased loneliness \u2014 and improved sleep \u2014 in older adults a year later",
+      "journal": "Int Psychogeriatr",
+      "published": "2026 Oct 8",
+      "pmid": "42850158",
+      "doi": "10.1016/j.inpsyc.2026.100299",
+      "the_study": "This three-arm, assessor-blinded randomized trial in Hong Kong assigned 287 older adults (average age 76, 72% female) to telephone-delivered wisdom-enhancement narrative therapy, an empathy-focused telephone intervention, or an active control, with follow-up at 1, 6, and 12 months. The narrative therapy arm significantly reduced loneliness on the De Jong Gierveld scale at 6 and 12 months and improved sleep quality at 12 months; both active interventions reduced emotional loneliness at 12 months. No overall group differences appeared on the UCLA Loneliness Scale.",
+      "why_it_matters": "Lay counselors delivering structured conversations by phone is a low-cost, scalable model that produced durable benefits in loneliness and sleep \u2014 two problems that often travel together in later life.",
+      "story_angle_primary": "If loneliness is wearing on you, structured phone-based programs that invite you to tell your life story may help more than generic check-in calls \u2014 and the sleep benefit suggests emotional connection and rest are linked. Ask your senior center or community agency what's available.",
+      "story_angle_secondary": "Community and senior living organizations can note that trained lay volunteers, not licensed therapists, delivered these sessions \u2014 a realistic staffing model for programs where professional capacity is scarce.",
+      "caveats": "Results differed depending on which loneliness scale was used, which weakens confidence in the finding. Conducted in Hong Kong and may not generalize elsewhere; outcomes including sleep quality were self-reported.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 287,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 15,
+      "title": "In people with depression late in life, poor sleep and the APOE4 gene together track with more Alzheimer's plaque",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 9",
+      "pmid": "42857391",
+      "doi": "10.1002/dad2.70478",
+      "the_study": "Researchers studied 110 older adults aged 65 to 88 (66% female) with late-life depression, measuring depression severity, sleep efficiency and duration, amyloid brain burden, and APOE \u03b54 genetic status. Neither depression severity nor sleep measures were linked to amyloid overall \u2014 but among APOE \u03b54 carriers specifically, worse depression and lower sleep efficiency were each independently and additively associated with greater amyloid burden and higher odds of crossing the threshold for amyloid positivity.",
+      "why_it_matters": "It helps explain why studies linking depression to Alzheimer's risk have been inconsistent, and suggests that for a genetically vulnerable subgroup, treating depression and sleep problems may matter more than previously appreciated.",
+      "story_angle_primary": "If you have depression in later life, treating it promptly and addressing sleep problems are worthwhile goals in their own right \u2014 this study also found longer periods of untreated depression tracked with more amyloid in \u03b54 carriers, though it cannot prove cause and effect.",
+      "story_angle_secondary": "Clinicians and care coordinators may want to treat depression plus fragmented sleep in an older adult as a combined priority rather than two separate complaints, particularly where family history suggests elevated genetic risk.",
+      "caveats": "Modest sample (N=110) and subgroup analyses by genotype reduce statistical power; cross-sectional and observational, so causation cannot be established. Several authors report extensive pharmaceutical industry consulting and funding relationships.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 110,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 16,
+      "title": "Too Little or Too Much Sleep Both Track With Weaker Thinking Skills in Older Couples",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "published": "2026 Oct 6",
+      "pmid": "42755049",
+      "doi": "10.1093/gerona/glag235",
+      "the_study": "Researchers followed 4,260 married Chinese couples (8,520 people, all aged 45 and older) across four waves of the China Health and Retirement Longitudinal Study between 2011 and 2018, pairing self-reported nighttime sleep and napping with repeated cognitive testing. Both husbands and wives showed an inverted U-shaped pattern: cognition scores were highest at middle-of-the-road sleep durations and lower at both short and long extremes. A hint that husbands' sleep was linked to their wives' cognition did not hold up after statistical correction for multiple comparisons, and napping showed little consistent relationship with cognition.",
+      "why_it_matters": "It reinforces that the sleep sweet spot matters for brain health in midlife and later life \u2014 and that chronically short or unusually long sleep is worth raising with a doctor rather than shrugging off as normal aging.",
+      "story_angle_primary": "If your nights have drifted to the extremes \u2014 five hours or ten \u2014 it's worth mentioning at your next checkup, since both ends of the range tracked with lower cognitive scores in this large study. Aim for consistency, and ask whether pain, medications, or an undiagnosed sleep disorder might be pushing you off center.",
+      "story_angle_secondary": "For families and senior living staff: this study found that a person's own sleep, not their spouse's, drove the cognitive association \u2014 so sleep screening should be individual, even for couples sharing a bed and a bedtime routine. Shared-room arrangements in communities may still warrant attention to one partner's disruptive sleep affecting the other's rest.",
+      "caveats": "Observational design cannot establish causation; sleep duration was self-reported; the apparent husband-to-wife partner effect did not survive correction for multiple testing; findings come from a Chinese cohort and may not generalize to other populations.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 8520,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 17,
+      "title": "The More Hours You Use CPAP After a Stroke, the Better Your Mood May Be",
+      "journal": "Sleep Med",
+      "published": "2026 Dec",
+      "pmid": "42800142",
+      "doi": "10.1016/j.sleep.2026.109286",
+      "the_study": "Canadian researchers analyzed 112 patients who had a stroke or TIA and were diagnosed with obstructive sleep apnea by sleep testing, tracking CPAP use and depressive symptoms over time. Only about a third (32%) met adherence standards. When CPAP use was measured as a continuous dose, every additional hour of weekly use was linked to fewer depressive symptoms, with a meaningful difference emerging at roughly 31 hours of use per week \u2014 well above the conventional four-hours-a-night threshold. All three stroke recurrences occurred in the non-adherent group.",
+      "why_it_matters": "Depression after stroke is common and hard to treat; this suggests that pushing CPAP use beyond the minimum \"adherent\" bar, not just meeting it, may pay off in mood and possibly in stroke prevention.",
+      "story_angle_primary": "If you've had a stroke or TIA and were prescribed CPAP, the message here is that more is better \u2014 wearing the mask through the full night, most nights, was linked to bigger improvements in mood than merely hitting the standard four-hour minimum. If the mask is uncomfortable or you keep taking it off, ask your sleep clinic about mask refitting, humidification, or pressure adjustment rather than quietly giving up.",
+      "story_angle_secondary": "For caregivers and senior living staff: CPAP adherence after stroke is poor \u2014 two-thirds of patients in this cohort fell short \u2014 and nightly wear time is something families and night staff can actually observe, troubleshoot, and report back to the sleep clinic. Treat persistent low mood after stroke as a prompt to check whether the CPAP is actually being used.",
+      "caveats": "Small N (112); single-center secondary analysis of an observational cohort, so causation cannot be established; only three stroke recurrences, far too few to draw conclusions about recurrence; several authors report extensive pharmaceutical industry consulting and equipment support (Takeda, Jazz, Eisai, Zoll Itamar and others), though the study itself was publicly funded.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 112,
+      "journal_tier": 2,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 18,
+      "title": "Mood and Sleep Problems Cluster Together in Parkinson's \u2014 and Affect Nearly Half of Patients",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Oct",
+      "pmid": "42579898",
+      "doi": "10.1016/j.parkreldis.2026.108923",
+      "the_study": "Investigators compared 64 health features in 933 people with Parkinson's disease and 291 controls in the Harvard Biomarkers Study. Depression, anxiety, sleep apnea, and restless legs syndrome were all substantially more common in Parkinson's patients \u2014 restless legs was four times more likely, sleep apnea more than twice as likely \u2014 and these conditions clustered together statistically. Overall, 43% of Parkinson's patients had at least one psychiatric or sleep disorder, versus 21% of controls.",
+      "why_it_matters": "The non-movement symptoms of Parkinson's \u2014 bad sleep, low mood, anxiety, leg restlessness \u2014 often go unmentioned in appointments dominated by tremor and gait, yet they affect nearly half of patients and are frequently treatable.",
+      "story_angle_primary": "If you have Parkinson's, bring up sleep and mood at your neurology visits, not just movement symptoms \u2014 snoring and witnessed breathing pauses, an irresistible urge to move your legs at night, or persistent low mood are all common in Parkinson's and all have treatments. These problems tend to travel together, so one may be a clue to look for the others.",
+      "story_angle_secondary": "For families and care staff: when someone with Parkinson's seems withdrawn or exhausted, consider that a sleep disorder may be driving it. Observations you can report \u2014 loud snoring, breathing pauses, nighttime leg movements, daytime sleepiness \u2014 give clinicians concrete reasons to order testing.",
+      "caveats": "Observational case-control design cannot establish causation or direction; participants came from a single academic medical center's biomarker study and may not represent community Parkinson's populations; associations with vitamin D3 and CoQ10 use likely reflect supplement-taking behavior among patients rather than risk; senior author reports multiple pharmaceutical industry relationships.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "case-control",
+      "sample_size": 933,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 19,
+      "title": "Experimental Pill Dramatically Restored Wakefulness in Narcolepsy Trial",
+      "journal": "Lancet Neurol",
+      "published": "2026 Oct",
+      "pmid": "42636845",
+      "doi": "10.1016/S1474-4422(26)00278-4",
+      "the_study": "In a randomized, double-blind, placebo-controlled phase 2 trial across 46 centers in the US, Europe, and Australia, 92 adults aged 18-70 with narcolepsy type 1 received once-daily alixorexton (4, 6, or 8 mg) or placebo for six weeks. On the Maintenance of Wakefulness Test, participants on the drug stayed awake 22 to 26 minutes longer than placebo \u2014 near the test's ceiling \u2014 with improvements also seen in daytime sleepiness and cataplexy. Common side effects were urinary frequency (55%), insomnia (28%), excess saliva, and blurred vision.",
+      "why_it_matters": "Narcolepsy type 1 is lifelong and persists into older age, and a drug that replaces the missing orexin signal rather than masking sleepiness with stimulants would be a genuine shift in treatment \u2014 though it is not yet approved.",
+      "story_angle_primary": "If you live with narcolepsy, this is an early but striking signal that a new class of drug targeting the root cause may be coming \u2014 ask your sleep specialist about phase 3 trial participation if current stimulants aren't controlling your sleepiness or cataplexy. Note that nothing here changes treatment today, and the drug is still investigational.",
+      "story_angle_secondary": "For caregivers: side effects in this trial were frequent and practical \u2014 more than half of participants had increased urination, which in an older person could raise nighttime fall risk. If this drug reaches market, monitoring bathroom trips and nighttime safety would be a real consideration.",
+      "caveats": "Small N (92), short six-week randomized period, phase 2 only; participants averaged 33.5 years old so results may not generalize to older adults; funded by Alkermes, the drug's manufacturer, with several authors employed by the company and most others reporting industry ties; no long-term safety data.",
+      "score": 73,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "polypharmacy",
+        "sleep",
+        "vision loss"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 20,
+      "title": "What Actually Works for Hot Flashes \u2014 and Which Treatments Also Improve Sleep",
+      "journal": "Ann Intern Med",
+      "published": "2026 Oct 6",
+      "pmid": "42832800",
+      "doi": "10.7326/ANNALS-26-00943",
+      "the_study": "For the American College of Physicians, researchers systematically reviewed and pooled 90 randomized trials of drug treatments for menopausal hot flashes and night sweats, each lasting at least eight weeks. Estrogens (with or without progestogens), conjugated estrogen with bazedoxifene, and oxybutynin reduced both the frequency and severity of symptoms, while neurokinin receptor antagonists, SNRIs, SSRIs, gabapentin, and progestogens reduced frequency only. Gabapentin, NKRAs, oxybutynin, SNRIs, and SSRIs each improved sleep quality, and estrogens were judged to offer high economic value while the NKRA fezolinetant offered low value.",
+      "why_it_matters": "Night sweats wreck sleep for a large share of women in midlife and beyond, and this review lays out which options have evidence behind them \u2014 including non-hormonal choices for women who can't or won't take estrogen.",
+      "story_angle_primary": "If hot flashes and night sweats are breaking up your sleep, you have more evidence-backed options than you may realize \u2014 hormone therapy remains the most effective for symptom severity, but several non-hormonal drugs improved sleep quality too. Bring this up with your clinician and ask specifically about cost, since the review found a large price-versus-value gap between estrogens and newer agents.",
+      "story_angle_secondary": "For families and clinicians: persistent nighttime sweating and sleep fragmentation in a midlife or postmenopausal woman shouldn't be dismissed as something to wait out, and cost should be part of the shared decision \u2014 the review rated estrogens as high economic value and fezolinetant as low.",
+      "caveats": "Most included trials were short-term and not designed to detect serious or long-term harms; observational studies on long-term risks were excluded; evidence certainty was only low to moderate for most comparisons; little head-to-head comparative data; funded by the American College of Physicians.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 21,
+      "title": "Older adults who sleep 8 hours move more \u2014 and grip harder",
+      "journal": "J Gerontol Nurs",
+      "published": "2026 Oct 2",
+      "pmid": "42821756",
+      "doi": "10.3928/00989134-20260925-04",
+      "the_study": "Researchers analyzed data on 1,249 older adults (565 men, 684 women) from the 2023 Korea National Health and Nutrition Examination Survey, comparing sleep duration against self-reported physical activity and measured hand grip strength. Those sleeping 8 or more hours a night logged significantly more moderate-intensity, vigorous-intensity, and combined moderate-to-vigorous activity than those sleeping less, in both men and women. They also had stronger grip in both hands. Sleep duration was positively, though modestly, correlated with moderate-to-vigorous activity (r = .177).",
+      "why_it_matters": "Sleep and daytime movement appear to travel together in later life, so a short night may be both a cause and a symptom of a less active day \u2014 and grip strength is a well-established marker of overall physical resilience in older age.",
+      "story_angle_primary": "If you have been cutting your nights short, it is worth tracking how your sleep and your activity move together for a couple of weeks \u2014 were you less inclined to walk, garden, or exercise the day after a short night? Bring that pattern to your next appointment rather than treating sleep and fitness as separate problems.",
+      "story_angle_secondary": "For senior living staff and family caregivers, this is a reminder that residents who seem unusually sedentary may have a sleep problem behind it; sleep complaints and declining participation in activity programs are worth reviewing as a single picture rather than in separate care notes.",
+      "caveats": "Cross-sectional observational design \u2014 cannot establish that sleep causes more activity, or vice versa; physical activity was self-reported; single-country (South Korea) national sample that may not generalize; the reported correlation was weak and some odds ratios were very close to 1.0.",
+      "score": 55,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 1249,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition",
+        "sarcopenia",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 22,
+      "title": "In Parkinson's disease, losing your sense of smell means different things depending on whether you act out dreams",
+      "journal": "Front Aging Neurosci",
+      "published": "2026 Sep 22",
+      "pmid": "42840315",
+      "doi": "10.3389/fnagi.2026.1778012",
+      "the_study": "Taiwanese researchers assessed 201 people with Parkinson's disease for smell function, probable REM sleep behavior disorder (dream-enacting behaviors, screened by questionnaire plus interviews with the person and a bed partner or informant), cognition, motor severity, and quality of life. Nearly half (47.3%) screened positive for probable RBD and 67.2% had anosmia. Among those without probable RBD, anosmia was linked to notably lower cognitive scores (about 2.6 points lower on the MoCA) and higher odds of cognitive impairment; among those with probable RBD, anosmia carried no such association.",
+      "why_it_matters": "Two common and often-overlooked features of Parkinson's \u2014 acting out dreams and loss of smell \u2014 may together help clinicians sort patients into different clinical profiles, which matters for what to monitor and discuss with families.",
+      "story_angle_primary": "If you or your partner has Parkinson's, mention both sleep behaviors and smell loss at neurology visits \u2014 thrashing, shouting, or punching during dreams, and whether food has lost its aroma. These are real clinical data points, not minor annoyances, and this study suggests the combination helps describe what kind of Parkinson's someone has.",
+      "story_angle_secondary": "Bed partners and night staff are often the only witnesses to dream-enactment behaviors; documenting what you see (and the injury risk from a flailing sleeper) gives the clinical team information the patient genuinely cannot supply.",
+      "caveats": "Cross-sectional design \u2014 cannot establish causation or predict decline; RBD was only 'probable,' based on questionnaire and interview rather than overnight sleep study; single-center Taiwanese clinic population may not generalize; several findings were borderline statistically significant and the authors call for longitudinal validation.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 201,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "dementia",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 23,
+      "title": "A brief session of thin-air breathing proved safe \u2014 but didn't improve sleep \u2014 in Parkinson's patients",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Oct",
+      "pmid": "42574864",
+      "doi": "10.1016/j.parkreldis.2026.108922",
+      "the_study": "In a randomized, double-blind crossover trial, 15 people with Parkinson's disease and 15 healthy matched adults each completed two 39-minute sessions: one with intermittent low-oxygen air (four 6-minute hypoxic cycles) and one with normal room air. Researchers tracked sleep using wrist actigraphy and measured blood markers at baseline, immediately after, and 24 hours later. The hypoxia sessions reliably lowered blood oxygen and shifted cortisol, leptin, and adiponectin levels in the Parkinson's group, but produced no improvement in sleep; in fact, total sleep time dropped 24 hours afterward compared with the immediate post-session reading.",
+      "why_it_matters": "Intermittent hypoxia is being marketed and studied as a neuroprotective therapy, and this early trial suggests a single session is tolerable but offers no short-term sleep benefit \u2014 a useful reality check for anyone considering altitude-simulation or hypoxia training products.",
+      "story_angle_primary": "If you have Parkinson's and have seen 'altitude training' or intermittent hypoxia promoted for brain health or sleep, know that the human evidence is still at the single-session safety stage \u2014 there is no demonstrated sleep benefit yet, so treat any such offer as experimental and discuss it with your neurologist first.",
+      "story_angle_secondary": "For care professionals fielding questions about trendy wellness technologies, this trial is a concrete example of a plausible-sounding intervention that cleared a safety hurdle without yet showing any functional benefit.",
+      "caveats": "Very small sample (N=30 total, 15 with Parkinson's); single session only with 24-hour follow-up; sleep measured by actigraphy rather than polysomnography; single-center; findings are preliminary and not a basis for treatment decisions.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 30,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "sleep"
+      ],
+      "covered_by": []
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42665464",
+      "journal": "Am J Geriatr Psychiatry",
+      "date": "2026 Nov;34(11):1376-1387",
+      "doi": "10.1016/j.jagp.2026.08.003"
+    },
+    {
+      "pmid": "42748569",
+      "journal": "Arch Gerontol Geriatr",
+      "date": "2026 Dec;151:106406",
+      "doi": "10.1016/j.archger.2026.106406"
+    },
+    {
+      "pmid": "42471129",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Nov;72(5):486-496",
+      "doi": "10.1016/j.jpainsymman.2026.07.008"
+    },
+    {
+      "pmid": "42837121",
+      "journal": "Menopause",
+      "date": "2026 Oct 6 (online ahead of print)",
+      "doi": "10.1097/GME.0000000000002903"
+    },
+    {
+      "pmid": "42852585",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Oct 9 (online ahead of print)",
+      "doi": "10.1111/jgs.70739"
+    },
+    {
+      "pmid": "42697250",
+      "journal": "J Affect Disord",
+      "date": "2026 Dec 15",
+      "doi": "10.1016/j.jad.2026.122469"
+    },
+    {
+      "pmid": "42861684",
+      "journal": "Alzheimers Dement",
+      "date": "2026 Oct",
+      "doi": "10.1002/alz.71838"
+    },
+    {
+      "pmid": "42839627",
+      "journal": "Mov Disord",
+      "date": "2026 Oct 6",
+      "doi": "10.1002/mds.70557"
+    },
+    {
+      "pmid": "42860785",
+      "journal": "J Gerontol Soc Work",
+      "date": "2026 Oct 11",
+      "doi": "10.1080/01634372.2026.2744794"
+    },
+    {
+      "pmid": "42648048",
+      "journal": "Arch Gerontol Geriatr",
+      "date": "2026 Nov",
+      "doi": "10.1016/j.archger.2026.106385"
+    },
+    {
+      "pmid": "42858052",
+      "journal": "J Alzheimers Dis",
+      "date": "2026 Oct 10",
+      "doi": "10.1177/13872877261492561"
+    },
+    {
+      "pmid": "42851166",
+      "journal": "Alzheimers Dement",
+      "date": "2026 Oct",
+      "doi": "10.1002/alz.71910"
+    },
+    {
+      "pmid": "42648548",
+      "journal": "J Affect Disord",
+      "date": "2026 Dec 15",
+      "doi": "10.1016/j.jad.2026.122433"
+    },
+    {
+      "pmid": "42850158",
+      "journal": "Int Psychogeriatr",
+      "date": "2026 Oct 8",
+      "doi": "10.1016/j.inpsyc.2026.100299"
+    },
+    {
+      "pmid": "42857391",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Oct 9",
+      "doi": "10.1002/dad2.70478"
+    },
+    {
+      "pmid": "42755049",
+      "journal": "J Gerontol A Biol Sci Med Sci",
+      "date": "2026 Oct 6",
+      "doi": "10.1093/gerona/glag235"
+    },
+    {
+      "pmid": "42800142",
+      "journal": "Sleep Med",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.sleep.2026.109286"
+    },
+    {
+      "pmid": "42579898",
+      "journal": "Parkinsonism Relat Disord",
+      "date": "2026 Oct",
+      "doi": "10.1016/j.parkreldis.2026.108923"
+    },
+    {
+      "pmid": "42636845",
+      "journal": "Lancet Neurol",
+      "date": "2026 Oct",
+      "doi": "10.1016/S1474-4422(26)00278-4"
+    },
+    {
+      "pmid": "42832800",
+      "journal": "Ann Intern Med",
+      "date": "2026 Oct 6",
+      "doi": "10.7326/ANNALS-26-00943"
+    },
+    {
+      "pmid": "42821756",
+      "journal": "J Gerontol Nurs",
+      "date": "2026 Oct 2",
+      "doi": "10.3928/00989134-20260925-04"
+    },
+    {
+      "pmid": "42840315",
+      "journal": "Front Aging Neurosci",
+      "date": "2026 Sep 22",
+      "doi": "10.3389/fnagi.2026.1778012"
+    },
+    {
+      "pmid": "42574864",
+      "journal": "Parkinsonism Relat Disord",
+      "date": "2026 Oct",
+      "doi": "10.1016/j.parkreldis.2026.108922"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n- This run covers the same 90-day window as the previous one and, in practical terms, the same literature: all 23 studies in the new digest also appeared in the previous digest, with only the headlines and framing rewritten. The core findings therefore repeat rather than extend \u2014 \"Poor Sleep Before Heart Valve Surgery Doubles the Odds of Post-Op Confusion\" (PMID 42665464) matches the earlier \"Poor Sleep Before Heart Surgery Doubles the Odds of Post-Op Confusion\" (PMID 42665464); \"Too little or too much: both ends of the sleep spectrum tied to earlier death in large Chinese cohort\" (PMID 42648048) matches the earlier 16,000-person version of the same analysis; and \"Too Little or Too Much Sleep Both Track With Weaker Thinking Skills in Older Couples\" (PMID 42755049) repeats the inverted-U cognition finding, including the spousal effect that again did not survive correction for multiple testing.\n- The non-drug sleep cluster carries over intact: \"Acupuncture for Stubborn Insomnia: Six Weeks Beat Four, But Eight Added Little\" (PMID 42697250), \"Acupuncture and Massage Both Eased Insomnia in Advanced Cancer \u2014 With No Clear Winner\" (PMID 42471129), \"Mindfulness therapy added to usual care improved sleep in older adults with depression\" (PMID 42648548), \"Brain stimulation trial improved sleep quality in people with mild Alzheimer's\" (PMID 42858052), and \"Telephone counseling by trained lay volunteers eased loneliness \u2014 and improved sleep \u2014 in older adults a year later\" (PMID 42850158) all repeat from the prior run.\n- The Parkinson's cluster introduced last run is fully present again: PMIDs 42839627, 42579898, 42840315, and 42574864. The Alzheimer's biology cluster likewise repeats: PMIDs 42851166, 42857391, and 42861684.\n\n**Advances**\n- The only genuine movement between runs is in precision of reporting, not in evidence. The new write-up of PMID 42665464 specifies moderate-to-severe apnea at 3.4 times the odds of delirium (previously described as \"tripled\") and adds that poor sleep efficiency and blunted rhythms also predicted delirium *severity*. The new treatment of \"Sleep Problems Emerge as a Leading Risk Marker for Bladder Leaks After 50\" (PMID 42748569) foregrounds that sleep carried the strongest lifestyle association of any factor examined, where the previous run reported the 43% figure without that ranking. \"A brief session of thin-air breathing proved safe \u2014 but didn't improve sleep \u2014 in Parkinson's patients\" (PMID 42574864) is reframed more sharply than before as a negative result rather than a safety signal.\n\n**Counterpoints**\n- No new study contradicts anything from the previous digest, because no new study entered the batch. The one change in coverage is a subtraction: \"Grip Strength and Walking Speed Track With Thinking Skills \u2014 and Activity Explains Part of Why\" (PMID 42821755) appeared in the previous digest and is absent here, leaving \"Older adults who sleep 8 hours move more \u2014 and grip harder\" (PMID 42821756) as the sole physical-function entry this run.",
+  "feature_pitch_raw": "**The pattern:** Taken together, this batch documents a sedative retreat and what is filling the vacuum. \"Sedative Prescriptions After Hip Fracture Have Plummeted in Ontario \u2014 But Opioids Haven't\" (PMID 42852585) shows benzodiazepine dispensing falling from 33.7% to 13.3% across 114,055 patients over 16 years while opioids stayed near 45% \u2014 and the rest of the batch supplies the replacement evidence with actual numbers attached: about six weeks of acupuncture before benefit plateaus (PMID 42697250), acupuncture and massage performing equally for insomnia in advanced cancer (PMID 42471129), an eight-week mindfulness course producing nearly an extra hour of stable sleep that faded by three months (PMID 42648548), and, for night sweats, pooled drug data plus a 90-trial review identifying which treatments also improve sleep and at what cost (PMIDs 42837121, 42832800).\n\n**Why pitch this now:** Deprescribing campaigns have clearly worked on one drug class at population scale, which means millions of older adults are being told \"no\" to the sleeping pill without being told what to try instead \u2014 and for the first time there is dosing, duration, and cost evidence to answer that question.\n\n**Angle:** A practical, evidence-weighted guide to what comes after the sleeping pill \u2014 how many sessions, how long the benefit lasts, what it costs, and which options have been tested in people with pain, depression, cancer, or hot flashes \u2014 written for older adults and family caregivers managing a recovery or a chronic condition, with a sidebar for rehab and assisted living teams on timing medication reviews after discharge.\n\n**Potential headlines:**\n- What Actually Helps Older Adults Sleep Once the Sleeping Pill Is Off the Table\n- The Sleeping Pills Went Away. The Opioids Stayed.\n- Six Weeks, Eight Weeks, or Three Months \u2014 Knowing How Long a Sleep Treatment Keeps Working Before You Pay for It\n**Potential outlets:**\n- **Next Avenue** \u2014 their health and caregiving coverage rewards service journalism with specific numbers, and the \"how many sessions, how long does it last\" framing fits readers deciding where to spend time and money.\n- **AARP** \u2014 huge audience recovering from fractures or managing menopause-related sleep loss, and the cost-versus-value finding in the hot flash review gives the piece a consumer-economics hook beyond the clinical news.\n- **McKnight's Long-Term Care News** \u2014 the hip fracture prescribing data is directly operational for skilled nursing and rehab, where post-discharge medication review at 30, 90, and 180 days is a concrete, adoptable practice.\n- **National Council on Aging** \u2014 strong distribution for practical, plain-language guidance on medication safety and falls, which is exactly what the benzodiazepine-versus-opioid contrast speaks to.",
+  "pitch_ideas_raw": "- **Poor Sleep Before Heart Valve Surgery Doubles the Odds of Post-Op Confusion (PMID 42665464):** Give families the exact pre-op question to ask \u2014 should my father's sleep and snoring be evaluated before this operation? \u2014 plus what to document about his usual thinking so post-op changes are visible, for a caregiver-advice column.\n- **Sleep Problems Emerge as a Leading Risk Marker for Bladder Leaks After 50 (PMID 42748569):** Two topics older adults rarely raise turn out to be linked, and this is the case for screening them in the same visit rather than on separate care plans, for a consumer health explainer or a continence-care trade brief.\n- **Acupuncture and Massage Both Eased Insomnia in Advanced Cancer \u2014 With No Clear Winner (PMID 42471129):** When two drug-free therapies work equally well, preference and access can decide \u2014 and treating pain and sleep as a pair beats chasing either alone, for a consumer health explainer or a palliative and hospice trade piece.\n- **Non-Hormonal Hot Flash Drugs Also Improved Sleep in Menopausal Women, Review Finds (PMID 42837121):** A second reason to ask about this newer drug class if hormones are off the table, with instructions on what sleep details to bring to the appointment, for a women's health section.\n- **Sedative Prescriptions After Hip Fracture Have Plummeted in Ontario \u2014 But Opioids Haven't (PMID 42852585):** Prescribing culture changed fast on one risky class and barely at all on the other, making a scheduled medication review after discharge the single most useful thing a family or facility can do, for a caregiver column plus a skilled-nursing trade brief.\n- **Acupuncture for Stubborn Insomnia: Six Weeks Beat Four, But Eight Added Little (PMID 42697250):** A rare, concrete answer to \"how many sessions before I stop paying\" \u2014 roughly 18 over six weeks, with a formal reassessment built in, for a consumer health explainer and a senior-living activities-planning brief.\n- **Why Short Sleep May Be Riskier for Some Brains Than Others (PMID 42861684):** There may be no single right number of hours, and a past MRI showing small vessel changes belongs in the sleep conversation, for a consumer brain-health explainer.\n- **A Decade After Parkinson's Diagnosis: Sleep, Mood, and Thinking Symptoms Steadily Multiply (PMID 42839627):** Symptoms accumulate on a predictable curve, which turns dread into planning for supervision, bedroom safety, and staffing, for a caregiver feature or a memory-care trade brief.\n- **Opening a Window: An Everyday Habit Linked to Better Mood in Older Adults (PMID 42860785):** A free daily routine tied to better reported sleep and mood, and a nudge to operators to treat ventilation as a wellness item alongside light and noise rather than a housekeeping afterthought, for a consumer lifestyle piece and a senior-living operations brief.\n- **Too little or too much: both ends of the sleep spectrum tied to earlier death in large Chinese cohort (PMID 42648048):** Treat hours slept as something worth reporting at a checkup, with the reassurance that an ordinary nap carried no penalty here, for a consumer health explainer.\n- **Brain stimulation trial improved sleep quality in people with mild Alzheimer's (PMID 42858052):** Promising but not purchasable \u2014 ask a memory clinic about trials, and note the 30 sessions in 15 days that make real-world use a question mark, for a consumer health news item with a memory-care trade sidebar.\n- **Less REM sleep linked to faster buildup of Alzheimer's-related protein in healthy older adults (PMID 42851166):** You can't will yourself into more REM, but evening alcohol, some antidepressants, and untreated apnea all suppress it \u2014 a specific list to review with a doctor, for a consumer brain-health explainer.\n- **Mindfulness therapy added to usual care improved sleep in older adults with depression (PMID 42648548):** Benefits were real at eight weeks and gone by three months, which argues for maintenance groups instead of one-and-done course cycles, for an activities-director trade brief and a consumer mental health explainer.\n- **Telephone counseling by trained lay volunteers eased loneliness \u2014 and improved sleep \u2014 in older adults a year later (PMID 42850158):** Trained volunteers, not clinicians, produced benefits lasting a year \u2014 a staffing model community agencies can actually copy, for a senior-living or community-services trade feature.\n- **In people with depression late in life, poor sleep and the APOE4 gene together track with more Alzheimer's plaque (PMID 42857391):** The takeaway isn't genetic testing \u2014 it's that years of untreated late-life depression shouldn't be waved off as an understandable response to aging, for a consumer mental health explainer or a clinical trade brief.\n- **Too Little or Too Much Sleep Both Track With Weaker Thinking Skills in Older Couples (PMID 42755049):** Screen each partner's sleep individually, since the spousal spillover didn't hold up but the middle-ground pattern did \u2014 relevant to shared rooms in communities, for a consumer health explainer or an assessment-focused trade piece.\n- **The More Hours You Use CPAP After a Stroke, the Better Your Mood May Be (PMID 42800142):** Mood gains kept climbing well past the official four-hour minimum, making mask fit and comfort troubleshooting a concrete job families and night staff can own, for a caregiver-advice column or a rehab trade brief.\n- **Mood and Sleep Problems Cluster Together in Parkinson's \u2014 and Affect Nearly Half of Patients (PMID 42579898):** Withdrawn, restless at night, sleepy by day may mean untreated apnea or restless legs rather than \"the disease progressing,\" for a caregiver column or a consumer neurology piece.\n- **Experimental Pill Dramatically Restored Wakefulness in Narcolepsy Trial (PMID 42636845):** The under-told angle is diagnostic \u2014 overwhelming daytime sleepiness in an older adult often gets misread as depression or a medication effect \u2014 with the honest caveat that trial participants averaged 33, for a consumer health news item.\n- **What Actually Works for Hot Flashes \u2014 and Which Treatments Also Improve Sleep (PMID 42832800):** A buyer's-guide conversation to bring to a clinician \u2014 which options improved sleep in trials, and what the price-versus-value gap looks like, for a women's health or consumer value-of-care section.\n- **Older adults who sleep 8 hours move more \u2014 and grip harder (PMID 42821756):** When someone stops showing up to the walking group, look at their nights before concluding it's motivation, for an activity-program trade brief and a consumer fitness-and-aging piece.\n- **In Parkinson's disease, losing your sense of smell means different things depending on whether you act out dreams (PMID 42840315):** Bed partners and night staff are often the only witnesses to dream enactment \u2014 documenting it, and the injury risk, gives clinicians information the patient cannot supply, for a caregiver column or an overnight-care trade brief.\n- **A brief session of thin-air breathing proved safe \u2014 but didn't improve sleep \u2014 in Parkinson's patients (PMID 42574864):** A consumer-protection piece on what to ask a clinic selling \"altitude training,\" and why a 30-person safety study says nothing about benefit, for a consumer health watchdog column.",
+  "fact_check": {
+    "checked": "2026-10-13",
+    "studies_reviewed": "23",
+    "verdicts_by_pmid": {
+      "42665464": "\u26a0\ufe0f Minor issues",
+      "42748569": "\u2705 Accurate",
+      "42471129": "\u26a0\ufe0f Minor issues",
+      "42837121": "\u26a0\ufe0f Minor issues",
+      "42852585": "\u26a0\ufe0f Minor issues",
+      "42697250": "\u2705 Accurate",
+      "42861684": "\u2705 Accurate",
+      "42839627": "\u2705 Accurate",
+      "42860785": "\u26a0\ufe0f Minor issues",
+      "42648048": "\u2705 Accurate",
+      "42858052": "\u2705 Accurate",
+      "42851166": "\u26a0\ufe0f Minor issues",
+      "42648548": "\u2705 Accurate",
+      "42850158": "\u26a0\ufe0f Minor issues",
+      "42857391": "\u26a0\ufe0f Minor issues",
+      "42755049": "\u26a0\ufe0f Minor issues",
+      "42800142": "\u26a0\ufe0f Minor issues",
+      "42579898": "\u26a0\ufe0f Minor issues",
+      "42636845": "\u26a0\ufe0f Minor issues",
+      "42832800": "\u26a0\ufe0f Minor issues",
+      "42821756": "\u26a0\ufe0f Minor issues",
+      "42840315": "\u2705 Accurate",
+      "42574864": "\u2705 Accurate"
+    },
+    "summary": {
+      "total_issues": "21 (20 Minor, 1 Moderate, 0 Major)",
+      "entries_requiring_revision": "14",
+      "entries_cleared": "9"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Sleep \u2014 October 2026\n**Checked:** 2026-10-13 | **Studies reviewed:** 23\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n### Study 1: Poor Sleep Before Heart Valve Surgery Doubles the Odds of Post-Op Confusion\n**PMID:** 42665464 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline implies causation** \u2014 Severity: Minor\n\n- **As written:** \"Poor Sleep Before Heart Valve Surgery Doubles the Odds of Post-Op Confusion\"\n- **Abstract says:** \"each 10% decrease in presurgical sleep efficiency was associated with more than double the odds of delirium (OR 2.16, 95% CI [1.10, 3.71])\"\n- **Problem:** The headline states a flat causal-sounding effect (\"Doubles the Odds\") for an observational association that was measured per 10% decrease in sleep efficiency, not for \"poor sleep\" as a category. The body text is correctly hedged, but the headline is not.\n- **Suggested fix:** \"Reword to e.g. \"Poor Sleep Before Heart Valve Surgery Linked to Doubled Odds of Post-Op Confusion.\"\"\n\n**Issue B. Unsupported timing detail** \u2014 Severity: Minor\n\n- **As written:** \"measurable sleep problems in the weeks before an operation may flag who is most vulnerable\"\n- **Abstract says:** \"Before surgery, we assessed sleep using self-report, ambulatory polysomnography, and actigraphy.\"\n- **Problem:** The abstract does not state how far in advance of surgery sleep was measured, so \"in the weeks before\" is unverifiable from the abstract alone.\n- **Suggested fix:** \"Say \"sleep problems measured before an operation\" without specifying a time window.\"\n\n### Study 2: Sleep Problems Emerge as a Leading Risk Marker for Bladder Leaks After 50\n**PMID:** 42748569 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 3: Acupuncture and Massage Both Eased Insomnia in Advanced Cancer \u2014 With No Clear Winner\n**PMID:** 42471129 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Timepoint attribution for pain-to-sleep association** \u2014 Severity: Minor\n\n- **As written:** \"people whose pain improved saw bigger sleep gains, and people whose sleep improved saw bigger pain reductions at both 10 and 26 weeks\"\n- **Abstract says:** \"Pain responders had greater improvements in insomnia at week 10 (\u0394 = -2.97; P = 0.0003), although this association was attenuated by week 26. Insomnia responders showed greater reductions in pain at weeks 10 and 26 (both P < 0.0001).\"\n- **Problem:** The sentence can be read as applying \"at both 10 and 26 weeks\" to both directions, but the pain-responder-to-sleep association weakened by week 26.\n- **Suggested fix:** \"Add the qualifier: \"...people whose pain improved saw bigger sleep gains at week 10 (an association that faded by week 26), and people whose sleep improved saw bigger pain reductions at both 10 and 26 weeks.\"\"\n\n**Issue B. Why-it-matters goes beyond tested comparison** \u2014 Severity: Minor\n\n- **As written:** \"and that treating pain and sleep together may be more effective than tackling either alone\"\n- **Abstract says:** \"Sleep and pain showed a bidirectional relationship, supporting integrative approaches targeting symptom clusters.\"\n- **Problem:** The trial did not compare combined versus single-symptom treatment; it observed correlated improvement. The comparative-effectiveness claim is not tested.\n- **Suggested fix:** \"Reframe as \"and that pain and sleep improve together, which the authors say supports addressing them as a symptom cluster.\"\"\n\n### Study 4: Non-Hormonal Hot Flash Drugs Also Improved Sleep in Menopausal Women, Review Finds\n**PMID:** 42837121 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Drug-manufacturer link not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"One author's institution receives research funding from Bayer, which manufactures elinzanetant\"\n- **Abstract says:** \"A.M.K.'s employer, The University of Florida College of Medicine, Jacksonville, receives research funding from Bayer. His institution also received past research funding from Mylan. He has an ongoing financial relationship with Estetra.\"\n- **Problem:** The abstract does not state that Bayer makes elinzanetant; that connection is unverifiable from the abstract only (though the funding disclosure itself is correctly reported).\n- **Suggested fix:** \"Either drop the manufacturer clause or attribute it to an outside source.\"\n\n**Issue B. Population vs stated audience** \u2014 Severity: Minor\n\n- **As written:** \"**To older adults and seniors:** If night sweats are wrecking your sleep and hormone therapy isn't an option for you, ask your clinician about neurokinin receptor antagonists.\"\n- **Abstract says:** \"Eligible studies enrolled perimenopausal or postmenopausal women with moderate to severe VMS\"\n- **Problem:** The pooled trials enrolled perimenopausal and postmenopausal women, many of whom are in midlife rather than older adulthood; the caveats note symptom severity but not that the evidence base is not specific to older adults.\n- **Suggested fix:** \"Add to Caveats that participants were perimenopausal/postmenopausal women with moderate-to-severe VMS and that age-specific data for older women are not reported.\"\n\n### Study 5: Sedative Prescriptions After Hip Fracture Have Plummeted in Ontario \u2014 But Opioids Haven't\n**PMID:** 42852585 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Survivorship inclusion criterion misstated** \u2014 Severity: Moderate\n\n- **As written:** \"the cohort excluded people who died within roughly three months, which may understate risk\"\n- **Abstract says:** \"The cohort included individuals aged 66 years and older ... admitted for an acute hip fracture between April 1, 2008, and March 31, 2024, and who survived for at least 275 days in the following year.\"\n- **Problem:** Patients had to survive at least 275 days (about nine months) of the following year, so anyone dying before then was excluded \u2014 a much larger survivorship restriction than \"roughly three months,\" and the digest therefore understates the selection bias it is trying to flag.\n- **Suggested fix:** \"Change to \"the cohort was limited to people who survived at least 275 days (about nine months) after the fracture, excluding the sickest patients.\"\"\n\n### Study 6: Acupuncture for Stubborn Insomnia: Six Weeks Beat Four, But Eight Added Little\n**PMID:** 42697250 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 7: Why Short Sleep May Be Riskier for Some Brains Than Others\n**PMID:** 42861684 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 8: A Decade After Parkinson's Diagnosis: Sleep, Mood, and Thinking Symptoms Steadily Multiply\n**PMID:** 42839627 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 9: Opening a Window: An Everyday Habit Linked to Better Mood in Older Adults\n**PMID:** 42860785 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Sleep duration described as sleep quality** \u2014 Severity: Minor\n\n- **As written:** \"this large study found more frequent window ventilation went along with better reported sleep and fewer depressive symptoms\"\n- **Abstract says:** \"Serial mediation models were applied to investigate if self-reported total sleep duration and psychological resilience mediated the association between window ventilation frequency and depressive symptoms.\"\n- **Problem:** The study measured self-reported total sleep duration, not sleep quality; \"better reported sleep\" implies a quality measure that was not assessed.\n- **Suggested fix:** \"Change to \"went along with longer self-reported sleep duration and fewer depressive symptoms.\"\"\n\n### Study 10: Too little or too much: both ends of the sleep spectrum tied to earlier death in large Chinese cohort\n**PMID:** 42648048 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 11: Brain stimulation trial improved sleep quality in people with mild Alzheimer's\n**PMID:** 42858052 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 12: Less REM sleep linked to faster buildup of Alzheimer's-related protein in healthy older adults\n**PMID:** 42851166 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Exploratory subgroup presented as a main result** \u2014 Severity: Minor\n\n- **As written:** \"and the link was strongest among those already amyloid-positive\"\n- **Abstract says:** \"In exploratory analyses, the association between low REM sleep percentage and faster decline in A\u03b242/40 ratio was stronger in the amyloid-positive group.\"\n- **Problem:** The digest reports the amyloid-positive subgroup finding as settled without noting the authors flagged it as exploratory; the caveats section also omits this.\n- **Suggested fix:** \"Add 'in exploratory analyses' to the body sentence or note it among the caveats.\"\n\n**Issue B. Null longitudinal SWA result not stated in abstract** \u2014 Severity: Minor\n\n- **As written:** \"Slow-wave activity in frontal regions tracked with amyloid levels at a single point in time but not with change over time.\"\n- **Abstract says:** \"Frontal slow-wave activity (SWA) was inversely associated with plasma A\u03b242/40 at cross-section ... In comparison, low rapid eye movement (REM) sleep percentage was associated with a large longitudinal decline in annualized blood-based A\u03b242/40.\"\n- **Problem:** The abstract contrasts cross-sectional SWA with longitudinal REM but never explicitly reports a null longitudinal SWA result; this is an inference. Unverifiable from abstract only.\n- **Suggested fix:** \"Soften to 'frontal slow-wave activity was related to amyloid levels at a single point in time, while REM percentage was what predicted change over time.'\"\n\n### Study 13: Mindfulness therapy added to usual care improved sleep in older adults with depression\n**PMID:** 42648548 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 14: Telephone counseling by trained lay volunteers eased loneliness \u2014 and improved sleep \u2014 in older adults a year later\n**PMID:** 42850158 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. 'Volunteers' not supported by abstract** \u2014 Severity: Minor\n\n- **As written:** \"trained lay volunteers, not licensed therapists, delivered these sessions \u2014 a realistic staffing model for programs where professional capacity is scarce\"\n- **Abstract says:** \"Lay cousellor-delivered wisdom-enhancement narrative-therapy and empathy-focused interventions to reduce loneliness among older adults: A three-arm randomized controlled trial\"\n- **Problem:** The abstract says the interventions were delivered by lay counsellors; whether they were unpaid volunteers is not stated. Unverifiable from abstract only.\n- **Suggested fix:** \"Use 'trained lay counsellors' rather than 'volunteers.'\"\n\n### Study 15: In people with depression late in life, poor sleep and the APOE4 gene together track with more Alzheimer's plaque\n**PMID:** 42857391 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Exploratory analysis not labelled** \u2014 Severity: Minor\n\n- **As written:** \"this study also found longer periods of untreated depression tracked with more amyloid in \u03b54 carriers\"\n- **Abstract says:** \"Exploratory analyses demonstrated APOE \u025b4 also moderated the effect of lifetime duration of untreated depression on increased A\u03b2.\"\n- **Problem:** The digest presents an explicitly exploratory secondary finding alongside the main results without noting its status, in a story angle aimed directly at patients.\n- **Suggested fix:** \"Add 'in an exploratory analysis' before the claim.\"\n\n### Study 16: Too Little or Too Much Sleep Both Track With Weaker Thinking Skills in Older Couples\n**PMID:** 42755049 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal phrasing for an observational association** \u2014 Severity: Minor\n\n- **As written:** \"this study found that a person's own sleep, not their spouse's, drove the cognitive association\"\n- **Abstract says:** \"Own nocturnal sleep duration shows a robust, symmetric inverted U-shaped association with cognitive function in both spouses. The possible husband-to-wife partner effect did not survive correction for multiple testing...\"\n- **Problem:** 'Drove' implies causation in a longitudinal observational dyadic analysis; the abstract describes associations only.\n- **Suggested fix:** \"Rewrite as 'a person's own sleep, not their spouse's, was what tracked with cognitive scores.'\"\n\n### Study 17: The More Hours You Use CPAP After a Stroke, the Better Your Mood May Be\n**PMID:** 42800142 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. 'Well above' the adherence threshold overstated** \u2014 Severity: Minor\n\n- **As written:** \"with a meaningful difference emerging at roughly 31 hours of use per week \u2014 well above the conventional four-hours-a-night threshold\"\n- **Abstract says:** \"Model-based predictions indicated that the estimated change in depressive symptoms became statistically different from no change at approximately 31 h of CPAP use per week ... suggesting benefits beyond a conventional CPAP adherence threshold.\"\n- **Problem:** 31 hours per week is only modestly above 4 hours every night (28 hours); 'well above' exaggerates the gap, though the abstract does say 'beyond a conventional threshold.'\n- **Suggested fix:** \"Change to 'above the conventional four-hours-a-night threshold.'\"\n\n**Issue B. Disclosures attributed to 'several authors'** \u2014 Severity: Minor\n\n- **As written:** \"several authors report extensive pharmaceutical industry consulting and equipment support (Takeda, Jazz, Eisai, Zoll Itamar and others)\"\n- **Abstract says:** \"Dr. Boulos reports consulting fees and honoraria from Sentrex, Axsome, Takeda, Jazz Pharmaceuticals, Paladin Labs, Eisai, Precision AQ, Lundbeck; and receipt of sleep equipment from Zoll Itamar and CGX ... All other authors, declare that they have no known competing financial interests.\"\n- **Problem:** Only the senior author reports industry relationships; all other authors declare none.\n- **Suggested fix:** \"Change to 'the senior author reports extensive industry consulting and equipment support.'\"\n\n### Study 18: Mood and Sleep Problems Cluster Together in Parkinson's \u2014 and Affect Nearly Half of Patients\n**PMID:** 42579898 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Odds ratios described as 'times more likely'** \u2014 Severity: Minor\n\n- **As written:** \"restless legs was four times more likely, sleep apnea more than twice as likely\"\n- **Abstract says:** \"sleep apnea (OR 2.58, 95% CI 1.47-4.92), and restless leg syndrome (RLS; OR 4.12, 95% CI 1.81-12.1) were more common in patients with Parkinson's than in controls\"\n- **Problem:** These are odds ratios, which overstate relative risk, and the RLS estimate has a very wide confidence interval (1.81-12.1) that the digest does not convey.\n- **Suggested fix:** \"Say 'about four times the odds (though with a wide confidence interval)' and 'roughly 2.5 times the odds.'\"\n\n### Study 19: Experimental Pill Dramatically Restored Wakefulness in Narcolepsy Trial\n**PMID:** 42636845 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Hype in headline** \u2014 Severity: Minor\n\n- **As written:** \"Experimental Pill Dramatically Restored Wakefulness in Narcolepsy Trial\"\n- **Abstract says:** \"In this phase 2 trial, once-daily oral alixorexton provided clinically meaningful improvements at 6 weeks for participants with narcolepsy type 1, including in wakefulness, excessive daytime sleepiness, and cataplexy.\"\n- **Problem:** 'Dramatically restored' is stronger than the abstract's 'clinically meaningful improvements' for a six-week phase 2 trial, though the effect size is large.\n- **Suggested fix:** \"Soften to 'Experimental Pill Sharply Improved Wakefulness in Early Narcolepsy Trial.'\"\n\n**Issue B. 'Near the test's ceiling' not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"participants on the drug stayed awake 22 to 26 minutes longer than placebo \u2014 near the test's ceiling\"\n- **Abstract says:** \"the observed MSL on the MWT was 2\u00b73 min (SD 2\u00b77) for placebo, 24\u00b70 min (8\u00b77) for alixorexton 4 mg, 25\u00b79 min (9\u00b74) for 6 mg, and 28\u00b72 min (11\u00b74) for 8 mg\"\n- **Problem:** The abstract does not report the MWT protocol's maximum duration, so the claim that results approached the ceiling cannot be checked. Unverifiable from abstract only.\n- **Suggested fix:** \"Drop the ceiling phrase or state the observed mean sleep latencies (24-28 minutes versus 2.3 on placebo).\"\n\n### Study 20: What Actually Works for Hot Flashes \u2014 and Which Treatments Also Improve Sleep\n**PMID:** 42832800 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Comparative-effectiveness claim not supported** \u2014 Severity: Minor\n\n- **As written:** \"hormone therapy remains the most effective for symptom severity, but several non-hormonal drugs improved sleep quality too\"\n- **Abstract says:** \"Compared with placebo, estrogens with or without progestogens, conjugated estrogen with bazedoxifene (CE/BZA), and oxybutynin reduced VMS frequency and severity ... Little comparative information exists.\"\n- **Problem:** The review was placebo-controlled with little head-to-head data, and oxybutynin and CE/BZA also reduced severity, so ranking estrogens as 'the most effective' is not established by this evidence.\n- **Suggested fix:** \"Rewrite as 'hormone therapy was among the few options that reduced symptom severity as well as frequency, though the review found little direct head-to-head comparison.'\"\n\n### Study 21: Older adults who sleep 8 hours move more \u2014 and grip harder\n**PMID:** 42821756 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"per night\" vs \"per day\"** \u2014 Severity: Minor\n\n- **As written:** \"Those sleeping 8 or more hours a night logged significantly more moderate-intensity, vigorous-intensity, and combined moderate-to-vigorous activity than those sleeping less, in both men and women.\"\n- **Abstract says:** \"...were significantly higher among participants with \u22658 hours of sleep per day than among those with <8 hours.\"\n- **Problem:** The abstract's exposure is total sleep per day (which in KNHANES can include napping), not nighttime sleep alone; the digest narrows it to \"a night.\"\n- **Suggested fix:** \"Change to \"Those sleeping 8 or more hours a day...\" and keep the headline framing as daily sleep duration.\"\n\n**Issue B. Causal speculation from cross-sectional data** \u2014 Severity: Minor\n\n- **As written:** \"so a short night may be both a cause and a symptom of a less active day\"\n- **Abstract says:** \"Cross-sectional analysis of a single survey wave; results are reported as significant differences, odds ratios, and a correlation (r = .177), with no temporal or causal claim.\"\n- **Problem:** Introduces cause-and-effect speculation that the single-survey design cannot support, even though it is hedged and the caveat flags the limitation.\n- **Suggested fix:** \"Reword to \"so short sleep and a less active day tend to occur together, though this study cannot say which comes first.\"\"\n\n### Study 22: In Parkinson's disease, losing your sense of smell means different things depending on whether you act out dreams\n**PMID:** 42840315 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 23: A brief session of thin-air breathing proved safe \u2014 but didn't improve sleep \u2014 in Parkinson's patients\n**PMID:** 42574864 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Poor Sleep Before Heart Valve Surgery Doubles the Odds of Post-Op Confusion | \u26a0\ufe0f Minor issues | All numbers (N=100, mean age 66.9, 64% male, 27 delirium cases, OR 2.16 / 2.59 / 3.4) match the abstract, and the caveats appropriately flag the observational design and the co-author's consulting disclosures. Headline wording and one timing detail are slightly loose. |\n| 2 | Sleep Problems Emerge as a Leading Risk Marker for Bladder Leaks After 50 | \u2705 Accurate | N (11,126), 8-10 year follow-up, three cohorts, incidence range 19.7%-28.6%, sleep HR 1.43 (43% higher), physical activity HR 0.78 (22% lower), BMI HR 1.02, and the mediation finding all match. Framing stays associational and the caveats cover self-report, causation, and the education anomaly. |\n| 3 | Acupuncture and Massage Both Eased Insomnia in Advanced Cancer \u2014 With No Clear Winner | \u26a0\ufe0f Minor issues | Sample (234 of 300), ISI changes (-3.86 vs -3.83), responder rates (35.1% vs 33.3%) and the bidirectional sleep-pain finding are accurate; two phrasings slightly overreach. |\n| 4 | Non-Hormonal Hot Flash Drugs Also Improved Sleep in Menopausal Women, Review Finds | \u26a0\ufe0f Minor issues | Seven trials, 3,184 women, improvements at 4/12/24 weeks, elinzanetant > fezolinetant, low risk of bias with GRADE certainty downgraded to low for heterogeneity \u2014 all match. Industry disclosure (Bayer, Estetra) is included. Two small framing points. |\n| 5 | Sedative Prescriptions After Hip Fracture Have Plummeted in Ontario \u2014 But Opioids Haven't | \u26a0\ufe0f Minor issues | All headline statistics (114,055 patients; BZDs 33.7%\u219213.3%; opioids peak 55.8% in 2015 to 44.6% in 2024; concurrent use 3.7%\u21921%) match exactly. One caveat misstates the cohort's survival requirement. |\n| 6 | Acupuncture for Stubborn Insomnia: Six Weeks Beat Four, But Eight Added Little | \u2705 Accurate | N=201, 78.1% women, three arms (4/6/8 weeks, 3 sessions weekly, same acupoints), adjusted differences of -2.7 and -2.8 points vs 4 weeks, 0.0-point difference for 8 vs 6 weeks, no serious adverse events, and 3-month follow-up all match. Caveats correctly note the absence of a sham arm and the Chinese, mostly female sample. |\n| 7 | Why Short Sleep May Be Riskier for Some Brains Than Others | \u2705 Accurate | N=735 deeply phenotyped cohort, PSQI, WMH-only vs WMH+ classification, the MCI+V and AD amplification finding, and the exploratory AD cognition reversal are all reported correctly, with causation and self-report limits flagged. The digest omits the subjective cognitive impairment subgroup when describing the cohort, which is a trivial simplification. |\n| 8 | A Decade After Parkinson's Diagnosis: Sleep, Mood, and Thinking Symptoms Steadily Multiply | \u2705 Accurate | 846 dual-biomarker-positive PD participants, 282 controls, nine neuropsychiatric symptoms, eight rising with anxiety declining, psychosis and apathy showing the largest odds increases, mean symptom count 1.39\u21922.39, and the stable low-/high-burden clusters at diagnosis, 5 and 10 years all match the abstract. Framing stays descriptive. |\n| 9 | Opening a Window: An Everyday Habit Linked to Better Mood in Older Adults | \u26a0\ufe0f Minor issues | N=11,374, CLHLS 2018, the inverse ventilation-depression association, the spring-high/winter-low seasonal pattern, and the serial mediation through self-reported sleep duration and psychological resilience are all accurate, and causation is explicitly disclaimed. One wording slip conflates sleep duration with sleep quality. |\n| 10 | Too little or too much: both ends of the sleep spectrum tied to earlier death in large Chinese cohort | \u2705 Accurate | N=16,375 from CHARLS, HR 1.904 for \u22659 hours (\"roughly double\") and 2.537 for <4 hours (\"about 2.5 times\") versus 7-8 hours, the parallel U-shape for nighttime sleep, and the null findings for napping and sleep disturbance all match. Observational framing and self-report limits are flagged. |\n| 11 | Brain stimulation trial improved sleep quality in people with mild Alzheimer's | \u2705 Accurate | Design, dosing schedule, N analyzed and the -2.34 PSQI effect all match the abstract; secondary/exploratory status of mood and QoL outcomes is correctly represented. |\n| 12 | Less REM sleep linked to faster buildup of Alzheimer's-related protein in healthy older adults | \u26a0\ufe0f Minor issues | Sample, age range, 2.6-year interval and direction of findings are correct; the amyloid-positive subgroup result was labelled exploratory in the abstract but not in the digest. |\n| 13 | Mindfulness therapy added to usual care improved sleep in older adults with depression | \u2705 Accurate | N=60, 8-week MBCT+TAU vs TAU, -3.80 PSQI between-group difference, 0.94 h more stable sleep, and loss of significance at 3 months all match the abstract; caveats correctly note secondary-analysis status. |\n| 14 | Telephone counseling by trained lay volunteers eased loneliness \u2014 and improved sleep \u2014 in older adults a year later | \u26a0\ufe0f Minor issues | Design, N=287, age 76, 71.8% female, DJGL vs UCLA scale discrepancy and the 12-month sleep-quality result are all accurate; the characterization of the counsellors as unpaid volunteers goes beyond the abstract. |\n| 15 | In people with depression late in life, poor sleep and the APOE4 gene together track with more Alzheimer's plaque | \u26a0\ufe0f Minor issues | N=110, age range, sex split, null main effects and the additive APOE \u03b54-moderated associations are all correctly reported; the untreated-depression-duration result was exploratory and is not labelled as such. |\n| 16 | Too Little or Too Much Sleep Both Track With Weaker Thinking Skills in Older Couples | \u26a0\ufe0f Minor issues | Sample (4,260 couples/8,520 individuals, CHARLS waves 1-4, 2011-2018), inverted U-shaped actor effects, failed FDR correction for the husband-to-wife effect, and the weak napping findings all match; one story-angle sentence uses causal phrasing. |\n| 17 | The More Hours You Use CPAP After a Stroke, the Better Your Mood May Be | \u26a0\ufe0f Minor issues | N=112, 32.1% adherent, the per-hour association, the ~31 h/week inflection and 3/3 recurrences in the non-adherent group all match; two small overstatements in framing and disclosure attribution. |\n| 18 | Mood and Sleep Problems Cluster Together in Parkinson's \u2014 and Affect Nearly Half of Patients | \u26a0\ufe0f Minor issues | 933 cases vs 291 controls, 64 health features, the 43% vs 21% figures and the mood-sleep cluster are all accurate; odds ratios are translated as plain likelihood. |\n| 19 | Experimental Pill Dramatically Restored Wakefulness in Narcolepsy Trial | \u26a0\ufe0f Minor issues | Trial design, 46 sites, N=92, dose arms, 22-26 minute placebo-corrected MWT gains, adverse-event rates, Alkermes funding and mean age 33.5 all match; headline wording and the 'ceiling' claim are slightly overreaching. |\n| 20 | What Actually Works for Hot Flashes \u2014 and Which Treatments Also Improve Sleep | \u26a0\ufe0f Minor issues | The 90 trials, \u22658-week criterion, drug-by-outcome breakdown, sleep-quality findings, economic-value ratings and ACP funding are all accurately reported; one comparative claim goes beyond the evidence the review describes. |\n| 21 | Older adults who sleep 8 hours move more \u2014 and grip harder | \u26a0\ufe0f Minor issues | Sample, statistics, and correlation all match the abstract; one small wording slip (sleep measured per day, not per night) and a lightly speculative causal aside in \"Why it matters.\" |\n| 22 | In Parkinson's disease, losing your sense of smell means different things depending on whether you act out dreams | \u2705 Accurate | Sample size, prevalence figures, MoCA effect size, and the subgroup-specific association all match the abstract; borderline significance and the 'probable' RBD definition are properly flagged in Caveats. |\n| 23 | A brief session of thin-air breathing proved safe \u2014 but didn't improve sleep \u2014 in Parkinson's patients | \u2705 Accurate | Design, sample, protocol details, biomarker direction, and the 24-hour drop in total sleep time all match the abstract; the preliminary, single-session nature is clearly flagged. |\n\n**Total issues:** 21 (20 Minor, 1 Moderate, 0 Major)\n**Entries requiring revision:** 14\n**Entries cleared:** 9\n"
+  }
+}

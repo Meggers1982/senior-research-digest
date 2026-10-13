@@ -2,7 +2,7 @@
   "source_id": "senior-research",
   "source_label": "Senior Living \u2014 New This Week",
   "last_updated": "2026-10-13",
-  "total_studies": 507,
+  "total_studies": 525,
   "studies": [
     {
       "pmid": "42862582",
@@ -738,6 +738,582 @@
       ],
       "run_date": "2026-10-13",
       "category": "Polypharmacy",
+      "status": "new"
+    },
+    {
+      "pmid": "42861868",
+      "headline": "Your doctor's records don't know you're a caregiver \u2014 and researchers are building workarounds",
+      "journal": "J Am Geriatr Soc",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1111/jgs.70783",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Researchers at an urban academic medical center serving a predominantly Black population tested two ways of finding dementia caregivers inside the electronic health record, since caregiving status is almost never documented in routine care. They queried the clinical research data warehouse for patients with dementia and the emergency contacts listed in their charts, then matched those contacts against the health system's own patient list, and built a dashboard flagging when either person had an appointment. From a list of 8,185 patients with dementia, they enrolled their target of 344 caregivers in 27 months, with 66% of eligible caregivers identified through the data warehouse agreeing to participate \u2014 and 17% recruited while sitting in a waiting room for their own medical visit, most often internal medicine or ophthalmology.",
+      "why_it_matters": "Millions of people caring for a relative with dementia are invisible to the health system that treats them, which means they're also invisible to the support programs, respite services and studies designed to help them.",
+      "caveats": "Single-center study at one urban academic medical center; the approach describes recruitment feasibility, not caregiver outcomes; the fee-based data warehouse query may not be available or affordable at smaller organizations; findings from a predominantly Black urban population may not generalize to other settings.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 6,
+      "relevance_score_reason": "Worth a look \u00b7 cohort \u00b7 score 65/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Your doctor's records don't know you're a caregiver \u2014 and researchers are building workarounds",
+          "hook": "If you're caring for a spouse, parent or friend with dementia, nothing in your own medical chart says so unless you say it out loud \u2014 consider telling your primary care doctor at your next visit and asking whether being flagged as a caregiver opens any doors to support services or research opportunities at that health system.",
+          "pitch_angle": "Millions of people caring for a relative with dementia are invisible to the health system that treats them, which means they're also invisible to the support programs, respite services and studies designed to help them."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Your doctor's records don't know you're a caregiver \u2014 and researchers are building workarounds",
+          "hook": "For senior living and health system staff: this is a practical blueprint showing that the 'emergency contact' field is an underused map of the caregiving network already in your data, and that caregivers can be reached at their own appointments rather than only through the person they care for.",
+          "pitch_angle": "Single-center study at one urban academic medical center; the approach describes recruitment feasibility, not caregiver outcomes; the fee-based data warehouse query may not be available or affordable at smaller organizations; findings from a predominantly Black urban population may not generalize to other settings."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Caregiving",
+      "status": "new"
+    },
+    {
+      "pmid": "42864517",
+      "headline": "A 1,250-brain study finds chemical 'switches' on DNA help explain how the APOE gene drives Alzheimer's",
+      "journal": "Nat Aging",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1038/s43587-026-01243-7",
+      "groundbreaking": "",
+      "media_coverage": "Already covered by Nature",
+      "summary": "Scientists analyzed DNA methylation \u2014 reversible chemical tags that turn genes up or down without changing the genetic code itself \u2014 across roughly 930,000 sites in prefrontal cortex tissue from 1,250 donated brains in the Rush Alzheimer's Disease cohorts. They found 107 methylation sites linked to Alzheimer's diagnosis, amyloid plaques or tau tangles, with 38 confirmed in a separate group of 139 brains. Notably, methylation accounted for about 9% of the effect of the APOE risk gene on Alzheimer's diagnosis, suggesting that part of inherited risk operates through these modifiable-in-principle chemical marks.",
+      "why_it_matters": "It is among the largest and most detailed looks yet at the epigenetics of Alzheimer's, and it chips away at the idea that an APOE result is pure destiny by identifying biological steps between the gene and the disease.",
+      "caveats": "Postmortem brain tissue only, so associations cannot establish cause or direction; participants come from research cohorts of older volunteers who agree to brain donation and may not represent the general population; findings are laboratory-stage with no current clinical application; replication cohort was small (n=139).",
+      "fact_check_note": "",
+      "relevance_score": 5,
+      "relevance_score_reason": "Background \u00b7 cohort \u00b7 score 52/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "A 1,250-brain study finds chemical 'switches' on DNA help explain how the APOE gene drives Alzheimer's",
+          "hook": "If you have had genetic testing and know your APOE status, this is a reason to resist fatalism \u2014 but it changes nothing you can do today, so direct your energy toward the risk factors with actual evidence behind them, like blood pressure, hearing, physical activity and sleep, and ask your doctor what a genetic result does and doesn't predict.",
+          "pitch_angle": "It is among the largest and most detailed looks yet at the epigenetics of Alzheimer's, and it chips away at the idea that an APOE result is pure destiny by identifying biological steps between the gene and the disease."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "A 1,250-brain study finds chemical 'switches' on DNA help explain how the APOE gene drives Alzheimer's",
+          "hook": "For families and clinicians fielding questions about at-home genetic tests: this research is a useful explanation of why APOE raises risk rather than determining outcome, and a reminder that no treatment based on these findings exists yet.",
+          "pitch_angle": "Postmortem brain tissue only, so associations cannot establish cause or direction; participants come from research cohorts of older volunteers who agree to brain donation and may not represent the general population; findings are laboratory-stage with no current clinical application; replication cohort was small (n=139)."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Dementia",
+      "status": "new"
+    },
+    {
+      "pmid": "42864195",
+      "headline": "Laser therapy added to back exercises did nothing extra \u2014 a year of follow-up confirms it",
+      "journal": "J Physiother",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1016/j.jphys.2026.09.005",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "In a rigorously blinded randomized trial, 148 adults with chronic non-specific low back pain lasting three months or more received 12 sessions over six weeks of either real photobiomodulation (low-level laser/light therapy) or a sham version, both on top of the same motor control exercise program. Participants, therapists and assessors were all blinded, and outcomes were tracked out to 12 months. The added light therapy produced negligible differences in pain (0.4 points on a 10-point scale), disability and an inflammatory blood marker \u2014 differences too small to matter to patients \u2014 at every time point.",
+      "why_it_matters": "Light and laser devices are heavily marketed for back pain in clinics and direct to consumers, and this trial indicates the money is better spent on the exercise component that actually did the work.",
+      "caveats": "Participants were aged 18 to 65, so results cannot be assumed to apply to adults over 65 with chronic back pain; the trial tested one specific device and dosing protocol; it addresses photobiomodulation only as an add-on to exercise, not as a standalone therapy.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 7,
+      "relevance_score_reason": "Worth a look \u00b7 randomized trial \u00b7 score 67/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Laser therapy added to back exercises did nothing extra \u2014 a year of follow-up confirms it",
+          "hook": "If a clinic offers to add laser or light therapy to your back pain treatment for an extra fee, it is fair to ask what evidence supports the add-on \u2014 this trial found it added essentially nothing beyond the exercise program itself, which remains the part worth showing up for.",
+          "pitch_angle": "Light and laser devices are heavily marketed for back pain in clinics and direct to consumers, and this trial indicates the money is better spent on the exercise component that actually did the work."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Laser therapy added to back exercises did nothing extra \u2014 a year of follow-up confirms it",
+          "hook": "For rehab providers and senior living wellness directors evaluating equipment purchases: a well-blinded trial with 12-month follow-up found no benefit from photobiomodulation as an adjunct, which argues for investing staff time in supervised exercise instead.",
+          "pitch_angle": "Participants were aged 18 to 65, so results cannot be assumed to apply to adults over 65 with chronic back pain; the trial tested one specific device and dosing protocol; it addresses photobiomodulation only as an add-on to exercise, not as a standalone therapy."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "General Aging",
+      "status": "new"
+    },
+    {
+      "pmid": "42865788",
+      "headline": "Brain wave 'complexity' fades as memory declines \u2014 but it's not yet a diagnostic test",
+      "journal": "Alzheimers Dement (N Y)",
+      "pubdate": "2026 Oct 11",
+      "doi": "10.1002/trc2.70284",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Italian researchers recorded resting electroencephalograms (EEG) from 269 older participants \u2014 109 healthy older adults, 75 with mild cognitive impairment, and 85 with Alzheimer's disease \u2014 and measured how irregular or 'complex' the brain's electrical signals were using a metric called approximate entropy. Overall signal complexity fell progressively from healthy aging to mild cognitive impairment to Alzheimer's, especially over central brain regions, and the degree of complexity tracked with scores on cognitive and functional tests. A machine-learning classifier built on these features sorted people into the three groups with 66.6% accuracy, correctly identifying 78.9% of healthy participants but only 49.3% of those with mild cognitive impairment.",
+      "why_it_matters": "EEG is inexpensive, noninvasive, and widely available compared with PET scans or spinal taps, so signals that track cognitive decline are worth watching \u2014 but this analysis also shows how far such tools remain from reliably flagging the earliest, most treatable stage.",
+      "caveats": "Cross-sectional observational design \u2014 it cannot show that EEG changes predict future decline in an individual; no longitudinal follow-up; diagnostic accuracy was modest, particularly for mild cognitive impairment; participants came from a limited number of Italian research centers and may not represent the broader older population.",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Worth a look \u00b7 cohort \u00b7 score 67/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Brain wave 'complexity' fades as memory declines \u2014 but it's not yet a diagnostic test",
+          "hook": "If you hear that a simple brain wave test can detect early Alzheimer's, treat the claim with healthy skepticism: in this study the method missed about half of the people with mild cognitive impairment. It is reasonable to ask your doctor what any proposed test can and cannot rule out before you pay for it.",
+          "pitch_angle": "EEG is inexpensive, noninvasive, and widely available compared with PET scans or spinal taps, so signals that track cognitive decline are worth watching \u2014 but this analysis also shows how far such tools remain from reliably flagging the earliest, most treatable stage."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Brain wave 'complexity' fades as memory declines \u2014 but it's not yet a diagnostic test",
+          "hook": "For care professionals fielding questions about new diagnostic technologies, this is a useful concrete example of the gap between a statistically significant group difference and a test accurate enough to use on an individual resident.",
+          "pitch_angle": "Cross-sectional observational design \u2014 it cannot show that EEG changes predict future decline in an individual; no longitudinal follow-up; diagnostic accuracy was modest, particularly for mild cognitive impairment; participants came from a limited number of Italian research centers and may not represent the broader older population."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Dementia",
+      "status": "new"
+    },
+    {
+      "pmid": "42862549",
+      "headline": "Who still qualifies for a heart transplant \u2014 and the warning signs that should trigger a referral",
+      "journal": "JAMA",
+      "pubdate": "2026 Oct 12",
+      "doi": "10.1001/jama.2026.17622",
+      "groundbreaking": "",
+      "media_coverage": "Already covered by Vanderbilt Health News, VCU Health",
+      "summary": "A Vanderbilt team reviewed current evidence on heart transplant for advanced heart failure, which affects roughly 4% to 5% of the more than 6 million US adults with heart failure. They describe the 'I NEED HELP' checklist clinicians use to flag patients who should be referred early \u2014 intravenous inotropes, persistent class III-IV symptoms, end-organ dysfunction, low ejection fraction, defibrillator shocks, repeat hospitalizations, worsening edema or escalating diuretics, and low blood pressure \u2014 with each additional criterion raising the risk of death or heart failure hospitalization (adjusted hazard ratio 1.19). About 4600 transplants are done annually in the US, with survival of 91.5% at one year and 80.3% at five years; chronic coronary narrowing of the new heart affects 29% by five years and nearly half by ten.",
+      "why_it_matters": "Many people with worsening heart failure are referred too late to be evaluated, and the review spells out the specific, recognizable red flags \u2014 plus the realities of lifelong immunosuppression, rejection monitoring, and infection and cancer risk afterward.",
+      "caveats": "Narrative review rather than new original research; transplant recipients skew younger than the typical senior living population, and many older adults with advanced heart failure will be excluded by age-related frailty or comorbidity, so the practical takeaway for most readers is earlier specialist referral rather than transplant itself.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 4,
+      "relevance_score_reason": "Background \u00b7 unspecified \u00b7 score 43/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Who still qualifies for a heart transplant \u2014 and the warning signs that should trigger a referral",
+          "hook": "If your heart failure is landing you in the hospital repeatedly, requiring ever-higher diuretic doses, or setting off your defibrillator, ask your cardiologist directly whether it is time for an advanced heart failure referral \u2014 early evaluation keeps more options open, including those short of transplant.",
+          "pitch_angle": "Many people with worsening heart failure are referred too late to be evaluated, and the review spells out the specific, recognizable red flags \u2014 plus the realities of lifelong immunosuppression, rejection monitoring, and infection and cancer risk afterward."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Who still qualifies for a heart transplant \u2014 and the warning signs that should trigger a referral",
+          "hook": "Note what the transplant centers screen for: 'inadequate social support' and severe frailty are listed among contraindications. Families and senior living staff are part of that assessment, and documenting a reliable caregiving plan can affect whether a patient is considered a candidate at all.",
+          "pitch_angle": "Narrative review rather than new original research; transplant recipients skew younger than the typical senior living population, and many older adults with advanced heart failure will be excluded by age-related frailty or comorbidity, so the practical takeaway for most readers is earlier specialist referral rather than transplant itself."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Cardiovascular Disease",
+      "status": "new"
+    },
+    {
+      "pmid": "42860747",
+      "headline": "Older Black women are missing from Alzheimer's blood test research \u2014 a community board is trying to change that",
+      "journal": "J Am Geriatr Soc",
+      "pubdate": "2026 Oct 11",
+      "doi": "10.1111/jgs.70721",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Researchers behind the Black Women: Inflammation and Tau Study (BWITS) describe how they built and sustained a Community Advisory Board of Black/African American community members in San Diego and Los Angeles to shape a dementia biomarker study. The board reviewed and revised research protocols, recruitment approaches, and the cultural framing of the work. The authors argue that as blood-based Alzheimer's biomarkers enter routine use, their accuracy in groups historically excluded from research cannot be assumed.",
+      "why_it_matters": "Blood tests for Alzheimer's are being rolled out quickly, and the reference ranges behind them were largely established in predominantly white research cohorts \u2014 a gap that matters most for the group with the highest dementia burden.",
+      "caveats": "This is a descriptive program report, not a study with outcome data \u2014 there are no results showing the advisory board improved enrollment, retention, or biomarker validity; single research program; findings about the diagnostic accuracy of blood biomarkers in Black women are a stated concern, not a measured result here.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 6,
+      "relevance_score_reason": "Worth a look \u00b7 cohort \u00b7 score 62/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Older Black women are missing from Alzheimer's blood test research \u2014 a community board is trying to change that",
+          "hook": "If a clinician offers you a blood test for Alzheimer's, it is fair to ask how well it has been validated in people of your background, and what a borderline result would actually change about your care.",
+          "pitch_angle": "Blood tests for Alzheimer's are being rolled out quickly, and the reference ranges behind them were largely established in predominantly white research cohorts \u2014 a gap that matters most for the group with the highest dementia burden."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Older Black women are missing from Alzheimer's blood test research \u2014 a community board is trying to change that",
+          "hook": "For organizations trying to recruit underrepresented older adults into research or health programs, this is a working template: a standing community board with real authority over protocols, not a one-time focus group.",
+          "pitch_angle": "This is a descriptive program report, not a study with outcome data \u2014 there are no results showing the advisory board improved enrollment, retention, or biomarker validity; single research program; findings about the diagnostic accuracy of blood biomarkers in Black women are a stated concern, not a measured result here."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Dementia",
+      "status": "new"
+    },
+    {
+      "pmid": "42857419",
+      "headline": "New Alzheimer's drugs clear amyloid unevenly across the brain \u2014 and earlier patients clear more",
+      "journal": "Alzheimers Dement (Amst)",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1002/dad2.70448",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Italian researchers tracked amyloid PET scans in 26 real-world patients with early symptomatic Alzheimer's disease before and after six months of lecanemab or donanemab, measuring both the standard global amyloid score and region-by-region uptake. Amyloid removal was strikingly uneven: frontal, anterior cingulate and parietal areas lost the most, while the occipital cortex and medial temporal lobe \u2014 a region central to memory \u2014 were consistently spared, even in patients whose global scans had flipped to \"amyloid negative.\" Patients treated at the mild cognitive impairment stage cleared more cortical amyloid than those already at the mild dementia stage; age of onset made no difference.",
+      "why_it_matters": "A headline number saying the amyloid is \"gone\" may conceal plaque still sitting in memory-critical regions, and this early look suggests starting treatment at the mild cognitive impairment stage removes more plaque than waiting until dementia has set in.",
+      "caveats": "Very small sample (N=26), single center, observational real-world design with no control group, short six-month follow-up, and the authors describe it as preliminary. Several authors report speaker honoraria from Eli Lilly, which makes donanemab, and other pharmaceutical companies.",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Background \u00b7 unspecified \u00b7 score 55/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "New Alzheimer's drugs clear amyloid unevenly across the brain \u2014 and earlier patients clear more",
+          "hook": "If you or your doctor are weighing an anti-amyloid infusion, it is reasonable to ask what the follow-up PET scan actually shows region by region \u2014 and what a \"negative\" global result does and does not mean. This preliminary work also supports asking about timing: getting evaluated when symptoms are still mild, rather than waiting, may matter for how much plaque comes off.",
+          "pitch_angle": "A headline number saying the amyloid is \"gone\" may conceal plaque still sitting in memory-critical regions, and this early look suggests starting treatment at the mild cognitive impairment stage removes more plaque than waiting until dementia has set in."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "New Alzheimer's drugs clear amyloid unevenly across the brain \u2014 and earlier patients clear more",
+          "hook": "For clinicians and senior living staff fielding family questions about these drugs, the finding is a useful corrective to all-or-nothing language: \"amyloid cleared\" at six months is a global average, not a whole-brain result, and should not be translated to families as proof the disease has been erased.",
+          "pitch_angle": "Very small sample (N=26), single center, observational real-world design with no control group, short six-month follow-up, and the authors describe it as preliminary. Several authors report speaker honoraria from Eli Lilly, which makes donanemab, and other pharmaceutical companies."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Dementia",
+      "status": "new"
+    },
+    {
+      "pmid": "42857403",
+      "headline": "A pattern on the baseline brain scan may flag who is at risk for brain swelling on anti-amyloid drugs",
+      "journal": "Alzheimers Dement (Amst)",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1002/dad2.70401",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "The same Milan group analyzed 31 courses of anti-amyloid antibody treatment in early Alzheimer's disease, testing whether patients with disproportionately high amyloid in the occipital (back) region of the brain \u2014 more than their overall amyloid level would predict \u2014 were more prone to ARIA-E, the brain swelling that is the main safety concern with these drugs. All four ARIA-E events occurred in the 13 courses with the elevated occipital pattern and none in the other 18 (Fisher exact p=0.055), and every event involved posterior brain regions. That group also had higher baseline blood levels of GFAP, p-tau181 and p-tau217.",
+      "why_it_matters": "If confirmed, a routine baseline PET scan plus a blood test could help identify before the first infusion which patients face higher odds of the most serious side effect of lecanemab and donanemab \u2014 information that belongs in the decision.",
+      "caveats": "Tiny sample (31 treatment courses, 4 events), single center, the key comparison did not reach statistical significance (p=0.055), the biomarker model is explicitly exploratory, and the authors call for validation in larger cohorts. Multiple authors disclose honoraria from Eli Lilly, Biogen and other manufacturers.",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Worth a look \u00b7 cohort \u00b7 score 67/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "A pattern on the baseline brain scan may flag who is at risk for brain swelling on anti-amyloid drugs",
+          "hook": "Before starting an anti-amyloid antibody, you are entitled to a frank conversation about your personal risk of ARIA \u2014 brain swelling or small bleeds \u2014 and about what your baseline scan and blood biomarkers show. This study is early and exploratory, so it is a question to raise with your neurologist, not a test to demand.",
+          "pitch_angle": "If confirmed, a routine baseline PET scan plus a blood test could help identify before the first infusion which patients face higher odds of the most serious side effect of lecanemab and donanemab \u2014 information that belongs in the decision."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "A pattern on the baseline brain scan may flag who is at risk for brain swelling on anti-amyloid drugs",
+          "hook": "Care teams supporting residents on these infusions should know that ARIA in this series clustered in posterior brain regions; staff monitoring for new headache, confusion, visual changes or unsteadiness during the first months of treatment are watching for exactly the kind of event this work is trying to predict.",
+          "pitch_angle": "Tiny sample (31 treatment courses, 4 events), single center, the key comparison did not reach statistical significance (p=0.055), the biomarker model is explicitly exploratory, and the authors call for validation in larger cohorts. Multiple authors disclose honoraria from Eli Lilly, Biogen and other manufacturers."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Polypharmacy",
+      "status": "new"
+    },
+    {
+      "pmid": "42855600",
+      "headline": "Men's immune defenses may thin out earlier than women's \u2014 and the lymph nodes shrink with them",
+      "journal": "Nat Aging",
+      "pubdate": "2026 Oct 9",
+      "doi": "10.1038/s43587-026-01238-4",
+      "groundbreaking": "",
+      "media_coverage": "Already covered by Nature",
+      "summary": "Using mouse models backed by supporting human data, researchers at Massachusetts General Hospital and Link\u00f6ping University found that naive CD8+ T cells \u2014 the fresh immune cells that recognize new threats including tumors \u2014 are depleted earlier in males than females, starting in middle age. The loss was driven by cells prematurely converting to \"virtual memory\" cells combined with shrinkage of the thymus, leading to contracted lymph nodes and poorer recognition of cancer antigens. Regenerating the thymus in male mice through androgen suppression restored naive T cells and improved response to immune checkpoint cancer drugs.",
+      "why_it_matters": "It offers a biological explanation for why men often fare worse with infections and some cancers from midlife onward, and points toward a future strategy for restoring immune competence rather than simply accepting it as an inevitable part of aging.",
+      "caveats": "Primarily an animal study \u2014 human data play only a supporting role \u2014 so findings may not translate to people. The therapeutic intervention (androgen ablation) was tested only in mice and carries significant side effects in humans. One coauthor is now employed by Arnatar Therapeutics, though after the work was completed.",
+      "fact_check_note": "",
+      "relevance_score": 4,
+      "relevance_score_reason": "Background \u00b7 preclinical \u00b7 score 37/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Men's immune defenses may thin out earlier than women's \u2014 and the lymph nodes shrink with them",
+          "hook": "Nothing here changes what you should do today \u2014 the treatment tested was in mice. What it reinforces is the value of the defenses you can control now: staying current on vaccinations, which depend on your remaining pool of fresh immune cells, and keeping up with recommended cancer screenings, particularly if you are a man in midlife or later.",
+          "pitch_angle": "It offers a biological explanation for why men often fare worse with infections and some cancers from midlife onward, and points toward a future strategy for restoring immune competence rather than simply accepting it as an inevitable part of aging."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Men's immune defenses may thin out earlier than women's \u2014 and the lymph nodes shrink with them",
+          "hook": "For professionals, this is background science rather than practice guidance; its near-term use is as context for why infection prevention and vaccination campaigns may need to work harder for older male residents.",
+          "pitch_angle": "Primarily an animal study \u2014 human data play only a supporting role \u2014 so findings may not translate to people. The therapeutic intervention (androgen ablation) was tested only in mice and carries significant side effects in humans. One coauthor is now employed by Arnatar Therapeutics, though after the work was completed."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Polypharmacy",
+      "status": "new"
+    },
+    {
+      "pmid": "42647175",
+      "headline": "When pandemic-era food aid ended, older adults living alone went hungry fastest",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "pubdate": "2026 Oct 7",
+      "doi": "10.1093/geronb/gbag176",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Researchers at Syracuse University used Household Pulse Survey data on low-income households (incomes below 200% of the federal poverty level) headed by adults aged 60 and older to track what happened when the nationwide SNAP Emergency Allotments ended. Using a stacked difference-in-differences design comparing the three months before and after termination, they found food insufficiency rose by 1.5 percentage points among older adult households overall \u2014 and by 3.3 percentage points among older adults living alone. There was no significant change among older adults who lived with others, though the difference between the two groups fell just short of statistical significance (p = .091).",
+      "why_it_matters": "Older adults already have low SNAP enrollment rates and high rates of diet-sensitive conditions like diabetes, heart failure and kidney disease, so a benefit cut that pushes more of them into skipping meals has direct health consequences.",
+      "caveats": "Observational policy evaluation \u2014 the design supports strong causal inference about the benefit change but relies on self-reported food insufficiency from a rapid-turnaround survey; the key living-alone contrast did not reach conventional statistical significance; short three-month windows before and after.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 5,
+      "relevance_score_reason": "Background \u00b7 cross-sectional \u00b7 score 52/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "When pandemic-era food aid ended, older adults living alone went hungry fastest",
+          "hook": "If your grocery budget got tighter when the extra pandemic SNAP money disappeared, you are not imagining it and you are far from alone \u2014 especially if you live by yourself. It is worth checking whether you qualify for SNAP (many eligible older adults never apply), and asking your local Area Agency on Aging about congregate meals, home-delivered meals and food pantry programs designed specifically for seniors.",
+          "pitch_angle": "Older adults already have low SNAP enrollment rates and high rates of diet-sensitive conditions like diabetes, heart failure and kidney disease, so a benefit cut that pushes more of them into skipping meals has direct health consequences."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "When pandemic-era food aid ended, older adults living alone went hungry fastest",
+          "hook": "For senior living staff, meal programs and case managers: this study identifies solo-dwelling older adults as the group hit hardest by benefit cuts, which makes them the logical target for proactive benefits screening and outreach rather than waiting for people to ask for help.",
+          "pitch_angle": "Observational policy evaluation \u2014 the design supports strong causal inference about the benefit change but relies on self-reported food insufficiency from a rapid-turnaround survey; the key living-alone contrast did not reach conventional statistical significance; short three-month windows before and after."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Cardiovascular Disease",
+      "status": "new"
+    },
+    {
+      "pmid": "42839094",
+      "headline": "Fats in your cells get longer as you age \u2014 and shortening them extended life in lab animals",
+      "journal": "Nat Aging",
+      "pubdate": "2026 Oct 6",
+      "doi": "10.1038/s43587-026-01223-x",
+      "groundbreaking": "",
+      "media_coverage": "Already covered by Nature, Bioengineer.org",
+      "summary": "An international team ran lipidomics across multiple tissues in mice, worms, fruit flies and humans and found the same pattern everywhere: as organisms age, the fatty acyl chains in their lipids get longer while shorter lipid species are depleted. The same lengthening showed up as human heart disease progressed, while dietary restriction shortened cardiac lipids in mice. The researchers pinpointed a lipid-remodeling enzyme, Plb1, whose expression tracked lifespan in mice and showed a causal link to human frailty in genetic analyses \u2014 and knocking it down in worms reversed lipid elongation and extended lifespan.",
+      "why_it_matters": "This proposes a brand-new, measurable hallmark of aging that appears in human tissue and is tied to frailty and heart disease, pointing toward a future target for drugs or diets aimed at keeping people functional longer.",
+      "caveats": "Largely preclinical \u2014 lifespan extension was demonstrated in C. elegans, not people; human data are cross-sectional lipidomics plus genetic association with frailty, which cannot establish causation in humans; no clinical intervention tested.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 4,
+      "relevance_score_reason": "Background \u00b7 cross-sectional \u00b7 score 37/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Fats in your cells get longer as you age \u2014 and shortening them extended life in lab animals",
+          "hook": "This is a discovery about the basic biology of aging, not a treatment you can act on \u2014 there is no supplement or test that safely 'shortens your lipids' today. What it does reinforce is that the way your body handles fats changes with age and is closely tied to heart health and frailty, which is one more reason to keep routine metabolic and cardiac follow-up on your calendar.",
+          "pitch_angle": "This proposes a brand-new, measurable hallmark of aging that appears in human tissue and is tied to frailty and heart disease, pointing toward a future target for drugs or diets aimed at keeping people functional longer."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Fats in your cells get longer as you age \u2014 and shortening them extended life in lab animals",
+          "hook": "For professionals, the practical takeaway is horizon-scanning: expect a wave of marketing claims about 'lipid length' and anti-aging fats. Nothing here supports a consumer product, and residents or clients asking about it deserve a clear explanation that the human evidence is association plus worm experiments.",
+          "pitch_angle": "Largely preclinical \u2014 lifespan extension was demonstrated in C. elegans, not people; human data are cross-sectional lipidomics plus genetic association with frailty, which cannot establish causation in humans; no clinical intervention tested."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Cardiovascular Disease",
+      "status": "new"
+    },
+    {
+      "pmid": "42836955",
+      "headline": "A ballooning artery at the base of the brain grows faster in younger patients \u2014 and raises stroke risk when it does",
+      "journal": "Clin Neuroradiol",
+      "pubdate": "2026 Oct 6",
+      "doi": "10.1007/s00062-026-01731-8",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Chinese researchers followed 191 patients with vertebrobasilar dolichoectasia \u2014 abnormal widening and elongation of the arteries supplying the back of the brain \u2014 using baseline and follow-up MR angiography over a median of 7.7 years. Eighty-eight patients showed measurable progression. Independent risk factors for faster progression were diabetes (OR 3.19), severe white matter hyperintensities (OR 1.70), unilateral vertebral artery dominance (OR 5.53) and, counterintuitively, younger age at baseline (OR 0.91 per year). Patients whose arteries progressed, and those with more complex artery shapes, were substantially more likely to go on to have a posterior-circulation ischemic stroke.",
+      "why_it_matters": "Vertebrobasilar dolichoectasia is often noted incidentally on brain scans and then ignored because there is no standard treatment; this study suggests which patients actually need repeat imaging and aggressive risk-factor control.",
+      "caveats": "Retrospective, single-center cohort in China, so the population may not generalize; observational design cannot establish causation; modest sample (N=191) with risk-prediction nomograms that were not validated in an independent cohort.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 6,
+      "relevance_score_reason": "Worth a look \u00b7 cohort \u00b7 score 62/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "A ballooning artery at the base of the brain grows faster in younger patients \u2014 and raises stroke risk when it does",
+          "hook": "If a brain MRI or MRA has ever mentioned a 'dolichoectatic' or enlarged basilar or vertebral artery, it is reasonable to ask your neurologist whether repeat imaging is warranted and how tightly your diabetes and vascular risk factors are controlled \u2014 in this cohort, diabetes tripled the odds of the artery worsening.",
+          "pitch_angle": "Vertebrobasilar dolichoectasia is often noted incidentally on brain scans and then ignored because there is no standard treatment; this study suggests which patients actually need repeat imaging and aggressive risk-factor control."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "A ballooning artery at the base of the brain grows faster in younger patients \u2014 and raises stroke risk when it does",
+          "hook": "For families and care staff helping manage a loved one's imaging reports and specialist appointments: an incidental finding like this can get lost between providers. Keeping a copy of prior scan reports makes it possible for a neurologist to compare over time, which is exactly what predicted stroke risk in this study.",
+          "pitch_angle": "Retrospective, single-center cohort in China, so the population may not generalize; observational design cannot establish causation; modest sample (N=191) with risk-prediction nomograms that were not validated in an independent cohort."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Cardiovascular Disease",
+      "status": "new"
+    },
+    {
+      "pmid": "42635982",
+      "headline": "Where you live may shape the hospice care you get at the end of life",
+      "journal": "JAMA",
+      "pubdate": "2026 Oct 6",
+      "doi": "10.1001/jama.2026.16190",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Researchers from Mount Sinai, Dartmouth and UCSF analyzed Medicare hospice data across the full rural-to-urban continuum, comparing how long patients stayed on hospice, where care was delivered, how often hospice staff visited, and how frequently patients received higher-intensity levels of hospice care. The cross-sectional analysis documents systematic rural-urban differences in both the delivery and the intensity of the Medicare hospice benefit. The authors frame the gaps as a question of equitable access to the same federal benefit regardless of geography.",
+      "why_it_matters": "Hospice is a benefit nearly every Medicare enrollee is entitled to, but these findings suggest what that benefit actually looks like \u2014 visit frequency, setting, availability of crisis-level care \u2014 varies with where a person happens to live.",
+      "caveats": "Cross-sectional observational analysis of administrative claims; it describes patterns and cannot establish why gaps exist or whether they cause worse outcomes. Several authors report National Institute on Aging funding and consulting relationships, including hospice quality consulting and expert witness work.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 6,
+      "relevance_score_reason": "Background \u00b7 cross-sectional \u00b7 score 58/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Where you live may shape the hospice care you get at the end of life",
+          "hook": "If you or your spouse is considering hospice, ask the agency specific, concrete questions before enrolling: how many visits per week will a nurse make, who comes at 2 a.m. in a crisis, and can they provide continuous or inpatient-level care if symptoms escalate. Averages do not tell you what one agency will deliver in your area.",
+          "pitch_angle": "Hospice is a benefit nearly every Medicare enrollee is entitled to, but these findings suggest what that benefit actually looks like \u2014 visit frequency, setting, availability of crisis-level care \u2014 varies with where a person happens to live."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Where you live may shape the hospice care you get at the end of life",
+          "hook": "For rural senior living operators and discharge planners, the practical takeaway is to vet local hospice capacity in advance rather than at the point of crisis \u2014 and to build backup plans for after-hours symptom management where staffing is thin.",
+          "pitch_angle": "Cross-sectional observational analysis of administrative claims; it describes patterns and cannot establish why gaps exist or whether they cause worse outcomes. Several authors report National Institute on Aging funding and consulting relationships, including hospice quality consulting and expert witness work."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Palliative Care",
+      "status": "new"
+    },
+    {
+      "pmid": "42848972",
+      "headline": "A bleeding stroke drug strategy helps some patients \u2014 but the benefit depends on where in the brain the bleed is",
+      "journal": "Neurology",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1212/WNL.0000000000218514",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Investigators pooled individual patient data from all four INTERACT trials and ATACH-II \u2014 11,288 people with acute brain hemorrhage, average age 62.5 years \u2014 to test whether aggressively lowering blood pressure works equally well no matter where the bleed sits. It did not. Benefit was clear only for deep brain hemorrhages, which made up 81.5% of cases (adjusted odds ratio 0.81 for death or disability), with no clear benefit for lobar bleeds or those in the brainstem/cerebellum (interaction p = 0.033).",
+      "why_it_matters": "Intensive blood pressure lowering has become standard practice after intracerebral hemorrhage; this is among the first large analyses to show the payoff is not uniform, which may change how emergency teams tailor treatment \u2014 and how families understand prognosis.",
+      "caveats": "Post hoc pooled subgroup analysis of trials not individually designed to test location effects; lobar and infratentorial groups were small (about 10% and 8% of the sample), so a real but modest benefit cannot be ruled out. Mean age 62.5 means findings extend to, but are not specific to, the oldest patients.",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Worth a look \u00b7 unspecified \u00b7 score 65/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "A bleeding stroke drug strategy helps some patients \u2014 but the benefit depends on where in the brain the bleed is",
+          "hook": "If you or a loved one is hospitalized for a brain bleed, it is reasonable to ask the stroke team where the bleed is located and how that affects the treatment plan and the expected recovery \u2014 location is not just a detail, it appears to change what treatment can accomplish.",
+          "pitch_angle": "Intensive blood pressure lowering has become standard practice after intracerebral hemorrhage; this is among the first large analyses to show the payoff is not uniform, which may change how emergency teams tailor treatment \u2014 and how families understand prognosis."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "A bleeding stroke drug strategy helps some patients \u2014 but the benefit depends on where in the brain the bleed is",
+          "hook": "For rehab and post-acute staff receiving stroke patients, hemorrhage location may be a useful piece of context when setting recovery expectations with families, especially for lobar bleeds, which this analysis found occur in older patients and with larger volumes.",
+          "pitch_angle": "Post hoc pooled subgroup analysis of trials not individually designed to test location effects; lobar and infratentorial groups were small (about 10% and 8% of the sample), so a real but modest benefit cannot be ruled out. Mean age 62.5 means findings extend to, but are not specific to, the oldest patients."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Cardiovascular Disease",
+      "status": "new"
+    },
+    {
+      "pmid": "42848968",
+      "headline": "The standard brain staging system for Parkinson's doesn't match how sick patients actually were",
+      "journal": "Neurology",
+      "pubdate": "2026 Nov 10",
+      "doi": "10.1212/WNL.0000000000218469",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Researchers reviewed 61 autopsy-confirmed Parkinson's disease cases from the Parkinson's UK Brain Bank (mean age at death 79, average disease duration 13.5 years) and compared Braak stage \u2014 the widely used measure of how far abnormal alpha-synuclein has spread through the brain \u2014 against real clinical markers of progression. Braak stage showed no correlation with Hoehn and Yahr disability stage at death, disease duration, age at death, or brain weight. Other brain pathologies were extremely common regardless of Braak stage: tau in 82%, small vessel disease in 60%, beta-amyloid in 58%.",
+      "why_it_matters": "It challenges a decades-old assumption that Parkinson's progresses as a protein spreads predictably through the brain \u2014 a framework underpinning drug development and much of how the disease is explained to patients.",
+      "caveats": "Small N (61 autopsy cases), single brain bank, retrospective chart review, and brain bank donors may not represent all people with Parkinson's. Null findings in a sample this size cannot rule out weaker associations.",
+      "fact_check_note": "",
+      "relevance_score": 7,
+      "relevance_score_reason": "Worth a look \u00b7 cohort \u00b7 score 70/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "The standard brain staging system for Parkinson's doesn't match how sick patients actually were",
+          "hook": "If you have Parkinson's, be skeptical of tidy explanations that your symptoms track a protein marching through your brain on a schedule. This study suggests the pathology doctors see after death doesn't predict how disabled someone was in life \u2014 so ask your neurologist about your own function and symptoms, not a staging chart.",
+          "pitch_angle": "It challenges a decades-old assumption that Parkinson's progresses as a protein spreads predictably through the brain \u2014 a framework underpinning drug development and much of how the disease is explained to patients."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "The standard brain staging system for Parkinson's doesn't match how sick patients actually were",
+          "hook": "For care staff and families, the striking finding is how often Parkinson's brains also carried Alzheimer-type tau, amyloid and small vessel disease \u2014 a reminder that cognitive and vascular problems in a Parkinson's resident are common, not anomalous.",
+          "pitch_angle": "Small N (61 autopsy cases), single brain bank, retrospective chart review, and brain bank donors may not represent all people with Parkinson's. Null findings in a sample this size cannot rule out weaker associations."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Nutrition",
+      "status": "new"
+    },
+    {
+      "pmid": "42490395",
+      "headline": "Weak grip and low body weight go together with insomnia in older adults \u2014 extra weight didn't",
+      "journal": "Sleep",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1093/sleep/zsag196",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "A territory-wide Hong Kong study of 5,824 adults aged 60 and over (77.8% women) measured handgrip strength, body composition and insomnia using the Insomnia Severity Index. Twelve percent had insomnia. Clinically low muscle strength raised the odds of insomnia by 22% even after adjusting for depressive symptoms, and being underweight raised them by 66% \u2014 while overweight and obesity showed no significant association. People who were both underweight and weak had more than double the odds of insomnia compared with those of normal weight and strength.",
+      "why_it_matters": "Sleep complaints in later life are usually chased with medication or sleep hygiene advice, while nutrition and muscle status go unexamined \u2014 yet this study points to the thin, frail end of the spectrum, not the heavy end, as the group struggling most.",
+      "caveats": "Cross-sectional and observational \u2014 direction of causation is unknown, and insomnia could just as plausibly drive weight and strength loss. Insomnia was self-reported via questionnaire; the sample was overwhelmingly female and from a single territory, limiting generalizability.",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Worth a look \u00b7 cross-sectional \u00b7 score 63/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Weak grip and low body weight go together with insomnia in older adults \u2014 extra weight didn't",
+          "hook": "If you're sleeping badly and have also been losing weight or finding jars and grocery bags harder to manage, mention both to your doctor in the same visit \u2014 this research links weak grip strength and being underweight with insomnia, though it can't prove one causes the other.",
+          "pitch_angle": "Sleep complaints in later life are usually chased with medication or sleep hygiene advice, while nutrition and muscle status go unexamined \u2014 yet this study points to the thin, frail end of the spectrum, not the heavy end, as the group struggling most."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Weak grip and low body weight go together with insomnia in older adults \u2014 extra weight didn't",
+          "hook": "For senior living and home care staff, this supports screening residents who report poor sleep for unintentional weight loss and declining strength, rather than treating insomnia as a standalone issue \u2014 and it pushes back on the assumption that sleep problems mainly accompany obesity.",
+          "pitch_angle": "Cross-sectional and observational \u2014 direction of causation is unknown, and insomnia could just as plausibly drive weight and strength loss. Insomnia was self-reported via questionnaire; the sample was overwhelmingly female and from a single territory, limiting generalizability."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Sleep",
+      "status": "new"
+    },
+    {
+      "pmid": "42854181",
+      "headline": "Stretching out MS infusions cuts infections \u2014 but patients over 60 remain at higher risk",
+      "journal": "Neurology: Clinical Practice",
+      "pubdate": "2026 Dec",
+      "doi": "10.1212/CPJ.0000000000200664",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "Using compulsory national health registries linked to the Norwegian MS Registry, researchers tracked 3,410 people with multiple sclerosis across 13,811 rituximab treatment episodes from 2010 to 2022, recording 13,774 infections including 971 treated in hospital. Compared with standard six-month dosing, stretching intervals was associated with fewer infections overall (21% lower risk with one infusion per two years), though the benefit for serious hospital-treated infections was weak and inconsistent. Independently of dosing, patients aged 60 and older had a 36% higher risk of hospital-treated infection.",
+      "why_it_matters": "Older adults with MS are a growing group whose infection risk from B-cell-depleting therapy is often discussed in general terms; this gives registry-scale evidence that age itself drives serious infection risk and that less frequent dosing is a plausible lever.",
+      "caveats": "Observational registry study \u2014 patients given longer intervals may have been healthier or more stable to begin with (confounding by indication), so causation cannot be established. The reduced hospital-infection finding was not robust in sensitivity analyses. Norwegian population and treatment practices may not generalize elsewhere.",
+      "fact_check_note": "\u26a0\ufe0f Minor issues",
+      "relevance_score": 6,
+      "relevance_score_reason": "Worth a look \u00b7 observational \u00b7 score 63/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "Stretching out MS infusions cuts infections \u2014 but patients over 60 remain at higher risk",
+          "hook": "If you're over 60 and on rituximab for MS, it's worth asking your neurologist whether your dosing interval could be extended and whether continuing treatment still makes sense at your age and disease stage \u2014 this study found both age and infusion frequency affect your infection risk.",
+          "pitch_angle": "Older adults with MS are a growing group whose infection risk from B-cell-depleting therapy is often discussed in general terms; this gives registry-scale evidence that age itself drives serious infection risk and that less frequent dosing is a plausible lever."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "Stretching out MS infusions cuts infections \u2014 but patients over 60 remain at higher risk",
+          "hook": "For caregivers and clinical staff, the practical implication is heightened vigilance for infection in older MS patients on B-cell therapy \u2014 a low threshold for evaluating fevers, coughs and urinary symptoms that might be dismissed in a younger patient.",
+          "pitch_angle": "Observational registry study \u2014 patients given longer intervals may have been healthier or more stable to begin with (confounding by indication), so causation cannot be established. The reduced hospital-infection finding was not robust in sensitivity analyses. Norwegian population and treatment practices may not generalize elsewhere."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "General Aging",
+      "status": "new"
+    },
+    {
+      "pmid": "42518248",
+      "headline": "3.8 million nights of smartwatch data show women's sleep fragments sharply at midlife",
+      "journal": "Sleep",
+      "pubdate": "2026 Oct 13",
+      "doi": "10.1093/sleep/zsag197",
+      "groundbreaking": "",
+      "media_coverage": "Not widely covered \u2713 (Google News checked)",
+      "summary": "The SONAR study analyzed roughly 3.8 million nights of data from 192,500 female Galaxy Smartwatch users aged 20-65 across the US, South Korea, Germany, France and the UK, comparing objectively measured sleep across age groups. Total sleep time barely changed with age (17 minutes or less), but time awake after falling asleep climbed steeply in women \u2014 up 15% at ages 50-54, 25% at 55-59, and 32% at 60-64 versus women in their early twenties. Men showed the same pattern but with consistently smaller increases at each age band.",
+      "why_it_matters": "It reframes the common complaint that older women \"don't sleep as much\" \u2014 the total hours hold up fairly well, but the nights become badly fragmented, which is a different problem requiring different solutions than simply going to bed earlier.",
+      "caveats": "Cross-sectional comparison of age groups, not the same women followed over time, so it cannot show change within individuals. Consumer wearables estimate rather than directly measure sleep stages. Smartwatch owners are likely healthier and more affluent than the general population, and the upper age limit was 65. The study was conducted and funded by Bayer AG with Samsung Electronics; most authors are employees of one or the other.",
+      "fact_check_note": "",
+      "relevance_score": 6,
+      "relevance_score_reason": "Worth a look \u00b7 cross-sectional \u00b7 score 65/100",
+      "pitch_angles": [
+        {
+          "publication_type": "Consumer \u2014 older adults and seniors",
+          "headline": "3.8 million nights of smartwatch data show women's sleep fragments sharply at midlife",
+          "hook": "If you're a woman in your fifties or sixties waking repeatedly through the night, the data say that's a real, measurable pattern \u2014 not imagination \u2014 and it shows up as broken sleep rather than less sleep overall, which is worth describing precisely to your doctor.",
+          "pitch_angle": "It reframes the common complaint that older women \"don't sleep as much\" \u2014 the total hours hold up fairly well, but the nights become badly fragmented, which is a different problem requiring different solutions than simply going to bed earlier."
+        },
+        {
+          "publication_type": "Trade \u2014 families, caregivers, and senior living professionals",
+          "headline": "3.8 million nights of smartwatch data show women's sleep fragments sharply at midlife",
+          "hook": "For caregivers and wellness staff, this suggests asking residents and clients about night-time awakenings specifically, rather than total hours slept, when screening for sleep problems in women entering later life.",
+          "pitch_angle": "Cross-sectional comparison of age groups, not the same women followed over time, so it cannot show change within individuals. Consumer wearables estimate rather than directly measure sleep stages. Smartwatch owners are likely healthier and more affluent than the general population, and the upper age limit was 65. The study was conducted and funded by Bayer AG with Samsung Electronics; most authors are employees of one or the other."
+        }
+      ],
+      "run_date": "2026-10-13",
+      "category": "Sleep",
       "status": "new"
     },
     {

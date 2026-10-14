@@ -750,16 +750,6 @@
         "state": "unreported"
       }
     },
-    "42406410": {
-      "checked_at": "2026-09-30T15:07:43.014986+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Rural Hospitals One Nurse Practitioner Handling Every End Life Conversation",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42410180": {
       "checked_at": "2026-10-01T17:17:56.578966+00:00",
       "result": {
@@ -836,6 +826,16 @@
         "articles": [],
         "outlets": [],
         "query": "Cross sectional longitudinal relationships between multi dimensional sleep composites cognition",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42437499": {
+      "checked_at": "2026-10-14T15:24:42.868569+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Clinicopathologic Evaluation Amyloid Clearance Alzheimer Disease",
         "returned": 0,
         "state": "unreported"
       }
@@ -996,16 +996,6 @@
         "state": "unreported"
       }
     },
-    "42463061": {
-      "checked_at": "2026-09-30T15:06:49.104619+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Palliative Care Doctors Warming Prognosis Tools While Admitting They Barely",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42463064": {
       "checked_at": "2026-10-01T17:19:34.203791+00:00",
       "result": {
@@ -1146,13 +1136,23 @@
         "state": "unreported"
       }
     },
-    "42490651": {
-      "checked_at": "2026-09-30T15:07:57.853114+00:00",
+    "42492599": {
+      "checked_at": "2026-10-14T15:21:38.430238+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "intellectual disabilities advanced lung cancer get far less cancer treatment",
-        "returned": 0,
+        "query": "Nearly Third People Lonely Their Final Year Life",
+        "returned": 20,
+        "state": "unreported"
+      }
+    },
+    "42492600": {
+      "checked_at": "2026-10-14T15:21:39.444158+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Commercially Insured Patients Got More Aggressive Not Better End Life",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -1226,26 +1226,6 @@
         "state": "unreported"
       }
     },
-    "42504041": {
-      "checked_at": "2026-09-30T15:07:50.108546+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "What actually gets palliative care started earlier lessons four hospital",
-        "returned": 2,
-        "state": "unreported"
-      }
-    },
-    "42517466": {
-      "checked_at": "2026-09-30T15:07:48.257137+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Videos booklets about end life choices boost understanding but don",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42518248": {
       "checked_at": "2026-10-13T17:51:13.754009+00:00",
       "result": {
@@ -1257,11 +1237,11 @@
       }
     },
     "42519959": {
-      "checked_at": "2026-09-30T15:07:25.234039+00:00",
+      "checked_at": "2026-10-14T15:21:48.867098+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "When Fewer Pills Better Care Rethinking Medications End Life",
+        "query": "Stopping Pills Important Starting Them Hospice Care",
         "returned": 0,
         "state": "unreported"
       }
@@ -1352,42 +1332,12 @@
         "state": "unreported"
       }
     },
-    "42533729": {
-      "checked_at": "2026-09-30T15:07:40.301350+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Predicting How Long Someone Advanced Dementia Has Left Remains Guesswork",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42533730": {
-      "checked_at": "2026-09-30T15:07:26.800487+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "What Actually Stops Doctors Patients Cutting Back Unnecessary Medicines Home",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42536289": {
       "checked_at": "2026-10-06T17:02:36.418857+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Counting Only Pills Undercounts Your Medications Creams Patches Eye Drops",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42536632": {
-      "checked_at": "2026-09-30T15:06:54.976183+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Drug Hoped Relieve Cancer Pain Opioids Couldn Touch Failed Beat",
         "returned": 0,
         "state": "unreported"
       }
@@ -1412,16 +1362,6 @@
         "state": "unreported"
       }
     },
-    "42544535": {
-      "checked_at": "2026-09-30T15:07:12.504206+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Where People Die Poorly Recorded Worldwide Distorts Planning Hospice Nursing",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42546985": {
       "checked_at": "2026-10-11T16:32:20.130880+00:00",
       "result": {
@@ -1429,6 +1369,16 @@
         "outlets": [],
         "query": "Psilocybin Therapy Depression Appeared Safe Effective During Active Cancer Treatment",
         "returned": 4,
+        "state": "unreported"
+      }
+    },
+    "42546987": {
+      "checked_at": "2026-10-14T15:21:28.652704+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Modeling Warns Australia Will Fall 106 000 Patients Short Specialist",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1472,6 +1422,16 @@
         "state": "unreported"
       }
     },
+    "42556759": {
+      "checked_at": "2026-10-14T15:20:58.671010+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Hindu Buddhist Sikh Jain Cancer Patients More Likely Die Hospital",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42561582": {
       "checked_at": "2026-10-03T14:56:35.682681+00:00",
       "result": {
@@ -1498,6 +1458,16 @@
         "articles": [],
         "outlets": [],
         "query": "circadian syndrome cluster poor sleep metabolic problems low mood tracks",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42567370": {
+      "checked_at": "2026-10-14T15:21:02.197398+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "China Meets Only Quarter Its Pain Relief Need Its Population",
         "returned": 0,
         "state": "unreported"
       }
@@ -1612,16 +1582,6 @@
         "state": "unreported"
       }
     },
-    "42592757": {
-      "checked_at": "2026-09-30T15:07:15.500683+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "China Built Palliative Care Policy Framework Years Now Comes Harder",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42594508": {
       "checked_at": "2026-10-06T17:04:23.187821+00:00",
       "result": {
@@ -1668,16 +1628,6 @@
         "query": "Way You Walk Reveal More About Your Memory Than Your",
         "returned": 20,
         "state": "lightly_reported"
-      }
-    },
-    "42599269": {
-      "checked_at": "2026-09-30T15:06:23.395813+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Cancer Patients Preferred Written Words Comfort Over Those Palliative Care",
-        "returned": 0,
-        "state": "unreported"
       }
     },
     "42599691": {
@@ -1737,16 +1687,6 @@
         "outlets": [],
         "query": "Getting Less Frail Later Life Linked Lower Dementia Risk Mood",
         "returned": 2,
-        "state": "unreported"
-      }
-    },
-    "42603866": {
-      "checked_at": "2026-09-30T15:06:56.645301+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Grief After Child Cancer Death Last Decades Poverty Makes Worse",
-        "returned": 1,
         "state": "unreported"
       }
     },
@@ -1984,6 +1924,16 @@
         "articles": [],
         "outlets": [],
         "query": "How Air Pollution Reach Brain Blood Vessels Mood Sleep Emerge",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42633655": {
+      "checked_at": "2026-10-14T15:24:03.503532+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Adverse childhood experiences cognitive outcomes frailty systematic review meta analysis",
         "returned": 0,
         "state": "unreported"
       }
@@ -2406,16 +2356,6 @@
         "state": "unreported"
       }
     },
-    "42674364": {
-      "checked_at": "2026-09-30T15:06:28.846848+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Tape Measure Around Calf Combined Two Simple Lab Values Helps",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42677253": {
       "checked_at": "2026-10-04T15:31:38.630129+00:00",
       "result": {
@@ -2596,22 +2536,32 @@
         "state": "unreported"
       }
     },
-    "42714185": {
-      "checked_at": "2026-09-30T15:07:07.403188+00:00",
+    "42714068": {
+      "checked_at": "2026-10-14T15:24:36.918994+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Adding Palliative Care Nurse Practitioner Clinic Uncovered Symptoms Nobody Asking",
+        "query": "Set Out Break Mold Science Philanthropy Still Not Enough 2026",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42714185": {
+      "checked_at": "2026-10-14T15:21:31.857085+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "When Palliative Care Nurse Moves Into Specialty Clinic Hidden Symptoms",
         "returned": 0,
         "state": "unreported"
       }
     },
     "42714187": {
-      "checked_at": "2026-09-30T15:06:39.877238+00:00",
+      "checked_at": "2026-10-14T15:21:22.910850+00:00",
       "result": {
         "articles": [],
         "outlets": [],
-        "query": "Written Wishes Cut Hospital Trips End Life But Only Staff",
+        "query": "Advance Care Plans Cut Unwanted Hospital Trips End Life But",
         "returned": 0,
         "state": "unreported"
       }
@@ -2684,16 +2634,6 @@
         "state": "lightly_reported"
       }
     },
-    "42730948": {
-      "checked_at": "2026-09-30T15:06:35.413037+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Pharmacy Technicians Visiting Housebound Home Found Dozens Missed Checkups Cut",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42731364": {
       "checked_at": "2026-10-06T17:04:19.802047+00:00",
       "result": {
@@ -2754,16 +2694,6 @@
         "state": "unreported"
       }
     },
-    "42742117": {
-      "checked_at": "2026-09-30T15:06:18.554750+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "What Actually Counts Success When Palliative Care Comes Into Nursing",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42743443": {
       "checked_at": "2026-10-13T17:51:32.401344+00:00",
       "result": {
@@ -2804,16 +2734,6 @@
         "state": "unreported"
       }
     },
-    "42744336": {
-      "checked_at": "2026-09-30T15:07:45.166997+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Why people choose assisted suicide rarely about pain alone",
-        "returned": 16,
-        "state": "unreported"
-      }
-    },
     "42747379": {
       "checked_at": "2026-10-02T16:28:16.705507+00:00",
       "result": {
@@ -2821,6 +2741,16 @@
         "outlets": [],
         "query": "Leg strength plus nutrition predicts who lives longest year look",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42748398": {
+      "checked_at": "2026-10-14T15:20:29.723128+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Tool Flag Which Nursing Home Residents Have Six Months Live",
+        "returned": 5,
         "state": "unreported"
       }
     },
@@ -3284,26 +3214,6 @@
         "state": "lightly_reported"
       }
     },
-    "42807144": {
-      "checked_at": "2026-09-30T15:12:04.616255+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Cerebral Microbleeds Anemia Estimated Net Benefit DOACs versus Warfarin Atrial",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42807347": {
-      "checked_at": "2026-09-30T15:11:52.810963+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "APOE amyloid tau pathology cognitively unimpaired",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
     "42807943": {
       "checked_at": "2026-10-02T16:28:46.679069+00:00",
       "result": {
@@ -3314,342 +3224,12 @@
         "state": "unreported"
       }
     },
-    "42808214": {
-      "checked_at": "2026-09-30T15:10:30.096797+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Effect Integrative Reminiscence Depression Systematic Review Meta Analysis",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42808496": {
-      "checked_at": "2026-09-30T15:11:29.360773+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Feasibility safety repeated low intensity ultrasound amyloid PET positive early",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42808497": {
-      "checked_at": "2026-09-30T15:11:25.032388+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Age frailty status jointly modifies nonlinear association between systolic blood",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42808498": {
-      "checked_at": "2026-09-30T15:11:19.030436+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "dogs exhibit heterogeneous cognitive decline trajectories longitudinal comparative model",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809017": {
-      "checked_at": "2026-09-30T15:12:41.409881+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.health.com/can-you-die-from-obstructive-sleep-apnea-11902961",
-            "outlet": "health.com",
-            "title": "Can You Die From Obstructive Sleep Apnea?"
-          }
-        ],
-        "outlets": [
-          "health.com"
-        ],
-        "query": "Increased Risk Obstructive Sleep Apnea Poor Sleep Quality Among Type",
-        "returned": 9,
-        "state": "lightly_reported"
-      }
-    },
-    "42809038": {
-      "checked_at": "2026-09-30T15:12:38.071601+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Default mode network functional connectivity associated intention interference healthy",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809063": {
-      "checked_at": "2026-09-30T15:10:54.370276+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Efficacy transcranial alternating current stimulation cognitive function patients dementia systematic",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809069": {
-      "checked_at": "2026-09-30T15:12:24.719456+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Autologous cytokine induced cells candidate cellular senolytics evidence obstacles experiments",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809099": {
-      "checked_at": "2026-09-30T15:12:19.488751+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Decreased incidence shoulder arthroplasty patients prescribed anti resorptive therapy osteoporosis",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809128": {
-      "checked_at": "2026-09-30T15:10:48.139003+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.nature.com/articles/s41598-026-56974-9",
-            "outlet": "Nature",
-            "title": "Training executive control and multitasking abilities in older adults: training gains and transfer effects of an online pilot randomized controlled trial"
-          }
-        ],
-        "outlets": [
-          "Nature"
-        ],
-        "query": "effects dual task training different task priorities physical performance cognitive",
-        "returned": 1,
-        "state": "lightly_reported"
-      }
-    },
-    "42809132": {
-      "checked_at": "2026-09-30T15:11:34.137834+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "hospital mortality small intracranial aneurysms associations rupture status treatment complications",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809157": {
-      "checked_at": "2026-09-30T15:12:33.036910+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Preliminary insights into whole blood mitochondrial DNA copy number telomere",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809225": {
-      "checked_at": "2026-09-30T15:10:45.429358+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Healthcare Provider Experiences Delivering Dementia Care Indigenous Communities Challenges Recommendations",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809476": {
-      "checked_at": "2026-09-30T15:11:47.762865+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Underutilization Adjuvant Radiation Malignant Meningioma Socioeconomic Variation Population Based Cohort",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809522": {
-      "checked_at": "2026-09-30T15:11:44.489909+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Ambient air pollution stroke two population based cohorts roles systemic",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42809801": {
-      "checked_at": "2026-09-30T15:12:08.214076+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Disease Progression Iatrogenic Cerebral Amyloid Angiopathy",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42810001": {
-      "checked_at": "2026-09-30T15:11:55.893130+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Self rated near distance vision patterns vision change loss functional",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42810047": {
-      "checked_at": "2026-09-30T15:11:58.018127+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Diagnostic delay poor functional outcomes late onset NMOSD Thai cohort",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42810101": {
-      "checked_at": "2026-09-30T15:10:58.664087+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Resting state functional spectral alterations underlying cognitive decline biomarker confirmed",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
     "42810186": {
       "checked_at": "2026-10-01T17:13:37.500173+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Women epilepsy face added bone heart risks menopause little research",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42810378": {
-      "checked_at": "2026-09-30T15:10:26.901929+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Effect pre existing dementia cancer specific all cause mortality patients",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42810600": {
-      "checked_at": "2026-09-30T15:10:32.899404+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Vascular effects dietary nitrate supplementation coronary artery disease randomized placebo",
-        "returned": 1,
-        "state": "unreported"
-      }
-    },
-    "42810835": {
-      "checked_at": "2026-09-30T15:11:08.283056+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Becoming palliative care physician how reflective learning shapes professional identity",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42810842": {
-      "checked_at": "2026-09-30T15:10:39.180907+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "single center open label randomized parallel group controlled clinical trial",
-        "returned": 4,
-        "state": "unreported"
-      }
-    },
-    "42811116": {
-      "checked_at": "2026-09-30T15:11:40.332177+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.nature.com/articles/s41582-026-01262-3",
-            "outlet": "nature.com",
-            "title": "Lysosomal dysfunction in neurodegenerative disease"
-          }
-        ],
-        "outlets": [
-          "nature.com"
-        ],
-        "query": "Lysosomal dysfunction neurodegenerative disease",
-        "returned": 3,
-        "state": "lightly_reported"
-      }
-    },
-    "42811121": {
-      "checked_at": "2026-09-30T15:11:12.038832+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.nature.com/articles/s43587-026-01227-7",
-            "outlet": "nature.com",
-            "title": "Mitochondrial membrane lipid cardiolipin controls fiber-type adaptations in aging muscle via estrogen-related receptor \u03b3"
-          }
-        ],
-        "outlets": [
-          "nature.com"
-        ],
-        "query": "Mitochondrial membrane lipid cardiolipin controls fiber type adaptations muscle via",
-        "returned": 2,
-        "state": "lightly_reported"
-      }
-    },
-    "42811122": {
-      "checked_at": "2026-09-30T15:11:10.643542+00:00",
-      "result": {
-        "articles": [
-          {
-            "link": "https://www.nature.com/articles/s43587-026-01225-9",
-            "outlet": "Nature",
-            "title": "Exercise enhances aged chondrocyte health through microRNA-29-enriched extracellular vesicles"
-          }
-        ],
-        "outlets": [
-          "Nature"
-        ],
-        "query": "Exercise enhances aged chondrocyte health through microRNA enriched extracellular vesicles",
-        "returned": 2,
-        "state": "lightly_reported"
-      }
-    },
-    "42811242": {
-      "checked_at": "2026-09-30T15:12:14.482340+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Sex age specific patterns bone muscle fat across adulthood their",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42811273": {
-      "checked_at": "2026-09-30T15:10:35.364592+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Effectiveness Psychoeducational Interventions Informal Caregivers People Dementia Systematic Review Meta",
-        "returned": 0,
-        "state": "unreported"
-      }
-    },
-    "42811373": {
-      "checked_at": "2026-09-30T15:11:50.238536+00:00",
-      "result": {
-        "articles": [],
-        "outlets": [],
-        "query": "Impaired peptide amidation risk incident dementia Malmoe preventive project cohort",
         "returned": 0,
         "state": "unreported"
       }
@@ -4306,6 +3886,16 @@
         "state": "unreported"
       }
     },
+    "42833695": {
+      "checked_at": "2026-10-14T15:20:37.761539+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "How Chinese Immigrants Come Accept Hospice Slow Reconciliation Filial Piety",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42833801": {
       "checked_at": "2026-10-09T17:12:50.371270+00:00",
       "result": {
@@ -4726,6 +4316,16 @@
         "state": "unreported"
       }
     },
+    "42841449": {
+      "checked_at": "2026-10-14T15:20:40.706035+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "When Very Old Heart Failure Patients Referred Palliative Care Half",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "42841610": {
       "checked_at": "2026-10-08T17:40:03.772831+00:00",
       "result": {
@@ -4992,6 +4592,16 @@
         "articles": [],
         "outlets": [],
         "query": "Back Pain Prospective Frailty Status Among Men Findings MrOS",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42844232": {
+      "checked_at": "2026-10-14T15:21:36.874480+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Heart Disease ICU Experts Lay Out Ten Things Comfort Focused",
         "returned": 0,
         "state": "unreported"
       }
@@ -5422,6 +5032,16 @@
         "state": "unreported"
       }
     },
+    "42853191": {
+      "checked_at": "2026-10-14T15:21:15.644162+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "When Nurses Empowered Flag Patients Palliative Referrals Rise",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42853241": {
       "checked_at": "2026-10-09T17:17:20.611738+00:00",
       "result": {
@@ -5449,6 +5069,16 @@
         "outlets": [],
         "query": "Associations long term exposure source specific lifestyle genetic susceptibility dementia",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42853544": {
+      "checked_at": "2026-10-14T15:20:32.551747+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cancer Patients Get Lower Opioid Doses Than Younger Ones Still",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -5786,6 +5416,26 @@
         "state": "lightly_reported"
       }
     },
+    "42859237": {
+      "checked_at": "2026-10-14T15:25:45.551397+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Consensus based perspectives integrating IPX203 into Parkinson disease management",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42859899": {
+      "checked_at": "2026-10-14T15:25:42.791246+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Perceived Physical Health Depressive Symptoms Among Nepali Moderating Role Components",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42860049": {
       "checked_at": "2026-10-13T17:12:24.678026+00:00",
       "result": {
@@ -5816,6 +5466,16 @@
         "state": "unreported"
       }
     },
+    "42860584": {
+      "checked_at": "2026-10-14T15:25:47.138507+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Diabetes Associated Cognitive Impairment Pathophysiology Emerging Therapies",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
     "42860638": {
       "checked_at": "2026-10-13T17:12:02.263183+00:00",
       "result": {
@@ -5832,6 +5492,16 @@
         "articles": [],
         "outlets": [],
         "query": "Community Voice Community Advisory Boards ADRD Biomarker Research Among Black",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42860763": {
+      "checked_at": "2026-10-14T15:20:44.667372+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Flagged but Not Followed Screening Spots Who Need Palliative Care",
         "returned": 0,
         "state": "unreported"
       }
@@ -6050,6 +5720,16 @@
         "state": "unreported"
       }
     },
+    "42863799": {
+      "checked_at": "2026-10-14T15:25:35.628246+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Associations one one peer support service intervention outcomes among depressive",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42864195": {
       "checked_at": "2026-10-13T17:10:44.122975+00:00",
       "result": {
@@ -6144,6 +5824,202 @@
         "articles": [],
         "outlets": [],
         "query": "Electroencephalographic complexity cognitive decline Insights approximate entropy across dementia",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42867198": {
+      "checked_at": "2026-10-14T15:24:11.710173+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Intelligent assistive technologies rehabilitation Alzheimer disease systematic review thematic analysis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42867452": {
+      "checked_at": "2026-10-14T15:24:47.589892+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Motor intrusion errors novel marker neurodegeneration executive dysfunction Alzheimer disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42867611": {
+      "checked_at": "2026-10-14T15:25:31.326910+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://bioengineer.org/diabetes-and-obesity-may-force-the-aging-brain-to-work-harder-for-oxygen/",
+            "outlet": "Bioengineer.org",
+            "title": "Diabetes and Obesity May Force the Aging Brain to Work Harder for Oxygen"
+          }
+        ],
+        "outlets": [
+          "Bioengineer.org"
+        ],
+        "query": "Regional oxygen extraction fraction higher type diabetes obesity associations cognition",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42867612": {
+      "checked_at": "2026-10-14T15:25:28.389686+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Inhibition soluble epoxide hydrolase rescues cognitive deficits preserving neurovascular integrity",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42867634": {
+      "checked_at": "2026-10-14T15:25:27.215264+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Building bone jaw denosumab adult Langerhans cell histiocytosis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42867635": {
+      "checked_at": "2026-10-14T15:25:13.091067+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Sex specific predictive equations estimating trochanteric soft tissue thickness across",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42867998": {
+      "checked_at": "2026-10-14T15:25:17.572361+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Reduced total arterial compliance frail associated orthostatic blood pressure variability",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42868033": {
+      "checked_at": "2026-10-14T15:24:08.199335+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Education proxy cognitive reserve its moderating role amyloid cognition relationship",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42868040": {
+      "checked_at": "2026-10-14T15:24:14.107547+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://medicalxpress.com/news/2026-10-physical-mood-quality-life-menopause.html",
+            "outlet": "Medical Xpress",
+            "title": "Physical activity may improve mood and quality of life during menopause"
+          }
+        ],
+        "outlets": [
+          "Medical Xpress"
+        ],
+        "query": "effectiveness physical activity interventions non physiological symptoms menopause systematic review",
+        "returned": 3,
+        "state": "lightly_reported"
+      }
+    },
+    "42868591": {
+      "checked_at": "2026-10-14T15:24:33.043920+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Gaps Between Self Reported Documented Use Health Care Service Portal",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42868877": {
+      "checked_at": "2026-10-14T15:25:04.914189+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Food intake temporally associated mealtime behaviors residents dementia staff care",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42868918": {
+      "checked_at": "2026-10-14T15:24:16.383029+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "effect balance training cognitive function without cognitive impairment systematic review",
+        "returned": 3,
+        "state": "unreported"
+      }
+    },
+    "42868932": {
+      "checked_at": "2026-10-14T15:25:22.086588+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Navigating Infection Control Dialysis Delivery Nursing Homes Organizational Perspectives 2020",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42868933": {
+      "checked_at": "2026-10-14T15:25:00.865387+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Characteristics Geographic Variability Assisted Living Communities Affiliated Top Chains",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42868934": {
+      "checked_at": "2026-10-14T15:24:54.289835+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Home Health Pathways Relevant Patient Driven Groupings Model Classification Among",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42868983": {
+      "checked_at": "2026-10-14T15:24:26.837092+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Explicit health safety related non completion physical performance tests subsequent",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42869650": {
+      "checked_at": "2026-10-14T15:23:55.953913+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Low Intensity Social Care Dementia Caregivers Randomized Trial",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42870717": {
+      "checked_at": "2026-10-14T15:24:23.496899+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Frailty Status Medication Use Among Evidence NHANES 1999 2020",
         "returned": 0,
         "state": "unreported"
       }

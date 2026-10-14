@@ -1,0 +1,795 @@
+{
+  "id": "senior-living-research-digest-palliative-care-october-2026",
+  "filename": "Senior Living Research Digest \u2014 Palliative Care \u2014 October 2026.md",
+  "title": "Senior Living Research Digest \u2014 Palliative Care \u2014 October 2026",
+  "run_date": "2026-10-14",
+  "coverage_window": "Last 90 days",
+  "journals_searched": "187",
+  "articles_screened": "40",
+  "focus": "palliative care",
+  "topic": "palliative care",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 19,
+  "studies": [
+    {
+      "number": 1,
+      "title": "An AI Tool Can Flag Which Nursing Home Residents May Have Six Months to Live \u2014 Using Data Already Collected at Admission",
+      "journal": "JMIR Aging",
+      "published": "2026 Sep 16",
+      "pmid": "42748398",
+      "doi": "10.2196/94567",
+      "the_study": "Researchers in Taiwan built and tested a machine learning model to predict death within 180 days of a first admission to a long-term care facility, using only the routine assessment data facilities already gather at intake. The model was developed on 23,901 residents admitted between 2020 and 2023 across 636 facilities and then tested on a separate group of 6,216 residents admitted in 2024. It correctly ranked risk about 90% of the time, and the strongest warning signs were frequent hospitalizations in the prior six months, difficulty with activities of daily living, and weight loss. Roughly 22% to 29% of newly admitted residents died within six months.",
+      "why_it_matters": "Early death after moving into long-term care is far more common than most families expect, and a tool that flags high risk at the moment of admission could trigger timely conversations about goals of care, advance directives, and palliative support instead of leaving those discussions until a crisis.",
+      "story_angle_primary": "If you or your spouse is moving into a long-term care facility, know that the first six months carry real risk \u2014 especially after repeated hospital stays, unexplained weight loss, or new difficulty with dressing, bathing, or walking. This is the moment to put your wishes in writing and ask the facility what their process is for advance care planning and palliative care referral.",
+      "story_angle_secondary": "For facility administrators and clinical directors: this is a proof of concept that risk stratification doesn't require expensive hospital record integration \u2014 the admission assessment you already complete may be enough. But the authors are explicit that no one has yet tested whether using the tool actually improves care or family experience, so it should inform review processes, not replace clinical judgment.",
+      "caveats": "Retrospective and observational; developed and validated only in Taiwanese facilities and may not generalize to US or European long-term care; one author is a paid consultant for Jubo Health Technologies and another is a full-time employee, and the company was contracted for technical implementation and data extraction (the company reports no role in design, analysis, or decision to publish); no prospective test of whether using the model changes outcomes.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 23901,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "nutrition",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 2,
+      "title": "Older Cancer Patients Get Lower Opioid Doses Than Younger Ones \u2014 and Still Report the Same Pain Relief",
+      "journal": "Drugs Aging",
+      "published": "2026 Oct 9",
+      "pmid": "42853544",
+      "doi": "10.1007/s40266-026-01328-3",
+      "the_study": "Italian researchers analyzed opioid prescribing for 113 patients with advanced cancer admitted to an acute palliative care unit, split into three groups: under 65 (n=46), 65 to 75 (n=43), and over 75 (n=24). Doses were similar on admission, but from the first prescription change onward, patients under 65 received significantly higher morphine-equivalent doses and more complex regimens (including methadone) than either older group, with the gap widest at discharge. Crucially, pain intensity improved significantly in all three age groups, with no difference in pain scores between groups at admission or discharge.",
+      "why_it_matters": "It counters the common fear that older adults with cancer are being systematically undertreated for pain \u2014 in a specialist palliative care setting, lower doses tailored to age-related changes in how the body handles drugs produced equally good pain control.",
+      "story_angle_primary": "If you're an older adult with cancer pain and you've been told your opioid dose is lower than what a younger patient might get, that isn't necessarily undertreatment \u2014 older bodies process these drugs differently. The question to ask your palliative care team is not 'am I getting enough milligrams?' but 'is my pain actually controlled, and what's the plan if it isn't?'",
+      "story_angle_secondary": "For family members advocating in the hospital: dose comparisons across patients are a poor yardstick. Track and report the actual pain score and function instead, and ask specifically about breakthrough pain rescue dosing, which also differed by age in this study.",
+      "caveats": "Small sample (N=113), with only 24 patients in the oldest group; single-center secondary analysis of an observational study, so it cannot establish that lower doses caused equivalent outcomes; conducted in a specialist acute palliative care unit where titration expertise is high, which may not reflect general hospital or nursing home practice; pain outcomes are self-reported.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 113,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 3,
+      "title": "How Older Chinese Immigrants Come to Accept Hospice: A Slow Reconciliation of Filial Piety and American Medicine",
+      "journal": "Geriatrics & Gerontology International",
+      "published": "2026 Oct",
+      "pmid": "42833695",
+      "doi": "10.1111/ggi.70861",
+      "the_study": "Researchers held five language-matched focus groups (three in Mandarin, two in Cantonese) with 31 Chinese-speaking older immigrants, average age 76 and averaging nearly 23 years in the US, to understand how views on end-of-life care shift over time. Participants described change happening at three levels: family and friends passing along new information, direct encounters with US hospitals and clinics reshaping their preferences, and broader cultural exposure enabling deeper attitude shifts. Over time, many reconciled hospice and palliative care with traditional values like filial piety and moved toward more person-centered decision-making.",
+      "why_it_matters": "Chinese immigrant elders use hospice and palliative care at lower rates than non-Hispanic White peers, and this study shows that acceptance is not a fixed cultural barrier but a process that peer networks and respectful clinical encounters can move along.",
+      "story_angle_primary": "If talking about end-of-life care feels like inviting bad luck or like asking your children to fail in their duty to you, you are not alone \u2014 and many people in your position have found a way to reframe it. Consider raising the subject in a setting you trust, with peers in your own language, before you need to discuss it with a doctor.",
+      "story_angle_secondary": "For senior living staff and clinicians: don't interpret an initial decline of hospice information as a final cultural answer. The most influential information channel in this study was other family members and friends, which argues for peer-led, language-matched education sessions rather than one-on-one clinical pitches.",
+      "caveats": "Qualitative focus group study with 31 participants; findings describe experiences and perceptions rather than measuring behavior change or care utilization; participants were long-settled immigrants (average 23 years in the US) and may not represent recent arrivals or other Asian immigrant groups.",
+      "score": 57,
+      "band": "Background",
+      "evidence_type": "case-control",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 4,
+      "title": "A Nursing Home Palliative Care Program Cut Hospitalizations Dramatically and Let 98% of Residents Die Where They Lived",
+      "journal": "Journal of Pain and Symptom Management",
+      "published": "2026 Nov",
+      "pmid": "42580497",
+      "doi": "10.1016/j.jpainsymman.2026.07.034",
+      "the_study": "The Modena Local Health Authority in Italy rolled out a structured palliative care pathway across long-term care facilities, using the 'surprise question,' the SPICT screening tool, prognostic scoring, team review, goals-of-care conversations, and referral to a home palliative care unit. Between April and December 2024, 405 residents were enrolled, with a mean age of 87 and a predominance of dementia, neurological disease, and cancer. Among the 250 residents who died, 245 (98%) died in the facility rather than a hospital, and average hospitalizations per resident fell from 0.96 before referral to 0.04 after.",
+      "why_it_matters": "Transfers to the emergency department in the final weeks of life are distressing and often avoidable for frail nursing home residents, and this shows a whole-system pathway \u2014 not just individual good intentions \u2014 can keep people in their own beds.",
+      "story_angle_primary": "If you live in a care facility and would prefer not to be sent to the hospital at the end of your life, say so explicitly and ask that it be documented in your care plan. Ask whether your facility has a formal process for identifying palliative care needs and who reviews it.",
+      "story_angle_secondary": "For administrators and directors of nursing: the active ingredients here were systematic \u2014 routine screening with a validated tool, scheduled multidisciplinary review, and a named second-level support clinician \u2014 not ad hoc referrals. Fewer hospital transfers also has obvious implications for resident distress, staff workload, and cost.",
+      "caveats": "Quality improvement project with no control group and no randomization, so the drop in hospitalizations cannot be attributed to the pathway with confidence; before-and-after hospitalization comparison is vulnerable to the fact that referral often coincides with rapid decline; single health authority in Italy, where the care system differs from the US; short implementation window (nine months); authors themselves urge cautious interpretation.",
+      "score": 53,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 405,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 5,
+      "title": "When Very Old Heart Failure Patients Are Referred to Palliative Care, Half Don't Survive Six Months",
+      "journal": "ESC Heart Failure",
+      "published": "2026 Oct 7",
+      "pmid": "42841449",
+      "doi": "10.1093/eschf/xvag252",
+      "the_study": "French researchers reviewed 604 patients (mean age 87, 52% women) discharged from a cardiogeriatric unit after hospitalization for acute heart failure, of whom 106 were referred to identified palliative care beds. Referral was strongly associated with lower ability to perform daily activities, major neurocognitive disorders (roughly three times more likely), higher discharge NT-proBNP levels, and fewer discharge medications. Six-month survival was 47.6% among those referred, compared with 79.5% among those who were not.",
+      "why_it_matters": "It shows that experienced clinicians are reasonably accurate at spotting which very old heart failure patients are nearing the end of life \u2014 making a palliative referral a meaningful signal that families should treat as a prompt for planning, not a bureaucratic formality.",
+      "story_angle_primary": "If you're hospitalized for heart failure in your eighties or nineties and the team raises palliative care, it typically means they see a combination of frailty, memory problems, and strained heart function that signals a limited time horizon. That is a reason to ask directly what they expect over the next six months and to get your preferences recorded \u2014 not a sign anyone is giving up on treating you.",
+      "story_angle_secondary": "For families and care home staff: the drivers of referral here were functional decline and cognitive impairment as much as cardiac numbers. If a relative's ability to dress, wash, and move independently is falling alongside repeated heart failure admissions, that combination warrants asking the cardiology team about palliative input before the next crisis.",
+      "caveats": "Retrospective, single-center, and observational \u2014 palliative referral marks who is sick, it does not cause worse outcomes, as the authors emphasize; roughly nine months of admissions at one French cardiogeriatric unit, a care model with no direct US equivalent; patients who died during the index hospitalization were excluded, which likely understates overall mortality.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 604,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 6,
+      "title": "Flagged but Not Followed Up: ER Screening Spots Seniors Who Need Palliative Care \u2014 Then Nothing Happens",
+      "journal": "J Palliat Med",
+      "published": "2026 Oct 11",
+      "pmid": "42860763",
+      "doi": "10.1177/10966218261496668",
+      "the_study": "Researchers at UC San Diego reviewed records of 421 patients aged 65 and older who were screened in a geriatric emergency department between 2019 and 2024 using the Palliative Care and Rapid Emergency Screening (P-CaRES) tool. About 27% screened positive for unmet palliative care needs, and those patients were older and stayed in the hospital longer. Yet the rate of actually receiving a specialty palliative care consultation was essentially identical for those who screened positive and those who did not (13.9% vs. 13.7%).",
+      "why_it_matters": "A screening result that sits in the chart without an attached referral pathway changes nothing \u2014 meaning older adults with serious illness can be formally identified as needing symptom and goals-of-care support and still never be offered it.",
+      "story_angle_primary": "If you or someone you love lands in the emergency department with a serious illness, don't assume the hospital's screening tools will connect you to palliative care. You can ask directly: \"Can a palliative care team see me to help with symptoms and planning?\" It is a request you are entitled to make yourself.",
+      "story_angle_secondary": "For hospital and senior living leaders, this is a sharp implementation lesson: a screen with no alert, order set, or automatic referral is documentation theater. Ask your partner hospitals what actually happens after a positive palliative screen \u2014 and who is accountable for the next step.",
+      "caveats": "Retrospective, single-center study at one academic health system; observational design cannot establish causation; findings may not generalize to EDs with different staffing or referral systems.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 421,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 7,
+      "title": "Hindu, Buddhist, Sikh and Jain Cancer Patients More Likely to Die in the Hospital \u2014 and Enter Hospice Too Late",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov",
+      "pmid": "42556759",
+      "doi": "10.1016/j.jpainsymman.2026.07.028",
+      "the_study": "Researchers reviewed electronic health records of 54,828 hospitalized adults with cancer at a dedicated cancer hospital, comparing the 2.1% who identified with dharmic religions (Hinduism, Buddhism, Sikhism, Jainism) to everyone else, and also interviewed patients and chaplains. Dharmic-religion patients used palliative care slightly more often (14.6% vs. 11.8%) but had markedly worse end-of-life markers: inpatient death (27% vs. 12%), hospice enrollment within 3 days of death (5% vs. 2%), chemotherapy in the last 14 days (11% vs. 8%), and ICU care in the last 30 days (12% vs. 5%). Interviews surfaced unmet needs around Ayurvedic practices, dietary observance, and inconsistent conversations about end-of-life preferences.",
+      "why_it_matters": "The pattern suggests palliative care is being triggered by crisis rather than planned in advance for these patients, and that religious and cultural preferences about diet, traditional medicine, and dying are not being asked about early enough.",
+      "story_angle_primary": "If your faith or cultural traditions shape how you want to be cared for \u2014 around diet, prayer, traditional remedies, or where you want to spend your final days \u2014 say so early and in writing, not during a hospital crisis. Ask your oncology team whether a chaplain who understands your tradition can be part of your care.",
+      "story_angle_secondary": "For care teams and senior living staff: religious identity in a chart is not the same as knowing what a resident actually wants. This study argues for proactively asking about values across the whole illness journey, and for building chaplaincy and cultural-food accommodations into routine care rather than treating them as special requests.",
+      "caveats": "Single-center study at a specialized cancer hospital; observational design cannot establish causation; dharmic-religion patients were only 2.1% of the sample; qualitative interview component was small; findings may not generalize to community hospitals or non-cancer populations.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 8,
+      "title": "\"Delays, Bills and Confusion\": What Pancreatic Cancer Patients and Their Caregivers Say Is Missing From Their Care",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 8",
+      "pmid": "42842360",
+      "doi": "10.1097/NJH.0000000000001272",
+      "the_study": "Researchers in Southern California interviewed 21 adults \u2014 patients with advanced pancreatic ductal adenocarcinoma and their family caregivers, many of Latino background \u2014 in 2024 and 2025 about their experiences from diagnosis through treatment. Four themes emerged: a medical journey marked by diagnostic delays but sustained by family and faith; navigation barriers including financial strain and difficult interactions with staff; widespread misunderstanding of palliative care and end-of-life conversations; and a clear call for holistic, practical, culturally responsive support.",
+      "why_it_matters": "Patients and families repeatedly described palliative care as misunderstood \u2014 suggesting that one of the biggest barriers to comfort-focused support isn't availability, but the way it's explained.",
+      "story_angle_primary": "If someone tells you it's time to \"consider palliative care,\" ask them to spell out exactly what it includes \u2014 pain control, nausea management, help with decisions, support for your family \u2014 and whether you can have it alongside active treatment. Many people turn it down based on a misunderstanding of what it actually is.",
+      "story_angle_secondary": "For caregivers and clinicians: families in this study wanted practical resources \u2014 help with financial strain, navigation, and clear language \u2014 as much as medical expertise. Building a short, plain-language explanation of palliative care, and a referral list for financial and spiritual support, addresses the gaps patients themselves named.",
+      "caveats": "Small qualitative study (N=21), single health system, participants drawn largely from one regional and cultural community; findings are exploratory and not generalizable; self-reported experiences.",
+      "score": 50,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 21,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 9,
+      "title": "China Meets Only a Quarter of Its Pain-Relief Need as Its Population Ages",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov",
+      "pmid": "42567370",
+      "doi": "10.1016/j.jpainsymman.2026.07.038",
+      "the_study": "Using national International Narcotics Control Board data from 2013 to 2024, researchers tracked opioid consumption in China against the estimated need of patients with serious health-related suffering across 21 conditions. Although consumption rose over the period, in 2021 available opioids covered just 25.97% of estimated need. An interrupted time series analysis across 20 cities found a sharp drop at the onset of COVID-19 (-5.80 SDDD) with only gradual recovery, and wide variation between cities.",
+      "why_it_matters": "As populations age worldwide, this quantifies how far a major country remains from being able to relieve the pain of dying and seriously ill older adults \u2014 a cautionary benchmark for any health system balancing opioid control against legitimate palliative need.",
+      "story_angle_primary": "Untreated pain at the end of life is a policy failure, not an inevitability. If you or a family member are told pain medication can't be increased, it's reasonable to ask whether that's a medical judgment or a supply and regulation issue \u2014 and to request a palliative care specialist's opinion.",
+      "story_angle_secondary": "For senior living and hospice professionals, this is a reminder that opioid stewardship policies have a second edge: restriction aimed at misuse can leave seriously ill older residents under-treated. Audit whether your own residents' pain scores are actually being acted on.",
+      "caveats": "Ecological analysis of national-level consumption data, not patient-level outcomes; need estimates rely on modeling assumptions; findings are specific to China's regulatory and health system context and may not generalize; observational design cannot establish causation.",
+      "score": 60,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 2013,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 10,
+      "title": "When Nurses Are Empowered to Flag Patients, Palliative Referrals Rise",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 9",
+      "pmid": "42853191",
+      "doi": "10.1097/NJH.0000000000001273",
+      "the_study": "A quality improvement project on a 31-bed adult medical-surgical unit trained 20 nurses to use a screening tool during admission and transfer assessments to identify patients with unmet palliative care needs. Referrals rose from 3 in the 8 weeks before implementation to 8 in the 8 weeks after, and the palliative care team judged all referrals appropriate. Nurses' knowledge scores improved substantially after the education component.",
+      "why_it_matters": "It suggests that nurses frequently recognize suffering before physicians refer, and that giving them a structured tool plus permission to act can shorten the delay in getting symptom relief and care planning.",
+      "story_angle_primary": "Nurses often see more of your day-to-day distress than your doctor does. If pain, breathlessness or anxiety are wearing you down in the hospital, tell your bedside nurse \u2014 in a growing number of units, they can set a palliative care consult in motion.",
+      "story_angle_secondary": "For nursing leaders and senior living administrators: the lever here was education plus a standardized screen, not new staffing. Paired with the UC San Diego finding that passive screening alone fails, the message is that screening works when a named person is empowered to act on it.",
+      "caveats": "Small quality improvement project with no control group, single unit, single center, very small referral numbers (3 vs. 8) over only 8 weeks each; knowledge scores self-assessed via testing of 20 nurses; no patient outcomes measured.",
+      "score": 57,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 11,
+      "title": "Advance Care Plans Cut Unwanted Hospital Trips at the End of Life \u2014 But Only When They're Specific",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1",
+      "pmid": "42714187",
+      "doi": "10.1097/NJH.0000000000001217",
+      "the_study": "Australian researchers reviewed 23 studies published between 2004 and 2024 across nine countries, examining why roughly 70% of aged care residents get transferred to a hospital in their final months and what role advance care planning plays. Plans and directives that contained explicit instructions \u2014 such as do not resuscitate or do not hospitalize \u2014 were linked with fewer hospital transfers than plans without them. The reviewers also found troubling reports of residents being sent to hospital against the wishes documented in their own advance care plans, with transfers driven by acuity, perceived vulnerability, age, and family pressure.",
+      "why_it_matters": "A hospital transfer in the last weeks of life often means disorientation, invasive procedures, and dying away from familiar surroundings \u2014 and this review suggests that vague paperwork does little to prevent it while specific, actionable instructions do.",
+      "story_angle_primary": "If you have an advance care plan, check whether it actually says what you want to happen in a crisis. General statements about \"comfort\" may not stop an ambulance call; explicit instructions about resuscitation and hospitalization are what the research links to fewer transfers. Ask your doctor and your care facility where your document is stored, who can see it at 2 a.m., and what the facility's process is when a resident deteriorates overnight.",
+      "story_angle_secondary": "For families and aged care staff: the review found family-related factors are among the drivers of end-of-life transfers, and that transfers sometimes happen in direct contradiction to a documented plan. Facilities may want to audit how often residents' directives are accessible to after-hours and agency staff, and families should talk through in advance how they'll respond under pressure so a panicked call doesn't override a decision the resident already made.",
+      "caveats": "Scoping review of heterogeneous studies rather than new primary data; included studies are mostly observational and cannot establish causation; findings span nine countries with differing legal frameworks for advance directives, so specifics may not transfer to your jurisdiction.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 12,
+      "title": "Modeling Study Warns Australia Will Fall 106,000 Patients Short on Specialist Palliative Care by 2045",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov",
+      "pmid": "42546987",
+      "doi": "10.1016/j.jpainsymman.2026.07.032",
+      "the_study": "University of Melbourne researchers built a national workforce model projecting the supply of palliative care physicians and nurses in Australia from 2025 to 2045, comparing it against nationally endorsed staffing benchmarks indexed to projected deaths. Even with the physician workforce growing 3.1% annually, by 2045 an estimated 106,470 people who die each year \u2014 more than 38,500 above today's shortfall \u2014 will be unable to access recommended levels of specialist palliative care. Cumulatively, nearly 1.7 million Australians are projected to experience unmet need over the two decades, with outer regional areas bearing 15% of the gap despite holding 8% of the population.",
+      "why_it_matters": "The authors conclude the shortfall is a structural feature of the system, not a temporary dip \u2014 which means waiting until a crisis to seek specialist palliative care is a strategy that will get riskier, especially outside major cities.",
+      "story_angle_primary": "If you're living with a serious illness, don't assume specialist palliative care will simply appear when you need it. Ask your treating doctor early about referral pathways in your area, whether telehealth palliative consultations are available, and what your primary care physician can handle directly \u2014 generalist-provided palliative care is one of the main ways the authors say the gap will have to be filled.",
+      "story_angle_secondary": "For senior living operators and regional care providers: this model suggests building in-house palliative capability \u2014 staff training, telehealth links to specialist teams, embedded generalist palliative protocols \u2014 is less a nice-to-have than a necessary response to a workforce gap that is projected to widen rather than close, particularly in regional areas.",
+      "caveats": "Projection model, not observed outcomes; results depend on assumptions about workforce flows, mortality projections, and staffing benchmarks; Australia-specific, so figures do not transfer directly to other health systems.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "modelling",
+      "sample_size": 106470,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "falls",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 13,
+      "title": "Psilocybin Therapy for Depression Worked Just as Well in Cancer Patients Still Receiving Chemotherapy",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov",
+      "pmid": "42546985",
+      "doi": "10.1016/j.jpainsymman.2026.07.030",
+      "the_study": "This secondary analysis of a phase 2, open-label, single-arm trial compared 30 adults with cancer and diagnosed major depressive disorder (mean age 56; 70% women) who received a single 25-mg dose of psilocybin with preparation and integration therapy. Seventeen were receiving systemic anticancer treatment within 30 days of dosing and 13 were not. Depression scores dropped substantially in both groups with no significant differences at weeks 1, 3, or 8, and adverse events were similar; four severe and one serious adverse event occurred, all in the actively treated group, but all were judged unrelated to psilocybin.",
+      "why_it_matters": "Depression is common and badly undertreated in people with advanced cancer, and most psilocybin trials have excluded anyone on active treatment \u2014 this is early evidence that being mid-chemotherapy may not need to rule a patient out of future trials.",
+      "story_angle_primary": "If you're in cancer treatment and struggling with depression, it's worth raising with your oncology or palliative care team \u2014 including asking whether any psilocybin or psychedelic-assisted therapy trials are enrolling near you. This is research-setting treatment with extensive therapist support, not something to pursue on your own, and the evidence base is still small.",
+      "story_angle_secondary": "For families and supportive oncology staff: the trial's model included group preparation and group integration sessions alongside the dosing, a reminder that the psychological support wrapped around any such treatment is a core component \u2014 and that persistent depression in a seriously ill relative deserves active treatment, not acceptance as an inevitable part of illness.",
+      "caveats": "Small N (30 total, 17 vs 13 in the comparison groups); secondary analysis of an open-label, single-arm trial with no control group or blinding; short follow-up (8 weeks); conducted with Sunstone Therapies, a psychedelic therapy company, among the author affiliations; mean participant age of 56 means findings may not generalize to the oldest patients.",
+      "score": 57,
+      "band": "Background",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 14,
+      "title": "When a Palliative Care Nurse Moves Into the Specialty Clinic, Hidden Symptoms Come to Light",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1",
+      "pmid": "42714185",
+      "doi": "10.1097/NJH.0000000000001230",
+      "the_study": "Clinicians at an academic multiple sclerosis center embedded a nurse practitioner-led palliative care clinic directly inside the MS comprehensive care center and tracked what happened over three months. Twenty-six patients with progressive MS were referred; the average number of symptoms identified per patient jumped from 1.8 before the intervention to 6.7 afterward, and 17 patients (85%) had documented serious illness conversations compared with none beforehand. Nurse practitioner productivity rose 67%, suggesting the model was also workable for the clinic.",
+      "why_it_matters": "People living with progressive neurologic illness often carry pain, fatigue, bladder problems, mood symptoms and spiritual distress that never get named in a standard neurology visit \u2014 and placing palliative expertise in the same clinic surfaced them and opened the door to planning conversations.",
+      "story_angle_primary": "If you live with a progressive condition like MS, Parkinson's or ALS, you can ask your neurology clinic whether a palliative care clinician is available on-site or by referral \u2014 palliative care is not the same as hospice, and the point is better symptom relief and clearer plans while you continue your regular treatment.",
+      "story_angle_secondary": "For clinic administrators and senior living medical directors, this is a staffing and workflow story: a single embedded nurse practitioner dramatically raised rates of documented goals-of-care discussions without hurting productivity, a model worth pitching to health systems hesitant about the business case.",
+      "caveats": "Small N (26 patients), single-center feasibility project, no control group, short three-month follow-up, and outcome measures rely on chart documentation and clinician perceptions rather than patient-reported quality of life.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "observational",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 3,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 15,
+      "title": "Heart Disease in the ICU: Experts Lay Out Ten Things Comfort-Focused Care Should Address",
+      "journal": "J Palliat Med",
+      "published": "2026 Oct 7",
+      "pmid": "42844232",
+      "doi": "10.1177/10966218261496677",
+      "the_study": "A large international, multidisciplinary panel \u2014 palliative care physicians, nurse practitioners, a social worker, psychologist and chaplain, alongside cardiologists, cardiac surgeons, cardiothoracic anesthesiologists and intensivists \u2014 assembled evidence-based guidance in a 'Top Ten Tips' format for caring for patients critically ill with cardiovascular disease. They note that up to 30% of patients die during a cardiac intensive care unit admission, and survivors frequently face lasting functional impairment and psychological distress. The guidance covers symptom burden, decisions about life-sustaining technologies such as mechanical circulatory support, prognostic uncertainty, and caregiver needs.",
+      "why_it_matters": "Cardiovascular disease is the leading cause of death worldwide and a common reason older adults land in intensive care, yet palliative support is often brought in late or not at all in cardiac units where the focus is on aggressive life-prolonging technology.",
+      "story_angle_primary": "If you have advanced heart failure or heart disease, consider writing down now \u2014 before any crisis \u2014 what you would and would not want in an intensive care unit, including how you feel about machines that take over heart or lung function, and name a decision-maker who knows those answers.",
+      "story_angle_secondary": "For families and senior living staff, the key takeaway is that a cardiac ICU admission is a reasonable moment to request a palliative care consultation alongside, not instead of, cardiac treatment \u2014 and that survivors often come home with new functional and emotional needs that require planning.",
+      "caveats": "This is expert consensus guidance rather than new primary research; it presents no original patient data and recommendations reflect specialist opinion synthesizing existing evidence.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 16,
+      "title": "Nearly a Third of People Are Lonely in Their Final Year of Life",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov;72(5):558-569.e5",
+      "pmid": "42492599",
+      "doi": "10.1016/j.jpainsymman.2026.07.023",
+      "the_study": "Researchers at Marie Curie and University College London pooled five waves of the UK Household Longitudinal Study to find adults who had completed a loneliness questionnaire within 12 months of their death. Using the UCLA-Loneliness scale, they found 32.2% were lonely in that final year \u2014 meaning they felt a lack of companionship, left out, and isolated at least some of the time. The strongest risk factors in fully adjusted models were having a likely mental health condition, being unmarried, and living with three or more functional impairments. Prevalence did not change measurably between 2017 and 2022.",
+      "why_it_matters": "Loneliness at the end of life is linked to more pain, more breathlessness, and a greater chance of care home admission, yet it is rarely screened for or treated as a care need alongside physical symptoms.",
+      "story_angle_primary": "If you are living with a serious illness, loss of mobility, or low mood, loneliness is common and not a personal failing \u2014 it is worth naming to your doctor, nurse, or hospice team, who can connect you with befriending services, counseling, or volunteer visitors rather than treating isolation as inevitable.",
+      "story_angle_secondary": "For hospice teams and senior living staff, this is a case for routine loneliness screening in people with advanced illness \u2014 and for targeting outreach at the clearest risk groups: residents who are unmarried, those with multiple functional impairments, and those with a mental health diagnosis.",
+      "caveats": "Observational cohort analysis \u2014 cannot establish cause and effect; loneliness is self-reported; changes to the survey between waves limited the trend analysis over time; UK population, so findings may not fully generalize to other health and social care systems.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "depression",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 17,
+      "title": "Commercially Insured Patients Got More Aggressive \u2014 Not Better \u2014 End-of-Life Care Than Medicaid Patients",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov;72(5):549-557",
+      "pmid": "42492600",
+      "doi": "10.1016/j.jpainsymman.2026.07.020",
+      "the_study": "Dana-Farber researchers analyzed insurance claims for 2,669 adults aged 18-64 with blood cancers who died between 2016 and 2021 \u2014 844 on Medicaid and 1,825 with commercial insurance. Overall, 58.2% had high-intensity health care use at the end of life, 48.7% died in the hospital, and only about a quarter enrolled in hospice or received palliative care. Compared with Medicaid, commercial insurance was associated with higher odds of high-intensity care (OR 1.69) and in-hospital death (OR 2.71), and lower odds of hospice (OR 0.70) and palliative care (OR 0.76).",
+      "why_it_matters": "It upends the assumption that better-funded insurance buys better end-of-life care, and it shows how rarely people with blood cancers get hospice or palliative care at all \u2014 a gap that persists into Medicare age.",
+      "story_angle_primary": "If you or a family member has leukemia, lymphoma, or myeloma, do not wait for the care team to raise palliative care \u2014 ask directly what palliative support is available alongside treatment, and ask what your insurance plan requires before hospice can begin, since transfusion and treatment rules often create the barrier.",
+      "story_angle_secondary": "For care coordinators and social workers, this suggests screening plan-specific hospice eligibility rules early rather than at crisis point, and flagging blood cancer patients as a group that systematically misses palliative referral.",
+      "caveats": "Retrospective claims-based analysis \u2014 cannot establish causation and claims data may not capture care intensity or patient preferences; population is adults under 65, so findings extend only indirectly to Medicare-age seniors; two co-authors are employed by Merative, which owns the MarketScan databases used.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 2669,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 18,
+      "title": "Stopping Pills Can Be as Important as Starting Them in Hospice Care",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 1;28(5):E210-E216",
+      "pmid": "42519959",
+      "doi": "10.1097/NJH.0000000000001254",
+      "the_study": "Nursing researchers conducted a rapid review of 37 studies published from January 2020 through December 2025 on deprescribing in adults with serious illness and limited life expectancy. The evidence consistently showed that long-term preventive drugs \u2014 statins, blood pressure medications, diabetes drugs, blood thinners, and vitamins \u2014 offer little short-term benefit near the end of life while adding side effects and pill burden. Despite this, deprescribing remains inconsistent and usually happens reactively, after a problem, rather than proactively, with nurses playing a central but under-recognized role in reconciliation and shared decision-making.",
+      "why_it_matters": "Many people in hospice or with advanced illness are still swallowing a dozen or more pills a day for conditions that will not affect them in the time they have, at real cost in nausea, dizziness, falls, and daily effort.",
+      "story_angle_primary": "If you are living with a serious illness, ask your clinician or hospice nurse for a full medication review and a straight answer on each drug: what is this doing for me now, and what happens if I stop it? Never stop a prescribed medication on your own \u2014 but you are entitled to ask the question.",
+      "story_angle_secondary": "For families and senior living nurses, structured tools like STOPPFrail and OncPal exist to make these conversations systematic rather than ad hoc; raising medication review at each care plan meeting can head off avoidable side effects and reduce the daily burden on the person you care for.",
+      "caveats": "This is a rapid review of mixed-quality evidence \u2014 qualitative, observational, and framework studies rather than randomized trials \u2014 not new primary data; the authors themselves note that evidence on communication strategies and operational models remains thin.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "cost & policy",
+        "falls",
+        "nutrition",
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 19,
+      "title": "When Cancer Blocks the Bowel: Chemotherapy Helped One in Three, but at Steep Cost",
+      "journal": "BMJ Support Palliat Care",
+      "published": "2026 Oct 7 (online ahead of print)",
+      "pmid": "42843988",
+      "doi": "10.1136/spcare-2026-006508",
+      "the_study": "Researchers at Tenon University Hospital in Paris reviewed 64 patients (median age 62) hospitalized between 2015 and 2025 with inoperable malignant bowel obstruction that had not responded to medical management, and who then received systemic anticancer therapy. Obstruction resolved in 33% of patients, but median overall survival was just 50 days, 38% of responders obstructed again within about a month, and 58% experienced severe (grade 3 or higher) side effects. Patients with gynecological cancers fared somewhat better, surviving a median 66 days versus 39 days for others.",
+      "why_it_matters": "Malignant bowel obstruction is a common crisis point in advanced cancer, and this gives patients and families concrete numbers to weigh when deciding whether to attempt more treatment or shift fully toward comfort.",
+      "story_angle_primary": "If you are facing a bowel obstruction from advanced cancer and chemotherapy is offered, it is fair to ask for the specific odds in your situation \u2014 how likely the blockage is to clear, how long the benefit typically lasts, and what the side effects are \u2014 and to discuss what comfort-focused care would look like instead.",
+      "story_angle_secondary": "For caregivers and palliative teams, the authors' own conclusion is the headline: this is a moment that calls for early, explicit goals-of-care conversations rather than a default to another treatment line, since the toxicity burden was substantial and survival measured in weeks.",
+      "caveats": "Small retrospective cohort (N=64), single-center in France, observational design that cannot establish causation; no comparison group receiving comfort care only; no quality-of-life outcomes were measured, which the authors flag as a key gap; median age 62 means findings apply only partly to older seniors.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 64,
+      "journal_tier": 1,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "palliative care"
+      ],
+      "covered_by": []
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42748398",
+      "journal": "JMIR Aging",
+      "date": "2026 Sep 16",
+      "doi": "10.2196/94567"
+    },
+    {
+      "pmid": "42853544",
+      "journal": "Drugs Aging",
+      "date": "2026 Oct 9",
+      "doi": "10.1007/s40266-026-01328-3"
+    },
+    {
+      "pmid": "42833695",
+      "journal": "Geriatrics & Gerontology International",
+      "date": "2026 Oct",
+      "doi": "10.1111/ggi.70861"
+    },
+    {
+      "pmid": "42580497",
+      "journal": "Journal of Pain and Symptom Management",
+      "date": "2026 Nov",
+      "doi": "10.1016/j.jpainsymman.2026.07.034"
+    },
+    {
+      "pmid": "42841449",
+      "journal": "ESC Heart Failure",
+      "date": "2026 Oct 7",
+      "doi": "10.1093/eschf/xvag252"
+    },
+    {
+      "pmid": "42860763",
+      "journal": "J Palliat Med",
+      "date": "2026 Oct 11",
+      "doi": "10.1177/10966218261496668"
+    },
+    {
+      "pmid": "42556759",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Nov",
+      "doi": "10.1016/j.jpainsymman.2026.07.028"
+    },
+    {
+      "pmid": "42842360",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 8",
+      "doi": "10.1097/NJH.0000000000001272"
+    },
+    {
+      "pmid": "42567370",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Nov",
+      "doi": "10.1016/j.jpainsymman.2026.07.038"
+    },
+    {
+      "pmid": "42853191",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 9",
+      "doi": "10.1097/NJH.0000000000001273"
+    },
+    {
+      "pmid": "42714187",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 1",
+      "doi": "10.1097/NJH.0000000000001217"
+    },
+    {
+      "pmid": "42546987",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Nov",
+      "doi": "10.1016/j.jpainsymman.2026.07.032"
+    },
+    {
+      "pmid": "42546985",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Nov",
+      "doi": "10.1016/j.jpainsymman.2026.07.030"
+    },
+    {
+      "pmid": "42714185",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 1",
+      "doi": "10.1097/NJH.0000000000001230"
+    },
+    {
+      "pmid": "42844232",
+      "journal": "J Palliat Med",
+      "date": "2026 Oct 7",
+      "doi": "10.1177/10966218261496677"
+    },
+    {
+      "pmid": "42492599",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Nov;72(5):558-569.e5",
+      "doi": "10.1016/j.jpainsymman.2026.07.023"
+    },
+    {
+      "pmid": "42492600",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Nov;72(5):549-557",
+      "doi": "10.1016/j.jpainsymman.2026.07.020"
+    },
+    {
+      "pmid": "42519959",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 1;28(5):E210-E216",
+      "doi": "10.1097/NJH.0000000000001254"
+    },
+    {
+      "pmid": "42843988",
+      "journal": "BMJ Support Palliat Care",
+      "date": "2026 Oct 7 (online ahead of print)",
+      "doi": "10.1136/spcare-2026-006508"
+    }
+  ],
+  "trends_raw": "Four studies carry over with identical PMIDs \u2014 the nursing home machine learning model (PMID 42748398), the advance care planning scoping review (PMID 42714187), the embedded MS palliative clinic (PMID 42714185) and the deprescribing rapid review (PMID 42519959). The comparison below focuses on what is genuinely new against the previous run.\n\n**Convergent findings**\n\n- *Earlier palliative care is a systems problem with systems answers.* \"A Nursing Home Palliative Care Program Cut Hospitalizations Dramatically and Let 98% of Residents Die Where They Lived\" (PMID 42580497) and \"When Nurses Are Empowered to Flag Patients, Palliative Referrals Rise\" (PMID 42853191) land on the same mechanism the previous digest identified in \"What actually gets palliative care started earlier: lessons from a four-hospital Australian trial\" (PMID 42504041) and the embedded MS clinic (PMID 42714185): routine screening, named accountability, and referral built into workflow rather than left to individual initiative.\n- *Keeping frail residents out of the hospital at the end of life is achievable.* The Modena pathway (PMID 42580497) gives outcome data to the mechanism described in the carried-over transfer review (PMID 42714187), where roughly 70% of aged care residents are moved to hospital in their final months.\n- *Culture and family duty shape end-of-life decisions in ways that shift over time.* \"How Older Chinese Immigrants Come to Accept Hospice\" (PMID 42833695) connects directly to the previous digest's Taiwanese caregiver survey (PMID 42804262), where filial piety values predicted perceptions of a dignified death \u2014 both argue for working with traditional duty-of-care values rather than around them.\n- *The evidence base at the end of life stays thin.* \"When Cancer Blocks the Bowel: Chemotherapy Helped One in Three, but at Steep Cost\" (PMID 42843988) and the small open-label psilocybin analysis (PMID 42546985) sit alongside the previous digest's null lidocaine trial (PMID 42536632) and low-certainty propofol review (PMID 42533745).\n\n**Advances**\n\n- Workforce shortage moves from description to quantification. The previous digest's \"In Rural Hospitals, One Nurse Practitioner May Be Handling Every End-of-Life Conversation\" (PMID 42406410) described the gap through a single shift; \"Modeling Study Warns Australia Will Fall 106,000 Patients Short on Specialist Palliative Care by 2045\" (PMID 42546987) puts national numbers on it and shows regional areas absorbing 15% of the shortfall with 8% of the population.\n- Risk flagging now has a failure case attached. The previous digest paired the nursing home model's strong accuracy (PMID 42748398) with physicians' broad enthusiasm for AI prognosis (PMID 42463061); \"Flagged but Not Followed Up: ER Screening Spots Seniors Who Need Palliative Care \u2014 Then Nothing Happens\" (PMID 42860763) shows what happens when a correct flag has no pathway behind it \u2014 consultation rates of 13.9% versus 13.7%.\n- Prognostic signal gains a clinical counterpart. Where PMID 42748398 used an algorithm, \"When Very Old Heart Failure Patients Are Referred to Palliative Care, Half Don't Survive Six Months\" (PMID 42841449) shows experienced clinicians sorting on function and cognition with real accuracy \u2014 47.6% versus 79.5% six-month survival.\n\n**Counterpoints**\n\n- More resources did not buy better dying. \"Commercially Insured Patients Got More Aggressive \u2014 Not Better \u2014 End-of-Life Care Than Medicaid Patients\" (PMID 42492600) cuts against the access-gap framing of the previous digest's intellectual disability study (PMID 42490651), where fewer resources meant less treatment.\n- Lower opioid doses were not undertreatment. \"Older Cancer Patients Get Lower Opioid Doses Than Younger Ones \u2014 and Still Report the Same Pain Relief\" (PMID 42853544) complicates the assumption of age-based undertreatment \u2014 while \"China Meets Only a Quarter of Its Pain-Relief Need as Its Population Ages\" (PMID 42567370) shows genuine, population-scale undertreatment in a different setting. The level of analysis determines the answer.\n\n**New themes**\n\n- *Loneliness as a treatable end-of-life symptom.* \"Nearly a Third of People Are Lonely in Their Final Year of Life\" (PMID 42492599) opens psychosocial territory no study in the previous run occupied.\n- *Payer rules as an end-of-life variable* (PMID 42492600), and *opioid supply policy as a palliative care issue* (PMID 42567370).\n- *Faith-specific outcomes.* \"Hindu, Buddhist, Sikh and Jain Cancer Patients More Likely to Die in the Hospital \u2014 and Enter Hospice Too Late\" (PMID 42556759) moves beyond ethnicity to religious tradition, diet and traditional medicine.\n- *Palliative care inside cardiac intensive care* (PMID 42844232) and *psychedelic-assisted therapy for depression in active cancer treatment* (PMID 42546985).",
+  "feature_pitch_raw": "**The pattern:** Across this batch, who receives comfort-focused care tracks faith, language and insurance plan at least as closely as it tracks medical need. Patients of dharmic faiths were more than twice as likely to die in the hospital and entered hospice within three days of death at double the rate of others (PMID 42556759); Chinese immigrant elders described acceptance of hospice as a years-long reconciliation that peers, not clinicians, drove (PMID 42833695); pancreatic cancer patients and their largely Latino families named misunderstanding of palliative care \u2014 not its availability \u2014 as the core barrier (PMID 42842360); and commercially insured patients had higher odds of in-hospital death and lower odds of hospice than Medicaid patients (PMID 42492600).\n\n**Why pitch this now:** Each of these is usually written up as a separate disparity story, but together they point at one fixable thing \u2014 the conversation that explains what palliative care actually is, when it happens, who has it, and in what language \u2014 rather than at a shortage of services.\n\n**Angle:** A feature for older adults and adult children on how to get a straight explanation of palliative care early, in your own language and on your own terms, including what to ask about diet, prayer, traditional remedies and what your insurance requires before hospice can start. Reported through families who turned it down once, then changed their minds.\n\n**Potential headlines:**\n- Why Families Say No to Palliative Care Before Anyone Explains What It Is\n- The Patients With the Better Insurance Were More Likely to Die in the Hospital\n- Four Questions That Decide Whether Your Last Months Look the Way You Want\n\n**Potential outlets:**\n- **Next Avenue** \u2014 built for a human-centered piece on immigrant and multigenerational families renegotiating what caring for an elder means, with the research sitting underneath rather than on top.\n- **AARP** \u2014 the insurance finding converts into exactly the kind of checkable service journalism their readers use: what your plan requires before hospice, and what to ask now.\n- **Hospice News** \u2014 late enrollment, chaplaincy capacity and language-matched outreach are operational problems their provider audience is already trying to solve.\n- **NPR** \u2014 the commercially-insured-fare-worse finding is a genuinely surprising national hook that can carry the cultural reporting alongside it.",
+  "pitch_ideas_raw": "- **An AI Tool Can Flag Which Nursing Home Residents May Have Six Months to Live (PMID 42748398):** The unasked question \u2014 what workflow follows a high-risk flag, who has the conversation, and the vendor employment disclosure worth naming \u2014 for a senior-living trade brief, with a consumer sidebar on the first six months after a move being riskier than families expect.\n- **Older Cancer Patients Get Lower Opioid Doses Than Younger Ones \u2014 and Still Report the Same Pain Relief (PMID 42853544):** Stop comparing milligrams and start tracking pain scores and function, including breakthrough rescue dosing, for a consumer health explainer or a patient-advocacy column.\n- **How Older Chinese Immigrants Come to Accept Hospice (PMID 42833695):** A first \"no\" is not a final answer \u2014 peer-led, language-matched education moved views where clinical pitches did not, for a caregiver feature or a senior-living trade piece on community outreach.\n- **A Nursing Home Palliative Care Program Cut Hospitalizations Dramatically (PMID 42580497):** The copyable ingredients \u2014 the surprise question, SPICT screening, scheduled team review, a named second-level clinician \u2014 for a senior-living or hospice operations brief, with a resident-side line about documenting \"do not send me out.\"\n- **When Very Old Heart Failure Patients Are Referred to Palliative Care, Half Don't Survive Six Months (PMID 42841449):** A palliative referral is a prognostic signal worth acting on, not a formality \u2014 and falling ability to dress and walk matters as much as the cardiac numbers, for a consumer health explainer on heart failure in the eighties and nineties.\n- **Flagged but Not Followed Up: ER Screening Spots Seniors Who Need Palliative Care \u2014 Then Nothing Happens (PMID 42860763):** What to ask your partner hospital after a positive palliative screen, and who is accountable for the next step, for a hospital or senior-living trade brief, paired with a consumer line on requesting a consult yourself.\n- **Hindu, Buddhist, Sikh and Jain Cancer Patients More Likely to Die in the Hospital (PMID 42556759):** Religious identity in a chart is not the same as knowing what someone wants \u2014 the case for routine questions about diet, traditional medicine and chaplaincy early in the illness, for a faith-and-aging feature or a cancer care trade piece.\n- **\"Delays, Bills and Confusion\": What Pancreatic Cancer Patients and Their Caregivers Say Is Missing (PMID 42842360):** Families wanted financial navigation and plain language as much as medical expertise \u2014 a practical piece on asking what palliative care actually includes and whether it runs alongside treatment, for a caregiver-advice column.\n- **China Meets Only a Quarter of Its Pain-Relief Need as Its Population Ages (PMID 42567370):** Opioid stewardship has a second edge \u2014 the prompt for providers to audit whether residents' pain scores are being acted on, for a hospice or long-term care trade brief.\n- **When Nurses Are Empowered to Flag Patients, Palliative Referrals Rise (PMID 42853191):** Education plus a standardized screen, not new staffing \u2014 and read against the San Diego finding, the lesson that screening only works when someone is empowered to act, for a nursing leadership or senior-living trade piece.\n- **Advance Care Plans Cut Unwanted Hospital Trips at the End of Life \u2014 But Only When They're Specific (PMID 42714187):** Check whether your plan says what you actually want, where it is stored, and who can find it at 2 a.m., for a consumer explainer, with a facility-side angle on auditing after-hours access.\n- **Modeling Study Warns Australia Will Fall 106,000 Patients Short on Specialist Palliative Care by 2045 (PMID 42546987):** Building in-house generalist palliative capability and telehealth links is a necessity rather than a nice-to-have, especially outside major cities, for a senior-living or policy trade brief.\n- **Psilocybin Therapy for Depression Worked Just as Well in Cancer Patients Still Receiving Chemotherapy (PMID 42546985):** Depression in advanced cancer deserves active treatment rather than acceptance \u2014 plus a careful explanation of what a trial setting involves and why this is not a do-it-yourself option, for a consumer health explainer.\n- **When a Palliative Care Nurse Moves Into the Specialty Clinic, Hidden Symptoms Come to Light (PMID 42714185):** Symptom counts nearly quadrupled once someone was assigned to ask \u2014 the business case for embedding rather than referring out, for a clinic administration trade piece, with a consumer angle for families living with MS, Parkinson's or ALS.\n- **Heart Disease in the ICU: Experts Lay Out Ten Things Comfort-Focused Care Should Address (PMID 42844232):** Write down now how you feel about machines that take over heart or lung function, and name someone who knows the answer, for a consumer explainer on advanced heart disease.\n- **Nearly a Third of People Are Lonely in Their Final Year of Life (PMID 42492599):** Loneliness as a symptom to name and treat alongside pain, with the clearest risk groups being unmarried residents, those with multiple functional impairments and those with a mental health diagnosis, for a hospice trade brief and a consumer piece on asking for befriending or volunteer visits.\n- **Commercially Insured Patients Got More Aggressive \u2014 Not Better \u2014 End-of-Life Care Than Medicaid Patients (PMID 42492600):** Check your plan's hospice rules before a crisis, particularly around transfusions in blood cancers, for a consumer money-and-health explainer, with a care-coordination trade angle on flagging blood cancer patients as a group that misses referral.\n- **Stopping Pills Can Be as Important as Starting Them in Hospice Care (PMID 42519959):** A guided \"what is this doing for me now?\" medication review, what to bring, and why never to stop anything alone, for a consumer health explainer or caregiver column.\n- **When Cancer Blocks the Bowel: Chemotherapy Helped One in Three, but at Steep Cost (PMID 42843988):** Concrete numbers to bring to a hard decision \u2014 how often the blockage clears, how long the benefit lasts, what the side effects cost \u2014 for a consumer explainer on weighing another line of treatment against comfort care.",
+  "fact_check": {
+    "checked": "2026-10-14",
+    "studies_reviewed": "19",
+    "verdicts_by_pmid": {
+      "42748398": "\u2705 Accurate",
+      "42853544": "\u26a0\ufe0f Minor issues",
+      "42833695": "\u26a0\ufe0f Minor issues",
+      "42580497": "\u26a0\ufe0f Minor issues",
+      "42841449": "\u2705 Accurate",
+      "42860763": "\u2705 Accurate",
+      "42556759": "\u26a0\ufe0f Minor issues",
+      "42842360": "\u26a0\ufe0f Minor issues",
+      "42567370": "\u2705 Accurate",
+      "42853191": "\u26a0\ufe0f Minor issues",
+      "42714187": "\u26a0\ufe0f Minor issues",
+      "42546987": "\u2705 Accurate",
+      "42546985": "\u26a0\ufe0f Minor issues",
+      "42714185": "\u2705 Accurate",
+      "42844232": "\u26a0\ufe0f Minor issues",
+      "42492599": "\u26a0\ufe0f Minor issues",
+      "42492600": "\u26a0\ufe0f Minor issues",
+      "42519959": "\u26a0\ufe0f Minor issues",
+      "42843988": "\u26a0\ufe0f Minor issues"
+    },
+    "summary": {
+      "total_issues": "23 (22 Minor, 1 Moderate, 0 Major)",
+      "entries_requiring_revision": "13",
+      "entries_cleared": "6"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Palliative Care \u2014 October 2026\n**Checked:** 2026-10-14 | **Studies reviewed:** 19\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n### Study 1: An AI Tool Can Flag Which Nursing Home Residents May Have Six Months to Live \u2014 Using Data Already Collected at Admission\n**PMID:** 42748398 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 2: Older Cancer Patients Get Lower Opioid Doses Than Younger Ones \u2014 and Still Report the Same Pain Relief\n**PMID:** 42853544 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal phrasing in Why it matters** \u2014 Severity: Minor\n\n- **As written:** \"in a specialist palliative care setting, lower doses tailored to age-related changes in how the body handles drugs produced equally good pain control\"\n- **Abstract says:** \"Despite age-related differences in opioid prescribing, comparable pain control was achieved across all age groups ... supporting individualized age-tailored opioid titration in specialist palliative care.\"\n- **Problem:** \"Produced\" asserts that the lower doses caused the equivalent pain control, and \"tailored to age-related changes in how the body handles drugs\" attributes a prescribing rationale the study only observed as an association. The digest's own Caveats say causation cannot be established, so the body text contradicts the caveat.\n- **Suggested fix:** \"Reword to \"older patients received lower doses yet reported comparable pain control, which the authors say supports individualized, age-tailored titration.\"\"\n\n### Study 3: How Older Chinese Immigrants Come to Accept Hospice: A Slow Reconciliation of Filial Piety and American Medicine\n**PMID:** 42833695 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Overstated ranking of information source** \u2014 Severity: Minor\n\n- **As written:** \"The most influential information channel in this study was other family members and friends\"\n- **Abstract says:** \"Familial and social networks served as key sources of new information; encounters with healthcare and other institutions reshaped care preferences and decision-making\"\n- **Problem:** The abstract describes familial and social networks as \"key sources\" of new information, not as the single most influential channel; a qualitative thematic study does not rank channels by influence.\n- **Suggested fix:** \"Change to \"Family members and friends were a key source of new information in this study, which argues for peer-led, language-matched education sessions.\"\"\n\n### Study 4: A Nursing Home Palliative Care Program Cut Hospitalizations Dramatically and Let 98% of Residents Die Where They Lived\n**PMID:** 42580497 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal headline for uncontrolled QI project** \u2014 Severity: Minor\n\n- **As written:** \"A Nursing Home Palliative Care Program Cut Hospitalizations Dramatically\"\n- **Abstract says:** \"An organization-wide palliative care pathway in LTCFs appears feasible and may support end-of-life care in facilities, although findings require cautious interpretation.\"\n- **Problem:** The headline asserts the program caused the drop in hospitalizations, while this is a before-and-after quality improvement report with no control group \u2014 a limitation the digest's own Caveats acknowledge.\n- **Suggested fix:** \"Soften to \"Hospitalizations Fell Sharply After a Nursing Home Palliative Care Program Was Introduced.\"\"\n\n**Issue B. Denominator for the 98% figure** \u2014 Severity: Minor\n\n- **As written:** \"Let 98% of Residents Die Where They Lived\"\n- **Abstract says:** \"Among 250 deaths, 245 (98.0%) occurred in LTCFs.\"\n- **Problem:** The 98% applies to the 250 residents who died, not to all 405 enrolled residents; the headline alone implies the larger denominator.\n- **Suggested fix:** \"\"98% of Residents Who Died Did So in the Facility.\"\"\n\n### Study 5: When Very Old Heart Failure Patients Are Referred to Palliative Care, Half Don't Survive Six Months\n**PMID:** 42841449 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 6: Flagged but Not Followed Up: ER Screening Spots Seniors Who Need Palliative Care \u2014 Then Nothing Happens\n**PMID:** 42860763 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 7: Hindu, Buddhist, Sikh and Jain Cancer Patients More Likely to Die in the Hospital \u2014 and Enter Hospice Too Late\n**PMID:** 42556759 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Size of qualitative component not stated in abstract** \u2014 Severity: Minor\n\n- **As written:** \"qualitative interview component was small\"\n- **Abstract says:** \"We reviewed electronic health record (EHR) data ... and interviewed hospitalized DR patients and chaplains.\"\n- **Problem:** The abstract gives no number of interviewees, so the characterization \"small\" is unverifiable from abstract only.\n- **Suggested fix:** \"Either drop the size descriptor or write \"the abstract does not report how many patients and chaplains were interviewed.\"\"\n\n### Study 8: \"Delays, Bills and Confusion\": What Pancreatic Cancer Patients and Their Caregivers Say Is Missing From Their Care\n**PMID:** 42842360 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Comparative claim about barriers** \u2014 Severity: Minor\n\n- **As written:** \"suggesting that one of the biggest barriers to comfort-focused support isn't availability, but the way it's explained\"\n- **Abstract says:** \"(3) End-of-life conversations and palliative care were often misunderstood; (4) Suggestions for health care providers emphasized the need for a holistic approach and practical resources.\"\n- **Problem:** The study identified misunderstanding as a theme but did not measure or compare barriers, so it cannot support a ranking of explanation over availability.\n- **Suggested fix:** \"Reword to \"Patients and families in this study described palliative care as poorly understood \u2014 pointing to how it is explained as one modifiable barrier.\"\"\n\n### Study 9: China Meets Only a Quarter of Its Pain-Relief Need as Its Population Ages\n**PMID:** 42567370 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 10: When Nurses Are Empowered to Flag Patients, Palliative Referrals Rise\n**PMID:** 42853191 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Knowledge scores described as self-assessed** \u2014 Severity: Minor\n\n- **As written:** \"knowledge scores self-assessed via testing of 20 nurses\"\n- **Abstract says:** \"Nursing knowledge scores improved substantially following education.\"\n- **Problem:** The abstract does not say whether the knowledge measure was self-assessed or objectively tested \u2014 unverifiable from abstract only.\n- **Suggested fix:** \"Write \"nursing knowledge measured by pre/post scores in 20 nurses; the abstract does not describe the instrument.\"\"\n\n**Issue B. Overgeneralized conclusion from a tiny QI project** \u2014 Severity: Minor\n\n- **As written:** \"the message is that screening works when a named person is empowered to act on it\"\n- **Abstract says:** \"These findings suggest that structured nurse-driven screening can strengthen nursing advocacy, support earlier identification of unmet palliative needs, and promote more consistent access to palliative care consultation in acute care settings.\"\n- **Problem:** A single-unit, uncontrolled project with 5 additional referrals cannot establish that screening \"works\"; the authors use \"suggest\" and \"can,\" and no patient outcomes were measured.\n- **Suggested fix:** \"Soften to \"the two studies together hint that screening is more likely to lead to referral when someone is explicitly empowered to act on a positive result.\"\"\n\n### Study 11: Advance Care Plans Cut Unwanted Hospital Trips at the End of Life \u2014 But Only When They're Specific\n**PMID:** 42714187 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal verb in headline for a review of mostly observational studies** \u2014 Severity: Minor\n\n- **As written:** \"Advance Care Plans Cut Unwanted Hospital Trips at the End of Life \u2014 But Only When They're Specific\"\n- **Abstract says:** \"Advance care plans or advance care directives that included instructions to not resuscitate or not hospitalize resulted in fewer hospital transfers than those that did not.\"\n- **Problem:** \"Cut\" asserts causation from a scoping review of 23 studies that were mostly observational (the digest's own caveats acknowledge causation cannot be established). The abstract's own phrasing is loose, but the body text correctly says \"were linked with,\" so the headline is out of step.\n- **Suggested fix:** \"Reword to something like \"Specific Advance Care Plans Are Linked With Fewer Hospital Trips at the End of Life.\"\"\n\n**Issue B. \"Only when they're specific\" / \"vague paperwork does little\"** \u2014 Severity: Minor\n\n- **As written:** \"this review suggests that vague paperwork does little to prevent it while specific, actionable instructions do\"\n- **Abstract says:** \"Advance care plans or advance care directives that included instructions to not resuscitate or not hospitalize resulted in fewer hospital transfers than those that did not.\"\n- **Problem:** The review reports a relative difference between plans with and without explicit instructions; it does not establish that plans lacking such instructions have no effect at all.\n- **Suggested fix:** \"Say plans with explicit instructions were associated with fewer transfers than plans without them, rather than implying non-specific plans do nothing.\"\n\n**Issue C. \"Family pressure\" as a driver** \u2014 Severity: Minor\n\n- **As written:** \"with transfers driven by acuity, perceived vulnerability, age, and family pressure\"\n- **Abstract says:** \"Reasons for hospital transfer were classified as age, acuity, vulnerability, and family-related.\"\n- **Problem:** The abstract lists \"family-related\" reasons without characterizing them as pressure; \"perceived vulnerability\" likewise adds an interpretation.\n- **Suggested fix:** \"Use the abstract's categories: \"age, acuity, vulnerability, and family-related factors.\"\"\n\n### Study 12: Modeling Study Warns Australia Will Fall 106,000 Patients Short on Specialist Palliative Care by 2045\n**PMID:** 42546987 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 13: Psilocybin Therapy for Depression Worked Just as Well in Cancer Patients Still Receiving Chemotherapy\n**PMID:** 42546985 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Chemotherapy\" substituted for systemic anticancer treatment** \u2014 Severity: Minor\n\n- **As written:** \"Psilocybin Therapy for Depression Worked Just as Well in Cancer Patients Still Receiving Chemotherapy\"\n- **Abstract says:** \"Active systemic anticancer treatment was defined as receipt of systemic therapy within 30 days of psilocybin dosing (systemic treatment, n = 17; no systemic treatment, n = 13).\"\n- **Problem:** \"Systemic anticancer treatment\" covers immunotherapy, targeted and hormonal agents as well as cytotoxic chemotherapy; narrowing it to \"chemotherapy\" (repeated as \"mid-chemotherapy\" in Why it matters) misstates the exposure group.\n- **Suggested fix:** \"Use \"active cancer treatment\" or \"systemic anticancer therapy\" in the headline and body.\"\n\n**Issue B. \"Worked just as well\" from a non-significant difference in a 30-person trial** \u2014 Severity: Minor\n\n- **As written:** \"Depression scores dropped substantially in both groups with no significant differences at weeks 1, 3, or 8\"\n- **Abstract says:** \"MADRS scores decreased substantially in both groups, with no significant between-group differences at week 1 (P = .88), week 3 (P = .93), or week 8 (P = .97).\"\n- **Problem:** The body text is faithful, but the headline's \"worked just as well\" reads as demonstrated equivalence, which a 30-participant open-label single-arm secondary analysis cannot establish. The digest's caveats do flag the small N.\n- **Suggested fix:** \"Frame as \"no detectable difference\" rather than equivalence in the headline.\"\n\n### Study 14: When a Palliative Care Nurse Moves Into the Specialty Clinic, Hidden Symptoms Come to Light\n**PMID:** 42714185 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 15: Heart Disease in the ICU: Experts Lay Out Ten Things Comfort-Focused Care Should Address\n**PMID:** 42844232 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Frequently face\" overstates hedged abstract wording** \u2014 Severity: Minor\n\n- **As written:** \"survivors frequently face lasting functional impairment and psychological distress\"\n- **Abstract says:** \"those who survive may subsequently face persistent functional impairment and psychosocial distress\"\n- **Problem:** The abstract uses \"may\" without any frequency estimate; \"frequently\" adds a prevalence claim the abstract does not support.\n- **Suggested fix:** \"Change to \"survivors may face lasting functional impairment and psychosocial distress.\"\"\n\n**Issue B. Specific topics attributed to the guidance** \u2014 Severity: Minor\n\n- **As written:** \"The guidance covers symptom burden, decisions about life-sustaining technologies such as mechanical circulatory support, prognostic uncertainty, and caregiver needs.\"\n- **Abstract says:** \"patients often endure prognostic uncertainty and face complex decisions regarding life-sustaining therapies alongside refractory symptoms... to support PC clinicians caring for CICU patients and their caregivers\"\n- **Problem:** Mechanical circulatory support is not named in the abstract; the specific content of the ten tips is unverifiable from the abstract only.\n- **Suggested fix:** \"Drop the \"such as mechanical circulatory support\" example or attribute it to the full text.\"\n\n### Study 16: Nearly a Third of People Are Lonely in Their Final Year of Life\n**PMID:** 42492599 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Risk factors described as \"strongest\"** \u2014 Severity: Minor\n\n- **As written:** \"The strongest risk factors in fully adjusted models were having a likely mental health condition, being unmarried, and living with three or more functional impairments.\"\n- **Abstract says:** \"Risk factors included having a likely mental health condition, being unmarried and having three or more functional impairments in fully adjusted analyses.\"\n- **Problem:** The abstract lists these as risk factors retained in fully adjusted analyses but does not rank them by strength.\n- **Suggested fix:** \"Change \"The strongest risk factors\" to \"Risk factors identified in fully adjusted models.\"\"\n\n**Issue B. Attribution of authorship** \u2014 Severity: Minor\n\n- **As written:** \"Researchers at Marie Curie and University College London pooled five waves of the UK Household Longitudinal Study\"\n- **Abstract says:** \"Authors are affiliated with Marie Curie/UCL, the University of Sheffield, Queen's University Belfast, and Marie Curie Research Voices.\"\n- **Problem:** The team was broader than the two named institutions, though the lead and senior authors are from Marie Curie/UCL.\n- **Suggested fix:** \"Add \"and colleagues at Sheffield and Queen's University Belfast\" or say \"UK researchers led by Marie Curie and UCL.\"\"\n\n### Study 17: Commercially Insured Patients Got More Aggressive \u2014 Not Better \u2014 End-of-Life Care Than Medicaid Patients\n**PMID:** 42492600 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Extension to Medicare-age patients** \u2014 Severity: Moderate\n\n- **As written:** \"it shows how rarely people with blood cancers get hospice or palliative care at all \u2014 a gap that persists into Medicare age\"\n- **Abstract says:** \"adults enrolled in the Merative MarketScan Commercial and Medicaid Research Databases with hematologic malignancies (18-64 years) who died between 2016 and 2021\"\n- **Problem:** The cohort was entirely under 65; the study provides no data on patients of Medicare age, and the digest's own caveat says findings \"extend only indirectly to Medicare-age seniors.\"\n- **Suggested fix:** \"Delete \"a gap that persists into Medicare age\" or rephrase as \"a gap documented here only in adults under 65.\"\"\n\n**Issue B. Transfusion/hospice eligibility claim not in the study** \u2014 Severity: Minor\n\n- **As written:** \"ask what your insurance plan requires before hospice can begin, since transfusion and treatment rules often create the barrier\"\n- **Abstract says:** \"The abstract reports utilization rates and odds ratios by insurance type; it does not examine plan rules, transfusion policies, or hospice eligibility criteria.\"\n- **Problem:** Presents a specific mechanism as if established by this study. Unverifiable from abstract only.\n- **Suggested fix:** \"Flag it as general background about hematologic malignancies rather than a finding of this analysis.\"\n\n### Study 18: Stopping Pills Can Be as Important as Starting Them in Hospice Care\n**PMID:** 42519959 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Under-recognized\" nursing role** \u2014 Severity: Minor\n\n- **As written:** \"with nurses playing a central but under-recognized role in reconciliation and shared decision-making\"\n- **Abstract says:** \"Nurses play a central role in medication reconciliation, identifying potentially inappropriate medications, facilitating shared decision-making, and monitoring patient response after medication withdrawal.\"\n- **Problem:** \"Under-recognized\" is an editorial addition; the abstract describes the role as central but does not characterize it as unrecognized.\n- **Suggested fix:** \"Drop \"but under-recognized\" or attribute it to the authors' discussion.\"\n\n**Issue B. Unsupported pill-count figure** \u2014 Severity: Minor\n\n- **As written:** \"Many people in hospice or with advanced illness are still swallowing a dozen or more pills a day\"\n- **Abstract says:** \"Adults with serious illnesses and limited life expectancy often continue medications with little meaningful benefit, contributing to polypharmacy, adverse drug events, patient distress, and caregiver burden.\"\n- **Problem:** The abstract gives no medication counts; \"a dozen or more pills a day\" is a specific figure not supported by it. Unverifiable from abstract only.\n- **Suggested fix:** \"Use the abstract's language about polypharmacy and medication burden without a specific pill count.\"\n\n### Study 19: When Cancer Blocks the Bowel: Chemotherapy Helped One in Three, but at Steep Cost\n**PMID:** 42843988 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Chemotherapy\" for systemic anticancer therapy** \u2014 Severity: Minor\n\n- **As written:** \"Chemotherapy Helped One in Three, but at Steep Cost\"\n- **Abstract says:** \"Eligible patients had advanced cancer with inoperable MBO refractory to medical management and treated by systemic anticancer therapy.\"\n- **Problem:** Systemic anticancer therapy is broader than chemotherapy; the body text correctly says \"systemic anticancer therapy,\" so the headline is narrower than the study.\n- **Suggested fix:** \"Use \"Anticancer Drug Therapy\" or \"Systemic Treatment\" in the headline.\"\n\n**Issue B. Causal \"helped\" in an uncontrolled retrospective cohort** \u2014 Severity: Minor\n\n- **As written:** \"Chemotherapy Helped One in Three\"\n- **Abstract says:** \"Obstruction resolution occurred in 33% of patients.\"\n- **Problem:** With no comparison group (as the digest's caveats note), resolution in 33% cannot be attributed to the therapy; the headline implies it can.\n- **Suggested fix:** \"Rephrase as \"Obstruction Cleared in One in Three Patients Given Anticancer Therapy.\"\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | An AI Tool Can Flag Which Nursing Home Residents May Have Six Months to Live \u2014 Using Data Already Collected at Admission | \u2705 Accurate | Sample sizes, cohort years, AUROC, top predictors and mortality rates all match the abstract; conflict-of-interest disclosure is reproduced faithfully in Caveats. |\n| 2 | Older Cancer Patients Get Lower Opioid Doses Than Younger Ones \u2014 and Still Report the Same Pain Relief | \u26a0\ufe0f Minor issues | Numbers and group sizes are exact; one causal/interpretive phrase in \"Why it matters\" goes slightly beyond an observational secondary analysis. |\n| 3 | How Older Chinese Immigrants Come to Accept Hospice: A Slow Reconciliation of Filial Piety and American Medicine | \u26a0\ufe0f Minor issues | Design, N, focus group languages, mean age and years in the US all match; one story angle ranks an information channel more strongly than the abstract supports. |\n| 4 | A Nursing Home Palliative Care Program Cut Hospitalizations Dramatically and Let 98% of Residents Die Where They Lived | \u26a0\ufe0f Minor issues | Enrollment, mean age, diagnoses, 245/250 deaths in facility and the 0.96\u21920.04 hospitalization figures all match; the headline uses causal language and a denominator that the body text, not the headline, clarifies. |\n| 5 | When Very Old Heart Failure Patients Are Referred to Palliative Care, Half Don't Survive Six Months | \u2705 Accurate | N, mean age, sex split, referral count, odds ratios and the 47.6% vs 79.5% six-month survival match the abstract, and the Caveats correctly echo the authors' warning that referral is a clinician-assigned marker, not a causal determinant. The abstract labels the regression \"exploratory,\" a nuance the digest omits but does not misstate. |\n| 6 | Flagged but Not Followed Up: ER Screening Spots Seniors Who Need Palliative Care \u2014 Then Nothing Happens | \u2705 Accurate | Sample size, screening years, 27% positive rate, longer stays and the 13.9% vs 13.7% consultation rates all match; framing stays within the authors' \"not associated with\" language. |\n| 7 | Hindu, Buddhist, Sikh and Jain Cancer Patients More Likely to Die in the Hospital \u2014 and Enter Hospice Too Late | \u26a0\ufe0f Minor issues | All percentages, the 54,828 sample and the 2.1% dharmic proportion match exactly; one caveat detail cannot be checked against the abstract. |\n| 8 | \"Delays, Bills and Confusion\": What Pancreatic Cancer Patients and Their Caregivers Say Is Missing From Their Care | \u26a0\ufe0f Minor issues | N, setting, years and the four themes match the abstract; the \"Why it matters\" line extrapolates a comparative claim about barriers that the qualitative design cannot support. |\n| 9 | China Meets Only a Quarter of Its Pain-Relief Need as Its Population Ages | \u2705 Accurate | Data source, years, 25.97% coverage in 2021, the -5.80 SDDD COVID drop, 20 cities and inter-city variation all match; Caveats correctly describe this as an ecological analysis. |\n| 10 | When Nurses Are Empowered to Flag Patients, Palliative Referrals Rise | \u26a0\ufe0f Minor issues | Unit size, number of nurses, 3\u21928 referrals over 8 weeks each and the knowledge-score improvement match; a cross-study story angle and one caveat detail go beyond what the abstract reports. |\n| 11 | Advance Care Plans Cut Unwanted Hospital Trips at the End of Life \u2014 But Only When They're Specific | \u26a0\ufe0f Minor issues | Study facts and numbers match the scoping review; headline uses causal verb and the \"only when specific\" framing slightly overstates the comparison. |\n| 12 | Modeling Study Warns Australia Will Fall 106,000 Patients Short on Specialist Palliative Care by 2045 | \u2705 Accurate | All projection figures, growth rate, geographic inequity numbers and the structural-shortfall conclusion match the abstract; caveats correctly frame it as a model. |\n| 13 | Psilocybin Therapy for Depression Worked Just as Well in Cancer Patients Still Receiving Chemotherapy | \u26a0\ufe0f Minor issues | Design, N, doses, outcomes and adverse-event details all match; the trial's exposure was systemic anticancer treatment of any type, not specifically chemotherapy. |\n| 14 | When a Palliative Care Nurse Moves Into the Specialty Clinic, Hidden Symptoms Come to Light | \u2705 Accurate | Patient numbers, symptom counts, serious illness discussion rate and the 67% productivity figure all match; feasibility design and lack of control group are flagged in caveats. |\n| 15 | Heart Disease in the ICU: Experts Lay Out Ten Things Comfort-Focused Care Should Address | \u26a0\ufe0f Minor issues | Correctly identified as expert consensus guidance; two small embellishments beyond the abstract's hedged wording and content list. |\n| 16 | Nearly a Third of People Are Lonely in Their Final Year of Life | \u26a0\ufe0f Minor issues | Prevalence, scale, risk factors and trend finding all match; \"strongest\" risk factors implies a ranking the abstract does not report. |\n| 17 | Commercially Insured Patients Got More Aggressive \u2014 Not Better \u2014 End-of-Life Care Than Medicaid Patients | \u26a0\ufe0f Minor issues | All counts, percentages and odds ratios match and the Merative conflict is disclosed; the \"persists into Medicare age\" claim goes beyond this under-65 cohort and contradicts the digest's own caveat. |\n| 18 | Stopping Pills Can Be as Important as Starting Them in Hospice Care | \u26a0\ufe0f Minor issues | Review scope, study count, date range, drug classes and tools all match; two small additions go slightly beyond the abstract. |\n| 19 | When Cancer Blocks the Bowel: Chemotherapy Helped One in Three, but at Steep Cost | \u26a0\ufe0f Minor issues | Resolution rate, survival, reobstruction, toxicity and the gynecological subgroup figures all match; \"chemotherapy\" narrows the actual intervention and \"helped\" implies attribution in a single-arm retrospective cohort. |\n\n**Total issues:** 23 (22 Minor, 1 Moderate, 0 Major)\n**Entries requiring revision:** 13\n**Entries cleared:** 6\n"
+  }
+}

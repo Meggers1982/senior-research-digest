@@ -1,26 +1,28 @@
 # Topic Memory: New this week
-_Last updated: 2026-10-14_
+_Last updated: 2026-10-23_
 
 ## Established findings
-- Function and everyday observation beat labels and staging charts for prognosis: Braak stage uncorrelated with Parkinson's disability (42848968), declining a performance test predicting disability and death (42868983, 2026-10-14), motor intrusion errors flagging executive decline (42867452, 2026-10-14), poor appetite preceding mobility loss (42861605).
-- Marketed single add-ons keep failing their endpoints while staffed/exercise components hold: 40 Hz light (42847333), photobiomodulation for back pain (42864195), robots/VR/apps in Alzheimer's rehab stuck at feasibility (42867198, 2026-10-14). Exception worth noting: balance training showed a small real cognitive gain (42868918, 2026-10-14).
-- Biomarkers, cutoffs and test scores mislead at the individual level: %p-tau217 varying by race/ethnicity (42862590), EEG complexity missing half of MCI (42865788), blood-test validation gaps in Black women (42860747), education masking amyloid but not tau or vascular damage (42868033, 2026-10-14).
-- Anti-amyloid clearance is regional and incomplete: PET series (42857419, 42857403) now corroborated at autopsy, with cleared regions showing less tau and slower atrophy (42437499, 2026-10-14). Industry disclosures throughout.
-- Sleep fragmentation, not duration, is the aging signal, and insomnia is a distinct treatable condition: WASO rising with age in women (42518248), underweight/weak grip tied to insomnia (42490395), sex-specific spindle and slow-oscillation signatures (42454951, 2026-10-14).
-- Caregivers are structurally invisible and support programs reach them unevenly: caregiving status absent from the EHR (42861868), and a text-based resource program that cut ER visits only among socially at-risk caregivers while missing its self-efficacy endpoint (42869650, 2026-10-14).
-- Care transitions and referral timing are the sharp edge: interhospital transfer and in-hospital death (42860638), 'I NEED HELP' heart failure triggers (42862549), stalled stroke transfer pipeline from rural hospitals (42743443, 2026-10-14).
+- Anti-amyloid therapy is a genotype-and-imaging story: patchy, incomplete clearance at autopsy (42437499), and real-world ARIA risk tracking APOE status and baseline microbleeds — 34% vs 11% for ε4 homozygotes (42907679, 2026-10-23), 12.5%→50% by genotype on aducanumab (42908770, 2026-10-23). Industry disclosures throughout.
+- Function and how someone errs beat labels and staging: declined performance tests predicting disability/death (42868983), motor intrusion errors (42867452), and ε4 hitting executive function but not memory even past age 90 (42886871, 2026-10-23).
+- Popular programs keep missing their primary endpoints while participants rate them highly: caregiver text-referral null on self-efficacy (42869650), robots/VR/apps stuck at feasibility (42867198), personalized vs generic phone coaching equivalent (42895589, 2026-10-23), dementia rehab with caregiver support null on burden despite 95% reporting benefit (42907949, 2026-10-23).
+- Geography, ownership, payment and metric design quietly determine care: chain assisted living in affluent markets (42868933), dialysis admission limits (42868932), stalled rural stroke transfers (42743443), hospice federal flags driven by one input and tracking patient mix (42895138, 2026-10-23), care home UTI diagnostics and 60-day mortality (42887518, 2026-10-23).
+- Low-impact exercise earns clinical standing: balance training's small cognitive gain (42868918), aquatic exercise −10.3 mmHg systolic and tai chi best for diastolic across 284 trials (42887271, 2026-10-23).
 
 ## Emerging threads
-- Geography, ownership and payment quietly determine availability: hospice rural-urban variation (42635982), SNAP cuts hitting solo-dwelling elders (42647175), chain assisted living clustering in affluent urban markets (42868933), nursing homes limiting dialysis admissions (42868932), PDGM disfavoring dementia patients' home health entry route (42868934) — all 2026-10-14.
-- Medication burden stratified by frailty, with CNS drugs rising fastest in the frailest (42870717, 2026-10-14); updated migraine prevention guideline with explicit older-adult considerations (42673560).
-- Frailty as a life-course and vascular phenomenon: childhood adversity doubling frailty odds (42633655), arterial stiffness rather than baroreflex behind orthostatic swings (42867998), brain oxygen extraction in diabetes plus obesity (42867611).
-- Self-report overstates real access and engagement: 8.1% said they never used the portal, records showed 62% (42868591, 2026-10-14).
-- Observable staff behavior as an intervention: person-centered mealtime talk tracking with faster intake in dementia (42868877, 2026-10-14).
+- Blood biomarkers moving from research to practice: ptau217 revising 38–47% of memory clinic diagnoses (42899313), NT1 tracking hippocampal atrophy and decline (42906069), 24-hour sample stability opening rural draws (42908786) — all 2026-10-23.
+- Popular dementia causal theories deflating: no link between 14 common pathogens and Alzheimer's neuropathology in the 1946 cohort (42886878, 2026-10-23); education buffering amyloid only (42868033).
+- Fall-risk screening being pruned and re-weighted: incontinence too weak to screen on, effect gone after 75 (42904834, 2026-10-23), against prognostic value of a declined test (42868983).
+- Meaning, coping breadth and helping as measurable protective resources: meaning-centered interventions and suicide-related outcomes (42895137), emotion regulation diversity under stress (42906706), helping others paying off over weeks and most in later life (42902779) — all 2026-10-23.
+- Perioperative geriatrics as a distinct cluster: respiratory sarcopenia doubling pulmonary complications (42906881), perineural dexamethasone extending opioid-free time after knee replacement (42895857) — 2026-10-23.
+- Disaster and infrastructure exposure for equipment-dependent elders: county-level FEMA declarations missing the households that actually flood, worst among Black beneficiaries (42902980, 2026-10-23).
+- Language access as a diagnostic accuracy issue: interpreters spotting cognitive cues clinicians miss, undermined by phone interpreting and no briefing time (42908888, 2026-10-23).
 
 ## Feature ideas already pitched
 - 2026-10-11: "The first 90 days at home" — post-discharge/post-fracture window.
 - 2026-10-13: "Stop counting hours" — sleep continuity and regularity over duration.
-- 2026-10-13: "The average isn't you" — what new Alzheimer's tests and drugs can and can't tell an individual (42865788, 42857419, 42857403, 42860747, 42864517).
-- 2026-10-14: "The door you come in through" — geography, ownership and payment rules quietly narrowing care availability (42868933, 42868932, 42868934, 42743443). Retires the earlier unpitched "your zip code decides what your Medicare benefit delivers."
+- 2026-10-13: "The average isn't you" — what new Alzheimer's tests and drugs can and can't tell an individual.
+- 2026-10-14: "The door you come in through" — geography, ownership and payment rules quietly narrowing care availability (42868933, 42868932, 42868934, 42743443).
+- 2026-10-23: "The new memory workup" — blood draw first, then genotype, then baseline MRI; diagnoses being revised and infusion risk sorted before treatment (42899313, 42908786, 42906069, 42907679, 42908770).
 - Not yet pitched: "Nobody's job after the handoff" — transfer-day and transition risk (42860638, 42863588).
-- Not yet pitched: "The pill list grew while you weren't looking" — frailty-stratified polypharmacy plus deprescribing conversations (42870717, 42673560).
+- Not yet pitched: "The pill list grew while you weren't looking" — frailty-stratified polypharmacy and deprescribing (42870717, 42673560).
+- Not yet pitched: "Liked it, didn't help" — why education and personalization keep failing their primary endpoints in caregiver and lifestyle programs (42907949, 42895589, 42869650, 42867198).

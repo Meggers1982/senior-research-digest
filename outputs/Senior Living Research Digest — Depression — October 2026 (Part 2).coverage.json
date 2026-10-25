@@ -1,0 +1,889 @@
+{
+  "coverage_checked": 11,
+  "coverage_cached": 12,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42892150": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42632461": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42731569": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42849853": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42721779": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42861605": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42574936": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42843433": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42897872": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42566822": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42546985": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42898004": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42624700": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42909849": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42868040": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Medical Xpress"
+      ],
+      "articles": [
+        {
+          "link": "https://medicalxpress.com/news/2026-10-physical-mood-quality-life-menopause.html",
+          "outlet": "Medical Xpress",
+          "title": "Physical activity may improve mood and quality of life during menopause"
+        }
+      ]
+    },
+    "42873644": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42909516": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Bioengineer.org"
+      ],
+      "articles": [
+        {
+          "link": "https://bioengineer.org/rising-anxiety-symptoms-linked-to-higher-hip-fracture-risk-in-china/",
+          "outlet": "Bioengineer.org",
+          "title": "Rising Anxiety Symptoms Linked to Higher Hip Fracture Risk in China"
+        }
+      ]
+    },
+    "42832237": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42877708": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42911759": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42918505": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42908282": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42904492": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42632461": {
+      "pubdate": "2026 Nov",
+      "journal": "Ageing research reviews"
+    },
+    "42731569": {
+      "pubdate": "2027 Jan",
+      "journal": "Neurobiology of aging"
+    },
+    "42892150": {
+      "pubdate": "2026 Oct 16",
+      "journal": "Gait & posture"
+    },
+    "42849853": {
+      "pubdate": "2027 Jan 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42574936": {
+      "pubdate": "2026 Nov",
+      "journal": "The journal of prevention of Alzheimer's disease"
+    },
+    "42721779": {
+      "pubdate": "2026 Dec",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42861605": {
+      "pubdate": "2026 Oct 12",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42566822": {
+      "pubdate": "2026 Nov",
+      "journal": "The journal of prevention of Alzheimer's disease"
+    },
+    "42898004": {
+      "pubdate": "2026 Oct 19",
+      "journal": "The journals of gerontology. Series B, Psychological sciences and social sciences"
+    },
+    "42546985": {
+      "pubdate": "2026 Nov",
+      "journal": "Journal of pain and symptom management"
+    },
+    "42843433": {
+      "pubdate": "2026 Nov",
+      "journal": "Experimental gerontology"
+    },
+    "42897872": {
+      "pubdate": "2026 Oct 19",
+      "journal": "Aging & mental health"
+    },
+    "42868040": {
+      "pubdate": "2026 Oct 13",
+      "journal": "Menopause (New York, N.Y.)"
+    },
+    "42832237": {
+      "pubdate": "2026 Oct 5",
+      "journal": "JAMA neurology"
+    },
+    "42877708": {
+      "pubdate": "2026 Oct-Dec",
+      "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)"
+    },
+    "42624700": {
+      "pubdate": "2026 Nov",
+      "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry"
+    },
+    "42909516": {
+      "pubdate": "2026 Oct 23",
+      "journal": "Archives of osteoporosis"
+    },
+    "42873644": {
+      "pubdate": "2026 Oct 13",
+      "journal": "The Journal of frailty & aging"
+    },
+    "42909849": {
+      "pubdate": "2026 Oct 23",
+      "journal": "Journal of applied gerontology : the official journal of the Southern Gerontological Society"
+    },
+    "42918505": {
+      "pubdate": "2026 Oct 23",
+      "journal": "Mechanisms of ageing and development"
+    },
+    "42908282": {
+      "pubdate": "2026 Oct 22",
+      "journal": "Palliative & supportive care"
+    },
+    "42904492": {
+      "pubdate": "2026 Oct",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42911759": {
+      "pubdate": "2026 Oct 22",
+      "journal": "Journal of applied gerontology : the official journal of the Southern Gerontological Society"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Treadmill walking eased back pain \u2014 and lifted mood \u2014 in an 8-week trial",
+      "journal": "Gait Posture",
+      "published": "2026 Oct 16",
+      "pmid": "42892150",
+      "doi": "10.1016/j.gaitpost.2026.110672",
+      "the_study": "Korean researchers randomized 45 patients with chronic mechanical low back pain to one of three programs run three times a week for eight weeks: treadmill walking with vertical traction and partial body weight support, treadmill walking alone, or self-directed core stabilization exercise, all on top of standard physical therapy. Both treadmill groups improved more than the core-exercise group on Timed Up and Go, walking speed, pain intensity and depressive symptoms, and the pain and mood gains were still present four weeks after the program ended. Adding the harness-supported vertical traction produced the biggest gains in mobility, disability and trunk position sense.",
+      "why_it_matters": "Chronic low back pain is one of the most common reasons older adults slow down, stop walking and become withdrawn, and this trial suggests a structured walking program can move pain, mobility and mood together rather than one at a time.",
+      "story_angle_primary": "If back pain has you avoiding movement, it's worth asking your physical therapist whether a supervised treadmill walking program \u2014 including options that unload some of your body weight with a harness \u2014 would suit you, and whether mood and walking speed can be tracked alongside pain as markers of progress.",
+      "story_angle_secondary": "For rehab staff and senior living wellness directors: supported treadmill walking is an equipment-based option that delivered measurable gains in Timed Up and Go and gait speed, two of the metrics most closely tied to fall risk, in residents who are too painful to tolerate conventional floor exercise.",
+      "caveats": "Small sample (N=45, 15 per group), single-center, short 4-week follow-up, participant ages not reported so the findings may not generalize to frail older adults, and the authors note they cannot separate the effect of vertical unloading from the harness support itself."
+    },
+    {
+      "headline": "Air pollution and the aging brain: depression and heart disease may be links in the chain",
+      "journal": "Ageing Res Rev",
+      "published": "2026 Nov",
+      "pmid": "42632461",
+      "doi": "10.1016/j.arr.2026.103330",
+      "the_study": "Researchers systematically reviewed 16 epidemiological studies covering 72 separate exposure-mediator-outcome analyses to ask how air pollution might damage memory and thinking as people age. Across six pollutants (most commonly fine particulate matter, PM2.5), cardiovascular and cerebrovascular disease emerged as the strongest candidate pathway linking pollution to cognitive decline and dementia, with mental health outcomes such as depression, anxiety and stress, plus sleep and lung function, also showing mediating potential. Most of the included studies carried some risk of bias, particularly in how outcomes were measured and confounders adjusted.",
+      "why_it_matters": "It suggests that the damage dirty air does to the aging brain may travel partly through the heart, the lungs, sleep and mood \u2014 all things that are already monitored and treatable in routine senior care.",
+      "story_angle_primary": "You can't control the air outside your window, but you can control the things this review flags as potential links in the chain: ask your clinician about blood pressure, stroke risk, sleep quality and depression screening, and consider indoor air filtration and checking local air quality before outdoor activity on bad days.",
+      "story_angle_secondary": "For families choosing a community and for operators planning capital spending: location relative to major roadways and the quality of indoor air filtration are worth asking about, and this review strengthens the case for treating resident depression and cardiovascular risk as brain-health interventions, not just standalone problems.",
+      "caveats": "Systematic review of observational studies only \u2014 cannot establish causation; just 16 studies with most analyses focused on a single pollutant (PM2.5); authors rate most included studies as carrying some risk of bias and call the mental health, sleep and lung function pathways unconfirmed."
+    },
+    {
+      "headline": "Some brains shrink but keep thinking clearly \u2014 and researchers are learning who they belong to",
+      "journal": "Neurobiol Aging",
+      "published": "2027 Jan",
+      "pmid": "42731569",
+      "doi": "10.1016/j.neurobiolaging.2026.09.002",
+      "the_study": "Using longitudinal brain imaging and cognitive testing from 415 cognitively unimpaired older adults in the Alzheimer's Disease Neuroimaging Initiative (average age 74.9, about 60% women), researchers sorted people into three patterns: resilient (hippocampus shrinking but thinking holding steady), stable (both holding steady), and vulnerable (hippocampus holding steady but thinking declining). Machine learning then identified which background factors predicted each pathway. Lower education predicted the vulnerable pattern, biological and genetic markers predicted stability, and when results were analyzed separately by sex, lower geriatric depression scores in women were linked to both the stable and vulnerable pathways.",
+      "why_it_matters": "Brain scan findings alone don't determine how well someone thinks, and this work points to a mix of education, biology and mood \u2014 some of it modifiable \u2014 shaping which older adults hold onto their cognitive function.",
+      "story_angle_primary": "If a scan or a biomarker result has you worried, it's worth knowing that brain shrinkage and thinking ability don't always move together; keep the focus on what you can act on, including getting depressive symptoms properly evaluated and treated and staying cognitively and socially engaged.",
+      "story_angle_secondary": "For care teams: this reinforces routine depression screening with tools like the Geriatric Depression Scale as part of cognitive assessment, especially for women, and it is a reminder that educational background is an important part of a resident's cognitive risk picture.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; ADNI volunteers are generally highly educated, predominantly white and research-motivated, so results may not generalize; data-driven subgroup and sex-disaggregated analyses require replication before being applied to individuals."
+    },
+    {
+      "headline": "When Depression Meets Frailty, Hospital Stays Climb \u2014 and Office Visits Drop",
+      "journal": "J Affect Disord",
+      "published": "2027 Jan 1",
+      "pmid": "42849853",
+      "doi": "10.1016/j.jad.2026.122601",
+      "the_study": "Researchers followed 6,104 community-dwelling Korean adults aged 65 and older (21,291 two-year person-intervals) from the Korean Longitudinal Study of Aging, tracking depressive symptoms on the 10-item CES-D alongside frailty status and later health care use through 2024. More depressive symptoms were linked to fewer outpatient visits in everyone, regardless of frailty. But each 5-point rise in depressive symptoms raised the odds of hospital admission by 25% among frail participants, with essentially no increase among robust participants; a similar, less consistent pattern appeared for mortality.",
+      "why_it_matters": "Depression in an older adult who is already frail appears to push care away from routine clinic visits and toward the hospital \u2014 a pattern that signals missed opportunities for earlier, cheaper, less disruptive treatment.",
+      "story_angle_primary": "If you have been feeling low, exhausted, or uninterested in things you used to enjoy \u2014 especially if you also tire easily, have lost weight, or move more slowly \u2014 those two things together matter more than either alone. Rather than skipping routine appointments when you feel down, that is exactly the moment to keep them and tell your clinician about the mood symptoms, not just the physical ones.",
+      "story_angle_secondary": "For families and senior living staff: a resident who starts canceling or quietly skipping outpatient appointments may be showing a depression symptom, not just logistical trouble. Tracking missed primary care visits among frail residents could be a practical early-warning flag for the subgroup most likely to end up hospitalized.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; health care use was self-reported with a two-year recall; the CES-D screens for symptoms rather than diagnosing major depression; no standardized cognitive measure; mortality findings were sensitive to how models were specified; Korean population may not generalize."
+    },
+    {
+      "headline": "Weekly Exercise Appears to Blunt the Depression Toll of Smoking and Heavy Drinking",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Dec",
+      "pmid": "42721779",
+      "doi": "10.1016/j.archger.2026.106383",
+      "the_study": "Pooling seven years of data from four major aging cohorts (SHARE, HRS, ELSA, CHARLS) covering 186,066 middle-aged and older adults in 23 countries, researchers mapped 16 combinations of four behaviors \u2014 smoking, drinking, moderate-to-vigorous physical activity, and social participation \u2014 against changes in depression scores. Among people who got weekly moderate-to-vigorous activity, depression scores were similar no matter what the other behaviors looked like. Among those who exercised less than weekly, the worst combination (smoking, excessive drinking, socially inactive) was associated with a 0.28 standard-deviation rise in depression score, with women showing the largest increases. Social activity was protective specifically in people who were not physically active.",
+      "why_it_matters": "It suggests physical activity functions as a kind of buffer for mood in later life, and that for those who cannot exercise much, staying socially engaged is the most valuable substitute.",
+      "story_angle_primary": "If you can manage some moderate-to-vigorous activity each week \u2014 a brisk walk, swimming, an exercise class \u2014 it may protect your mood even when other habits are imperfect. And if physical activity is off the table for you right now, the data point toward social engagement as the next best lever to pull.",
+      "story_angle_secondary": "For senior living operators and activity directors: this supports pairing movement programming with social programming rather than treating them as separate calendar items, and suggests residents with mobility limits should be prioritized for group and social activities as a mood safeguard.",
+      "caveats": "Observational cohort data \u2014 cannot establish causation; behaviors and depression symptoms are self-reported; effect sizes are modest in absolute terms; pooling across 23 countries may mask important cultural and measurement differences."
+    },
+    {
+      "headline": "Losing Your Appetite May Forecast Losing Your Mobility",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 12",
+      "pmid": "42861605",
+      "doi": "10.1111/jgs.70778",
+      "the_study": "Investigators analyzed 3,073 adults aged 70\u201379 in the Health, Aging, and Body Composition (Health ABC) study, comparing those reporting poor appetite (12.6%) with those reporting good appetite, and following them up to six years for persistent lower-extremity limitation \u2014 repeated difficulty walking a quarter mile or climbing 10 steps. Poor appetite was linked to a 44% higher risk of developing persistent mobility limitation even after adjusting for chronic disease, depression, anxiety, and medications. People with both poor appetite and elevated inflammatory markers (CRP, IL-6, TNF-\u03b1) declined fastest \u2014 half had mobility limitation by about 12 months.",
+      "why_it_matters": "Appetite is something anyone can notice at home without a test, and this suggests a persistent drop in it deserves attention as a possible early signal of functional decline rather than being written off as a normal part of getting older.",
+      "story_angle_primary": "If food has stopped appealing to you and that has lasted weeks rather than days, it is worth raising at your next appointment. Ask whether medications, dental problems, low mood, or an underlying inflammatory condition might be behind it \u2014 and whether a nutrition or strength-and-mobility referral makes sense now rather than after you start struggling with stairs.",
+      "story_angle_secondary": "For dining staff, home aides, and family: changes in how much a person eats, and whether they skip meals, are observable data worth logging and reporting. This study suggests reduced intake may precede visible mobility decline by many months, offering a window for nutrition support and physical therapy.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; appetite was self-reported as simply 'good' or 'poor'; outcome based on self-reported walking and stair difficulty; participants were aged 70\u201379 at baseline, so findings may not extend to the oldest old; the authors note inflammation-targeted interventions remain unproven."
+    },
+    {
+      "headline": "Social Disadvantage in Your 40s Shows Up in the Brain Decades Later",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Nov",
+      "pmid": "42574936",
+      "doi": "10.1016/j.tjpad.2026.100652",
+      "the_study": "Using the long-running CARDIA community cohort, researchers built a 12-item index of social determinants of health \u2014 economic stability, social context, education, neighborhood environment, and health care access \u2014 for 3,488 adults at an average age of 40, then tracked cognition over time and repeat brain MRIs in 645 of them. Those in the most socially disadvantaged quartile scored worse on all cognitive tests at baseline and, over follow-up, showed faster decline in processing speed, greater accumulation of white matter hyperintensities, and steeper loss of gray matter volume, even after accounting for vascular risk factors and depression.",
+      "why_it_matters": "It reframes brain aging as partly a product of accumulated social and economic circumstances, not just individual health habits \u2014 relevant to how communities, policymakers, and health systems think about dementia prevention.",
+      "story_angle_primary": "Where you have lived, what access to care you have had, and your financial and social stability are part of your brain health picture \u2014 and some of those are addressable. It is reasonable to ask your clinician about help with the practical pieces: transportation to appointments, prescription costs, food access, and connection to community programs.",
+      "story_angle_secondary": "For senior living and care professionals: this strengthens the case for screening residents and clients for social needs \u2014 housing stability, food access, isolation, care access \u2014 and treating those findings as brain health interventions, not just social work tasks.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; the brain imaging subsample was small (645 of 3,488); participants were in midlife, not late life, so implications for current older adults are indirect; cognitive declines observed were modest in magnitude; funded in part by the National Institute on Aging."
+    },
+    {
+      "headline": "Dancing in the Nursing Home: 12 Weeks of Weekly Classes Eased Depression and Lifted Quality of Life",
+      "journal": "Exp Gerontol",
+      "published": "2026 Nov",
+      "pmid": "42843433",
+      "doi": "10.1016/j.exger.2026.113342",
+      "the_study": "Researchers across three French care facilities enrolled 170 institutionalized older adults (mean age 83.7, many with cognitive impairment and varying levels of disability) in a weekly 60-minute dance program for 12 weeks. Depressive symptom scores fell by 27% and quality of life, measured by the Nottingham Health Profile, improved by 10%. Balance, walking speed and cognitive test scores did not change, but adherence to the classes reached 83%.",
+      "why_it_matters": "It suggests that a low-cost, enjoyable group activity can be sustained even by frail nursing home residents and may meaningfully improve mood and well-being, areas often neglected in long-term care programming.",
+      "story_angle_primary": "If you live in a care residence or attend a day program, ask what group movement activities \u2014 dance, music-and-movement, or similar \u2014 are on offer, and consider trying one: participants in this program showed up 83% of the time, suggesting these sessions are genuinely enjoyable rather than a chore.",
+      "story_angle_secondary": "For activity directors and care home managers, this is a practical staffing and programming data point: once-weekly, hour-long dance sessions were feasible to run across multiple sites with frail, cognitively impaired residents and had high uptake \u2014 though the authors note more frequent sessions may be needed to move physical or cognitive outcomes.",
+      "caveats": "Pilot study with no control group, so improvements cannot be attributed to the dance program itself; the absolute change in depression scores was small (1.1 to 0.8); short 12-week intervention in French care facilities, which may limit generalizability."
+    },
+    {
+      "headline": "Becoming More Active in Midlife Tracked With Falling Depression Scores Over 11 Years \u2014 Sitting Less Did Not",
+      "journal": "Aging Ment Health",
+      "published": "2026 Oct 19",
+      "pmid": "42897872",
+      "doi": "10.1080/13607863.2026.2742335",
+      "the_study": "Researchers followed 1,190 community-dwelling Australian adults (mean age 57.8 at baseline) across three assessments spanning 11 years, using latent growth modeling to see whether changes in physical activity, sitting time and depressive symptoms moved together. People whose physical activity increased over the years also tended to show declining depression symptoms. Changes in sitting time, by contrast, showed no relationship to changes in mood.",
+      "why_it_matters": "It suggests that what you add \u2014 actual movement \u2014 may matter more for mood in later life than simply cutting down on time in a chair, a distinction that shapes how realistic lifestyle advice should be framed.",
+      "story_angle_primary": "If you're in your 50s, 60s or beyond and thinking about mood, the signal here points toward building up activity rather than just breaking up sitting time \u2014 but this study can't prove activity caused the mood change, so treat it as one more reason to discuss a realistic movement plan with your doctor, not a substitute for depression treatment.",
+      "story_angle_secondary": "For families and wellness staff, the finding argues for programming that genuinely raises activity levels over years, not one-off 'get up and stretch' reminders \u2014 and for tracking whether residents' activity is trending up or down over time rather than measuring it once.",
+      "caveats": "Observational design \u2014 cannot establish causation; physical activity, sitting time and depression symptoms appear to be self-reported; single Australian cohort drawn from a larger study, which may limit generalizability."
+    },
+    {
+      "headline": "Loneliness, Depression and Stress Linked to Faster Biological Aging in Midlife and Beyond",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Nov",
+      "pmid": "42566822",
+      "doi": "10.1016/j.tjpad.2026.100650",
+      "the_study": "Singapore-led researchers systematically reviewed and meta-analyzed 22 studies (15 rated high quality) examining whether psychological adversity is associated with epigenetic age acceleration \u2014 a DNA-based estimate of how fast the body is aging relative to calendar years. Greater loneliness, depression and stress were each independently associated with faster epigenetic aging from midlife onward, with the strongest and most consistent signals on second-generation clocks (PhenoAge and GrimAge).",
+      "why_it_matters": "It adds biological weight to the idea that loneliness and untreated depression are not just emotional problems but health problems, potentially accelerating the aging process itself.",
+      "story_angle_primary": "If you have been feeling persistently lonely or low, this review suggests those states travel with measurable biological aging markers \u2014 a reason to raise mood and social isolation with your doctor as health concerns, not as something to tough out. No evidence yet shows that treating them reverses the biological clock.",
+      "story_angle_secondary": "For senior living operators and caregivers, this strengthens the case for treating social connection programming as a health intervention with a plausible biological footprint, and for routinely screening residents for loneliness alongside depression.",
+      "caveats": "Meta-analysis of observational studies \u2014 cannot establish causation; substantial heterogeneity for the depression and stress estimates (I\u00b2 of 55% and 68%); non-Western populations underrepresented; effect sizes were small; no intervention evidence that reducing adversity slows aging."
+    },
+    {
+      "headline": "Psilocybin Therapy Worked Just as Well \u2014 and Was No Riskier \u2014 for Cancer Patients in Active Treatment",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Nov",
+      "pmid": "42546985",
+      "doi": "10.1016/j.jpainsymman.2026.07.030",
+      "the_study": "This secondary analysis of a phase 2 open-label trial (NCT04593563) compared 30 adults with cancer and diagnosed major depressive disorder (mean age 56, 70% women) who received a single 25-mg psilocybin dose alongside individual and group therapy. Seventeen were receiving systemic anticancer treatment within 30 days of dosing; 13 were not. Depression scores dropped substantially in both groups with no significant difference at weeks 1, 3 or 8, and no safety signal attributable to psilocybin, including no laboratory or suicidality changes.",
+      "why_it_matters": "Trials of psilocybin for cancer-related depression have routinely excluded people on chemotherapy or other systemic therapy \u2014 the very patients most likely to be depressed \u2014 and this is early evidence that exclusion may not be justified.",
+      "story_angle_primary": "If you are living with cancer and significant depression, ask your oncology or palliative care team whether psychedelic-assisted therapy trials are open to you; being on active treatment may not automatically disqualify you, though these remain research settings, not routine care.",
+      "story_angle_secondary": "For families and palliative care teams, this is a signal that depression in advanced illness is being actively researched with new tools \u2014 and that eligibility criteria for trials are broadening. Note that all four severe adverse events occurred among those on systemic treatment, so careful monitoring still applies.",
+      "caveats": "Very small N (30, split 17 vs 13), open-label and single-arm with no placebo or control group, secondary analysis not powered for the comparison made, short 8-week follow-up, mean age 56 means findings may not fully generalize to the oldest patients; trial conducted with Sunstone Therapies, whose staff are co-authors."
+    },
+    {
+      "headline": "How Seniors Drive May Flag Cognitive Decline 18 Months Before Diagnosis \u2014 And It's Not Depression Doing It",
+      "journal": "J Gerontol B Psychol Sci Soc Sci",
+      "published": "2026 Oct 19",
+      "pmid": "42898004",
+      "doi": "10.1093/geronb/gbag212",
+      "the_study": "Washington University researchers tracked monthly naturalistic driving data from 298 older adults, 25 of whom progressed from normal cognition to sustained mild cognitive impairment. Models based on within-person changes in cornering behavior and destination diversity \u2014 drift away from each driver's own six-month baseline, not absolute driving skill \u2014 identified 19 of 25 progressors a median 18 months before clinical conversion (AUC 0.752). Flagged drivers had a six- to thirteen-fold higher risk of conversion at 12 and 24 months, and depressive symptoms did not explain the driving signal.",
+      "why_it_matters": "Driving data collected passively from a small in-car device may offer an inexpensive early-warning system for cognitive decline, well before memory testing or expensive blood biomarkers are typically ordered \u2014 and the signal appears distinct from low mood.",
+      "story_angle_primary": "If you notice your own driving patterns shifting \u2014 fewer destinations, a shrinking range, different handling of turns \u2014 that change relative to your own past habits may be worth mentioning at your next checkup. But a flag is not a diagnosis, and this technology is not yet available clinically.",
+      "story_angle_secondary": "For families who worry about an older relative's driving, this reframes the conversation: the warning sign is a change from that person's own established pattern, not comparison to younger drivers \u2014 and it raises real questions about consent and privacy in passive monitoring that families should discuss openly in advance.",
+      "caveats": "Observational cohort with only 25 progressors, which limits precision; validation subgroups were small (n=82 evaluable); single-center; predictive model performance may not hold in broader or more diverse populations; depression was a secondary post hoc check rather than a primary focus."
+    },
+    {
+      "headline": "Depression in Later Life: Common, Treatable, and Often Left Untreated",
+      "journal": "Am J Geriatr Psychiatry",
+      "published": "2026 Nov",
+      "pmid": "42624700",
+      "doi": "10.1016/j.jagp.2026.07.010",
+      "the_study": "Researchers analyzed responses from 20,580 US adults aged 50 and older in the 2022-2023 National Survey on Drug Use and Health. About 4.6% had experienced a major depressive episode in the past year, with higher odds among women, people who were divorced, separated, or widowed, and those with alcohol use disorder, cannabis use, or misuse of prescription opioids or sedatives. Two-thirds of those with depression got some mental health treatment, but adults 65 and older were less likely than those 50-64 to receive outpatient care (38.7% vs. 50.1%) and less likely to report feeling they needed treatment they weren't getting (8.8% vs. 23.3%). Among untreated people who did recognize a need, the biggest barriers were attitudinal (86.2%, such as thinking they could handle it alone), followed by access (73.1%) and cost (48.6%).",
+      "why_it_matters": "Roughly one in twenty older adults has a major depressive episode each year, yet the oldest group is the least likely to get outpatient care \u2014 often because they don't see their symptoms as treatable rather than because help is unavailable.",
+      "story_angle_primary": "If you've been feeling persistently low, hopeless, or uninterested in things you used to enjoy, that is not a normal part of aging and it is treatable. 'I can handle it myself' was the single most common reason older adults in this survey went untreated \u2014 consider raising it directly with your primary care doctor, and mention any alcohol or sedative use too, since the two travel together.",
+      "story_angle_secondary": "For families and care staff: older adults in this survey were markedly less likely to perceive an unmet need for mental health care, meaning they may not ask for help even when struggling. Screening conversations and warm handoffs to counseling matter more than waiting for a request \u2014 and loss of a spouse or a divorce is a documented high-risk marker.",
+      "caveats": "Cross-sectional survey, so it cannot establish causation or direction; all measures were self-reported; sample excludes people living in nursing homes and other institutions, where depression rates are likely higher."
+    },
+    {
+      "headline": "More Than Half of Nursing Home Residents Showed Signs of Depression During the Pandemic",
+      "journal": "J Appl Gerontol",
+      "published": "2026 Oct 23",
+      "pmid": "42909849",
+      "doi": "10.1177/07334648261500732",
+      "the_study": "Australian researchers systematically reviewed 32 studies (24 quantitative, six qualitative, two mixed-methods) published between 2020 and 2025 on the mental health of long-term care facility residents during COVID-19. Pooled estimates found depression in 55.6% of residents, anxiety in 51.4%, and loneliness in 54.5%, though results varied widely across studies. Consistent staffing, maintained social connection, and ongoing family communication emerged as protective conditions.",
+      "why_it_matters": "It quantifies the psychological cost of pandemic lockdowns in residential care and names three concrete, controllable buffers \u2014 staffing continuity, social contact, and family communication \u2014 that facilities and families can act on now and in any future outbreak.",
+      "story_angle_primary": "If you live in or are moving into a residential care setting, ask how the facility maintained resident contact with family during COVID-19 and what its written plan is for the next infectious outbreak. Reliable, familiar staff and uninterrupted family contact were linked to better emotional outcomes \u2014 they are fair questions to ask on a tour.",
+      "story_angle_secondary": "For operators and care staff: these pooled figures make the case that visitation and staffing-continuity policies are mental health interventions, not just logistics. For families, persistent, scheduled contact \u2014 even by phone or video \u2014 was one of the few protective factors identified across studies.",
+      "caveats": "Pooled prevalence estimates showed substantial heterogeneity between studies and are described by the authors themselves as exploratory; included studies were observational and English-language only; findings reflect a pandemic-specific context that may not generalize to ordinary conditions."
+    },
+    {
+      "headline": "Exercise Eased Depression and Low Mood Through the Menopause Transition",
+      "journal": "Menopause",
+      "published": "2026 Oct 13",
+      "pmid": "42868040",
+      "doi": "10.1097/GME.0000000000002827",
+      "the_study": "Researchers at University College London pooled 12 randomized controlled trials involving 1,003 women aged 40-65 in perimenopause or early postmenopause, comparing physical activity programs against usual care or alternative activity. Physical activity significantly improved depression, mood, psychological quality of life, and overall quality of life. Aerobic-based programs drove improvements in depression, mood, and overall quality of life, while mind-body approaches such as yoga improved psychological quality of life specifically. Depression improved in both perimenopausal and early postmenopausal women.",
+      "why_it_matters": "For women whose mood symptoms around menopause can't or shouldn't be treated with hormones or who face long waits for therapy, structured exercise emerges from randomized trial evidence as a genuinely useful option.",
+      "story_angle_primary": "If menopause has brought low mood or flattened your sense of wellbeing, ask your clinician about building a regular aerobic routine \u2014 walking, cycling, swimming \u2014 as part of your plan, not just as general health advice. Mind-body options like yoga showed benefits too, particularly for psychological quality of life, so there's room to pick what you'll actually stick with.",
+      "story_angle_secondary": "For families and wellness staff in community or senior living settings: group exercise programming for women in midlife and early postmenopause has randomized evidence behind it for mood, not just physical fitness \u2014 a useful framing when designing or promoting classes.",
+      "caveats": "Only 12 trials totaling about 1,000 women; effect sizes were very large, which in small trial pools often signals publication bias or risk-of-bias issues; the authors note menopause staging was unclear in several trials and call for higher-quality studies; population is midlife women and may not generalize to older seniors."
+    },
+    {
+      "headline": "Isolation Doesn't Make Older Adults Frail Directly \u2014 Depression Appears to Be the Bridge",
+      "journal": "J Frailty Aging",
+      "published": "2026 Oct 13",
+      "pmid": "42873644",
+      "doi": "10.1016/j.tjfa.2026.100218",
+      "the_study": "Using four waves of the China Health and Retirement Longitudinal Study spanning 2011-2018, researchers followed 3,316 adults aged 60 and older who were not frail at the outset (mean age 68.9; 60.5% women). Over seven years, 58.7% became frail. After full adjustment, social isolation had no direct effect on frailty \u2014 its entire influence ran indirectly through depression, through cognitive decline, and through a chain from depression to cognitive decline.",
+      "why_it_matters": "It suggests that the physical decline linked to loneliness may be preventable if the mood symptoms that follow isolation are caught and treated, rather than treating social isolation and frailty as separate problems.",
+      "story_angle_primary": "If your social world has shrunk \u2014 through retirement, bereavement, or mobility limits \u2014 pay attention to your mood as the early warning sign, not your walking speed. Rebuilding regular contact and addressing low mood promptly may be what protects your physical strength down the line.",
+      "story_angle_secondary": "For senior living staff and family caregivers: this supports pairing social programming with depression screening rather than running them separately. A newly withdrawn resident may be on a path that ends in frailty, and depression is the point where that path is most visibly interruptible.",
+      "caveats": "Observational cohort \u2014 mediation modeling cannot prove causation; conducted entirely in China and may not generalize to other health and social care systems; depression, cognition, and frailty measures come from survey instruments; frailty incidence of nearly 60% is high and reflects the measurement approach used."
+    },
+    {
+      "headline": "Rising Anxiety in Midlife and Beyond Linked to Higher Hip Fracture Risk",
+      "journal": "Arch Osteoporos",
+      "published": "2026 Oct 23",
+      "pmid": "42909516",
+      "doi": "10.1007/s11657-026-01784-9",
+      "the_study": "Researchers tracked anxiety-related symptoms in 9,271 Chinese adults aged 45 and older (mean age 61.7; 52.8% women) across surveys in 2011, 2013, and 2015, then followed them for hip fractures through 2020. Two patterns emerged: a lower-decreasing symptom group (84.7%) and a higher-increasing group (15.3%). Those in the higher-increasing group had about 1.5 times the risk of incident hip fracture after adjusting for demographics, health behaviors, and functional status (170 fractures occurred overall).",
+      "why_it_matters": "It points to worsening anxiety over time \u2014 not just a single bad score \u2014 as a possible marker of fracture vulnerability, suggesting mental health belongs in the conversation about fall and fracture prevention.",
+      "story_angle_primary": "If your anxiety has been climbing over recent years, mention it when you discuss bone health or fall prevention with your doctor \u2014 this study found that pattern tracked with later hip fracture risk. It does not mean anxiety breaks bones, but it may be a signal worth pairing with a balance and bone density check.",
+      "story_angle_secondary": "For caregivers and care professionals: a single mental health screening may miss the pattern that matters. Repeated assessment over time, flagging residents whose anxiety is trending upward, could help target fall-prevention resources.",
+      "caveats": "Observational design cannot establish causation; hip fractures were self-reported at follow-up interviews; anxiety was measured with just three items drawn from a depression scale, not a validated anxiety instrument; only 170 fracture events, and the adjusted confidence interval barely excluded no effect; Chinese cohort may not generalize."
+    },
+    {
+      "headline": "Blood Test for Alzheimer's Sped Up Diagnosis Without Causing Emotional Harm",
+      "journal": "JAMA Neurol",
+      "published": "2026 Oct 5",
+      "pmid": "42832237",
+      "doi": "10.1001/jamaneurol.2026.3497",
+      "the_study": "At a memory clinic in Spain, 220 new patients with memory complaints (median age 73; 56% women) were randomly assigned to have blood biomarker results \u2014 p-tau217 and neurofilament light chain \u2014 shared with them and their neurologist at three months or at nine months. Early disclosure produced a very high-confidence diagnosis in 50% of patients at three months versus 4.6% in the delayed group, led to more starts on Alzheimer's symptomatic treatment, fewer repeat neuropsychological tests, and more discharges to primary care. Critically, anxiety, depression, perceived stress, and quality of life were no worse in the early-disclosure group.",
+      "why_it_matters": "Fear that early biomarker results will devastate patients emotionally has been a major brake on using these blood tests \u2014 this randomized trial found no such emotional cost, while diagnostic answers arrived six months sooner.",
+      "story_angle_primary": "If you're being evaluated for memory problems, it's reasonable to ask your neurologist whether blood-based biomarker testing is available and when you'd get the results. In this trial, learning results earlier meant faster answers and earlier treatment without measurably more anxiety or depression.",
+      "story_angle_secondary": "For families: the common instinct to shield a relative from an early Alzheimer's result wasn't supported here. Earlier answers also meant fewer rounds of repeat testing and a quicker return to primary care \u2014 practical relief for the person doing the driving and scheduling.",
+      "caveats": "Single memory clinic in Spain, so results may not generalize to other health systems or more diverse populations; nine-month follow-up is short for emotional outcomes; moderate sample size; several authors report extensive financial ties to diagnostics and pharmaceutical companies including Roche Diagnostics, Eli Lilly, and Novo Nordisk."
+    },
+    {
+      "headline": "Sleep, Alcohol, and Walking Tracked With Mood and Anxiety in Older Adults at Risk for Alzheimer's",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 14",
+      "pmid": "42877708",
+      "doi": "10.1002/dad2.70494",
+      "the_study": "Researchers analyzed 1,705 cognitively unimpaired adults aged 65-85 from the A4 and LEARN studies, combining self-reported lifestyle behaviors into a healthy lifestyle index and tracking cognition, anxiety, and depressive symptoms over time alongside APOE \u03b54 status and amyloid PET scans. Among non-Hispanic White participants, a healthier lifestyle was linked to fewer depressive symptoms, adequate sleep blunted the rise in anxiety associated with carrying the \u03b54 gene, and heavy alcohol use amplified \u03b54-related cognitive decline. Among participants from other racial and ethnic groups, walking and a higher lifestyle score tracked with better anxiety and depression trajectories.",
+      "why_it_matters": "It suggests that everyday habits \u2014 sleep, drinking, walking, not smoking \u2014 relate to emotional health even in people carrying genetic and amyloid risk for Alzheimer's, where genetics can feel like destiny.",
+      "story_angle_primary": "Carrying a genetic or amyloid risk for Alzheimer's doesn't leave you without levers. Getting enough sleep, keeping alcohol modest, walking regularly, and not smoking were all linked to steadier mood and anxiety in this group \u2014 worth discussing as part of your broader brain health plan.",
+      "story_angle_secondary": "For caregivers and program staff: this adds mood and anxiety, not just cognition, to the case for sleep hygiene and walking programs among residents with known dementia risk factors. Alcohol use is worth asking about specifically in \u03b54 carriers.",
+      "caveats": "Secondary observational analysis of trial cohorts \u2014 cannot establish causation; lifestyle behaviors were self-reported at baseline only; A4/LEARN participants are volunteers who skew healthier and more educated than the general population, limiting generalizability; non-White subgroups were small, so race/ethnicity comparisons should be treated as preliminary."
+    },
+    {
+      "headline": "Loneliness Doesn't Attack Your Joints Directly \u2014 But It May Get There Through Depression and a Weak Chair-Rise",
+      "journal": "J Appl Gerontol",
+      "published": "2026 Oct 22",
+      "pmid": "42911759",
+      "doi": "10.1177/07334648261500729",
+      "the_study": "Researchers analyzed data from 6,232 adults aged 50 and older across 12 European countries in the SHARE study (waves 7-9, 2017-2022), tracking whether loneliness and social isolation predicted new diagnoses of osteoarthritis. Using structural equation modeling, they found no direct link between loneliness and osteoarthritis onset. Instead, the association ran indirectly through depression, physical inactivity, and \u2014 most powerfully \u2014 difficulty rising from a chair (\u03b2 = 0.74), a standard marker of lower-body strength. Female sex and older age independently raised osteoarthritis risk.",
+      "why_it_matters": "It maps a plausible chain from social disconnection to physical breakdown, and suggests the modifiable links in that chain \u2014 mood and leg strength \u2014 are things older adults and their care teams can actually measure and work on.",
+      "story_angle_primary": "If getting out of a chair without using your arms has become harder, treat it as information worth bringing to your next appointment \u2014 and notice whether loneliness or low mood has also been shrinking how much you move. This study can't prove one causes the other, but strength and social connection are both worth protecting on their own merits.",
+      "story_angle_secondary": "For senior living staff, the chair-rise test is cheap, fast, and already in most functional assessment toolkits \u2014 this analysis argues it may double as a downstream signal of psychosocial distress, not just physical decline, and could flag residents whose isolation is quietly turning into deconditioning.",
+      "caveats": "Observational cohort \u2014 mediation modeling cannot establish causation; osteoarthritis onset and several mediators rely on self-report; European population aged 50+ may not generalize to other health systems or to the oldest old."
+    },
+    {
+      "headline": "An Eight-Week Mind-Body Program Lowered Oxidative Stress and Depression in Breast Cancer Survivors \u2014 But Didn't Touch Telomeres",
+      "journal": "Mech Ageing Dev",
+      "published": "2026 Oct 23",
+      "pmid": "42918505",
+      "doi": "10.1016/j.mad.2026.112263",
+      "the_study": "In a randomized controlled trial in Greece, 120 women who had completed breast cancer treatment were assigned to either an eight-week Pythagorean Self-Awareness Intervention \u2014 a structured self-reflection and stress management practice \u2014 or an education-only control group; 118 were analyzed. The intervention group showed a modest but statistically significant reduction in serum total oxidant status compared with controls, plus improvements in physical activity, body weight, sleep, perceived stress, anxiety, and depression. Telomere length, the headline biological aging marker, did not differ between groups.",
+      "why_it_matters": "It offers survivors a low-cost, drug-free routine with measurable benefits for mood and sleep, while honestly showing that claims about reversing cellular aging in eight weeks don't hold up.",
+      "story_angle_primary": "If you're living after cancer treatment and struggling with stress, poor sleep, or low mood, a structured self-awareness practice is worth asking your care team about \u2014 just don't buy the marketing that any eight-week program will rewind your biological clock.",
+      "story_angle_secondary": "For survivorship programs and senior living wellness directors, this is a template: an eight-week group format that moved several patient-reported outcomes at once. Note that the biological effect size was small (g = -0.13), so the real sell is sleep, mood, and activity, not biomarkers.",
+      "caveats": "N=120 with modest effect sizes; single-country trial in women after breast cancer treatment, which may not generalize; several key outcomes (sleep, stress, depression) were self-reported; eight-week intervention is likely too short to detect telomere change; no long-term follow-up reported."
+    },
+    {
+      "headline": "A Nurse-Led Symptom Program Eased Pain and Discomfort in Palliative Care \u2014 Yet Depression Barely Budged",
+      "journal": "Palliat Support Care",
+      "published": "2026 Oct 22",
+      "pmid": "42908282",
+      "doi": "10.1017/S147895152610399X",
+      "the_study": "At a government hospital in Al-Kharj, Saudi Arabia, 150 adult cancer patients receiving palliative care were assigned to either a nursing-led predictive symptom management program that combined clinical assessment with routine laboratory monitoring (n=75) or usual care (n=75), over six weeks. The intervention group had substantially lower total symptom burden (ESAS 34.0 vs 41.5; Cohen's d = 0.86) and better pain scores. But there were no significant between-group differences in anxiety, depression, quality of life, or functional status.",
+      "why_it_matters": "It's a pointed reminder that controlling physical symptoms well does not automatically lift the emotional weight of serious illness \u2014 psychological distress in palliative care needs its own dedicated attention.",
+      "story_angle_primary": "If you or someone close to you is in palliative care and your physical symptoms are being well managed but you still feel low or frightened, say so directly \u2014 good pain control alone is not expected to fix depression, and emotional support should be a separate, named part of your care plan.",
+      "story_angle_secondary": "For nursing leaders and palliative teams, this is a useful caution against assuming a strong symptom-management protocol covers psychosocial needs. Building explicit mental health screening and counseling into the same workflow \u2014 rather than hoping it follows from comfort gains \u2014 appears necessary.",
+      "caveats": "Quasi-experimental, not randomized; single-center in one country, limiting generalizability; six-week follow-up is short for detecting mood change; anxiety, depression, and quality of life were patient-reported; null psychological findings may partly reflect insufficient power or duration."
+    },
+    {
+      "headline": "Is It Depression or Early Alzheimer's? Researchers Map Which Brain Markers Tell Them Apart",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Oct",
+      "pmid": "42904492",
+      "doi": "10.1002/alz.71739",
+      "the_study": "A team led by Washington University and Mayo Clinic researchers reviewed 48 studies published between 2010 and 2025 that measured biological markers in people with clinically diagnosed depression, Alzheimer's disease, or both. Amyloid markers were the most consistent signal of Alzheimer's, and neurodegeneration markers such as hippocampal shrinkage also tracked with Alzheimer's. By contrast, vascular abnormalities and altered brain connectivity were more often tied to depressive symptoms. The overall picture: overlapping but partially distinct biological profiles.",
+      "why_it_matters": "Late-life depression and early dementia can look nearly identical at the kitchen table, and getting the distinction right changes treatment, prognosis, and planning \u2014 this review clarifies which tests currently carry diagnostic weight and which don't.",
+      "story_angle_primary": "If new low mood, apathy, or memory slips have appeared in your 60s, 70s, or beyond, it's reasonable to ask your doctor whether the picture could be depression, early neurodegeneration, or both \u2014 and what, if any, biomarker testing would actually change your care. Depression in later life is treatable, and treating it is worthwhile regardless of the underlying cause.",
+      "story_angle_secondary": "For families and senior living clinicians, the takeaway is to resist premature labeling. A resident's withdrawal is not automatically 'early dementia' \u2014 vascular and connectivity changes linked to depression produce overlapping presentations, and a depression workup deserves to happen in parallel with any cognitive evaluation.",
+      "caveats": "Scoping review rather than original research or meta-analysis \u2014 no pooled effect estimates and no formal quality grading of included studies; the 48 studies varied widely in design and biomarker methods; findings are associative and do not establish which condition precedes or causes the other; biomarker testing remains largely a research tool in most clinical settings."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42892150",
+      "headline": "Treadmill walking eased back pain \u2014 and lifted mood \u2014 in an 8-week trial",
+      "verdict": "minor",
+      "notes": "Trial facts, group sizes and outcome directions match the abstract; two framing/detail problems \u2014 an unverifiable \"single-center\" claim and a story angle that extends the findings to a population the trial never studied.",
+      "issues": [
+        {
+          "label": "Single-center claim not in abstract",
+          "severity": "Minor",
+          "as_written": "Small sample (N=45, 15 per group), single-center, short 4-week follow-up",
+          "abstract_says": "The abstract reports 45 patients randomized to three groups of 15 but never describes the setting as a single center; authors are affiliated with Gachon University, a convalescent hospital in Seoul and CHA University.",
+          "problem": "The number of recruiting sites cannot be confirmed from the abstract.",
+          "suggested_fix": "Drop \"single-center\" or write \"recruitment setting not described in the abstract.\""
+        },
+        {
+          "label": "Extension to residents unable to do floor exercise",
+          "severity": "Moderate",
+          "as_written": "in residents who are too painful to tolerate conventional floor exercise",
+          "abstract_says": "Participants were 45 patients with chronic mechanical low back pain; the comparison group performed self-directed core stabilization exercises, and no subgroup of people unable to tolerate floor exercise was studied (ages are not reported).",
+          "problem": "Implies the trial tested treadmill walking in people who cannot tolerate conventional exercise, which it did not; it also assumes an older/frail population the abstract does not describe.",
+          "suggested_fix": "Reword to: \"in patients with chronic mechanical low back pain \u2014 though participant ages were not reported, so applicability to frail residents is unknown.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42632461",
+      "headline": "Air pollution and the aging brain: depression and heart disease may be links in the chain",
+      "verdict": "minor",
+      "notes": "Study count, pollutant list, mediator findings and risk-of-bias statement all match; the professional story angle leans slightly further toward action than a review of unconfirmed mediation pathways supports.",
+      "issues": [
+        {
+          "label": "Intervention leap from unconfirmed mediators",
+          "severity": "Minor",
+          "as_written": "this review strengthens the case for treating resident depression and cardiovascular risk as brain-health interventions, not just standalone problems",
+          "abstract_says": "\"Cardio and Cerebro-vascular diseases emerged as a potential key mediator. Mental health outcomes, sleep, and lung function also showed mediating potential, but further research is needed to confirm these findings\"; the review calls for \"rigorous causal mediation analyses.\"",
+          "problem": "The review identifies candidate pathways and explicitly says they are unconfirmed; framing depression and cardiovascular treatment as established brain-health interventions goes beyond that, and sits awkwardly with the digest's own caveat.",
+          "suggested_fix": "Soften to \"this review raises the possibility that treating resident depression and cardiovascular risk could also matter for brain health \u2014 a hypothesis the authors say still needs confirming.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42731569",
+      "headline": "Some brains shrink but keep thinking clearly \u2014 and researchers are learning who they belong to",
+      "verdict": "minor",
+      "notes": "Cohort details, the three trajectory classes and the sex-disaggregated depression finding are reported accurately, but the story angles turn an ambiguous association into a treatment recommendation.",
+      "issues": [
+        {
+          "label": "Depression-treatment advice not supported by the direction of the finding",
+          "severity": "Moderate",
+          "as_written": "keep the focus on what you can act on, including getting depressive symptoms properly evaluated and treated",
+          "abstract_says": "\"Sex-disaggregated results highlighted indicators unique to the females, such as higher body mass index (stability) and lower geriatric depression score (stability, vulnerability).\"",
+          "problem": "Lower depression scores in women predicted both the stable and the vulnerable pathway, so the result does not indicate that treating depressive symptoms protects cognition; the digest body text correctly notes the double link but the angle ignores it.",
+          "suggested_fix": "Reframe as: \"mood scores showed up as a marker in women on more than one pathway, so the link is not a simple one \u2014 but depressive symptoms are worth evaluating in their own right.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42849853",
+      "headline": "When Depression Meets Frailty, Hospital Stays Climb \u2014 and Office Visits Drop",
+      "verdict": "minor",
+      "notes": "N, person-intervals, cohort, CES-D measure and the 1.25 odds ratio all match; only mild causal phrasing in the body and \"Why it matters.\"",
+      "issues": [
+        {
+          "label": "Causal phrasing for an observational association",
+          "severity": "Minor",
+          "as_written": "each 5-point rise in depressive symptoms raised the odds of hospital admission by 25% among frail participants \u2026 Depression in an older adult who is already frail appears to push care away from routine clinic visits and toward the hospital",
+          "abstract_says": "\"For admission, each 5-point increase carried higher odds in frail (adjusted odds ratio, 1.25 [95% CI, 1.18-1.33]) but not robust participants\"; depressive symptoms were \"associated with\" fewer outpatient visits regardless of frailty.",
+          "problem": "\"Raised the odds\" and \"push care away\" imply causation in a person-interval observational cohort; also, the lower outpatient use applied to everyone, not specifically to frail participants.",
+          "suggested_fix": "Use \"was associated with 25% higher odds\" and note that the drop in outpatient visits occurred regardless of frailty."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42721779",
+      "headline": "Weekly Exercise Appears to Blunt the Depression Toll of Smoking and Heavy Drinking",
+      "verdict": "minor",
+      "notes": "Cohorts, sample size, country count, the 0.281 SD estimate and the gender and social-participation findings are all faithfully reported; one small overstatement about social activity.",
+      "issues": [
+        {
+          "label": "\"Most valuable substitute\" overstates the comparison",
+          "severity": "Minor",
+          "as_written": "for those who cannot exercise much, staying socially engaged is the most valuable substitute",
+          "abstract_says": "\"Additionally, social activity provided a protective effect in the absence of MVPA.\"",
+          "problem": "The study only examined four behaviors, so it cannot rank social engagement against unmeasured alternatives as the \"most valuable\" substitute.",
+          "suggested_fix": "Change to \"social activity was the one behavior in this analysis that still showed a protective association when physical activity was low.\""
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42861605",
+      "headline": "Losing Your Appetite May Forecast Losing Your Mobility",
+      "verdict": "minor",
+      "notes": "N, age range, 12.6% prevalence, HR 1.44 and the 12-month 50% inflammation figure all match the abstract; one wording slip substitutes food intake for self-reported appetite.",
+      "issues": [
+        {
+          "label": "Appetite reported as intake",
+          "severity": "Minor",
+          "as_written": "This study suggests reduced intake may precede visible mobility decline by many months",
+          "abstract_says": "Participants reported appetite as \"good or poor\" at baseline; food intake or meal consumption was not measured.",
+          "problem": "The study measured a one-item self-rated appetite question, not how much people actually ate, so attributing the finding to reduced intake misstates the exposure.",
+          "suggested_fix": "Change to \"reduced appetite may precede visible mobility decline by many months,\" keeping the observational framing."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42574936",
+      "headline": "Social Disadvantage in Your 40s Shows Up in the Brain Decades Later",
+      "verdict": "minor",
+      "notes": "CARDIA sample, the 12-item/5-domain index, imaging subsample and all four outcome directions match; the funding disclosure is correctly flagged. Only the \"decades later\" timeframe is unsupported by the abstract.",
+      "issues": [
+        {
+          "label": "Follow-up length not stated in abstract",
+          "severity": "Minor",
+          "as_written": "Social Disadvantage in Your 40s Shows Up in the Brain Decades Later",
+          "abstract_says": "The abstract reports SDOH measured in early midlife (mean age 40.0 \u00b1 3.6) with repeated cognitive and MRI measures and effects expressed \"per 5-year interval,\" but gives no total follow-up duration.",
+          "problem": "\"Decades later\" asserts a follow-up window the abstract does not specify.",
+          "suggested_fix": "Use \"shows up in later brain scans\" or state the outcomes were tracked over repeated follow-up of unspecified length."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "pmid": "42843433",
+      "headline": "Dancing in the Nursing Home: 12 Weeks of Weekly Classes Eased Depression and Lifted Quality of Life",
+      "verdict": "minor",
+      "notes": "Sample size, mean age, 27% depression change, 10% NHP improvement and 83% adherence all match; the headline's causal verbs sit uneasily with the uncontrolled pilot design the caveats acknowledge, and one outcome is mislabeled.",
+      "issues": [
+        {
+          "label": "Causal headline for an uncontrolled pilot",
+          "severity": "Moderate",
+          "as_written": "12 Weeks of Weekly Classes Eased Depression and Lifted Quality of Life",
+          "abstract_says": "\"These findings suggest that a group-based dance program is a feasible intervention in nursing home settings and may be associated with \u2026 improvements on \u2026 depressive symptoms and QoL in this non-controlled pilot study.\"",
+          "problem": "The headline states the classes caused the improvement, while the authors explicitly hedge because there was no control group \u2014 directly at odds with the digest's own caveat.",
+          "suggested_fix": "Reword to \"Depression Scores Fell and Quality of Life Rose After 12 Weeks of Weekly Classes \u2014 in an Uncontrolled Pilot.\""
+        },
+        {
+          "label": "Walking speed not among the measured outcomes",
+          "severity": "Minor",
+          "as_written": "Balance, walking speed and cognitive test scores did not change",
+          "abstract_says": "\"No significant changes were observed in functional outcomes (Berg Balance Scale, Timed Up and Go, Mini Motor Test) or cognitive performance (Mini-Mental State Examination).\"",
+          "problem": "Timed Up and Go is a mobility/transfer test, not a gait-speed measure; walking speed was not reported.",
+          "suggested_fix": "Change to \"Balance, mobility (Timed Up and Go) and cognitive test scores did not change.\""
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "pmid": "42897872",
+      "headline": "Becoming More Active in Midlife Tracked With Falling Depression Scores Over 11 Years \u2014 Sitting Less Did Not",
+      "verdict": "accurate",
+      "notes": "Sample size, mean age, three assessments over 11 years, latent growth modeling and both findings (activity linked to declining symptoms, sitting time not) match the abstract, and the causal hedging is appropriate.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "pmid": "42566822",
+      "headline": "Loneliness, Depression and Stress Linked to Faster Biological Aging in Midlife and Beyond",
+      "verdict": "minor",
+      "notes": "Study count, quality ratings, the three associations and the heterogeneity figures match; one word overstates what the abstract says about second-generation clocks.",
+      "issues": [
+        {
+          "label": "\"Strongest\" signal not reported",
+          "severity": "Minor",
+          "as_written": "with the strongest and most consistent signals on second-generation clocks (PhenoAge and GrimAge)",
+          "abstract_says": "\"Irrespective of the type of psychological adversity, positive associations were consistently observed for second-generation epigenetic clocks (PhenoAge and GrimAge).\"",
+          "problem": "The abstract reports consistency across clock types but does not compare effect magnitudes, so \"strongest\" is not supported.",
+          "suggested_fix": "Drop \"strongest and\" and keep \"most consistent signals on second-generation clocks.\""
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42546985",
+      "headline": "Psilocybin Therapy Worked Just as Well \u2014 and Was No Riskier \u2014 for Cancer Patients in Active Treatment",
+      "verdict": "minor",
+      "notes": "Design, N, dosing, outcomes and industry-affiliation caveat all match the abstract; the adverse-event summary drops the authors' judgment that the severe events were unrelated to psilocybin, and omits the one serious AE.",
+      "issues": [
+        {
+          "label": "Adverse-event context incomplete",
+          "severity": "Minor",
+          "as_written": "Note that all four severe adverse events occurred among those on systemic treatment, so careful monitoring still applies.",
+          "abstract_says": "Four severe AEs and one serious AE occurred, all in systemic treatment recipients, but were deemed unrelated to psilocybin.",
+          "problem": "The digest reports the imbalance in severe events without the authors' explicit attribution judgment, and leaves out the serious AE, which makes the safety picture read as more drug-related than the abstract claims.",
+          "suggested_fix": "Add: 'four severe adverse events and one serious adverse event all occurred among those on systemic treatment, though investigators judged them unrelated to psilocybin.'"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42898004",
+      "headline": "How Seniors Drive May Flag Cognitive Decline 18 Months Before Diagnosis \u2014 And It's Not Depression Doing It",
+      "verdict": "accurate",
+      "notes": "Sample (298, 25 progressors), detection rate (19/25), AUC 0.752, 18-month median lead time, hazard ratios of 6.02 and 13.38, the n=82 evaluable validation subgroups, and the null depression finding all match the abstract; framing is appropriately hedged and notes the tool is not clinically available.",
+      "issues": []
+    },
+    {
+      "number": 13,
+      "pmid": "42624700",
+      "headline": "Depression in Later Life: Common, Treatable, and Often Left Untreated",
+      "verdict": "minor",
+      "notes": "Prevalence, correlates, treatment percentages and barrier figures are reproduced correctly, but the interpretation of the barrier data overstates the attitudinal explanation and understates reported access barriers.",
+      "issues": [
+        {
+          "label": "Barrier interpretation overstated",
+          "severity": "Moderate",
+          "as_written": "yet the oldest group is the least likely to get outpatient care \u2014 often because they don't see their symptoms as treatable rather than because help is unavailable",
+          "abstract_says": "Among untreated individuals with perceived unmet need, barriers to treatment were attitudinal (86.2%; e.g., thought could handle without treatment), access-related (73.1%), and financial (48.6%).",
+          "problem": "Barriers were reported only by untreated people who perceived an unmet need (a group that was notably small among those 65+), and access-related barriers were reported by nearly three-quarters of them. Saying help was not 'unavailable' contradicts the access figure and attaches whole-sample barrier data to the oldest subgroup.",
+          "suggested_fix": "Rewrite as: 'among untreated adults who recognised a need, attitudinal barriers were most commonly reported (86.2%), though access (73.1%) and cost (48.6%) barriers were also widespread.'"
+        },
+        {
+          "label": "Single 'most common reason' claim",
+          "severity": "Minor",
+          "as_written": "'I can handle it myself' was the single most common reason older adults in this survey went untreated",
+          "abstract_says": "barriers to treatment were attitudinal (86.2%; e.g., thought could handle without treatment)",
+          "problem": "'Thought could handle without treatment' is one example within the broad attitudinal category, not a separately measured single most common reason, and the figures describe untreated people with perceived unmet need rather than all untreated adults.",
+          "suggested_fix": "Say 'attitudinal barriers \u2014 such as thinking they could handle it without treatment \u2014 were the most commonly cited category among untreated adults who felt they needed care.'"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42909849",
+      "headline": "More Than Half of Nursing Home Residents Showed Signs of Depression During the Pandemic",
+      "verdict": "minor",
+      "notes": "Study counts and pooled prevalence figures match; the protective factors are presented more firmly than the authors' 'potential' wording from a narrative synthesis.",
+      "issues": [
+        {
+          "label": "Protective factors stated too firmly",
+          "severity": "Minor",
+          "as_written": "Consistent staffing, maintained social connection, and ongoing family communication emerged as protective conditions.",
+          "abstract_says": "consistent staffing, social connection and family communication were potential protective conditions.",
+          "problem": "The abstract describes these as potential protective conditions identified through narrative synthesis, not established protective effects; the digest's 'Why it matters' further calls them 'three concrete, controllable buffers'.",
+          "suggested_fix": "Use 'were identified as potential protective conditions' and soften 'concrete, controllable buffers' to 'possible buffers worth testing'."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42868040",
+      "headline": "Exercise Eased Depression and Low Mood Through the Menopause Transition",
+      "verdict": "minor",
+      "notes": "Trial count, pooled N, age range, comparators, outcome pattern and subgroup findings all match the abstract; only the naming of yoga as the mind-body example is not supported by the abstract text.",
+      "issues": [
+        {
+          "label": "Specific mind-body modality not in abstract",
+          "severity": "Minor",
+          "as_written": "mind-body approaches such as yoga improved psychological quality of life specifically",
+          "abstract_says": "intervention types (aerobic-based [ABI] and mind-body [MBI]) ... whereas MBIs improved psychological QoL (g=0.80, 95% CI [0.43-1.16])",
+          "problem": "The abstract does not identify which mind-body modalities were pooled; naming yoga is unverifiable from the abstract alone and is repeated in the reader-facing story angle.",
+          "suggested_fix": "Say 'mind-body programmes' without naming yoga, or attribute the example to the full text."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42873644",
+      "headline": "Isolation Doesn't Make Older Adults Frail Directly \u2014 Depression Appears to Be the Bridge",
+      "verdict": "minor",
+      "notes": "Sample, waves, mean age, sex split, 58.7% frailty incidence and the full-mediation result are all reported correctly; two framing points stretch slightly past the mediation design.",
+      "issues": [
+        {
+          "label": "Loneliness substituted for social isolation",
+          "severity": "Minor",
+          "as_written": "It suggests that the physical decline linked to loneliness may be preventable",
+          "abstract_says": "social isolation is recognized as a prevalent psychosocial risk factor ... Social isolation functions as a distal determinant",
+          "problem": "The exposure measured was social isolation, not loneliness; the two are related but distinct constructs and the abstract never measures loneliness.",
+          "suggested_fix": "Replace 'loneliness' with 'social isolation' in the 'Why it matters' sentence."
+        },
+        {
+          "label": "Prevention implied from mediation model",
+          "severity": "Minor",
+          "as_written": "may be preventable if the mood symptoms that follow isolation are caught and treated",
+          "abstract_says": "its impact was exclusively indirect through three distinct pathways ... These findings highlight the need for integrated interventions targeting social engagement, mental health, and cognitive function",
+          "problem": "A cross-wave mediation model cannot show that treating depression prevents frailty; the body text leans further toward an intervention claim than the caveat about causation allows.",
+          "suggested_fix": "Reframe as 'points to depression as a pathway worth testing in intervention studies' rather than implying prevention."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "pmid": "42909516",
+      "headline": "Rising Anxiety in Midlife and Beyond Linked to Higher Hip Fracture Risk",
+      "verdict": "accurate",
+      "notes": "Sample size, mean age, sex split, trajectory proportions, adjusted HR of 1.49, 170 fracture events, self-reported outcome and the three-item CES-D-derived anxiety measure all match the abstract, and the caveats correctly note the borderline confidence interval.",
+      "issues": []
+    },
+    {
+      "number": 18,
+      "pmid": "42832237",
+      "headline": "Blood Test for Alzheimer's Sped Up Diagnosis Without Causing Emotional Harm",
+      "verdict": "accurate",
+      "notes": "Randomization, N=220, median age 73, 55.9% women, the 50.0% vs 4.6% diagnostic-certainty result, management changes and the null emotional-outcome finding all match; conflict-of-interest disclosures are accurately summarized in the caveats.",
+      "issues": []
+    },
+    {
+      "number": 19,
+      "pmid": "42877708",
+      "headline": "Sleep, Alcohol, and Walking Tracked With Mood and Anxiety in Older Adults at Risk for Alzheimer's",
+      "verdict": "accurate",
+      "notes": "Cohort source, n=1705, age range 65-85, the healthy lifestyle index, and the race/ethnicity-stratified findings are faithfully reported, and the caveats correctly flag baseline-only self-reported behaviors and small non-White subgroups.",
+      "issues": []
+    },
+    {
+      "number": 20,
+      "pmid": "42911759",
+      "headline": "Loneliness Doesn't Attack Your Joints Directly \u2014 But It May Get There Through Depression and a Weak Chair-Rise",
+      "verdict": "accurate",
+      "notes": "N=6,232, 12 European countries, SHARE waves 7-9 (2017-2022), the absence of direct associations, chair-rise difficulty as strongest mediator (\u03b2 = 0.74), and the independent effects of female sex and older age all match the abstract; causal language is appropriately avoided.",
+      "issues": []
+    },
+    {
+      "number": 21,
+      "pmid": "42918505",
+      "headline": "An Eight-Week Mind-Body Program Lowered Oxidative Stress and Depression in Breast Cancer Survivors \u2014 But Didn't Touch Telomeres",
+      "verdict": "accurate",
+      "notes": "Design, N, randomization, effect sizes and null telomere finding all match the abstract; causal language is appropriate for an RCT.",
+      "issues": []
+    },
+    {
+      "number": 22,
+      "pmid": "42908282",
+      "headline": "A Nurse-Led Symptom Program Eased Pain and Discomfort in Palliative Care \u2014 Yet Depression Barely Budged",
+      "verdict": "minor",
+      "notes": "Numbers and null psychological findings are reported correctly; headline wording implies a small measured change where the abstract reports no significant difference, and \"usual care\" is not specified in the abstract.",
+      "issues": [
+        {
+          "label": "Headline wording on depression result",
+          "severity": "Minor",
+          "as_written": "Yet Depression Barely Budged",
+          "abstract_says": "No statistically significant between-group differences in anxiety, depression, quality of life, or functional status were observed post the 6-week intervention.",
+          "problem": "\"Barely budged\" suggests a small but real measured improvement; the abstract reports no statistically significant between-group difference at all. The body text states this correctly, but the headline blurs it.",
+          "suggested_fix": "Reword to \"Yet Depression Showed No Measurable Benefit\" or \"Yet Mood Scores Didn't Differ From Usual Care.\""
+        },
+        {
+          "label": "Comparator described as \"usual care\"",
+          "severity": "Minor",
+          "as_written": "or usual care (n=75), over six weeks",
+          "abstract_says": "Participants were assigned to an intervention group (n = 75) or a control group (n = 75).",
+          "problem": "The abstract identifies only a \"control group\" without describing its content; calling it usual care is an assumption. Unverifiable from abstract only.",
+          "suggested_fix": "Say \"or a control group (n=75)\" unless the full text confirms usual care."
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "pmid": "42904492",
+      "headline": "Is It Depression or Early Alzheimer's? Researchers Map Which Brain Markers Tell Them Apart",
+      "verdict": "minor",
+      "notes": "Scoping review scope, 48 studies, date range and biomarker patterns all match; framing slightly overstates how clearly the review establishes diagnostic utility, and it omits that findings for non-amyloid biomarkers were heterogeneous.",
+      "issues": [
+        {
+          "label": "Overstates diagnostic clarity",
+          "severity": "Minor",
+          "as_written": "this review clarifies which tests currently carry diagnostic weight and which don't",
+          "abstract_says": "This scoping review mapped biomarker evidence differentiating depression and AD... Amyloid biomarkers were most consistently associated with clinically diagnosed AD, whereas findings for other biomarkers were more heterogeneous... highlighting the need for longitudinal studies using scalable biomarkers to clarify causal and temporal relationships.",
+          "problem": "A scoping review maps the literature and reports association patterns; it did not assess diagnostic accuracy or assign diagnostic weight to specific tests. The headline phrase \"tell them apart\" carries the same implication.",
+          "suggested_fix": "Reframe as \"maps which biomarkers have been most consistently linked to each condition, while noting that evidence for most markers is mixed.\""
+        },
+        {
+          "label": "Heterogeneity of non-amyloid findings not mentioned",
+          "severity": "Minor",
+          "as_written": "Amyloid markers were the most consistent signal of Alzheimer's, and neurodegeneration markers such as hippocampal shrinkage also tracked with Alzheimer's.",
+          "abstract_says": "Amyloid biomarkers were most consistently associated with clinically diagnosed AD, whereas findings for other biomarkers were more heterogeneous.",
+          "problem": "The digest omits the abstract's explicit statement that results for biomarkers other than amyloid were heterogeneous, which tempers the vascular/connectivity contrast described next.",
+          "suggested_fix": "Add that findings for all non-amyloid biomarkers were heterogeneous across studies."
+        }
+      ]
+    }
+  ]
+}

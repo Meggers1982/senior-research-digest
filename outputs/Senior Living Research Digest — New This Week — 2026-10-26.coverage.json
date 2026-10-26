@@ -1,0 +1,755 @@
+{
+  "coverage_checked": 0,
+  "coverage_cached": 18,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42921033": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42929333": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42927503": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42929288": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42911249": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42895952": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42924501": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42927802": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42927343": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42920885": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42928905": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42923468": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42918737": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42923120": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42896184": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Newswise",
+        "Medical Xpress"
+      ],
+      "articles": [
+        {
+          "link": "https://www.newswise.com/articles/cardiovascular-diagnoses-during-medicare-home-assessments-rise-yet-follow-up-care-lacking",
+          "outlet": "Newswise",
+          "title": "Cardiovascular Diagnoses During Medicare Home Assessments Rise Yet Follow-Up Care Lacking | Newswise"
+        },
+        {
+          "link": "https://medicalxpress.com/news/2026-10-older-breast-cancer-survivors-fall.html",
+          "outlet": "Medical Xpress",
+          "title": "Older breast cancer survivors fall through Medicare home health gap"
+        }
+      ]
+    },
+    "42766312": {
+      "state": "lightly_reported",
+      "outlets": [
+        "The Clinical Trial Vanguard"
+      ],
+      "articles": [
+        {
+          "link": "https://www.clinicaltrialvanguard.com/clinical-trial-ops-brief/when-payer-status-becomes-a-protocol-variable-what-the-medicare-advantage-transplant-gap-means-for-eskd-trial-enrollment/",
+          "outlet": "The Clinical Trial Vanguard",
+          "title": "When Payer Status Becomes a Protocol Variable: What the Medicare Advantage Transplant Gap Means for ESKD Trial Enrollment"
+        }
+      ]
+    },
+    "42897085": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42896150": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42929333": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42929288": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42924501": {
+      "pubdate": "2026 Oct 23",
+      "journal": "Alzheimer disease and associated disorders"
+    },
+    "42927503": {
+      "pubdate": "2026 Oct 25",
+      "journal": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA"
+    },
+    "42921033": {
+      "pubdate": "2026 Oct-Dec",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)"
+    },
+    "42920885": {
+      "pubdate": "2026 Oct-Dec",
+      "journal": "Alzheimer's & dementia (New York, N. Y.)"
+    },
+    "42923468": {
+      "pubdate": "2026 Oct-Dec",
+      "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)"
+    },
+    "42928905": {
+      "pubdate": "2026",
+      "journal": "Clinical interventions in aging"
+    },
+    "42923120": {
+      "pubdate": "2026 Oct-Dec",
+      "journal": "Alzheimer's & dementia (Amsterdam, Netherlands)"
+    },
+    "42918737": {
+      "pubdate": "2026 Oct 22",
+      "journal": "Journal of palliative medicine"
+    },
+    "42927343": {
+      "pubdate": "2026",
+      "journal": "Clinical interventions in aging"
+    },
+    "42911249": {
+      "pubdate": "2026 Oct 22",
+      "journal": "Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA"
+    },
+    "42896150": {
+      "pubdate": "2026 Oct 19",
+      "journal": "JMIR aging"
+    },
+    "42897085": {
+      "pubdate": "2026 Oct 19",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42927802": {
+      "pubdate": "2026 Oct 25",
+      "journal": "Journal of stroke and cerebrovascular diseases : the official journal of National Stroke Association"
+    },
+    "42896184": {
+      "pubdate": "2026 Oct 20",
+      "journal": "Annals of internal medicine"
+    },
+    "42766312": {
+      "pubdate": "2026 Oct 20",
+      "journal": "JAMA"
+    },
+    "42895952": {
+      "pubdate": "2026 Oct 19",
+      "journal": "Sleep"
+    }
+  },
+  "studies": [
+    {
+      "headline": "A blood-pressure cuff on the arm, twice a day: early trial tests a low-tech idea for protecting the aging brain",
+      "journal": "Alzheimers Dement (N Y)",
+      "published": "2026 Oct 23",
+      "pmid": "42921033",
+      "doi": "10.1002/trc2.70335",
+      "the_study": "Canadian researchers randomized 22 adults aged 60 to 85 who had cerebral small vessel disease and mild-to-moderate cognitive impairment (Montreal Cognitive Assessment scores of 13 to 24) to perform \"remote ischemic conditioning\" either once or twice daily for 30 days. The technique uses an automated blood-pressure cuff to squeeze one arm at 200 mmHg for four five-minute cycles, a stress thought to trigger protective responses in blood vessels elsewhere in the body. Ten of 11 participants in each group completed at least 80% of sessions, nobody developed tissue injury or clots, and two inflammatory blood markers (TNF-alpha and IL-1b) fell and stayed down at 90 days. Cognitive scores and white matter damage on MRI did not change in either group over the short study.",
+      "why_it_matters": "Vascular cognitive impairment has almost no disease-modifying treatments, and this trial shows older adults with it can reliably stick with a cheap, drug-free, at-home procedure \u2014 the necessary first step before anyone can test whether it actually preserves thinking.",
+      "story_angle_primary": "If you have been told you have small vessel disease or \"white matter changes\" on a brain scan, this is a therapy to watch, not one to try: ask your neurologist whether larger efficacy trials of remote ischemic conditioning are recruiting in your area, and note that participants in this study found once-daily sessions far more comfortable than twice-daily.",
+      "story_angle_secondary": "The researchers ran a focus group with five patient-caregiver pairs, and their feedback \u2014 wanting a more portable device, preferring the once-daily schedule \u2014 is shaping the next generation of the equipment; it's a working example of how caregiver input gets built into trial design rather than collected as an afterthought.",
+      "caveats": "Very small N (22 randomized), open-label, short 30-day treatment with 90-day follow-up, and the trial was designed to measure adherence, not benefit \u2014 cognitive and imaging results were exploratory and showed no change. Several authors report extensive pharmaceutical consulting; the lead author holds a patent on a remote ischemic conditioning system licensed to SnapDx Inc. and holds stock options in that company, though the trial used a different device."
+    },
+    {
+      "headline": "When a hospital asks a court to take over your decisions, it almost always wins",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 26",
+      "pmid": "42929333",
+      "doi": "10.1111/jgs.70782",
+      "the_study": "Researchers reviewed county probate court records and medical charts for 236 adults aged 60 and older for whom a large academic health system filed guardianship petitions between January 2019 and September 2024. Of the 217 petitions actually heard by a court, 215 \u2014 99% \u2014 ended with a guardian being appointed. Medicaid recipients were significantly less likely to get a guardian they already knew personally, meaning they were more often assigned a professional stranger, and people with less formal education were more likely to receive full rather than limited guardianship. More restrictive guardianship was linked to a lower chance of being discharged home.",
+      "why_it_matters": "Guardianship strips away the right to make your own medical, financial and housing decisions, and this is among the first studies to show that who loses the most autonomy tracks with income and education rather than purely with medical need.",
+      "story_angle_primary": "The single best protection against someone else choosing for you is naming the person yourself while you still can: complete a durable power of attorney for health care and finances, name a backup, and tell your doctors and hospital who it is \u2014 because once a hospital files a guardianship petition, the court record here shows the outcome is nearly foreordained.",
+      "story_angle_secondary": "For families and senior living staff, this is a prompt to audit whose residents actually have advance directives on file and whose do not, and to recognize that a resident on Medicaid without documented surrogates is the profile most likely to end up with a professional guardian they've never met \u2014 with a measurably lower chance of returning home.",
+      "caveats": "Retrospective, observational and single health system in Michigan, so the 99% figure reflects one county's probate practice and may not generalize; associations with Medicaid status and education cannot establish causation; data came from court records and charts rather than from the older adults themselves."
+    },
+    {
+      "headline": "Metabolic syndrome looks protective for men's bones and harmful for postmenopausal women's \u2014 a sex split that complicates fracture risk",
+      "journal": "Osteoporos Int",
+      "published": "2026 Oct 25",
+      "pmid": "42927503",
+      "doi": "10.1007/s00198-026-08272-3",
+      "the_study": "A systematic review and meta-analysis pooled 12 cross-sectional studies from East and Southeast Asia, the Middle East, Europe and Latin America comparing bone mineral density in adults with and without metabolic syndrome \u2014 the cluster of abdominal obesity, high blood pressure, high blood sugar and abnormal lipids. Men with metabolic syndrome had significantly higher bone density at the lumbar spine and femoral neck. In women overall there was no association, but in the postmenopausal subgroup the pattern reversed: those without metabolic syndrome had higher bone density at both the hip and spine than those with it.",
+      "why_it_matters": "Bone density is the main number used to decide who gets osteoporosis treatment, and these findings suggest the same metabolic condition may be pushing that number in opposite directions depending on sex and menopausal status.",
+      "story_angle_primary": "If you are a postmenopausal woman managing diabetes, high blood pressure or abdominal weight gain, this is one more reason to ask whether you are due for a DXA bone density scan \u2014 and if you are a man with metabolic syndrome, don't read a reassuring bone density result as proof your bones are strong, since denser bone in metabolic disease doesn't necessarily mean fewer fractures.",
+      "story_angle_secondary": "For care teams, this is a reminder that metabolic syndrome and bone health are managed by different specialists who rarely talk; it raises the question of whether fracture risk assessment should be routine in residents being treated for metabolic conditions, but the evidence here is too weak to change any protocol.",
+      "caveats": "All included studies were cross-sectional and observational, so no causation and no information on who actually fractured; only 12 studies reached synthesis, with overall low-to-moderate quality and risk of bias; populations were drawn from varied regions and may not generalize to US or UK older adults; authors declare no competing interests."
+    },
+    {
+      "headline": "Frailty, not HIV, drives bladder trouble in midlife and older adults",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 26",
+      "pmid": "42929288",
+      "doi": "10.1111/jgs.70795",
+      "the_study": "Researchers analyzed questionnaire and physical-assessment data from 2,176 adults (mean age 56; 58% Black) in the MACS-WIHS Combined Cohort Study \u2014 1,356 living with HIV and 820 without \u2014 scoring each person's frailty with the Fried phenotype and their bladder symptoms with a validated 10-item index. HIV status itself showed no association with lower urinary tract symptoms, but frailty did: frail women scored 3.3 points higher and frail men 1.6 points higher on symptom severity than robust peers, and frail participants of both sexes had greater odds of urgency incontinence and overactive bladder. Overactive bladder was strikingly common among women overall, reported at least weekly by 61%.",
+      "why_it_matters": "Urinary urgency and leaking are often written off as an inevitable part of getting older or as a side effect of a chronic illness, but this study points to overall physical frailty \u2014 something that can be measured and potentially targeted \u2014 as the stronger marker.",
+      "story_angle_primary": "If you're dealing with sudden urges, leaking or frequent nighttime trips to the bathroom, it's worth raising your overall physical condition with your clinician, not just your bladder \u2014 slow walking speed, exhaustion, weak grip and unintentional weight loss are the frailty markers researchers measured here, and they traveled together with worse urinary symptoms.",
+      "story_angle_secondary": "For care staff, these numbers argue against treating continence problems as an isolated plumbing issue: residents and clients flagged as frail are a high-yield group for proactive continence assessment, and conversely, new urinary symptoms may be a prompt to check for frailty.",
+      "caveats": "Cross-sectional and observational \u2014 it cannot establish that frailty causes urinary symptoms or vice versa; symptoms were self-reported; the cohort was recruited around HIV risk, is majority Black, and has a mean age of 56, so findings may not generalize to the general population aged 75 and older."
+    },
+    {
+      "headline": "Cushing's syndrome raises hip fracture risk \u2014 and getting the disease under control doesn't appear to erase it",
+      "journal": "Osteoporos Int",
+      "published": "2026 Oct 22",
+      "pmid": "42911249",
+      "doi": "10.1007/s00198-026-08230-z",
+      "the_study": "Using Israel's nationwide Clalit Health Services database, researchers followed 606 patients diagnosed with endogenous Cushing's syndrome between 2000 and 2023 alongside 2,988 controls matched for age, sex, socioeconomic status and BMI, for roughly 14 years. Hip fractures occurred in 3.9% of patients versus 2.5% of controls (HR 1.57, 95% CI 1.0\u20132.5), with the risk concentrated in Cushing's disease (pituitary source; HR 2.2) rather than adrenal causes. Notably, fracture rates were essentially the same in patients whose disease went into remission (3.6%) and those who didn't (4.3%), and older age at diagnosis plus pre-existing osteoporosis were the independent risk drivers.",
+      "why_it_matters": "Excess cortisol quietly weakens bone, and this suggests that curing the underlying hormone problem does not automatically restore fracture protection \u2014 bone health needs its own separate treatment plan, especially for patients diagnosed later in life.",
+      "story_angle_primary": "If you've ever been diagnosed with Cushing's syndrome or Cushing's disease \u2014 even if it was treated and resolved years ago \u2014 ask your doctor whether you've had a recent bone density scan and a formal fracture risk assessment, because remission alone may not have protected your hips.",
+      "story_angle_secondary": "For families and care professionals, this is a reminder to capture a full endocrine history during fall-risk reviews: a resolved cortisol disorder in someone's past can leave a lasting hip fracture vulnerability that isn't obvious from their current medication list.",
+      "caveats": "Retrospective and observational, drawn from administrative health records; the primary association was borderline (p = 0.05) and the number of fractures was small; mean age at diagnosis was 47.8, so direct extrapolation to those diagnosed in late life is limited; several authors disclose consulting or research relationships with pharmaceutical companies including Crinetics, Lundbeck, Recordati, Sparrow, Xeris, Medison, CTS Pharma and Neopharm."
+    },
+    {
+      "headline": "There's no single magic number for diagnosing the sleep disorder that often precedes Parkinson's",
+      "journal": "Sleep",
+      "published": "2026 Oct 19",
+      "pmid": "42895952",
+      "doi": "10.1093/sleep/zsag271",
+      "the_study": "REM sleep behavior disorder (RBD) \u2014 physically acting out dreams \u2014 is diagnosed in part by measuring how much muscle tone persists during REM sleep, summarized as the REM Atonia Index (RAI). This systematic review pooled 30 studies, including eight adult diagnostic-accuracy studies, and found that automated RAI distinguished established RBD reasonably well (pooled sensitivity 85%, specificity 90%), but the cutoff values used across labs ranged from 0.80 to 0.90. Only two adult studies defined what a physiologically normal value actually is, and normal RAI shifts with age \u2014 leading the authors to conclude that no universal numerical boundary is currently justified.",
+      "why_it_matters": "RBD is strongly linked to later Parkinson's disease and dementia with Lewy bodies, so how a sleep lab interprets this one number can shape years of monitoring, worry and follow-up for an older adult.",
+      "story_angle_primary": "If you or your partner have been told a sleep study showed abnormal muscle tone during REM sleep, it's reasonable to ask which cutoff the lab used and whether your result was borderline \u2014 the threshold is not standardized, normal values shift with age, and a single number should be read alongside your actual symptoms.",
+      "story_angle_secondary": "For clinicians and care teams, the practical takeaway is to report and record the continuous value rather than a yes/no label, and to weigh a reported history of dream-enactment behavior \u2014 often first noticed by a bed partner or night staff \u2014 as heavily as the lab figure.",
+      "caveats": "Evidence synthesis rather than new patient data; only eight adult studies contributed to the accuracy estimate, with wide confidence intervals and substantial methodological variation; normative reference data were too sparse to pool; the review was registered retrospectively."
+    },
+    {
+      "headline": "Stiffer arteries in midlife and later linked to higher Alzheimer's risk in 14,600 adults",
+      "journal": "Alzheimer Dis Assoc Disord",
+      "published": "2026 Oct 23",
+      "pmid": "42924501",
+      "doi": "10.1097/WAD.0000000000000760",
+      "the_study": "Researchers pooled 14,602 participants aged 45 and older from two long-running population studies \u2014 the US Health and Retirement Study (2010-2020) and the English Longitudinal Study of Ageing (2004-2018) \u2014 none of whom had Alzheimer's disease at the start. They calculated estimated pulse wave velocity (ePWV), a measure of arterial stiffness derived from age and blood pressure rather than specialized equipment. Over roughly 8 to 10 years of follow-up, 339 people developed Alzheimer's disease, and each 1 m/s increase in ePWV was associated with a 39% higher risk in the US cohort and a 63% higher risk in the English cohort, with no apparent safe threshold.",
+      "why_it_matters": "It adds to evidence that vascular health and brain health are tightly linked, and suggests a measure that can be calculated from routine blood pressure readings might help flag who is at elevated dementia risk.",
+      "story_angle_primary": "Your blood pressure numbers may say something about your brain, not just your heart \u2014 if you have not had your blood pressure checked and discussed recently, it is a reasonable thing to raise at your next appointment, though this study cannot show that lowering arterial stiffness prevents Alzheimer's.",
+      "story_angle_secondary": "For care teams and senior living health staff, this reinforces the case for treating cardiovascular monitoring as part of cognitive risk management rather than a separate track \u2014 and ePWV requires no new equipment, only age and blood pressure.",
+      "caveats": "Observational design cannot establish causation; ePWV is an estimate derived from a formula, not a direct measurement of arterial stiffness; relatively small number of incident Alzheimer's cases (203 and 136) despite the large cohorts; diagnoses in population cohorts may miss or misclassify cases."
+    },
+    {
+      "headline": "Stroke rates fell sharply for people with diabetes in Taiwan \u2014 but older women did not share equally in the gains",
+      "journal": "J Stroke Cerebrovasc Dis",
+      "published": "2026 Oct 25",
+      "pmid": "42927802",
+      "doi": "10.1016/j.jstrokecerebrovasdis.2026.108774",
+      "the_study": "Using Taiwan's national health insurance database covering 2000-2018, researchers compared propensity-score-matched patients with and without type 2 diabetes for ischemic stroke incidence and 30-day mortality. Absolute stroke rates dropped dramatically in people with diabetes, from 102.5 to 38.5 per 10,000 person-years. But the gap between those with and without diabetes narrowed only among younger adults: among older participants the relative risk stayed elevated, and in women with diabetes the relative risk rose to 2.86 in 2015-2018, with higher relative 30-day mortality in that same recent period.",
+      "why_it_matters": "Nationwide progress in stroke prevention can mask subgroups being left behind \u2014 in this case older women with diabetes, who remain at disproportionate risk even as overall numbers improve.",
+      "story_angle_primary": "If you are an older woman living with type 2 diabetes, the broad good news about falling stroke rates may apply less to you than to others \u2014 it is worth asking your doctor specifically how your stroke risk factors (blood pressure, cholesterol, atrial fibrillation screening, glucose control) are being managed.",
+      "story_angle_secondary": "For clinicians and senior living wellness programs, this is a prompt to audit whether diabetes and stroke prevention protocols are reaching older female residents as consistently as everyone else, rather than assuming population-level improvements are evenly distributed.",
+      "caveats": "Observational analysis of administrative claims data cannot establish causation; descriptive patterns only, with no mechanism identified; findings from Taiwan's single-payer system may not generalize to other health systems; claims databases can misclassify diagnoses and omit lifestyle and clinical detail."
+    },
+    {
+      "headline": "Mindfulness therapy shifted fear of movement in older adults with knee arthritis \u2014 but the effect was small and borderline",
+      "journal": "Clin Interv Aging",
+      "published": "2026 Oct 20",
+      "pmid": "42927343",
+      "doi": "10.2147/CIA.S638393",
+      "the_study": "In Kashan, Iran, 56 older adults with chronic knee osteoarthritis were randomly assigned to eight 90-minute sessions of mindfulness-based cognitive therapy or routine care, and tracked for kinesiophobia \u2014 fear of moving because you expect pain or injury \u2014 using the Tampa Scale at baseline, four weeks, and eight weeks. The intervention group's fear scores fell from 29.5 to 25.7; the control group also improved, from 28.6 to 26.7. The trajectories differed significantly between groups, but at no single time point was the between-group difference statistically significant, and the eight-week adjusted difference just missed significance.",
+      "why_it_matters": "Fear of movement keeps many older adults with knee arthritis from the activity that would actually help their joints, and this trial suggests a non-drug psychological approach may chip away at it \u2014 modestly.",
+      "story_angle_primary": "If pain has made you afraid to walk or exercise, that fear is a recognized, treatable part of arthritis \u2014 ask your clinician or physical therapist about approaches that address the fear alongside the joint, but know the evidence for mindfulness therapy specifically is still thin.",
+      "story_angle_secondary": "For activity directors and rehab staff, the notable finding is that the control group improved too \u2014 simply being enrolled, assessed, and attended to may move the needle on movement fear, which argues for low-cost check-ins as well as formal programs.",
+      "caveats": "Small sample (N=56); single center in one Iranian city, so the population may not generalize; self-reported outcome measure; short four-week follow-up after the intervention; the headline between-group result did not reach statistical significance; no attention-matched control, so the control group received only routine care."
+    },
+    {
+      "headline": "A statewide tele-mentoring program boosted primary care clinicians' confidence in dementia care \u2014 but knowledge gains were patchy",
+      "journal": "Alzheimers Dement (N Y)",
+      "published": "2026 Oct 23",
+      "pmid": "42920885",
+      "doi": "10.1002/trc2.70339",
+      "the_study": "Vanderbilt researchers evaluated the Tennessee Dementia ECHO program, a statewide video tele-mentoring initiative designed to build dementia care skills among primary care clinicians, especially in rural areas. Of 641 registrants, 173 attended at least one session and 97 attended more than one. Satisfaction was high (median 96/100) and clinician confidence rose after sessions, but measured knowledge gains were inconsistent across topics, with improvements on only selected items.",
+      "why_it_matters": "Most dementia care happens in ordinary primary care offices, not memory clinics, and this is one of the first statewide evaluations of a scalable model for training those clinicians \u2014 with an honest finding that feeling more confident is not the same as knowing more.",
+      "story_angle_primary": "If your primary care doctor seems unsure about memory concerns, that is common and not a dead end \u2014 you can ask whether they have access to dementia specialist consultation or tele-mentoring support, and whether a referral to a memory specialist is warranted.",
+      "story_angle_secondary": "For health systems and senior living partners in rural regions, ECHO-style tele-mentoring looks feasible and popular, but the drop-off from 641 registrants to 97 repeat attendees and the mixed knowledge results suggest engagement and curriculum design need work before counting on it to raise care quality.",
+      "caveats": "Pre/post evaluation with no control group; self-reported confidence and skills; steep attrition between registration and repeated attendance; short-term outcomes only, with no measurement of changes in actual patient care or outcomes; single state."
+    },
+    {
+      "headline": "Heart-health scores taken on day one predict who survives \u2014 and who walks again \u2014 after hip fracture surgery",
+      "journal": "Clin Interv Aging",
+      "published": "2026 Oct 21",
+      "pmid": "42928905",
+      "doi": "10.2147/CIA.S639216",
+      "the_study": "Researchers followed 1,796 patients aged 50 and older who had surgery for a hip fracture at two Chinese hospitals between 2017 and 2022, scoring each person's cardiovascular health on admission using the American Heart Association's Life's Essential 8 (diet, activity, nicotine, sleep, weight, lipids, blood sugar, blood pressure) and the newer Life's Crucial 9, which adds psychological health. Within one year, 311 patients (17.3%) had died. Lower scores on both measures tracked strongly with death and with failure to regain independent walking, and the nine-item version \u2014 the one including mental health \u2014 predicted outcomes better than the eight-item version, independent of age, other illnesses and surgical factors.",
+      "why_it_matters": "It suggests that the everyday habits and the mental health you carry into a hip fracture meaningfully shape whether you survive the year and walk again, and that teams could flag high-risk patients on the first day after admission rather than waiting for complications.",
+      "story_angle_primary": "The modifiable pieces of heart health \u2014 blood pressure, blood sugar, sleep, activity, smoking, and notably your mood and psychological wellbeing \u2014 appear to be part of your reserve if you ever break a hip. If you are facing hip surgery, it is reasonable to ask the team whether your depression, anxiety or sleep problems are being addressed alongside the fracture, not after it.",
+      "story_angle_secondary": "For rehab staff and senior living teams, this points toward screening psychological health at admission as part of fracture risk stratification, and toward not treating low mood as a separate, lower-priority problem from walking recovery.",
+      "caveats": "Observational cohort \u2014 it cannot prove that improving these scores changes outcomes; conducted at two tertiary centers in China, so results may not generalize to other health systems; several score components rely on self-report; follow-up limited to one year."
+    },
+    {
+      "headline": "Family carers describe dementia as 'totalising' \u2014 and say stigma, not just symptoms, shapes when they ask for help",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 21",
+      "pmid": "42923468",
+      "doi": "10.1002/dad2.70521",
+      "the_study": "Researchers interviewed 12 family carers and three professional carers across the United Kingdom and analyzed the transcripts using inductive reflexive thematic analysis to understand how carers interpret and redefine dementia. Carers described caregiving as a totalizing, unpredictable process that forced continual renegotiation of daily routines, family roles and expectations. Crucially, decisions about whether to disclose the diagnosis, how to explain symptoms to others, and when to move a relative into a care setting were driven as much by cultural and moral pressure and anticipated public reaction as by clinical need.",
+      "why_it_matters": "It reframes delayed help-seeking and reluctance to consider residential care as a response to stigma and social judgment rather than as denial or poor planning, which changes how support should be offered.",
+      "story_angle_primary": "If you are caring for a spouse or parent with dementia and have been holding back from telling friends, neighbors or your doctor's office, you are not alone \u2014 carers in this study described hiding the diagnosis to protect the person's dignity and their family's standing. Naming that pressure out loud can be the first step to getting practical support earlier.",
+      "story_angle_secondary": "For care providers and senior living staff, the finding argues for support that is iterative rather than one-time \u2014 revisiting conversations about disclosure, respite and care-setting decisions as the illness changes \u2014 and for explicitly addressing stigma rather than assuming families will come forward when they are ready.",
+      "caveats": "Small qualitative sample (15 participants, only three of them professional carers) recruited purposively in the UK; findings are interpretive and not generalizable or quantifiable; professional carers were included only for context, not formal comparison."
+    },
+    {
+      "headline": "In late-stage pancreatic cancer, the direction of change in weight and inflammation predicts survival better than any single snapshot",
+      "journal": "J Palliat Med",
+      "published": "2026 Oct 22",
+      "pmid": "42918737",
+      "doi": "10.1177/10966218261500247",
+      "the_study": "Japanese researchers retrospectively reviewed 120 patients with unresectable advanced pancreatic cancer who had progressed past second-line chemotherapy to either third-line treatment or best supportive care, tracking changes over time in body weight and in the C-reactive protein-to-albumin ratio, a combined marker of inflammation and nutrition. Patients whose inflammation rose and whose weight fell had a median survival of 1.38 months, compared with 4.67 months for those with neither pattern. Both trends independently predicted survival alongside performance status, and both were linked to appetite loss and functional decline.",
+      "why_it_matters": "When the question is whether to start another line of chemotherapy or shift toward comfort-focused care, trajectory \u2014 are weight and inflammation getting worse \u2014 may give families and clinicians a more honest prognostic signal than a one-time lab value.",
+      "story_angle_primary": "If you or someone close to you is weighing another round of treatment for advanced cancer, it is fair to ask the oncologist how your weight, appetite and inflammatory markers have moved over recent months, and what that trend implies about the time and quality of life ahead.",
+      "story_angle_secondary": "For palliative care and hospice teams, this supports tracking serial weight and simple blood markers as a prompt for earlier goals-of-care conversations, rather than waiting for performance status to visibly collapse.",
+      "caveats": "Retrospective, single-institution design with 120 patients; observational and cannot establish that intervening on weight or inflammation changes survival; the population is a heavily pretreated cancer group and findings should not be extrapolated to other illnesses."
+    },
+    {
+      "headline": "Fewer than half of older adults with dementia ever get a diagnosis in their Medicare records",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 21",
+      "pmid": "42923120",
+      "doi": "10.1002/dad2.70503",
+      "the_study": "Yale researchers linked Health and Retirement Study survey data to Medicare claims from 1998 to 2020, identifying 3,144 people whose survey responses indicated probable dementia between 2004 and 2019. Fewer than half of those in Traditional Medicare had ever received a claims-based dementia diagnosis, and detection rates barely budged over 15 years. From 2015 to 2019, adjusted detection rose from 36.7% to 48.8% in Traditional Medicare versus 32.1% to 39.2% in Medicare Advantage, and detection in early-stage dementia \u2014 when a diagnosis is most useful \u2014 stayed flat. Rates were highest in the Northeast and lowest in the West under both plan types.",
+      "why_it_matters": "A missing diagnosis means no access to care planning, support services, caregiver resources, or newly available treatments that work best early \u2014 and the odds of being missed depend partly on your insurance plan and where you live.",
+      "story_angle_primary": "If you or your spouse have noticed memory or thinking changes, don't assume routine checkups will catch it \u2014 you can ask your doctor directly for a cognitive assessment and make sure the result is documented in your chart, since the annual Medicare wellness visit includes cognitive screening you are entitled to.",
+      "story_angle_secondary": "For senior living staff and family caregivers: a resident functioning like someone with dementia may have nothing in their medical record saying so, which can block referrals, benefits, and hospice eligibility later \u2014 worth checking whether a formal diagnosis exists rather than assuming it does.",
+      "caveats": "Observational cohort study \u2014 cannot establish why detection differs by plan type; dementia status was determined by a survey-based algorithm (Langa-Weir), not clinical exam; claims data may miss diagnoses made but not coded."
+    },
+    {
+      "headline": "Medicare Advantage home visits are diagnosing more heart conditions \u2014 but far fewer patients get treated afterward",
+      "journal": "Ann Intern Med",
+      "published": "2026 Oct 20",
+      "pmid": "42896184",
+      "doi": "10.7326/ANNALS-26-01366",
+      "the_study": "Researchers analyzed 100% Medicare claims covering 21.5 million Medicare Advantage beneficiaries diagnosed with a cardiovascular risk factor or disease between 2018 and 2022. The share of diagnoses made during insurer-arranged in-home health risk assessments rose across every condition studied \u2014 heart failure from 34.7% to 42.6%, peripheral vascular disease from 64.5% to 73.9%, hyperlipidemia from 57.8% to 66.7%. But treatment rates following those home-visit diagnoses were consistently and substantially lower than after diagnoses made in a doctor's office or hospital. Racial and ethnic minority beneficiaries and people in lower-rated plans were more likely to be diagnosed this way.",
+      "why_it_matters": "These home visits generate higher payments to insurers, and this is the first comprehensive national evidence that the conditions they turn up often don't lead to actual care \u2014 meaning a patient can be labeled with heart failure or diabetes and still walk away with no treatment.",
+      "story_angle_primary": "If a nurse or clinician sent by your Medicare Advantage plan visits your home and tells you that you have a new condition, take that information to your own doctor and ask whether it needs treatment \u2014 the diagnosis may land in your record without anyone following up on it.",
+      "story_angle_secondary": "For families and care coordinators: when reviewing a loved one's diagnosis list, note which conditions were added during an insurer home visit and verify that a treating physician has confirmed and acted on them, especially for atrial fibrillation and heart failure.",
+      "caveats": "Observational claims analysis \u2014 cannot establish causation; condition severity could not be compared across settings, and milder cases may legitimately require less treatment; prescription fills used as a proxy for management; unmeasured confounding possible. Funded by the National Heart, Lung, and Blood Institute."
+    },
+    {
+      "headline": "Kidney failure patients in Medicare Advantage are 29% less likely to get a transplant",
+      "journal": "JAMA",
+      "published": "2026 Oct 20",
+      "pmid": "42766312",
+      "doi": "10.1001/jama.2026.14391",
+      "the_study": "After the 21st Century Cures Act opened Medicare Advantage to people with end-stage kidney disease, researchers followed 630,848 Medicare beneficiaries aged 18 to 74 with kidney failure from 2021 through 2023. Medicare Advantage enrollees received transplants at 2.51 per 1,000 person-months versus 4.60 in Traditional Medicare \u2014 a 29% lower adjusted rate \u2014 and were also 23% less likely to be newly placed on a waiting list. Even among those already wait-listed, Medicare Advantage enrollees had lower transplant rates. The gap held steady across all three years.",
+      "why_it_matters": "Transplant means longer survival and better quality of life than dialysis, and this suggests the plan you choose during open enrollment may affect whether you ever get evaluated for one.",
+      "story_angle_primary": "If you have advanced kidney disease and are weighing Medicare Advantage against Traditional Medicare, ask your nephrologist and any plan representative directly about transplant center network coverage and the referral process for wait-listing before you enroll \u2014 and if you are already in a plan, ask whether you have been formally referred for transplant evaluation.",
+      "story_angle_secondary": "For families and dialysis-facility social workers: don't assume a wait-list referral has happened. These data suggest the bottleneck often occurs before the waiting list, so advocating for an early transplant evaluation referral may matter more than anything that happens afterward.",
+      "caveats": "Retrospective observational cohort \u2014 cannot prove the plan type caused the difference; sicker or frailer patients may select into Medicare Advantage in ways the adjustment did not capture; population spans ages 18 to 74, so findings are not specific to the oldest beneficiaries. Several authors report industry and foundation funding, including grants from the National Institute on Aging and Arnold Ventures and personal fees from pharmaceutical companies."
+    },
+    {
+      "headline": "Who your main caregiver is shapes end-of-life planning \u2014 but having no caregiver at all is what keeps people out of hospice",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 19",
+      "pmid": "42897085",
+      "doi": "10.1111/jgs.70791",
+      "the_study": "Using Health and Retirement Study end-of-life data on 3,952 decedents aged 60 and older, researchers compared hospice use and advance care planning across types of primary caregiver. Among people with any informal caregiver \u2014 spouse, adult child or grandchild, extended family, or a friend \u2014 hospice use did not differ meaningfully by who that caregiver was. What did differ: people with no identified caregiver were far less likely to use hospice (odds ratio 0.46) as were those receiving only formal paid care (0.62). Adult children and grandchildren as primary caregivers were modestly more likely to have completed advance care planning.",
+      "why_it_matters": "Hospice access at the end of life appears to hinge less on which relative is helping and more on whether anyone is \u2014 making social isolation, not family structure, the key risk factor for missing out on comfort-focused care.",
+      "story_angle_primary": "If you live alone or rely mainly on paid aides rather than family, you are in the group least likely to receive hospice care \u2014 which makes documenting your wishes in advance and naming a health care proxy now, while you can, especially worth doing.",
+      "story_angle_secondary": "For senior living and home care professionals: residents without an engaged family caregiver are a flagged population for proactive advance care planning conversations and hospice referral, since this study suggests the system tends to miss them. Note too that having a paid caregiver does not substitute for the advocacy an informal one provides.",
+      "caveats": "Observational analysis of survey data \u2014 cannot establish causation; caregiver relationship categories are broad and do not capture caregiver availability, hours, or health; end-of-life information partly reported by surviving proxies."
+    },
+    {
+      "headline": "Older adults get better at repeat brain tests just from practice \u2014 and how much better may itself be a clue",
+      "journal": "JMIR Aging",
+      "published": "2026 Oct 19",
+      "pmid": "42896150",
+      "doi": "10.2196/87208",
+      "the_study": "Researchers had 717 cognitively intact participants from the Framingham Heart Study (mean age 64.1, SD 9.5) self-administer a set of FDA-cleared digital cognitive tasks at home every three months for a year. Scores improved measurably across all three tasks, with the largest practice effects on the most complex task, code substitution (Cohen d=0.43), and inhibitory control (d=0.32). Participants aged 65 and older showed smaller gains on the hardest task than younger participants \u2014 age was the only demographic factor that changed the size of the practice effect.",
+      "why_it_matters": "As at-home digital cognitive testing spreads, knowing that healthy people naturally improve with repetition helps separate normal practice gains from a genuine red flag \u2014 a flat or declining score over repeated tests may be more meaningful than any single result.",
+      "story_angle_primary": "If you take a repeat at-home or in-clinic cognitive test and your score goes up, that is expected and normal \u2014 ask your clinician how your trajectory over several tests compares with typical practice improvement rather than fixating on one number.",
+      "story_angle_secondary": "For clinicians and senior living wellness programs using repeat digital screening: these data provide a normative benchmark for expected improvement in cognitively intact adults, so failure to improve on repeat administration should prompt a closer look rather than reassurance.",
+      "caveats": "Observational, no control group; follow-up only one year with four testing sessions; participants were highly educated (67% college-educated) and drawn from a long-running volunteer cohort, so results may not generalize; mean age was 64, so findings apply only partly to the oldest adults. One author is a scientific advisor to Signant Health and Novo Nordisk."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42921033",
+      "headline": "A blood-pressure cuff on the arm, twice a day: early trial tests a low-tech idea for protecting the aging brain",
+      "verdict": "minor",
+      "notes": "Study facts and primary/secondary results match the abstract. One overstatement: the digest tells readers once-daily sessions were \"far more comfortable,\" but the pain/discomfort difference was non-significant (P = 0.60).",
+      "issues": [
+        {
+          "label": "Non-significant comfort difference presented as established",
+          "severity": "Moderate",
+          "as_written": "note that participants in this study found once-daily sessions far more comfortable than twice-daily",
+          "abstract_says": "Pain/discomfort ratings were numerically higher with twice-daily RIC (median rating/10: 4.23, IQR.0.98-4.95 vs. once-daily: 1.63, IQR:1.00-3.36, P = 0.60).",
+          "problem": "The discomfort difference was numerical only and clearly non-significant; the discussion states there were \"no significant differences in safety or tolerability outcomes.\" Presenting it as a firm finding misleads readers choosing between schedules.",
+          "suggested_fix": "Reword to: \"discomfort ratings were numerically but not statistically higher with twice-daily sessions, and focus-group participants generally favoured the once-daily schedule.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42929333",
+      "headline": "When a hospital asks a court to take over your decisions, it almost always wins",
+      "verdict": "minor",
+      "notes": "All numbers (236 individuals, 217 heard, 215/99%, Medicaid and education associations, discharge-home link) match the abstract. Two framing stretches: a \"first studies\" priority claim and an implied contrast with \"medical need\" that the abstract does not address.",
+      "issues": [
+        {
+          "label": "Priority claim not supported by abstract",
+          "severity": "Minor",
+          "as_written": "this is among the first studies to show that who loses the most autonomy tracks with income and education rather than purely with medical need",
+          "abstract_says": "Social determinants of health (SDOH) may influence guardianship outcomes, yet data are limited.",
+          "problem": "The abstract notes limited existing data but makes no claim of being among the first such studies. Unverifiable from abstract only.",
+          "suggested_fix": "Soften to \"one of a small number of studies examining how social factors relate to guardianship outcomes.\""
+        },
+        {
+          "label": "Comparison with medical need not measured",
+          "severity": "Minor",
+          "as_written": "tracks with income and education rather than purely with medical need",
+          "abstract_says": "SDOH, including socioeconomic status and educational attainment, correlated with guardianship outcomes.",
+          "problem": "The abstract reports correlations with Medicaid status and education; it does not report any measure of medical need or capacity severity against which these were compared, so the \"rather than\" contrast is an inference.",
+          "suggested_fix": "Drop the contrast: \"shows that guardianship scope and guardian type correlate with socioeconomic status and education.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42927503",
+      "headline": "Metabolic syndrome looks protective for men's bones and harmful for postmenopausal women's \u2014 a sex split that complicates fracture risk",
+      "verdict": "minor",
+      "notes": "Study design, regions, number of studies and the sex/menopause split are reported accurately. The headline's \"protective/harmful\" wording leans causal for pooled cross-sectional data, and the postmenopausal result was at femoral neck and lumbar spine rather than \"the hip\" broadly.",
+      "issues": [
+        {
+          "label": "Causal-leaning headline for cross-sectional evidence",
+          "severity": "Minor",
+          "as_written": "Metabolic syndrome looks protective for men's bones and harmful for postmenopausal women's",
+          "abstract_says": "MetS is tentatively associated with sex- and site-specific differences in BMD based on observational studies... Further research is warranted to clarify these associations",
+          "problem": "The authors describe the association as tentative and based solely on cross-sectional data; \"protective\" and \"harmful\" imply an effect on bone that the design cannot support (the digest's own caveat says no causation).",
+          "suggested_fix": "\"Metabolic syndrome is linked to higher bone density in men and lower density in postmenopausal women.\""
+        },
+        {
+          "label": "Skeletal site slightly imprecise",
+          "severity": "Minor",
+          "as_written": "those without metabolic syndrome had higher bone density at both the hip and spine than those with it",
+          "abstract_says": "postmenopausal women without MetS had significantly higher FN and LS BMD compared with those with MetS (FN: Z = 2.14, p = 0.03; LS: Z = 2.02, p = 0.04)",
+          "problem": "The significant result was at the femoral neck, not total hip; total hip was listed as an outcome but no significant postmenopausal total-hip result is reported.",
+          "suggested_fix": "Say \"at the femoral neck and lumbar spine.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42929288",
+      "headline": "Frailty, not HIV, drives bladder trouble in midlife and older adults",
+      "verdict": "minor",
+      "notes": "N, cohort composition, effect sizes (3.3 and 1.6 points), the null HIV association and the 61% OAB figure in women all match. Only the headline verb overstates causality for a cross-sectional analysis.",
+      "issues": [
+        {
+          "label": "Causal verb in headline",
+          "severity": "Minor",
+          "as_written": "Frailty, not HIV, drives bladder trouble in midlife and older adults",
+          "abstract_says": "Regression models stratified by sex evaluated the cross-sectional associations of HIV and frailty with LUTS severity... LUTS are common in people with and at-risk for HIV and are more severe among those who are frail.",
+          "problem": "\"Drives\" implies causation from a cross-sectional design; the digest's caveat correctly says direction of effect cannot be established, so the headline contradicts it.",
+          "suggested_fix": "\"Frailty, not HIV, tracks with bladder trouble in midlife and older adults.\""
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42911249",
+      "headline": "Cushing's syndrome raises hip fracture risk \u2014 and getting the disease under control doesn't appear to erase it",
+      "verdict": "minor",
+      "notes": "Cohort size, matching, follow-up, fracture percentages, HRs and the remission comparison are all reported accurately, and the borderline p value and industry disclosures are in the caveats. The headline states the association more firmly and more causally than the authors do.",
+      "issues": [
+        {
+          "label": "Headline firmer and more causal than the abstract",
+          "severity": "Moderate",
+          "as_written": "Cushing's syndrome raises hip fracture risk \u2014 and getting the disease under control doesn't appear to erase it",
+          "abstract_says": "Endogenous Cushing's syndrome may be associated with an increased hip fracture risk... (HR 1.57, 95% CI 1.0-2.5; p = 0.05)",
+          "problem": "The authors hedge with \"may be associated\" and a modest, borderline estimate whose confidence interval touches 1.0; \"raises\" asserts both causation and statistical certainty.",
+          "suggested_fix": "\"Cushing's syndrome is linked to a modestly higher hip fracture risk \u2014 and remission doesn't appear to erase it.\""
+        },
+        {
+          "label": "Remission comparison was underpowered, not a demonstrated equivalence",
+          "severity": "Minor",
+          "as_written": "fracture rates were essentially the same in patients whose disease went into remission (3.6%) and those who didn't (4.3%)",
+          "abstract_says": "no significant difference between groups (HR 1.14, 95% CI 0.4-3.0)",
+          "problem": "The confidence interval is wide enough to include a substantial difference in either direction; \"essentially the same\" reads as a positive finding of no difference rather than an inconclusive one.",
+          "suggested_fix": "Add that the comparison was statistically inconclusive (HR 1.14, 95% CI 0.4-3.0) rather than showing equivalence."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42895952",
+      "headline": "There's no single magic number for diagnosing the sleep disorder that often precedes Parkinson's",
+      "verdict": "accurate",
+      "notes": "Number of studies (30 total, 8 adult diagnostic-accuracy), pooled sensitivity/specificity, the 0.80-0.90 threshold range, the two normative studies, the age-dependence conclusion and retrospective registration all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "pmid": "42924501",
+      "headline": "Stiffer arteries in midlife and later linked to higher Alzheimer's risk in 14,600 adults",
+      "verdict": "accurate",
+      "notes": "Cohorts, years, age range, incident case counts (203 + 136 = 339), HRs of 1.39 and 1.63 per 1 m/s, and the absence of a threshold effect all match; framing stays associational and the caveats flag the formula-based exposure.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42927802",
+      "headline": "Stroke rates fell sharply for people with diabetes in Taiwan \u2014 but older women did not share equally in the gains",
+      "verdict": "accurate",
+      "notes": "Incidence decline (102.50 to 38.52 per 10,000 person-years), the persistently elevated relative risk in older participants, the 2.86 relative risk in women during 2015-2018 and the recent-period mortality signal are reported accurately, with appropriate descriptive framing.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42927343",
+      "headline": "Mindfulness therapy shifted fear of movement in older adults with knee arthritis \u2014 but the effect was small and borderline",
+      "verdict": "accurate",
+      "notes": "N, setting, intervention dose, Tampa Scale timing, both groups' score changes, the significant group-by-time interaction and the non-significant between-group comparisons (adjusted change -1.60, p = 0.05) are all faithfully represented.",
+      "issues": []
+    },
+    {
+      "number": 10,
+      "pmid": "42920885",
+      "headline": "A statewide tele-mentoring program boosted primary care clinicians' confidence in dementia care \u2014 but knowledge gains were patchy",
+      "verdict": "minor",
+      "notes": "Registration/attendance numbers (641/173/97), satisfaction median 96/100, confidence gains and mixed knowledge results match the abstract. Only the \"one of the first\" priority claim cannot be checked against the abstract.",
+      "issues": [
+        {
+          "label": "Priority claim unverifiable",
+          "severity": "Minor",
+          "as_written": "this is one of the first statewide evaluations of a scalable model for training those clinicians",
+          "abstract_says": "We conducted a pre/post mixed-methods evaluation of the Tennessee Dementia Extension for Community Healthcare Outcomes (ECHO) program, a statewide tele-mentoring initiative.",
+          "problem": "The abstract makes no novelty or priority claim. Unverifiable from abstract only.",
+          "suggested_fix": "Replace with \"this is a statewide evaluation of a scalable training model\" or attribute the novelty claim explicitly."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42928905",
+      "headline": "Heart-health scores taken on day one predict who survives \u2014 and who walks again \u2014 after hip fracture surgery",
+      "verdict": "minor",
+      "notes": "N, setting, deaths (311/17.3%) and LC9-over-LE8 finding all match. Mild causal phrasing in \"Why it matters\"; one caveat detail not verifiable from the abstract.",
+      "issues": [
+        {
+          "label": "Causal phrasing for prognostic cohort data",
+          "severity": "Minor",
+          "as_written": "It suggests that the everyday habits and the mental health you carry into a hip fracture meaningfully shape whether you survive the year and walk again",
+          "abstract_says": "In multivariable analyses, increase in both LE8 and LC9 related to significant mortality risk reduction and improved functional recovery, independent of age, comorbidity burden, and surgical factors.",
+          "problem": "\"Shape whether you survive\" implies the scores cause the outcomes, whereas the study reports association and discrimination only; the digest's own caveat acknowledges this.",
+          "suggested_fix": "Reword to \"are associated with whether you survive the year and walk again.\""
+        },
+        {
+          "label": "Self-report caveat not in abstract",
+          "severity": "Minor",
+          "as_written": "several score components rely on self-report",
+          "abstract_says": "The abstract states only that LE8 and LC9 were calculated on the first day after admission; it does not describe how components were ascertained.",
+          "problem": "Unverifiable from abstract only.",
+          "suggested_fix": "Attribute to general knowledge of the LE8/LC9 instruments or drop."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42923468",
+      "headline": "Family carers describe dementia as 'totalising' \u2014 and say stigma, not just symptoms, shapes when they ask for help",
+      "verdict": "minor",
+      "notes": "Sample (12 family + 3 professional carers, UK, inductive reflexive thematic analysis) and the \"totalising\" theme are accurate; several interpretive claims (delayed help-seeking, hiding the diagnosis, \"as much as clinical need\") go beyond what the abstract reports.",
+      "issues": [
+        {
+          "label": "Delayed help-seeking claim beyond abstract",
+          "severity": "Moderate",
+          "as_written": "It reframes delayed help-seeking and reluctance to consider residential care as a response to stigma and social judgment rather than as denial or poor planning",
+          "abstract_says": "Disclosure, reasoning with symptoms, and care-setting decisions were shaped by cultural, moral, and structural factors, balancing practical needs, autonomy, public responses, and emotional wellbeing.",
+          "problem": "The abstract reports that decisions were shaped by cultural/moral/structural factors; it does not report findings about delayed help-seeking or contrast stigma with denial or poor planning.",
+          "suggested_fix": "Limit to what the abstract supports: disclosure and care-setting decisions were shaped by cultural, moral and structural pressures alongside practical needs."
+        },
+        {
+          "label": "Unsupported weighting against clinical need",
+          "severity": "Minor",
+          "as_written": "were driven as much by cultural and moral pressure and anticipated public reaction as by clinical need",
+          "abstract_says": "...were shaped by cultural, moral, and structural factors, balancing practical needs, autonomy, public responses, and emotional wellbeing.",
+          "problem": "The abstract describes a balance of influences but never quantifies them relative to clinical need.",
+          "suggested_fix": "Say these decisions were shaped by cultural, moral and structural factors alongside practical needs."
+        },
+        {
+          "label": "Specific carer behavior not in abstract",
+          "severity": "Minor",
+          "as_written": "carers in this study described hiding the diagnosis to protect the person's dignity and their family's standing",
+          "abstract_says": "Disclosure... shaped by cultural, moral, and structural factors, balancing practical needs, autonomy, public responses, and emotional wellbeing.",
+          "problem": "Unverifiable from abstract only \u2014 the abstract does not describe hiding the diagnosis or the stated motives.",
+          "suggested_fix": "Soften to \"carers described decisions about whether to disclose the diagnosis as shaped by how others might react.\""
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42918737",
+      "headline": "In late-stage pancreatic cancer, the direction of change in weight and inflammation predicts survival better than any single snapshot",
+      "verdict": "minor",
+      "notes": "N=120, treatment line, survival figures (1.38 vs 4.67 months) and independent prognostic factors all match. The headline's comparative claim and the \"single-institution\" and \"median\" details are not supported by the abstract.",
+      "issues": [
+        {
+          "label": "Comparative claim not tested",
+          "severity": "Moderate",
+          "as_written": "the direction of change in weight and inflammation predicts survival better than any single snapshot",
+          "abstract_says": "High \u0394CAR and body weight loss were associated with shorter overall survival... ECOG PS, \u0394CAR, and body weight loss were independent prognostic factors.",
+          "problem": "The abstract reports that longitudinal changes are associated with survival but never compares their predictive performance against single time-point measurements.",
+          "suggested_fix": "Rephrase the headline to \"changes over time in weight and inflammation track with survival\" without the head-to-head comparison."
+        },
+        {
+          "label": "\"Median survival\" and single-institution design unverified",
+          "severity": "Minor",
+          "as_written": "had a median survival of 1.38 months, compared with 4.67 months for those with neither pattern... Retrospective, single-institution design with 120 patients",
+          "abstract_says": "those with neither had the longest survival (1.38 vs. 4.67 months)\"; the abstract states only \"We retrospectively analyzed 120 patients.\"",
+          "problem": "The abstract does not label the 1.38/4.67 figures as medians, nor does it state the study was single-institution.",
+          "suggested_fix": "Say \"survival of 1.38 versus 4.67 months\" and describe the design as retrospective without specifying the number of sites, or note it as unverifiable."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42923120",
+      "headline": "Fewer than half of older adults with dementia ever get a diagnosis in their Medicare records",
+      "verdict": "accurate",
+      "notes": "Sample (3144 PWPD, 2004\u20132019), the 36.7%\u219248.8% vs 32.1%\u219239.2% figures, flat early-stage detection and the Northeast/West pattern all match the abstract; caveats correctly note the Langa-Weir algorithm and observational design.",
+      "issues": []
+    },
+    {
+      "number": 15,
+      "pmid": "42896184",
+      "headline": "Medicare Advantage home visits are diagnosing more heart conditions \u2014 but far fewer patients get treated afterward",
+      "verdict": "minor",
+      "notes": "All reported percentages (HF 34.7\u219242.6, PVD 64.5\u219273.9, hyperlipidemia 57.8\u219266.7), the 21.5 million cohort, the disparity findings and NHLBI funding are accurate. Two framing points overreach slightly.",
+      "issues": [
+        {
+          "label": "Payment claim stated as fact",
+          "severity": "Minor",
+          "as_written": "These home visits generate higher payments to insurers",
+          "abstract_says": "Critics argue this practice increases risk-adjusted payments without improving quality.",
+          "problem": "The abstract presents this as a criticism, not an established finding of the study.",
+          "suggested_fix": "Write \"Critics argue these visits raise risk-adjusted payments to insurers.\""
+        },
+        {
+          "label": "Overstated 'no treatment' framing",
+          "severity": "Minor",
+          "as_written": "the conditions they turn up often don't lead to actual care \u2014 meaning a patient can be labeled with heart failure or diabetes and still walk away with no treatment",
+          "abstract_says": "Treatment rates were substantially lower after HRA-based diagnoses across all conditions.",
+          "problem": "Lower treatment rates are not the same as no treatment, and the abstract notes severity could not be compared across settings.",
+          "suggested_fix": "Say treatment rates after home-visit diagnoses were substantially lower than after office or hospital diagnoses."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42766312",
+      "headline": "Kidney failure patients in Medicare Advantage are 29% less likely to get a transplant",
+      "verdict": "minor",
+      "notes": "N, dates, rates (2.51 vs 4.60 per 1000 person-months), aRR 0.71 \u2192 29%, wait-listing aRR 0.77 \u2192 23%, stability across years and the disclosure summary all check out; only a small causal slip in background framing.",
+      "issues": [
+        {
+          "label": "Associational background stated causally",
+          "severity": "Minor",
+          "as_written": "Transplant means longer survival and better quality of life than dialysis",
+          "abstract_says": "Among patients with kidney failure, kidney transplant is associated with better survival and quality of life compared with maintenance dialysis.",
+          "problem": "The abstract uses associational language; \"means\" asserts a causal benefit.",
+          "suggested_fix": "Write \"Transplant is associated with longer survival and better quality of life than dialysis.\""
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "pmid": "42897085",
+      "headline": "Who your main caregiver is shapes end-of-life planning \u2014 but having no caregiver at all is what keeps people out of hospice",
+      "verdict": "minor",
+      "notes": "N=3952 decedents aged 60+, the ORs (0.46, 0.62) and the 3.87-percentage-point ACP finding are correct; the headline uses causal language and the comparison group for the ORs is not stated.",
+      "issues": [
+        {
+          "label": "Causal headline for observational survey data",
+          "severity": "Moderate",
+          "as_written": "having no caregiver at all is what keeps people out of hospice",
+          "abstract_says": "Relative to spouse/partner primary caregiving, hospice use was lower among decedents with no identified caregiver (OR, 0.46) and those receiving formal care only (OR, 0.62).",
+          "problem": "\"Keeps people out\" asserts causation from a cross-sectional association in survey data; the digest's caveats acknowledge causation cannot be established.",
+          "suggested_fix": "Rephrase to \"having no caregiver at all is linked to much lower hospice use.\""
+        },
+        {
+          "label": "Reference group omitted",
+          "severity": "Minor",
+          "as_written": "people with no identified caregiver were far less likely to use hospice (odds ratio 0.46) as were those receiving only formal paid care (0.62)",
+          "abstract_says": "Relative to spouse/partner primary caregiving, hospice use was lower among decedents with no identified caregiver (OR, 0.46)...",
+          "problem": "The odds ratios are relative to spouse/partner caregiving, which the digest does not state, so readers may read them as comparisons with everyone else.",
+          "suggested_fix": "Add \"compared with people whose primary caregiver was a spouse or partner.\""
+        },
+        {
+          "label": "Isolation and advocacy claims beyond the data",
+          "severity": "Minor",
+          "as_written": "making social isolation, not family structure, the key risk factor for missing out on comfort-focused care... having a paid caregiver does not substitute for the advocacy an informal one provides",
+          "abstract_says": "The study categorized primary caregiver relationship type; it concludes that \"caregiver availability and broader caregiving circumstances may be important to consider alongside relationship type.\"",
+          "problem": "Social isolation was not measured, and no mechanism involving caregiver advocacy was tested.",
+          "suggested_fix": "Attribute to caregiver availability as the authors do, and drop the advocacy mechanism or label it as speculation."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "pmid": "42896150",
+      "headline": "Older adults get better at repeat brain tests just from practice \u2014 and how much better may itself be a clue",
+      "verdict": "minor",
+      "notes": "N=717, mean age 64.1 (SD 9.5), effect sizes (CS d=0.43, GNG d=0.32), the age moderation finding, 67% college-educated and the Signant/Novo Nordisk disclosure are all accurate; one overstatement about the simplest task.",
+      "issues": [
+        {
+          "label": "Improvement on all three tasks overstated",
+          "severity": "Minor",
+          "as_written": "Scores improved measurably across all three tasks",
+          "abstract_says": "PEs were observed on all tasks, with small effects on CS (d=0.43) and GNG (d=0.32) and a below-threshold effect on SRT (d=0.16).",
+          "problem": "The simple reaction time task showed a below-threshold effect, so \"improved measurably\" overstates it.",
+          "suggested_fix": "Note that gains were small on the two harder tasks and below threshold on the simple reaction time task."
+        }
+      ]
+    }
+  ]
+}

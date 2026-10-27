@@ -1,0 +1,640 @@
+{
+  "coverage_checked": 0,
+  "coverage_cached": 16,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42934475": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Bioengineer.org"
+      ],
+      "articles": [
+        {
+          "link": "https://bioengineer.org/high-blood-sugar-signals-rising-dementia-risk-in-older-adults-with-diabetes-meta-analysis-finds/",
+          "outlet": "Bioengineer.org",
+          "title": "High Blood Sugar Signals Rising Dementia Risk in Older Adults with Diabetes, Meta-Analysis Finds"
+        }
+      ]
+    },
+    "42937517": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Cureus"
+      ],
+      "articles": [
+        {
+          "link": "https://www.cureus.com/articles/541255-ocular-outcomes-of-glucagon-like-peptide-1-receptor-agonists-versus-sodium-glucose-cotransporter-2-inhibitors-in-type-2-diabetes-a-systematic-review-and-meta-analysis-of-real-world-evidence",
+          "outlet": "Cureus",
+          "title": "Ocular Outcomes of Glucagon-Like Peptide-1 Receptor Agonists Versus Sodium-Glucose Cotransporter-2 Inhibitors in Type 2 Diabetes: A Systematic Review and Meta-Analysis of Real-World Evidence"
+        }
+      ]
+    },
+    "42933772": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42933603": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42935472": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42934351": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Bioengineer.org"
+      ],
+      "articles": [
+        {
+          "link": "https://bioengineer.org/nurse-led-swallowing-screening-at-admission-linked-to-lower-aspiration-pneumonia-risk/",
+          "outlet": "Bioengineer.org",
+          "title": "Nurse-Led Swallowing Screening at Admission Linked to Lower Aspiration Pneumonia Risk"
+        }
+      ]
+    },
+    "42931882": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42934967": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42933453": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42934045": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42933604": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42932180": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42920057": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42933335": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42913450": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42901980": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Bioengineer.org"
+      ],
+      "articles": [
+        {
+          "link": "https://bioengineer.org/abca1-cholesterol-trafficking-implicated-in-parkinsons-neurodegeneration-in-mice/",
+          "outlet": "Bioengineer.org",
+          "title": "ABCA1 cholesterol trafficking implicated in Parkinson\u2019s neurodegeneration in mice"
+        }
+      ]
+    }
+  },
+  "pubmed": {
+    "42934475": {
+      "pubdate": "2026 Oct 26",
+      "journal": "GeroScience"
+    },
+    "42933453": {
+      "pubdate": "2026 Oct 26",
+      "journal": "The lancet. Healthy longevity"
+    },
+    "42931882": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Drugs & aging"
+    },
+    "42933335": {
+      "pubdate": "2026 Oct 21",
+      "journal": "Maturitas"
+    },
+    "42935472": {
+      "pubdate": "2026 Oct 27",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society"
+    },
+    "42934351": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Journal of general internal medicine"
+    },
+    "42933772": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Brain stimulation"
+    },
+    "42913450": {
+      "pubdate": "2026 Dec",
+      "journal": "Neurology. Clinical practice"
+    },
+    "42934967": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Movement disorders clinical practice"
+    },
+    "42937517": {
+      "pubdate": "2026 Oct 27",
+      "journal": "Diabetes care"
+    },
+    "42934045": {
+      "pubdate": "2026 Oct 24",
+      "journal": "Disability and health journal"
+    },
+    "42920057": {
+      "pubdate": "2026 Oct 23",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society"
+    },
+    "42933604": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Clinical nutrition ESPEN"
+    },
+    "42933603": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Clinical nutrition ESPEN"
+    },
+    "42932180": {
+      "pubdate": "2026 Oct 26",
+      "journal": "JAMA"
+    },
+    "42901980": {
+      "pubdate": "2026 Oct 20",
+      "journal": "Nature neuroscience"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Dementia risk calculators work \u2014 but only modestly, and mostly if you start them in midlife",
+      "journal": "Geroscience",
+      "published": "2026 Oct 26",
+      "pmid": "42934475",
+      "doi": "10.1007/s11357-026-02615-y",
+      "the_study": "Researchers systematically reviewed 29 cohort studies of ten published dementia risk scores and pooled data from 13 of them covering three widely used tools: CAIDE, LIBRA and the ANU-ADRI. Participants were middle-aged and older adults who were free of dementia at the start and followed for short, medium and long periods. CAIDE performed best, with pooled accuracy (area under the curve) of 0.74-0.76, and did so particularly when applied to middle-aged people followed for many years; the ANU-ADRI landed around 0.65-0.71, while the original LIBRA barely beat chance at 0.51-0.60 (a revised version reached about 0.70).",
+      "why_it_matters": "These scores are increasingly promoted in brain health clinics and consumer apps, and this analysis shows they can meaningfully sort people into higher and lower risk groups \u2014 but they are far from a crystal ball, and the tool used matters a great deal.",
+      "story_angle_primary": "If a clinic, app or health fair offers you a dementia risk score, it is reasonable to ask which tool it uses and what the number can and cannot tell you \u2014 the best-performing ones are rough risk estimates, not diagnoses, and they are most informative when applied in midlife. The flip side is genuinely encouraging: most of what these scores measure \u2014 blood pressure, cholesterol, physical activity, smoking, education, social engagement \u2014 are things you can still act on.",
+      "story_angle_secondary": "For clinicians and wellness directors building brain health programs, this is a buyer's guide: CAIDE has the strongest evidence base, the original LIBRA performs poorly, and a score should be used to prompt conversation about modifiable risk factors rather than to label a resident as destined for dementia.",
+      "caveats": "Evidence synthesis of observational cohorts only \u2014 cannot establish that acting on a score changes outcomes; only three of ten risk scores had enough comparable data to pool; accuracy varied substantially by baseline age and follow-up length; authors note further prospective validation is needed across different populations and clinical settings."
+    },
+    {
+      "headline": "Popular diabetes drugs look safe in people over 75 \u2014 and were linked to fewer hospitalizations",
+      "journal": "Diabetes Care",
+      "published": "2026 Oct 27",
+      "pmid": "42937517",
+      "doi": "10.2337/dc26-1316",
+      "the_study": "Using population-wide administrative health data from British Columbia, researchers compared 4,997 adults aged 75 and older with type 2 diabetes who started an SGLT2 inhibitor against 1,289 who started a DPP-4 inhibitor between 2021 and 2023 (median ages 79 and 82). After statistical adjustment, SGLT2 inhibitor users had a lower risk of acute kidney injury (HR 0.76) and all-cause hospitalization (HR 0.87), with no increase in infections. There were no detectable differences in diabetic ketoacidosis, falls or fractures, though the confidence intervals for those rarer outcomes were wide.",
+      "why_it_matters": "SGLT2 inhibitors have strong heart and kidney benefits but have often been withheld from the oldest patients over worries about dehydration, genital infections, falls and fractures \u2014 this is among the first real-world safety assessments focused squarely on people 75 and older.",
+      "story_angle_primary": "If you are over 75 with type 2 diabetes and your doctor has hesitated to prescribe an SGLT2 inhibitor because of your age, this study is worth raising at your next appointment \u2014 the safety signals that worried prescribers did not show up here. Ask specifically about your kidney function, hydration, and what symptoms should prompt a call.",
+      "story_angle_secondary": "For care home nurses and family caregivers managing medication lists, the finding of fewer all-cause hospitalizations is notable: age alone may be a weaker reason to deprescribe these drugs than previously assumed, though monitoring for dehydration and genital infections still belongs in the daily care plan.",
+      "caveats": "Observational cohort using administrative data \u2014 cannot prove causation, and residual confounding is likely despite propensity score weighting; the comparison groups differed in age and sex composition; estimates for rarer outcomes (ketoacidosis, falls, fractures) were imprecise, with confidence intervals compatible with both benefit and harm; single Canadian province, which may limit generalizability; short follow-up window (2021-2023)."
+    },
+    {
+      "headline": "Brain stimulation trial shows cognitive gains for stroke survivors \u2014 and the benefits held a month later",
+      "journal": "Brain Stimul",
+      "published": "2026 Oct 26",
+      "pmid": "42933772",
+      "doi": "10.1016/j.brs.2026.103234",
+      "the_study": "Researchers in Guangzhou, China, ran a triple-blind randomized trial of high-intensity transcranial alternating current stimulation (Hi-tACS) \u2014 a painless, non-invasive current applied through scalp electrodes \u2014 in 70 patients with post-stroke cognitive impairment. Participants received either active stimulation (15 mA, 77.5 Hz, 40 minutes, twice daily, five days a week for two weeks) or an identical sham device with no current. Immediately after treatment, 73.5% of the stimulation group showed a meaningful improvement on the Montreal Cognitive Assessment versus 38.2% of the sham group, and the gap persisted at four-week follow-up (88.2% vs 55.9%); working memory (digit span) also improved more with active treatment.",
+      "why_it_matters": "Thinking and memory problems after stroke are common, disabling and notoriously hard to treat, and this trial suggests a well-tolerated, drug-free rehabilitation add-on may help \u2014 and that it works without having to pinpoint a single brain target in patients whose lesions all differ.",
+      "story_angle_primary": "If you or your spouse is in stroke rehabilitation and struggling with memory, attention or 'foggy' thinking, it's reasonable to ask your rehabilitation physician whether non-invasive brain stimulation is offered or being studied at your center \u2014 while understanding this is a single early trial, not yet standard care.",
+      "story_angle_secondary": "For rehabilitation staff and senior living clinical teams: note the intensive dosing schedule in this protocol \u2014 twice daily, five days a week for two weeks. Any real-world adoption would hinge on staffing, transport and residents' tolerance for that cadence, which is worth factoring into expectations before families start asking.",
+      "caveats": "Small sample (N=70), single-center, conducted in one Chinese hospital so results may not generalize; follow-up extended only four weeks after treatment; participants' age range was not reported in the abstract; the brain-imaging (fNIRS) findings were exploratory and did not establish a mechanism."
+    },
+    {
+      "headline": "Adding probiotics to iron pills did nothing extra for anemia in older adults, trial finds",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct 26",
+      "pmid": "42933603",
+      "doi": "10.1016/j.clnesp.2026.105208",
+      "the_study": "In the PRATHAM trial in West Bengal, India, 200 community-dwelling adults aged 60 and older with mild-to-moderate anemia were randomly assigned, double-blind, to 12 weeks of daily iron-folic acid tablets plus a multi-strain probiotic capsule (30 billion CFU) or the same iron-folic acid plus placebo. Hemoglobin rose similarly in both groups (1.0 vs 1.2 g/dL, p=0.44), and ferritin \u2014 a measure of iron stores \u2014 actually rose significantly more in the placebo group. There were no meaningful between-group differences in hepcidin, inflammation markers, or most measures of gut microbiome diversity.",
+      "why_it_matters": "Probiotics are widely marketed as a way to help the body absorb iron, and this well-designed trial in exactly the population being targeted \u2014 older adults with anemia \u2014 found no added benefit over plain iron and folic acid, which are cheap and widely available.",
+      "story_angle_primary": "If you're taking iron for anemia, you can save your money on probiotic capsules pitched as absorption boosters \u2014 this trial found they added nothing to hemoglobin recovery over 12 weeks. Stick with the iron-folic acid regimen your doctor prescribed, and ask for a follow-up blood test to confirm it's working.",
+      "story_angle_secondary": "For families and senior living nursing staff: this is a useful counterweight to supplement marketing. Fewer unnecessary capsules means less pill burden and fewer interaction worries for residents already on multiple medications \u2014 and it reinforces that the proven intervention is consistent iron-folic acid adherence plus monitoring.",
+      "caveats": "Single trial conducted in one region of India in a community cohort, so findings may not generalize to all older populations or to other probiotic formulations and doses; 12-week follow-up is short; 16 of 200 participants did not complete follow-up and missing values were imputed by last observation carried forward; baseline gut microbiome diversity differed between groups."
+    },
+    {
+      "headline": "Hand tremor in later life may signal more than a shaky grip, Danish research suggests",
+      "journal": "Mov Disord",
+      "published": "2026 Oct 27",
+      "pmid": "42935472",
+      "doi": "10.1002/mds.70581",
+      "the_study": "Danish researchers combined three separate population studies to test whether action tremor \u2014 the shaking that shows up when you reach, write or hold a cup \u2014 carries any prognostic weight. They looked at 3,487 people with hospital-diagnosed essential tremor matched to 10 controls each, 2,029 older twins who drew Archimedes spirals that were scored for tremor severity, and 2,472 people who simply reported tremor themselves, each matched to four controls. In all three cohorts, tremor was linked to higher all-cause mortality \u2014 hazard ratios of 1.37 for diagnosed essential tremor, 1.67 for the most severe spiral scores, and 1.56 for self-reported tremor \u2014 and worse spiral scores tracked with progressively lower survival.",
+      "why_it_matters": "Essential tremor has long been described to patients as a benign nuisance; this triangulated evidence suggests it may instead be a visible marker of broader underlying health vulnerability worth a fuller workup.",
+      "story_angle_primary": "If your hands have begun shaking when you reach or write, it is worth mentioning to your doctor rather than writing it off as a normal part of getting older \u2014 not because tremor itself is dangerous, but because this research suggests it may travel with other health problems that deserve attention. Ask for a general health review, not just reassurance.",
+      "story_angle_secondary": "For clinicians and senior living staff, a resident's visible tremor may be a useful prompt for a broader health and frailty assessment rather than a cosmetic concern to be managed around at mealtimes.",
+      "caveats": "Observational design across all three cohorts \u2014 cannot establish that tremor causes earlier death, and the association may reflect unmeasured underlying illness. Danish population only, which may limit generalizability. One cohort relied on self-reported tremor."
+    },
+    {
+      "headline": "Hospitals that screen every new patient's swallowing cut aspiration pneumonia by more than half",
+      "journal": "J Gen Intern Med",
+      "published": "2026 Oct 26",
+      "pmid": "42934351",
+      "doi": "10.1007/s11606-026-10770-3",
+      "the_study": "A Japanese university hospital introduced a nurse-led swallowing screen at admission \u2014 a 10-question eating assessment, followed where needed by a saliva-swallowing test and direct mealtime observation \u2014 and researchers then compared outcomes in 12,374 adults admitted to general wards over a year. Among the 10,947 patients where the protocol was followed, hospital-acquired aspiration pneumonia occurred in 0.8%, versus 2.1% among the 1,427 patients where it was not. After adjusting for age, comorbidities, surgery and cancer, protocol adherence was associated with roughly a 58% lower risk (RR 0.42). Patients with stroke history, dementia or respiratory disease were at highest risk overall.",
+      "why_it_matters": "Aspiration pneumonia is one of the most common and most lethal complications older adults pick up in hospital, and this suggests a low-tech, nurse-delivered screen at the front door may prevent a substantial share of cases.",
+      "story_angle_primary": "If you or someone you love is being admitted to the hospital \u2014 especially after a stroke, with dementia, or with lung disease \u2014 ask whether staff will assess swallowing before the first meal tray arrives. Coughing or a wet-sounding voice while eating and drinking is worth reporting right away.",
+      "story_angle_secondary": "For nursing and senior living leadership, this is a concrete quality-improvement target: the intervention was delivered by nurses using simple bedside tools, and the gap in outcomes appeared between patients who got the protocol and those who slipped through it within the same institution.",
+      "caveats": "Retrospective observational study at a single center \u2014 patients who missed the protocol may have differed systematically (for example, being sicker or admitted urgently) in ways adjustment cannot fully capture. Japanese hospital system may not generalize elsewhere. No randomization."
+    },
+    {
+      "headline": "It's not just how many pills \u2014 it's which ones: anticholinergic drugs tied to hip fracture and dementia in nationwide data",
+      "journal": "Drugs Aging",
+      "published": "2026 Oct 26",
+      "pmid": "42931882",
+      "doi": "10.1007/s40266-026-01344-3",
+      "the_study": "Using a large national claims database in Japan, researchers ran a matched case-control analysis comparing several ways of measuring medication risk: the sheer number of drugs taken, the count of potentially inappropriate medications, the number of anticholinergic drugs, and total anticholinergic burden. For hip fracture and dementia, anticholinergic exposure and potentially inappropriate medications showed stronger associations than total pill count did. For constipation and urinary retention, by contrast, simply taking more medications performed about as well as any specialized measure.",
+      "why_it_matters": "It suggests the common shorthand of counting pills misses the point for the outcomes older adults fear most \u2014 falls with hip fracture, and dementia \u2014 where the specific drug class matters more than the number on the list.",
+      "story_angle_primary": "At your next medication review, ask your doctor or pharmacist specifically whether any of your prescriptions carry anticholinergic effects \u2014 common in some bladder medications, older antihistamines, sleep aids and antidepressants \u2014 rather than only asking whether you can cut the total number of pills. Do not stop anything on your own.",
+      "story_angle_secondary": "For care facility staff and family medication managers, this supports prioritizing deprescribing conversations by drug class rather than by headcount, and flags anticholinergic load as the metric most worth tracking for fall and cognition risk.",
+      "caveats": "Observational claims-database analysis \u2014 cannot establish causation, and claims data miss over-the-counter drugs and actual adherence. Japanese prescribing patterns and the Japanese Anticholinergic Risk Scale may not translate directly to other countries. Confounding by indication is a real possibility (people prescribed these drugs may already be at higher risk)."
+    },
+    {
+      "headline": "Nearly half of Parkinson's patients tested had a gut methane overgrowth \u2014 but it looks like plain constipation, not the disease",
+      "journal": "Mov Disord Clin Pract",
+      "published": "2026 Oct 26",
+      "pmid": "42934967",
+      "doi": "10.1002/mdc3.70883",
+      "the_study": "Stanford researchers reviewed breath test results from 93 patients with Parkinson's disease and found intestinal methanogen overgrowth in 46.2% and small intestinal bacterial overgrowth in 15.1%. When those patients were matched one-to-two against people with chronic constipation but no Parkinson's \u2014 by age, sex, BMI and other factors \u2014 the rates were essentially identical (42.1% vs. 44.7%). Overgrowth rates in Parkinson's matched those in slow-transit constipation (46% vs. 48%) and were higher than in normal-transit constipation, and did not vary with motor severity or how long the person had had the disease.",
+      "why_it_matters": "Amid intense interest in the gut as a driver of Parkinson's, this first characterization suggests the methane overgrowth seen in these patients reflects the sluggish bowel they already have rather than something unique to the disease \u2014 which points treatment toward the constipation itself.",
+      "story_angle_primary": "If you have Parkinson's and persistent constipation, bloating or gas, it is reasonable to ask your neurologist or a gastroenterologist about evaluating bowel transit \u2014 but be cautious about claims that a special gut-microbe treatment will address your Parkinson's. The study found no link between this overgrowth and motor severity.",
+      "story_angle_secondary": "For caregivers, the practical takeaway is that constipation in Parkinson's deserves active, ongoing management in its own right; it is common, it is physiologically distinct (slow transit), and it may be what is driving the digestive symptoms attributed to the disease.",
+      "caveats": "Retrospective, single tertiary center, and limited to patients already referred for breath testing \u2014 so the 46% figure almost certainly overstates prevalence in the general Parkinson's population. Observational design cannot establish causation, and no treatment outcomes were tested."
+    },
+    {
+      "headline": "Multiple chronic conditions already affect over a third of older Africans \u2014 and in urban South Africa, 62%",
+      "journal": "Lancet Healthy Longev",
+      "published": "2026 Oct 26",
+      "pmid": "42933453",
+      "doi": "10.1016/j.lanhl.2026.100900",
+      "the_study": "Researchers recruited 5,296 adults aged 40 and over (median age 60, 53% women) across rural and urban sites in The Gambia, South Africa and Zimbabwe between 2022 and 2024, measuring blood pressure, blood glucose, BMI, HIV status, mental health symptoms and quality of life alongside self-reported conditions. Overall, 36% had two or more of 26 chronic conditions \u2014 but prevalence ranged dramatically, from 6.6% in rural Gambia to 62.0% in urban South Africa. Diabetes, hypertension, HIV, mood disorders, arthritis and fragility fractures were the most common components, and people with multimorbidity reported worse health-related quality of life. Distinct cardiometabolic and HIV-related clusters emerged in Zimbabwe and South Africa.",
+      "why_it_matters": "It provides the first robust, comparable population-level picture of multimorbidity in older Africans, and the urban South African figure suggests health systems across the continent are facing a wave of complex, overlapping chronic illness they are not organized to handle.",
+      "story_angle_primary": "If you are aging in a setting where care is delivered one disease at a time, this is a reason to push for a single clinician who sees the whole picture \u2014 your blood pressure, blood sugar, joints, mood and medications together \u2014 rather than attending separate clinics that never compare notes.",
+      "story_angle_secondary": "For health planners and care organizations, the striking rural-urban gradient and the distinct disease clusters argue for integrated, co-located chronic care services \u2014 including mental health and bone health \u2014 rather than the vertical, single-disease programs that dominate in many of these settings.",
+      "caveats": "Cross-sectional design captures a snapshot and cannot show how multimorbidity develops or what causes it. Many conditions were self-reported, which can undercount undiagnosed disease. Five sites in three countries may not represent the African continent. Funded by Wellcome, the National Institute for Health Research and the Medical Research Council."
+    },
+    {
+      "headline": "Denmark's 84,000-person study: older adults with intellectual disability get less cancer \u2014 but it's caught later",
+      "journal": "Disabil Health J",
+      "published": "2026 Oct 24",
+      "pmid": "42934045",
+      "doi": "10.1016/j.dhjo.2026.102181",
+      "the_study": "Danish researchers used national registers to follow 84,007 people with intellectual disability and 841,583 age- and sex-matched comparison subjects for cancers diagnosed between 1978 and 2024. Cancer incidence was more than four times higher in children with intellectual disability and modestly higher in adults aged 18 to 59 \u2014 but among those aged 60 and older it was actually lower than in the general population (standardized incidence ratio 0.87). Regardless of age, people with intellectual disability were significantly more likely to be diagnosed at an advanced stage (OR 1.28) or with an unknown stage (OR 1.57).",
+      "why_it_matters": "Adults with intellectual disability are living into old age in greater numbers than ever, and this is among the first nationwide looks at their cancer risk across the lifespan \u2014 showing the problem is less about how often cancer occurs and more about how late it is found.",
+      "story_angle_primary": "If you have an intellectual disability \u2014 or you are aging alongside a sibling or partner who does \u2014 the lower cancer counts in later life are not necessarily reassuring news. Ask whether routine screening invitations (breast, bowel, cervical) are actually being received, understood and acted on, and ask what accommodations your clinic can offer to make screening possible.",
+      "story_angle_secondary": "For group home staff, day program managers and senior living professionals supporting residents with intellectual disability: the late-stage and unknown-stage diagnosis pattern points to a system that misses symptoms rather than a population that is protected. Consider auditing whether residents in your care are up to date on age-appropriate screening and whether changes in appetite, weight, bleeding or pain are being flagged and pursued.",
+      "caveats": "Observational register study \u2014 it cannot establish cause, and the lower incidence in people aged 60+ could partly reflect underdiagnosis, shorter life expectancy, or fewer people reaching older ages rather than genuine protection. Danish registry population may not generalize to countries with different disability identification and health systems."
+    },
+    {
+      "headline": "A simple nutrition score flagged which dialysis patients lost toes \u2014 and who died first",
+      "journal": "Clin Nutr ESPEN",
+      "published": "2026 Oct 26",
+      "pmid": "42933604",
+      "doi": "10.1016/j.clnesp.2026.105213",
+      "the_study": "Spanish researchers retrospectively tracked 53 adults with diabetes on chronic hemodialysis between 2017 and 2024, scoring each at baseline on the Geriatric Nutritional Risk Index (GNRI), a simple calculation based on weight and blood albumin. Diabetic foot ulcers were present in 41.5% of patients, and those with foot disease had markedly lower baseline nutrition scores. Each one-point higher GNRI was linked to roughly a 20% lower likelihood of having diabetic foot disease, and low scores also tracked with more hospital admissions, more minor amputations and significantly worse survival over up to six years.",
+      "why_it_matters": "It suggests that a nutrition number already sitting in many dialysis charts may be a practical early warning for foot complications and death in a population where amputation is life-altering.",
+      "story_angle_primary": "If you or a loved one has diabetes and is on dialysis, ask your kidney team whether your nutritional risk has been scored \u2014 and what your albumin, weight trend and hemoglobin look like. Unintentional weight loss during dialysis is not something to shrug off, and daily foot checks matter even more when nutrition is poor.",
+      "story_angle_secondary": "For dietitians, dialysis nurses and assisted living staff: this supports pairing routine nutrition screening with podiatry referral rather than treating nutrition and foot care as separate tracks. A falling score may be a cue to escalate foot surveillance before an ulcer appears.",
+      "caveats": "Small sample (N=53), single-center and retrospective; observational design cannot show that poor nutrition causes foot ulcers rather than the reverse, since existing wounds and infection themselves lower albumin and weight."
+    },
+    {
+      "headline": "Researchers are now tracking what happened to Medicare patients after AI entered prior authorization",
+      "journal": "JAMA",
+      "published": "2026 Oct 26",
+      "pmid": "42932180",
+      "doi": "10.1001/jama.2026.21230",
+      "the_study": "Health policy researchers at the University of Minnesota and Brown used Epic Cosmos, a very large national electronic health record database, to examine whether Medicare beneficiaries' use of medical services changed after the Center for Medicare & Medicaid Innovation launched its WISeR (Wasteful and Inappropriate Service Reduction) model, which applies artificial intelligence to prior authorization decisions for selected services. The published abstract is a plain-language summary only and does not report the numerical findings; the full JAMA article carries the results.",
+      "why_it_matters": "Prior authorization decides whether a scan, procedure or device gets approved and paid for, and this is among the first empirical looks at what happens to real Medicare patients' care when an algorithm is part of that gate.",
+      "story_angle_primary": "If a service you need has been delayed or denied, know that you have the right to ask on what basis the decision was made, to request a written denial, and to appeal \u2014 Medicare appeals are frequently successful. Keep records of dates, names and the stated reason.",
+      "story_angle_secondary": "For senior living operators, care managers and family advocates: anticipate more documentation requests and possible delays on services falling under the WISeR model, and build appeal support into your workflow rather than treating each denial as a one-off.",
+      "caveats": "The abstract released to PubMed contains no results, methods detail, or effect sizes \u2014 the findings cannot be characterized from it. The underlying analysis is observational, using before-and-after service use, and cannot by itself prove the AI program caused any change."
+    },
+    {
+      "headline": "Spinal fluid proteins may flag which Parkinson's patients will decline fast \u2014 and which won't",
+      "journal": "Mov Disord",
+      "published": "2026 Oct 23",
+      "pmid": "42920057",
+      "doi": "10.1002/mds.70589",
+      "the_study": "Researchers analyzed five years of follow-up data from 396 participants with early Parkinson's disease in the Parkinson's Progression Markers Initiative, using statistical modeling to sort them into distinct motor decline trajectories rather than assuming everyone follows one average course. Comparing cerebrospinal fluid proteins across groups, they identified a seven-protein signature (including NEFL and CXCL9) that distinguished rapid from slow progressors with good accuracy (AUC 0.908), with consistent results in a second independent set of 184 samples.",
+      "why_it_matters": "Parkinson's progresses at wildly different speeds, and a reliable way to tell early on who is on a fast track could reshape how treatment, home modifications and long-term care are planned \u2014 and make clinical trials far more efficient.",
+      "story_angle_primary": "If you have been recently diagnosed with Parkinson's, this is a reminder that a diagnosis does not predict a single path \u2014 many people progress slowly. These spinal fluid tests are research tools, not something to request at your next appointment, but it is reasonable to ask your neurologist about enrolling in longitudinal research studies that track progression.",
+      "story_angle_secondary": "For families and care planners: the finding reinforces that Parkinson's care plans should be revisited on a schedule rather than set once at diagnosis, since trajectories diverge substantially within the first five years.",
+      "caveats": "Observational biomarker discovery in a research cohort; the proteomic analyses rested on relatively small subsets (78 and 184 samples) and required lumbar puncture. Results have not been validated for clinical use, and PPMI participants are volunteers who may not represent all people with Parkinson's."
+    },
+    {
+      "headline": "Body-clock trouble today, new pain tomorrow: 18,000 older adults across three countries",
+      "journal": "Maturitas",
+      "published": "2026 Oct 21",
+      "pmid": "42933335",
+      "doi": "10.1016/j.maturitas.2026.109163",
+      "the_study": "Researchers pooled three major aging cohorts \u2014 the China Health and Retirement Longitudinal Study, the English Longitudinal Study of Ageing, and the US Health and Retirement Study \u2014 covering 18,719 middle-aged and older adults, and asked whether \"circadian syndrome\" (a cluster that bundles the metabolic syndrome components \u2014 abdominal obesity, high blood pressure, high blood sugar, abnormal lipids \u2014 together with disturbed sleep and depressive symptoms) was linked to pain. People with circadian syndrome were 68% to 124% more likely to report pain at baseline, depending on the country. More importantly, among those who were pain-free at the start, baseline circadian syndrome predicted new-onset pain over follow-up (odds ratios of 1.22 to 1.62), with findings holding up across subgroup and sensitivity analyses.",
+      "why_it_matters": "It reframes chronic pain in later life as potentially tied to a whole-body rhythm and metabolic problem rather than just a joint or back problem \u2014 and the components involved (sleep, mood, weight, blood pressure, blood sugar) are things that already get managed, just rarely as a package.",
+      "story_angle_primary": "If you have several of these at once \u2014 poor sleep, low mood, high blood pressure, high blood sugar, extra weight around the middle \u2014 you may be at higher risk of developing new pain, not just more of the same. It's worth asking your doctor to look at the whole cluster together rather than treating each piece in a separate visit, and to take your sleep complaints as seriously as your blood pressure numbers.",
+      "story_angle_secondary": "For care teams and senior living staff: residents with clustered metabolic problems and disrupted sleep may be a group to watch for emerging pain complaints. Sleep and mood tracking may have value as early signals rather than as quality-of-life extras.",
+      "caveats": "Observational design \u2014 cannot establish that circadian syndrome causes pain, and the reverse (pain disrupting sleep and mood) is plausible. Pain severity and sleep were self-reported. Effect sizes for incident pain were modest compared with the cross-sectional associations."
+    },
+    {
+      "headline": "When 'brain fog' in lupus turns out to be real cognitive impairment \u2014 in nearly half of patients tested",
+      "journal": "Neurol Clin Pract",
+      "published": "2026 Dec",
+      "pmid": "42913450",
+      "doi": "10.1212/CPJ.0000000000200680",
+      "the_study": "A Boston hospital built a standardized multidisciplinary Neuro-Lupus Program \u2014 neurology, psychiatry, rheumatology, and neuropsychology working from one protocol \u2014 and ran 50 patients with systemic lupus erythematosus and cognitive complaints through it over 12 months. Formal neurocognitive testing uncovered previously undiagnosed cognitive impairment in 46.4% of those tested (mild in 39.3%, major in 7.1%), and another 39.3% had isolated weaknesses on an otherwise normal profile. Brain MRI showed white matter disease in half and atrophy in 10%; as a result, neuropsychiatric medications were adjusted in 86% of patients and 8% had immunotherapy escalated.",
+      "why_it_matters": "Cognitive complaints in people with autoimmune disease are routinely brushed off as fatigue, depression, medication side effects, or \"normal aging\" \u2014 this program shows that systematic testing finds measurable impairment in a large share of them, and that the findings change treatment.",
+      "story_angle_primary": "If you live with lupus and feel your memory or thinking has slipped, that complaint deserves formal neurocognitive testing rather than reassurance. Ask whether your rheumatologist can coordinate with neurology and neuropsychology \u2014 in this program, the workup led to medication changes for the great majority of patients.",
+      "story_angle_secondary": "For clinicians and care coordinators: this is a replicable care-model blueprint \u2014 a sequential protocol with a defined neurologist entry point, standardized cognitive testing, imaging for all, and escalation to CSF and PET only when indicated. It argues against the common assumption that cognitive complaints in autoimmune disease are a diagnostic dead end.",
+      "caveats": "Small N (50 patients), single-center, no control group, and no comparison with usual care \u2014 so the apparent benefit of the program design is uncontrolled. The lupus population skews younger and predominantly female, so findings may not generalize to older adults broadly. Whether the medication changes improved outcomes was not measured."
+    },
+    {
+      "headline": "A new cholesterol pathway in Parkinson's \u2014 and a word of caution about the magnesium headline",
+      "journal": "Nat Neurosci",
+      "published": "2026 Oct 20",
+      "pmid": "42901980",
+      "doi": "10.1038/s41593-026-02487-7",
+      "the_study": "Working with postmortem human brain tissue and mouse models, researchers found that a cholesterol transporter called ABCA1 is elevated in the substantia nigra \u2014 the dopamine-producing region that degenerates in Parkinson's disease. Astrocytes pumped out excess cholesterol, neurons took it up into lysosomes, and the resulting cholesterol overload impaired cellular cleanup (autophagy) and promoted alpha-synuclein pathology. Silencing the gene in mice reduced neurodegeneration and movement problems, and the team identified magnesium citrate as an ABCA1 inhibitor that reduced dopamine neuron loss in mice.",
+      "why_it_matters": "It points to a different cholesterol target in Parkinson's after years of disappointing results from drugs aimed at cholesterol synthesis \u2014 but the magnesium finding is the kind of detail that travels fast and gets misread as a supplement recommendation.",
+      "story_angle_primary": "If you see headlines suggesting magnesium citrate helps Parkinson's disease, treat them with skepticism: this work was done in mice and human brain tissue, not in living patients, and no dose, safety, or benefit has been established in people. Magnesium supplements can cause diarrhea and interact with other medications, so talk to your doctor before adding one.",
+      "story_angle_secondary": "For families and care staff: expect questions about this one. A useful framing is that basic-science targets like ABCA1 typically take years to reach a tested therapy, and the right response to a promising mouse study is to ask the neurologist about clinical trial opportunities, not to change the supplement shelf.",
+      "caveats": "Preclinical study \u2014 mouse models and postmortem tissue, with no human treatment data. No evidence of dose, safety, or efficacy of magnesium citrate in people with Parkinson's disease."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42934475",
+      "headline": "Dementia risk calculators work \u2014 but only modestly, and mostly if you start them in midlife",
+      "verdict": "accurate",
+      "notes": "Study counts, AUC ranges and framing all match the abstract; caveats appropriately note the evidence-synthesis design.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "pmid": "42937517",
+      "headline": "Popular diabetes drugs look safe in people over 75 \u2014 and were linked to fewer hospitalizations",
+      "verdict": "minor",
+      "notes": "Numbers and direction of effect are accurate; one caveat mislabels the cohort entry window as the follow-up window, and the \"among the first\" claim is unverifiable.",
+      "issues": [
+        {
+          "label": "Enrollment window described as follow-up",
+          "severity": "Minor",
+          "as_written": "short follow-up window (2021-2023)",
+          "abstract_says": "We included individuals aged \u226575 years with type 2 diabetes initiating SGLT2is or DPP-4is between 1 January 2021 and 31 December 2023.",
+          "problem": "2021\u20132023 is the period during which patients started the drugs, not the length of follow-up; the abstract does not state follow-up duration.",
+          "suggested_fix": "Change to \"patients entered the cohort between 2021 and 2023, and the abstract does not report how long they were followed\"."
+        },
+        {
+          "label": "Novelty claim not in abstract",
+          "severity": "Minor",
+          "as_written": "this is among the first real-world safety assessments focused squarely on people 75 and older",
+          "abstract_says": "SGLT2 inhibitors ... have demonstrated cardiorenal benefits in individuals with type 2 diabetes, but safety data in older adults remain limited.",
+          "problem": "The abstract notes limited data but makes no priority claim. Unverifiable from abstract only.",
+          "suggested_fix": "Say \"the authors note that safety data in this age group remain limited\"."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42933772",
+      "headline": "Brain stimulation trial shows cognitive gains for stroke survivors \u2014 and the benefits held a month later",
+      "verdict": "minor",
+      "notes": "Design, dosing and all response-rate figures match; the descriptor \"painless\" is an addition not supported by the abstract.",
+      "issues": [
+        {
+          "label": "\"Painless\" descriptor unsupported",
+          "severity": "Minor",
+          "as_written": "high-intensity transcranial alternating current stimulation (Hi-tACS) \u2014 a painless, non-invasive current applied through scalp electrodes",
+          "abstract_says": "Hi-tACS improved global cognition and working memory in patients with PSCI and was generally well tolerated.",
+          "problem": "The abstract reports only that the intervention was \"generally well tolerated\"; it says nothing about whether 15 mA stimulation is painless, and a reader could be misled about the sensation involved.",
+          "suggested_fix": "Replace \"painless\" with \"non-invasive and reported as generally well tolerated\"."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42933603",
+      "headline": "Adding probiotics to iron pills did nothing extra for anemia in older adults, trial finds",
+      "verdict": "minor",
+      "notes": "Trial design, hemoglobin and ferritin results accurately reported; the claim about inflammation markers is not supported by results in the abstract.",
+      "issues": [
+        {
+          "label": "Inflammation-marker result not reported",
+          "severity": "Minor",
+          "as_written": "There were no meaningful between-group differences in hepcidin, inflammation markers, or most measures of gut microbiome diversity.",
+          "abstract_says": "Hepcidin increased in both groups, with no significant between-group difference (p=0.550) ... there were no significant between-group differences in hepcidin or most gut microbiota alpha-diversity measures at endline.",
+          "problem": "CRP was measured but no between-group result for inflammation is given in the abstract, so the inflammation claim is unverifiable from the abstract alone.",
+          "suggested_fix": "Drop \"inflammation markers\" or note that CRP was measured but results were not reported in the abstract."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42935472",
+      "headline": "Hand tremor in later life may signal more than a shaky grip, Danish research suggests",
+      "verdict": "accurate",
+      "notes": "All three cohort sizes, matching ratios and hazard ratios match the abstract, and the marker-not-cause framing mirrors the authors' own wording.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "pmid": "42934351",
+      "headline": "Hospitals that screen every new patient's swallowing cut aspiration pneumonia by more than half",
+      "verdict": "minor",
+      "notes": "All figures match, but the headline uses causal language and reframes a within-hospital protocol-adherence comparison as a hospital-level intervention effect.",
+      "issues": [
+        {
+          "label": "Causal headline for retrospective observational data",
+          "severity": "Moderate",
+          "as_written": "Hospitals that screen every new patient's swallowing cut aspiration pneumonia by more than half",
+          "abstract_says": "Adherence to an admission dysphagia screening protocol was associated with a significantly lower risk of hospital-acquired aspiration pneumonia in general wards ... DESIGN: Retrospective cohort study.",
+          "problem": "\"Cut\" asserts causation from a retrospective cohort, and the comparison was between protocol-adherent and non-adherent patients within a single hospital, not between hospitals that screen and those that do not.",
+          "suggested_fix": "Reword to \"Patients who got a swallowing screen on admission had less than half the rate of hospital-acquired aspiration pneumonia\"."
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42931882",
+      "headline": "It's not just how many pills \u2014 it's which ones: anticholinergic drugs tied to hip fracture and dementia in nationwide data",
+      "verdict": "minor",
+      "notes": "Findings accurately summarized and non-causal; one story-angle recommendation goes slightly beyond what the abstract supports.",
+      "issues": [
+        {
+          "label": "Single \"best metric\" recommendation beyond abstract",
+          "severity": "Minor",
+          "as_written": "flags anticholinergic load as the metric most worth tracking for fall and cognition risk",
+          "abstract_says": "Overall, the strengths of the associations for the number of anticholinergic drugs and total anticholinergic burden were broadly similar ... comprehensive exposure assessments that account for disease characteristics and temporal factors are crucial.",
+          "problem": "The abstract found anticholinergic drug count and total burden to be broadly similar and concluded in favor of comprehensive, outcome-specific assessment rather than endorsing one metric.",
+          "suggested_fix": "Rephrase as \"supports tracking anticholinergic exposure, by count or burden, alongside pill count rather than instead of a broader review\"."
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "pmid": "42934967",
+      "headline": "Nearly half of Parkinson's patients tested had a gut methane overgrowth \u2014 but it looks like plain constipation, not the disease",
+      "verdict": "accurate",
+      "notes": "Prevalence figures, matched comparisons and the \"independent of motor severity\" point all match; the referral-bias caveat is well handled.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42933453",
+      "headline": "Multiple chronic conditions already affect over a third of older Africans \u2014 and in urban South Africa, 62%",
+      "verdict": "minor",
+      "notes": "Sample, prevalence figures, clusters and funding all match; small imprecision about site coverage and a \"first\" claim the abstract does not make.",
+      "issues": [
+        {
+          "label": "Site description slightly overstated",
+          "severity": "Minor",
+          "as_written": "across rural and urban sites in The Gambia, South Africa and Zimbabwe",
+          "abstract_says": "we recruited adults aged at least 40 years in rural and urban The Gambia, rural and urban South Africa, and urban Zimbabwe",
+          "problem": "Zimbabwe contributed an urban site only; the phrasing implies rural and urban sampling in all three countries.",
+          "suggested_fix": "Write \"rural and urban sites in The Gambia and South Africa and an urban site in Zimbabwe\"."
+        },
+        {
+          "label": "\"First\" claim not in abstract",
+          "severity": "Minor",
+          "as_written": "It provides the first robust, comparable population-level picture of multimorbidity in older Africans",
+          "abstract_says": "the gap in robust, comparable, population-level evidence on multimorbidity in Africa remains substantial",
+          "problem": "The abstract describes a substantial evidence gap but does not claim this is the first such study. Unverifiable from abstract only.",
+          "suggested_fix": "Change to \"It helps fill a substantial gap in comparable population-level data on multimorbidity in Africa\"."
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42934045",
+      "headline": "Denmark's 84,000-person study: older adults with intellectual disability get less cancer \u2014 but it's caught later",
+      "verdict": "minor",
+      "notes": "Cohort sizes, SIRs and stage ORs all match; the \"regardless of age\" qualifier is not supported by the abstract.",
+      "issues": [
+        {
+          "label": "Age-stratified stage claim not in abstract",
+          "severity": "Minor",
+          "as_written": "Regardless of age, people with intellectual disability were significantly more likely to be diagnosed at an advanced stage (OR 1.28) or with an unknown stage (OR 1.57).",
+          "abstract_says": "Individuals with intellectual disability were more likely to be diagnosed with advanced (Odds Ratio [OR]: 1.28, 95% CI: 1.20-1.36) or unknown cancer stage (OR: 1.57, 95% CI: 1.46-1.69).",
+          "problem": "The abstract reports overall stage odds ratios only; it does not show that the pattern held within every age group, so \"regardless of age\" is unverifiable.",
+          "suggested_fix": "Delete \"Regardless of age\" and report the stage figures as an overall finding."
+        },
+        {
+          "label": "Novelty claim unverifiable",
+          "severity": "Minor",
+          "as_written": "this is among the first nationwide looks at their cancer risk across the lifespan",
+          "abstract_says": "People with intellectual disability have lower screening participation and higher cancer-related mortality, yet few studies have investigated cancer incidence in this group.",
+          "problem": "The abstract notes that few studies exist but makes no claim about being among the first nationwide lifespan analyses.",
+          "suggested_fix": "Say \"few previous studies have examined cancer incidence in this group, according to the authors\"."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42933604",
+      "headline": "A simple nutrition score flagged which dialysis patients lost toes \u2014 and who died first",
+      "verdict": "minor",
+      "notes": "Core numbers (N=53, 41.5% diabetic foot, OR 0.803 \u2248 20% per point, worse survival) match the abstract. Small issues: the 12-month event window for foot complications isn't mentioned, and the 'early warning / before an ulcer appears' framing implies prediction the cross-sectional association doesn't support.",
+      "issues": [
+        {
+          "label": "Follow-up window for foot events omitted",
+          "severity": "Minor",
+          "as_written": "low scores also tracked with more hospital admissions, more minor amputations and significantly worse survival over up to six years",
+          "abstract_says": "DF-related events (hospitalisations and amputations) were recorded over a 12-month follow-up period, whereas all-cause mortality was tracked throughout the entire study observation period (up to 6 years).",
+          "problem": "The 'up to six years' applies only to mortality; hospitalizations and amputations were counted over 12 months. As written, readers may assume all outcomes were tracked for six years.",
+          "suggested_fix": "Specify that hospitalizations and amputations were recorded over a 12-month follow-up, while mortality was tracked for up to six years."
+        },
+        {
+          "label": "Predictive framing of a concurrent association",
+          "severity": "Minor",
+          "as_written": "A falling score may be a cue to escalate foot surveillance before an ulcer appears.",
+          "abstract_says": "Multivariate binary logistic regression revealed that baseline GNRI was independently and inversely associated with the presence of DF (OR=0.803...)",
+          "problem": "The GNRI\u2013diabetic foot relationship was an association with foot disease already present, not a demonstrated prediction of future ulcers; the 'early warning' and 'before an ulcer appears' framing goes beyond the design, which the caveat itself acknowledges can run in reverse.",
+          "suggested_fix": "Reword to note that lower nutrition scores accompanied existing foot disease and that whether a falling score predicts new ulcers remains untested."
+        },
+        {
+          "label": "'Diabetic foot ulcers' vs diabetic foot disease",
+          "severity": "Minor",
+          "as_written": "Diabetic foot ulcers were present in 41.5% of patients",
+          "abstract_says": "The prevalence of DF [diabetic foot] was 41.5% (n=22).",
+          "problem": "The abstract reports prevalence of diabetic foot (a broader category than ulceration), and the digest switches to 'diabetic foot disease' later in the same paragraph.",
+          "suggested_fix": "Use 'diabetic foot disease' consistently, matching the abstract's terminology."
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "pmid": "42932180",
+      "headline": "Researchers are now tracking what happened to Medicare patients after AI entered prior authorization",
+      "verdict": "accurate",
+      "notes": "Correctly identifies the institutions, data source (Epic Cosmos) and the WISeR model, and is explicit that the PubMed record is a plain-language summary with no results. Framing and caveats are appropriately restrained.",
+      "issues": []
+    },
+    {
+      "number": 13,
+      "pmid": "42920057",
+      "headline": "Spinal fluid proteins may flag which Parkinson's patients will decline fast \u2014 and which won't",
+      "verdict": "minor",
+      "notes": "N=396, 5-year PPMI data, seven-protein signature (NEFL, CXCL9 among them) and AUC 0.908 all match. The validation performance was lower than the discovery performance, which the digest glosses as 'consistent results.'",
+      "issues": [
+        {
+          "label": "Validation accuracy not reported",
+          "severity": "Minor",
+          "as_written": "with consistent results in a second independent set of 184 samples",
+          "abstract_says": "In an independent cohort, the combined model showed consistent directional effects and achieved the highest accuracy (AUC = 0.796).",
+          "problem": "'Consistent results' understates the drop from AUC 0.908 to 0.796 in validation; the abstract claims consistent directional effects, not equivalent accuracy.",
+          "suggested_fix": "Add the validation figure, e.g. 'with consistent directional effects and somewhat lower accuracy (AUC 0.796) in a second set of 184 samples.'"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42933335",
+      "headline": "Body-clock trouble today, new pain tomorrow: 18,000 older adults across three countries",
+      "verdict": "accurate",
+      "notes": "Sample size (18,719), the three cohorts, cross-sectional ORs (1.68\u20132.24 = 68%\u2013124%) and incident-pain ORs (1.22\u20131.62) all match the abstract, and the digest keeps the language associational with appropriate caveats.",
+      "issues": []
+    },
+    {
+      "number": 15,
+      "pmid": "42913450",
+      "headline": "When 'brain fog' in lupus turns out to be real cognitive impairment \u2014 in nearly half of patients tested",
+      "verdict": "minor",
+      "notes": "All reported figures (50 patients, 12 months, 46.4% / 39.3% mild / 7.1% major, 39.3% isolated weakness, 50% white matter disease, 10% atrophy, 86% medication optimization, 8% immunotherapy escalation) match. One caveat asserts demographics the abstract never reports.",
+      "issues": [
+        {
+          "label": "Demographic claim not in abstract",
+          "severity": "Minor",
+          "as_written": "The lupus population skews younger and predominantly female, so findings may not generalize to older adults broadly.",
+          "abstract_says": "The Neuro-Lupus Program evaluated 50 patients with SLE referred for any neurocognitive concern over a 12-month period.",
+          "problem": "The abstract reports no age or sex distribution for the 50 patients, so the stated skew is unverifiable from abstract only (even if it reflects general knowledge about SLE).",
+          "suggested_fix": "Reframe as 'the abstract does not report participants' ages or sex, and SLE cohorts are typically younger and predominantly female, so applicability to older adults is unclear.'"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42901980",
+      "headline": "A new cholesterol pathway in Parkinson's \u2014 and a word of caution about the magnesium headline",
+      "verdict": "accurate",
+      "notes": "Faithful to the abstract on ABCA1 elevation in substantia nigra, astrocytic efflux, lysosomal cholesterol import, autophagy impairment, \u03b1-synuclein pathology, genetic silencing effects and magnesium citrate as an ABCA1 inhibitor in mice. Preclinical status is clearly flagged and the magnesium angle is handled with explicit caution.",
+      "issues": []
+    }
+  ]
+}

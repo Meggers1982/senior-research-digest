@@ -1,0 +1,924 @@
+{
+  "id": "senior-living-research-digest-palliative-care-october-2026-part-2",
+  "filename": "Senior Living Research Digest \u2014 Palliative Care \u2014 October 2026 (Part 2).md",
+  "title": "Senior Living Research Digest \u2014 Palliative Care \u2014 October 2026 (Part 2)",
+  "run_date": "2026-10-28",
+  "coverage_window": "Last 90 days",
+  "journals_searched": "187",
+  "articles_screened": "40",
+  "focus": "palliative care",
+  "topic": "palliative care",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 22,
+  "studies": [
+    {
+      "number": 1,
+      "title": "Mapping What Actually Eases Pain at the End of Life for Older Adults",
+      "journal": "Ageing Res Rev",
+      "published": "2026 Oct 18",
+      "pmid": "42893776",
+      "doi": "10.1016/j.arr.2026.103423",
+      "the_study": "Researchers reviewed 117 studies of pain management strategies for older adults receiving palliative care, sorting them into opioids, non-opioid drugs, procedures, non-drug approaches, education, and multi-part programs. Pain reduction was most consistently reported for procedural interventions (such as nerve blocks or local anesthesia), opioids, and multifaceted interventions; favorable results also showed up for cannabis, music or massage therapy, exercise, and biopsychosocial or care-organization approaches. But 71% of studies focused on cancer patients, most participants averaged only 65 to 74 years old, and 68% of the evidence was rated moderate to low quality.",
+      "why_it_matters": "It gives older adults and their families a realistic menu of pain options beyond opioids alone \u2014 while showing that the people most likely to need palliative pain care, the oldest-old and those with non-cancer illnesses like heart failure or dementia, have barely been studied.",
+      "story_angle_primary": "If pain is part of your serious illness, you can ask your palliative care team about more than one tool at a time \u2014 combinations of medications, a nerve block, and non-drug options like music or massage therapy were all among the approaches with reported benefit. It is reasonable to ask how much evidence supports any option for someone your age and with your specific diagnosis.",
+      "story_angle_secondary": "For senior living and hospice staff: the review highlights that 'multifaceted' approaches \u2014 combining medication with care organization and biopsychosocial support \u2014 were among the most consistently favorable, suggesting pain protocols built around a single drug class may be leaving comfort on the table.",
+      "caveats": "Scoping review, not a meta-analysis \u2014 it maps evidence rather than proving which strategy works best; 68% of included studies were moderate to low quality; heavily skewed toward cancer patients and the 'younger old'; funded in part by the Canadian Institutes of Health Research and Quebec Pain Research Network.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "dementia",
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 2,
+      "title": "Older Cancer Patients Got Lower Opioid Doses \u2014 and Had the Same Pain Relief",
+      "journal": "Drugs Aging",
+      "published": "2026 Oct",
+      "pmid": "42853544",
+      "doi": "10.1007/s40266-026-01328-3",
+      "the_study": "Italian researchers analyzed 113 patients with advanced cancer admitted to an acute palliative care unit, split into under 65 (n=46), 65 to 75 (n=43), and over 75 (n=24). Patients under 65 ended up on significantly higher opioid doses and more complex regimens \u2014 methadone was used mostly in the younger group \u2014 and received higher rescue doses for breakthrough pain. Yet pain intensity improved significantly from admission to discharge in all three age groups, with no difference between them.",
+      "why_it_matters": "It counters the common fear that older patients are automatically undertreated for pain: in a specialist unit, careful lower-dose titration delivered equal comfort, suggesting dose size matters less than how attentively it is adjusted.",
+      "story_angle_primary": "If you or your doctor are worried that a lower opioid dose means you will be left in pain, this study suggests it does not have to: what mattered was frequent reassessment and adjustment. Ask your team how often your pain will be re-evaluated and what the plan is for breakthrough pain, rather than focusing on the number on the prescription.",
+      "story_angle_secondary": "For families advocating for a relative in palliative care: a smaller dose is not evidence of age bias on its own \u2014 but the absence of regular re-titration would be. Ask what the pain score was at admission and what it is now.",
+      "caveats": "Small N (113, with only 24 in the oldest group); single-center in Italy; secondary analysis of an observational study, so it cannot prove lower doses cause equal outcomes; all patients were in a specialist acute palliative care unit, so results may not generalize to nursing homes or general wards.",
+      "score": 27,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 113,
+      "journal_tier": 3,
+      "coverage_state": "widely_reported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 0,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": [
+        "Clinical Pain Advisor",
+        "Pharmacy Times",
+        "American Council on Science and Health"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "A Hospital Pharmacy Audit Found Preventive Pills Often Stopped Abruptly at the End of Life",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec",
+      "pmid": "42731737",
+      "doi": "10.1016/j.jpainsymman.2026.09.009",
+      "the_study": "Researchers tracked medications at five timepoints for 386 adults admitted to an Australian metropolitan palliative care unit in 2023 (median age 78, interquartile range 69 to 87). Polypharmacy was more common in patients admitted for symptom management and those with endocrine conditions, and less common in the terminal phase and in patients aged 80 and over. Preventive medications were frequently discontinued, symptom-directed medications increased over time \u2014 but drugs that are generally supposed to be tapered, including proton pump inhibitors, beta-blockers, and antidepressants, were often stopped outright with no observed dose reduction first.",
+      "why_it_matters": "Stopping certain medications abruptly can cause rebound symptoms, withdrawal, or discomfort at precisely the moment comfort is the whole point of care \u2014 and this audit suggests it happens routinely.",
+      "story_angle_primary": "When your care goals shift toward comfort, it is fair to ask which of your medications are being stopped and whether any of them need to be tapered rather than halted \u2014 antidepressants, beta-blockers, and stomach-acid drugs are the common ones that can cause problems if dropped suddenly.",
+      "story_angle_secondary": "For families and senior living nurses: a formal medication review at each transition \u2014 admission, day five, and the shift to the terminal phase \u2014 is a concrete thing to request, and this study shows tapering plans are the step most likely to be skipped.",
+      "caveats": "Retrospective and observational, single palliative care unit in Melbourne; chart-based, so a taper may sometimes have occurred before admission without being documented; cannot show whether abrupt cessation caused harm.",
+      "score": 68,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 386,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "depression",
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 4,
+      "title": "Letting ICU Nurses Trigger Palliative Care Referrals Nearly Tripled Consults \u2014 and Code Blues Fell",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 21",
+      "pmid": "42904749",
+      "doi": "10.1097/NJH.0000000000001276",
+      "the_study": "A New Jersey medical center introduced a protocol in which ICU nurses screened every admitted patient against standardized palliative care referral criteria and triggered a consult when criteria were met. Palliative care consults rose from 179 in 2023 to 471 in 2024 (a 163% increase) and 435 in 2025. Code blues in the ICU dropped from 33 to 26 in 2024 and 29 in 2025, and 87% of ICU staff said the screening process positively affected their practice.",
+      "why_it_matters": "Delayed palliative care in intensive care means untreated symptoms, unwanted invasive procedures, and missed hospice time \u2014 this shows a simple nurse-driven checklist can unlock access without waiting for a physician to think of it.",
+      "story_angle_primary": "If you or a loved one lands in intensive care, you do not have to wait to be offered a palliative care consult \u2014 you can ask for one directly, and ask whether the hospital screens every ICU patient for it. Palliative care is about symptom control and clarifying your wishes; it is not the same as giving up on treatment.",
+      "story_angle_secondary": "For senior living operators and hospital leaders: this is a low-cost, replicable quality improvement model \u2014 a standardized screening tool in nursing hands \u2014 with measurable effects on consults and resuscitation events, and strong staff buy-in.",
+      "caveats": "Quality improvement project at a single medical center with no control group; before-and-after design means other changes over the same period could explain the results; the drop in code blues is not proven to be caused by the protocol; staff satisfaction is self-reported.",
+      "score": 57,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 5,
+      "title": "Noisy Breathing at the Bedside: 1 in 4 Bereaved Families Show PTSD Symptoms After Witnessing It",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec;72(6):742-751",
+      "pmid": "42727789",
+      "doi": "10.1016/j.jpainsymman.2026.09.006",
+      "the_study": "Researchers surveyed 1,068 bereaved family members of people who died of cancer at 140 palliative care units and inpatient hospices across Japan, asking about two common end-of-life breathing changes: death rattle (gurgling from airway secretions) and agonal breathing (irregular gasping in the final hours). Among the 311 who recalled death rattle and 392 who recalled agonal breathing, about 27% of those who found the experience very distressing screened positive for PTSD symptoms, and higher distress roughly doubled the odds of a positive screen. Receiving an explanation from staff helped families accept the signs as part of natural dying, but did not by itself reduce PTSD screening rates.",
+      "why_it_matters": "These breathing changes are nearly universal at the end of life and are often dismissed as harmless to the patient \u2014 but this is some of the strongest evidence yet that what families see and hear at the bedside can leave lasting psychological marks.",
+      "story_angle_primary": "If you are planning your own end-of-life care or sitting vigil with a spouse or friend, you can ask the hospice team in advance what the last hours may look and sound like, whether noisy breathing is causing the patient distress, and what repositioning or medication options exist \u2014 and give yourself permission to step out of the room.",
+      "story_angle_secondary": "For hospice and senior living staff: a one-time explanation may not be enough. Consider checking back with families during and after the dying process, and building bereavement follow-up that specifically screens for intrusive memories of the death scene.",
+      "caveats": "Cross-sectional, observational design that cannot establish causation; relies on self-reported recall after the death and a brief 3-item PTSD screening tool rather than clinical diagnosis; conducted entirely in Japanese inpatient hospices among cancer deaths, so cultural and setting differences may limit generalizability.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 6,
+      "title": "What Actually Makes or Breaks a Family Caregiver During Home Hospice",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec;72(6):e477-e490",
+      "pmid": "42680076",
+      "doi": "10.1016/j.jpainsymman.2026.08.016",
+      "the_study": "Researchers screened nearly 8,000 records and synthesized 19 qualitative studies from 13 countries to map what determines the well-being of family members caring for a dying relative at home. They found four interconnected layers: personal factors (coping skills, health literacy, prior caregiving experience), relational factors (relationship quality, family dynamics, social support), care demands (symptom management, nighttime needs, intensity), and system factors (service access, quality of interactions with clinicians, money, cultural expectations). The quality of the relationship with professional caregivers and the availability of comprehensive support emerged as pivotal.",
+      "why_it_matters": "Most home deaths depend on an unpaid family member, and this synthesis points to concrete fixes \u2014 a named point of contact, overnight support, caregiver-specific assessment \u2014 rather than vague advice to \"take care of yourself.\"",
+      "story_angle_primary": "If you're planning to die at home, ask early who will support your family member overnight and who their single named contact will be when something goes wrong at 3 a.m. \u2014 the research suggests that answer shapes whether home care holds together.",
+      "story_angle_secondary": "For agencies and senior living operators: the findings argue for formally assessing the caregiver as a second client \u2014 across personal, relational, practical, and financial domains \u2014 and tailoring support to cultural expectations about family duty, not just handing over a symptom-management checklist.",
+      "caveats": "Qualitative evidence synthesis, not primary data; findings reflect themes across 19 studies of varying quality and cannot quantify how common or strong any determinant is; included studies span 13 countries with differing health systems, so applicability to any single setting varies.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 7,
+      "title": "Delirium Is Common at the End of Life \u2014 and Often Mistaken for Dementia",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 14 (online ahead of print)",
+      "pmid": "42873521",
+      "doi": "10.1097/NJH.0000000000001261",
+      "the_study": "This clinical review synthesizes what is known about acute delirium in hospice and palliative care, where it is highly prevalent. The authors describe its three forms \u2014 hypoactive (quiet, withdrawn), hyperactive (agitated), and mixed \u2014 note that it fluctuates through the day and is frequently confused with dementia, and link it to longer hospital stays, higher costs, greater odds of institutionalization, and shorter survival. They argue for routine screening with validated tools and a non-drug-first approach: early mobility, hydration, sleep-wake regulation, and careful medication stewardship.",
+      "why_it_matters": "A sudden change in attention or awareness in an older adult is often treatable and is not the same as dementia progressing \u2014 recognizing the difference can change both the care plan and the final weeks of life.",
+      "story_angle_primary": "If your thinking or alertness changes abruptly over hours or days \u2014 rather than gradually over months \u2014 ask your care team to screen for delirium and review your medication list, because the cause is often reversible even during palliative care.",
+      "story_angle_secondary": "For families and senior living staff: the quiet, withdrawn form of delirium is the one most often missed. Flag sudden fluctuating confusion to the nurse the same day, and support the basics \u2014 daylight, hydration, familiar faces, consistent sleep \u2014 that the evidence favors over sedating medication.",
+      "caveats": "This is a narrative clinical review, not original research; it presents no new patient data, effect sizes, or control group, and recommendations reflect expert synthesis of existing literature.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "dementia",
+        "falls",
+        "palliative care",
+        "polypharmacy",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 8,
+      "title": "Talking About Grief Helps Cancer Doctors in Training \u2014 And Costs Almost Nothing",
+      "journal": "J Palliat Med",
+      "published": "2026 Nov;29(11):1606-1609",
+      "pmid": "42634408",
+      "doi": "10.1177/10966218261483467",
+      "the_study": "At one large academic hematology/oncology fellowship program, a palliative care physician led four structured debriefing sessions for trainees, who completed a survey after each (43 surveys total). More than 80% reported professional grief in the prior six months and nearly half reported personal grief; 88% said the sessions gave them time and space to discuss grief, 79% reported benefit after just the first session, and every respondent wanted the sessions to continue.",
+      "why_it_matters": "Clinician burnout directly affects the quality and continuity of care older adults receive at the end of life, and this suggests a low-cost structural fix rather than asking individuals to be more resilient.",
+      "story_angle_primary": "Little here calls for action on your part, but it's a reminder that the oncologist or hospice physician sitting with you is also carrying accumulated loss \u2014 and that programs supporting them are part of what keeps experienced clinicians at the bedside.",
+      "story_angle_secondary": "For senior living and hospice administrators: a recurring, protected debriefing hour led by someone with palliative care expertise is an inexpensive, well-received model that could be adapted for nursing and direct-care staff facing repeated resident deaths.",
+      "caveats": "Pilot study with no control group, single-center, 43 surveys from a small fellowship cohort, and outcomes are entirely self-reported satisfaction and perceived benefit rather than validated burnout measures or longer-term retention.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cost & policy",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 9,
+      "title": "When a Hospital Asks a Court to Take Over Your Decisions: What the Records Show",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 26",
+      "pmid": "42929333",
+      "doi": "10.1111/jgs.70782",
+      "the_study": "Researchers reviewed county probate court records and medical charts for 236 adults aged 60 and older for whom a large academic health system filed guardianship petitions between January 2019 and September 2024. Of the 217 petitions actually heard in court, 215 (99%) ended with a guardian being appointed. Medicaid recipients were less likely to get a guardian they already knew personally, and people with less formal education were more likely to receive full rather than limited guardianship; more restrictive guardianship was linked to a lower chance of going home at discharge.",
+      "why_it_matters": "Guardianship strips away the right to make your own medical, financial, and housing decisions, and these data suggest that once a hospital files, the outcome is nearly automatic and that poorer, less-educated older adults fare worst.",
+      "story_angle_primary": "The single most powerful protection against hospital-initiated guardianship is naming your own decision-maker before a crisis: ask your doctor to help you complete a durable power of attorney for health care and a financial power of attorney, name a backup, and make sure your hospital has copies on file. If a guardianship petition is ever filed on your behalf, you have the right to legal representation and to argue for a limited rather than full guardianship.",
+      "story_angle_secondary": "For hospital social workers, discharge planners, and senior living staff: this study points to guardianship as a discharge tool with consequences \u2014 more restrictive guardianships were tied to fewer discharges home. Consider auditing how often your organization petitions, whether ethics and palliative care consults happen first, and whether less restrictive alternatives (supported decision-making, surrogate statutes, representative payees) were genuinely exhausted.",
+      "caveats": "Observational, retrospective chart and court-record review from a single academic health system in one state; cannot establish causation, and guardianship law and practice vary widely by state, so findings may not generalize.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 236,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cost & policy",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 10,
+      "title": "Frailer Cancer Patients Are Getting Palliative Care Only After They're Hospitalized",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec",
+      "pmid": "42607784",
+      "doi": "10.1016/j.jpainsymman.2026.08.008",
+      "the_study": "Researchers analyzed electronic health records for 1,053 patients with advanced solid-tumor cancer who received palliative care at Parkland Health, a large safety-net system in Dallas, between 2018 and 2023 (mean age 57.7; 75% non-White). Nearly 70% had at least mild frailty. Patients with moderate-to-severe frailty had roughly 3.5 times the odds of first encountering palliative care as a hospital inpatient consultation rather than an outpatient clinic referral, and 4.5 times the odds of only ever getting palliative care in the hospital.",
+      "why_it_matters": "The people most likely to benefit from early, planned palliative care \u2014 the frailest patients \u2014 appear to be reaching it only during an acute hospital stay, when there is less time for symptom control, goals-of-care conversations, and advance planning.",
+      "story_angle_primary": "If you or someone you love has advanced cancer and has been slowing down \u2014 losing weight, falling, needing more help with daily tasks \u2014 don't wait for a hospitalization to meet the palliative care team. Ask your oncologist directly for an outpatient palliative care referral; it is not hospice, and it can run alongside active cancer treatment.",
+      "story_angle_secondary": "For clinicians and care navigators in safety-net and community settings: frailty measures already embedded in the chart could be used as an automatic trigger for outpatient palliative referral, rather than letting an emergency admission become the entry point. The findings also raise access questions \u2014 transportation, insurance, and clinic capacity \u2014 worth examining locally.",
+      "caveats": "Observational, single-system safety-net population with a relatively young mean age (57.7), so results may not generalize to typical older adult or insured populations; frailty was measured with an electronic index derived from billing and chart data; design cannot establish causation.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 1053,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care",
+        "sarcopenia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 11,
+      "title": "Why Families Change Their Minds About Dying at Home",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec",
+      "pmid": "42617989",
+      "doi": "10.1016/j.jpainsymman.2026.08.004",
+      "the_study": "Researchers systematically pooled findings from nine qualitative studies of palliative care patients and their caregivers who moved from home care to an inpatient setting near the end of life. Three themes emerged: what triggered the move (symptom crises, caregiver exhaustion, treatment preferences, and reluctance to actually die at home), worries about inpatient care (continuity, communication, comfort), and looking back \u2014 caregivers generally judged the transfer the right decision and described a calmer stretch of time with their loved one afterward. The authors conclude that preferred place of death is not a fixed choice but shifts with illness, caregiver capacity, and available services.",
+      "why_it_matters": "The widespread assumption that everyone wants to die at home can leave families feeling they have failed when a transfer becomes necessary \u2014 this synthesis reframes the move as a legitimate, often relieving decision.",
+      "story_angle_primary": "If you have said you want to die at home, it's worth saying out loud what should happen if symptoms become uncontrollable or your caregiver can no longer cope \u2014 give the people around you explicit permission to change the plan, and revisit that conversation as your illness changes.",
+      "story_angle_secondary": "For caregivers and senior living staff: the findings validate what many feel but rarely say \u2014 that a transfer to an inpatient unit can restore the relationship by taking the nursing work off the family member's shoulders. Framing transfer as a planned contingency rather than a failure, and addressing the specific fears identified (loss of continuity, poor communication, discomfort), can ease guilt.",
+      "caveats": "Qualitative evidence synthesis of only nine studies across varied health systems and cultures; findings describe experiences rather than measure outcomes and may not generalize to all settings.",
+      "score": 42,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": [
+        "RochesterFirst"
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Bedside Signs Still Beat Scoring Systems for Predicting the Final Days",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec",
+      "pmid": "42660371",
+      "doi": "10.1016/j.jpainsymman.2026.08.005",
+      "the_study": "Researchers reviewed records of 290 people who died on palliative care beds at a tertiary referral center, comparing three prognostic tools \u2014 the Palliative Prognostic Index, Palliative Performance Scale, and Short-Term Prognosis Signs \u2014 for predicting death within three days. In 166 cancer patients, combining PPI with observed clinical signs performed best (area under the curve 0.72), only modestly better than the bedside signs alone. In 124 noncancer patients, the tools performed similarly but modestly (AUC about 0.69), meaning accuracy remains limited for people dying of heart, lung, kidney, or neurologic disease.",
+      "why_it_matters": "Families routinely ask \"how long?\" and these data show that even the best available tools give clinicians only a rough estimate \u2014 especially outside of cancer.",
+      "story_angle_primary": "If you are told a loved one has \"days\" left, understand that even validated tools are only moderately accurate \u2014 ask what specific signs the team is seeing rather than fixating on a number, and make the visits, calls, and goodbyes you want sooner rather than later.",
+      "story_angle_secondary": "For hospice and senior living staff: this supports using observable clinical signs at the bedside as a practical core of short-term prognostication while being transparent with families about uncertainty, and it highlights how much weaker the evidence base is for noncancer dying trajectories common in long-term care.",
+      "caveats": "Retrospective, single-center study of patients who had already died on a palliative care unit; modest sample sizes in each group; discrimination was only moderate and the authors call for prospective validation.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 290,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 13,
+      "title": "Pancreatic Cancer Patients Say Palliative Care Was Explained to Them Badly \u2014 or Not at All",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 8",
+      "pmid": "42842360",
+      "doi": "10.1097/NJH.0000000000001272",
+      "the_study": "Researchers conducted semistructured interviews in 2024\u20132025 with 21 adults in Southern California \u2014 patients with advanced pancreatic ductal adenocarcinoma and their family caregivers, many of Latino background \u2014 about what made their care feel effective and compassionate. Four themes emerged: a diagnostic journey marked by delays and sustained by family and faith; navigation barriers including financial strain and difficult interactions with staff; end-of-life and palliative care conversations that were frequently misunderstood; and a call for holistic, practical, culturally responsive support.",
+      "why_it_matters": "A recurring finding is that patients and families misread what palliative care is, which delays symptom relief and support that could be running alongside treatment.",
+      "story_angle_primary": "If a clinician raises \"palliative care\" and you hear \"giving up,\" stop and ask them to spell out exactly what the team would do for you \u2014 pain and nausea control, nutrition, financial and transportation help, family support \u2014 and whether you can keep receiving cancer treatment at the same time. Bring a family member and ask for information in your preferred language.",
+      "story_angle_secondary": "For care teams and family caregivers: the interviews point to concrete fixes \u2014 plain-language explanations of palliative care, bilingual and culturally matched navigators, upfront discussion of financial strain, and acknowledging the role of faith and extended family in decision-making.",
+      "caveats": "Small exploratory qualitative study (N=21) at a single health system in Southern California with a largely Latino sample; findings are experiential, not generalizable statistics, and no comparison group.",
+      "score": 50,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 21,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 14,
+      "title": "Letting Nurses Make the Referral Nearly Tripled Palliative Care Consults on One Hospital Unit",
+      "journal": "J Hosp Palliat Nurs",
+      "published": "2026 Oct 9",
+      "pmid": "42853191",
+      "doi": "10.1097/NJH.0000000000001273",
+      "the_study": "A quality improvement project on a 31-bed adult medical-surgical unit trained 20 nurses to use a standardized screening tool for unmet palliative care needs during admission and transfer assessments. Referrals rose from 3 in the 8 weeks before implementation to 8 in the 8 weeks after, and the palliative care team judged every one of the new referrals appropriate. Nurses' knowledge scores improved substantially after the education session.",
+      "why_it_matters": "Palliative care consults often come late because nurses who spot unmet needs wait for a physician to act; a simple screening checklist appears to close part of that gap without generating inappropriate referrals.",
+      "story_angle_primary": "Nurses often notice uncontrolled pain, breathlessness, or distress before anyone else does \u2014 if you are hospitalized and struggling with symptoms, you or your family can ask any member of the care team, including your nurse, to request a palliative care consultation.",
+      "story_angle_secondary": "For nurse leaders and senior living clinical directors: a brief education session plus a structured screening prompt at admission and transfer is a low-cost, testable change that strengthened nursing advocacy and produced referrals the specialist team deemed appropriate.",
+      "caveats": "Small single-unit quality improvement project with no control group, tiny absolute numbers (3 versus 8 referrals over 8 weeks), very short follow-up, and knowledge measured by self-administered testing; results may not generalize to other units or facilities.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 15,
+      "title": "For Agitated Delirium at the End of Life, Lorazepam Hit Families' Comfort Goals Better Than Haloperidol Alone",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec",
+      "pmid": "42586325",
+      "doi": "10.1016/j.jpainsymman.2026.08.003",
+      "the_study": "In a planned secondary analysis of the multicenter, double-blind RECORD randomized trial, researchers asked caregivers of patients with advanced cancer and persistent agitation to define a \"personalized sedation goal\" \u2014 how calm or alert they wanted their loved one to be \u2014 and then compared four treatments: escalated haloperidol, lorazepam, both combined, or placebo. Among 67 patients with caregiver-defined goals, treated in acute palliative care units in the United States and Taiwan, the goal was met at 24 hours in 77% of the lorazepam group and 62% of the combination group, versus just 21% with haloperidol alone (lorazepam vs. haloperidol odds ratio 12.2). Placebo achieved the goal 54% of the time.",
+      "why_it_matters": "Agitated delirium in the final days is one of the most distressing things families witness, and this is direct randomized evidence that the drug choice \u2014 and the family's own stated comfort goal \u2014 meaningfully changes whether that distress is relieved.",
+      "story_angle_primary": "If you are thinking ahead about your own end-of-life care, know that \"how awake versus how settled do I want to be if I become agitated\" is a question you can answer in advance. Raising it with your clinician or writing it into an advance directive gives your family and care team a target to aim for rather than a guess.",
+      "story_angle_secondary": "For families and hospice staff: this trial validates a practical tool \u2014 asking the caregiver to define the sedation goal up front \u2014 and shows that haloperidol alone frequently fails to reach it. Caregivers can reasonably ask the palliative team what medication plan is being used and whether a benzodiazepine-based regimen has been considered when agitation persists.",
+      "caveats": "Small sample (67 patients analyzed, roughly 13-14 per treatment arm, from an original 111 enrolled), secondary analysis rather than the trial's primary endpoint, conducted in specialized acute palliative care units that may not reflect nursing home or home hospice settings, and short 24-hour outcome window.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 16,
+      "title": "Most Patients With Advanced Cancer Change Opioids at Least Once \u2014 and Doses Roughly Double Each Time",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec",
+      "pmid": "42607783",
+      "doi": "10.1016/j.jpainsymman.2026.08.006",
+      "the_study": "Australian researchers tracked complete opioid prescribing records for 200 adults with advanced cancer from diagnosis through death. Fifty-eight percent switched opioids at least once, and some switched up to four times; the starting dose at each successive switch approximately doubled (20 mg morphine-equivalent for the first opioid, then 30, 60, and 180 mg), while the time spent on each drug grew shorter (39 days, then 25, then 18). Inadequate pain relief drove 58% of switches, and palliative care specialists initiated a rising share of them \u2014 31% of first opioids but 89% of third switches.",
+      "why_it_matters": "It normalizes something patients and families often read as failure: needing to change pain medicines, sometimes repeatedly, is the usual trajectory in advanced cancer, not a sign that something went wrong.",
+      "story_angle_primary": "If your pain medicine stops working as well as it used to, that is common and expected \u2014 not a sign you are \"addicted\" or have run out of options. Ask whether switching to a different opioid is worth trying, and ask for a referral to specialist palliative care, since these were the clinicians handling the most complex switches in this study.",
+      "story_angle_secondary": "For families and care home staff: escalating doses and more frequent medication changes late in the illness reflect a documented pattern of disease progression rather than overprescribing. Knowing that the interval between changes shortens can help you anticipate when to push for a palliative care review rather than waiting for the next crisis.",
+      "caveats": "Retrospective observational cohort \u2014 describes patterns but cannot show that switching causes better pain control; single health service in Melbourne, Australia; prescribing practices and opioid availability differ substantially by country; findings apply to advanced cancer and may not generalize to non-cancer pain in older adults.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 200,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 17,
+      "title": "Linking Nursing Homes to Palliative Care Teams Cut Hospital Trips and Eased Symptoms, Review Finds",
+      "journal": "Palliat Med",
+      "published": "2026 Oct 26",
+      "pmid": "42929149",
+      "doi": "10.1177/02692163261485105",
+      "the_study": "Australian researchers systematically reviewed 32 studies (37 publications) published between 2000 and August 2025 that tested formal ways of connecting specialist palliative care services with aged care providers. Three strategies emerged: designated \"linkage workers\" who bridge the two sectors, structured communication pathways, and collaborative care processes \u2014 with twelve distinct models of care combining elements of all three. Reported outcomes included stronger interprofessional communication, higher staff confidence, reduced use of acute hospital care, and less symptom distress for residents near the end of life, though outcomes reported directly by residents and family carers were sparse.",
+      "why_it_matters": "Older adults in residential aged care are consistently underserved by palliative care, and this review points to concrete organizational arrangements \u2014 not just more training \u2014 that appear to keep dying residents more comfortable and out of the emergency department.",
+      "story_angle_primary": "If you are choosing a care home or assisted living community, ask a specific question: what is the formal arrangement with a palliative care service? Look for a named link nurse or liaison, set communication channels, and joint case reviews \u2014 not just a promise that \"we can call someone.\"",
+      "story_angle_secondary": "For senior living operators and administrators: the review identifies three replicable building blocks \u2014 a designated linkage worker, defined communication pathways, and shared care processes \u2014 and documents reduced acute care utilization as a system-level return. For family caregivers, it is a reminder to ask who coordinates between the facility and outside specialists when a resident's condition declines.",
+      "caveats": "Systematic review of heterogeneous studies of varying quality rather than new primary data; resident- and carer-reported outcomes such as quality of life were minimally measured; studies drawn from varied health systems that may not map onto US nursing home or assisted living regulation.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "meta-analysis",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "caregiving",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 18,
+      "title": "Feeding Tube Decisions in Advanced Cancer Hinge on a Narrow 'Window of Opportunity,' Clinicians Say",
+      "journal": "Palliat Med",
+      "published": "2026 Oct 23",
+      "pmid": "42922280",
+      "doi": "10.1177/02692163261496702",
+      "the_study": "Researchers interviewed 21 UK healthcare professionals \u2014 dietitians, clinical nurse specialists, and speech and language therapists \u2014 about how they manage nutrition in patients with advanced head and neck cancer, a group at high risk of malnutrition because of tumor location and treatment side effects. Four themes emerged: the need for individualized nutritional care; complex feeding tube decisions shaped by prognosis, patient preference, and a time-limited \"window of opportunity\" when a tube can still be safely placed; mismatched expectations between patients and their families; and nutritional goals that shift as disease progresses, moving from maintaining weight toward comfort and pleasure in eating.",
+      "why_it_matters": "Families often experience food and feeding as the central battleground of late-stage illness, and this study names the specific tensions \u2014 timing, differing expectations, and changing goals \u2014 that make those conversations so hard.",
+      "story_angle_primary": "If a feeding tube has been mentioned, ask directly about timing: clinicians describe a limited window when placement is still feasible, and delaying a decision can close options. Ask too what the goal of feeding is now \u2014 weight maintenance, comfort, or the enjoyment of eating \u2014 because that goal legitimately changes as illness advances.",
+      "story_angle_secondary": "For families and caregivers: professionals in this study repeatedly described gaps between what patients want and what relatives expect around eating and tube feeding. Naming that difference out loud \u2014 and asking the dietitian or nurse specialist to mediate \u2014 may prevent food from becoming a source of conflict at the bedside.",
+      "caveats": "Small qualitative study (N=21) of clinicians only \u2014 no patients or family carers were interviewed; UK-based and specific to advanced head and neck cancer, so findings may not generalize to dementia-related feeding decisions or other populations; descriptive design cannot establish which approaches produce better outcomes.",
+      "score": 50,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": 21,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "nutrition",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 19,
+      "title": "When Patients Say They Want to Die, Loss of Meaning \u2014 Not Pain \u2014 Is the Strongest Signal",
+      "journal": "J Palliat Med",
+      "published": "2026 Oct 22",
+      "pmid": "42918739",
+      "doi": "10.1177/10966218261500244",
+      "the_study": "Researchers at a university hospital in Argentina interviewed 100 consecutive patients with stage IV cancer who were under active palliative care follow-up between January 2024 and December 2025. Using a structured interview, 35% expressed some wish to hasten death, though most scored at the low end of severity and were not actively planning anything. Patients with a stronger wish to hasten death had higher overall symptom burden (median ESAS-r 41 vs. 31) and far higher rates of demoralization (62.9% vs. 23.1%); in the statistical model, demoralization \u2014 a sense of meaninglessness, hopelessness and lost dignity \u2014 was the only independent predictor (odds ratio 6.56).",
+      "why_it_matters": "A stated wish to die is common in advanced illness and is more often a signal of eroded meaning and feeling like a burden than a settled decision \u2014 meaning it can be responded to with dignity-focused and existential support, not just more medication.",
+      "story_angle_primary": "If thoughts of wanting your illness to end faster have crossed your mind, you are far from alone \u2014 roughly one in three people in this study felt the same, and most were not planning anything. Saying it out loud to your palliative care team opens the door to help with the things that actually drive it: feeling useless, feeling like a burden, losing a sense of purpose.",
+      "story_angle_secondary": "For families and hospice staff, this reframes a frightening statement as information rather than an emergency: ask what has changed in the person's sense of meaning or dignity, and press the care team for a formal demoralization or existential assessment rather than assuming the problem is purely physical.",
+      "caveats": "Cross-sectional observational design at a single Argentine university hospital with N=100, so no causal conclusions; all participants had stage IV cancer, and findings may not generalize to non-cancer illness, other cultures, or very old frail adults. Wish to hasten death and symptom burden were self-reported.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 100,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 20,
+      "title": "Advance Care Planning Conversations in ALS Deliver What Patients Asked For \u2014 91% of the Time",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec",
+      "pmid": "42586324",
+      "doi": "10.1016/j.jpainsymman.2026.08.002",
+      "the_study": "Italian researchers reviewed records for 1,219 people with ALS in a population-based register in Turin covering 2008 to 2020. Just over half (53.7%) had documented advance care planning discussions, and among those, what actually happened at the end of life matched the person's stated wishes 90.8% of the time. Advance care planning was linked to palliative care activation, feeding-tube placement and dying at home; it was less likely to happen in people with cognitive impairment or frontotemporal dementia, and rates rose over the decade from 51.6% to 61.9% after Italy's 2017 self-determination law.",
+      "why_it_matters": "It is rare to see hard evidence that documented conversations actually translate into the care people said they wanted, and the finding that cognitive impairment cuts people out of the process argues for having these talks early, before thinking changes.",
+      "story_angle_primary": "If you are living with a progressive illness, having a documented advance care planning conversation is the single most reliable way to make sure your preferences \u2014 including dying at home \u2014 are the ones carried out. Ask for that conversation earlier than feels necessary, while you can fully participate in it.",
+      "story_angle_secondary": "For families and care staff, the gap is the people with cognitive or behavioral changes, who were significantly less likely to have these discussions at all; flag anyone showing early thinking changes for a tailored, simplified planning conversation before the window closes.",
+      "caveats": "Retrospective, observational register study \u2014 it cannot prove that advance care planning caused the outcomes, since people who engage in planning may differ in other ways. Single Italian region with a well-organized ALS center and a specific national law, so results may not generalize to other health systems or to non-ALS populations.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 1219,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 21,
+      "title": "The Words Hospice Staff Use for End-of-Life Confusion May Change the Treatment Patients Get",
+      "journal": "Palliat Med",
+      "published": "2026 Oct 22",
+      "pmid": "42910992",
+      "doi": "10.1177/02692163261491837",
+      "the_study": "Researchers reanalyzed qualitative interviews with 25 clinicians \u2014 doctors, nurses, healthcare assistants and allied health professionals \u2014 at two UK hospices, examining how they described delirium, agitation and withdrawal in patients' final days. The word 'delirium' was rarely used, especially by non-medical staff, who described behavior instead. When staff did name delirium, decision-making about assessment and treatment was more transparent; when terms like 'terminal agitation' or 'confusion' were used, sedation was emphasized more heavily. Quiet, withdrawn (hypoactive) delirium was poorly recognized and almost never named or treated.",
+      "why_it_matters": "Delirium at the end of life often has reversible contributors such as pain, infection, constipation or medication, and the label a clinician reaches for can determine whether anyone looks for those causes or simply reaches for a sedative.",
+      "story_angle_primary": "If a loved one \u2014 or you, in your own advance planning \u2014 may face confusion in the final days, it is reasonable to ask the care team directly: 'Is this delirium, and have you looked for a cause such as pain, infection or a medication?' Naming it appears to change what happens next.",
+      "story_angle_secondary": "For hospice and senior living staff, this is a prompt to standardize terminology across the whole team, not just physicians, and to specifically train for quiet, withdrawn delirium, which this study found was almost invisible in everyday conversation and care planning.",
+      "caveats": "Small qualitative study (25 clinicians) and a secondary analysis of data collected for another purpose; only two UK hospices, so findings may not generalize. It documents how clinicians talk, not measured patient outcomes, and cannot establish that terminology causes differences in care.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "palliative care",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 22,
+      "title": "Agitation in the Final Days of Dementia Has No Agreed Definition \u2014 and No Validated Way to Measure It",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Oct 16",
+      "pmid": "42885674",
+      "doi": "10.1177/13872877261496316",
+      "the_study": "Australian dementia and palliative care specialists reviewed what is known about terminal agitation \u2014 also called terminal restlessness or terminal delirium \u2014 in people dying with dementia. They report that no validated clinical tool exists to identify it, that clinicians use inconsistent terminology, and that it is frequently confused with the behavioral and psychological symptoms of dementia or with untreated pain, leaving prevalence estimates all over the map. The authors lay out research priorities, starting with agreed diagnostic criteria and an assessment tool.",
+      "why_it_matters": "Families often witness distressing restlessness in the last days of a relative's dementia and are told it is simply 'part of dying,' when it may reflect untreated pain or delirium that could be identified and eased if clinicians had tools to tell the difference.",
+      "story_angle_primary": "If you are planning ahead for advanced dementia, it is worth writing into your care wishes that pain and delirium should be actively checked for in your final days, since this review shows agitation at the end of life is easily misread.",
+      "story_angle_secondary": "For families and dementia care staff, the practical takeaway is to document and describe the behavior you are seeing in detail \u2014 timing, triggers, possible pain \u2014 rather than accepting a vague label, because there is currently no standard test and your observations are the primary evidence clinicians have.",
+      "caveats": "This is a narrative review and commentary setting research priorities, not new primary data; it presents no patient-level findings, prevalence figures or treatment comparisons, and the authors are affiliated with a single Australian aged- and palliative-care provider (HammondCare).",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42893776",
+      "journal": "Ageing Res Rev",
+      "date": "2026 Oct 18",
+      "doi": "10.1016/j.arr.2026.103423"
+    },
+    {
+      "pmid": "42853544",
+      "journal": "Drugs Aging",
+      "date": "2026 Oct",
+      "doi": "10.1007/s40266-026-01328-3"
+    },
+    {
+      "pmid": "42731737",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.jpainsymman.2026.09.009"
+    },
+    {
+      "pmid": "42904749",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 21",
+      "doi": "10.1097/NJH.0000000000001276"
+    },
+    {
+      "pmid": "42727789",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec;72(6):742-751",
+      "doi": "10.1016/j.jpainsymman.2026.09.006"
+    },
+    {
+      "pmid": "42680076",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec;72(6):e477-e490",
+      "doi": "10.1016/j.jpainsymman.2026.08.016"
+    },
+    {
+      "pmid": "42873521",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 14 (online ahead of print)",
+      "doi": "10.1097/NJH.0000000000001261"
+    },
+    {
+      "pmid": "42634408",
+      "journal": "J Palliat Med",
+      "date": "2026 Nov;29(11):1606-1609",
+      "doi": "10.1177/10966218261483467"
+    },
+    {
+      "pmid": "42929333",
+      "journal": "J Am Geriatr Soc",
+      "date": "2026 Oct 26",
+      "doi": "10.1111/jgs.70782"
+    },
+    {
+      "pmid": "42607784",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.jpainsymman.2026.08.008"
+    },
+    {
+      "pmid": "42617989",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.jpainsymman.2026.08.004"
+    },
+    {
+      "pmid": "42660371",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.jpainsymman.2026.08.005"
+    },
+    {
+      "pmid": "42842360",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 8",
+      "doi": "10.1097/NJH.0000000000001272"
+    },
+    {
+      "pmid": "42853191",
+      "journal": "J Hosp Palliat Nurs",
+      "date": "2026 Oct 9",
+      "doi": "10.1097/NJH.0000000000001273"
+    },
+    {
+      "pmid": "42586325",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.jpainsymman.2026.08.003"
+    },
+    {
+      "pmid": "42607783",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.jpainsymman.2026.08.006"
+    },
+    {
+      "pmid": "42929149",
+      "journal": "Palliat Med",
+      "date": "2026 Oct 26",
+      "doi": "10.1177/02692163261485105"
+    },
+    {
+      "pmid": "42922280",
+      "journal": "Palliat Med",
+      "date": "2026 Oct 23",
+      "doi": "10.1177/02692163261496702"
+    },
+    {
+      "pmid": "42918739",
+      "journal": "J Palliat Med",
+      "date": "2026 Oct 22",
+      "doi": "10.1177/10966218261500244"
+    },
+    {
+      "pmid": "42586324",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.jpainsymman.2026.08.002"
+    },
+    {
+      "pmid": "42910992",
+      "journal": "Palliat Med",
+      "date": "2026 Oct 22",
+      "doi": "10.1177/02692163261491837"
+    },
+    {
+      "pmid": "42885674",
+      "journal": "J Alzheimers Dis",
+      "date": "2026 Oct 16",
+      "doi": "10.1177/13872877261496316"
+    }
+  ],
+  "trends_raw": "Three studies carry over with identical PMIDs \u2014 the age-stratified opioid dosing analysis (PMID 42853544), the pancreatic cancer interview study (PMID 42842360), and the medical-surgical unit nurse screening project (PMID 42853191). The comparison below focuses on what is genuinely new.\n\n**Convergent findings**\n\n- *Nurse-triggered screening keeps producing referrals that specialists judge appropriate.* \"Letting ICU Nurses Trigger Palliative Care Referrals Nearly Tripled Consults \u2014 and Code Blues Fell\" (PMID 42904749) lands on the same mechanism as the previous digest's \"When Nurses Are Empowered to Flag Patients, Palliative Referrals Rise\" (PMID 42853191) and reinforces the lesson from \"Flagged but Not Followed Up\" (PMID 42860763): a screen works when a named person is authorized to act on it.\n- *Organizational arrangements, not training alone, keep frail residents out of the hospital.* \"Linking Nursing Homes to Palliative Care Teams Cut Hospital Trips and Eased Symptoms, Review Finds\" (PMID 42929149) generalizes the single-system result in the previous digest's Modena pathway (PMID 42580497) and the transfer drivers described in the advance care planning scoping review (PMID 42714187).\n- *Misunderstanding, not availability, is the barrier for many families.* \"Pancreatic Cancer Patients Say Palliative Care Was Explained to Them Badly \u2014 or Not at All\" (PMID 42842360) carries forward and sits alongside the previous run's Chinese immigrant hospice study (PMID 42833695) and dharmic-faith outcomes study (PMID 42556759).\n- *Age-tailored lower opioid doses still delivered equal pain relief.* \"Older Cancer Patients Got Lower Opioid Doses \u2014 and Had the Same Pain Relief\" (PMID 42853544) repeats, and the new pain scoping review (PMID 42893776) supplies the surrounding context \u2014 the oldest-old and people with non-cancer illness remain barely studied.\n\n**Advances**\n\n- Deprescribing moves from \"inconsistent and reactive\" to a named failure mode. The previous digest's rapid review \"Stopping Pills Can Be as Important as Starting Them in Hospice Care\" (PMID 42519959) said medication review happens too late; \"A Hospital Pharmacy Audit Found Preventive Pills Often Stopped Abruptly at the End of Life\" (PMID 42731737) shows the specific gap \u2014 beta-blockers, proton pump inhibitors, and antidepressants stopped outright with no documented taper.\n- Advance care planning gains outcome evidence. The previous review (PMID 42714187) showed specific written instructions track with fewer transfers; \"Advance Care Planning Conversations in ALS Deliver What Patients Asked For \u2014 91% of the Time\" (PMID 42586324) shows documented conversations matching what actually happened, while flagging that people with cognitive impairment are left out.\n- Prognostication gets a bedside counterweight. Against the previous digest's machine learning intake model (PMID 42748398) and clinician referral signal in heart failure (PMID 42841449), \"Bedside Signs Still Beat Scoring Systems for Predicting the Final Days\" (PMID 42660371) shows observed signs holding their own against validated scores \u2014 and performing weakly in non-cancer dying.\n- Caregiver burden deepens from strain to measurable harm. \"Noisy Breathing at the Bedside: 1 in 4 Bereaved Families Show PTSD Symptoms After Witnessing It\" (PMID 42727789) and \"What Actually Makes or Breaks a Family Caregiver During Home Hospice\" (PMID 42680076) move past the previous run's loneliness finding (PMID 42492599) into bereavement outcomes and concrete support structures.\n\n**Counterpoints**\n\n- Dying at home is not the universal goal the previous digest's in-place-death results implied. \"Why Families Change Their Minds About Dying at Home\" (PMID 42617989) reframes transfer to an inpatient unit as a legitimate, often relieving decision \u2014 a useful corrective to reading the Modena pathway's 98% in-facility death figure (PMID 42580497) as the only good outcome.\n- On sedation, the evidence pushes in an unexpected direction. \"For Agitated Delirium at the End of Life, Lorazepam Hit Families' Comfort Goals Better Than Haloperidol Alone\" (PMID 42586325) supports benzodiazepine-based regimens, while \"The Words Hospice Staff Use for End-of-Life Confusion May Change the Treatment Patients Get\" (PMID 42910992) warns that reaching for sedation too readily means nobody looks for a reversible cause. Both are right; the sequence matters.\n\n**New themes**\n\n- *Delirium and terminal agitation as a cluster* \u2014 PMIDs 42873521, 42910992, 42885674, and 42586325 \u2014 territory no study in the previous run occupied.\n- *Guardianship and the loss of decision-making rights.* \"When a Hospital Asks a Court to Take Over Your Decisions\" (PMID 42929333) is entirely new: 215 of 217 petitions granted, with poorer and less-educated older adults faring worst.\n- *Existential distress as the driver of a wish to die* (PMID 42918739), where demoralization \u2014 not pain \u2014 was the only independent predictor.\n- *Clinician grief as a workforce intervention* (PMID 42634408), a different kind of workforce story than the previous digest's supply projections (PMID 42546987).\n- *Frailty as the trigger that should come earlier* (PMID 42607784), *opioid switching as a normal trajectory* (PMID 42607783), and *feeding tube timing in advanced cancer* (PMID 42922280).",
+  "feature_pitch_raw": "**The pattern:** Five studies in this batch converge on the last days of life \u2014 the confusion, restlessness, and noisy breathing that families actually witness \u2014 and all five say the same thing from different angles: nobody has agreed on what to call it, how to measure it, or what to do first. \"Delirium Is Common at the End of Life \u2014 and Often Mistaken for Dementia\" (PMID 42873521) and \"Agitation in the Final Days of Dementia Has No Agreed Definition \u2014 and No Validated Way to Measure It\" (PMID 42885674) document the gap; \"The Words Hospice Staff Use for End-of-Life Confusion May Change the Treatment Patients Get\" (PMID 42910992) shows the label a clinician picks determines whether anyone looks for a reversible cause; the RECORD secondary analysis (PMID 42586325) shows the drug choice changes whether a family's own comfort goal is met; and \"Noisy Breathing at the Bedside\" (PMID 42727789) shows about 27% of families who found these scenes very distressing screened positive for PTSD symptoms afterward.\n\n**Why pitch this now:** Individually these read as technical hospice papers, but together they describe something millions of families will sit through and almost nobody is prepared for \u2014 and they point to specific questions a family can ask in the room that appear to change what happens next.\n\n**Angle:** A plain-language guide to the final days for adult children and spouses \u2014 what confusion, restlessness, and noisy breathing actually mean, which of them may have a treatable cause, what to ask the hospice team, and why the memory of those hours deserves follow-up care of its own. Written for family caregivers, with a sidebar for hospice and senior living staff on terminology and bereavement check-ins.\n\n**Potential headlines:**\n- Confusion in the Final Days Is Often Delirium, and It Is Often Treatable\n- The Word a Nurse Chooses May Decide Whether Anyone Looks for the Cause\n- What Nobody Prepares Families to See in the Last Hours\n\n**Potential outlets:**\n- **Next Avenue** \u2014 the sitting-at-the-bedside story told through families, with the research underneath, is squarely their register; the delirium-versus-dementia distinction alone would serve their dementia-caregiving readership.\n- **AARP** \u2014 converts cleanly into checkable service journalism: the exact questions to ask a hospice team about confusion, sedation goals, and noisy breathing.\n- **Hospice News** \u2014 terminology standardization across non-medical staff, screening for quiet delirium, and bereavement follow-up that asks about the death scene are live operational problems for their provider audience.\n- **LeadingAge** \u2014 nonprofit nursing home and assisted living members face the dementia-agitation version of this directly, where no validated tool yet exists and staff observation is the evidence.",
+  "pitch_ideas_raw": "- **Mapping What Actually Eases Pain at the End of Life for Older Adults (PMID 42893776):** The menu beyond opioids \u2014 nerve blocks, music and massage therapy, exercise, combined approaches \u2014 paired with the blunt finding that the oldest-old and people with heart failure or dementia have barely been studied, for a consumer health explainer.\n- **Older Cancer Patients Got Lower Opioid Doses \u2014 and Had the Same Pain Relief (PMID 42853544):** Stop comparing milligrams; ask how often pain is reassessed and what the breakthrough plan is, for a patient-advocacy or caregiver-advice column.\n- **A Hospital Pharmacy Audit Found Preventive Pills Often Stopped Abruptly at the End of Life (PMID 42731737):** The three drug classes that need tapering rather than a hard stop, and how to request a medication review at every transition, for a consumer health explainer with a long-term care nursing sidebar.\n- **Letting ICU Nurses Trigger Palliative Care Referrals Nearly Tripled Consults \u2014 and Code Blues Fell (PMID 42904749):** A low-cost, replicable screening protocol with staff buy-in and measurable consult growth, for a hospital or senior-living trade brief, plus a consumer line on asking for a consult yourself in intensive care.\n- **Noisy Breathing at the Bedside: 1 in 4 Bereaved Families Show PTSD Symptoms After Witnessing It (PMID 42727789):** A one-time explanation may not be enough \u2014 the case for checking back with families during and after the dying process, for a hospice trade brief and a caregiver piece on giving yourself permission to step out of the room.\n- **What Actually Makes or Breaks a Family Caregiver During Home Hospice (PMID 42680076):** The two questions to settle before a home death \u2014 who supports the caregiver overnight, and who is the single named contact at 3 a.m. \u2014 for a caregiver-advice column, with a provider angle on assessing the caregiver as a second client.\n- **Delirium Is Common at the End of Life \u2014 and Often Mistaken for Dementia (PMID 42873521):** Sudden over hours versus gradual over months, and why the quiet, withdrawn form is the one most often missed, for a consumer health explainer or family caregiver column.\n- **Talking About Grief Helps Cancer Doctors in Training \u2014 And Costs Almost Nothing (PMID 42634408):** A protected debriefing hour as a staff-retention tool adaptable to nursing homes and hospice teams facing repeated resident deaths, for a senior living or hospice workforce trade brief.\n- **When a Hospital Asks a Court to Take Over Your Decisions (PMID 42929333):** Once a petition is filed it is granted 99% of the time \u2014 naming your own decision-maker now, and what rights you have if a petition is filed, for a consumer legal-and-money explainer, with a trade angle on auditing how often an organization petitions and whether alternatives were exhausted.\n- **Frailer Cancer Patients Are Getting Palliative Care Only After They're Hospitalized (PMID 42607784):** Don't wait for a hospitalization \u2014 ask for an outpatient palliative referral, plus the provider angle of using frailty scores already in the chart as an automatic trigger, for a consumer health explainer and a care-navigation trade brief.\n- **Why Families Change Their Minds About Dying at Home (PMID 42617989):** Permission to change the plan \u2014 transfer as a planned contingency rather than a failure, and the calmer stretch of time caregivers described afterward, for a caregiver-advice column.\n- **Bedside Signs Still Beat Scoring Systems for Predicting the Final Days (PMID 42660371):** Why \"how long?\" has no precise answer, especially outside cancer, and what to ask instead, for a consumer explainer, with a hospice trade angle on being transparent about uncertainty.\n- **Pancreatic Cancer Patients Say Palliative Care Was Explained to Them Badly \u2014 or Not at All (PMID 42842360):** The script to ask for \u2014 what the team would actually do, and whether treatment continues alongside \u2014 plus the case for bilingual navigators and upfront financial conversations, for a caregiver column or a cancer care trade piece.\n- **Letting Nurses Make the Referral Nearly Tripled Palliative Care Consults on One Hospital Unit (PMID 42853191):** Education plus a structured screen at admission and transfer, no new staffing, for a nursing leadership or senior-living clinical trade piece.\n- **For Agitated Delirium at the End of Life, Lorazepam Hit Families' Comfort Goals Better Than Haloperidol Alone (PMID 42586325):** \"How settled versus how awake do I want to be?\" is a question you can answer in advance and write down, for a consumer advance-planning explainer, with a hospice trade angle on asking caregivers to define the sedation goal up front.\n- **Most Patients With Advanced Cancer Change Opioids at Least Once \u2014 and Doses Roughly Double Each Time (PMID 42607783):** Needing a different pain medicine is the expected trajectory, not a failure or a sign of addiction \u2014 and the shortening interval between switches is a cue to ask for a palliative review, for a consumer health explainer.\n- **Linking Nursing Homes to Palliative Care Teams Cut Hospital Trips and Eased Symptoms (PMID 42929149):** The question to ask when touring a care home \u2014 what is the formal arrangement with a palliative care service, and is there a named link nurse \u2014 for a consumer housing-decision piece and a senior-living operations brief.\n- **Feeding Tube Decisions in Advanced Cancer Hinge on a Narrow 'Window of Opportunity' (PMID 42922280):** Timing closes options, and the goal of feeding legitimately changes from weight to comfort \u2014 plus how to name the gap between what a patient wants and what relatives expect, for a caregiver-advice column.\n- **When Patients Say They Want to Die, Loss of Meaning \u2014 Not Pain \u2014 Is the Strongest Signal (PMID 42918739):** Reframing a frightening statement as information, and asking for an existential or demoralization assessment rather than only more medication, for a consumer health explainer or a hospice trade piece on spiritual care staffing.\n- **Advance Care Planning Conversations in ALS Deliver What Patients Asked For \u2014 91% of the Time (PMID 42586324):** Rare hard evidence that documented conversations translate into the care people wanted \u2014 and the warning that people with early thinking changes get left out, for a consumer advance-planning explainer with a neurology-clinic trade angle.\n- **The Words Hospice Staff Use for End-of-Life Confusion May Change the Treatment Patients Get (PMID 42910992):** One question families can ask \u2014 \"Is this delirium, and have you looked for a cause?\" \u2014 plus a trade angle on standardizing terminology beyond physicians, for a caregiver column and a hospice staff-training brief.\n- **Agitation in the Final Days of Dementia Has No Agreed Definition \u2014 and No Validated Way to Measure It (PMID 42885674):** Describe what you see in detail \u2014 timing, triggers, possible pain \u2014 because your observations are currently the main evidence available, for a dementia caregiver column or a long-term care trade brief.",
+  "fact_check": {
+    "checked": "2026-10-28",
+    "studies_reviewed": "22",
+    "verdicts_by_pmid": {
+      "42893776": "\u2705 Accurate",
+      "42853544": "\u26a0\ufe0f Minor issues",
+      "42731737": "\u2705 Accurate",
+      "42904749": "\u2705 Accurate",
+      "42727789": "\u26a0\ufe0f Minor issues",
+      "42680076": "\u26a0\ufe0f Minor issues",
+      "42873521": "\u26a0\ufe0f Minor issues",
+      "42634408": "\u2705 Accurate",
+      "42929333": "\u26a0\ufe0f Minor issues",
+      "42607784": "\u2705 Accurate",
+      "42617989": "\u2705 Accurate",
+      "42660371": "\u26a0\ufe0f Minor issues",
+      "42842360": "\u26a0\ufe0f Minor issues",
+      "42853191": "\u26a0\ufe0f Minor issues",
+      "42586325": "\u26a0\ufe0f Minor issues",
+      "42607783": "\u2705 Accurate",
+      "42929149": "\u26a0\ufe0f Minor issues",
+      "42922280": "\u26a0\ufe0f Minor issues",
+      "42918739": "\u26a0\ufe0f Minor issues",
+      "42586324": "\u26a0\ufe0f Minor issues",
+      "42910992": "\u26a0\ufe0f Minor issues",
+      "42885674": "\u26a0\ufe0f Minor issues"
+    },
+    "summary": {
+      "total_issues": "30 (26 Minor, 4 Moderate, 0 Major)",
+      "entries_requiring_revision": "15",
+      "entries_cleared": "7"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Palliative Care \u2014 October 2026\n**Checked:** 2026-10-28 | **Studies reviewed:** 22\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n### Study 1: Mapping What Actually Eases Pain at the End of Life for Older Adults\n**PMID:** 42893776 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 2: Older Cancer Patients Got Lower Opioid Doses \u2014 and Had the Same Pain Relief\n**PMID:** 42853544 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Unmeasured mechanism presented as the explanation** \u2014 Severity: Moderate\n\n- **As written:** \"If you or your doctor are worried that a lower opioid dose means you will be left in pain, this study suggests it does not have to: what mattered was frequent reassessment and adjustment.\"\n- **Abstract says:** \"Opioid doses ... were recorded at admission, at each opioid prescription change, and at discharge ... Despite age-related differences in opioid prescribing, comparable pain control was achieved across all age groups ... supporting individualized age-tailored opioid titration in specialist palliative care.\"\n- **Problem:** The study compared doses and pain scores by age group; it did not measure how often patients were reassessed, so it cannot show that reassessment frequency was \"what mattered.\" The same inference appears in \"Why it matters\" (\"dose size matters less than how attentively it is adjusted\").\n- **Suggested fix:** \"Reword to: \"this study suggests lower doses in a specialist unit were accompanied by comparable pain relief; the authors credit individualized, age-tailored titration.\"\"\n\n### Study 3: A Hospital Pharmacy Audit Found Preventive Pills Often Stopped Abruptly at the End of Life\n**PMID:** 42731737 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 4: Letting ICU Nurses Trigger Palliative Care Referrals Nearly Tripled Consults \u2014 and Code Blues Fell\n**PMID:** 42904749 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 5: Noisy Breathing at the Bedside: 1 in 4 Bereaved Families Show PTSD Symptoms After Witnessing It\n**PMID:** 42727789 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline generalizes a subgroup rate** \u2014 Severity: Moderate\n\n- **As written:** \"Noisy Breathing at the Bedside: 1 in 4 Bereaved Families Show PTSD Symptoms After Witnessing It\"\n- **Abstract says:** \"The proportion screened positive was 26.9% for death rattle and 26.0% for agonal breathing among participants who perceived that these signs had been very distressing.\"\n- **Problem:** The ~27% figure applies only to respondents who rated the experience as very distressing, not to all bereaved families who witnessed the signs. The body text states this correctly, but the headline does not.\n- **Suggested fix:** \"Revise to \"1 in 4 Families Who Found It Very Distressing Screen Positive for PTSD Symptoms.\"\"\n\n**Issue B. Prevalence claim not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"These breathing changes are nearly universal at the end of life and are often dismissed as harmless to the patient\"\n- **Abstract says:** \"Death rattle and agonal breathing are distressing for most families. Healthcare providers often explain these signs as a part of the natural dying process.\"\n- **Problem:** The abstract makes no claim about how common these breathing changes are among dying patients; \"nearly universal\" is unverifiable from abstract only.\n- **Suggested fix:** \"Replace with \"These breathing changes are common at the end of life and are usually explained to families as part of natural dying.\"\"\n\n**Issue C. Mild hype in framing** \u2014 Severity: Minor\n\n- **As written:** \"this is some of the strongest evidence yet that what families see and hear at the bedside can leave lasting psychological marks\"\n- **Abstract says:** \"Bereaved family members exposed to death rattle and agonal breathing may have PTSD symptoms. Communication and care strategies to address family distress are needed.\"\n- **Problem:** A cross-sectional screening survey cannot be characterized as \"strongest evidence yet\"; the authors use the hedged \"may have PTSD symptoms.\"\n- **Suggested fix:** \"Soften to \"this nationwide survey adds evidence that what families witness at the bedside may leave lasting distress.\"\"\n\n### Study 6: What Actually Makes or Breaks a Family Caregiver During Home Hospice\n**PMID:** 42680076 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Screening number imprecise** \u2014 Severity: Minor\n\n- **As written:** \"Researchers screened nearly 8,000 records and synthesized 19 qualitative studies from 13 countries\"\n- **Abstract says:** \"Seven databases ... were searched, yielding 7933 records. After removing 3319 duplicates and screening 4647 records, 669 studies were assessed for eligibility.\"\n- **Problem:** 7,933 records were retrieved; 4,647 were actually screened after de-duplication. \"Screened nearly 8,000 records\" conflates retrieval with screening.\n- **Suggested fix:** \"Say \"retrieved nearly 8,000 records and screened 4,647.\"\"\n\n**Issue B. Background claim not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"Most home deaths depend on an unpaid family member\"\n- **Abstract says:** \"Family caregivers are fundamental to enabling home-based end-of-life care, yet their well-being remains inadequately understood.\"\n- **Problem:** The abstract does not report what proportion of home deaths rely on unpaid family carers; this statistic is unverifiable from abstract only.\n- **Suggested fix:** \"Reword to \"Home-based end-of-life care depends fundamentally on family caregivers.\"\"\n\n### Study 7: Delirium Is Common at the End of Life \u2014 and Often Mistaken for Dementia\n**PMID:** 42873521 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Hypoactive subtype \"most often missed\"** \u2014 Severity: Minor\n\n- **As written:** \"the quiet, withdrawn form of delirium is the one most often missed\"\n- **Abstract says:** \"It is characterized by acute disturbances in attention and awareness that often fluctuate throughout the day and may present as hypoactive, hyperactive, or mixed psychomotor subtypes.\"\n- **Problem:** The abstract lists the subtypes but makes no claim that the hypoactive form is most often missed. Unverifiable from abstract only.\n- **Suggested fix:** \"Attribute to the broader literature or drop: \"delirium can be easy to miss when a person is quiet and withdrawn rather than agitated.\"\"\n\n**Issue B. Reversibility overstated** \u2014 Severity: Minor\n\n- **As written:** \"because the cause is often reversible even during palliative care\"\n- **Abstract says:** \"Effective prevention and management of delirium require a multifaceted, interprofessional approach that addresses modifiable risk factors, as well as the underlying acute medical causes.\"\n- **Problem:** The abstract refers to modifiable risk factors and underlying acute causes but does not state how often delirium is reversible at the end of life.\n- **Suggested fix:** \"Change to \"because there may be modifiable causes, including medications, that the team can address.\"\"\n\n### Study 8: Talking About Grief Helps Cancer Doctors in Training \u2014 And Costs Almost Nothing\n**PMID:** 42634408 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 9: When a Hospital Asks a Court to Take Over Your Decisions: What the Records Show\n**PMID:** 42929333 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Interpretation stronger than reported associations** \u2014 Severity: Minor\n\n- **As written:** \"these data suggest that once a hospital files, the outcome is nearly automatic and that poorer, less-educated older adults fare worst\"\n- **Abstract says:** \"Medicaid recipients had lower odds of being assigned to a guardian with whom they had a prior, personal relationship (p = 0.04). Lower educational attainment was associated with full guardianship (p = 0.02). More restrictive forms of guardianship were associated with decreased likelihood of being discharged home.\"\n- **Problem:** The abstract reports two specific associations; \"fare worst\" implies a broader outcome comparison (e.g., in health or welfare) that the study did not measure.\n- **Suggested fix:** \"Reword to \"...and that Medicaid recipients and people with less education were more likely to end up with a professional or more restrictive guardian.\"\"\n\n### Study 10: Frailer Cancer Patients Are Getting Palliative Care Only After They're Hospitalized\n**PMID:** 42607784 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 11: Why Families Change Their Minds About Dying at Home\n**PMID:** 42617989 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 12: Bedside Signs Still Beat Scoring Systems for Predicting the Final Days\n**PMID:** 42660371 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline overstates ranking of tools** \u2014 Severity: Minor\n\n- **As written:** \"Bedside Signs Still Beat Scoring Systems for Predicting the Final Days\"\n- **Abstract says:** \"In 166 cancer patients, PPI + SPS performed best, with AUC 0.72 ... Among individual predictors, SPS performed best, with AUC 0.70\"\n- **Problem:** The best-performing model was the Palliative Prognostic Index combined with clinical signs, not signs alone; signs only 'beat' the other tools when each was used individually.\n- **Suggested fix:** \"Reword to something like 'Bedside Signs Carry Most of the Weight in Predicting the Final Days' or note that the combination performed best by a modest margin.\"\n\n**Issue B. Unlisted noncancer diagnoses** \u2014 Severity: Minor\n\n- **As written:** \"meaning accuracy remains limited for people dying of heart, lung, kidney, or neurologic disease\"\n- **Abstract says:** \"Among 124 noncancer patients, PPI + SPS and SPS had similar AUCs of 0.69\"\n- **Problem:** The abstract only says 'noncancer'; the specific disease categories are not reported. Unverifiable from abstract only.\n- **Suggested fix:** \"Say simply 'for people dying of noncancer illnesses' unless the full text specifies the diagnoses.\"\n\n**Issue C. All three tools in noncancer group** \u2014 Severity: Minor\n\n- **As written:** \"In 124 noncancer patients, the tools performed similarly but modestly (AUC about 0.69)\"\n- **Abstract says:** \"Fitted model parameters were applied to the noncancer validation dataset ... PPI + SPS and SPS had similar AUCs of 0.69\"\n- **Problem:** Only the two best-performing models (SPS and PPI+SPS) were evaluated in the noncancer group, not all three tools.\n- **Suggested fix:** \"Specify that the two best-performing models were carried into the noncancer group.\"\n\n### Study 13: Pancreatic Cancer Patients Say Palliative Care Was Explained to Them Badly \u2014 or Not at All\n**PMID:** 42842360 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline goes beyond the reported theme** \u2014 Severity: Moderate\n\n- **As written:** \"Pancreatic Cancer Patients Say Palliative Care Was Explained to Them Badly \u2014 or Not at All\"\n- **Abstract says:** \"(3) End-of-life conversations and palliative care were often misunderstood\"\n- **Problem:** The abstract reports that these conversations were misunderstood; it does not report that explanations were poor or absent, nor does it attribute the misunderstanding to clinicians.\n- **Suggested fix:** \"Reframe as 'Pancreatic Cancer Patients Say Conversations About Palliative Care Were Often Misunderstood'.\"\n\n**Issue B. Proportion of Latino participants** \u2014 Severity: Minor\n\n- **As written:** \"many of Latino background\"\n- **Abstract says:** \"Patients of Latino background living in Southern California with advanced PDAC desire holistic, culturally responsive, patient-centered care\"\n- **Problem:** The abstract's conclusion focuses on Latino patients but gives no figure for how many of the 21 participants were Latino. Unverifiable from abstract only.\n- **Suggested fix:** \"Say the authors frame their conclusions around Latino patients in Southern California, without implying a known proportion.\"\n\n### Study 14: Letting Nurses Make the Referral Nearly Tripled Palliative Care Consults on One Hospital Unit\n**PMID:** 42853191 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Knowledge testing method** \u2014 Severity: Minor\n\n- **As written:** \"knowledge measured by self-administered testing\"\n- **Abstract says:** \"Nursing knowledge scores improved substantially following education.\"\n- **Problem:** The abstract does not describe how knowledge was measured. Unverifiable from abstract only.\n- **Suggested fix:** \"Say 'knowledge measured by a pre/post test with no detail reported in the abstract' or drop the descriptor.\"\n\n### Study 15: For Agitated Delirium at the End of Life, Lorazepam Hit Families' Comfort Goals Better Than Haloperidol Alone\n**PMID:** 42586325 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Drug-specific suggestion from an underpowered secondary analysis** \u2014 Severity: Minor\n\n- **As written:** \"Caregivers can reasonably ask the palliative team what medication plan is being used and whether a benzodiazepine-based regimen has been considered when agitation persists.\"\n- **Abstract says:** \"Caregiver-defined PSGs were available for 67 patients included in this secondary analysis ... lorazepam (odds ratio = 12.2; 95% CI = 2.0-75.1)\"\n- **Problem:** With roughly 13-14 patients per arm, very wide confidence intervals, and placebo reaching the goal 53.8% of the time, nudging families toward a specific drug class is a stretch from a preplanned secondary endpoint.\n- **Suggested fix:** \"Frame the angle around asking the team what sedation goal is being targeted and how it is being reassessed, rather than naming a drug class.\"\n\n**Issue B. Placebo performance undercuts the framing** \u2014 Severity: Minor\n\n- **As written:** \"this is direct randomized evidence that the drug choice \u2014 and the family's own stated comfort goal \u2014 meaningfully changes whether that distress is relieved\"\n- **Abstract says:** \"lorazepam 10/13 (76.9%), combination therapy 8/13 (61.5%), placebo 7/13 (53.8%), and haloperidol 3/14 (21.4%)\"\n- **Problem:** Placebo outperformed escalated haloperidol, so the finding is as much about haloperidol escalation failing as about any drug reliably relieving distress.\n- **Suggested fix:** \"Note explicitly that placebo also outperformed escalated haloperidol, which tempers the 'drug choice relieves distress' message.\"\n\n### Study 16: Most Patients With Advanced Cancer Change Opioids at Least Once \u2014 and Doses Roughly Double Each Time\n**PMID:** 42607783 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 17: Linking Nursing Homes to Palliative Care Teams Cut Hospital Trips and Eased Symptoms, Review Finds\n**PMID:** 42929149 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal headline from a narrative synthesis** \u2014 Severity: Minor\n\n- **As written:** \"Linking Nursing Homes to Palliative Care Teams Cut Hospital Trips and Eased Symptoms, Review Finds\"\n- **Abstract says:** \"Outcomes were reported for aged care providers ... health systems (reduced acute care utilisation), and for older people who were nearing the end of life (less symptom distress).\"\n- **Problem:** The review reports outcomes described across heterogeneous studies with narrative synthesis; 'Cut' and 'Eased' assert a causal effect the design cannot establish.\n- **Suggested fix:** \"Use 'Linked to Fewer Hospital Trips and Less Symptom Distress, Review Finds'.\"\n\n**Issue B. 'Nursing homes' narrows the sector studied** \u2014 Severity: Minor\n\n- **As written:** \"Linking Nursing Homes to Palliative Care Teams\"\n- **Abstract says:** \"interorganisational linkage strategies connecting palliative care services/teams and aged care providers\"\n- **Problem:** 'Aged care providers' in the source is broader than nursing homes and may include community/home aged care.\n- **Suggested fix:** \"Use 'aged care providers' or 'residential and community aged care' in at least one mention.\"\n\n### Study 18: Feeding Tube Decisions in Advanced Cancer Hinge on a Narrow 'Window of Opportunity,' Clinicians Say\n**PMID:** 42922280 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Direction of shifting nutritional goals** \u2014 Severity: Minor\n\n- **As written:** \"nutritional goals that shift as disease progresses, moving from maintaining weight toward comfort and pleasure in eating\"\n- **Abstract says:** \"(4) Shifting nutritional priorities ... managing changing nutritional goals with disease progression\"\n- **Problem:** The abstract names the theme but does not specify that goals move from weight maintenance toward comfort and pleasure in eating.\n- **Suggested fix:** \"State the theme as 'nutritional priorities that shift as the disease progresses' without specifying the direction, unless confirmed in the full text.\"\n\n**Issue B. Who the expectations differ between** \u2014 Severity: Minor\n\n- **As written:** \"mismatched expectations between patients and their families\"\n- **Abstract says:** \"(3) Differing expectations and experiences of patients and family\"\n- **Problem:** The abstract's wording is ambiguous \u2014 it could mean patients' and families' expectations differ from professionals' \u2014 so asserting a patient-versus-family mismatch is an interpretation.\n- **Suggested fix:** \"Mirror the abstract's wording: 'differing expectations and experiences among patients and families'.\"\n\n### Study 19: When Patients Say They Want to Die, Loss of Meaning \u2014 Not Pain \u2014 Is the Strongest Signal\n**PMID:** 42918739 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. 'Feeling like a burden' presented as a driver** \u2014 Severity: Minor\n\n- **As written:** \"more often a signal of eroded meaning and feeling like a burden than a settled decision\"\n- **Abstract says:** \"total scores were calculated both with and without the additional item \"feeling like a burden to others\" ... demoralization was the only independent predictor of WTHD (OR = 6.56)\"\n- **Problem:** Burden was handled as a scoring item in the symptom measure, not reported as an independent predictor; only demoralization was.\n- **Suggested fix:** \"Limit the claim to demoralization \u2014 meaninglessness, hopelessness, lost dignity \u2014 as the independent predictor.\"\n\n### Study 20: Advance Care Planning Conversations in ALS Deliver What Patients Asked For \u2014 91% of the Time\n**PMID:** 42586324 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal claim contradicts the stated caveat** \u2014 Severity: Moderate\n\n- **As written:** \"having a documented advance care planning conversation is the single most reliable way to make sure your preferences \u2014 including dying at home \u2014 are the ones carried out\"\n- **Abstract says:** \"ACP discussion was positively associated with gastrostomy placement, Palliative Care activation, and home death ... 90.8% concordance between expressed choices and outcomes\"\n- **Problem:** This is a retrospective register study showing association; the digest's own caveat says it cannot prove ACP caused the outcomes, but the story angle tells readers it is the 'most reliable way' to secure their preferences.\n- **Suggested fix:** \"Reword to 'people who had documented ACP conversations were far more likely to receive care matching their stated wishes' and keep the association framing.\"\n\n**Issue B. Rise in ACP attributed to the 2017 law** \u2014 Severity: Minor\n\n- **As written:** \"rates rose over the decade from 51.6% to 61.9% after Italy's 2017 self-determination law\"\n- **Abstract says:** \"The ACP prevalence increased over time from 51.6% to 61.94% (P = 0.025) ... The ACP increase over the last decade reflects a growing emphasis on patient autonomy in Italy.\"\n- **Problem:** The abstract reports an increase over time and attributes it to a broader cultural shift; it does not report that the increase occurred specifically after, or because of, Law 219/2017.\n- **Suggested fix:** \"Say rates rose over the study period from 51.6% to 61.9%, during an era that included Italy's 2017 self-determination law.\"\n\n### Study 21: The Words Hospice Staff Use for End-of-Life Confusion May Change the Treatment Patients Get\n**PMID:** 42910992 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Hypoactive delirium described as untreated** \u2014 Severity: Minor\n\n- **As written:** \"Quiet, withdrawn (hypoactive) delirium was poorly recognized and almost never named or treated.\"\n- **Abstract says:** \"Hypoactive delirium was poorly identified, rarely named, with little discourse relating to its management in the dying phase.\"\n- **Problem:** The abstract reports that clinicians rarely discussed managing hypoactive delirium, which is not the same as establishing that it was almost never treated. The digest converts a finding about clinician discourse into a claim about actual care delivered.\n- **Suggested fix:** \"Change to \"...was poorly recognized, rarely named, and barely discussed when staff talked about management in the dying phase.\"\"\n\n**Issue B. Softer association stated as a direct effect** \u2014 Severity: Minor\n\n- **As written:** \"When staff did name delirium, decision-making about assessment and treatment was more transparent\"\n- **Abstract says:** \"Use of 'delirium' seemed to be associated with more transparent decision-making regarding assessment and management\"\n- **Problem:** The abstract's hedged, associational wording (\"seemed to be associated with\") is presented as an established difference. The Caveats do note that causation cannot be established, which partly offsets this.\n- **Suggested fix:** \"Add the hedge: \"When staff did name delirium, decision-making about assessment and treatment appeared to be more transparent.\"\"\n\n**Issue C. Reversible causes claim not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"Delirium at the end of life often has reversible contributors such as pain, infection, constipation or medication, and the label a clinician reaches for can determine whether anyone looks for those causes or simply reaches for a sedative.\"\n- **Abstract says:** \"The abstract makes no mention of reversible contributors to delirium, and reports only that sedative use \"received more emphasis\" when terms such as 'terminal', 'agitation' and 'confusion' were used.\"\n- **Problem:** The reversible-causes background is standard clinical knowledge but is not supported by this abstract; the second clause also states more strongly than the study can support that terminology determines whether causes are investigated. Unverifiable from abstract only.\n- **Suggested fix:** \"Attribute the background to general clinical knowledge rather than this study, and soften to \"the label a clinician reaches for may shape how much attention goes to looking for a cause versus sedating.\"\"\n\n### Study 22: Agitation in the Final Days of Dementia Has No Agreed Definition \u2014 and No Validated Way to Measure It\n**PMID:** 42885674 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Confusion with untreated pain overstated** \u2014 Severity: Minor\n\n- **As written:** \"it is frequently confused with the behavioral and psychological symptoms of dementia or with untreated pain\"\n- **Abstract says:** \"\"Differentiating TA, or delirium from behavioral and psychological symptoms of dementia (BPSD) is often difficult\" and \"There is an association between pain, agitation, and delirium in various stages of dementia, particularly at the end of life.\"\"\n- **Problem:** The abstract describes difficulty distinguishing terminal agitation from BPSD, and separately notes an association with pain \u2014 it does not say terminal agitation is frequently mistaken for untreated pain.\n- **Suggested fix:** \"Rephrase to \"it is often hard to tell apart from the behavioral and psychological symptoms of dementia, and pain, agitation and delirium are closely intertwined at the end of life.\"\"\n\n**Issue B. Author affiliation characterized too narrowly** \u2014 Severity: Minor\n\n- **As written:** \"the authors are affiliated with a single Australian aged- and palliative-care provider (HammondCare)\"\n- **Abstract says:** \"Authors list HammondCare affiliations alongside Curtin University, The University of Sydney, Edith Cowan University, University of Canberra, UNSW and Monash University.\"\n- **Problem:** All authors do hold HammondCare appointments, but each also holds academic affiliations; describing them as affiliated with a single provider is incomplete. No funding source is disclosed in the abstract.\n- **Suggested fix:** \"Change to \"all authors hold appointments at HammondCare, an Australian aged- and palliative-care provider, alongside university affiliations.\"\"\n\n**Issue C. Scope of the syndrome narrowed to dementia** \u2014 Severity: Minor\n\n- **As written:** \"Australian dementia and palliative care specialists reviewed what is known about terminal agitation \u2014 also called terminal restlessness or terminal delirium \u2014 in people dying with dementia.\"\n- **Abstract says:** \"\"While TA is evident in dementia (including Alzheimer's disease), it is not exclusive to the condition and also occurs in other terminal illnesses, e.g., cancer.\"\"\n- **Problem:** The digest presents terminal agitation as a dementia-specific phenomenon; the authors explicitly note it occurs in other terminal illnesses. The review's focus is dementia, so this is a framing omission rather than an error.\n- **Suggested fix:** \"Add a clause: \"...in people dying with dementia, though the authors note the syndrome also occurs in other terminal illnesses such as cancer.\"\"\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | Mapping What Actually Eases Pain at the End of Life for Older Adults | \u2705 Accurate | All figures (117 studies, 71% cancer, 68% moderate/low evidence, 65\u201374 age range) match the abstract; scoping-review limits and funding sources are correctly disclosed in Caveats. |\n| 2 | Older Cancer Patients Got Lower Opioid Doses \u2014 and Had the Same Pain Relief | \u26a0\ufe0f Minor issues | Numbers and direction of findings are accurate; the digest attributes the equal pain control to \"frequent reassessment,\" a mechanism the abstract never measured. |\n| 3 | A Hospital Pharmacy Audit Found Preventive Pills Often Stopped Abruptly at the End of Life | \u2705 Accurate | N, median age/IQR, polypharmacy associations and the tapering finding all match; Melbourne setting is supported by author affiliations and the observational design is flagged in Caveats. |\n| 4 | Letting ICU Nurses Trigger Palliative Care Referrals Nearly Tripled Consults \u2014 and Code Blues Fell | \u2705 Accurate | Consult counts (179/471/435), the 163% figure, code blue counts (33/26/29) and the 87% staff figure all match; the digest appropriately states the code blue drop is not proven causal. |\n| 5 | Noisy Breathing at the Bedside: 1 in 4 Bereaved Families Show PTSD Symptoms After Witnessing It | \u26a0\ufe0f Minor issues | Core statistics are right, but the headline applies a subgroup rate (families who found the signs very distressing) to all families who witnessed the signs, and two background claims go beyond the abstract. |\n| 6 | What Actually Makes or Breaks a Family Caregiver During Home Hospice | \u26a0\ufe0f Minor issues | Themes, study count and country count are accurate; the screening figure is slightly misdescribed and one background claim is unsupported by the abstract. |\n| 7 | Delirium Is Common at the End of Life \u2014 and Often Mistaken for Dementia | \u26a0\ufe0f Minor issues | Faithful summary of a narrative review and correctly labeled as such in Caveats; two story-angle claims (hypoactive delirium being most missed, causes being \"often reversible\") go beyond what the abstract states. |\n| 8 | Talking About Grief Helps Cancer Doctors in Training \u2014 And Costs Almost Nothing | \u2705 Accurate | All percentages (83.7%, 46.5%, 88.4%, 79.1%, all respondents) and the 43-survey total match; pilot design and self-reported outcomes are flagged in Caveats. |\n| 9 | When a Hospital Asks a Court to Take Over Your Decisions: What the Records Show | \u26a0\ufe0f Minor issues | N, date range, the 215/217 (99%) figure and both social-determinant findings are accurate; one interpretive phrase stretches the reported associations. |\n| 10 | Frailer Cancer Patients Are Getting Palliative Care Only After They're Hospitalized | \u2705 Accurate | N=1,053, mean age 57.7, 75% non-White, ~70% at least mildly frail, and the aORs of 3.50 and 4.48 all match; observational limits and the electronic frailty index are noted in Caveats. |\n| 11 | Why Families Change Their Minds About Dying at Home | \u2705 Accurate | Faithful summary of the nine-study qualitative evidence synthesis; themes, conclusion and caveats all match the abstract. |\n| 12 | Bedside Signs Still Beat Scoring Systems for Predicting the Final Days | \u26a0\ufe0f Minor issues | Numbers are correct; headline slightly overstates the superiority of bedside signs, and the list of noncancer diagnoses is not in the abstract. |\n| 13 | Pancreatic Cancer Patients Say Palliative Care Was Explained to Them Badly \u2014 or Not at All | \u26a0\ufe0f Minor issues | Body text matches the four themes well; the headline recasts 'often misunderstood' as a clinician failure and adds a claim ('or not at all') the abstract does not support. |\n| 14 | Letting Nurses Make the Referral Nearly Tripled Palliative Care Consults on One Hospital Unit | \u26a0\ufe0f Minor issues | Figures (31-bed unit, 20 nurses, 3 vs 8 referrals, all judged appropriate) match exactly; one caveat detail isn't in the abstract. |\n| 15 | For Agitated Delirium at the End of Life, Lorazepam Hit Families' Comfort Goals Better Than Haloperidol Alone | \u26a0\ufe0f Minor issues | All percentages, the odds ratio and the sample accounting match the abstract; one story angle edges into drug-specific advice from a small secondary analysis. |\n| 16 | Most Patients With Advanced Cancer Change Opioids at Least Once \u2014 and Doses Roughly Double Each Time | \u2705 Accurate | Sample, 58% switching rate, dose sequence (20/30/60/180 mg oMEDD), median durations and prescriber proportions all match the abstract; framing stays descriptive. |\n| 17 | Linking Nursing Homes to Palliative Care Teams Cut Hospital Trips and Eased Symptoms, Review Finds | \u26a0\ufe0f Minor issues | Study counts, the three linkage categories and twelve models are accurate; the headline uses causal wording for narratively synthesized, heterogeneous outcomes. |\n| 18 | Feeding Tube Decisions in Advanced Cancer Hinge on a Narrow 'Window of Opportunity,' Clinicians Say | \u26a0\ufe0f Minor issues | Sample, professions, country and the four themes are accurately reported; two theme descriptions add specifics the abstract does not state. |\n| 19 | When Patients Say They Want to Die, Loss of Meaning \u2014 Not Pain \u2014 Is the Strongest Signal | \u26a0\ufe0f Minor issues | Prevalence (35%), ESAS-r medians, demoralization rates and OR 6.56 all match; one framing phrase adds 'feeling like a burden' as a driver beyond what was tested. |\n| 20 | Advance Care Planning Conversations in ALS Deliver What Patients Asked For \u2014 91% of the Time | \u26a0\ufe0f Minor issues | Register size, 53.7% ACP rate, 90.8% concordance and the cognitive-impairment association are accurate; the body attributes the rise in ACP to the 2017 law and one story angle asserts causation the caveat disavows. |\n| 21 | The Words Hospice Staff Use for End-of-Life Confusion May Change the Treatment Patients Get | \u26a0\ufe0f Minor issues | Design, setting, participant count and both main themes are faithfully reported; two small overstatements \u2014 hypoactive delirium described as \"almost never ... treated,\" and the reversible-causes framing in \"Why it matters\" is not in the abstract. |\n| 22 | Agitation in the Final Days of Dementia Has No Agreed Definition \u2014 and No Validated Way to Measure It | \u26a0\ufe0f Minor issues | Headline and core claims (no validated tool, inconsistent terminology, heterogeneous prevalence, research priorities) match the abstract; one small stretch in saying terminal agitation is \"frequently confused\" with untreated pain. |\n\n**Total issues:** 30 (26 Minor, 4 Moderate, 0 Major)\n**Entries requiring revision:** 15\n**Entries cleared:** 7\n"
+  }
+}

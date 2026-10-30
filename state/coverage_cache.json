@@ -30,6 +30,16 @@
         "state": "unreported"
       }
     },
+    "41916749": {
+      "checked_at": "2026-10-30T16:56:19.820434+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Distinct Patterns Cortical Atrophy Predict Cognitive Progression Age Related Hearing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "41968301": {
       "checked_at": "2026-10-29T17:11:25.040018+00:00",
       "result": {
@@ -341,6 +351,16 @@
         "state": "unreported"
       }
     },
+    "42669283": {
+      "checked_at": "2026-10-30T16:52:33.505708+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Frailty Rarely Reverses Its Own Certain Medications Track Faster Decline",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42680076": {
       "checked_at": "2026-10-28T16:52:31.546873+00:00",
       "result": {
@@ -358,6 +378,16 @@
         "outlets": [],
         "query": "higher vitamin levels sleep longer wake less finds",
         "returned": 14,
+        "state": "unreported"
+      }
+    },
+    "42697178": {
+      "checked_at": "2026-10-30T16:52:29.913298+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Grip Strength Isn Pass Fail Every Extra Kilogram Counts Stroke",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -387,6 +417,16 @@
         "query": "Five year trial high dose vitamin did not prevent fractures",
         "returned": 15,
         "state": "lightly_reported"
+      }
+    },
+    "42727175": {
+      "checked_at": "2026-10-30T16:52:17.026323+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Blood Amino Acids Tell Two Different Stories About Muscle Loss",
+        "returned": 1,
+        "state": "unreported"
       }
     },
     "42727262": {
@@ -509,6 +549,16 @@
         "state": "unreported"
       }
     },
+    "42753450": {
+      "checked_at": "2026-10-30T16:52:22.468547+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Not Just Shrinking Muscle Fat Creeping Into Muscle Predicts Losing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42753514": {
       "checked_at": "2026-10-29T17:08:36.922644+00:00",
       "result": {
@@ -557,6 +607,16 @@
         "state": "unreported"
       }
     },
+    "42764080": {
+      "checked_at": "2026-10-30T16:52:50.519875+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Having Two More Chronic Conditions Nearly Doubles Risk Developing Sarcopenia",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42766312": {
       "checked_at": "2026-10-23T15:26:53.683198+00:00",
       "result": {
@@ -582,6 +642,40 @@
         "outlets": [],
         "query": "Beyond Memory Loss Sleep Gut Mood Symptoms Differ Type Dementia",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42772087": {
+      "checked_at": "2026-10-30T16:52:25.993092+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.everydayhealth.com/womens-health/hormone-therapy-glp-1s-better-weight-loss-for-menopausal-women/",
+            "outlet": "Everyday Health",
+            "title": "Combining Hormone Therapy With GLP-1s May Boost Weight Loss for Menopausal Women"
+          },
+          {
+            "link": "https://www.stuff.co.nz/health/361042929/hidden-side-effect-weight-loss-drugs-you-wont-know-about",
+            "outlet": "Stuff",
+            "title": "The hidden side effect of weight-loss drugs that you won\u2019t know about"
+          }
+        ],
+        "outlets": [
+          "Everyday Health",
+          "Stuff"
+        ],
+        "query": "Weight Loss Drugs Muscle What Postmenopausal Women Should Weigh",
+        "returned": 12,
+        "state": "lightly_reported"
+      }
+    },
+    "42777518": {
+      "checked_at": "2026-10-30T16:52:05.890306+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Routine Blood Test Flag Which 100 Year Olds Most Risk",
+        "returned": 10,
         "state": "unreported"
       }
     },
@@ -611,6 +705,16 @@
         "query": "Sleep Problems Flag Higher Suicide Risk People Dementia Even Without",
         "returned": 1,
         "state": "lightly_reported"
+      }
+    },
+    "42790802": {
+      "checked_at": "2026-10-30T16:52:14.163334+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "More Muscle Mass Fewer Spine Problems Evidence Half Million",
+        "returned": 2,
+        "state": "unreported"
       }
     },
     "42810186": {
@@ -673,6 +777,34 @@
         "state": "unreported"
       }
     },
+    "42822208": {
+      "checked_at": "2026-10-30T16:52:24.717644+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://bioengineer.org/early-weight-loss-in-als-signals-faster-decline-but-standard-energy-formulas-fall-short/",
+            "outlet": "Bioengineer.org",
+            "title": "Early Weight Loss in ALS Signals Faster Decline, but Standard Energy Formulas Fall Short"
+          }
+        ],
+        "outlets": [
+          "Bioengineer.org"
+        ],
+        "query": "Muscle Loss Plus Metabolic Syndrome Linked Faster Cognitive Decline But",
+        "returned": 3,
+        "state": "lightly_reported"
+      }
+    },
+    "42822209": {
+      "checked_at": "2026-10-30T16:52:15.496722+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Blood Sugar Triglycerides Not Muscle Marker Predicted Multiple Heart Metabolic",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
     "42822543": {
       "checked_at": "2026-10-23T15:20:39.811703+00:00",
       "result": {
@@ -700,6 +832,16 @@
         "outlets": [],
         "query": "History Depression Tracks Higher Heart Metabolic Disease Risk Years Later",
         "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42828564": {
+      "checked_at": "2026-10-30T16:52:44.300356+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Diabetes Thinning Bones Shrinking Muscle Review Finds Combination Common but",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -920,6 +1062,16 @@
         "outlets": [],
         "query": "Poor Nutrition Single Strongest Marker Fall History Villagers",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42872079": {
+      "checked_at": "2026-10-30T16:52:06.971605+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Common Blood Pressure Pill Linked Better Grip Strength Walking Speed",
+        "returned": 5,
         "state": "unreported"
       }
     },
@@ -1167,6 +1319,16 @@
         "articles": [],
         "outlets": [],
         "query": "Novel acylation modifications cerebrovascular disease Molecular mechanisms crosstalk therapeutic potential",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42893969": {
+      "checked_at": "2026-10-30T16:52:47.321899+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Being Trained Read Muscle Ultrasounds Sarcopenia but Not Ready Clinic",
         "returned": 0,
         "state": "unreported"
       }
@@ -1693,6 +1855,16 @@
         "articles": [],
         "outlets": [],
         "query": "Urinary Symptoms Mobility Limitation Subsequent Falls Across Two Longitudinal Cohorts",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42904865": {
+      "checked_at": "2026-10-30T16:52:39.748244+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Osteoporosis Drug Also Help Muscles Year Compares Denosumab Zoledronic Acid",
         "returned": 0,
         "state": "unreported"
       }
@@ -2315,6 +2487,24 @@
         "query": "Remote Versus Person Follow Programming After Subthalamic Deep Brain Stimulation",
         "returned": 0,
         "state": "unreported"
+      }
+    },
+    "42920257": {
+      "checked_at": "2026-10-30T16:52:51.737046+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://medicalxpress.com/news/2026-10-frailty-mild-cognitive-impairment-linked.html",
+            "outlet": "Medical Xpress",
+            "title": "Beyond frailty: Mild cognitive impairment linked to slower gait speed"
+          }
+        ],
+        "outlets": [
+          "Medical Xpress"
+        ],
+        "query": "Slower Walking Speed Linked Brain Shrinkage Mild Memory Problems",
+        "returned": 1,
+        "state": "lightly_reported"
       }
     },
     "42920275": {
@@ -3351,6 +3541,328 @@
         "articles": [],
         "outlets": [],
         "query": "Obesity Medications Geriatrics 5Ms Framework Safe Patient Centered Prescribing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42953259": {
+      "checked_at": "2026-10-30T16:56:34.732862+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Current capacity Portuguese specialized dementia centers era anti amyloid antibodies",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42953268": {
+      "checked_at": "2026-10-30T16:55:12.551321+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Fluctuations correlates advanced dementia Lewy bodies longitudinal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42954125": {
+      "checked_at": "2026-10-30T16:56:10.651179+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Outcomes multidisciplinary cognitive social communication traumatic brain injury rehabilitation Qatar",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42954140": {
+      "checked_at": "2026-10-30T16:56:36.380541+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Detection Age Related Cognitive Decline Over Short Time Frames Using",
+        "returned": 13,
+        "state": "unreported"
+      }
+    },
+    "42954170": {
+      "checked_at": "2026-10-30T16:55:29.684358+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Comparative Effectiveness Digital Exercise Based Interventions Improving Balance Systematic Review",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42954228": {
+      "checked_at": "2026-10-30T16:56:22.431599+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Sertraline reverses depressive like behaviors males females following early life",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42954294": {
+      "checked_at": "2026-10-30T16:55:01.306045+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.nature.com/articles/s44220-026-00743-0",
+            "outlet": "Nature",
+            "title": "Systematic review and meta-analysis of cognitive behavioral therapy for insomnia as a suicide prevention strategy"
+          }
+        ],
+        "outlets": [
+          "Nature"
+        ],
+        "query": "Intervention Type Specific Effects Healthy Cognitive Impairment Systematic Review Meta",
+        "returned": 5,
+        "state": "lightly_reported"
+      }
+    },
+    "42954453": {
+      "checked_at": "2026-10-30T16:55:55.056263+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Internet use depression among frail secondary analysis English longitudinal ageing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42954618": {
+      "checked_at": "2026-10-30T16:55:58.236591+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Caregiver related barriers dementia diagnosis treatment prospective observational caregivers patients",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42955077": {
+      "checked_at": "2026-10-30T16:55:03.349301+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Prevalence osteoporosis osteopenia patients rotator cuff tears systematic review meta",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42955080": {
+      "checked_at": "2026-10-30T16:55:28.617973+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Preventing fractures Western Sydney three year outcomes Australian fracture liaison",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42955373": {
+      "checked_at": "2026-10-30T16:55:05.405931+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://bioengineer.org/dual-task-walking-reveals-gait-changes-tied-to-cognitive-impairment-in-small-vessel-disease/",
+            "outlet": "Bioengineer.org",
+            "title": "Dual-task walking reveals gait changes tied to cognitive impairment in small vessel disease"
+          }
+        ],
+        "outlets": [
+          "Bioengineer.org"
+        ],
+        "query": "Changes gait function associated cerebral small vessel disease related cognitive",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42955513": {
+      "checked_at": "2026-10-30T16:56:25.852944+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://bioengineer.org/breastfeeding-shows-no-lasting-link-to-maternal-bone-health-a-decade-after-birth/",
+            "outlet": "Bioengineer.org",
+            "title": "Breastfeeding shows no lasting link to maternal bone health a decade after birth"
+          }
+        ],
+        "outlets": [
+          "Bioengineer.org"
+        ],
+        "query": "Breastfeeding maternal bone health years postpartum findings ROLO longitudinal cohort",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42955660": {
+      "checked_at": "2026-10-30T16:54:59.782450+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Validation intrinsic capacity index effects aspirin males females secondary analysis",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42956395": {
+      "checked_at": "2026-10-30T16:55:48.062060+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Changes Instrumental Support Around Retirement Longitudinal Evidence Europe",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42956453": {
+      "checked_at": "2026-10-30T16:55:24.451885+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Care Need Level Worsening After Hip Fracture Surgery Kyoto Japan",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42956513": {
+      "checked_at": "2026-10-30T16:56:43.012827+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "associations triglyceride cholesterol body weight index relative handgrip strength onset",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42956683": {
+      "checked_at": "2026-10-30T16:56:39.837163+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Smartphone assessment postural sway prospective falls large community based",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42956696": {
+      "checked_at": "2026-10-30T16:55:25.907093+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.openpr.com/news/4677869/postoperative-pain-management-market-size-in-the-7mm",
+            "outlet": "openPR.com",
+            "title": "Postoperative Pain Management Market Size in the 7MM"
+          }
+        ],
+        "outlets": [
+          "openPR.com"
+        ],
+        "query": "Acupuncture postoperative pain management functional recovery after total knee arthroplasty",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42957010": {
+      "checked_at": "2026-10-30T16:56:01.334148+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Relationship between physical psychological function post discharge life space mobility",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42957065": {
+      "checked_at": "2026-10-30T16:56:14.613027+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Serum proteomic correlates arts cultural engagement their associations health outcomes",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42957802": {
+      "checked_at": "2026-10-30T16:55:43.330468+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Oocyte specific OMC1 required maintaining chromosome cohesion through reproductive life",
+        "returned": 7,
+        "state": "unreported"
+      }
+    },
+    "42958309": {
+      "checked_at": "2026-10-30T16:56:44.374341+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "prospective observational measuring stability plasma pTau181 using Elecsys Phospho Tau",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42958638": {
+      "checked_at": "2026-10-30T16:55:41.889498+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Adaptive driving not unsafe drivers compensatory strategies lower simulated crash",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42958736": {
+      "checked_at": "2026-10-30T16:56:07.379593+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Traumatic brain injury history moderates age related episodic memory change",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42959393": {
+      "checked_at": "2026-10-30T16:56:32.226169+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Differences anti amyloid therapy eligibility assessment based use SWI versus",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42960446": {
+      "checked_at": "2026-10-30T16:55:39.126078+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Motor Cortex Disinhibition Dissociated Clinical Motor Features Parkinson Disease Longitudinal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42960478": {
+      "checked_at": "2026-10-30T16:55:16.381379+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Prediction First Recurrent Falls Parkinson Disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42961317": {
+      "checked_at": "2026-10-30T16:55:32.862288+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Alpha synuclein main actor first Patagonia Synuclein workshop",
         "returned": 0,
         "state": "unreported"
       }

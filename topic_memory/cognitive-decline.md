@@ -1,28 +1,26 @@
 # Topic Memory: cognitive decline
-_Last updated: 2026-10-03_
+_Last updated: 2026-10-31_
 
 ## Established findings
-- Medicare Annual Wellness Visits surface more MCI diagnoses but have not shown earlier dementia diagnosis or slower decline (PMID 42456217; recurred three runs)
-- Sleep disturbance trajectories over years — not single snapshots — predict Alzheimer's risk (PMID 42542107, recurred); circadian/metabolic/mood clustering tracks with subjective decline (PMID 42567211, recurred)
-- Multidomain lifestyle programs work when they address capability, opportunity and motivation together, run 6+ months, and include social support and practical tools; cognitive benefit itself remains low certainty (PMID 42586247, recurred three runs)
-- Exercise helps thinking, but domain- and measure-specific: resistance training aids executive function/processing speed not episodic memory (PMID 42508500); cardiorespiratory fitness outperformed grip in frail adults (PMID 42821209)
-- Cheap tests hold their own against expensive ones: cued recall staging beyond p-tau217 (PMID 42561582, recurred), digital batteries (PMID 42741980), informant AD8 thresholds (PMID 42786504)
-- Basic modifiable risk factors go unmanaged even among patients pursuing anti-amyloid drugs; HbA1c missing from 42% of charts (PMID 42430964, recurred)
-- Neighborhood and place shape late-life mood and cognition: tree canopy and walkable amenities (PMID 42442669, recurred); rural residence and post-retirement decline (PMID 42826499); relocation itself is a vulnerable period
+- Physical activity tracks with better cognition across the life course, including past age 90 (PMIDs 42803718, 42959105, 42821209, 42821755; recurred 3+ runs), but evidence quality stays low — self-report, small trials, high heterogeneity, no settled dose
+- Sleep matters as a trajectory and as measurable structure, not as a single night: worsening sleep predicts Alzheimer's risk (PMID 42542107), overnight microstructure tracks 10-year cognitive change (PMID 42628340), and the sleep/metabolic/mood cluster tracks with memory complaints, more strongly in men (PMID 42567211, recurred)
+- Menopausal hormone therapy shows no cognitive protection; a woman's own reproductive span tracks with better trajectories (PMID 41979543, recurred two runs)
+- Cheap, repeated or low-tech measures hold their own against expensive one-off testing: repeated phone-based memory tasks (PMID 42954140), cued recall staging (PMID 42561582), smartphone gait (PMID 42595024), informant AD8 thresholds (PMID 42786504)
+- Blood biomarkers plus APOE sharpen risk prediction years before symptoms (PMIDs 42716078, 42906069, 42807347), but APOE is a poor one-size-fits-all marker across populations (PMID 42805940)
+- An older adult's own report of cognitive difficulty carries real signal even when testing looks normal — specific but insensitive (PMIDs 42855369, 42640298)
 
 ## Emerging threads
-- APOE ε4 is a poor one-size-fits-all marker: no significant association in Hispanic/Latino adults (PMID 42805940), dose effect strongest in ε44 homozygotes (PMID 42807347), modified by GDNF (PMID 42599691), modifies p-tau217 interpretation (PMID 42716078)
-- Body measures as brain signals — grip plus obesity (PMID 42825653), grip/SPPB mediated by activity (PMID 42821755), 2-minute walk (PMID 42821209), smartphone gait timing (PMID 42595024), body fat and survival (PMID 42606290)
-- Women's reproductive history and cognition, with hormone therapy showing no cognitive protection (PMID 41979543) and conflicting signals in Latin American evidence (PMID 42824184)
-- Self-report vs informant report: the person's own sense of difficulty may be the earliest signal (PMID 42640298) even as informant tools gain thresholds (PMID 42786504)
-- Defined subgroups with their own clocks: epilepsy after Alzheimer's in Down syndrome (PMID 42692040); DBS timing in GBA1 Parkinson's carriers (PMID 42817906)
-- Sensory and psychosocial exposures tested more rigorously: hearing aids in MCI missed the primary endpoint but showed secondary cognitive recovery (PMID 42804222); intimacy linked to slower decline (PMID 42648931); late-life trauma linked to faster memory decline (PMID 42606294)
-- Culture, sex and representation shape both findings and evidence gaps (PMIDs 42424748, 42824184, 42805940; only 13% of lifestyle trials recorded ethnicity)
+- Not everything that looks like Alzheimer's is Alzheimer's: frailty depresses scores independent of amyloid/tau (PMID 42816830), iNPH is partly reversible and commonly missed (PMID 42734938), vascular reactivity and white matter damage track with cognition and behavior independent of atrophy (PMIDs 42803706, 42893064)
+- Detection is outrunning delivery: national memory-clinic capacity reaches under 10% of patients (PMID 42953259), real-world anti-amyloid courses demand 18 months of infusions and MRIs with 12.9% ARIA (PMID 42664573), while basics still go unmanaged (PMID 42430964)
+- Care process as a cognitive variable: coordinated care and tangible medical help track with slower decline (PMID 42875818); professional settings outperformed home care largely via behavioral symptom management (PMID 42758043); cognitively impaired patients get excluded from advance care planning (PMID 42586324)
+- Readiness and program design, not curriculum, predict who benefits from brain-health programs (PMIDs 42922285, 42586247)
+- Oral health and tooth loss as a progression marker from MCI to dementia (PMID 42803715)
+- Social connection may matter most in people already carrying Alzheimer's biology (PMID 42909777), building on intimacy findings (PMID 42648931)
+- Statins associated with lower Alzheimer's risk and better cognitive scores — counterweight to the "statins cause confusion" folk belief (PMID 42903333)
 
 ## Feature ideas already pitched
-- "The New Math of Brain Health" — multimodal intervention (July 2026)
-- "It's Not How Many Friends You Have" — social connection quality vs. quantity (Aug 2026)
-- "What Your Liver, Heart, and Teeth Have to Do with Your Memory" — metabolic/vascular pathways (Aug 2026)
 - "What Your Sleep History Says About Your Brain's Future" — longitudinal sleep as biomarker (Sep 5 2026)
-- Alzheimer's blood tests arrive without counseling — probabilities, negative results, who explains them (Sep 19 2026)
+- Alzheimer's blood tests arrive without counseling — probabilities, negatives, who explains them (Sep 19 2026)
 - Cheap physical measures as brain signals — walk tests, grip, gait timing, body fat (Oct 3 2026)
+- "Not Every Memory Problem Starts With Alzheimer's" — frailty, iNPH, vascular and sleep mimics, and what to ask before accepting a diagnosis (Oct 31 2026)
+- Earlier: multimodal intervention math (Jul 2026); social connection quality vs quantity (Aug 2026); metabolic/vascular/dental pathways to memory (Aug 2026)

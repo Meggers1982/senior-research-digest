@@ -1,0 +1,980 @@
+{
+  "id": "senior-living-research-digest-cognitive-decline-october-2026-part-2",
+  "filename": "Senior Living Research Digest \u2014 Cognitive Decline \u2014 October 2026 (Part 2).md",
+  "title": "Senior Living Research Digest \u2014 Cognitive Decline \u2014 October 2026 (Part 2)",
+  "run_date": "2026-10-31",
+  "coverage_window": "Last 90 days",
+  "journals_searched": "187",
+  "articles_screened": "40",
+  "focus": "cognitive decline",
+  "topic": "cognitive decline",
+  "is_broad": false,
+  "primary_audience": "older adults and seniors",
+  "secondary_audience": "families, caregivers, and senior living professionals",
+  "study_count": 23,
+  "studies": [
+    {
+      "number": 1,
+      "title": "A Blood Test Plus a Gene Check Can Flag Dementia Risk Years Before Symptoms",
+      "journal": "Lancet Neurol",
+      "published": "2026 Nov;25(11):1010-1024",
+      "pmid": "42716078",
+      "doi": "10.1016/S1474-4422(26)00313-3",
+      "the_study": "Researchers pooled individual data from seven prospective cohorts in the US, Canada, and the Dominican Republic, covering 8,582 adults (mean age 70, about two-thirds women, 16% Black, 47% non-Hispanic White, 37% Hispanic or other backgrounds) who had blood measurements of phosphorylated tau 217 (p-tau217), APOE genotype, and clinical cognitive assessments. Higher p-tau217 predicted both existing and future cognitive impairment, and the risk was markedly stronger in APOE-e4 carriers (hazard ratio 1.76 per standard deviation increase) than non-carriers (1.26). Among the 4,569 participants who were cognitively normal at baseline, differences in impairment-free survival appeared 3 to 4 years after the blood draw, before any symptoms emerged.",
+      "why_it_matters": "Blood-based Alzheimer's biomarkers are moving rapidly into clinical practice, and this analysis shows that combining a simple blood test with genetic information sharpens predictions of who will decline and roughly when \u2014 information that shapes monitoring, planning, and eligibility for new treatments.",
+      "story_angle_primary": "If you have a family history of Alzheimer's or know you carry an APOE-e4 variant, it is reasonable to ask your doctor what blood biomarker testing can and cannot tell you \u2014 including the fact that a result is a probability estimate, not a diagnosis, and that you should think through in advance how you would use the information.",
+      "story_angle_secondary": "For clinicians and senior living operators, this research signals that a growing share of residents and patients will arrive already knowing their biomarker risk status. Staff should be prepared for conversations about what elevated p-tau217 means practically, and for the emotional fallout of pre-symptomatic risk knowledge.",
+      "caveats": "Observational pooled cohort design \u2014 cannot establish causation, and biomarker levels predict risk rather than guarantee outcomes. Participants were recruited through academic research centers and community settings and were at elevated dementia risk, so results may not generalize to the general population. Several authors report extensive consulting relationships with diagnostic and pharmaceutical companies; funding came from the National Institutes of Health.",
+      "score": 77,
+      "band": "Strong",
+      "evidence_type": "cohort",
+      "sample_size": 8582,
+      "journal_tier": 1,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 2,
+      "title": "When Older Surgery Patients Say Their Thinking Feels Off, Tests Often Agree",
+      "journal": "Am J Geriatr Psychiatry",
+      "published": "2026 Dec;34(12):1545-1555",
+      "pmid": "42855369",
+      "doi": "10.1016/j.jagp.2026.08.020",
+      "the_study": "In a prospective cohort of 187 analyzed patients aged 65 and older undergoing elective noncardiac surgery, researchers measured cognition before surgery and daily for three days afterward using verbal fluency, word list learning, and digit span backward tests, while also asking patients their own opinion of their thinking via the Subjective Cognitive Questionnaire. Patients' complaints matched measured declines in each domain \u2014 most strongly for working memory (odds ratio 5.15 for digit span backward) and executive function/language (1.79 for verbal fluency). However, the tests' ability to discriminate was only poor to moderate (AUC 0.52-0.66), with high specificity but low sensitivity.",
+      "why_it_matters": "It confirms that an older patient's own report of post-surgical mental fogginess usually reflects something real and should not be brushed off as normal recovery \u2014 while also showing that silence is not reassurance, since many people with measurable decline do not complain.",
+      "story_angle_primary": "If you are having surgery, pay attention to your own sense of mental clarity in the days afterward and say something to the care team if word-finding, concentration, or memory feels different \u2014 your perception carries real signal. Equally, do not assume that feeling fine means nothing has changed.",
+      "story_angle_secondary": "For families and hospital discharge planners, this argues against relying on a patient's self-report alone as a cognitive screen. Because sensitivity is low, consider brief objective checks before discharge, especially for patients living alone or managing complex medications.",
+      "caveats": "Single-center study at an academic medical center; observational design cannot establish causation; discrimination of subjective complaints was modest; follow-up was only three postoperative days; findings apply to elective noncardiac surgery and may not generalize to emergency or cardiac procedures.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 3,
+      "title": "Longer Reproductive Years Linked to Slower Cognitive Decline in 14,000 Nurses",
+      "journal": "Menopause",
+      "published": "2026 Oct 1;33(10):1066-1079",
+      "pmid": "41979543",
+      "doi": "10.1097/GME.0000000000002782",
+      "the_study": "Researchers tracked cognitive change over roughly eight years using four telephone test batteries (1995-2008) in 14,217 Nurses' Health Study participants with a mean age of 74.3. Women whose reproductive span \u2014 age at menopause minus age at first period \u2014 was 41 to 46 years had better cognitive trajectories than those with spans of 33 years or less. Menopausal hormone therapy showed no cognitive benefit; in fact, longer use started within 10 years of menopause was associated with slightly faster decline, while use beginning 11 or more years after menopause showed no association.",
+      "why_it_matters": "The findings separate a woman's natural lifetime estrogen exposure, which tracked with better late-life thinking, from hormone pills taken after menopause, which did not deliver the cognitive protection many women hope for.",
+      "story_angle_primary": "If you are weighing menopausal hormone therapy, this large study suggests cognitive protection is not a reason to take it \u2014 discuss with your clinician the symptom relief and bone-health reasons it is actually prescribed for, and the risks, rather than counting on a brain benefit.",
+      "story_angle_secondary": "For clinicians and health educators counseling women, reproductive history may eventually prove useful as a background risk marker in cognitive aging conversations, but these data do not support recommending or extending hormone therapy for brain health.",
+      "caveats": "Observational cohort \u2014 cannot establish causation, and hormone therapy users differ systematically from non-users. Effect sizes for cognitive trajectory differences were very small. Participants were almost entirely White female health professionals, limiting generalizability. Cognitive testing was conducted by telephone. Several authors disclose institutional or personal financial relationships with industry, including GlaxoSmithKline, Pfizer, Mars Edge, and Nestle Purina.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 4,
+      "title": "Portugal's Memory Clinics Reach Fewer Than 1 in 10 Alzheimer's Patients as New Drugs Arrive",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 28;18(4):e70513",
+      "pmid": "42953259",
+      "doi": "10.1002/dad2.70513",
+      "the_study": "A nationwide survey of 51 Portuguese specialist units found only 20 had organized memory clinics, together covering about 61% of the population. In 2024 these centers delivered 21,721 consultations \u2014 expert care for under 10% of the country's estimated Alzheimer's patients \u2014 with long waits and limited biomarker access (only 26.2% of patients received spinal fluid testing or amyloid PET). Experts estimated just 701 patients nationwide could currently start the new anti-amyloid therapies lecanemab or donanemab.",
+      "why_it_matters": "Approval of a disease-modifying drug means little without the diagnostic infrastructure, specialist time, and monitoring capacity to deliver it \u2014 a bottleneck playing out in health systems well beyond Portugal.",
+      "story_angle_primary": "If you or a family member has memory concerns, ask early about referral to a memory clinic and what biomarker testing is available where you live \u2014 waiting lists, not eligibility, are often the real barrier to being considered for newer treatments.",
+      "story_angle_secondary": "Senior living and care-coordination professionals should map local diagnostic capacity now, including which centers can perform amyloid PET or spinal fluid testing and handle the MRI monitoring these drugs require, so families are not sent into a queue they cannot navigate.",
+      "caveats": "Cross-sectional survey of service capacity rather than patient outcomes; relies partly on experts' estimates rather than measured counts; findings are specific to Portugal's health system and may not generalize; not all units responded.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 701,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 5,
+      "title": "Cognitive Changes Cut Patients Out of End-of-Life Planning Conversations",
+      "journal": "J Pain Symptom Manage",
+      "published": "2026 Dec;72(6):682-693.e5",
+      "pmid": "42586324",
+      "doi": "10.1016/j.jpainsymman.2026.08.002",
+      "the_study": "Researchers reviewed the population-based PARALS register in Italy covering 1,219 people with amyotrophic lateral sclerosis diagnosed between 2008 and 2020. Just over half (53.7%) had documented advance care planning discussions, and when those conversations happened, 90.8% of expressed preferences matched what actually occurred at the end of life. Patients with cognitive impairment \u2014 including frontotemporal dementia and intermediate cognitive-behavioral impairment \u2014 were significantly less likely to have had those discussions, while advance care planning was linked to palliative care activation, gastrostomy placement, and dying at home.",
+      "why_it_matters": "The study shows advance care planning conversations overwhelmingly translate into honored wishes, yet the people whose thinking is changing \u2014 exactly those at risk of losing the ability to express preferences \u2014 are the ones least likely to have them.",
+      "story_angle_primary": "If you are living with a progressive neurological condition, or notice changes in your memory or decision-making, start documenting your care preferences now rather than later \u2014 the window for your voice to count narrows as cognition changes, and recorded wishes were followed about 90% of the time in this study.",
+      "story_angle_secondary": "For clinicians and care teams, the finding is an argument for triggering advance care planning at diagnosis rather than at crisis, and for adapting the conversation \u2014 simplified language, surrogate involvement, multiple shorter sessions \u2014 when cognitive-behavioral impairment is present rather than quietly skipping it.",
+      "caveats": "Retrospective register-based study \u2014 observational, cannot establish causation, and documentation of advance care planning depends on clinician record-keeping. Conducted within one Italian regional ALS network under Italy's Law 219/2017, so the legal and cultural context may not generalize. Findings concern ALS specifically and may not transfer directly to dementia populations.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 1219,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "palliative care"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 6,
+      "title": "Frailty Drags Down Thinking Skills Even When Alzheimer's Markers Say Otherwise",
+      "journal": "J Alzheimers Dis.",
+      "published": "2026 Nov;114(1):319-325",
+      "pmid": "42816830",
+      "doi": "10.1177/13872877261487377",
+      "the_study": "Researchers at a memory clinic in Milan enrolled 183 patients with mild cognitive impairment (MCI), measured spinal fluid markers of Alzheimer's disease (amyloid-beta 42, total tau, phosphorylated tau181), and scored each person's overall frailty using a 47-item index covering health deficits. Higher frailty was linked to lower Mini-Mental State Examination scores even after accounting for amyloid and tau levels, and people who were both frail and amyloid-positive scored lowest of all. Paradoxically, less frail patients were about twice as likely to have an Alzheimer's-type spinal fluid profile, suggesting frailty itself can produce memory complaints without Alzheimer's pathology.",
+      "why_it_matters": "It suggests that two people with the same memory test score may have very different underlying causes \u2014 one driven by Alzheimer's biology, the other by accumulated physical health deficits that are often more modifiable.",
+      "story_angle_primary": "If you have been told you have mild cognitive impairment, it is reasonable to ask your doctor whether your overall physical health burden \u2014 medications, mobility, nutrition, chronic conditions, sensory problems \u2014 has been formally assessed alongside memory testing, since that picture may be shaping your scores too.",
+      "story_angle_secondary": "For clinicians and senior living staff, this supports pairing cognitive screening with structured frailty assessment, and recognizing that a robust, physically fit resident with new memory complaints may actually warrant a higher index of suspicion for underlying Alzheimer's pathology.",
+      "caveats": "Cross-sectional observational design that cannot establish causation or direction; single-center memory clinic sample in Italy that may not generalize to the broader older population; global cognition captured by a single brief test (MMSE).",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 183,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "sarcopenia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 7,
+      "title": "Exercise Nudges Thinking Scores Upward in Older Women \u2014 But the Evidence Is Thin",
+      "journal": "Front Aging Neurosci.",
+      "published": "2026 Oct 15;18:1928056",
+      "pmid": "42959105",
+      "doi": "10.3389/fnagi.2026.1928056",
+      "the_study": "Researchers pooled 10 randomized controlled trials covering 446 cognitively healthy women over age 60 who were assigned to physical activity programs or control conditions. Global cognitive scores (MMSE or MoCA) were moderately higher in the exercise groups (Hedges' g = 0.63), and blood levels of brain-derived neurotrophic factor \u2014 a protein involved in neuron growth and survival \u2014 also rose. Body mass index did not change, and the authors rated the overall certainty of the evidence as very low because the individual trials were small and their results varied widely.",
+      "why_it_matters": "Older women carry a disproportionate share of dementia risk, and this adds to the case that regular movement supports brain health \u2014 though the size of the benefit is far from settled.",
+      "story_angle_primary": "The signal here is encouraging and the downside of regular physical activity is essentially nil, so if you are a woman in your 60s, 70s or beyond, this is one more reason to build consistent movement into your week \u2014 but don't expect a specific dose or program to be the proven answer yet.",
+      "story_angle_secondary": "Activity directors and family members can use this to justify making exercise programming a core offering rather than an optional extra, while being honest with residents that the evidence supports general participation more than any one branded regimen.",
+      "caveats": "Small total sample (446 across 10 trials); substantial between-study heterogeneity (I\u00b2 = 77.8%); authors themselves graded certainty of evidence as very low; no clear answer on which type, frequency or duration of activity works best; cognitive outcomes measured with brief screening tools rather than detailed testing.",
+      "score": 72,
+      "band": "Strong",
+      "evidence_type": "randomized trial",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "nutrition"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 8,
+      "title": "When Your Doctors Talk to Each Other, Your Brain May Benefit",
+      "journal": "J Am Geriatr Soc.",
+      "published": "2026 Oct 14 (online ahead of print)",
+      "pmid": "42875818",
+      "doi": "10.1111/jgs.70797",
+      "the_study": "Using the Health and Retirement Study, researchers followed 1,321 US adults aged 50 and older from 2016 to 2022, tracking cognition every two years with a 27-point telephone test. Adults who reported better-coordinated care \u2014 providers who communicated consistently \u2014 and who used patient portals had higher baseline cognitive scores. Those receiving more hands-on tangible help with medical tasks started with lower cognition, but their decline over six years was slower.",
+      "why_it_matters": "It suggests that the practical scaffolding around a person's medical care \u2014 consistent communication between providers and real help managing appointments and medications \u2014 tracks with how their thinking holds up over years.",
+      "story_angle_primary": "Consider taking stock of whether your various doctors actually share information, and whether you are set up on your health system's patient portal; if juggling your own medical tasks has become hard, asking for help with them is associated with a slower slide, not a sign of giving up.",
+      "story_angle_secondary": "For families and care coordinators, the finding that people needing the most hands-on medical assistance declined more slowly is a counterintuitive argument for leaning in: intensive practical support appears to be going to exactly the people who need it, and may be doing some good.",
+      "caveats": "Observational cohort \u2014 cannot establish causation, and the authors explicitly say so; care-coordination measures and support levels were self-reported at a single baseline point; cognition assessed by telephone screening rather than clinical diagnosis; reverse causation is plausible, since declining cognition may itself prompt more tangible support.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 9,
+      "title": "Older Women's Brain Wiring May Hold Up Better Than Men's",
+      "journal": "Neurobiol Aging",
+      "published": "2027 Jan;169:1-12",
+      "pmid": "42700636",
+      "doi": "10.1016/j.neurobiolaging.2026.08.003",
+      "the_study": "Australian researchers scanned 131 healthy older adults aged 52 to 86 using multiple imaging methods \u2014 gray matter volume, cortical thickness, and white matter tract integrity \u2014 and tested their working memory. The structural features most tied to working memory were specific white matter pathways connecting sensory and cross-hemisphere regions, not whole-brain measures. Men and women performed similarly on the memory tasks, but women showed better-preserved integrity in several of these key pathways and smaller age-related differences in them.",
+      "why_it_matters": "It offers a biological hint at why cognitive aging unfolds differently in men and women, and underscores that the connections between brain regions may matter more for day-to-day mental sharpness than overall brain size.",
+      "story_angle_primary": "This is early-stage brain imaging science, not something to act on \u2014 but it is a reminder that cognitive aging is not one uniform process, and that performing well on a memory task tells you less about your brain's underlying reserve than you might assume.",
+      "story_angle_secondary": "Little direct practical guidance here for caregivers or senior living staff; its value is mainly in explaining to families why two people of the same age can age cognitively in very different ways.",
+      "caveats": "Small sample (N=131); cross-sectional, so age differences are between people rather than within the same person over time; healthy volunteers from a single Australian cohort may not generalize; findings are mechanistic and carry no immediate clinical implications.",
+      "score": 42,
+      "band": "Background",
+      "evidence_type": "cohort",
+      "sample_size": 131,
+      "journal_tier": 3,
+      "coverage_state": "widely_reported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 0,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": [
+        "The Guardian",
+        "Verywell Mind",
+        "YourTango"
+      ]
+    },
+    {
+      "number": 10,
+      "title": "Staying Active Still Protects Thinking Skills Well Into Your 90s",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Nov",
+      "pmid": "42803718",
+      "doi": "10.1177/13872877261487392",
+      "the_study": "Researchers followed a community-dwelling Jerusalem cohort born in 1920-1921, assessing participants at ages 70, 78, 85, 90, 95 and 100 (n ranged from 205 to 1,222 at each wave) between 1990 and 2023. Physical activity was self-reported and split into sedentary (under 4 hours a week) versus active (more than 4 hours a week), with cognitive impairment defined as a Mini-Mental State Examination score of 23 or below. Being sedentary at baseline roughly tripled the odds of cognitive impairment eight years later between ages 78-85 (OR 2.61) and 85-90 (OR 2.90); a similar but non-significant pattern appeared from 90 to 95.",
+      "why_it_matters": "Much of the exercise-and-brain evidence stops at age 80, so this extends the case for movement into the oldest ages \u2014 a period when many people and their doctors quietly assume it is too late to bother.",
+      "story_angle_primary": "If you are in your 80s or 90s, this is reason to ask your clinician what kind of movement is safe and realistic for you now \u2014 walking, chair exercise, gardening \u2014 rather than assuming activity no longer pays off cognitively at your age.",
+      "story_angle_secondary": "For senior living operators, the finding argues against treating activity programming as mainly a mobility or falls issue; the 'very old' residents least likely to be enrolled in movement programs (only 16-27% were active past age 90) may be the ones with the most to gain.",
+      "caveats": "Observational design cannot establish causation \u2014 early cognitive changes may themselves reduce activity. Physical activity was self-reported and crudely dichotomized; cognition was screened with the MMSE alone. A single Jerusalem birth cohort with survivor effects at the oldest ages may not generalize.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 11,
+      "title": "Losing All Your Teeth Is Linked to Faster Progression From Mild Memory Problems to Dementia",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Nov",
+      "pmid": "42803715",
+      "doi": "10.1177/13872877261487358",
+      "the_study": "Researchers pooled 22,205 adults aged 50 and older from long-running cohort studies in China, the United States and England and tracked cognitive state transitions over a median 12.3 years using multi-state Markov models. Between 7% and 22% of participants were edentulous (had lost all natural teeth) at baseline. Edentulism was associated with a 26% higher risk of moving from mild cognitive impairment to dementia and a 27% higher risk of death, with consistent results across age and sex subgroups.",
+      "why_it_matters": "Oral health is often the first thing to slip when energy, dexterity or money run short in later life, yet it is modifiable \u2014 and this large multi-country analysis places it on the map as a potential dementia-prevention target.",
+      "story_angle_primary": "Keeping up dental visits, denture fit and daily mouth care is worth protecting in your budget and routine \u2014 and if cost or transportation is the barrier, it is worth asking your primary care clinician or local Area Agency on Aging about low-cost dental options.",
+      "story_angle_secondary": "For care staff and family caregivers, routine mouth care and denture checks deserve the same status as medication management; the data suggest oral health tracks with how quickly someone with MCI may decline, making it a practical flag during care planning.",
+      "caveats": "Observational design \u2014 tooth loss may be a marker of shared risks (smoking, poverty, diabetes, poor diet) rather than a cause of dementia. Cognitive status was determined by cohort screening measures rather than clinical diagnosis, and population attributable fractions were modest (under 7%).",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 22205,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 12,
+      "title": "Four in Five Patients Stuck With Lecanemab for the Full 18 Months, Japanese Clinic Reports",
+      "journal": "J Prev Alzheimers Dis",
+      "published": "2026 Nov",
+      "pmid": "42664573",
+      "doi": "10.1016/j.tjpad.2026.100664",
+      "the_study": "Clinicians at Kanazawa University Hospital tracked 117 patients with early Alzheimer's disease receiving lecanemab in routine practice, focusing on the 64 who started treatment during 2024 and could complete a full 18-month course. Of those, 78.1% finished the course and all 48 who were eligible chose to keep going beyond 18 months; discontinuations were driven by amyloid-related imaging abnormalities (ARIA), loss of motivation, and cognitive decline. ARIA occurred in 12.9% overall and was more likely in APOE \u03b54 carriers and in those with high baseline spinal-fluid p-tau181, two or more microbleeds, or significant white matter changes on MRI.",
+      "why_it_matters": "Families weighing anti-amyloid infusion therapy want to know what the experience looks like outside a clinical trial \u2014 how many people stay on it, who runs into brain swelling or bleeding, and whether anything predicts trouble in advance.",
+      "story_angle_primary": "If you or your clinician are considering lecanemab, ask what your baseline MRI shows (microbleeds, white matter changes), whether APOE genotyping is appropriate, and whether spinal-fluid or blood tau testing could help gauge your personal risk of ARIA before you commit to 18 months of infusions.",
+      "story_angle_secondary": "For care communities and family caregivers, the logistics matter as much as the biology: biweekly infusions plus surveillance MRIs over 18 months is a substantial transportation and scheduling commitment, and 'decreased motivation' was the second most common reason people stopped.",
+      "caveats": "Single-center Japanese cohort with no control group and a small completer subgroup (n=64); findings may not generalize to other health systems or populations. Two authors report financial support from Eisai, lecanemab's manufacturer. The paper has a published erratum.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 117,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 13,
+      "title": "Sleep Quality in Your 50s and 60s Tracks With How Your Thinking Holds Up a Decade Later",
+      "journal": "Sleep Med",
+      "published": "2026 Dec",
+      "pmid": "42628340",
+      "doi": "10.1016/j.sleep.2026.109211",
+      "the_study": "Danish researchers studied men from the Metropolit 1953 birth cohort who completed cognitive testing twice, ten years apart (n=206 at baseline, n=106 at follow-up), with overnight sleep lab recordings at baseline only. Over the decade, processing speed and symbol-conversion scores declined measurably. Higher sleep efficiency was linked to better preservation of cognition, while more time awake after falling asleep and more frequent arousals correlated with poorer memory and learning; deeper sleep stages (N2 and N3) and specific brain-wave features such as sleep spindles and slow waves tracked with better processing speed, attention and global cognition.",
+      "why_it_matters": "It adds longitudinal human evidence that fragmented, shallow sleep in later midlife is not just unpleasant but travels with the trajectory of cognitive aging \u2014 and that measurable sleep features might eventually serve as early markers.",
+      "story_angle_primary": "Persistent night-time waking and unrefreshing sleep are worth raising with your doctor rather than accepting as inevitable with age \u2014 untreated sleep apnea, pain, nocturia and some medications are common, fixable contributors to the fragmented sleep pattern seen here.",
+      "story_angle_secondary": "In residential settings, nighttime checks, noise, light and scheduling routinely interrupt sleep; this study strengthens the argument for auditing overnight practices that drive arousals and wake-after-sleep-onset.",
+      "caveats": "Small N \u2014 microstructure analyses rested on just 82 men, with roughly half the original cohort lost by follow-up. Men only, single birth cohort, single country; sleep measured at one time point only. The authors describe the findings as exploratory and observational, so no causal conclusion is supported.",
+      "score": 65,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 206,
+      "journal_tier": 2,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "falls",
+        "sleep"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 14,
+      "title": "A Treatable Cause of Walking, Bladder and Memory Trouble That Often Gets Mistaken for Dementia",
+      "journal": "JAMA",
+      "published": "2026 Oct 20",
+      "pmid": "42734938",
+      "doi": "10.1001/jama.2026.15519",
+      "the_study": "Johns Hopkins clinicians reviewed the evidence on idiopathic normal pressure hydrocephalus (iNPH), a disorder of cerebrospinal fluid buildup that affects an estimated 1% to 4% of adults 65 and older and 6% to 8% of those 80 and older. The classic picture is a broad-based, slow, shuffling gait with difficulty turning (85-95% of patients), urinary urgency or incontinence (75-90%), and cognitive problems involving attention, processing speed and mental flexibility (60-80%). Diagnosis combines clinical findings, MRI, and a large-volume lumbar puncture or extended lumbar drainage to test whether gait improves; after shunt surgery, 75-80% see gait improvement and 50-70% see cognitive or urinary gains.",
+      "why_it_matters": "iNPH is one of the few causes of cognitive decline in older adults that can be substantially reversed, and outcomes are better the earlier it is caught \u2014 yet its symptoms are easily written off as ordinary aging or Alzheimer's.",
+      "story_angle_primary": "If walking trouble came first \u2014 a slow, wide, 'feet stuck to the floor' gait \u2014 and was then joined by bladder urgency and slowed thinking, ask your clinician specifically whether normal pressure hydrocephalus has been ruled out with brain imaging; timing of symptom onset is a useful clue to bring to the appointment.",
+      "story_angle_secondary": "For families and senior living staff, the practical takeaway is pattern recognition and documentation: note the order in which gait, continence and cognitive changes appeared, since that sequence is what prompts a specialist workup. Shunt surgery also carries real risks \u2014 overdrainage or underdrainage in 10-30% and malfunction in 10-20% \u2014 so follow-up planning matters.",
+      "caveats": "This is a narrative clinical review, not new original research; it synthesizes existing evidence rather than testing an intervention. Shunt response rates come largely from selected surgical series, and imaging findings alone do not reliably predict who will benefit.",
+      "score": 58,
+      "band": "Background",
+      "evidence_type": "unspecified",
+      "sample_size": null,
+      "journal_tier": 1,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 5,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "falls"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 15,
+      "title": "Brief Brain Games on Your Phone Can Spot Memory Changes Years Before Standard Tests",
+      "journal": "JMIR Aging",
+      "published": "2026 Oct 27",
+      "pmid": "42954140",
+      "doi": "10.2196/100917",
+      "the_study": "Researchers from the Harvard Aging Brain Study had 209 cognitively unimpaired older adults (mean age 73.6, range roughly mid-60s to 90s; 65% women) complete a short smartphone-based face-name memory task on multiple consecutive days, repeated up to four times over an average of 2.8 years. Using computational modeling of response times, they found that each person's best expected speed slowed by about 0.04 seconds per year \u2014 roughly 2% annually. Older participants showed steeper annual slowing, more day-to-day variability in performance, less learning across testing sessions, and more forgetting between sessions.",
+      "why_it_matters": "Conventional memory testing done once a year is too blunt to catch subtle change, but repeated at-home digital testing over just a few days appears sensitive enough to detect real cognitive shifts in under three years \u2014 potentially allowing earlier conversations about brain health.",
+      "story_angle_primary": "If your clinic or a research study offers brief at-home digital memory testing across several days rather than a single office visit, it may be worth asking about: how consistently you perform day to day, and how much you learn and retain between sessions, carries information that a one-time test can miss. Day-to-day ups and downs in performance are normal and expected \u2014 the pattern over time is what researchers track.",
+      "story_angle_secondary": "For senior living and clinical staff, this points toward a practical model for monitoring residents: short, repeated remote assessments that produce a performance trajectory instead of a single snapshot, which could flag who deserves a fuller workup \u2014 though the tools remain research instruments, not diagnostic ones.",
+      "caveats": "Observational cohort design; participants were drawn from a research cohort of cognitively unimpaired volunteers who are likely more educated and health-engaged than the general population, limiting generalizability; relatively short follow-up (mean 2.8 years); several authors report consulting fees and research funding from pharmaceutical companies including Eisai, Eli Lilly, Biogen, Cogstate and others.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 16,
+      "title": "Disrupted Body Clocks, Poor Sleep and Low Mood Tied to More Memory Complaints \u2014 Especially in Men",
+      "journal": "J Affect Disord",
+      "published": "2026 Dec 1",
+      "pmid": "42567211",
+      "doi": "10.1016/j.jad.2026.122346",
+      "the_study": "Investigators analyzed 2,008 cognitively normal adults in the Hubei Memory and Aging Cohort Study, scoring each for \"circadian syndrome\" \u2014 a cluster combining metabolic problems, disturbed sleep, and depressive symptoms \u2014 and comparing it with self-reported subjective cognitive decline and blood-based Alzheimer's biomarkers. Higher circadian syndrome scores tracked with more severe subjective cognitive complaints in a dose-response fashion, and with changes in plasma markers including GFAP, the amyloid A\u03b242/40 ratio, and neurofilament light. The association with cognitive complaints was notably stronger in men.",
+      "why_it_matters": "It suggests that the everyday cluster of bad sleep, metabolic trouble and low mood is not just unpleasant but travels with early signals of brain change \u2014 a combination that is modifiable and often overlooked in routine care.",
+      "story_angle_primary": "If you are noticing memory slips, it is worth taking stock of the whole cluster rather than the memory alone: sleep quality, blood pressure, waist size, blood sugar, cholesterol, and mood. These findings cannot prove that fixing one fixes the others, but each is independently worth raising with your doctor, and men in particular should not dismiss memory complaints as unrelated to sleep and mood.",
+      "story_angle_secondary": "For families and care staff, this reframes complaints like \"I'm not sleeping\" and \"I feel low\" as potentially part of the same picture as \"I'm forgetting things\" \u2014 a reason to review sleep schedules, nighttime environment and metabolic health together rather than treating each complaint in a separate silo.",
+      "caveats": "Cross-sectional design \u2014 cannot establish causation or direction; cognitive decline was self-reported rather than objectively tested; single-region Chinese cohort may not generalize; biomarker associations were exploratory and nonlinear, and the authors themselves call for longitudinal validation.",
+      "score": 47,
+      "band": "Background",
+      "evidence_type": "cohort",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression",
+        "sleep"
+      ],
+      "covered_by": [
+        "Yahoo Health"
+      ]
+    },
+    {
+      "number": 17,
+      "title": "Professional Care Settings Linked to Better Cognition and Independence Than Home Care in Alzheimer's \u2014 With Important Caveats",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Nov",
+      "pmid": "42758043",
+      "doi": "10.1177/13872877261488017",
+      "the_study": "Chinese researchers compared 309 community-dwelling adults with mild-to-moderate Alzheimer's disease \u2014 194 in professional institutional care and 115 in family home care \u2014 using standardized measures of cognition, daily functioning, neuropsychiatric symptoms and social support. After adjustment and propensity score matching, those in professional care scored nearly 2 points higher on the Montreal Cognitive Assessment and showed greater independence in activities of daily living. About 22% of the daily-functioning difference was statistically explained by fewer neuropsychiatric symptoms such as agitation and apathy.",
+      "why_it_matters": "Families agonizing over whether to move a relative with dementia into professional care often assume home is automatically better; this suggests the structured management of behavioral symptoms in professional settings may be a meaningful part of the equation.",
+      "story_angle_primary": "If you are planning ahead for your own care with a dementia diagnosis, the key question raised here isn't institution versus home \u2014 it's how well behavioral and psychological symptoms will be managed, since that appeared to drive much of the difference in day-to-day independence. Ask any prospective setting, including home-based arrangements, how they handle agitation, apathy, sleep disturbance and mood.",
+      "story_angle_secondary": "For family caregivers, this is a reason to seek training and professional support in managing neuropsychiatric symptoms rather than to assume home care is inferior \u2014 and for senior living operators, it supports highlighting structured behavioral symptom management as a measurable quality marker.",
+      "caveats": "Cross-sectional and observational \u2014 cannot establish causation, and families who choose institutional care may differ systematically from those who don't (reverse causation is plausible, since healthier or wealthier patients may be placed differently); conducted in a single Chinese region where care models and family structures may not match Western settings; propensity matching reduces but does not eliminate confounding.",
+      "score": 42,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": null,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": [
+        "The Independent"
+      ]
+    },
+    {
+      "number": 18,
+      "title": "Blood Vessel Responsiveness in the Brain May Flag Thinking Problems That Shrinkage Alone Doesn't",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Nov",
+      "pmid": "42803706",
+      "doi": "10.1177/13872877261487149",
+      "the_study": "Researchers scanned 120 healthy older adults (ages 60\u201389) and 181 younger adults (18\u201334), measuring both cerebrovascular reactivity \u2014 how well brain blood vessels respond and dilate \u2014 and gray matter volume across major brain lobes. The two measures were not correlated with each other, but they interacted: older adults with greater decline in blood vessel responsiveness had poorer executive function regardless of whether their gray matter had shrunk. Declining vascular reactivity in the occipital lobe was linked to worse executive performance even when brain volume was well preserved.",
+      "why_it_matters": "It suggests that brain vascular health is a separate, potentially earlier signal of thinking problems than structural brain shrinkage \u2014 reinforcing why cardiovascular risk factors matter for cognition even when scans look structurally normal.",
+      "story_angle_primary": "A structurally \"normal-looking\" brain scan doesn't necessarily mean your brain's blood supply is in good shape. The practical takeaway is to keep attending to the vascular basics your doctor already monitors \u2014 blood pressure, cholesterol, blood sugar, smoking, and physical activity \u2014 because this research suggests vessel function and brain volume are separate pieces of the cognitive picture.",
+      "story_angle_secondary": "For clinicians and care professionals, this supports a multi-modal view of cognitive assessment and a caution against reassuring families based on structural imaging alone; the measure studied here, however, is a research technique not yet used in routine practice.",
+      "caveats": "Cross-sectional and observational \u2014 cannot establish causation; modest sample of older adults (N=120); single-center study of healthy volunteers who may not represent the broader older population; one co-author is affiliated with GE Healthcare MR Research; cerebrovascular reactivity imaging is not a clinically available test.",
+      "score": 52,
+      "band": "Background",
+      "evidence_type": "cross-sectional",
+      "sample_size": 120,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 2,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 19,
+      "title": "Statin users in a half-million-person UK study had a modestly lower risk of Alzheimer's",
+      "journal": "Front Aging Neurosci",
+      "published": "2026 Oct 6",
+      "pmid": "42903333",
+      "doi": "10.3389/fnagi.2026.1961033",
+      "the_study": "Researchers followed 502,401 UK Biobank participants for a median of 9.24 years and recorded 975 new cases of Alzheimer's disease. After adjusting for other factors and repeating the analysis with propensity score matching, statin use was associated with a roughly 28% lower risk of developing Alzheimer's (HR 0.72, 95% CI 0.52-0.98). Among participants aged 65 and older, statin users also performed better on cognitive testing than non-users, and taking blood pressure or diabetes medications alongside statins did not change the pattern.",
+      "why_it_matters": "Millions of older adults already take statins for cholesterol, and lingering worries that these drugs cloud thinking have led some to stop; this large cohort points the other way, toward a possible brain benefit.",
+      "story_angle_primary": "If you've been hesitant about a statin because you heard it might fog your memory, this large study found the opposite association \u2014 better cognitive scores and fewer Alzheimer's diagnoses among users. It's not proof the drug protects your brain, but it's a reasonable thing to raise at your next medication review rather than quietly stopping a prescription on your own.",
+      "story_angle_secondary": "For care staff and family members managing a resident's medication list, this is a useful counterweight to the persistent folk belief that statins cause confusion \u2014 but it is not grounds for starting anyone on a statin for cognitive reasons. Flag unexplained cognitive changes to the prescriber instead of assuming the cholesterol pill is the culprit.",
+      "caveats": "Observational cohort \u2014 cannot establish causation; statin users may differ systematically from non-users in health behaviors and access to care (healthy-user bias); only 975 Alzheimer's cases out of 502,401 participants, and the confidence interval nearly crosses 1.0; UK Biobank volunteers are healthier and less diverse than the general population.",
+      "score": 57,
+      "band": "Background",
+      "evidence_type": "cohort",
+      "sample_size": 502401,
+      "journal_tier": 3,
+      "coverage_state": "lightly_reported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 2,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 5,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline",
+        "dementia",
+        "polypharmacy"
+      ],
+      "covered_by": [
+        "Science Daily"
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Loneliness tracked with brain shrinkage \u2014 but mainly in older adults who already carried an Alzheimer's blood marker",
+      "journal": "Geroscience",
+      "published": "2026 Oct 23",
+      "pmid": "42909777",
+      "doi": "10.1007/s11357-026-02614-z",
+      "the_study": "Investigators analyzed baseline data from 601 cognitively healthy adults aged 65-80 in the IGNITE trial, combining the revised UCLA Loneliness Scale with high-resolution brain MRI and a blood test for phosphorylated tau 217, an Alzheimer's-related protein. Greater loneliness was linked to smaller total hippocampal volume overall. More strikingly, loneliness was associated with smaller volumes in specific memory structures (the CA3 subfield and entorhinal cortex) only among the 28.9% of participants who tested positive for elevated pTau217.",
+      "why_it_matters": "It suggests loneliness may not weigh equally on every aging brain \u2014 its link to memory-region shrinkage was concentrated in people already carrying early Alzheimer's biology, making social connection a potentially higher-stakes issue for that group.",
+      "story_angle_primary": "Social connection is one of the few dementia risk factors fully within reach of daily life \u2014 and this study hints that it may matter most for people whose brains are already under biological strain. You can't know your tau status without testing, which is reason enough to treat regular, meaningful contact with others as part of your health routine rather than a nice extra.",
+      "story_angle_secondary": "For senior living operators and family caregivers, this reframes loneliness from a quality-of-life concern into a possible neurological one, and argues for identifying genuinely isolated residents rather than assuming group activities reach everyone. A resident who attends events but has no confiding relationship may still score high on loneliness measures.",
+      "caveats": "Cross-sectional baseline data from a trial \u2014 cannot establish causation or direction (early brain changes could also contribute to withdrawal and feeling lonely); loneliness self-reported; participants were 72% female and 76% White, limiting generalizability; brain volume differences are statistically small and have no direct meaning for an individual.",
+      "score": 62,
+      "band": "Worth a look",
+      "evidence_type": "cross-sectional",
+      "sample_size": 601,
+      "journal_tier": 2,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 2,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia",
+        "depression",
+        "nutrition"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 21,
+      "title": "A new blood test for tau predicted memory decline and brain shrinkage years ahead",
+      "journal": "Neurology",
+      "published": "2026 Nov 24",
+      "pmid": "42906069",
+      "doi": "10.1212/WNL.0000000000218564",
+      "the_study": "Researchers measured a tau fragment called N-terminal tau (NT1) in blood samples from 755 participants in the Alzheimer's Disease Neuroimaging Initiative (mean age 72.9, half female) and tracked them with repeated cognitive tests and brain scans. Higher NT1 levels were elevated in people with mild cognitive impairment or Alzheimer's, were linked to worse memory, and predicted faster hippocampal shrinkage over time. Accelerated hippocampal atrophy accounted for roughly 70% of the link between high baseline NT1 and later memory decline, and the effect on cognitive decline was strongest in people who also had amyloid buildup.",
+      "why_it_matters": "Blood-based Alzheimer's markers are moving rapidly from research labs toward clinics, and tests like this could eventually spare older adults spinal taps and expensive PET scans when working up memory complaints.",
+      "story_angle_primary": "Blood tests for Alzheimer's-related proteins are advancing fast, and if you're being evaluated for memory concerns it's fair to ask your clinician which blood biomarkers are validated and available where you live \u2014 and, just as importantly, what a positive result would and wouldn't change about your care.",
+      "story_angle_secondary": "For families and care teams, the practical takeaway is to expect blood biomarker results to appear more often in residents' records, and to understand that these are risk and progression markers, not diagnoses. A positive marker in someone with normal thinking is not a dementia diagnosis and should not drive care decisions on its own.",
+      "caveats": "Observational study within a research cohort; ADNI participants are highly educated, largely White, and volunteer for research, so results may not generalize to the broader population; NT1 is a research assay, not a clinically available test; findings describe group-level associations, not individual prediction.",
+      "score": 67,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 755,
+      "journal_tier": 2,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 4,
+        "recency": 0,
+        "sample_size": 3,
+        "accuracy": 2
+      },
+      "verdict": "\u26a0\ufe0f Minor issues",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 22,
+      "title": "Who actually benefits from brain-health programs? Readiness to change made the difference",
+      "journal": "Aging Ment Health",
+      "published": "2026 Oct 23",
+      "pmid": "42922285",
+      "doi": "10.1080/13607863.2026.2747821",
+      "the_study": "Korean researchers followed 92 community-dwelling older adults with mild cognitive impairment or subjective cognitive decline through a 24-week multidomain lifestyle program, and classified each person at the outset as being in a \"contemplation\" stage (thinking about change) or an \"action\" stage (already changing) using the Korean Readiness to Change Questionnaire. Cognitive testing before and after showed that participants in the action stage had roughly 72% lower odds of cognitive decline than contemplators (adjusted OR 0.28, p = 0.031), even after accounting for age, sex, education, and baseline cognition.",
+      "why_it_matters": "It suggests that the same brain-health program can yield very different results depending on where someone is psychologically when they start \u2014 and that readiness might be worth building before enrollment rather than hoping it arrives.",
+      "story_angle_primary": "If you're considering a memory or lifestyle program, your mindset going in may matter as much as the curriculum. Ask yourself honestly whether you're ready to actually change daily habits or still weighing it \u2014 and if it's the latter, it may be worth talking through the obstacles first so the program has something to work with.",
+      "story_angle_secondary": "For program directors and family members doing the encouraging, this argues against simply filling seats: a brief readiness assessment at intake could identify people who need motivational support before they'll benefit, and could explain why group programs produce such uneven results.",
+      "caveats": "Small sample (N=92), single program, observational analysis within an intervention \u2014 readiness was not randomized, so more ready participants may differ in health, support, or unmeasured motivation; Korean community sample may not generalize; no untreated control group; short 24-week follow-up.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "randomized trial",
+      "sample_size": 92,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 5,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 1,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cognitive decline",
+        "dementia"
+      ],
+      "covered_by": []
+    },
+    {
+      "number": 23,
+      "title": "Personality and mood changes in later life may be a sign of white matter damage in the brain",
+      "journal": "Alzheimers Dement (Amst)",
+      "published": "2026 Oct 17",
+      "pmid": "42893064",
+      "doi": "10.1002/dad2.70500",
+      "the_study": "Researchers examined 1,273 adults with either normal cognition or mild cognitive impairment, comparing measures of mild behavioral impairment \u2014 persistent late-life changes in mood, motivation, impulse control, or social behavior \u2014 against MRI measures of white matter hyperintensities, the bright spots that signal small-vessel damage in the brain. Greater white matter hyperintensity volume was associated with higher behavioral impairment scores in both cognitively normal and impaired participants. A voxel-level analysis pinpointed a cluster in the left inferior longitudinal fasciculus, a major white matter tract, as particularly linked to behavioral symptoms.",
+      "why_it_matters": "Lasting changes in behavior or personality in an older adult are often read as depression, stress, or \"just getting older\" \u2014 this points to the possibility that they reflect vascular damage in the brain, which is tied to blood pressure, diabetes, and other treatable risks.",
+      "story_angle_primary": "If you notice a sustained shift in your own motivation, mood, or impulse control that isn't explained by life circumstances, it's worth mentioning to your doctor rather than shrugging it off \u2014 and worth asking whether your blood pressure, cholesterol, and blood sugar are well controlled, since those drive the kind of small-vessel brain damage this study links to such changes.",
+      "story_angle_secondary": "For families and care staff, this supports documenting behavioral changes with the same seriousness as memory lapses, and raising them at medical appointments. Apathy, irritability, or uncharacteristic social behavior in a resident with otherwise intact memory may warrant a workup rather than a behavioral care plan alone.",
+      "caveats": "Cross-sectional observational analysis \u2014 cannot establish that white matter damage causes the behavioral symptoms; drawn from the ADNI research cohort, which is older, more educated, and less diverse than the general population; effect sizes at the group level say nothing definitive about any individual.",
+      "score": 70,
+      "band": "Worth a look",
+      "evidence_type": "cohort",
+      "sample_size": 1273,
+      "journal_tier": 3,
+      "coverage_state": "unreported",
+      "components": {
+        "evidence_type": 4,
+        "coverage_gap": 5,
+        "journal_tier": 3,
+        "recency": 0,
+        "sample_size": 4,
+        "accuracy": 5
+      },
+      "verdict": "\u2705 Accurate",
+      "tags": [
+        "cardiovascular disease",
+        "cognitive decline",
+        "dementia",
+        "depression"
+      ],
+      "covered_by": []
+    }
+  ],
+  "citation_table": [
+    {
+      "pmid": "42716078",
+      "journal": "Lancet Neurol",
+      "date": "2026 Nov;25(11):1010-1024",
+      "doi": "10.1016/S1474-4422(26)00313-3"
+    },
+    {
+      "pmid": "42855369",
+      "journal": "Am J Geriatr Psychiatry",
+      "date": "2026 Dec;34(12):1545-1555",
+      "doi": "10.1016/j.jagp.2026.08.020"
+    },
+    {
+      "pmid": "41979543",
+      "journal": "Menopause",
+      "date": "2026 Oct 1;33(10):1066-1079",
+      "doi": "10.1097/GME.0000000000002782"
+    },
+    {
+      "pmid": "42953259",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Oct 28;18(4):e70513",
+      "doi": "10.1002/dad2.70513"
+    },
+    {
+      "pmid": "42586324",
+      "journal": "J Pain Symptom Manage",
+      "date": "2026 Dec;72(6):682-693.e5",
+      "doi": "10.1016/j.jpainsymman.2026.08.002"
+    },
+    {
+      "pmid": "42816830",
+      "journal": "J Alzheimers Dis.",
+      "date": "2026 Nov;114(1):319-325",
+      "doi": "10.1177/13872877261487377"
+    },
+    {
+      "pmid": "42959105",
+      "journal": "Front Aging Neurosci.",
+      "date": "2026 Oct 15;18:1928056",
+      "doi": "10.3389/fnagi.2026.1928056"
+    },
+    {
+      "pmid": "42875818",
+      "journal": "J Am Geriatr Soc.",
+      "date": "2026 Oct 14 (online ahead of print)",
+      "doi": "10.1111/jgs.70797"
+    },
+    {
+      "pmid": "42700636",
+      "journal": "Neurobiol Aging",
+      "date": "2027 Jan;169:1-12",
+      "doi": "10.1016/j.neurobiolaging.2026.08.003"
+    },
+    {
+      "pmid": "42803718",
+      "journal": "J Alzheimers Dis",
+      "date": "2026 Nov",
+      "doi": "10.1177/13872877261487392"
+    },
+    {
+      "pmid": "42803715",
+      "journal": "J Alzheimers Dis",
+      "date": "2026 Nov",
+      "doi": "10.1177/13872877261487358"
+    },
+    {
+      "pmid": "42664573",
+      "journal": "J Prev Alzheimers Dis",
+      "date": "2026 Nov",
+      "doi": "10.1016/j.tjpad.2026.100664"
+    },
+    {
+      "pmid": "42628340",
+      "journal": "Sleep Med",
+      "date": "2026 Dec",
+      "doi": "10.1016/j.sleep.2026.109211"
+    },
+    {
+      "pmid": "42734938",
+      "journal": "JAMA",
+      "date": "2026 Oct 20",
+      "doi": "10.1001/jama.2026.15519"
+    },
+    {
+      "pmid": "42954140",
+      "journal": "JMIR Aging",
+      "date": "2026 Oct 27",
+      "doi": "10.2196/100917"
+    },
+    {
+      "pmid": "42567211",
+      "journal": "J Affect Disord",
+      "date": "2026 Dec 1",
+      "doi": "10.1016/j.jad.2026.122346"
+    },
+    {
+      "pmid": "42758043",
+      "journal": "J Alzheimers Dis",
+      "date": "2026 Nov",
+      "doi": "10.1177/13872877261488017"
+    },
+    {
+      "pmid": "42803706",
+      "journal": "J Alzheimers Dis",
+      "date": "2026 Nov",
+      "doi": "10.1177/13872877261487149"
+    },
+    {
+      "pmid": "42903333",
+      "journal": "Front Aging Neurosci",
+      "date": "2026 Oct 6",
+      "doi": "10.3389/fnagi.2026.1961033"
+    },
+    {
+      "pmid": "42909777",
+      "journal": "Geroscience",
+      "date": "2026 Oct 23",
+      "doi": "10.1007/s11357-026-02614-z"
+    },
+    {
+      "pmid": "42906069",
+      "journal": "Neurology",
+      "date": "2026 Nov 24",
+      "doi": "10.1212/WNL.0000000000218564"
+    },
+    {
+      "pmid": "42922285",
+      "journal": "Aging Ment Health",
+      "date": "2026 Oct 23",
+      "doi": "10.1080/13607863.2026.2747821"
+    },
+    {
+      "pmid": "42893064",
+      "journal": "Alzheimers Dement (Amst)",
+      "date": "2026 Oct 17",
+      "doi": "10.1002/dad2.70500"
+    }
+  ],
+  "trends_raw": "**Convergent findings**\n\n- Two studies carry over directly and land the same way: **Longer Reproductive Years Linked to Slower Cognitive Decline in 14,000 Nurses (PMID 41979543)** and **Disrupted Body Clocks, Poor Sleep and Low Mood Tied to More Memory Complaints (PMID 42567211)**, both of which appeared in the October 3 digest. Nothing has changed in direction \u2014 hormone therapy still shows no cognitive protection, and the sleep/metabolic/mood cluster still tracks with memory complaints more strongly in men.\n- **Physical activity keeps holding up, with the same honest caveat.** Last digest's **Fitness, Not Grip Strength (PMID 42821209)**, **Grip Strength, Walking Speed and Thinking Skills (PMID 42821755)** and **Weak grip plus excess weight (PMID 42825653)** are joined here by **Exercise Nudges Thinking Scores Upward in Older Women (PMID 42959105)** and **Staying Active Still Protects Thinking Skills Well Into Your 90s (PMID 42803718)**. Both new studies point the same way; both also flag thin evidence \u2014 the meta-analysis graded its own certainty as very low, and the Jerusalem cohort relied on self-reported activity.\n- **The person's own report keeps earning its place.** **When Older Surgery Patients Say Their Thinking Feels Off, Tests Often Agree (PMID 42855369)** reinforces the previous digest's **How You Rate Your Own Daily Functioning May Reveal More Than a Test Does (PMID 42640298)** \u2014 with a useful refinement: complaints were specific but insensitive, so silence is not reassurance.\n- **Repeated cheap measurement beats a single expensive snapshot.** **Brief Brain Games on Your Phone Can Spot Memory Changes Years Before Standard Tests (PMID 42954140)** continues the thread from **The Way You Walk (PMID 42595024)** and **A Free Memory Test Flags Which Healthy Seniors With Amyloid Are Most Likely to Decline (PMID 42561582)**.\n- **Blood biomarkers plus genotype keep sharpening.** **A Blood Test Plus a Gene Check Can Flag Dementia Risk Years Before Symptoms (PMID 42716078)** and **A new blood test for tau predicted memory decline and brain shrinkage years ahead (PMID 42906069)** extend the previous batch's **Carrying Two Copies of APOE \u03b54 (PMID 42807347)** and the APOE-modification thread in **PMID 42599691**.\n\n**Advances**\n\n- **From \"patients miss the basics\" to \"the system can't deliver the drugs.\"** The previous digest's **Even Patients Seeking the Newest Alzheimer's Drugs Are Missing the Basics of Brain Health (PMID 42430964)** documented a clinical gap. This batch moves up a level: **Portugal's Memory Clinics Reach Fewer Than 1 in 10 Alzheimer's Patients (PMID 42953259)** shows a national diagnostic bottleneck, and **Four in Five Patients Stuck With Lecanemab for the Full 18 Months (PMID 42664573)** shows what the treatment course actually demands of patients outside a trial.\n- **Sleep evidence gets objective.** The earlier **Worsening Sleep in Later Life Tripled Alzheimer's Risk (PMID 42542107)** rested on a single informant questionnaire item; **Sleep Quality in Your 50s and 60s Tracks With How Your Thinking Holds Up a Decade Later (PMID 42628340)** uses overnight lab recordings and sleep microstructure \u2014 spindles, slow waves, arousals \u2014 against ten-year cognitive change.\n- **Social connection gets a biological qualifier.** **Romance and sexual satisfaction tracked with slower memory decline (PMID 42648931)** suggested relationship closeness matters; **Loneliness tracked with brain shrinkage \u2014 but mainly in older adults who already carried an Alzheimer's blood marker (PMID 42909777)** narrows that to the people with early Alzheimer's biology.\n- **Behavior-change research moves from program design to the person.** **What Actually Helps People With Memory Concerns Change Their Habits (PMID 42586247)** asked what makes programs work; **Who actually benefits from brain-health programs? Readiness to change made the difference (PMID 42922285)** asks who is ready to use one.\n- **Vascular health moves out from under \"metabolic risk factors.\"** **Blood Vessel Responsiveness in the Brain May Flag Thinking Problems That Shrinkage Alone Doesn't (PMID 42803706)** and **Personality and mood changes in later life may be a sign of white matter damage (PMID 42893064)** give that thread specific mechanisms rather than a general risk-factor list.\n\n**Counterpoints**\n\n- **Frailty complicates the \"body measures as brain signals\" story.** The last digest built a case that grip, walking tests and body composition track with cognition (PMIDs 42821209, 42821755, 42825653, 42606290). **Frailty Drags Down Thinking Skills Even When Alzheimer's Markers Say Otherwise (PMID 42816830)** agrees that physical health shapes test scores \u2014 but adds that the *less* frail patients were about twice as likely to have Alzheimer's-type spinal fluid, meaning a low score in a frail person may not be Alzheimer's at all.\n- **Statins get a defense.** **Statin users in a half-million-person UK study had a modestly lower risk of Alzheimer's (PMID 42903333)** pushes back on the long-running assumption that cholesterol drugs fog older minds \u2014 a question the previous digest's medication and risk-factor audit (PMID 42430964) never addressed directly.\n- **\"Home is always better\" gets tested.** **Professional Care Settings Linked to Better Cognition and Independence Than Home Care in Alzheimer's (PMID 42758043)** cuts against a widely held family assumption, with the behavioral-symptom management mechanism doing much of the work.\n\n**New themes**\n\n- **Reversible and mistaken causes**: **A Treatable Cause of Walking, Bladder and Memory Trouble That Often Gets Mistaken for Dementia (PMID 42734938)**, alongside the frailty finding (PMID 42816830).\n- **Who gets left out of decisions**: **Cognitive Changes Cut Patients Out of End-of-Life Planning Conversations (PMID 42586324)** \u2014 a care-process question the previous digest never raised.\n- **Oral health as a dementia-progression marker**: **Losing All Your Teeth Is Linked to Faster Progression From Mild Memory Problems to Dementia (PMID 42803715)**.\n- **The scaffolding around care**: **When Your Doctors Talk to Each Other, Your Brain May Benefit (PMID 42875818)**.\n- **Sex differences get a structural explanation**: **Older Women's Brain Wiring May Hold Up Better Than Men's (PMID 42700636)** adds brain-imaging material to the sex-difference thread that previously ran through self-report and reproductive-history studies (PMIDs 42424748, 41979543).",
+  "feature_pitch_raw": "**The pattern:** Several studies in this batch converge on a single uncomfortable point \u2014 a memory test score does not tell you what is causing the problem. At a Milan memory clinic, overall frailty dragged down scores independently of amyloid and tau, and the *less* frail patients were about twice as likely to actually have Alzheimer's biology (**Frailty Drags Down Thinking Skills Even When Alzheimer's Markers Say Otherwise, PMID 42816830**); a JAMA review laid out a fluid disorder that affects up to 8% of people over 80 and improves in 50-70% after surgery, yet is routinely mistaken for dementia (**A Treatable Cause of Walking, Bladder and Memory Trouble, PMID 42734938**); brain vessel responsiveness tracked with worse executive function even in people whose scans looked structurally fine (**Blood Vessel Responsiveness, PMID 42803706**); white matter damage tracked with late-life personality and mood changes often read as depression (**Personality and mood changes in later life, PMID 42893064**); and sleep, metabolic and mood problems clustered with memory complaints in cognitively normal adults (**Disrupted Body Clocks, Poor Sleep and Low Mood, PMID 42567211**).\n\n**Why pitch this now:** Blood tests and new infusion drugs have pushed the public conversation toward a single disease, just as this batch shows how many other things \u2014 frailty, fluid pressure, small-vessel damage, bad sleep, even recent surgery \u2014 can produce the same symptoms, several of them treatable.\n\n**Angle:** A practical guide to the questions worth asking before a memory problem gets filed under Alzheimer's \u2014 written for older adults and family caregivers sitting in a specialist's waiting room, with a secondary thread for senior living clinical staff on what to document and in what order.\n\n**Potential headlines:**\n- Not Every Memory Problem Starts With Alzheimer's\n- The Frailest Patients at the Memory Clinic Were the Least Likely to Have Alzheimer's\n- Before You Accept a Dementia Diagnosis, Ask What Else Was Ruled Out\n\n**Potential outlets:**\n- **Being Patient** \u2014 their audience already follows biomarkers and new drugs closely, and a piece on what those tools *don't* explain is a natural corrective for readers deep in that coverage.\n- **Family Caregiver Alliance** \u2014 the documentation advice here (which symptom came first, gait before memory, sustained mood change) is exactly the kind of practical material their caregiver resources carry.\n- **Caring.com** \u2014 families at the decision stage are comparing memory care options while the cause of the symptoms is still unsettled; this helps them slow down and ask better questions first.\n- **McKnight's Senior Living** \u2014 operationally relevant: pairing cognitive screening with structured frailty assessment, and taking resident behavior changes seriously as a possible medical finding rather than a care-plan problem.",
+  "pitch_ideas_raw": "- **A Blood Test Plus a Gene Check Can Flag Dementia Risk Years Before Symptoms (PMID 42716078):** What it actually feels like to learn your risk 3 to 4 years before any symptom, and the questions to settle *before* testing, for a consumer health explainer or a dementia-focused news site.\n- **When Older Surgery Patients Say Their Thinking Feels Off, Tests Often Agree (PMID 42855369):** A pre-surgery briefing for families \u2014 your relative's report of fogginess is real signal, but feeling fine isn't proof, so build a brief cognitive check into discharge, for a caregiver-advice column or hospital-transitions piece.\n- **Longer Reproductive Years Linked to Slower Cognitive Decline in 14,000 Nurses (PMID 41979543):** A careful myth-check on hormone therapy and memory \u2014 decide on symptoms and bone health, not brain protection, for a women's health or menopause section.\n- **Portugal's Memory Clinics Reach Fewer Than 1 in 10 Alzheimer's Patients (PMID 42953259):** The drug exists, the clinic capacity doesn't \u2014 a map-your-local-capacity piece for care coordinators, plus a cautionary international read for US operators, for a senior-living trade feature.\n- **Cognitive Changes Cut Patients Out of End-of-Life Planning Conversations (PMID 42586324):** Recorded wishes were honored about 90% of the time, yet the people whose thinking was changing were least likely to be asked \u2014 a case for starting the conversation at diagnosis, for a caregiver-advice column or palliative care trade brief.\n- **Frailty Drags Down Thinking Skills Even When Alzheimer's Markers Say Otherwise (PMID 42816830):** Ask whether your medications, mobility, nutrition and sensory problems were assessed alongside your memory test, for a consumer health explainer or geriatrics trade brief.\n- **Exercise Nudges Thinking Scores Upward in Older Women (PMID 42959105):** An honest-broker fitness piece \u2014 the signal is encouraging, the evidence is thin, and no branded program has earned the claim, for a consumer fitness column or activity-director trade brief.\n- **When Your Doctors Talk to Each Other, Your Brain May Benefit (PMID 42875818):** Asking for help with appointments and medications is associated with slower decline, not with giving up \u2014 a reframe for proud, independent older adults, for a caregiver-advice column.\n- **Older Women's Brain Wiring May Hold Up Better Than Men's (PMID 42700636):** A short research brief explaining why two people of the same age can age cognitively in very different ways \u2014 connections, not brain size, for a dementia research news section.\n- **Staying Active Still Protects Thinking Skills Well Into Your 90s (PMID 42803718):** Only 16-27% of residents past 90 were active \u2014 the age group most often written off may have the most to gain, for a senior-living activity programming trade feature or a local-news health segment.\n- **Losing All Your Teeth Is Linked to Faster Progression From Mild Memory Problems to Dementia (PMID 42803715):** Denture fit and daily mouth care deserve the same standing as medication management in a care plan \u2014 plus where to find low-cost dental help, for a caregiver how-to or Area Agency on Aging outlet.\n- **Four in Five Patients Stuck With Lecanemab for the Full 18 Months (PMID 42664573):** What 18 months of biweekly infusions and surveillance MRIs really asks of a family \u2014 and the baseline MRI findings worth asking about before committing, for a consumer decision guide or memory-care operations brief.\n- **Sleep Quality in Your 50s and 60s Tracks With How Your Thinking Holds Up a Decade Later (PMID 42628340):** An audit of the overnight routines in residential settings \u2014 checks, noise, light \u2014 that drive the exact arousals linked to poorer cognition, for a senior-living clinical operations brief, with a consumer version on treatable causes of fragmented sleep.\n- **A Treatable Cause of Walking, Bladder and Memory Trouble That Often Gets Mistaken for Dementia (PMID 42734938):** Pattern recognition families can use \u2014 if walking trouble came first, ask specifically about normal pressure hydrocephalus \u2014 balanced against real shunt risks, for a consumer health explainer or local-news health segment.\n- **Brief Brain Games on Your Phone Can Spot Memory Changes Years Before Standard Tests (PMID 42954140):** Short repeated at-home testing gives a trajectory instead of a snapshot \u2014 what that could mean for resident monitoring, and why these remain research tools, for a senior-living technology brief.\n- **Disrupted Body Clocks, Poor Sleep and Low Mood Tied to More Memory Complaints (PMID 42567211):** Stop treating \"I'm not sleeping,\" \"I feel low\" and \"I'm forgetting things\" as three separate referrals, for a primary-care-facing consumer explainer.\n- **Professional Care Settings Linked to Better Cognition and Independence Than Home Care in Alzheimer's (PMID 42758043):** The real question isn't home versus facility \u2014 it's who manages agitation, apathy and sleep disturbance well, with questions to ask either way, for a family decision guide and a senior-living marketing/quality trade piece.\n- **Blood Vessel Responsiveness in the Brain May Flag Thinking Problems That Shrinkage Alone Doesn't (PMID 42803706):** A normal-looking scan isn't the whole story \u2014 why blood pressure, cholesterol and blood sugar still matter after reassuring imaging, for a consumer health explainer.\n- **Statin users in a half-million-person UK study had a modestly lower risk of Alzheimer's (PMID 42903333):** For anyone who quietly stopped a statin over memory worries \u2014 raise it at a medication review rather than acting alone, for a consumer medication column or pharmacy-facing brief.\n- **Loneliness tracked with brain shrinkage \u2014 but mainly in older adults who already carried an Alzheimer's blood marker (PMID 42909777):** A resident who attends every activity may still be lonely \u2014 why identifying genuine isolation beats counting attendance, for a senior-living trade feature on engagement programming.\n- **A new blood test for tau predicted memory decline and brain shrinkage years ahead (PMID 42906069):** Expect biomarker results in more charts \u2014 and remember a positive marker in someone thinking normally is not a diagnosis, for a caregiver explainer or clinical trade brief.\n- **Who actually benefits from brain-health programs? Readiness to change made the difference (PMID 42922285):** Filling seats isn't the same as helping people \u2014 a brief readiness check at intake, and how families can encourage without pushing, for a program-director trade brief or caregiver column.\n- **Personality and mood changes in later life may be a sign of white matter damage (PMID 42893064):** Apathy and irritability in someone with intact memory may deserve a medical workup, not just a behavioral care plan, for a caregiver-advice column and a memory-care staff training brief.",
+  "fact_check": {
+    "checked": "2026-10-31",
+    "studies_reviewed": "23",
+    "verdicts_by_pmid": {
+      "42716078": "\u2705 Accurate",
+      "42855369": "\u2705 Accurate",
+      "41979543": "\u26a0\ufe0f Minor issues",
+      "42953259": "\u2705 Accurate",
+      "42586324": "\u2705 Accurate",
+      "42816830": "\u26a0\ufe0f Minor issues",
+      "42959105": "\u2705 Accurate",
+      "42875818": "\u26a0\ufe0f Minor issues",
+      "42700636": "\u2705 Accurate",
+      "42803718": "\u26a0\ufe0f Minor issues",
+      "42803715": "\u26a0\ufe0f Minor issues",
+      "42664573": "\u26a0\ufe0f Minor issues",
+      "42628340": "\u26a0\ufe0f Minor issues",
+      "42734938": "\u26a0\ufe0f Minor issues",
+      "42954140": "\u26a0\ufe0f Minor issues",
+      "42567211": "\u26a0\ufe0f Minor issues",
+      "42758043": "\u2705 Accurate",
+      "42803706": "\u26a0\ufe0f Minor issues",
+      "42903333": "\u2705 Accurate",
+      "42909777": "\u2705 Accurate",
+      "42906069": "\u26a0\ufe0f Minor issues",
+      "42922285": "\u2705 Accurate",
+      "42893064": "\u2705 Accurate"
+    },
+    "summary": {
+      "total_issues": "18 (16 Minor, 2 Moderate, 0 Major)",
+      "entries_requiring_revision": "12",
+      "entries_cleared": "11"
+    },
+    "raw": "# Fact-Check Report: Senior Living Research Digest \u2014 Cognitive Decline \u2014 October 2026\n**Checked:** 2026-10-31 | **Studies reviewed:** 23\n**Primary audience:** older adults and seniors | **Secondary audience:** families, caregivers, and senior living professionals\n\n---\n\n### Study 1: A Blood Test Plus a Gene Check Can Flag Dementia Risk Years Before Symptoms\n**PMID:** 42716078 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 2: When Older Surgery Patients Say Their Thinking Feels Off, Tests Often Agree\n**PMID:** 42855369 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 3: Longer Reproductive Years Linked to Slower Cognitive Decline in 14,000 Nurses\n**PMID:** 41979543 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Race of cohort not stated in abstract** \u2014 Severity: Minor\n\n- **As written:** \"Participants were almost entirely White female health professionals, limiting generalizability.\"\n- **Abstract says:** \"We assessed cognitive change (1995-2008) with four telephone interviews ... in 14,217 Nurses' Health Study participants (mean age 74.3 y)\"\n- **Problem:** The abstract confirms the participants are female health professionals but gives no racial or ethnic breakdown, so the 'almost entirely White' characterization is unverifiable from abstract only.\n- **Suggested fix:** \"Soften to 'Participants were female health professionals in a cohort with limited racial and ethnic diversity' or cite the full text for the demographic breakdown.\"\n\n### Study 4: Portugal's Memory Clinics Reach Fewer Than 1 in 10 Alzheimer's Patients as New Drugs Arrive\n**PMID:** 42953259 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 5: Cognitive Changes Cut Patients Out of End-of-Life Planning Conversations\n**PMID:** 42586324 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 6: Frailty Drags Down Thinking Skills Even When Alzheimer's Markers Say Otherwise\n**PMID:** 42816830 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Causal phrasing for cross-sectional data** \u2014 Severity: Minor\n\n- **As written:** \"suggesting frailty itself can produce memory complaints without Alzheimer's pathology\"\n- **Abstract says:** \"lower frailty levels are associated with a higher likelihood of an AD-compatible CSF profile, suggesting that frailty assessment may aid in identifying patients at greater risk\"\n- **Problem:** The study is cross-sectional and cannot show that frailty 'produces' cognitive symptoms; the digest's own caveat says direction cannot be established, so the body text contradicts it.\n- **Suggested fix:** \"Reword to 'suggesting frailty may contribute to memory complaints in the absence of Alzheimer's pathology, though direction cannot be determined.'\"\n\n**Issue B. 'Lowest of all' comparison not tested** \u2014 Severity: Minor\n\n- **As written:** \"people who were both frail and amyloid-positive scored lowest of all\"\n- **Abstract says:** \"Compared to robust (FI \u2264 0.11) amyloid-negative subjects, individuals with higher FI (>0.11) and CSF amyloid positivity had significantly lower MMSE scores.\"\n- **Problem:** The abstract reports only the contrast against robust/amyloid-negative participants, not a ranking against every other subgroup.\n- **Suggested fix:** \"Say 'scored significantly lower than robust, amyloid-negative patients.'\"\n\n### Study 7: Exercise Nudges Thinking Scores Upward in Older Women \u2014 But the Evidence Is Thin\n**PMID:** 42959105 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 8: When Your Doctors Talk to Each Other, Your Brain May Benefit\n**PMID:** 42875818 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline implies benefit from a baseline cross-sectional association** \u2014 Severity: Minor\n\n- **As written:** \"When Your Doctors Talk to Each Other, Your Brain May Benefit\"\n- **Abstract says:** \"higher perceived CC (\u03b2 = 0.25, p < 0.05) and technical support (\u03b2 = 0.22, p < 0.05) were associated with higher baseline cognitive scores ... Perceived CC and technology use characterized cognitively robust older adults ... These associations are observational and do not establish causality.\"\n- **Problem:** Perceived care coordination was linked only to higher baseline cognition, not to slower decline, and the authors frame it as a marker of already-robust cognition rather than a benefit.\n- **Suggested fix:** \"Reframe as 'Better-coordinated care goes along with stronger thinking scores \u2014 though which comes first isn't clear.'\"\n\n### Study 9: Older Women's Brain Wiring May Hold Up Better Than Men's\n**PMID:** 42700636 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 10: Staying Active Still Protects Thinking Skills Well Into Your 90s\n**PMID:** 42803718 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Follow-up interval misstated** \u2014 Severity: Minor\n\n- **As written:** \"Being sedentary at baseline roughly tripled the odds of cognitive impairment eight years later between ages 78-85 (OR 2.61) and 85-90 (OR 2.90)\"\n- **Abstract says:** \"PA-S at baseline was found to have a statistically significant association with cognitive impairment at a later age between ages 78-85, 85-90: OR 2.61 (95%CI 1.38-4.82); OR 2.90 (95%CI 1.63- 5.11), respectively.\"\n- **Problem:** The intervals are roughly seven years (78\u219285) and five years (85\u219290), not eight; 'roughly tripled' also overstates an odds ratio of 2.61.\n- **Suggested fix:** \"Write 'roughly two-to-three times the odds of cognitive impairment five to seven years later (OR 2.61 from age 78 to 85; OR 2.90 from 85 to 90).'\"\n\n**Issue B. Headline claims protection and extends past significant results** \u2014 Severity: Moderate\n\n- **As written:** \"Staying Active Still Protects Thinking Skills Well Into Your 90s\"\n- **Abstract says:** \"At ages 90-95 a similar not statistically significant effect was found. ... PA is associated with better cognitive aging and lower risk for cognitive impairment in advanced age.\"\n- **Problem:** 'Protects' is causal language for an observational cohort, and the significant associations ended at age 90 \u2014 the 90\u201395 analysis was not statistically significant, so 'well into your 90s' goes beyond the data.\n- **Suggested fix:** \"Reword to 'Staying Active Is Still Linked to Better Thinking Skills in the Late 80s' and keep the non-significant 90\u201395 result visible.\"\n\n### Study 11: Losing All Your Teeth Is Linked to Faster Progression From Mild Memory Problems to Dementia\n**PMID:** 42803715 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Death risk transition not specified** \u2014 Severity: Minor\n\n- **As written:** \"Edentulism was associated with a 26% higher risk of moving from mild cognitive impairment to dementia and a 27% higher risk of death\"\n- **Abstract says:** \"Edentulism significantly increased the risk of transition from baseline to death (HR = 1.27, 95% CI:1.13, 1.42) and from MCI to dementia (HR = 1.26, 95% CI:1.12, 1.40).\"\n- **Problem:** The 27% figure applies specifically to the transition from baseline (normal cognition) to death in the multi-state model, not to overall mortality risk across all states.\n- **Suggested fix:** \"Write \"a 27% higher risk of dying from the baseline cognitive state\" or similar.\"\n\n### Study 12: Four in Five Patients Stuck With Lecanemab for the Full 18 Months, Japanese Clinic Reports\n**PMID:** 42664573 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Blood tau testing not studied** \u2014 Severity: Minor\n\n- **As written:** \"whether spinal-fluid or blood tau testing could help gauge your personal risk of ARIA before you commit to 18 months of infusions\"\n- **Abstract says:** \"ARIA ... was significantly associated with ... elevated baseline cerebrospinal fluid (CSF)-phosphorylated tau (ptau) 181 (ptau181; \u226578.6 pg/ml)\"\n- **Problem:** Only CSF p-tau181 was evaluated; the abstract says nothing about a blood-based tau test predicting ARIA.\n- **Suggested fix:** \"Limit the suggestion to spinal-fluid p-tau181, which is what the study measured.\"\n\n**Issue B. Infusion schedule not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"biweekly infusions plus surveillance MRIs over 18 months is a substantial transportation and scheduling commitment\"\n- **Abstract says:** \"The abstract describes an 18-month course and baseline MRI but does not state infusion frequency or a surveillance MRI schedule.\"\n- **Problem:** Unverifiable from abstract only (though consistent with standard lecanemab dosing).\n- **Suggested fix:** \"Attribute the dosing schedule to standard prescribing information rather than to this study.\"\n\n### Study 13: Sleep Quality in Your 50s and 60s Tracks With How Your Thinking Holds Up a Decade Later\n**PMID:** 42628340 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Direction of microstructure correlations** \u2014 Severity: Minor\n\n- **As written:** \"specific brain-wave features such as sleep spindles and slow waves tracked with better processing speed, attention and global cognition\"\n- **Abstract says:** \"Fast spindle amplitude and frequency, slow-wave characteristics, and N2 and REM coherence correlated with processing speed, attention, and global cognition.\"\n- **Problem:** The abstract reports correlations without specifying the direction, so \"better\" is an inference.\n- **Suggested fix:** \"Say these features \"correlated with\" processing speed, attention and global cognition, without asserting the direction.\"\n\n**Issue B. N2 described as deep sleep** \u2014 Severity: Minor\n\n- **As written:** \"deeper sleep stages (N2 and N3)\"\n- **Abstract says:** \"A higher proportion of N1 sleep was linked to poorer executive function, whereas N2 and N3 were positively associated with cognitive outcomes.\"\n- **Problem:** N2 is conventionally light rather than deep sleep; grouping it as a \"deeper sleep stage\" is imprecise.\n- **Suggested fix:** \"Write \"more time in N2 and N3 sleep (as opposed to the lightest stage, N1)\".\"\n\n### Study 14: A Treatable Cause of Walking, Bladder and Memory Trouble That Often Gets Mistaken for Dementia\n**PMID:** 42734938 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Misdiagnosis claim not in abstract** \u2014 Severity: Minor\n\n- **As written:** \"A Treatable Cause of Walking, Bladder and Memory Trouble That Often Gets Mistaken for Dementia\"\n- **Abstract says:** \"The review describes iNPH symptoms and diagnosis but makes no statement about how often it is misdiagnosed as dementia or normal aging.\"\n- **Problem:** Unverifiable from abstract only; plausible clinically but not reported here.\n- **Suggested fix:** \"Reframe as \"easily confused with ordinary aging\" attributed to general clinical context, or drop the frequency implication (\"often\").\"\n\n### Study 15: Brief Brain Games on Your Phone Can Spot Memory Changes Years Before Standard Tests\n**PMID:** 42954140 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Headline overstates comparison with standard tests** \u2014 Severity: Moderate\n\n- **As written:** \"Brief Brain Games on Your Phone Can Spot Memory Changes Years Before Standard Tests\"\n- **Abstract says:** \"Our findings indicate that a digital multiday learning paradigm combined with computational modeling of response times sensitively detects age-related cognitive decline over short timescales (<3 years), which are difficult to capture in conventional study designs relying on infrequent assessments.\"\n- **Problem:** The study detected normal age-related slowing in cognitively unimpaired volunteers; it did not run a head-to-head comparison against standard tests or show earlier detection of a disease process, so \"years before standard tests\" is unsupported.\n- **Suggested fix:** \"Reword to something like \"Short, repeated phone-based memory tasks pick up age-related cognitive change in under three years\".\"\n\n**Issue B. Age range inferred** \u2014 Severity: Minor\n\n- **As written:** \"209 cognitively unimpaired older adults (mean age 73.6, range roughly mid-60s to 90s; 65% women)\"\n- **Abstract says:** \"A total of 209 cognitively unimpaired older adults (mean age 73.6, SD 8.2 years; n=136, 65.1% female)\"\n- **Problem:** The abstract gives a mean and SD, not a range; the stated range is an estimate the abstract cannot confirm.\n- **Suggested fix:** \"Report \"mean age 73.6 (SD 8.2)\" and drop the invented range.\"\n\n### Study 16: Disrupted Body Clocks, Poor Sleep and Low Mood Tied to More Memory Complaints \u2014 Especially in Men\n**PMID:** 42567211 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. \"Changes\" implies longitudinal biomarker data** \u2014 Severity: Minor\n\n- **As written:** \"and with changes in plasma markers including GFAP, the amyloid A\u03b242/40 ratio, and neurofilament light\"\n- **Abstract says:** \"CircS was dose-responsively linked to GFAP and nonlinearly to A\u03b242/40 (Pnonlinear = 0.029) and NfL (Pnonlinear = 0.030).\"\n- **Problem:** This was a cross-sectional study, so it measured differences in biomarker levels, not changes over time.\n- **Suggested fix:** \"Write \"with differences in plasma marker levels, including GFAP, the A\u03b242/40 ratio and neurofilament light\".\"\n\n### Study 17: Professional Care Settings Linked to Better Cognition and Independence Than Home Care in Alzheimer's \u2014 With Important Caveats\n**PMID:** 42758043 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 18: Blood Vessel Responsiveness in the Brain May Flag Thinking Problems That Shrinkage Alone Doesn't\n**PMID:** 42803706 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Lobe-specific result stated generally** \u2014 Severity: Minor\n\n- **As written:** \"older adults with greater decline in blood vessel responsiveness had poorer executive function regardless of whether their gray matter had shrunk\"\n- **Abstract says:** \"significant CVR \u00d7 GMV interaction effects on executive function were found in parietal and occipital lobes ... In the occipital lobe, compared with the \"low CVR decline + low GMV loss\" group, \"high CVR decline + low GMV loss\" (\u03b2=-0.47, p = 0.004) and \"high CVR decline + high GMV loss\" (\u03b2=-0.60, p < 0.001) ... were significantly associated with poorer executive function.\"\n- **Problem:** The \"regardless of gray matter\" pattern was specific to the occipital lobe (interactions only in parietal and occipital), not a whole-brain finding.\n- **Suggested fix:** \"Add \"in the occipital lobe\" to the first sentence, as the digest does in the following sentence.\"\n\n### Study 19: Statin users in a half-million-person UK study had a modestly lower risk of Alzheimer's\n**PMID:** 42903333 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 20: Loneliness tracked with brain shrinkage \u2014 but mainly in older adults who already carried an Alzheimer's blood marker\n**PMID:** 42909777 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 21: A new blood test for tau predicted memory decline and brain shrinkage years ahead\n**PMID:** 42906069 | **Verdict:** \u26a0\ufe0f Minor issues\n\n**Issue A. Unspecified prediction window in headline** \u2014 Severity: Minor\n\n- **As written:** \"A new blood test for tau predicted memory decline and brain shrinkage years ahead\"\n- **Abstract says:** \"NT1 levels were negatively associated with hippocampal volume (B [SE] = -264.49 [125.99], p = 0.036) and predicted longitudinal atrophy (B [SE] = -42.00 [16.90], p = 0.013).\"\n- **Problem:** The abstract reports longitudinal associations but never states the follow-up duration, so \"years ahead\" is unverifiable from the abstract alone.\n- **Suggested fix:** \"Change to \"predicted later memory decline and brain shrinkage\" or add \"over follow-up (duration not reported in the abstract)\".\"\n\n**Issue B. Mediation estimate presented without its uncertainty** \u2014 Severity: Minor\n\n- **As written:** \"Accelerated hippocampal atrophy accounted for roughly 70% of the link between high baseline NT1 and later memory decline\"\n- **Abstract says:** \"B [95% CI]proportion mediated = 70.1% [32.6%-155.3%], p = 0.004\"\n- **Problem:** The point estimate is correct, but the confidence interval spans 33% to over 100%, so \"roughly 70%\" conveys more precision than the data support.\n- **Suggested fix:** \"Add a qualifier, e.g. \"accounted for an estimated 70% (a wide and imprecise range) of the link\".\"\n\n### Study 22: Who actually benefits from brain-health programs? Readiness to change made the difference\n**PMID:** 42922285 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n### Study 23: Personality and mood changes in later life may be a sign of white matter damage in the brain\n**PMID:** 42893064 | **Verdict:** \u2705 Accurate\n\nNo factual errors found. Framing is consistent with the abstract.\n\n## Issue Summary\n\n| Study # | Headline | Verdict | Notes |\n|---------|----------|---------|-------|\n| 1 | A Blood Test Plus a Gene Check Can Flag Dementia Risk Years Before Symptoms | \u2705 Accurate | Sample size, demographics, hazard ratios, subgroup sizes and the 3\u20134 year survival divergence all match the abstract; caveats correctly capture the observational design, enriched-risk sample, NIH funding and author conflicts. |\n| 2 | When Older Surgery Patients Say Their Thinking Feels Off, Tests Often Agree | \u2705 Accurate | N (197 recruited, 10 excluded = 187 analyzed), odds ratios (5.15 digit span backward, 1.79 verbal fluency), AUC range 0.52\u20130.66 and the specificity/sensitivity pattern all match. The digest appropriately conveys that low sensitivity limits self-report as a standalone screen. |\n| 3 | Longer Reproductive Years Linked to Slower Cognitive Decline in 14,000 Nurses | \u26a0\ufe0f Minor issues | Cohort size, mean age, telephone testing window, reproductive-span comparison and the hormone-therapy findings all match; one generalizability claim in the caveats cannot be checked against the abstract. |\n| 4 | Portugal's Memory Clinics Reach Fewer Than 1 in 10 Alzheimer's Patients as New Drugs Arrive | \u2705 Accurate | 51 responding units, 20 organized memory clinics, 60.7% population coverage (rounded to 61%), 21,721 consultations, <10% of estimated AD patients, 26.2% biomarker access and 701 treatment-eligible patients all match the abstract. |\n| 5 | Cognitive Changes Cut Patients Out of End-of-Life Planning Conversations | \u2705 Accurate | 1,219 patients, 2008\u20132020 PARALS register, 53.7% with ACP discussions, 90.8% concordance, the negative association with cognitive impairment and the links to palliative care, gastrostomy and home death all match. The headline's phrasing mirrors the authors' own conclusion that 'cognitive impairment reduced ACP participation.' |\n| 6 | Frailty Drags Down Thinking Skills Even When Alzheimer's Markers Say Otherwise | \u26a0\ufe0f Minor issues | N, setting, 47-item frailty index, CSF biomarkers, the frailty\u2013MMSE association independent of biomarkers and the OR 2.00 for amyloid positivity in less frail patients all match. Two interpretive phrases run slightly ahead of the cross-sectional data. |\n| 7 | Exercise Nudges Thinking Scores Upward in Older Women \u2014 But the Evidence Is Thin | \u2705 Accurate | 10 RCTs, 446 participants, Hedges' g = 0.63, higher BDNF, null BMI effect, I\u00b2 = 77.82% and the GRADE 'very low' certainty rating are all accurately represented, and the headline and caveats convey the weak evidence base. |\n| 8 | When Your Doctors Talk to Each Other, Your Brain May Benefit | \u26a0\ufe0f Minor issues | N = 1,321, HRS 2016\u20132022, 27-point TICS, the baseline associations for perceived coordination and technical support, and the lower-baseline/slower-decline pattern for tangible support all match; caveats correctly note the authors' own no-causality statement. Only the headline leans further than the data. |\n| 9 | Older Women's Brain Wiring May Hold Up Better Than Men's | \u2705 Accurate | 131 healthy Australian adults aged 52\u201386, multimodal imaging, white matter tracts rather than whole-brain measures, no sex difference in working memory performance but better-preserved tract integrity in women \u2014 all match. The digest explicitly flags the mechanistic, non-actionable nature of the work. |\n| 10 | Staying Active Still Protects Thinking Skills Well Into Your 90s | \u26a0\ufe0f Minor issues | Cohort, assessment ages, sample sizes, activity dichotomy, MMSE cut-off and both odds ratios match the abstract, and the body correctly reports the non-significant 90\u201395 result. The follow-up interval is misstated and the headline overreaches. |\n| 11 | Losing All Your Teeth Is Linked to Faster Progression From Mild Memory Problems to Dementia | \u26a0\ufe0f Minor issues | Sample, design, follow-up and PAFs all match; the mortality hazard ratio is described more broadly than the abstract specifies. |\n| 12 | Four in Five Patients Stuck With Lecanemab for the Full 18 Months, Japanese Clinic Reports | \u26a0\ufe0f Minor issues | Completion rate, ARIA rate and predictors match the abstract; two small details (biweekly dosing, blood tau testing) go beyond what the abstract reports. |\n| 13 | Sleep Quality in Your 50s and 60s Tracks With How Your Thinking Holds Up a Decade Later | \u26a0\ufe0f Minor issues | Cohort, sample sizes and main sleep-cognition associations are faithful; direction of the microstructure correlations is asserted more firmly than the abstract states. |\n| 14 | A Treatable Cause of Walking, Bladder and Memory Trouble That Often Gets Mistaken for Dementia | \u26a0\ufe0f Minor issues | All prevalence, symptom-frequency, shunt-response and complication figures match the JAMA review exactly; only the misdiagnosis framing in the headline goes beyond the abstract. |\n| 15 | Brief Brain Games on Your Phone Can Spot Memory Changes Years Before Standard Tests | \u26a0\ufe0f Minor issues | Sample, age, sex split, slowing estimate and age-related effects all match; the headline's head-to-head comparison with standard testing was not tested. |\n| 16 | Disrupted Body Clocks, Poor Sleep and Low Mood Tied to More Memory Complaints \u2014 Especially in Men | \u26a0\ufe0f Minor issues | Sample, cohort, dose-response finding and male-specific pattern are accurate; one wording choice implies longitudinal change in a cross-sectional study. |\n| 17 | Professional Care Settings Linked to Better Cognition and Independence Than Home Care in Alzheimer's \u2014 With Important Caveats | \u2705 Accurate | Group sizes, MoCA difference, ADL direction and the 22% mediation figure all match; associational framing and cross-sectional caveat are properly handled. |\n| 18 | Blood Vessel Responsiveness in the Brain May Flag Thinking Problems That Shrinkage Alone Doesn't | \u26a0\ufe0f Minor issues | Sample sizes, lack of CVR\u2013GMV correlation and the occipital finding are accurate; one sentence generalizes a lobe-specific result. |\n| 19 | Statin users in a half-million-person UK study had a modestly lower risk of Alzheimer's | \u2705 Accurate | N, follow-up, case count, hazard ratio, age-65+ cognitive finding and co-medication result all match; causal language is appropriately avoided and healthy-user bias is flagged. |\n| 20 | Loneliness tracked with brain shrinkage \u2014 but mainly in older adults who already carried an Alzheimer's blood marker | \u2705 Accurate | N, age range, scale, moderation by pTau217, total hippocampal finding and demographic limits all match. (Strictly, 28.9% refers to the 582 participants with usable pTau217 data rather than all 601 \u2014 too small to count as an error.) |\n| 21 | A new blood test for tau predicted memory decline and brain shrinkage years ahead | \u26a0\ufe0f Minor issues | Sample size, age/sex split, mediation proportion and amyloid moderation all match the abstract. Two small issues: the headline's \"years ahead\" timeframe is not specified in the abstract, and the 70% mediation estimate carries a very wide confidence interval the digest doesn't mention. |\n| 22 | Who actually benefits from brain-health programs? Readiness to change made the difference | \u2705 Accurate | N=92, the 24-week multidomain intervention, the contemplation/action classification via the Korean Readiness to Change Questionnaire, and the adjusted OR of 0.28 (p = 0.031, i.e. ~72% lower odds) all match the abstract. The headline's \"made the difference\" is mildly causal but mirrors the authors' own conclusion, and the digest's caveats correctly note readiness was not randomized. |\n| 23 | Personality and mood changes in later life may be a sign of white matter damage in the brain | \u2705 Accurate | Sample (1,273 with normal cognition or MCI), the association of greater WMH volume with higher MBI total score and MBI status in both groups, and the left inferior longitudinal fasciculus voxel-wise cluster all match the abstract. Framing is appropriately hedged and the cross-sectional, ADNI-cohort limitations are flagged in Caveats. |\n\n**Total issues:** 18 (16 Minor, 2 Moderate, 0 Major)\n**Entries requiring revision:** 12\n**Entries cleared:** 11\n"
+  }
+}

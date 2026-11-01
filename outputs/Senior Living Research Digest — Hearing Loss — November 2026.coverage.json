@@ -1,0 +1,745 @@
+{
+  "coverage_checked": 18,
+  "coverage_cached": 0,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42753934": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42861992": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Portland Press Herald - Maine Sunday Telegram"
+      ],
+      "articles": [
+        {
+          "title": "When hearing loss affects the whole household",
+          "outlet": "Portland Press Herald - Maine Sunday Telegram",
+          "link": "https://www.pressherald.com/2026/10/15/when-hearing-loss-affects-the-whole-household/"
+        }
+      ]
+    },
+    "42697173": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42932290": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42949226": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42868226": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42961136": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42447643": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42507806": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42900575": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42635394": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42864571": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42386205": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42370824": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42420817": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42244439": {
+      "state": "widely_reported",
+      "outlets": [
+        "Consumer Reports",
+        "The National Council on Aging (NCOA)",
+        "New York Post"
+      ],
+      "articles": [
+        {
+          "title": "Why You Shouldn't Put Off Getting Hearing Aids",
+          "outlet": "Consumer Reports",
+          "link": "https://www.consumerreports.org/health/hearing-aids/why-you-shouldnt-put-off-getting-hearing-aids-a1053026186/"
+        },
+        {
+          "title": "Why Signia Hearing Aids Are a Top Choice for Active Older Adults",
+          "outlet": "The National Council on Aging (NCOA)",
+          "link": "https://www.ncoa.org/product-resources/hearing-aids/signia-review/"
+        },
+        {
+          "title": "4 surprising things people don\u2019t realize can mess with their hearing",
+          "outlet": "New York Post",
+          "link": "https://nypost.com/2026/10/04/health/4-surprising-things-people-dont-realize-can-mess-with-hearing/"
+        }
+      ]
+    },
+    "42851117": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42887663": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42697173": {
+      "pubdate": "2026 Nov",
+      "journal": "The journal of nutrition, health & aging"
+    },
+    "42753934": {
+      "pubdate": "2026 Nov",
+      "journal": "Experimental gerontology"
+    },
+    "42861992": {
+      "pubdate": "2026 Oct 12",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42932290": {
+      "pubdate": "2026 Oct 26",
+      "journal": "Journal of speech, language, and hearing research : JSLHR"
+    },
+    "42868226": {
+      "pubdate": "2026 Nov-Dec 01",
+      "journal": "Ear and hearing"
+    },
+    "42949226": {
+      "pubdate": "2026 Oct",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42900575": {
+      "pubdate": "2026 Oct 20",
+      "journal": "Journal of speech, language, and hearing research : JSLHR"
+    },
+    "42635394": {
+      "pubdate": "2026 Nov-Dec 01",
+      "journal": "Ear and hearing"
+    },
+    "42447643": {
+      "pubdate": "2026 Nov",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42961136": {
+      "pubdate": "2026 Oct 30",
+      "journal": "Journal of Alzheimer's disease : JAD"
+    },
+    "42507806": {
+      "pubdate": "2026 Nov-Dec 01",
+      "journal": "Ear and hearing"
+    },
+    "42420817": {
+      "pubdate": "2026 Nov-Dec 01",
+      "journal": "Ear and hearing"
+    },
+    "42864571": {
+      "pubdate": "2026 Oct 12",
+      "journal": "GeroScience"
+    },
+    "42386205": {
+      "pubdate": "2026 Nov-Dec 01",
+      "journal": "Ear and hearing"
+    },
+    "42370824": {
+      "pubdate": "2026 Nov-Dec 01",
+      "journal": "Ear and hearing"
+    },
+    "42851117": {
+      "pubdate": "2026 Oct",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association"
+    },
+    "42244439": {
+      "pubdate": "2026 Nov-Dec 01",
+      "journal": "Ear and hearing"
+    },
+    "42887663": {
+      "pubdate": "2026 Oct 17",
+      "journal": "Bone"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Hearing Loss Linked to Faster Cognitive Decline in 10-Year Study of 6,650 Older Adults",
+      "journal": "Exp Gerontol",
+      "published": "2026 Nov",
+      "pmid": "42753934",
+      "doi": "10.1016/j.exger.2026.113330",
+      "the_study": "Researchers followed 6,650 Chinese adults aged 65 to 99 in the Chinese Longitudinal Healthy Longevity Survey from 2008 to 2018, using repeated Mini-Mental State Examination scores to sort people into cognitive paths over time. Three patterns emerged: high-stable (83.3%), moderate decline (11.2%), and rapid decline (5.5%). Participants with hearing loss at the start were about 26% more likely to land in the moderate-decline group and 55% more likely to land in the rapid-decline group. Hearing loss also blunted the usual protective value of a high starting cognitive score.",
+      "why_it_matters": "Hearing status appears to be a meaningful marker of who is at risk for steeper cognitive decline, which argues for making hearing checks part of routine aging assessments rather than an afterthought.",
+      "story_angle_primary": "If you have noticed your hearing slipping, it is worth raising with your doctor and asking for a hearing test \u2014 not because a hearing aid is proven to protect memory, but because hearing status is increasingly treated as part of the picture when clinicians assess cognitive risk. A strong memory score today may be less reassuring if your hearing is untreated.",
+      "story_angle_secondary": "For care teams and senior living staff: this supports building audiometric screening into cognitive risk assessments, and flagging residents with untreated hearing loss for closer cognitive monitoring over time.",
+      "caveats": "Observational cohort \u2014 cannot establish that hearing loss causes cognitive decline, and the authors explicitly note it is unknown whether treating hearing changes trajectories. Hearing loss was assessed at baseline only; cognition measured by MMSE, which is a screening tool. Chinese population may not generalize to other settings."
+    },
+    {
+      "headline": "When Older Adults Don't Realize They Have Hearing Loss, Their Caregivers Report More Depressive Symptoms",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 12",
+      "pmid": "42861992",
+      "doi": "10.1111/jgs.70756",
+      "the_study": "Using 2023 data from the National Health and Aging Trends Study and the National Study of Caregiving, researchers analyzed 1,480 caregivers supporting 960 older adults, comparing those whose care recipients had unrecognized hearing loss (measurable on audiometry but not self-reported), recognized hearing loss, or normal hearing. Nearly half of caregivers (47%) were supporting someone with unrecognized hearing loss. Those caregivers were roughly twice as likely to report feeling down or depressed, or little interest or pleasure in doing things, compared with caregivers of people with normal hearing. No differences emerged in emotional, financial, or physical burden, relationship quality, or activity restriction.",
+      "why_it_matters": "Unacknowledged hearing loss is extraordinarily common and may quietly weigh on the mood of the person doing the caregiving, even when standard burden measures show nothing.",
+      "story_angle_primary": "Almost half the older adults in this study had measurable hearing loss they did not recognize \u2014 meaning self-assessment is unreliable. Consider getting an actual hearing test rather than trusting your own sense of how well you hear, and ask the people closest to you whether they find conversations with you effortful.",
+      "story_angle_secondary": "For families and caregivers: if conversations with your parent or client feel frustrating and you find yourself withdrawing or feeling low, undiagnosed hearing loss may be part of the dynamic. Pushing for an audiogram addresses a communication problem that caregiver-burden checklists are apparently not designed to detect.",
+      "caveats": "Cross-sectional and observational \u2014 cannot establish causation, and the direction of the association is untestable here. Caregiver outcomes were self-reported via the brief PHQ-4. The authors themselves conclude the associations were modest and that current measurement tools may not capture the relevant communication challenges. One co-author is affiliated with Amplifon SpA, a hearing aid retailer."
+    },
+    {
+      "headline": "Eating More Fish Did Not Protect Hearing in a Study of Nearly 14,000 Japanese Adults",
+      "journal": "J Nutr Health Aging",
+      "published": "2026 Nov",
+      "pmid": "42697173",
+      "doi": "10.1016/j.jnha.2026.100971",
+      "the_study": "Researchers tested hearing with pure-tone audiometry and assessed diet with a validated food frequency questionnaire in 13,908 adults aged 50 to 79 from the Tohoku Medical Megabank Project in Japan, a population that eats a lot of seafood. Neither seafood intake nor omega-3 polyunsaturated fatty acid intake was associated with hearing thresholds in men or women. Unexpectedly, men in the highest quartile of saturated fat intake had slightly better hearing thresholds (about 1.7 to 2.2 decibels better) than those in the lowest quartile.",
+      "why_it_matters": "It pushes back on the popular claim that fish oil or omega-3-rich diets protect against age-related hearing loss, at least among people who already eat a lot of seafood.",
+      "story_angle_primary": "If you have been taking fish oil or loading up on salmon specifically to protect your hearing, this large study found no benefit. There are good reasons to eat fish, but preserving your hearing does not appear to be a reliable one \u2014 protecting your ears from loud noise and getting your hearing tested are better-supported steps.",
+      "story_angle_secondary": "For dietitians and senior living food service staff: this is a useful counterweight to marketing claims about omega-3 supplements and hearing, and a reminder not to over-promise sensory benefits from menu changes.",
+      "caveats": "Cross-sectional design \u2014 cannot establish causation or rule out reverse causation, and diet was self-reported. The counterintuitive saturated fat finding is small in magnitude (under 2.5 dB), seen only in men, and should be treated as hypothesis-generating rather than dietary advice. A high-seafood Japanese population may not generalize to countries with lower baseline fish intake; a lack of association could reflect limited variation in intake. One author received research grants from the Osake-no-Kagaku Foundation and Honjo International Scholarship Foundation."
+    },
+    {
+      "headline": "Why Some Hearing Aid Users Still Struggle in Noisy Restaurants: Reasoning Ability Plays a Role",
+      "journal": "J Speech Lang Hear Res",
+      "published": "2026 Oct 26",
+      "pmid": "42932290",
+      "doi": "10.1044/2026_JSLHR-25-01028",
+      "the_study": "Researchers analyzed data from 199 adults with age-related hearing loss who wear hearing aids, testing their ability to understand speech against two kinds of background sound \u2014 steady noise and four people talking at once \u2014 at two difficulty levels. Fluid intelligence (reasoning and pattern recognition, measured with Raven's Progressive Matrices) predicted better performance in noise even after accounting for working memory, age, and hearing thresholds. The effect was strongest in the hardest condition: competing chatter at a high intelligibility target.",
+      "why_it_matters": "It helps explain why two people with identical audiograms and identical hearing aids can have very different experiences in a crowded room \u2014 the brain's reasoning work is part of hearing in noise, not just the ears.",
+      "story_angle_primary": "If your hearing aids work fine one-on-one but fail you in a busy restaurant or group gathering, that does not mean the devices are defective or that you are doing something wrong \u2014 understanding speech amid competing voices draws heavily on mental effort. Ask your audiologist about directional microphone settings, noise programs, and seating strategies that reduce how much work your brain has to do.",
+      "story_angle_secondary": "For families and senior living professionals: design matters. Competing conversation is harder to overcome than steady background noise, so smaller dining tables, sound-absorbing surfaces, and quieter activity rooms will do more for residents' participation than simply raising volume.",
+      "caveats": "Observational analysis of existing data \u2014 cannot establish causation, and fluid intelligence is not something that can be modified on demand. Laboratory speech-in-noise testing may not fully reflect real-world listening. Swedish hearing aid users may not generalize to all populations; no information given on hearing aid type or fitting quality."
+    },
+    {
+      "headline": "Hearing Loss, Loneliness and Memory Travel Together \u2014 But One May Not Cause the Other",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Oct",
+      "pmid": "42949226",
+      "doi": "10.1002/alz.71950",
+      "the_study": "Researchers combined up to 18 years of follow-up from the Survey of Health, Ageing and Retirement in Europe (SHARE; N = 10,375 older adults) with genetic data from eight genome-wide association study sources, using growth-curve modeling and Mendelian randomization. At a single point in time, worse hearing was linked to more loneliness and poorer word recall, and loneliness statistically accounted for part of the hearing\u2013memory link. But when the team tracked change over time, the mediation largely disappeared, and genetic analyses found little evidence that hearing problems causally drive Alzheimer's disease or all-cause dementia \u2014 through loneliness or otherwise. Notably, people currently using hearing aids showed a weaker link between hearing difficulty and loneliness.",
+      "why_it_matters": "The message that hearing loss 'causes' dementia has become common; this large, methodologically rigorous study suggests the relationship is more tangled \u2014 likely reflecting shared underlying vulnerability \u2014 which matters for how older adults and clinicians set expectations about what hearing treatment will and won't do.",
+      "story_angle_primary": "If you've been told hearing aids will protect your memory, know the evidence is murkier than the headlines suggest \u2014 but this study still found that people currently wearing hearing aids felt less isolated by their hearing difficulty. That social benefit is reason enough to ask your doctor about a hearing evaluation, and to treat staying socially connected as its own health priority rather than a side effect of better hearing.",
+      "story_angle_secondary": "For senior living staff and family caregivers, the practical takeaway is that hearing care and social programming should be pursued as two parallel efforts, not one as a substitute for the other \u2014 and that consistent, current use of hearing aids (not just owning a pair) was what tracked with less loneliness.",
+      "caveats": "Observational cohort plus genetic inference \u2014 cannot establish causation; cognitive outcome was a single word-recall measure; hearing difficulty and loneliness were self-reported; SHARE participants are European and may not generalize to other populations; Mendelian randomization rests on genetic assumptions that can be violated."
+    },
+    {
+      "headline": "Why Your Hearing Doesn't Come Back \u2014 and What Scientists Are Trying to Do About It",
+      "journal": "Ear Hear",
+      "published": "2026 Nov-Dec 01",
+      "pmid": "42868226",
+      "doi": "10.1097/AUD.0000000000001782",
+      "the_study": "This Stanford review summarizes the state of research into regrowing the inner ear's sound-detecting hair cells, the loss of which underlies most permanent hearing loss and affects roughly 5% of the world's population. Birds and zebrafish regenerate these cells spontaneously from neighboring supporting cells; mammals do not. The authors describe new laboratory methods for growing human inner-ear organoids and reprogramming approaches that have induced some hair cell regeneration in adult mouse cochleas.",
+      "why_it_matters": "Age-related hearing loss is currently managed, not reversed, and older adults are increasingly marketed unproven 'regenerative' treatments \u2014 this review clarifies that genuine hair cell restoration remains a laboratory achievement in animals, not a clinic-ready therapy.",
+      "story_angle_primary": "If you see an advertisement promising stem cell or regenerative treatment to restore your hearing, treat it with deep skepticism: no such therapy is approved, and the successes described here are in mice and lab-grown tissue. The best-proven tools for your hearing today remain hearing aids, over-the-counter devices and cochlear implants \u2014 and protecting the hearing you still have from loud noise.",
+      "story_angle_secondary": "Families and senior living professionals may field hopeful questions about 'a cure coming soon'; a realistic answer is that the science is genuinely advancing but years from the clinic, and that delaying hearing aid use while waiting carries real costs to communication and social engagement now.",
+      "caveats": "Narrative review, not original research; findings described are preclinical (animal models and organoids) with no human efficacy data; no systematic methodology or quantitative synthesis reported."
+    },
+    {
+      "headline": "Blood Proteins May Help Explain the Hearing Loss\u2013Dementia Link",
+      "journal": "J Alzheimers Dis",
+      "published": "2026 Oct 30",
+      "pmid": "42961136",
+      "doi": "10.1177/13872877261502870",
+      "the_study": "Researchers analyzed data from 13,941 UK Biobank participants who had both plasma proteomic profiling and a speech-in-noise hearing test, then tracked who went on to develop dementia. People with \"insufficient\" hearing had a 34% higher risk of all-cause dementia and those with \"poor\" hearing had roughly double the risk compared with normal hearing. A 64-protein blood signature associated with hearing impairment was itself linked to incident dementia and statistically accounted for an estimated 15% to 23% of the hearing\u2013dementia relationship.",
+      "why_it_matters": "It adds large-scale prospective evidence that trouble understanding speech in noise is an early marker of dementia risk, and begins to point at biological pathways rather than treating the link as a mystery.",
+      "story_angle_primary": "If you find yourself struggling to follow conversation in a noisy restaurant, treat it as a reason to get a formal hearing evaluation and to raise the result with your doctor at your next visit \u2014 the research keeps pointing to speech-in-noise difficulty as a meaningful health signal, not just an annoyance.",
+      "story_angle_secondary": "For care teams and senior living operators, speech-in-noise performance may be a more useful screening indicator than a resident's self-report of \"hearing fine,\" and noisy dining rooms and activity spaces may be where the earliest difficulties show up.",
+      "caveats": "Observational cohort \u2014 cannot establish that hearing loss causes dementia or that the proteins are causal; the mediation estimates have extremely wide confidence intervals (upper bounds above 100%); the authors themselves call the results hypothesis-generating and note they need external validation; UK Biobank participants are healthier and less diverse than the general population."
+    },
+    {
+      "headline": "Review of 61 Studies Finds Hearing Aids Support Brain and Listening Function",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Nov",
+      "pmid": "42447643",
+      "doi": "10.1016/j.archger.2026.106357",
+      "the_study": "Researchers systematically searched six databases for studies published between 2005 and 2025 on how hearing aid use affects cognition and central auditory processing in people with hearing loss, excluding cochlear implant users and those with unrelated neurological conditions. Sixty-one papers met criteria. Across this body of work, the authors concluded that hearing aid use is generally beneficial for neurocognitive function and auditory processing, and argued for early rehabilitation rather than waiting.",
+      "why_it_matters": "Many older adults delay getting hearing aids for years; this synthesis supports the case that earlier amplification may help protect listening skills and cognitive function, not just volume.",
+      "story_angle_primary": "If you've been putting off hearing aids until your hearing gets \"bad enough,\" this review argues the opposite approach \u2014 ask your audiologist about fitting earlier, and ask specifically what benefits beyond loudness you might expect.",
+      "story_angle_secondary": "Families and senior living staff can use this as grounds for revisiting a resident's unused hearing aids: the benefit case extends to communication and cognitive engagement, which may be a more persuasive argument than volume alone.",
+      "caveats": "Narrative systematic review without meta-analysis or formal risk-of-bias grading reported in the abstract; the authors themselves note the included studies had heterogeneous outcomes; no pooled effect size, so the size of any benefit is unclear; cannot establish causation from the mixed study designs included."
+    },
+    {
+      "headline": "Directional Hearing Aid Microphones Help in Noise \u2014 But Can Make It Harder to Find Who's Talking",
+      "journal": "Ear Hear",
+      "published": "2026 Nov-Dec 01",
+      "pmid": "42507806",
+      "doi": "10.1097/AUD.0000000000001872",
+      "the_study": "Twenty normal-hearing and 22 hearing-impaired adults wore virtual-reality glasses in a 64-speaker array simulating a reverberant room with multiple competing talkers, and had to locate and identify a target narrative among 15 possible positions. Head and eye movements were tracked under unaided conditions and with hearing aids set to either omnidirectional or directional microphone modes. Hearing-impaired listeners were less accurate, slower, and made larger localization errors across all conditions; strikingly, directional microphone settings reduced accuracy and increased localization errors, and hearing-impaired listeners tended to find targets with their eyes while leaving their head pointed elsewhere.",
+      "why_it_matters": "Directional microphones are a standard feature marketed for noisy settings, but this shows they can distort the spatial cues you need to figure out which person in a group is speaking \u2014 a real trade-off in restaurants, family gatherings, and group activities.",
+      "story_angle_primary": "If you wear hearing aids and find you can hear voices in a crowd but can't tell who is speaking, ask your audiologist about your directional microphone program \u2014 whether it switches automatically, when it engages, and whether an omnidirectional option is available for group conversations where you need to locate talkers.",
+      "story_angle_secondary": "In group dining and activity settings, staff and family can compensate for this spatial confusion simply by saying a person's name or touching their arm before speaking, rather than assuming a hearing aid wearer can orient to the voice.",
+      "caveats": "Small sample (42 total) and laboratory-based virtual-reality simulation rather than real-world listening; short exposure to the hearing aid settings tested, so results may not reflect long-term acclimatization; single-site study."
+    },
+    {
+      "headline": "Your Score on a Hearing Test May Partly Reflect Your Thinking Skills, Not Just Your Ears",
+      "journal": "J Speech Lang Hear Res",
+      "published": "2026 Oct 20",
+      "pmid": "42900575",
+      "doi": "10.1044/2026_JSLHR-26-00465",
+      "the_study": "Researchers tested 81 adults at a single academic medical center, with hearing ranging from normal to profound loss, on the spectral-temporally modulated ripple test (SMRT) \u2014 a common measure of how finely the auditory system resolves sound. They also measured pure-tone hearing thresholds, nonverbal reasoning, and short-term memory. Hearing level, memory span, and reasoning each independently predicted SMRT scores, while age on its own did not; the cognitive effects were the same regardless of how much hearing loss a person had.",
+      "why_it_matters": "A poor score on this type of listening test may reflect attention, memory, or reasoning as much as ear function, which matters when such tests are used to judge candidacy for or progress with hearing devices.",
+      "story_angle_primary": "If you're being evaluated for a hearing device and a complex listening test goes badly, it's fair to ask your audiologist how much of that result reflects your ears versus the memory and reasoning demands of the test itself.",
+      "story_angle_secondary": "Audiologists and senior care clinicians should interpret ripple-test results in context: a resident with mild cognitive impairment may underperform on these tests without having correspondingly worse hearing, risking misjudged treatment decisions.",
+      "caveats": "Small sample (N=81), single tertiary care center, cross-sectional and observational so no causal inference; participants recruited from a specialty clinic may not represent community-dwelling older adults."
+    },
+    {
+      "headline": "The Middle Ear Changes With Age, Too \u2014 Not Just the Inner Ear",
+      "journal": "Ear Hear",
+      "published": "2026 Nov-Dec 01",
+      "pmid": "42635394",
+      "doi": "10.1097/AUD.0000000000001886",
+      "the_study": "Turkish researchers compared 30 young adults (18\u201325) with 34 older adults (65\u201389), all screened to have normal middle ear function, using wideband acoustic immittance, otoacoustic emissions, and air-bone gap measurements. Older ears absorbed more sound energy at low frequencies and less at high frequencies, had a lower resonant frequency, showed weaker otoacoustic emissions at every frequency tested, and had wider air-bone gaps at 4000 Hz. The authors concluded that aging does alter middle-ear sound transmission, though whether this meaningfully contributes to age-related hearing loss remains unresolved.",
+      "why_it_matters": "Age-related hearing loss is usually attributed entirely to the inner ear; evidence that the sound-conducting mechanism also stiffens and changes with age could eventually refine how hearing loss is diagnosed and how devices are fitted.",
+      "story_angle_primary": "This is early-stage science rather than anything to act on, but it is a reminder that \"age-related hearing loss\" is not one single problem \u2014 worth asking your audiologist what specifically is driving your own pattern of loss.",
+      "story_angle_secondary": "No immediate practical implication for caregivers or senior living staff; this is a mechanistic finding that may inform future diagnostic practice.",
+      "caveats": "Small sample (N=64), single-center, cross-sectional with no longitudinal follow-up, participants were strictly screened for normal middle ear function so results may not generalize to typical older ears; the authors describe evidence for a conductive contribution as inconclusive."
+    },
+    {
+      "headline": "Brain Scans of 2,400 Older Adults Link Hearing Loss to Weaker Brain Wiring \u2014 and Point to Heart Health",
+      "journal": "Geroscience",
+      "published": "2026 Oct 12",
+      "pmid": "42864571",
+      "doi": "10.1007/s11357-026-02589-x",
+      "the_study": "Researchers in the population-based Rotterdam Study used diffusion MRI and pure-tone audiometry in 2,402 participants (median age 66) to map how age-related hearing loss relates to the brain's structural connections. Poorer hearing was associated with weaker connections involving frontal and subcortical gray matter regions, with no evidence of the compensatory 'reorganization' or left-sided dominance the researchers expected. Notably, adjusting for cardiovascular risk factors weakened the associations, especially for low-frequency hearing thresholds.",
+      "why_it_matters": "It strengthens the case that hearing loss travels with brain changes relevant to cognitive decline, while suggesting that shared vascular risk \u2014 blood pressure, cholesterol, diabetes \u2014 may be part of what links the ear and the brain.",
+      "story_angle_primary": "If you've noticed your hearing slipping, treat it as a prompt to ask your doctor about both a hearing test and a cardiovascular check-up \u2014 this large study found that heart and vessel risk factors accounted for part of the link between hearing loss and weaker brain connections.",
+      "story_angle_secondary": "For care teams, this supports bundling hearing screening with routine cardiovascular and cognitive monitoring rather than treating ear health as a separate, lower-priority silo.",
+      "caveats": "Observational cross-sectional imaging analysis \u2014 cannot establish that hearing loss causes brain changes; participants were drawn from a single Dutch community cohort and may not generalize; 1.5 Tesla imaging limits resolution."
+    },
+    {
+      "headline": "Adults With Hearing Trouble Report Far More Bad Health Days \u2014 and Health Literacy Is Part of the Story",
+      "journal": "Ear Hear",
+      "published": "2026 Nov-Dec 01",
+      "pmid": "42386205",
+      "doi": "10.1097/AUD.0000000000001852",
+      "the_study": "Using 2016 Behavioral Risk Factor Surveillance System data from 104,792 US adults aged 18 and over across 17 states and territories, researchers compared self-reported hearing difficulty with days of poor physical and mental health. People with hearing difficulty were far more likely to report a full 30 bad physical health days (16% versus 6.4%) and 30 bad mental health days (10.7% versus 5.3%), with adjusted odds roughly 1.7 to 2.2 times higher. Lower health literacy was more common in this group (70.3% versus 56.2%) and statistically explained roughly 2% to 7% of the association.",
+      "why_it_matters": "It quantifies how often hearing difficulty coincides with feeling physically and mentally unwell, and identifies understanding health information \u2014 something clinics can actually fix \u2014 as a modifiable piece of the gap.",
+      "story_angle_primary": "If you struggle to hear, you may also be missing pieces of what your doctor tells you: bring a written list of questions, ask for instructions in writing, request a quiet exam room, and ask the clinician to confirm you've understood before you leave.",
+      "story_angle_secondary": "Clinics and senior living staff can audit how they communicate with hearing-impaired residents \u2014 written discharge summaries, captioning, repeat-back confirmation \u2014 since poor comprehension appears to be a measurable contributor to worse health days.",
+      "caveats": "Cross-sectional observational survey \u2014 cannot establish causation; hearing difficulty, health literacy, and health days were all self-reported; mediation estimates were modest in size; data are from 2016 and 17 jurisdictions only."
+    },
+    {
+      "headline": "Recorded Group Conversations Show Exactly How Hearing Loss Derails a Three-Way Chat \u2014 and How Hearing Aids Help",
+      "journal": "Ear Hear",
+      "published": "2026 Nov-Dec 01",
+      "pmid": "42370824",
+      "doi": "10.1097/AUD.0000000000001855",
+      "the_study": "Researchers recorded conversations in 25 groups, each with one hearing-impaired person and two normal-hearing partners, and catalogued every miscommunication and every request for clarification. People with hearing impairment had more breakdowns overall, but in quieter settings, wearing a hearing aid reduced miscommunications and shifted them toward specific clarifications ('Did you say blue?') rather than blanket 'What?' requests. Strikingly, the normal-hearing partners were also affected: when the hearing-impaired listener used directional processing, their speech got quieter and their partners had more trouble and asked more vague clarifying questions.",
+      "why_it_matters": "It demonstrates that hearing loss is a group problem, not an individual one \u2014 one person's listening difficulty measurably changes how everyone in the conversation talks.",
+      "story_angle_primary": "When you miss something, saying what you actually missed \u2014 'Who did you say called?' rather than just 'What?' \u2014 gets you a faster, more useful repair; this study found that aided listeners in quieter rooms naturally shifted to those more specific requests.",
+      "story_angle_secondary": "For families and dining-room staff: lowering background noise helps everyone at the table, and if a resident with hearing aids starts speaking more softly, their companions will struggle too \u2014 a cue to check the device settings with an audiologist rather than assume the problem is one-sided.",
+      "caveats": "Small sample (25 groups), laboratory conversation setting that may not reflect real social life, and the study was conducted by researchers employed by WS Audiology, a hearing aid manufacturer, despite the authors' no-conflict statement."
+    },
+    {
+      "headline": "Age and Hearing Loss Damage Two Different Parts of Listening in a Crowd \u2014 and Practice Only Fixes One",
+      "journal": "Ear Hear",
+      "published": "2026 Nov-Dec 01",
+      "pmid": "42420817",
+      "doi": "10.1097/AUD.0000000000001863",
+      "the_study": "Eighty-six Mandarin-speaking adults \u2014 younger normal-hearing, older normal-hearing, and older adults with hearing loss \u2014 completed two novel listening tasks designed to separate how the brain stitches together sound fragments across the two ears versus how it uses timing differences between the ears to pull speech out of noise. Aging alone, independent of hearing loss, predicted decline in the first ability; hearing loss specifically reduced the binaural benefit in the second. Repeated sessions improved the age-related integration skill but did nothing for the timing-based unmasking.",
+      "why_it_matters": "It helps explain why some older adults still struggle in restaurants even with well-fitted hearing aids \u2014 part of the difficulty originates in the aging brain, not the ear, and may respond to practice while another part does not.",
+      "story_angle_primary": "If hearing aids help your volume but noisy rooms still defeat you, know that part of the problem is central auditory processing that changes with age \u2014 worth discussing with an audiologist about listening training, seating strategy and noise-reduction options rather than just turning the devices up.",
+      "story_angle_secondary": "Senior living programmers can use this to justify quieter dining arrangements and small-group settings: no device fully restores the brain-level ability to separate overlapping voices.",
+      "caveats": "Small sample (N=86) split across three groups, laboratory-only outcomes with novel unvalidated test paradigms, Mandarin-speaking participants at a single center may not generalize, short follow-up across only three sessions."
+    },
+    {
+      "headline": "Why Some People Who Struggle to Hear Still Don't Buy Hearing Aids",
+      "journal": "Ear Hear",
+      "published": "2026 Nov-Dec 01",
+      "pmid": "42244439",
+      "doi": "10.1097/AUD.0000000000001859",
+      "the_study": "Researchers recruited adults aged 50 and older through hearing-care clinics in Canada, measured their actual hearing with audiometric testing, and surveyed them about perceived hearing handicap, listening effort, boredom proneness, mind-wandering, and self-rated thinking skills. They then tracked who went on to purchase a hearing aid over the next five years. As expected, people who reported more hearing handicap and more effortful listening were more likely to get hearing aids \u2014 but those same people, if they were also prone to boredom and mind-wandering, were less likely to follow through.",
+      "why_it_matters": "Hearing aid uptake remains low despite clear links between untreated hearing loss and depression, isolation, and dementia risk; this suggests personality and attention traits \u2014 not just how bad your hearing is \u2014 quietly shape whether someone acts on a hearing problem.",
+      "story_angle_primary": "If you find yourself frequently bored, tuning out, or losing the thread in conversations, that may be a sign your hearing is working against you rather than evidence that you simply aren't interested \u2014 worth raising directly at your next hearing appointment rather than letting it become a reason to put off treatment.",
+      "story_angle_secondary": "For clinicians and family members, this reframes the 'he just won't get hearing aids' problem: follow-up support may matter most for the patients who seem disengaged during the fitting process, since disengagement itself predicts dropping out.",
+      "caveats": "Observational design cannot establish causation; key measures including hearing handicap, boredom proneness, and cognitive functioning were self-reported; participants were recruited through a commercial hearing-care chain (Connect Hearing Canada) and one author is employed by Sonova Canada, a hearing aid manufacturer; clinic-recruited participants may not represent older adults who never seek hearing care."
+    },
+    {
+      "headline": "Growing Up on a Farm Linked to More Alzheimer's Pathology in Donated Brains",
+      "journal": "Alzheimers Dement",
+      "published": "2026 Oct",
+      "pmid": "42851117",
+      "doi": "10.1002/alz.71904",
+      "the_study": "Researchers linked US Census records to autopsy data from 1,035 brain donors at two Alzheimer's Disease Research Centers who died between 1986 and 2018, identifying who had lived on a farm between birth and age 17. About 17% had early-life farming exposure, and after adjusting for age, sex, and year of death, those donors had 60% higher odds of substantial Alzheimer's disease neuropathology in the brain. The authors point to possible pathways including pesticide and chemical exposure, noise-induced hearing loss, and psychosocial stressors.",
+      "why_it_matters": "It suggests that exposures from childhood \u2014 decades before any symptoms \u2014 may leave a measurable mark on the aging brain, and that farm noise and chemical exposures deserve more attention as modifiable dementia risk factors.",
+      "story_angle_primary": "If you grew up on a farm, this is not a verdict on your future \u2014 but it is a reason to be rigorous about the dementia risk factors you can still act on now, including getting your hearing tested and treated, since noise exposure is one of the pathways the authors flag.",
+      "story_angle_secondary": "For those working with rural and agricultural elders, this supports asking about lifetime farm residence and noise exposure as part of a fuller risk history, and makes the case for hearing screening in rural senior services.",
+      "caveats": "Observational autopsy study that cannot establish causation; brain donors at research centers are a self-selected group and may not represent the general population; farming exposure was inferred from Census records rather than measured directly, with no data on specific chemicals, noise levels, or hearing status; limited adjustment for education, income, and other confounders."
+    },
+    {
+      "headline": "Gene Testing in Paget's Disease: A Variant That Predicts Wider Bone Involvement \u2014 But Not Worse Treatment Results",
+      "journal": "Bone",
+      "published": "2026 Oct 17",
+      "pmid": "42887663",
+      "doi": "10.1016/j.bone.2026.118134",
+      "the_study": "A nationwide study across multiple Turkish medical centers sequenced genes in 105 patients with Paget's disease of bone (mean age 67, 52% women) and 96 controls. Pathogenic SQSTM1 variants turned up in about 1 in 10 patients and were tied to more extensive, multi-site bone disease (90% vs 45%) and far more family history (30% vs 5%). Crucially, carriers responded to bisphosphonate treatment just as well \u2014 95% of all patients reached biochemical remission, with no difference by genotype, and rates of hearing loss, fracture, skull involvement, and deformity did not differ.",
+      "why_it_matters": "Paget's disease most often surfaces after age 55 and can cause bone pain, deformity, fractures, and hearing loss when the skull is involved; this reassures patients that carrying the high-risk gene variant does not mean treatment will work less well.",
+      "story_angle_primary": "If you have been diagnosed with Paget's disease of bone, ask your doctor whether your skull is involved and whether you should have a baseline hearing test \u2014 and if a close relative has the condition, mention that family history, since inherited forms tend to affect more bones.",
+      "story_angle_secondary": "For care teams, the message is that genotype should not change the treatment plan: standard bisphosphonate therapy produced remission in the great majority regardless of gene status, though roughly a third relapsed, so ongoing monitoring still matters.",
+      "caveats": "Modest sample size (105 patients, 96 controls); observational design; conducted entirely in T\u00fcrkiye in a population where Paget's disease is uncommon, so findings may not generalize; some subgroup comparisons involved very small numbers of gene carriers; financial support reported from the Society of Endocrinology and Metabolism of Turkey."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42753934",
+      "headline": "Hearing Loss Linked to Faster Cognitive Decline in 10-Year Study of 6,650 Older Adults",
+      "verdict": "minor",
+      "notes": "Sample, design, trajectory percentages and risk ratios all match. Two small issues: the interaction finding was significant only for moderate decline, and the recommendation for \"audiometric screening\" goes beyond what the abstract describes about how hearing loss was assessed.",
+      "issues": [
+        {
+          "label": "Interaction result overgeneralized",
+          "severity": "Minor",
+          "as_written": "Hearing loss also blunted the usual protective value of a high starting cognitive score.",
+          "abstract_says": "The MMSE-by-hearing interaction was significant for moderate decline (RRR 1.252, 95% CI 1.079-1.453), indicating a weaker inverse association between baseline MMSE and moderate-decline membership among participants with hearing loss.",
+          "problem": "The interaction was reported as significant only for the moderate-decline group; the digest states it as a general effect across trajectories.",
+          "suggested_fix": "Add \"for the moderate-decline group\" \u2014 e.g., \"Hearing loss also blunted the usual protective value of a high starting cognitive score for landing in the moderate-decline group.\""
+        },
+        {
+          "label": "Audiometric screening recommendation not supported by described methods",
+          "severity": "Minor",
+          "as_written": "this supports building audiometric screening into cognitive risk assessments",
+          "abstract_says": "multinomial logistic regression examined associations of baseline hearing loss and MMSE score with trajectory group membership... These findings support considering hearing status when assessing cognitive aging risk",
+          "problem": "The abstract never states that hearing loss was measured by audiometry (the CLHLS exposure is a baseline hearing-loss classification), so specifying audiometric screening attributes a method the abstract does not support.",
+          "suggested_fix": "Change to \"this supports building hearing-status checks into cognitive risk assessments,\" matching the authors' wording."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42861992",
+      "headline": "When Older Adults Don't Realize They Have Hearing Loss, Their Caregivers Report More Depressive Symptoms",
+      "verdict": "minor",
+      "notes": "Sample (1,480 caregivers / 960 older adults), 47% figure, odds ratios and null burden findings all match, and the Amplifon affiliation is disclosed in Caveats. One denominator slip in a story angle.",
+      "issues": [
+        {
+          "label": "47% figure attributed to the wrong denominator",
+          "severity": "Minor",
+          "as_written": "Almost half the older adults in this study had measurable hearing loss they did not recognize",
+          "abstract_says": "Among caregivers, 47% supported older adults with unrecognized HL, 34% recognized HL, and 19% had no HL.",
+          "problem": "The 47% is the proportion of caregivers supporting someone with unrecognized hearing loss, not the proportion of older adults in the sample; because caregivers cluster per care recipient, the two are not interchangeable.",
+          "suggested_fix": "Rewrite as \"Almost half the caregivers in this study were supporting someone with measurable hearing loss the older adult did not recognize.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42697173",
+      "headline": "Eating More Fish Did Not Protect Hearing in a Study of Nearly 14,000 Japanese Adults",
+      "verdict": "minor",
+      "notes": "N, age range, cohort, null seafood/n-3 findings and the saturated-fat effect sizes all match the abstract, and the funding disclosure is carried in Caveats. Headline wording is slightly more causal than a cross-sectional null supports.",
+      "issues": [
+        {
+          "label": "Causal phrasing in headline for cross-sectional null",
+          "severity": "Minor",
+          "as_written": "Eating More Fish Did Not Protect Hearing in a Study of Nearly 14,000 Japanese Adults",
+          "abstract_says": "This cross-sectional study examined the association of seafood and dietary fatty acid intakes with ARHL... seafood and N-3 PUFA intakes were not associated with hearing thresholds.",
+          "problem": "\"Did not protect\" implies a tested protective effect; a cross-sectional design can only show no association at one point in time.",
+          "suggested_fix": "Use association language, e.g., \"Fish Intake Not Linked to Better Hearing in Nearly 14,000 Japanese Adults.\""
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "pmid": "42932290",
+      "headline": "Why Some Hearing Aid Users Still Struggle in Noisy Restaurants: Reasoning Ability Plays a Role",
+      "verdict": "minor",
+      "notes": "N=199, the masker/criterion design, the controls (working memory, age, hearing thresholds) and the three-way interaction are all reported accurately. One caveat detail (Swedish participants) cannot be confirmed from the abstract.",
+      "issues": [
+        {
+          "label": "Participant nationality not stated in abstract",
+          "severity": "Minor",
+          "as_written": "Swedish hearing aid users may not generalize to all populations",
+          "abstract_says": "Data were analyzed from 199 adult hearing aid users who completed the Hagerman SPIN test... (authors: Department of Behavioural Sciences and Learning, Link\u00f6ping University, Sweden)",
+          "problem": "The abstract states only the authors' Swedish affiliation, not that participants were Swedish. Unverifiable from abstract only.",
+          "suggested_fix": "Soften to \"participants were recruited by a Swedish research group and may not represent all populations,\" or confirm against the full text."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42949226",
+      "headline": "Hearing Loss, Loneliness and Memory Travel Together \u2014 But One May Not Cause the Other",
+      "verdict": "minor",
+      "notes": "Cohort size, 18-year window, eight GWAS sources, the cross-sectional mediation, the null longitudinal and Mendelian randomization findings and the current-hearing-aid moderation all match. One story-angle phrase reads as an effect rather than a moderated association.",
+      "issues": [
+        {
+          "label": "Moderation described as an experienced benefit",
+          "severity": "Minor",
+          "as_written": "this study still found that people currently wearing hearing aids felt less isolated by their hearing difficulty",
+          "abstract_says": "Current, but not cumulative, hearing-aid use was associated with a weaker concurrent hearing-loneliness association.",
+          "problem": "The finding is a weaker statistical association between hearing difficulty and loneliness among current users at one time point, not evidence that wearers felt less isolated; the phrasing nudges toward a benefit of using aids.",
+          "suggested_fix": "Rephrase as \"among people currently using hearing aids, the link between hearing difficulty and loneliness was weaker at the same point in time.\""
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "pmid": "42868226",
+      "headline": "Why Your Hearing Doesn't Come Back \u2014 and What Scientists Are Trying to Do About It",
+      "verdict": "accurate",
+      "notes": "Review type, Stanford affiliation, the ~5% disabling hearing loss figure, the chicken/zebrafish regeneration contrast, organoid protocols and mature mouse reprogramming are all represented faithfully, and the preclinical limitation is clearly flagged.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "pmid": "42961136",
+      "headline": "Blood Proteins May Help Explain the Hearing Loss\u2013Dementia Link",
+      "verdict": "accurate",
+      "notes": "N=13,941, the 64-protein signature, hazard ratios (1.338 and 2.021), and the 14.6%\u201323.0% mediation estimates with their very wide bootstrap intervals are all accurately reported, including the authors' own hypothesis-generating framing.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42447643",
+      "headline": "Review of 61 Studies Finds Hearing Aids Support Brain and Listening Function",
+      "verdict": "minor",
+      "notes": "Six databases, 2005\u20132025 window, 61 included papers, exclusion criteria and the authors' early-rehabilitation conclusion all match. The reader advice leans further than a narrative review without pooled effects can support, though Caveats partly offset this.",
+      "issues": [
+        {
+          "label": "Clinical advice from an unquantified narrative review",
+          "severity": "Minor",
+          "as_written": "this review argues the opposite approach \u2014 ask your audiologist about fitting earlier, and ask specifically what benefits beyond loudness you might expect",
+          "abstract_says": "The present literature review emphasized the importance of early rehabilitation through hearing aid use... Existing literature showed heterogeneous outcomes among studies",
+          "problem": "The review reports no pooled effect size or risk-of-bias assessment and notes heterogeneous outcomes, so framing it as grounds for a specific timing decision overstates the evidence base, even though the authors do advocate early rehabilitation.",
+          "suggested_fix": "Attribute the advice to the authors and hedge, e.g., \"the review's authors argue for earlier rehabilitation, though the included studies were heterogeneous and no pooled benefit was calculated.\""
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "pmid": "42507806",
+      "headline": "Directional Hearing Aid Microphones Help in Noise \u2014 But Can Make It Harder to Find Who's Talking",
+      "verdict": "significant",
+      "notes": "Sample, 64-channel array, VR tracking and the hearing-impaired performance deficits are accurate, but the key directional-microphone result is attributed to listeners in general when the abstract reports it for the normal-hearing participants.",
+      "issues": [
+        {
+          "label": "Directional-microphone detriment attributed to the wrong group",
+          "severity": "Moderate",
+          "as_written": "strikingly, directional microphone settings reduced accuracy and increased localization errors",
+          "abstract_says": "When aided, the NH participants showed reduced accuracy and increased localization errors, particularly with the directional microphone setting, and they relied slightly more on head movements.",
+          "problem": "The results section attributes the aided accuracy loss and larger localization errors specifically to the normal-hearing participants; the digest presents it as a general finding, and the story angles then direct hearing-aid users to act on it. (The authors' conclusion does caution generally about directionality and localization, but the measured effect is reported for the NH group.)",
+          "suggested_fix": "Specify the group, e.g., \"in the normal-hearing listeners, directional settings reduced accuracy and increased localization errors, and the authors conclude directional microphones introduce challenges for target localization more broadly.\""
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42900575",
+      "headline": "Your Score on a Hearing Test May Partly Reflect Your Thinking Skills, Not Just Your Ears",
+      "verdict": "minor",
+      "notes": "N=81, single tertiary center, hearing range, the three independent predictors, the null age effect and the non-significant interactions are all accurate. Two small overreaches: attention was not measured, and the MCI scenario extends beyond the sample.",
+      "issues": [
+        {
+          "label": "Attention named as a contributor",
+          "severity": "Minor",
+          "as_written": "A poor score on this type of listening test may reflect attention, memory, or reasoning as much as ear function",
+          "abstract_says": "Relationships were examined among SMRT performance; unaided pure-tone average (PTA)...; age; nonverbal reasoning (Raven's Progressive Matrices [Raven's]); and short-term memory capacity (visual forward digit span).",
+          "problem": "Attention was not among the measured domains; only nonverbal reasoning and short-term memory were tested.",
+          "suggested_fix": "Drop \"attention\" and keep \"memory or reasoning.\""
+        },
+        {
+          "label": "Extrapolation to mild cognitive impairment",
+          "severity": "Minor",
+          "as_written": "a resident with mild cognitive impairment may underperform on these tests without having correspondingly worse hearing, risking misjudged treatment decisions",
+          "abstract_says": "These findings support ongoing use of SMRT in middle-aged and older adults with hearing loss, although the independent effects of neurocognitive functions should be accounted for, or at least considered, when interpreting SMRT performance.",
+          "problem": "The study did not identify or enroll a mild cognitive impairment subgroup, and the authors endorse continued SMRT use with cognitive effects taken into account rather than warning of misjudged treatment decisions.",
+          "suggested_fix": "Rephrase to mirror the authors: interpret SMRT scores with reasoning and memory ability in mind, noting the study did not include a diagnosed cognitive impairment group."
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42635394",
+      "headline": "The Middle Ear Changes With Age, Too \u2014 Not Just the Inner Ear",
+      "verdict": "accurate",
+      "notes": "Sample sizes, age ranges, measures and the hedged conclusion all match the abstract; caveats correctly reproduce the authors' own \"inconclusive\" language.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "pmid": "42864571",
+      "headline": "Brain Scans of 2,400 Older Adults Link Hearing Loss to Weaker Brain Wiring \u2014 and Point to Heart Health",
+      "verdict": "accurate",
+      "notes": "N (2,402), median age, cohort, imaging method, the absence of lateralization/reorganization, and the cardiovascular attenuation are all reported correctly; causal language is avoided.",
+      "issues": []
+    },
+    {
+      "number": 13,
+      "pmid": "42386205",
+      "headline": "Adults With Hearing Trouble Report Far More Bad Health Days \u2014 and Health Literacy Is Part of the Story",
+      "verdict": "accurate",
+      "notes": "N, survey year, jurisdictions, prevalence figures, odds ratio range and mediation percentages all align with the abstract, and the caveats flag the cross-sectional, self-report limits.",
+      "issues": []
+    },
+    {
+      "number": 14,
+      "pmid": "42370824",
+      "headline": "Recorded Group Conversations Show Exactly How Hearing Loss Derails a Three-Way Chat \u2014 and How Hearing Aids Help",
+      "verdict": "minor",
+      "notes": "Accurate on the main results and industry affiliation, but omits that directional processing also helped the hearing-impaired listener at high noise.",
+      "issues": [
+        {
+          "label": "One-sided account of directional processing",
+          "severity": "Minor",
+          "as_written": "Strikingly, the normal-hearing partners were also affected: when the hearing-impaired listener used directional processing, their speech got quieter and their partners had more trouble and asked more vague clarifying questions.",
+          "abstract_says": "When listening to directional sound processing (dir) at the high noise level, the HI interlocutor produced fewer open OIRs. It is interesting that the NH interlocutors were also affected by having more miscommunications and more open OIRs when the HI interlocutor listened to dir.",
+          "problem": "The digest reports only the downside of directional processing for conversation partners and leaves out the matching finding that it reduced the hearing-impaired listener's own vague clarification requests, giving readers an unbalanced picture of a trade-off.",
+          "suggested_fix": "Add a clause such as \"directional processing reduced the hearing-impaired listener's own vague 'What?' requests at high noise, but their partners fared worse.\""
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42420817",
+      "headline": "Age and Hearing Loss Damage Two Different Parts of Listening in a Crowd \u2014 and Practice Only Fixes One",
+      "verdict": "minor",
+      "notes": "Results are rendered faithfully; headline verbs are stronger than a cross-sectional group comparison supports, and the \"single center\" caveat cannot be confirmed from the abstract.",
+      "issues": [
+        {
+          "label": "Causal/strong verbs in headline",
+          "severity": "Minor",
+          "as_written": "Age and Hearing Loss Damage Two Different Parts of Listening in a Crowd \u2014 and Practice Only Fixes One",
+          "abstract_says": "Aging, rather than hearing loss, emerged as the primary predictor of reduced binaural spectro-temporal integration after accounting for monaural performance... Repeat exposure selectively enhanced binaural spectro-temporal integration in older adults but produced no measurable effect on interaural phase difference (IPD)-based binaural unmasking.",
+          "problem": "\"Damage\" and \"fixes\" imply causation and full restoration; the study is a cross-sectional comparison of three groups with modest improvement after repeat exposure, not demonstrated damage or repair.",
+          "suggested_fix": "Reword to e.g. \"Age and Hearing Loss Affect Two Different Parts of Listening in a Crowd \u2014 and Repeated Practice Helps Only One.\""
+        },
+        {
+          "label": "\"Single center\" not stated",
+          "severity": "Minor",
+          "as_written": "Mandarin-speaking participants at a single center may not generalize",
+          "abstract_says": "The abstract lists authors across several institutions and does not state the number of recruitment sites.",
+          "problem": "Unverifiable from abstract only \u2014 the number of study sites is not reported.",
+          "suggested_fix": "Drop \"at a single center\" or change to \"recruited in China\" unless the full text confirms a single site."
+        },
+        {
+          "label": "\"Practice\" vs repeat exposure",
+          "severity": "Minor",
+          "as_written": "Repeated sessions improved the age-related integration skill but did nothing for the timing-based unmasking.",
+          "abstract_says": "Both tasks were repeated across three sessions to evaluate exposure-related changes... Repeat exposure selectively enhanced binaural spectro-temporal integration in older adults.",
+          "problem": "The study measured exposure-related change across three test sessions, not a training or practice intervention, so framing it as what \"practice\" does slightly overstates the design.",
+          "suggested_fix": "Say \"repeating the test across three sessions improved...\" and avoid implying a training program."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42244439",
+      "headline": "Why Some People Who Struggle to Hear Still Don't Buy Hearing Aids",
+      "verdict": "significant",
+      "notes": "Core mediation finding is conveyed reasonably, but the DOI is wrong and the second story angle contradicts the abstract's explicit null for direct prediction and swaps adoption for \"dropping out.\"",
+      "issues": [
+        {
+          "label": "Incorrect DOI",
+          "severity": "Moderate",
+          "as_written": "**DOI:** 10.1044/2026_JSLHR-25-01028",
+          "abstract_says": "Ear Hear. 2026 Nov-Dec 01;47(6):1692-1699. doi: 10.1097/AUD.0000000000001840.",
+          "problem": "The digest lists DOI 10.1097/AUD.0000000000001859 for PMID 42244439 (in both the entry header and the citation table); the published DOI is 10.1097/AUD.0000000000001840, so readers following the link will land on a different article.",
+          "suggested_fix": "Correct the DOI to 10.1097/AUD.0000000000001840 in the entry header and the citation table."
+        },
+        {
+          "label": "Story angle contradicts the null direct effect",
+          "severity": "Moderate",
+          "as_written": "follow-up support may matter most for the patients who seem disengaged during the fitting process, since disengagement itself predicts dropping out",
+          "abstract_says": "While neither boredom proneness nor spontaneous mind-wandering significantly predicted hearing aid adoption on their own over the next 5 years, parallel-mediation models revealed that boredom proneness and spontaneous mind-wandering did partially mediate the relation between hearing handicap and hearing aid adoption...",
+          "problem": "The abstract states these traits did not independently predict adoption, so saying \"disengagement itself predicts dropping out\" reverses that null result; it also substitutes \"dropping out\" for the actual outcome, which was first-time hearing aid purchase, and turns a trait questionnaire into observed behavior during a fitting appointment.",
+          "suggested_fix": "Rewrite as: \"These traits did not predict adoption on their own, but they weakened the usual link between feeling handicapped by hearing loss and going on to buy a device \u2014 so clinicians may want extra follow-up with patients who report frequent boredom or mind-wandering.\""
+        },
+        {
+          "label": "Omits that the traits were not independent predictors",
+          "severity": "Minor",
+          "as_written": "but those same people, if they were also prone to boredom and mind-wandering, were less likely to follow through",
+          "abstract_says": "While neither boredom proneness nor spontaneous mind-wandering significantly predicted hearing aid adoption on their own over the next 5 years, parallel-mediation models revealed that boredom proneness and spontaneous mind-wandering did partially mediate the relation...",
+          "problem": "The body text does not tell readers that the traits had no significant standalone association with adoption, which is a key qualifier on the mediation result.",
+          "suggested_fix": "Add a sentence noting the traits did not predict adoption on their own and only emerged as partial mediators."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "pmid": "42851117",
+      "headline": "Growing Up on a Farm Linked to More Alzheimer's Pathology in Donated Brains",
+      "verdict": "minor",
+      "notes": "N, exposure definition, prevalence and the 60% higher odds are all correct; the digest adds specifics (\"pesticide\", \"noise-induced\") that the abstract does not state.",
+      "issues": [
+        {
+          "label": "Pathways made more specific than the abstract",
+          "severity": "Minor",
+          "as_written": "The authors point to possible pathways including pesticide and chemical exposure, noise-induced hearing loss, and psychosocial stressors.",
+          "abstract_says": "...which may include cumulative and sensitive life stage exposure to chemical toxicants, hearing loss, and psychosocial hazards.",
+          "problem": "The abstract says \"chemical toxicants\" and \"hearing loss\" without specifying pesticides or a noise-induced mechanism; the digest narrows both.",
+          "suggested_fix": "Use the authors' wording: \"chemical toxicants, hearing loss, and psychosocial hazards.\""
+        },
+        {
+          "label": "Outcome described as dementia risk",
+          "severity": "Minor",
+          "as_written": "that farm noise and chemical exposures deserve more attention as modifiable dementia risk factors",
+          "abstract_says": "Early-life farming exposure (\u2248 17% of donors) was associated with 60% higher odds of AD neuropathological burden (odds ratio = 1.60, 95% confidence interval: 1.09-2.35)...",
+          "problem": "The measured outcome was autopsy neuropathology, not clinical dementia, and the specific exposures named were hypothesized rather than measured, so calling them modifiable dementia risk factors goes beyond the data.",
+          "suggested_fix": "Reframe as \"deserve more study as possible contributors to Alzheimer's brain pathology.\""
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "pmid": "42887663",
+      "headline": "Gene Testing in Paget's Disease: A Variant That Predicts Wider Bone Involvement \u2014 But Not Worse Treatment Results",
+      "verdict": "minor",
+      "notes": "Genotype frequencies, phenotype comparisons, remission and relapse rates, and the funding disclosure are all accurate; two small wording points.",
+      "issues": [
+        {
+          "label": "Remission denominator",
+          "severity": "Minor",
+          "as_written": "95% of all patients reached biochemical remission",
+          "abstract_says": "Ninety-seven percent received bisphosphonates (predominantly zoledronic acid); biochemical remission occurred in 95% and relapse in 34%, without significant difference by genotype.",
+          "problem": "The 95% remission figure applies to the treated cohort (97% of patients received bisphosphonates), not literally to all enrolled patients.",
+          "suggested_fix": "Change to \"95% of treated patients reached biochemical remission.\""
+        },
+        {
+          "label": "Background epidemiology not in abstract",
+          "severity": "Minor",
+          "as_written": "Paget's disease most often surfaces after age 55 and can cause bone pain, deformity, fractures, and hearing loss when the skull is involved",
+          "abstract_says": "Mean age was 67.3 \u00b1 10.4 years (52% women); 68% were symptomatic and 50% had polyostotic disease.",
+          "problem": "Unverifiable from abstract only \u2014 the age-of-onset and symptom description are general background, not findings of this study.",
+          "suggested_fix": "Attribute the background to general knowledge of the disease rather than implying it comes from this paper."
+        }
+      ]
+    }
+  ]
+}

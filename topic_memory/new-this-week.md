@@ -1,28 +1,28 @@
 # Topic Memory: New this week
-_Last updated: 2026-10-31_
+_Last updated: 2026-11-01_
 
 ## Established findings
-- Cheap functional and clinical measures repeatedly outpredict expensive imaging and biomarkers: grip + metabolic score for incident frailty (42956513, 2026-10-31), intrinsic capacity index (42955660), clinical fall models beating imaging in Parkinson's (42960478), cortical TMS measure failing to track symptoms (42960446).
-- Under-detection and misattribution remain the dominant care failure, now extended to self-perception: older adults recognizing heat/smoke danger but not applying it to themselves (42954290), decades-old head injury off the chart (42958736), hearing loss filed as cosmetic (41916749), fluctuating alertness read as inconsistency (42953268).
-- Secondary fracture prevention works but the at-risk people go unflagged: fracture liaison benefit after year 1 (42955080), opportunistic CT finding silent vertebral fractures in >25% (42961487), bone loss in rotator cuff patients (42955077), post-discharge fracture spike (42963373).
-- Depression, sleep and coping are modifiable drivers of outcomes treated as purely physical: Parkinson's falls and cognition (42960478, 42949295), pain→sleep→mood→cognition pathway (42958704), resilience and clinical aging in chemo patients (42962619).
-- Appealing self-directed or technology-based interventions often fail clean tests, though patient-education tools are an exception: aspirin for capacity (42955660), exergaming (42954170), sway apps (42956683), internet frequency and mood (42954453) — vs. the MRI-prep e-book that beat standard verbal briefing (42954308). Industry/developer authorship common and worth flagging (42958309 Roche).
-- Alzheimer's infrastructure, not drug supply, is the binding constraint: clinic capacity (42953259), MRI sequence changing eligibility (42959393), with blood-biomarker handling stability one loosening link (42958309).
+- Cheap, fast clinical measures keep outpredicting expensive ones: TUG and dual-task TUG as a cognitive flag (41201919, 2026-11-01), grip + metabolic score for frailty (42956513), face-name recall vs MoCA (42961537), clinical models beating imaging in Parkinson's (42960478).
+- Under-detection and misattribution are the dominant care failure: endometriosis after menopause (42887272), seizures in FTD read as progression (42664548), end-of-life breathing misread as suffering (41169186), heat risk not applied to oneself (42954290).
+- Mood, sleep and coping drive outcomes treated as purely physical, and age itself is not the driver: depression trajectories shaped by widowhood and thinning family ties (42362063), pain→sleep→mood→cognition (42958704), resilience and clinical aging in chemo (42962619).
+- Exercise benefits cognition, but type and duration matter: mind-body exercise in MCI beyond 12 weeks (42951347), domain-specific rankings across 110 trials (42696867) — with mechanism (BDNF) unexplained.
+- Industry and developer authorship routinely needs flagging: cocoa flavanol meta-analysis authored entirely by a manufacturer (42679502), Roche-authored biomarker stability work (42958309), DBS authors consulting for device makers (42537546).
+- Appealing interventions fail clean tests when properly controlled: vaginal radiofrequency vs sham for overactive bladder (42403115), exergaming and balance apps in prior runs.
 
 ## Emerging threads
-- The post-hospital/post-event risk window is wider at both ends than standard follow-up: first 14 days home (42963373) through year 2-3 after hip fracture (42956453) and six months post-stroke (42957010).
-- Opportunistic use of data already in the record — CT bone scoring (42961487), incidental microbleeds predicting hemorrhage (42963963) — as a no-cost screening pathway.
-- Face-name associative memory as a sensitive early marker, across clinic and smartphone formats (42961537, 42954140).
-- Tau rather than amyloid as the mediator of synapse loss (42960521) — watch whether this recurs as trials shift.
-- Geriatric oncology forming its own cluster: toxicity prediction tools only modestly accurate (42962620), resilience-based aging phenotypes (42962619).
-- Newer drug classes needing age-specific safety framing: JAK inhibitor shingles in year one (42963440), dexmedetomidine delirium benefit vs bradycardia (42963481); plus cannabis in over-50s as an unasked intake question with a reversed sex pattern (42960557).
-- Elder mistreatment as a detection-plus-funding problem (42954618, 42947574).
+- Caregiver support as clinical treatment, with spillover to the care recipient's frailty (42288393), identified active ingredients (41925437), and caregiver burden/stigma as the real barrier to proven dementia therapy (41512238).
+- Digital tools do work when personalized and paired with onboarding (42400967, 41925437) — a direct counterweight to the earlier "tech mostly fails" pattern; adherence remains the weak point (54% in 42288393).
+- Whose distress is being measured: agitation scales counting outbursts rather than patient distress (42425806); end-of-life drugs treating caregiver anguish (41169186).
+- Alzheimer's blood testing moving from logistics to interpretation: combined p-tau217/Aβ42 and repeat testing shrink the inconclusive zone (42601653, building on 42958309).
+- Deprescribing has a closing window — sedative-hypnotic success halves after 12 months of use (42470902).
+- Age or cognitive status alone as too blunt a disqualifier: DBS with dementia (42537546), JAK inhibitors over 65 (42963440).
+- Equity and population-specific risk entering mainstream geriatrics: transgender elders with very high PTSD rates entering senior housing (42362064).
+- Basic daily care as a staffing/training question rather than a clinical one: nursing home oral hygiene protocols (42965898).
 
 ## Feature ideas already pitched
-- 2026-10-27: "Symptoms older adults are told to ignore" (42935472, 42913450, 42934351, 42934045).
-- 2026-10-28: "Slower before forgetful" — processing speed, white matter, response time (42946888, 42948203, 42946145).
 - 2026-10-29: "Strength is the number nobody writes down" (41818462, 42946838, 42950710, 42952307).
-- 2026-10-30: "When the check-ins stop, the decline starts" — year-two hip fracture decline, delayed fracture-liaison payoff, post-stroke re-entry (42956453, 42955080, 42957010).
-- 2026-10-31: "The warning already in your file" — opportunistic CT bone scoring, incidental microbleeds, rotator cuff as a bone-health prompt (42961487, 42963963, 42955077, 42958309).
-- Not yet pitched: "Sold as a cure, useful as a bridge" — digital tools that measure or engage but don't improve outcomes (42954170, 42956683, 42954453, 42954140, contrast 42954308).
-- Not yet pitched: "What the care plan never asks about" — household finances, caregiver benefits, access and protection gaps (41371759, 42950708, 42947574).
+- 2026-10-30: "When the check-ins stop, the decline starts" (42956453, 42955080, 42957010).
+- 2026-10-31: "The warning already in your file" — opportunistic CT bone scoring, incidental microbleeds (42961487, 42963963, 42955077, 42958309).
+- 2026-11-01: "When helping the caregiver is the treatment" — whose distress is being measured and treated (41169186, 42425806, 41512238, 41925437, 42288393).
+- Not yet pitched: "Pick your exercise for the skill you want" — domain-specific exercise effects (42696867, 42951347, 41201919).
+- Not yet pitched: "Who paid for this finding?" — reading nutrition and device research with the conflict-of-interest line first (42679502, 42403115, 42537546).

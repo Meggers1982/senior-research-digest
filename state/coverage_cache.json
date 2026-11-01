@@ -1,5 +1,35 @@
 {
   "studies": {
+    "40988502": {
+      "checked_at": "2026-11-01T17:02:27.640974+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Legacy Oriented Interventions Supporting Family Bereavement Psychosocial Adaptation Pediatric Palliative",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41169186": {
+      "checked_at": "2026-11-01T17:02:24.483614+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Defining Managing End Life Respiratory Changes Adult Home Hospice Patients",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41201919": {
+      "checked_at": "2026-11-01T17:03:02.823489+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Association Timed Test Alzheimer Disease Systematic Review Meta Analysis",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "41371759": {
       "checked_at": "2026-10-29T17:12:05.227586+00:00",
       "result": {
@@ -7,6 +37,36 @@
         "outlets": [],
         "query": "Financial interventions family caregivers scoping review",
         "returned": 3,
+        "state": "unreported"
+      }
+    },
+    "41512238": {
+      "checked_at": "2026-11-01T17:01:57.452696+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Barriers Facilitators Adaptation Implementation Cognitive Stimulation Therapy Systematic Review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41604771": {
+      "checked_at": "2026-11-01T17:01:52.698589+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Emerging Role Portable Accelerometers Assessment Gait Instability Idiopathic Normal Pressure",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41656560": {
+      "checked_at": "2026-11-01T17:03:06.771347+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Evolution disease modifying therapy clinical trial design therapeutic endpoints Parkinson",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -40,6 +100,26 @@
         "state": "unreported"
       }
     },
+    "41925437": {
+      "checked_at": "2026-11-01T17:03:21.378246+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Multiple Therapeutic Mechanisms Automated Self Guided Enhanced Psychoeducation Intervention Dementia",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41947693": {
+      "checked_at": "2026-11-01T17:05:04.233629+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Urinary Incontinence Risk All Cause Mortality Systematic Review Meta Analysis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "41968301": {
       "checked_at": "2026-10-29T17:11:25.040018+00:00",
       "result": {
@@ -60,6 +140,26 @@
         "state": "unreported"
       }
     },
+    "41989822": {
+      "checked_at": "2026-11-01T17:05:21.840636+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Dysphagia behavioural variant frontotemporal dementia systematic review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42206974": {
+      "checked_at": "2026-11-01T17:05:14.554313+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Effects articulatory manual therapy versus soft tissue massage based GDS",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42208816": {
       "checked_at": "2026-10-26T16:58:25.290827+00:00",
       "result": {
@@ -70,12 +170,62 @@
         "state": "unreported"
       }
     },
+    "42226719": {
+      "checked_at": "2026-11-01T17:05:01.540347+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Mirabegron Intradetrusor Onabotulinumtoxina Overactive Bladder Parkinson Disease Systematic Review Meta",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42240628": {
       "checked_at": "2026-10-26T17:01:42.783889+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Aperiodic EEG features cognition systematic review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42244439": {
+      "checked_at": "2026-11-01T16:59:13.690271+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.consumerreports.org/health/hearing-aids/why-you-shouldnt-put-off-getting-hearing-aids-a1053026186/",
+            "outlet": "Consumer Reports",
+            "title": "Why You Shouldn't Put Off Getting Hearing Aids"
+          },
+          {
+            "link": "https://www.ncoa.org/product-resources/hearing-aids/signia-review/",
+            "outlet": "The National Council on Aging (NCOA)",
+            "title": "Why Signia Hearing Aids Are a Top Choice for Active Older Adults"
+          },
+          {
+            "link": "https://nypost.com/2026/10/04/health/4-surprising-things-people-dont-realize-can-mess-with-hearing/",
+            "outlet": "New York Post",
+            "title": "4 surprising things people don\u2019t realize can mess with their hearing"
+          }
+        ],
+        "outlets": [
+          "Consumer Reports",
+          "The National Council on Aging (NCOA)",
+          "New York Post"
+        ],
+        "query": "Why Some People Who Struggle Hear Still Don Buy Hearing",
+        "returned": 20,
+        "state": "widely_reported"
+      }
+    },
+    "42248533": {
+      "checked_at": "2026-11-01T17:04:59.352560+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Childhood violence exposure risk multimorbidity middle aged multi cohort",
         "returned": 0,
         "state": "unreported"
       }
@@ -96,6 +246,176 @@
         "query": "Bone fragility time address matrix",
         "returned": 2,
         "state": "lightly_reported"
+      }
+    },
+    "42288393": {
+      "checked_at": "2026-11-01T17:03:18.079222+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Efficacy Implementation Theory Underpinning Needs Oriented mHealth Supportive Program Family",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42307257": {
+      "checked_at": "2026-11-01T17:04:41.020698+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "potential expected effects telerehabilitation after total hip arthroplasty systematic review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42362063": {
+      "checked_at": "2026-11-01T17:04:31.668257+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Heterogeneous trajectories depressive symptoms process sequence analysis within nine year",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42362064": {
+      "checked_at": "2026-11-01T17:04:18.150987+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "History anxiety depression post traumatic stress disorder diagnoses among midlife",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42370824": {
+      "checked_at": "2026-11-01T16:59:05.397943+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Recorded Group Conversations Show Exactly How Hearing Loss Derails Three",
+        "returned": 3,
+        "state": "unreported"
+      }
+    },
+    "42386205": {
+      "checked_at": "2026-11-01T16:59:04.255014+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Hearing Trouble Report Far More Bad Health Days Health Literacy",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42400967": {
+      "checked_at": "2026-11-01T17:03:01.156042+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Post intervention effectiveness computerized personalized cognitive stimulation program adapted according",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42403115": {
+      "checked_at": "2026-11-01T17:03:51.348373+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Microablative Radiofrequency Versus Sham Overactive Bladder Randomized Controlled Trial Months",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42420817": {
+      "checked_at": "2026-11-01T16:59:11.723859+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Age Hearing Loss Damage Two Different Parts Listening Crowd Practice",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42425806": {
+      "checked_at": "2026-11-01T17:02:52.577784+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Validated Measures Agitation Neurocognitive Disorders Systematic Review Scales Their Alignment",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42427231": {
+      "checked_at": "2026-11-01T17:05:11.829227+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Pericapsular Nerve Group Block Versus Femoral Nerve Block Analgesia Newly",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42447643": {
+      "checked_at": "2026-11-01T16:58:51.150032+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Review Studies Finds Hearing Aids Support Brain Listening Function",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42470902": {
+      "checked_at": "2026-11-01T17:04:47.768005+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Long term effects introducing novel hypnotics users benzodiazepine receptor agonist",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42492303": {
+      "checked_at": "2026-11-01T17:04:56.145022+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Valproate levetiracetam juvenile myoclonic epilepsy systematic review meta analysis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42492675": {
+      "checked_at": "2026-11-01T17:04:52.025410+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "systematic review meta analysis visuospatial attentional deficits Parkinson patients",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42507806": {
+      "checked_at": "2026-11-01T16:58:52.720907+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Directional Hearing Aid Microphones Help Noise But Make Harder Find",
+        "returned": 16,
+        "state": "unreported"
+      }
+    },
+    "42532137": {
+      "checked_at": "2026-11-01T17:04:05.795396+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Longitudinal neuropsychological safety assessment biperiden treatment following traumatic brain injury",
+        "returned": 0,
+        "state": "unreported"
       }
     },
     "42537115": {
@@ -126,6 +446,56 @@
         "query": "Erectile Dysfunction Risk Metabolic Health Matter More Than Scale",
         "returned": 20,
         "state": "widely_reported"
+      }
+    },
+    "42537546": {
+      "checked_at": "2026-11-01T17:04:21.625148+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Postoperative outcomes patients dementia undergoing deep brain stimulation retrospective matched",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42537597": {
+      "checked_at": "2026-11-01T17:02:45.929273+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Beyond multidimensionality systematic review recurrent frailty archetypes community dwelling",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42537914": {
+      "checked_at": "2026-11-01T17:02:16.547941+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Empathic Communication Pediatric Palliative Care Mixed Methods Systematic Review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42543049": {
+      "checked_at": "2026-11-01T17:03:42.546778+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Plasma associated time first fall Parkinson disease",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42546587": {
+      "checked_at": "2026-11-01T17:03:41.461851+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cognitive metabolic relationship temporal lobe epilepsy systematic review",
+        "returned": 0,
+        "state": "unreported"
       }
     },
     "42561811": {
@@ -164,6 +534,16 @@
         "query": "Disrupted Body Clocks Poor Sleep Low Mood Tied More Memory",
         "returned": 9,
         "state": "lightly_reported"
+      }
+    },
+    "42570448": {
+      "checked_at": "2026-11-01T17:02:38.984528+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Time restricted eating entrain circadian rhythms increase physiological responsiveness prevent",
+        "returned": 0,
+        "state": "unreported"
       }
     },
     "42570706": {
@@ -232,6 +612,16 @@
         "articles": [],
         "outlets": [],
         "query": "scored under basic osteoporosis knowledge test men did worst",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42601653": {
+      "checked_at": "2026-11-01T17:04:43.566984+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cross Sectional Longitudinal Diagnostic Performance Plasma tau217 tau217 Alzheimer Disease",
         "returned": 0,
         "state": "unreported"
       }
@@ -334,6 +724,46 @@
         "state": "unreported"
       }
     },
+    "42635394": {
+      "checked_at": "2026-11-01T16:58:57.411061+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Middle Ear Changes Age Too Not Just Inner Ear",
+        "returned": 16,
+        "state": "unreported"
+      }
+    },
+    "42635504": {
+      "checked_at": "2026-11-01T17:02:35.770906+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Factors Associated Regular Exercise Participation Individuals Chronic Obstructive Pulmonary Disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42638126": {
+      "checked_at": "2026-11-01T17:04:37.221128+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Accelerated Brain Atrophy Epilepsy Prospective Population Based",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42641766": {
+      "checked_at": "2026-11-01T17:02:42.629615+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "vitro cell line models Alzheimer disease systematic review mechanism based",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42641790": {
       "checked_at": "2026-10-29T17:07:51.350897+00:00",
       "result": {
@@ -389,6 +819,16 @@
         "state": "unreported"
       }
     },
+    "42664548": {
+      "checked_at": "2026-11-01T17:04:00.462522+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Prevalence epilepsy seizures frontotemporal dementia systematic review meta analysis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42664573": {
       "checked_at": "2026-10-31T15:57:44.737379+00:00",
       "result": {
@@ -405,6 +845,16 @@
         "articles": [],
         "outlets": [],
         "query": "Frailty Rarely Reverses Its Own Certain Medications Track Faster Decline",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42679502": {
+      "checked_at": "2026-11-01T17:02:30.219092+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Impact cocoa flavanols blood pressure vascular function updated systematic review",
         "returned": 0,
         "state": "unreported"
       }
@@ -429,12 +879,42 @@
         "state": "unreported"
       }
     },
+    "42696867": {
+      "checked_at": "2026-11-01T17:02:21.816910+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Domain specific effects exercise types cognitive function healthy systematic review",
+        "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42697173": {
+      "checked_at": "2026-11-01T16:58:39.886514+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Eating More Fish Did Not Protect Hearing Nearly 000 Japanese",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42697178": {
       "checked_at": "2026-10-30T16:52:29.913298+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "Grip Strength Isn Pass Fail Every Extra Kilogram Counts Stroke",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42698133": {
+      "checked_at": "2026-11-01T17:05:07.490823+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Efficacy Neuromuscular Electrical Stimulation Mitigating Muscle Mass Loss Systematic Review",
         "returned": 0,
         "state": "unreported"
       }
@@ -523,6 +1003,16 @@
         "articles": [],
         "outlets": [],
         "query": "Fatty Liver Plus Fast Body Biological Age Tracks Early Death",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42727648": {
+      "checked_at": "2026-11-01T17:02:19.684779+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Predicting conversion mild cognitive impairment Alzheimer disease systematic review deep",
         "returned": 0,
         "state": "unreported"
       }
@@ -695,6 +1185,26 @@
         "state": "unreported"
       }
     },
+    "42753934": {
+      "checked_at": "2026-11-01T16:58:29.623252+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Hearing Loss Linked Faster Cognitive Decline Year 650",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42753935": {
+      "checked_at": "2026-11-01T17:02:20.697272+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "association between gut microbiota delirium systematic review",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
     "42758043": {
       "checked_at": "2026-10-31T15:57:56.062674+00:00",
       "result": {
@@ -751,6 +1261,16 @@
         "state": "lightly_reported"
       }
     },
+    "42766812": {
+      "checked_at": "2026-11-01T17:01:59.758852+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Reduced Paramagnetic Rim Visibility Signals Lesion Tissue Degeneration Progressive Multiple",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42768715": {
       "checked_at": "2026-10-27T16:04:34.926872+00:00",
       "result": {
@@ -802,6 +1322,16 @@
         "outlets": [],
         "query": "Muscle Weakness Not Just Muscle Size Predicts Who Struggles Cancer",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42790129": {
+      "checked_at": "2026-11-01T17:03:56.931264+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Prediction models sarcopenia risk type diabetes mellitus systematic review meta",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -1101,6 +1631,16 @@
         "state": "unreported"
       }
     },
+    "42851117": {
+      "checked_at": "2026-11-01T16:59:18.293702+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Growing Farm Linked More Alzheimer Pathology Donated Brains",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42852585": {
       "checked_at": "2026-10-27T16:05:04.638594+00:00",
       "result": {
@@ -1211,6 +1751,34 @@
         "state": "unreported"
       }
     },
+    "42861992": {
+      "checked_at": "2026-11-01T16:58:32.594949+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.pressherald.com/2026/10/15/when-hearing-loss-affects-the-whole-household/",
+            "outlet": "Portland Press Herald - Maine Sunday Telegram",
+            "title": "When hearing loss affects the whole household"
+          }
+        ],
+        "outlets": [
+          "Portland Press Herald - Maine Sunday Telegram"
+        ],
+        "query": "When Don Realize They Have Hearing Loss Their Caregivers Report",
+        "returned": 18,
+        "state": "lightly_reported"
+      }
+    },
+    "42864571": {
+      "checked_at": "2026-11-01T16:58:59.967027+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Brain Scans 400 Link Hearing Loss Weaker Brain Wiring Point",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42868070": {
       "checked_at": "2026-10-29T17:08:46.559674+00:00",
       "result": {
@@ -1218,6 +1786,16 @@
         "outlets": [],
         "query": "Adding hormone therapy bone drugs boosts density but fracture proof",
         "returned": 3,
+        "state": "unreported"
+      }
+    },
+    "42868226": {
+      "checked_at": "2026-11-01T16:58:48.650787+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Why Your Hearing Doesn Come Back What Scientists Trying About",
+        "returned": 20,
         "state": "unreported"
       }
     },
@@ -1391,6 +1969,16 @@
         "state": "unreported"
       }
     },
+    "42887272": {
+      "checked_at": "2026-11-01T17:01:48.606636+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Endometriosis first diagnosed after menopause prospective analysis Nurses Health cohort",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42887362": {
       "checked_at": "2026-10-24T14:11:20.447962+00:00",
       "result": {
@@ -1408,6 +1996,16 @@
         "outlets": [],
         "query": "Prevalence management outcomes urinary tract infections living care homes versus",
         "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42887663": {
+      "checked_at": "2026-11-01T16:59:21.616109+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Gene Testing Paget Disease Variant Predicts Wider Bone Involvement But",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1886,6 +2484,16 @@
         "outlets": [],
         "query": "Longitudinal Association Between Prefrailty Frailty HIV associated Neurocognitive Disorder Mexican",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42900575": {
+      "checked_at": "2026-11-01T16:58:56.181496+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Your Score Hearing Test Partly Reflect Your Thinking Skills Not",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -3129,6 +3737,16 @@
         "state": "unreported"
       }
     },
+    "42932290": {
+      "checked_at": "2026-11-01T16:58:42.723650+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Why Some Hearing Aid Users Still Struggle Noisy Restaurants Reasoning",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42933112": {
       "checked_at": "2026-10-27T16:07:51.570741+00:00",
       "result": {
@@ -3631,6 +4249,16 @@
         "state": "unreported"
       }
     },
+    "42949226": {
+      "checked_at": "2026-11-01T16:58:43.817417+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Hearing Loss Loneliness Memory Travel Together But One Not Cause",
+        "returned": 3,
+        "state": "unreported"
+      }
+    },
     "42949266": {
       "checked_at": "2026-10-28T16:56:14.056582+00:00",
       "result": {
@@ -3719,6 +4347,16 @@
         "state": "lightly_reported"
       }
     },
+    "42951347": {
+      "checked_at": "2026-11-01T17:02:13.519935+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Effects Mind Body Exercise Cognitive Function Peripheral Blood BDNF Elderly",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42951664": {
       "checked_at": "2026-10-29T17:11:19.843438+00:00",
       "result": {
@@ -3765,6 +4403,16 @@
         "articles": [],
         "outlets": [],
         "query": "Obesity Medications Geriatrics 5Ms Framework Safe Patient Centered Prescribing",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42952439": {
+      "checked_at": "2026-11-01T17:03:30.334307+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Abnormal Resting State Functional Connectivity Individuals Spinal Cord Injury Systematic",
         "returned": 0,
         "state": "unreported"
       }
@@ -4109,6 +4757,16 @@
         "state": "unreported"
       }
     },
+    "42957570": {
+      "checked_at": "2026-11-01T17:03:54.422354+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Inferior Frontal Gyrus Alterations Freezing Gait Parkinson Disease Without Evidence",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42957617": {
       "checked_at": "2026-10-31T16:02:26.059872+00:00",
       "result": {
@@ -4229,6 +4887,16 @@
         "state": "unreported"
       }
     },
+    "42961136": {
+      "checked_at": "2026-11-01T16:58:49.893974+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Blood Proteins Help Explain Hearing Loss Dementia Link",
+        "returned": 6,
+        "state": "unreported"
+      }
+    },
     "42961137": {
       "checked_at": "2026-10-31T16:01:32.812187+00:00",
       "result": {
@@ -4319,6 +4987,16 @@
         "state": "unreported"
       }
     },
+    "42963318": {
+      "checked_at": "2026-11-01T17:02:08.482045+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Novel Peptide Targeting USP25 SIRT1 Interaction Activates SIRT1 Suppress Cell",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42963373": {
       "checked_at": "2026-10-31T16:00:49.888055+00:00",
       "result": {
@@ -4365,6 +5043,16 @@
         "articles": [],
         "outlets": [],
         "query": "MRI markers cerebral small vessel disease prior first ever spontaneous",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42965898": {
+      "checked_at": "2026-11-01T17:03:34.652060+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Nurse Caregiver Led Oral Health Interventions Living LongTerm Care Facilities",
         "returned": 0,
         "state": "unreported"
       }

@@ -1,0 +1,652 @@
+{
+  "coverage_checked": 17,
+  "coverage_cached": 0,
+  "coverage_skipped": 0,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42847076": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42008767": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42501620": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42955022": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42936152": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42693831": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42874810": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Ophthalmology Advisor"
+      ],
+      "articles": [
+        {
+          "title": "Higher Ocular Radiation Doses Linked to Vision Loss After Plaque Therapy",
+          "outlet": "Ophthalmology Advisor",
+          "link": "https://www.ophthalmologyadvisor.com/news/plaque-radiotherapy-posterior-uveal-melanoma-visual-acuity-loss/"
+        }
+      ]
+    },
+    "42833871": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42955015": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42716809": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42645764": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42752539": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42331364": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42371784": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42752554": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42734305": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42215273": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    }
+  },
+  "pubmed": {
+    "42936152": {
+      "pubdate": "2026",
+      "journal": "Frontiers in aging"
+    },
+    "42847076": {
+      "pubdate": "2026",
+      "journal": "Innovation in aging"
+    },
+    "42008767": {
+      "pubdate": "2026 Nov",
+      "journal": "Diabetic medicine : a journal of the British Diabetic Association"
+    },
+    "42501620": {
+      "pubdate": "2026 Oct",
+      "journal": "Gait & posture"
+    },
+    "42955022": {
+      "pubdate": "2026 Oct 29",
+      "journal": "JAMA ophthalmology"
+    },
+    "42955015": {
+      "pubdate": "2026 Oct 29",
+      "journal": "JAMA ophthalmology"
+    },
+    "42874810": {
+      "pubdate": "2026 Oct 14",
+      "journal": "Ophthalmology"
+    },
+    "42693831": {
+      "pubdate": "2026 Sep",
+      "journal": "International journal of geriatric psychiatry"
+    },
+    "42833871": {
+      "pubdate": "2026 Oct 5",
+      "journal": "The British journal of ophthalmology"
+    },
+    "42645764": {
+      "pubdate": "2026 Aug 26",
+      "journal": "GeroScience"
+    },
+    "42331364": {
+      "pubdate": "2026 Sep 22",
+      "journal": "The British journal of ophthalmology"
+    },
+    "42752539": {
+      "pubdate": "2026 Sep 17",
+      "journal": "JAMA ophthalmology"
+    },
+    "42716809": {
+      "pubdate": "2026 Sep 9",
+      "journal": "The British journal of ophthalmology"
+    },
+    "42371784": {
+      "pubdate": "2026 Aug 5",
+      "journal": "The Gerontologist"
+    },
+    "42752554": {
+      "pubdate": "2026 Sep 1",
+      "journal": "Investigative ophthalmology & visual science"
+    },
+    "42734305": {
+      "pubdate": "2026 Sep 1",
+      "journal": "Investigative ophthalmology & visual science"
+    },
+    "42215273": {
+      "pubdate": "2026 Aug 20",
+      "journal": "The British journal of ophthalmology"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Loneliness in Macular Degeneration Isn't One Problem \u2014 It Follows Several Different Paths",
+      "journal": "Innov Aging",
+      "published": "2026 Sep 16",
+      "pmid": "42847076",
+      "doi": "10.1093/geroni/igag102",
+      "the_study": "Researchers analyzed baseline data from 210 adults with age-related macular degeneration (average age 80) who were enrolled in a randomized trial, using a decision-tree machine-learning method rather than standard regression to map who ends up lonely. Satisfaction with one's social life was the single strongest dividing factor: those content with their social lives reported much less loneliness. When social satisfaction was low, optimism acted as a buffer, while severity of vision loss, anxiety, and emotional reactions to losing vision shaped other branches \u2014 and depressive symptoms appeared to override otherwise protective factors.",
+      "why_it_matters": "Loneliness among older adults with vision loss is common and tied to poorer health, and this analysis suggests there is no single fix \u2014 the right support depends on which pathway a person is on.",
+      "story_angle_primary": "If vision loss is shrinking your world, it may be worth paying attention to how satisfied you feel with your social life \u2014 not just how many people you see \u2014 and discussing persistent low mood or anxiety with your clinician, since depression in particular appeared to swamp other protective factors in this analysis.",
+      "story_angle_secondary": "For senior living staff and family caregivers: a one-size-fits-all social program may miss residents whose loneliness is driven by anxiety, depression, or grief over vision loss rather than lack of opportunity; screening for emotional response to vision loss could help target support.",
+      "caveats": "Cross-sectional baseline data from a trial (observational, cannot establish causation); self-reported loneliness, mood, and social satisfaction; modest sample (N=210) drawn from trial volunteers with AMD, which may not generalize to all older adults with vision impairment."
+    },
+    {
+      "headline": "Eye Injections for Diabetic Vision Loss: Patients Describe a Cycle of Hope and Dread",
+      "journal": "Diabet Med",
+      "published": "2026 Nov",
+      "pmid": "42008767",
+      "doi": "10.1111/dme.70334",
+      "the_study": "Swedish researchers interviewed people with diabetic macular edema at 4 and 12 months after starting intravitreal anti-VEGF injections, analyzing their emotional, physical, and social responses. An overarching theme of 'health, hope, and worry' emerged: participants cycled between hope and anxiety around each injection, and experiences diverged sharply depending on whether vision improved. Trust in providers, continuity of care, and clear information were described as central to coping.",
+      "why_it_matters": "Anti-VEGF injections are among the most common ongoing treatments in older adults with diabetes, and this work shows the burden is emotional as much as clinical \u2014 something care teams can address directly.",
+      "story_angle_primary": "If you're facing repeated eye injections, it's reasonable to ask your team exactly what visual outcome is realistic for you, what each visit will feel like, and who you can call when anxiety spikes \u2014 patients in this study said consistent information and a familiar clinician mattered most to getting through the course.",
+      "story_angle_secondary": "For families and diabetes care teams: injection days are a predictable stress point. Arranging the same escort, preparing for post-injection discomfort, and setting expectations that vision may stabilize rather than improve can reduce distress and help maintain adherence.",
+      "caveats": "Small qualitative study with no control group; self-reported experiences; single-country (Sweden) sample whose care context may not generalize to other health systems; findings describe experience, not treatment effectiveness."
+    },
+    {
+      "headline": "Low-Contrast Obstacles Make Everyone Step More Dangerously \u2014 Even People With Good Vision",
+      "journal": "Gait Posture",
+      "published": "2026 Oct",
+      "pmid": "42501620",
+      "doi": "10.1016/j.gaitpost.2026.110296",
+      "the_study": "Researchers had 29 older adults \u2014 15 with normal vision (average 78) and 14 with central vision loss (average 79) \u2014 walk a black-carpeted path and step over an obstacle that was either 1 cm or 19 cm tall and either low or high contrast, using motion capture to track their feet. Both groups lifted their lead foot lower over low-contrast obstacles than high-contrast ones, a riskier pattern that raises trip potential. Adults with central vision loss showed bigger adjustments in speed, foot clearance, and head angle for tall obstacles and tilted their heads down to compensate with short obstacles.",
+      "why_it_matters": "It points to a cheap, concrete fall-prevention lever: making thresholds, curbs, steps, and cords visually contrast with the floor rather than blending into it.",
+      "story_angle_primary": "Look around your home for trip hazards that blend into the floor \u2014 a dark threshold on dark carpet, a low step, a cord \u2014 and add contrasting tape or paint; this study found even people with normal vision cleared low-contrast obstacles more dangerously without realizing it.",
+      "story_angle_secondary": "For senior living operators and designers: contrast marking on stair edges, door thresholds, and level changes is a measurable safety intervention, not a decorating preference \u2014 and residents with macular degeneration may be compensating by looking down, which carries its own balance risk.",
+      "caveats": "Very small sample (N=29), single-center laboratory setting with artificial obstacles rather than real-world falls data, short-term measurement only; one author reports funding from the American Academy of Optometry Foundation and a consulting relationship with Ray Therapeutics, Inc."
+    },
+    {
+      "headline": "Tamoxifen Can Damage the Retina \u2014 But Almost No One Gets Their Eyes Checked",
+      "journal": "JAMA Ophthalmol",
+      "published": "2026 Oct 29",
+      "pmid": "42955022",
+      "doi": "10.1001/jamaophthalmol.2026.4646",
+      "the_study": "Using the US All of Us research database, researchers tracked 2,327 adults (mean age 54; 96% female) for a year after starting tamoxifen, a widely used breast cancer drug known to cause retinal toxicity. Only 7% had any eye care encounter within 12 months, and just 1.7% received retinal imaging (OCT or fundus photography). People with preexisting glaucoma were nearly four times as likely to be seen, and rates of eye care were no higher than among women taking aromatase inhibitors, which do not carry the same retinal risk.",
+      "why_it_matters": "There is no formal US screening guideline for tamoxifen retinopathy, and this shows that in practice, eye monitoring is essentially not happening for long-term users \u2014 including older women on multi-year regimens.",
+      "story_angle_primary": "If you are taking or starting tamoxifen, it's worth asking your oncologist and an eye doctor whether a baseline eye exam makes sense for you and what visual symptoms \u2014 blurred central vision, distortion, color changes \u2014 should prompt a prompt call, since routine monitoring is currently rare.",
+      "story_angle_secondary": "For families and care coordinators: medication reviews for older women on long-term breast cancer therapy should flag tamoxifen as a drug with known eye toxicity, and new visual complaints shouldn't be written off as ordinary aging or cataracts.",
+      "caveats": "Retrospective observational cohort using billing and encounter codes \u2014 it measures eye care use, not actual retinopathy rates, and cannot establish that screening would improve outcomes; All of Us participants may not represent the general US population; a coauthor reports extensive industry payments from ophthalmic pharmaceutical companies outside this work."
+    },
+    {
+      "headline": "Beyond AREDS: Experts Weigh What's Actually Proven for Supplements and Aging Eyes",
+      "journal": "Front Aging",
+      "published": "2026 Oct 12",
+      "pmid": "42936152",
+      "doi": "10.3389/fragi.2026.1912337",
+      "the_study": "Clinicians from Mass Eye and Ear and collaborators reviewed preclinical and clinical evidence for metabolic supplements \u2014 NAD+ boosters, citicoline, pyruvate, and omega-3 fatty acids \u2014 in macular degeneration, diabetic retinopathy, and glaucoma, framing these diseases as forms of accelerated retinal aging. They conclude that the AREDS formulations remain the main supplement with demonstrated benefit, and only in selected AMD populations. Newer metabolic agents show biological plausibility and early biomarker or functional signals, particularly in glaucoma and diabetic eye disease, but long-term efficacy is unproven.",
+      "why_it_matters": "Eye-health supplements are heavily marketed to older adults, and this review draws a clear line between the one formulation with trial evidence and a growing shelf of products that don't yet have it.",
+      "story_angle_primary": "Before spending money on an eye supplement, ask your eye doctor whether you actually fit the AREDS criteria \u2014 and treat NAD+ boosters, citicoline and similar products as unproven for now, not as substitutes for monitoring and treatment of glaucoma or diabetic eye disease.",
+      "story_angle_secondary": "For families and senior living wellness staff: supplement purchases are a common source of out-of-pocket spending among residents with vision concerns; a medication and supplement review with the eye care provider can separate evidence-based use from marketing.",
+      "caveats": "This is a narrative review, not new original data; it synthesizes studies of varying quality including animal work, and the authors themselves emphasize that long-term efficacy of the newer agents remains unproven."
+    },
+    {
+      "headline": "Glaucoma Surgery Linked to Lower Dementia Risk Than Eye Drops Alone in Huge Patient Database",
+      "journal": "Int J Geriatr Psychiatry",
+      "published": "2026 Sep",
+      "pmid": "42693831",
+      "doi": "10.1002/gps.70252",
+      "the_study": "Researchers used the TriNetX multicenter health records database to compare two groups of glaucoma patients aged 40 and older \u2014 those whose first definitive treatment was surgery versus those who started long-term medication \u2014 matching 51,923 people in each group (mean age 64, 55.3% female) on background characteristics. Over follow-up through July 2026, the surgical group had a 19% lower rate of all-cause dementia (HR 0.81) and a 47% lower rate of vascular dementia (HR 0.53); the reduction in Alzheimer disease was not statistically significant. The surgical group also had more recorded visual loss (HR 1.52), which the authors attribute to those patients having more advanced glaucoma to begin with.",
+      "why_it_matters": "The 2024 Lancet Commission named visual impairment a modifiable dementia risk factor, and this is among the first very large analyses to ask whether how glaucoma is treated \u2014 not just whether it's treated \u2014 tracks with later cognitive outcomes.",
+      "story_angle_primary": "If you have glaucoma and your pressures aren't well controlled on drops, this is a reasonable thing to raise at your next appointment: ask your ophthalmologist where you stand on the medication-versus-surgery decision and what your options are. Don't read this as proof that surgery protects your brain \u2014 the people who got surgery differed from those who didn't in ways records can't fully capture.",
+      "story_angle_secondary": "For families and senior living staff: this adds eye care to the list of specialty appointments worth protecting on a resident's calendar, and it's a reminder to track whether glaucoma drops are actually being instilled correctly \u2014 a common and quiet failure point in assisted living that can drive disease progression.",
+      "caveats": "Observational database study \u2014 cannot establish causation; patients selected for surgery likely differ systematically from those kept on drops (confounding by indication, visible in the higher visual-loss rate); diagnoses derived from coded health records rather than direct examination; no information on adherence to eye drops."
+    },
+    {
+      "headline": "Two Decades After Radiation Plaque Treatment for Eye Melanoma, Most Patients Still Have Useful Vision",
+      "journal": "Ophthalmology",
+      "published": "2026 Oct 14",
+      "pmid": "42874810",
+      "doi": "10.1016/j.ophtha.2026.10.009",
+      "the_study": "A retrospective cohort at a single New York eye cancer center followed 170 patients with choroidal melanoma treated with palladium-103 plaque brachytherapy for at least 10 continuous years. Local tumor control was 100%, and only one eye (0.6%) was removed. Vision of 20/200 or better was retained by 92.7% at 12 years, 87.0% at 15 years, and 63.7% at 20 years; tumors sitting close to the fovea or the optic nerve head produced the worst visual outcomes, and radiation retinopathy was managed with anti-VEGF injections, steroids, and laser.",
+      "why_it_matters": "Choroidal melanoma is diagnosed most often in older adults, and the fear of losing the eye or going blind drives many treatment conversations \u2014 this gives patients and clinicians concrete 10-, 15-, and 20-year numbers to work with.",
+      "story_angle_primary": "If you've been diagnosed with a melanoma inside the eye, ask specifically where the tumor sits relative to your central vision and optic nerve \u2014 location was the strongest predictor of how vision held up decades later, and it should shape both your expectations and your plan for long-term monitoring of radiation retinopathy.",
+      "story_angle_secondary": "For caregivers: survivorship here is measured in decades, which means years of follow-up appointments and possible repeated intravitreal injections. Building that into transportation planning and care coordination matters more than the initial treatment decision alone.",
+      "caveats": "Retrospective, single-center cohort at a highly specialized referral practice led by the technique's proponents \u2014 results may not generalize to other settings; survivors with 10+ years of continuous follow-up are a selected group; no comparison arm against other treatments such as enucleation or proton therapy."
+    },
+    {
+      "headline": "A Three-Surgery Combination Keeps Eye Pressure Down for Three Years in Advanced Angle-Closure Glaucoma",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Oct 5",
+      "pmid": "42833871",
+      "doi": "10.1136/bjo-2026-329527",
+      "the_study": "A multicenter prospective study across Chinese eye centers followed 70 eyes from 58 patients with advanced primary angle-closure glaucoma who still had clear lenses and underwent a combined procedure \u2014 surgical peripheral iridectomy, goniosynechialysis, and goniotomy \u2014 for 36 months. Mean eye pressure fell from 29.4 to 16.4 mm Hg (a 40.7% drop) and the number of glaucoma medications fell from 2.0 to 0.7. Visual field loss stayed stable, with no vision-threatening complications; 21.4% of eyes lost two or more Snellen lines, mostly because of cataract developing afterward. Notably, older age predicted higher three-year surgical success.",
+      "why_it_matters": "Angle-closure glaucoma is a major cause of irreversible blindness in older adults, especially of East Asian ancestry, and this offers a lens-sparing alternative for patients who don't yet need cataract surgery \u2014 while cutting the daily drop burden by about two-thirds.",
+      "story_angle_primary": "If you have advanced angle-closure glaucoma and are struggling with multiple daily eye drops, it's worth asking your specialist whether angle-based combined surgery is an option for you \u2014 and asking directly about the chance of needing cataract surgery afterward, since that was the main reason vision slipped in this study.",
+      "story_angle_secondary": "For senior living staff and family caregivers: a procedure that reduces a resident from two medications to less than one meaningfully reduces the daily administration load and the risk of missed doses \u2014 a practical argument for being present at the surgical consultation.",
+      "caveats": "Small sample (58 patients, 70 eyes), observational with no control group or comparison surgery, conducted entirely in Chinese centers in a population with high angle-closure prevalence \u2014 findings may not generalize; some outcomes depend on surgeon expertise at specialized centers."
+    },
+    {
+      "headline": "Newly Identified Gene Explains Some Cases of Adult-Onset Retinitis Pigmentosa",
+      "journal": "JAMA Ophthalmol",
+      "published": "2026 Oct 29",
+      "pmid": "42955015",
+      "doi": "10.1001/jamaophthalmol.2026.4692",
+      "the_study": "An international team screened roughly 4,500 people with genetically unexplained retinal disease and found six variants in a gene called PRKCZ in 13 affected individuals from 10 unrelated families, inherited from both parents. Affected people developed night blindness and shrinking peripheral vision starting between ages 18 and 49, eventually losing central vision; four also developed adult-onset sensorineural hearing loss. Laboratory work in patient cells showed the variants knock out a long, retina-specific version of the gene, disrupting cell structures and mitochondria.",
+      "why_it_matters": "A substantial share of people with inherited retinal degeneration never get a genetic answer, and naming a new gene opens the door to accurate diagnosis, family counseling, and eligibility for future gene-targeted therapies and trials.",
+      "story_angle_primary": "If you've lost night vision and peripheral vision as an adult and were told the cause was unknown, genetic testing may be worth revisiting \u2014 the list of known genes keeps growing, and a re-analysis of older test results sometimes produces an answer years later. Mention any hearing loss, since it may be part of the same condition.",
+      "story_angle_secondary": "For families: this is an inherited condition requiring two copies of the variant, so a diagnosis has implications for siblings and for genetic counseling across the family \u2014 and the hearing-loss link means a combined vision-and-hearing plan may be needed sooner than expected.",
+      "caveats": "Case series of only 13 individuals with no control group; no treatment exists for this gene variant yet; several authors report ties to RNA-therapy companies and vision-research foundations, including one who is a founder and shareholder of a retinal-therapy spin-off; findings require independent replication."
+    },
+    {
+      "headline": "Trouble Reading Up Close Linked to Weaker Memory Scores in Large Rural Study",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Sep 9",
+      "pmid": "42716809",
+      "doi": "10.1136/bjo-2025-329310",
+      "the_study": "Researchers in the Handan Eye Follow-up Study examined 3,650 adults aged 50 and older in rural China who completed both vision testing and cognitive assessment with the Mini-Mental State Examination. Near vision impairment was strikingly common (92%) and distance vision impairment affected 27.5%. After full adjustment for demographic and health covariates, near vision impairment remained associated with roughly 3.4-fold higher odds of poorer cognitive scores, while the distance-vision association faded once all covariates were accounted for.",
+      "why_it_matters": "Near vision loss is usually correctable with a simple pair of reading glasses or cataract surgery, yet it was nearly universal in this population \u2014 raising the possibility that an inexpensive fix could support both daily function and cognitive engagement.",
+      "story_angle_primary": "If you find yourself avoiding reading, puzzles, recipes or your phone because the print is blurry, get your near vision checked \u2014 uncorrected reading vision is extremely common, easy to test, and often fixable with glasses. This study cannot prove better glasses protect memory, but there is little downside to being able to see what you are doing.",
+      "story_angle_secondary": "For senior living staff and family members: cognitive screening results can be distorted when a resident literally cannot see the test. Consider confirming that reading glasses are current and available before interpreting a low MMSE score as decline.",
+      "caveats": "Cross-sectional observational design \u2014 cannot establish that vision loss causes cognitive impairment, and reverse causation or shared risk factors are plausible. Cognitive testing by MMSE partly depends on near vision, which may inflate the association. Rural Chinese population with very high uncorrected refractive error may not generalize to settings with routine eye care."
+    },
+    {
+      "headline": "Ten Common Health Risks \u2014 Including Vision and Hearing Loss \u2014 Add Up in the Aging Brain",
+      "journal": "Geroscience",
+      "published": "2026 Aug 26",
+      "pmid": "42645764",
+      "doi": "10.1007/s11357-026-02473-8",
+      "the_study": "Using data from 38,414 older adults in the National Alzheimer's Coordinating Center database, researchers built a simple score counting ten modifiable risk factors: hypertension, diabetes, high cholesterol, alcohol misuse, smoking, depression, obesity, hearing loss, vision loss and low education. Each additional risk factor was associated with worse global cognition, poorer delayed recall and semantic fluency, greater clinical severity, and higher odds of white matter hyperintensities, brain infarcts and hippocampal atrophy on MRI. Hippocampal atrophy showed the strongest indirect pathway linking risk burden to cognitive performance.",
+      "why_it_matters": "It reframes sensory loss as a brain-health issue rather than a standalone inconvenience, and suggests that addressing several modest risks together may matter more than perfecting any one of them.",
+      "story_angle_primary": "Think of your brain-health risks as a running tally rather than a pass/fail test: blood pressure, blood sugar, cholesterol, mood, drinking, smoking, weight \u2014 and your hearing and vision. Ask your doctor which items on that list are currently unaddressed in your case, since each one you can subtract appears to count.",
+      "story_angle_secondary": "For care teams and families, this supports a multidomain checklist approach at annual reviews \u2014 pairing cardiometabolic management with hearing aid and eyeglass checks \u2014 rather than treating sensory care as cosmetic or optional.",
+      "caveats": "Cross-sectional observational data from a memory-clinic-based research registry; it cannot establish causation or show that reducing risk factors changes brain outcomes. The NACC population is enriched for cognitive concerns and is not a representative community sample. Several risk factors were self-reported binary variables."
+    },
+    {
+      "headline": "After Wet-AMD-Like Lesions Clear, Half of Eyes Stay Quiet for Two Years \u2014 and Half Come Back",
+      "journal": "JAMA Ophthalmol",
+      "published": "2026 Sep 17",
+      "pmid": "42752539",
+      "doi": "10.1001/jamaophthalmol.2026.3927",
+      "the_study": "In a prospective cohort at four Thai university hospitals, 81 previously untreated patients (mean age 64) with polypoidal choroidal vasculopathy \u2014 a major global cause of vision loss \u2014 received three monthly aflibercept injections, with three more if needed. Only 40% achieved complete polypoidal regression; among 26 of those eyes followed, half had a recurrence of fluid within two years. Among recurrences, median vision change was a loss of 3.5 letters, but 21% lost 10 or more letters and 36% developed new bleeding.",
+      "why_it_matters": "It quantifies the real risk of pausing injections once the eye looks dry, information patients weary of monthly needles need when discussing whether and how to stretch treatment intervals.",
+      "story_angle_primary": "If your retina specialist says your eye looks dry and suggests moving to as-needed injections, ask what your personal recurrence risk looks like and how often you will still need monitoring scans \u2014 in this study, stopping treatment did not mean stopping follow-up, and about half of eyes flared again within two years.",
+      "story_angle_secondary": "For families arranging transportation: a switch to 'as-needed' injections reduces procedures but not appointments. Monthly-to-bimonthly OCT monitoring visits remained essential to catching recurrences before vision was lost, so transportation support should not be scaled back.",
+      "caveats": "Small N (81 enrolled, only 26 regressed eyes analyzed for recurrence), yielding very wide confidence intervals; no control group receiving continued fixed dosing; single-country, four-center Asian cohort where this condition is most prevalent, limiting generalizability. Industry funding and conflicts: grants from Bayer during the study, with multiple authors reporting fees from Bayer, Roche, Novartis, AbbVie and Alcon."
+    },
+    {
+      "headline": "Eye Damage Is Common and Often Missed in a Widely Used Breast Cancer Drug Class",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Sep 22",
+      "pmid": "42331364",
+      "doi": "10.1136/bjo-2026-329526",
+      "the_study": "Researchers prospectively followed 21 patients with HER2-positive breast cancer receiving HER2-targeted antibody-drug conjugates, using detailed ocular surface testing including confocal microscopy and, in selected cases, electron microscopy. Ocular surface toxicity appeared in 86% of patients, at an average of 28 days after starting therapy, presenting as dry eye, blurred vision and a distinctive swirl-shaped corneal deposit pattern along with loss of corneal nerve fibers and reduced corneal sensitivity. Damage was dose- and time-related and partially reversible, with corneal structure trending toward recovery after 12 treatment cycles.",
+      "why_it_matters": "Many older women on these cancer drugs may attribute blurry, gritty eyes to aging or chemotherapy generally, when the cause is a recognized, monitorable and partly reversible drug effect.",
+      "story_angle_primary": "If you are starting a HER2-targeted antibody-drug conjugate for breast cancer, ask your oncologist about a baseline eye exam and tell the team promptly about dry, gritty or blurry eyes \u2014 symptoms typically began about a month in, and because corneal nerves go numb, your eyes may be more damaged than they feel.",
+      "story_angle_secondary": "For caregivers accompanying someone through cancer treatment: add eye symptoms to the side-effect list you report at each cycle, and flag reduced reading ability or new difficulty driving, since numbed corneal nerves mean discomfort is an unreliable warning sign.",
+      "caveats": "Small N (21 patients), single-center, no control group, and no randomization; follow-up limited to the treatment course so long-term reversibility is unknown. Findings describe a specific cancer-drug population and do not apply to ocular surface disease generally."
+    },
+    {
+      "headline": "Childhood Hardship May Shape Late-Life Memory \u2014 Partly Through Untreated Vision Loss",
+      "journal": "Gerontologist",
+      "published": "2026 Aug 5",
+      "pmid": "42371784",
+      "doi": "10.1093/geront/gnag147",
+      "the_study": "Researchers analyzed data from 20,010 Chinese adults aged 40 and older in the China Health and Retirement Longitudinal Study, including its 2014 Life History Survey, using structural equation modeling to trace how 11 different adverse childhood experiences relate to later-life cognitive function. Emotional abuse and exposure to community violence were directly linked to poorer cognition decades later. Physical neglect and parental divorce or death affected cognition indirectly \u2014 through lower educational attainment, depression, and untreated vision loss.",
+      "why_it_matters": "It identifies untreated vision loss as one of the modifiable links between early hardship and later cognitive decline, meaning something as ordinary as getting an eye exam and the right glasses or cataract surgery sits on the pathway to brain health.",
+      "story_angle_primary": "If you grew up with hardship, that history does not seal your cognitive fate \u2014 but it may raise your risk. One of the links researchers found runs through vision that was never properly corrected, so keeping up with eye exams, updated glasses, and discussing cataract evaluation with your doctor addresses a factor you can actually act on.",
+      "story_angle_secondary": "For care staff and family members, a resident's childhood history is rarely in the chart \u2014 but this analysis suggests it can be a marker of cognitive risk worth noting, and that untreated sensory impairment in that group deserves particular scrutiny during intake and annual reviews.",
+      "caveats": "Observational design cannot establish causation; childhood experiences were recalled retrospectively by older adults, which invites recall bias; vision loss and other risk factors were largely self-reported; findings come from a Chinese cohort and may not generalize elsewhere; two ACE categories showed unexplained positive associations with cognition, suggesting measurement problems."
+    },
+    {
+      "headline": "A Routine Eye Scan May Flag Which Diabetic Eyes Are Headed for Trouble",
+      "journal": "Invest Ophthalmol Vis Sci",
+      "published": "2026 Sep 1",
+      "pmid": "42752554",
+      "doi": "10.1167/iovs.67.11.35",
+      "the_study": "Researchers followed 190 eyes from 121 patients with diabetic retinopathy but no macular swelling, measuring inner and outer retinal volume from baseline macular OCT scans and tracking outcomes for two years. About a quarter of eyes (25.3%) progressed \u2014 meaning worsening on angiography, loss of 10 or more letters of vision, vitreous hemorrhage, or the need for laser or anti-VEGF injections. Higher outer retinal volume at baseline independently predicted progression even after adjusting for retinopathy severity, hypertension, age, and lens status, while inner retinal volume predicted nothing.",
+      "why_it_matters": "OCT scanning is already standard in most eye clinics, so this measurement could help identify which people with diabetes need closer monitoring or earlier treatment before vision is lost.",
+      "story_angle_primary": "If you have diabetes, ask your eye doctor what your OCT scan shows beyond whether there's swelling \u2014 this research suggests the thickness of the outer retina carries information about your two-year risk, and that may be a reason to come back sooner rather than waiting for symptoms.",
+      "story_angle_secondary": "For families coordinating diabetes care, this supports keeping dilated eye exams and OCT imaging on the calendar even when vision seems fine and there is no macular edema \u2014 a quarter of these eyes progressed within two years.",
+      "caveats": "Observational study with no control group; fewer than 200 eyes and only 121 patients; required manual correction of scan segmentation, which may limit real-world reproducibility; senior author discloses consulting relationships with Roche/Genentech, Boehringer Ingelheim, RegenXbio, and 3Helix; two-year follow-up is relatively short for a slowly progressive disease."
+    },
+    {
+      "headline": "Night Vision Fades First in a Rare Retinal Disease That Mirrors Macular Degeneration",
+      "journal": "Invest Ophthalmol Vis Sci",
+      "published": "2026 Sep 1",
+      "pmid": "42734305",
+      "doi": "10.1167/iovs.67.11.24",
+      "the_study": "Swiss and UK researchers tracked 25 patients with genetically confirmed Malattia Leventinese (Doyne honeycomb retinal dystrophy), median age 60, over two years using detailed retinal imaging and microperimetry testing of light sensitivity. Total retinal thickness appeared stable \u2014 but only because deposits were building up at the same rate that photoreceptor layers were thinning underneath. Dim-light (scotopic) sensitivity declined measurably while standard mid-light testing stayed flat, with the sharpest functional losses occurring early in the disease.",
+      "why_it_matters": "Because this inherited condition closely resembles dry age-related macular degeneration, the finding that dim-light vision deteriorates before conventional measures change could reshape how both diseases are monitored and how new treatments are tested.",
+      "story_angle_primary": "If you notice you are struggling more in dim restaurants, stairwells, or at dusk while your standard eye chart results look unchanged, that is worth raising \u2014 this study suggests dim-light sensitivity can decline well before routine tests register a problem.",
+      "story_angle_secondary": "For senior living operators and caregivers, this is a practical argument for treating complaints about dim-light difficulty as real clinical information, and for auditing lighting in hallways, bathrooms, and stairways rather than assuming good chart vision means safe navigation.",
+      "caveats": "Very small sample (N=25) of a rare inherited disease; findings about age-related macular degeneration are inferred by analogy, not directly tested; two-year follow-up; multiple authors disclose funding or consulting ties to Bayer, Roche/Genentech, iCare/CenterVue, Apellis, and Johnson & Johnson."
+    },
+    {
+      "headline": "A Chemotherapy Drug Injected Into the Cornea Shrinks Sight-Threatening Blood Vessels",
+      "journal": "Br J Ophthalmol",
+      "published": "2026 Aug 20",
+      "pmid": "42215273",
+      "doi": "10.1136/bjo-2026-329997",
+      "the_study": "Surgeons at Moorfields Eye Hospital reviewed 39 procedures using mitomycin C to shut down abnormal corneal blood vessels \u2014 a condition that causes scarring, fat deposits, and vision loss \u2014 delivered either directly into the vessels (MICE) or injected into the corneal tissue (MIST), with a median 12 months of follow-up. Direct vessel cannulation succeeded in only 15% of cases, so the simpler intrastromal injection was used alone in 70%. Vessel regression was documented in 59% to 81% of cases depending on the assessment method, and four patients went on to successful corneal transplants without vessel recurrence.",
+      "why_it_matters": "Corneal neovascularization has long been considered difficult to treat and is a major reason corneal transplants fail; an accessible injection technique could open the door to transplant for patients previously considered too high risk.",
+      "story_angle_primary": "If you have been told abnormal blood vessels in your cornea make you a poor candidate for a corneal transplant, it may be worth asking a corneal specialist whether mitomycin C injection could stabilize your eye first \u2014 this is still an emerging technique, but it is being used at major centers.",
+      "story_angle_secondary": "For families supporting someone with long-standing corneal disease, this is a reminder that a past 'not a transplant candidate' verdict is not necessarily permanent, and a fresh specialist opinion may be warranted.",
+      "caveats": "Retrospective case series with no control group, single-center, and small (39 procedures); outcome measures disagreed substantially with each other, with surgeon-reported results most favorable; two serious complications occurred involving drug migration into the anterior chamber in thinned or previously perforated corneas; median follow-up only 12 months."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42847076",
+      "headline": "Loneliness in Macular Degeneration Isn't One Problem \u2014 It Follows Several Different Paths",
+      "verdict": "minor",
+      "notes": "Sample, design, age and the decision-tree findings all match the abstract; one nuance about the depression branch is dropped.",
+      "issues": [
+        {
+          "label": "Depression finding stripped of its branch context",
+          "severity": "Minor",
+          "as_written": "and depressive symptoms appeared to override otherwise protective factors",
+          "abstract_says": "Depressive symptoms differentiated loneliness outcomes within a lower-anxiety branch, suggesting depression may overshadow protective factors.",
+          "problem": "The abstract locates the depression effect specifically within the lower-anxiety branch of the tree; the digest presents it as a general finding across the sample, and the story angle repeats it (\"depression in particular appeared to swamp other protective factors\").",
+          "suggested_fix": "Add the qualifier, e.g. \"among participants with lower anxiety, depressive symptoms appeared to overshadow otherwise protective factors.\""
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "pmid": "42008767",
+      "headline": "Eye Injections for Diabetic Vision Loss: Patients Describe a Cycle of Hope and Dread",
+      "verdict": "minor",
+      "notes": "Themes and design are reported faithfully; two story-angle statements go a step beyond what a qualitative study can support, and the stated sample size is not in the abstract.",
+      "issues": [
+        {
+          "label": "Advice framed as effective at reducing distress and improving adherence",
+          "severity": "Moderate",
+          "as_written": "Arranging the same escort, preparing for post-injection discomfort, and setting expectations that vision may stabilize rather than improve can reduce distress and help maintain adherence.",
+          "abstract_says": "These findings highlight the need for empathetic communication, consistent care and individualized support to promote adherence and mitigate emotional distress.",
+          "problem": "The abstract identifies a need for supportive care based on interview themes; it does not test or demonstrate that any of these specific practical steps reduce distress or maintain adherence. The digest states the effect as established.",
+          "suggested_fix": "Soften to \"participants described consistent care and clear expectations as important to coping, suggesting these steps may help.\""
+        },
+        {
+          "label": "\"mattered most\" ranks factors the study did not rank",
+          "severity": "Minor",
+          "as_written": "patients in this study said consistent information and a familiar clinician mattered most to getting through the course",
+          "abstract_says": "Trust in healthcare providers, consistent care and adequate information were crucial for emotional resilience.",
+          "problem": "Qualitative themes were described as crucial, not ranked against other factors; \"mattered most\" implies a comparative weighting the study did not produce.",
+          "suggested_fix": "Change to \"patients described trust in their providers, consistent care and clear information as crucial to coping.\""
+        },
+        {
+          "label": "Sample size characterization not in abstract",
+          "severity": "Minor",
+          "as_written": "Small qualitative study with no control group",
+          "abstract_says": "The abstract reports no participant count, only that longitudinal interviews were conducted at 4 and 12 months.",
+          "problem": "The number of interviewees is unverifiable from the abstract alone, so \"small\" cannot be confirmed (though it is a conservative characterization for a qualitative design).",
+          "suggested_fix": "Note \"sample size not stated in the abstract\" or cite the figure from the methods section."
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42501620",
+      "headline": "Low-Contrast Obstacles Make Everyone Step More Dangerously \u2014 Even People With Good Vision",
+      "verdict": "accurate",
+      "notes": "Group sizes, ages, obstacle conditions, direction of effects and the competing-interest disclosure all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "pmid": "42955022",
+      "headline": "Tamoxifen Can Damage the Retina \u2014 But Almost No One Gets Their Eyes Checked",
+      "verdict": "minor",
+      "notes": "Cohort size, demographics, 7% and 1.7% figures and the glaucoma odds ratio are all correct; framing stretches a 12-month, middle-aged cohort to long-term older users.",
+      "issues": [
+        {
+          "label": "Extrapolation to older, long-term users",
+          "severity": "Moderate",
+          "as_written": "eye monitoring is essentially not happening for long-term users \u2014 including older women on multi-year regimens",
+          "abstract_says": "Among 2327 individuals taking tamoxifen (mean [SD] age, 53.8 [10.6] years...), 162 (7.0%) had an ophthalmic encounter within 12 months... retrospective cohort study... with 365-day minimum follow-up.",
+          "problem": "The cohort had a mean age of 54 and outcomes were measured over only the first 12 months after initiation; the digest extends the conclusion to older women on multi-year regimens, a group the analysis did not separately characterize.",
+          "suggested_fix": "Limit the claim to the first year after starting tamoxifen in a cohort averaging 54 years old, and drop or flag the multi-year/older-women extension as an inference."
+        },
+        {
+          "label": "Claim about aromatase inhibitor retinal risk not in abstract",
+          "severity": "Minor",
+          "as_written": "rates of eye care were no higher than among women taking aromatase inhibitors, which do not carry the same retinal risk",
+          "abstract_says": "Among participants with breast cancer, 126 of 1886 individuals taking tamoxifen (6.7%) had an encounter vs 240 of 2809 individuals taking aromatase inhibitors (8.5%...). After adjustment, tamoxifen use was not associated with greater ophthalmic use.",
+          "problem": "The comparison itself is reported correctly, but the characterization of aromatase inhibitors as not carrying the same retinal risk is background not stated in the abstract. Unverifiable from abstract only.",
+          "suggested_fix": "Attribute the retinal-risk contrast to outside sources or drop the clause."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42936152",
+      "headline": "Beyond AREDS: Experts Weigh What's Actually Proven for Supplements and Aging Eyes",
+      "verdict": "accurate",
+      "notes": "Agents reviewed, the AREDS conclusion and the \"unproven long-term efficacy\" message all match; calling it a narrative review slightly understates the abstract's \"structured literature and clinical trial search,\" but errs on the conservative side.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "pmid": "42693831",
+      "headline": "Glaucoma Surgery Linked to Lower Dementia Risk Than Eye Drops Alone in Huge Patient Database",
+      "verdict": "accurate",
+      "notes": "Matched cohort sizes, demographics, hazard ratios, the non-significant Alzheimer result and the visual-loss explanation all match the abstract; framing is appropriately associational.",
+      "issues": []
+    },
+    {
+      "number": 7,
+      "pmid": "42874810",
+      "headline": "Two Decades After Radiation Plaque Treatment for Eye Melanoma, Most Patients Still Have Useful Vision",
+      "verdict": "minor",
+      "notes": "All headline numbers match; the story angle elevates tumor location to \"strongest predictor,\" which the abstract does not claim.",
+      "issues": [
+        {
+          "label": "\"Strongest predictor\" not supported",
+          "severity": "Moderate",
+          "as_written": "location was the strongest predictor of how vision held up decades later",
+          "abstract_says": "Tumors located closer to the fovea were associated with increased foveal radiation doses and poorer visual acuity outcomes. Treatment of juxtapapillary and circumpapillary tumors was associated with the highest rates of vision loss.",
+          "problem": "The abstract reports associations between tumor location and visual outcome but never ranks predictors or identifies location as the strongest one.",
+          "suggested_fix": "Rewrite as \"tumors closer to the fovea or optic disc were associated with poorer visual outcomes.\""
+        },
+        {
+          "label": "Causal verb for a retrospective association",
+          "severity": "Minor",
+          "as_written": "tumors sitting close to the fovea or the optic nerve head produced the worst visual outcomes",
+          "abstract_says": "Tumors located closer to the fovea were associated with... poorer visual acuity outcomes.",
+          "problem": "\"Produced\" implies causation in a retrospective single-center cohort that reports associations.",
+          "suggested_fix": "Use \"were associated with the worst visual outcomes.\""
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "pmid": "42833871",
+      "headline": "A Three-Surgery Combination Keeps Eye Pressure Down for Three Years in Advanced Angle-Closure Glaucoma",
+      "verdict": "accurate",
+      "notes": "Eye and patient counts, IOP and medication changes, the 65.7%/two-thirds reduction, 21.4% vision loss from cataract and the age-success finding all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 9,
+      "pmid": "42955015",
+      "headline": "Newly Identified Gene Explains Some Cases of Adult-Onset Retinitis Pigmentosa",
+      "verdict": "minor",
+      "notes": "Screening size, variant and family counts, phenotype, age range, hearing loss and functional findings all match; two small wording stretches.",
+      "issues": [
+        {
+          "label": "\"Explains\" overstates a candidate-gene case series",
+          "severity": "Minor",
+          "as_written": "Newly Identified Gene Explains Some Cases of Adult-Onset Retinitis Pigmentosa",
+          "abstract_says": "bi-allelic inactivating variants in PRKCZ were associated with adult-onset RP... highlight PRKCZ as a potentially clinically relevant gene implicated in adult-onset retinal degeneration.",
+          "problem": "The abstract frames PRKCZ as a novel disease gene candidate associated with the phenotype; \"explains\" asserts a settled causal account. The caveats do note that replication is needed, which partly offsets this.",
+          "suggested_fix": "Soften to \"Newly Identified Gene Linked to Some Cases of Adult-Onset Retinitis Pigmentosa.\""
+        },
+        {
+          "label": "\"Retina-specific\" vs retinal-enriched isoform",
+          "severity": "Minor",
+          "as_written": "the variants knock out a long, retina-specific version of the gene",
+          "abstract_says": "an isoform-specific mechanism involving the long retinal-enriched transcript",
+          "problem": "The abstract describes the long transcript as retinal-enriched, not exclusive to the retina; \"retina-specific\" is slightly stronger.",
+          "suggested_fix": "Use \"a long version of the gene that is concentrated in the retina.\""
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42716809",
+      "headline": "Trouble Reading Up Close Linked to Weaker Memory Scores in Large Rural Study",
+      "verdict": "minor",
+      "notes": "Sample size, prevalence figures and the adjusted OR of 3.44 are accurate; the headline calls the MMSE a memory measure.",
+      "issues": [
+        {
+          "label": "MMSE described as a memory score",
+          "severity": "Minor",
+          "as_written": "Trouble Reading Up Close Linked to Weaker Memory Scores in Large Rural Study",
+          "abstract_says": "cognitive status assessed by the Mini-Mental State Examination (MMSE)... Near VI was associated with poorer cognitive performance",
+          "problem": "The MMSE is a global cognitive screening tool covering orientation, attention, language and recall, not a memory test; the body text correctly says \"cognitive scores,\" so the headline is out of step.",
+          "suggested_fix": "Change to \"Linked to Weaker Cognitive Screening Scores.\""
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42645764",
+      "headline": "Ten Common Health Risks \u2014 Including Vision and Hearing Loss \u2014 Add Up in the Aging Brain",
+      "verdict": "accurate",
+      "notes": "Sample size, risk-factor list, outcomes and the hippocampal-atrophy indirect pathway all match the abstract; cross-sectional limitation is correctly flagged.",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "pmid": "42752539",
+      "headline": "After Wet-AMD-Like Lesions Clear, Half of Eyes Stay Quiet for Two Years \u2014 and Half Come Back",
+      "verdict": "minor",
+      "notes": "Numbers (81 eyes, 40% regression, 13/26 recurrence, -3.5 letters, 21%, 36%) all match. Two small issues: a monitoring claim the study did not test, and an incomplete conflict-of-interest list.",
+      "issues": [
+        {
+          "label": "Monitoring benefit not demonstrated",
+          "severity": "Minor",
+          "as_written": "Monthly-to-bimonthly OCT monitoring visits remained essential to catching recurrences before vision was lost, so transportation support should not be scaled back.",
+          "abstract_says": "At week 12, eyes with regression underwent PRN treatment and follow-up monthly during year 1 and bimonthly during year 2... Among 14 eyes with recurrence, median best-corrected visual acuity change from the prior visit was -3.5 letters (IQR, -5.0 to -0.25); 3 (21%; 95% CI, 5%-51%) lost 10 or more letters",
+          "problem": "The monthly/bimonthly schedule was the study protocol, not a tested intervention, and the data show some eyes did lose vision at recurrence \u2014 so the claim that monitoring caught recurrences 'before vision was lost' goes beyond the abstract and slightly contradicts the reported letter losses.",
+          "suggested_fix": "Rephrase to: 'In this study, eyes were still seen monthly in year 1 and every two months in year 2 even after injections were deferred, so a switch to as-needed dosing did not reduce the number of visits.'"
+        },
+        {
+          "label": "Incomplete conflict-of-interest summary",
+          "severity": "Minor",
+          "as_written": "Industry funding and conflicts: grants from Bayer during the study, with multiple authors reporting fees from Bayer, Roche, Novartis, AbbVie and Alcon.",
+          "abstract_says": "Dr Bressler reported grants to their employer (Johns Hopkins University) from Regeneron outside the submitted work; and Dr Bressler is the editor in chief for JAMA Ophthalmology, but was not involved in the review process or the acceptance of the manuscript.",
+          "problem": "The digest captures the Bayer funding but omits the Regeneron grant and the fact that a coauthor is editor-in-chief of the publishing journal, which readers may consider relevant.",
+          "suggested_fix": "Add: '...and a coauthor who is editor-in-chief of JAMA Ophthalmology (recused from review) reported Regeneron grants to his institution.'"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42331364",
+      "headline": "Eye Damage Is Common and Often Missed in a Widely Used Breast Cancer Drug Class",
+      "verdict": "minor",
+      "notes": "The 86% toxicity rate, 28-day onset, vortex keratopathy, nerve loss and partial reversibility all match. The 'often missed' framing and the 'older women' population are not supported by the abstract.",
+      "issues": [
+        {
+          "label": "'Often missed' not established",
+          "severity": "Minor",
+          "as_written": "Eye Damage Is Common and Often Missed in a Widely Used Breast Cancer Drug Class",
+          "abstract_says": "Ocular surface toxicity occurred in 85.7% (18/21) of patients after HER2-ADC therapy, with a mean onset at 28.0\u00b18.4 days.",
+          "problem": "The study prospectively screened all participants and says nothing about under-recognition or missed diagnoses in routine care; 'often missed' is an unverifiable addition.",
+          "suggested_fix": "Change headline to something like 'Eye Surface Damage Showed Up in 86% of Patients on a Widely Used Breast Cancer Drug Class'."
+        },
+        {
+          "label": "Age of study population unverifiable",
+          "severity": "Minor",
+          "as_written": "Many older women on these cancer drugs may attribute blurry, gritty eyes to aging or chemotherapy generally",
+          "abstract_says": "21 HER2-positive breast cancer patients receiving HER2-ADC therapy were enrolled.",
+          "problem": "The abstract reports no age data, so framing the findings around older women is an extrapolation beyond the described sample.",
+          "suggested_fix": "Note that participant ages were not reported, and phrase as 'patients on these drugs, including older women, may attribute...'"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42371784",
+      "headline": "Childhood Hardship May Shape Late-Life Memory \u2014 Partly Through Untreated Vision Loss",
+      "verdict": "minor",
+      "notes": "N, cohort, 11 ACEs, SEM design and the specific direct/indirect findings all match. One slightly causal 'pathway' statement in Why it matters.",
+      "issues": [
+        {
+          "label": "Mediation framed as an actionable causal pathway",
+          "severity": "Minor",
+          "as_written": "meaning something as ordinary as getting an eye exam and the right glasses or cataract surgery sits on the pathway to brain health",
+          "abstract_says": "Physical neglect and parental divorce or death showed significant indirect negative effects, operating through less education, depression, and untreated vision loss.",
+          "problem": "A statistical mediation path in observational survey data does not show that correcting vision changes cognitive outcomes; the wording implies an intervention effect the study did not test.",
+          "suggested_fix": "Soften to: 'untreated vision loss was one of the statistical links in this model, making it a plausible \u2014 though untested \u2014 target for intervention.'"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "pmid": "42752554",
+      "headline": "A Routine Eye Scan May Flag Which Diabetic Eyes Are Headed for Trouble",
+      "verdict": "accurate",
+      "notes": "190 eyes/121 patients, 25.3% progression, progression definition, outer-versus-inner retinal volume finding, covariate adjustment and the senior author's consulting disclosures all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 16,
+      "pmid": "42734305",
+      "headline": "Night Vision Fades First in a Rare Retinal Disease That Mirrors Macular Degeneration",
+      "verdict": "accurate",
+      "notes": "N=25, median age 60, two-year follow-up, stable total retinal thickness offsetting RPEDC growth, declining scotopic but stable mesopic sensitivity, and the disclosed industry ties all match. (Author affiliations also include Germany alongside Switzerland and the UK \u2014 a trivial descriptive point.)",
+      "issues": []
+    },
+    {
+      "number": 17,
+      "pmid": "42215273",
+      "headline": "A Chemotherapy Drug Injected Into the Cornea Shrinks Sight-Threatening Blood Vessels",
+      "verdict": "accurate",
+      "notes": "39 procedures, 12-month median follow-up, 15% cannulation success, 70% MIST alone, 59\u201381% regression range by assessment method, four successful keratoplasties and the two anterior chamber MMC migration complications all match; caveats appropriately note the retrospective single-center design.",
+      "issues": []
+    }
+  ]
+}

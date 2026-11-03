@@ -1,5 +1,15 @@
 {
   "studies": {
+    "39793979": {
+      "checked_at": "2026-11-03T18:09:04.217117+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Neutropenic event incidence women early stage breast cancer receiving neoadjuvant",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "40988502": {
       "checked_at": "2026-11-01T17:02:27.640974+00:00",
       "result": {
@@ -36,6 +46,16 @@
         "articles": [],
         "outlets": [],
         "query": "Association Timed Test Alzheimer Disease Systematic Review Meta Analysis",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "41264877": {
+      "checked_at": "2026-11-03T18:04:23.606843+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Persistent Dizziness Early Warning Sign Dementia",
         "returned": 1,
         "state": "unreported"
       }
@@ -80,6 +100,16 @@
         "state": "unreported"
       }
     },
+    "41775506": {
+      "checked_at": "2026-11-03T18:08:34.450622+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Tui therapy pain function chronic low back pain systematic review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "41810867": {
       "checked_at": "2026-10-29T17:12:20.501493+00:00",
       "result": {
@@ -96,6 +126,16 @@
         "articles": [],
         "outlets": [],
         "query": "Associations osteoporosis sarcopenia osteosarcopenia mortality comparative analysis different sarcopenia definitions",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41819338": {
+      "checked_at": "2026-11-03T18:09:44.226481+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Dose Response Relationship Virtual Reality Training Parkinson Disease Meta Analysis",
         "returned": 0,
         "state": "unreported"
       }
@@ -147,6 +187,16 @@
         "outlets": [],
         "query": "Longer Reproductive Years Linked Slower Cognitive Decline 000 Nurses",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "41980783": {
+      "checked_at": "2026-11-03T18:08:58.053151+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Electronic health record data develop indicators end life care quality",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -308,12 +358,42 @@
         "state": "unreported"
       }
     },
+    "42296796": {
+      "checked_at": "2026-11-03T18:04:44.635250+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "What Actually Predicts Serious Fall Hip Strength Water Pills Topped",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42307257": {
       "checked_at": "2026-11-01T17:04:41.020698+00:00",
       "result": {
         "articles": [],
         "outlets": [],
         "query": "potential expected effects telerehabilitation after total hip arthroplasty systematic review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42308749": {
+      "checked_at": "2026-11-03T18:04:16.313537+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Not All Fall Risk Drugs Carry Equal Risk Blood Pressure",
+        "returned": 19,
+        "state": "unreported"
+      }
+    },
+    "42309698": {
+      "checked_at": "2026-11-03T18:08:30.227192+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "PaSo paracetamol strong opioids trial paracetamol versus placebo conjunction strong",
         "returned": 0,
         "state": "unreported"
       }
@@ -388,6 +468,16 @@
         "state": "unreported"
       }
     },
+    "42401308": {
+      "checked_at": "2026-11-03T18:09:37.645879+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Effectiveness Perioperative Respiratory Muscle Exercise Elderly Cardiac Surgery Patients Randomized",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42403115": {
       "checked_at": "2026-11-01T17:03:51.348373+00:00",
       "result": {
@@ -448,6 +538,16 @@
         "state": "unreported"
       }
     },
+    "42478489": {
+      "checked_at": "2026-11-03T18:05:04.656414+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Geriatrics Society Draws Lines Elder Care Helpful Assistant Never Decision",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42492303": {
       "checked_at": "2026-11-01T17:04:56.145022+00:00",
       "result": {
@@ -488,6 +588,24 @@
         "state": "unreported"
       }
     },
+    "42519959": {
+      "checked_at": "2026-11-03T18:05:19.237257+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.sciencedaily.com/releases/2026/08/260808234959.htm",
+            "outlet": "Science Daily",
+            "title": "Scientists find the strength training \u201csweet spot\u201d for a longer life"
+          }
+        ],
+        "outlets": [
+          "Science Daily"
+        ],
+        "query": "Nurses Often First Spot Medications Longer Help End Life",
+        "returned": 3,
+        "state": "lightly_reported"
+      }
+    },
     "42532137": {
       "checked_at": "2026-11-01T17:04:05.795396+00:00",
       "result": {
@@ -495,6 +613,26 @@
         "outlets": [],
         "query": "Longitudinal neuropsychological safety assessment biperiden treatment following traumatic brain injury",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42533730": {
+      "checked_at": "2026-11-03T18:04:49.764330+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "What Helps Doctors Safely Stop Medications End Life Review Studies",
+        "returned": 6,
+        "state": "unreported"
+      }
+    },
+    "42536289": {
+      "checked_at": "2026-11-03T18:05:08.274084+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Your Medication Count Probably Higher Than Your Record Shows Patches",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -794,6 +932,16 @@
         "state": "unreported"
       }
     },
+    "42628444": {
+      "checked_at": "2026-11-03T18:05:18.043216+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Fear Falling Runs Deeper Taking More Medications",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42631701": {
       "checked_at": "2026-10-29T17:09:01.496245+00:00",
       "result": {
@@ -955,6 +1103,16 @@
         "articles": [],
         "outlets": [],
         "query": "Frailty Rarely Reverses Its Own Certain Medications Track Faster Decline",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42669382": {
+      "checked_at": "2026-11-03T18:04:08.219660+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Botox Depression Pooled Trials Show Benefit Interest Patients Many Medications",
         "returned": 0,
         "state": "unreported"
       }
@@ -1485,6 +1643,26 @@
         "state": "unreported"
       }
     },
+    "42783349": {
+      "checked_at": "2026-11-03T18:04:05.487044+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "National Snapshot How Americans Mix Prescriptions OTC Drugs Supplements Has",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42786110": {
+      "checked_at": "2026-11-03T18:04:11.128097+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Chatbots Aren Ready Assess Mental Health Show Ageist Bias",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42790129": {
       "checked_at": "2026-11-01T17:03:56.931264+00:00",
       "result": {
@@ -1520,6 +1698,16 @@
         "outlets": [],
         "query": "More Muscle Mass Fewer Spine Problems Evidence Half Million",
         "returned": 2,
+        "state": "unreported"
+      }
+    },
+    "42799555": {
+      "checked_at": "2026-11-03T18:05:13.930856+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Tools Safely Stopping Medicines Near End Life Show Promise Shaky",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1691,6 +1879,16 @@
         "state": "unreported"
       }
     },
+    "42832039": {
+      "checked_at": "2026-11-03T18:04:51.405193+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Pelvic Fractures Look More Like Hip Fractures Than Treat Them",
+        "returned": 9,
+        "state": "unreported"
+      }
+    },
     "42832237": {
       "checked_at": "2026-10-25T14:36:05.026634+00:00",
       "result": {
@@ -1741,6 +1939,16 @@
         "state": "unreported"
       }
     },
+    "42842153": {
+      "checked_at": "2026-11-03T18:04:22.300621+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "One Five Hospital Readmissions Rural Australia Traced Back Medications",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42842205": {
       "checked_at": "2026-10-23T15:21:10.538591+00:00",
       "result": {
@@ -1758,6 +1966,16 @@
         "outlets": [],
         "query": "Pancreatic Cancer Patients Say Palliative Care Explained Them Badly Not",
         "returned": 3,
+        "state": "unreported"
+      }
+    },
+    "42842789": {
+      "checked_at": "2026-11-03T18:04:56.470587+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Black Disease Burden Not Pill Count Tracked Weaker Thinking Scores",
+        "returned": 0,
         "state": "unreported"
       }
     },
@@ -1808,6 +2026,16 @@
         "outlets": [],
         "query": "When Depression Meets Frailty Hospital Stays Climb Office Visits Drop",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42850595": {
+      "checked_at": "2026-11-03T18:05:09.883490+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "What Makes Families Open Stopping Nursing Home Resident Medications",
+        "returned": 6,
         "state": "unreported"
       }
     },
@@ -1999,6 +2227,16 @@
         "state": "unreported"
       }
     },
+    "42870717": {
+      "checked_at": "2026-11-03T18:04:14.875672+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Americans Over Taking More Pills Than Ever Frailest Taking Most",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42872079": {
       "checked_at": "2026-10-30T16:52:06.971605+00:00",
       "result": {
@@ -2084,6 +2322,16 @@
         "outlets": [],
         "query": "Sleep Alcohol Walking Tracked Mood Anxiety Risk Alzheimer",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42885111": {
+      "checked_at": "2026-11-03T18:04:52.643433+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Taking More Drugs Than Your Conditions Call Linked Later Disability",
+        "returned": 16,
         "state": "unreported"
       }
     },
@@ -2509,6 +2757,16 @@
         "state": "lightly_reported"
       }
     },
+    "42896356": {
+      "checked_at": "2026-11-03T18:04:29.224079+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Delirium Plus Dementia Plus Poor Nutrition Combination Cut Survival Half",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
     "42896980": {
       "checked_at": "2026-10-25T14:39:58.991083+00:00",
       "result": {
@@ -2536,6 +2794,16 @@
         "outlets": [],
         "query": "Caregiving Relationships Advance Care Planning Hospice Use Later Life",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42897099": {
+      "checked_at": "2026-11-03T18:04:30.918114+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Dementia Caregivers Say Hardest Part Managing Pills Isn Pills Getting",
+        "returned": 10,
         "state": "unreported"
       }
     },
@@ -2584,6 +2852,16 @@
         "outlets": [],
         "query": "Automated Magnetic Resonance Volumetry Measure Multiple System Atrophy Disease Progression",
         "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42897830": {
+      "checked_at": "2026-11-03T18:04:01.191717+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Nearly All Heart Failure Drugs Stopped When Patients Dementia Enter",
+        "returned": 1,
         "state": "unreported"
       }
     },
@@ -4089,6 +4367,16 @@
         "state": "lightly_reported"
       }
     },
+    "42934542": {
+      "checked_at": "2026-11-03T18:04:36.670262+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "More Pills More Risk Each Added Medication Raised Odds Risky",
+        "returned": 4,
+        "state": "unreported"
+      }
+    },
     "42934953": {
       "checked_at": "2026-10-27T16:09:11.533426+00:00",
       "result": {
@@ -5439,6 +5727,234 @@
         "articles": [],
         "outlets": [],
         "query": "Navigating Challenges Shared Decision Making Amyloid Immunotherapy Alzheimer Disease",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42969553": {
+      "checked_at": "2026-11-03T18:05:07.319139+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Survey Nearly 000 European Clinicians Finds Big Gaps Who Feels",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42969554": {
+      "checked_at": "2026-11-03T18:04:48.357910+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Dementia Patients Carers Say Yes Medication Reviews Conditions",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42970245": {
+      "checked_at": "2026-11-03T18:09:15.407649+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "What exercise regimen most effective improving sleep quality systematic review",
+        "returned": 5,
+        "state": "unreported"
+      }
+    },
+    "42970748": {
+      "checked_at": "2026-11-03T18:09:07.213479+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Plasma Tau217 NfL Longitudinal Changes Across Neurodegenerative Diseases Impact Synuclein",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42971073": {
+      "checked_at": "2026-11-03T18:09:19.011081+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Comparative Population Impact Oral Health Established Modifiable Risk Factors Dementia",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42971076": {
+      "checked_at": "2026-11-03T18:08:55.229887+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Effectiveness Traditional Chinese Medicine Exercise Therapy Frailty Descriptive Summary Exercise",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42971491": {
+      "checked_at": "2026-11-03T18:09:22.060332+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Methylphenidate cancer related fatigue assessment time systematic review meta analysis",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42971494": {
+      "checked_at": "2026-11-03T18:10:17.806423+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Opioid Switching Cancer Pain Non Hospitalized Patients challenges Narrative Review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42971795": {
+      "checked_at": "2026-11-03T18:10:09.305101+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "independent joint impact social internet isolation depression loneliness among evidence",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42972048": {
+      "checked_at": "2026-11-03T18:10:01.020902+00:00",
+      "result": {
+        "articles": [
+          {
+            "link": "https://www.nature.com/articles/s43587-026-01242-8",
+            "outlet": "Nature",
+            "title": "Deep and quantitative proteomic profiling of low-volume mouse serum in a cross-sectional analysis of aging"
+          }
+        ],
+        "outlets": [
+          "Nature"
+        ],
+        "query": "Deep quantitative proteomic profiling low volume mouse serum cross sectional",
+        "returned": 1,
+        "state": "lightly_reported"
+      }
+    },
+    "42972941": {
+      "checked_at": "2026-11-03T18:09:28.313942+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Additional Benefit 185 Versus 130 Equivalent Energy Deep Brain Stimulation",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42973264": {
+      "checked_at": "2026-11-03T18:09:33.007839+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Effect Exercise Interventions Sarcopenia Related Outcomes Type Diabetes Systematic Review",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42973460": {
+      "checked_at": "2026-11-03T18:08:56.994449+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Characterizing cognitive concerns subjective cognitive decline using large language models",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42974667": {
+      "checked_at": "2026-11-03T18:08:51.169625+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Changes Social Wellbeing Among Limited Prognosis Results Nationally Representative Cohort",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42974810": {
+      "checked_at": "2026-11-03T18:09:58.466445+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Unraveling Early Life Influences Healthy Insights China Health Retirement Longitudinal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42974821": {
+      "checked_at": "2026-11-03T18:09:50.285688+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "What Determines Preference Coreside Applying Andersen Newman Framework Lagged Longitudinal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42974888": {
+      "checked_at": "2026-11-03T18:08:47.400885+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Weight Trajectories Across Antiretroviral Therapy Regimen Switches People HIV China",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42974910": {
+      "checked_at": "2026-11-03T18:09:54.175289+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Sense control loneliness among distinct longitudinal roles perceived constraints personal",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42974947": {
+      "checked_at": "2026-11-03T18:08:37.859677+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Identification Novel Protein Biomarkers Lifestyle Modifiable Targets Osteoporosis Evidence Mendelian",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42974955": {
+      "checked_at": "2026-11-03T18:09:47.522568+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Finding upsides living alone Adaptation inequality among",
+        "returned": 0,
+        "state": "unreported"
+      }
+    },
+    "42975199": {
+      "checked_at": "2026-11-03T18:09:34.494178+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Transcranial Pulse Stimulation Parkinson Disease Systematic Review",
+        "returned": 1,
+        "state": "unreported"
+      }
+    },
+    "42975416": {
+      "checked_at": "2026-11-03T18:09:10.504006+00:00",
+      "result": {
+        "articles": [],
+        "outlets": [],
+        "query": "Cost Effectiveness Anterior Posterior Surgical Approaches Cervical Spondylotic Myelopathy Economic",
         "returned": 0,
         "state": "unreported"
       }

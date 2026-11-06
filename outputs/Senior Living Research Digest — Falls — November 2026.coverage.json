@@ -1,0 +1,886 @@
+{
+  "coverage_checked": 0,
+  "coverage_cached": 5,
+  "coverage_skipped": 20,
+  "coverage_skipped_reason": "",
+  "by_pmid": {
+    "42982004": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42954246": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42852585": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42954170": {
+      "state": "unreported",
+      "outlets": [],
+      "articles": []
+    },
+    "42937517": {
+      "state": "lightly_reported",
+      "outlets": [
+        "Cureus"
+      ],
+      "articles": [
+        {
+          "link": "https://www.cureus.com/articles/541255-ocular-outcomes-of-glucagon-like-peptide-1-receptor-agonists-versus-sodium-glucose-cotransporter-2-inhibitors-in-type-2-diabetes-a-systematic-review-and-meta-analysis-of-real-world-evidence",
+          "outlet": "Cureus",
+          "title": "Ocular Outcomes of Glucagon-Like Peptide-1 Receptor Agonists Versus Sodium-Glucose Cotransporter-2 Inhibitors in Type 2 Diabetes: A Systematic Review and Meta-Analysis of Real-World Evidence"
+        }
+      ]
+    }
+  },
+  "pubmed": {
+    "42986745": {
+      "pubdate": "2026 Nov 5",
+      "journal": "The Journal of frailty & aging"
+    },
+    "42759165": {
+      "pubdate": "2026 Dec",
+      "journal": "Archives of gerontology and geriatrics"
+    },
+    "42987451": {
+      "pubdate": "2026 Nov 5",
+      "journal": "Journal of the American Medical Directors Association"
+    },
+    "42822543": {
+      "pubdate": "2027 Jan 1",
+      "journal": "Journal of affective disorders"
+    },
+    "42975735": {
+      "pubdate": "2026 Nov 3",
+      "journal": "Current osteoporosis reports"
+    },
+    "42679689": {
+      "pubdate": "2026 Dec",
+      "journal": "Neurobiology of aging"
+    },
+    "42877601": {
+      "pubdate": "2026 Oct 14",
+      "journal": "Aging medicine (Milton (N.S.W))"
+    },
+    "42832847": {
+      "pubdate": "2026 Nov",
+      "journal": "Journal of the American Medical Directors Association"
+    },
+    "42982004": {
+      "pubdate": "2026 Nov 4",
+      "journal": "Geriatric nursing (New York, N.Y.)"
+    },
+    "42986542": {
+      "pubdate": "2026 Nov 5",
+      "journal": "European geriatric medicine"
+    },
+    "42696799": {
+      "pubdate": "2026 Nov",
+      "journal": "Journal of the American Medical Directors Association"
+    },
+    "42848964": {
+      "pubdate": "2026 Nov 10",
+      "journal": "Neurology"
+    },
+    "42954246": {
+      "pubdate": "2026 Oct 29",
+      "journal": "Aging & mental health"
+    },
+    "42985741": {
+      "pubdate": "2026 Nov 5",
+      "journal": "Canadian journal on aging = La revue canadienne du vieillissement"
+    },
+    "42679767": {
+      "pubdate": "2026 Nov",
+      "journal": "Parkinsonism & related disorders"
+    },
+    "42912393": {
+      "pubdate": "2026 Oct 1",
+      "journal": "JAMA network open"
+    },
+    "42852585": {
+      "pubdate": "2026 Oct 9",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42970244": {
+      "pubdate": "2026 Nov 2",
+      "journal": "European geriatric medicine"
+    },
+    "42954170": {
+      "pubdate": "2026 Oct 28",
+      "journal": "JMIR aging"
+    },
+    "42833806": {
+      "pubdate": "2026 Nov",
+      "journal": "Clinics in geriatric medicine"
+    },
+    "42448012": {
+      "pubdate": "2026 Nov",
+      "journal": "Bone"
+    },
+    "42847733": {
+      "pubdate": "2026 Oct 8",
+      "journal": "Journal of the American Geriatrics Society"
+    },
+    "42937517": {
+      "pubdate": "2026 Oct 27",
+      "journal": "Diabetes care"
+    },
+    "42895590": {
+      "pubdate": "2026 Oct 19",
+      "journal": "GeroScience"
+    },
+    "42888381": {
+      "pubdate": "2026 Nov",
+      "journal": "Drugs & aging"
+    }
+  },
+  "studies": [
+    {
+      "headline": "Grip Strength Keeps Showing Up as a Red Flag for Repeat and Injury-Causing Falls",
+      "journal": "J Frailty Aging",
+      "published": "2026 Nov 5",
+      "pmid": "42986745",
+      "doi": "10.1016/j.tjfa.2026.100219",
+      "the_study": "Researchers at Wake Forest and the University of Pittsburgh systematically reviewed 17 studies published since 2000 that directly measured muscle strength or power (not chair-stand-type performance tests) and tracked recurrent or injurious falls in adults aged 50 and older. Most studies found that weaker grip strength was associated with higher odds of falling repeatedly and of falls that caused injury. Leg strength was examined in just one study and leg power in only two \u2014 both suggested higher leg power meant fewer injurious falls, but only one result reached statistical significance.",
+      "why_it_matters": "A simple, inexpensive hand-grip test \u2014 already used in many clinics and some senior living wellness programs \u2014 may help flag who is most likely to fall again or get hurt, long before a serious injury happens.",
+      "story_angle_primary": "If you've already had a fall, ask your clinician whether a grip strength measurement is part of your assessment \u2014 it takes seconds and may help put your overall muscle health in context. In the meantime, strength training that works both upper and lower body remains one of the better-supported ways to stay steady, though this review alone doesn't prove building grip strength prevents falls.",
+      "story_angle_secondary": "For senior living and rehab staff, the review highlights a measurement gap: grip is widely tracked while leg power \u2014 the muscle quality most directly involved in catching yourself \u2014 is almost never measured. Consider whether your fall-risk workflows capture lower-body function at all.",
+      "caveats": "Systematic review of observational studies, so causation cannot be established; only one reviewer extracted data and assessed bias; injury definitions varied widely across studies; sex-specific findings are underexplored; senior author reports grant funding from Amgen and another author reports consulting and equity relationships with Epirium and Myocorps."
+    },
+    {
+      "headline": "Hip Fractures in Nursing Homes Fell 18% in Five Years \u2014 But Who Gets Hurt Comes Down to the Resident, Not the Building",
+      "journal": "J Am Med Dir Assoc",
+      "published": "2026 Nov 5",
+      "pmid": "42987451",
+      "doi": "10.1016/j.jamda.2026.106513",
+      "the_study": "Researchers linked Canadian administrative health records for 33,739 adults aged 65 and older newly admitted to 305 licensed long-term care facilities in British Columbia between 2010 and 2014. Nearly 6% sustained a hip fracture, and the annual incidence rate dropped 18% over the study period. Risk was higher for residents with lower body mass index (adjusted odds ratios 1.36\u20131.82 versus obesity), women (1.61), those with dementia (1.46), those 90 and older (1.34), and those with a recent fall (1.15) \u2014 while facility size, rurality, and health region showed no independent association.",
+      "why_it_matters": "When choosing or evaluating a care home, families often focus on facility characteristics, but this very large study suggests individual clinical factors drive hip fracture risk far more than structural features of the building or its location.",
+      "story_angle_primary": "If you or your spouse is moving into long-term care, know the personal factors that raise hip fracture risk \u2014 being underweight, having dementia, being over 90, and having fallen recently \u2014 and ask directly what the facility does differently for residents who fit that profile. Unintended weight loss in particular is worth raising with the care team.",
+      "story_angle_secondary": "For long-term care operators and clinical leads, the data argue for systematic risk stratification on admission rather than blanket, facility-wide fall programs: targeting low-BMI, cognitively impaired, very old residents and those with a recent fall is where the fracture burden concentrates.",
+      "caveats": "Retrospective observational design using administrative data \u2014 cannot establish causation; data cover admissions from 2010\u20132014 in one Canadian province and may not reflect current practice or generalize elsewhere; relies on coded records rather than direct clinical assessment; possible unmeasured confounding (for example, medication use and bone density)."
+    },
+    {
+      "headline": "Hearing, Vision and Mood \u2014 Not Just the Knee \u2014 Predicted First Falls in People With Knee Arthritis",
+      "journal": "Arch Gerontol Geriatr",
+      "published": "2026 Dec",
+      "pmid": "42759165",
+      "doi": "10.1016/j.archger.2026.106410",
+      "the_study": "Using 28 demographic, health, and behavioral variables from 1,097 adults with knee osteoarthritis in China's CHARLS cohort, researchers built and compared 10 machine learning models to predict a first fall, settling on a gradient boosting model that achieved an AUC of 0.836. The model was then locked and tested in an independent hospital-based cohort, where it held up. The strongest predictors were not joint-related: hearing and vision problems and depressive symptoms contributed most to fall risk predictions.",
+      "why_it_matters": "It suggests that for older adults with painful knees, the most modifiable fall risks may lie in sensory impairment and untreated depression \u2014 areas routinely overlooked when the conversation stays focused on the joint.",
+      "story_angle_primary": "If you have knee arthritis, don't let your appointments be only about the knee \u2014 ask about an up-to-date hearing and vision check and bring up low mood if you've been experiencing it. These were the factors most strongly linked with first falls in this analysis, though the study can't prove that correcting them prevents falls.",
+      "story_angle_secondary": "For care teams and wellness coordinators, this is a prompt to pair arthritis management with sensory and mental health screening rather than treating them as separate tracks; predictive models like this are not yet ready to replace clinical judgment but can help prioritize who gets a fuller assessment.",
+      "caveats": "Retrospective analysis of observational cohort data \u2014 associations only, no causation; model predictors reflect what was measured in CHARLS, with substantial self-reported content (including falls, hearing and vision problems, and depressive symptoms); developed in Chinese cohorts and may not generalize to other populations or health systems; no prospective testing of whether model-guided care changes outcomes."
+    },
+    {
+      "headline": "Depression That Never Lifts Speeds Up Physical Decline, Four Global Studies Agree",
+      "journal": "J Affect Disord",
+      "published": "2027 Jan 1",
+      "pmid": "42822543",
+      "doi": "10.1016/j.jad.2026.122574",
+      "the_study": "Researchers pooled 57,894 participants from four major aging cohorts \u2014 the US Health and Retirement Study, ELSA in England, SHARE in Europe, and CHARLS in China \u2014 and sorted each person into one of five depression trajectories based on symptom scores across their first four assessments. The same five patterns appeared in all four cohorts: persistently healthy, remitting, late-onset, fluctuating, and persistent high burden, with the last group making up 7.9%\u201320.3% of participants. People with persistently high depressive symptoms accumulated frailty faster in subsequent years and had elevated odds of becoming frail (odds ratios 1.29\u20132.75), while lower education predicted membership in the worse trajectories.",
+      "why_it_matters": "Late-life depression is often treated as a mood problem to be managed in isolation, but this suggests chronic, unresolved symptoms travel with accelerating physical decline \u2014 and frailty is a direct pathway to falls, disability, and loss of independence.",
+      "story_angle_primary": "If low mood has been with you for years rather than weeks, it's worth treating as a long-term health issue, not a personality trait \u2014 ask your doctor to revisit treatment rather than letting an old prescription or an old diagnosis coast. The pattern that mattered here was persistence over time, not a single bad period.",
+      "story_angle_secondary": "For families and care staff, the useful signal is duration: episodic or improving low mood carried much less risk than symptoms that stayed high across years of assessments. Tracking mood repeatedly over time, rather than screening once, is what distinguished the high-risk group.",
+      "caveats": "Observational cohort data \u2014 cannot establish that depression causes frailty, and reverse causation or shared underlying illness is plausible; depressive symptoms and many frailty components were self-reported via CES-D or EURO-D; trajectory classification was rule-based rather than empirically derived; one cohort (CHARLS) only showed a concurrent, not predictive, association."
+    },
+    {
+      "headline": "How You Fall May Matter as Much as Whether You Fall: Review Finds Head Impacts Follow Predictable Patterns",
+      "journal": "J Am Med Dir Assoc",
+      "published": "2026 Nov",
+      "pmid": "42832847",
+      "doi": "10.1016/j.jamda.2026.106493",
+      "the_study": "Researchers screened 2,921 studies and identified 13 examining why some falls among adults aged 60 and older end in a head impact. Most of the included research analyzed video recordings of real falls in long-term care settings. Falls that started and landed in a forward direction, and falls by women, were consistently linked to higher odds of the head striking something, while rotating the body away from the initial fall direction and using the arms during descent were associated with lower odds of head impact. One randomized trial found older adults could be taught protective movements that reduced head impact during experimentally induced falls.",
+      "why_it_matters": "Head injuries are among the most serious consequences of a fall, and this review suggests the way a body moves on the way down is partly trainable \u2014 not just a matter of luck.",
+      "story_angle_primary": "If you worry about falling, ask a physical therapist whether 'safe landing' or protective-response training \u2014 learning to turn, roll, and use your arms as you go down \u2014 could be added to your balance program, alongside the usual strength and balance work.",
+      "story_angle_secondary": "For long-term care and senior living operators: video review of real falls has driven most of what is known here, and the evidence points toward environmental design, protective equipment, and staff-led education on protective movement as areas worth piloting.",
+      "caveats": "Scoping review of only 13 studies, most observational and based on video-captured falls in long-term care, which may not represent community-dwelling older adults; only one interventional trial; findings on age and most individual factors were mixed or nonsignificant."
+    },
+    {
+      "headline": "Brain Scans Show Why Uneven Ground Trips Up Some Older Adults More Than Others",
+      "journal": "Neurobiol Aging",
+      "published": "2026 Dec",
+      "pmid": "42679689",
+      "doi": "10.1016/j.neurobiolaging.2026.08.004",
+      "the_study": "Researchers gave MRI brain scans to 22 young adults (average age 22) and 86 older adults (average age 75), then had them walk on a treadmill across flat and three levels of uneven terrain. Older adults with lower scores on the Short Physical Performance Battery showed more irregular step timing at baseline and a steeper rise in step variability as the ground got bumpier. Older adults overall had more extracellular fluid and poorer white matter integrity than young adults, especially in frontal and motor-related brain regions, and these brain changes tracked most strongly with unsteady walking in the lower-functioning group.",
+      "why_it_matters": "It helps explain why uneven sidewalks, lawns, and thresholds are disproportionately hazardous for some older adults \u2014 the difficulty is rooted partly in measurable brain changes, not simply carelessness.",
+      "story_angle_primary": "If walking on grass, gravel, or cracked pavement feels noticeably harder than walking indoors, treat that as useful information: ask your clinician for a simple physical performance test and consider practicing on varied surfaces under supervision rather than avoiding all uneven ground.",
+      "story_angle_secondary": "For families and communities: this supports investing in even walking surfaces, good lighting, and handrails on outdoor paths, and taking seriously a resident's report that outdoor terrain feels unsafe even when indoor walking looks fine.",
+      "caveats": "Cross-sectional and observational \u2014 cannot show that white matter changes cause gait variability; treadmill-simulated terrain may differ from real-world walking; young comparison group was small (n=22); single-center university sample."
+    },
+    {
+      "headline": "Even 'Robust' Older Adults Fall \u2014 and Prior COVID-19 Was Linked to Four Times the Risk",
+      "journal": "Geriatr Nurs",
+      "published": "2026 Nov 4",
+      "pmid": "42982004",
+      "doi": "10.1016/j.gerinurse.2026.104427",
+      "the_study": "Brazilian researchers followed 94 community-dwelling adults aged 65 and older (average age 71, 75% women) who were classified as robust \u2014 not frail \u2014 on a clinical-functional vulnerability index, tracking falls over one year. Nearly 29% fell during follow-up. In the multivariable model, a prior COVID-19 infection was associated with more than four times the hazard of falling (HR 4.30), and higher clinical-functional vulnerability scores were also associated with falls.",
+      "why_it_matters": "Being healthy and independent does not exempt you from falling, and the findings raise the possibility that recovery from COVID-19 leaves lingering effects on balance and function worth monitoring.",
+      "story_angle_primary": "If you consider yourself fit and independent, don't skip fall-prevention basics \u2014 and if you have had COVID-19, it's reasonable to mention any new unsteadiness, fatigue, or near-falls at your next appointment and ask for a balance and gait check.",
+      "story_angle_secondary": "For wellness staff in independent living: fall-prevention programming is often aimed at the visibly frail, but nearly three in ten of these robust older adults fell within a year \u2014 a case for universal screening rather than targeting only high-risk residents.",
+      "caveats": "Small sample (N=94), single region in Brazil, observational design cannot establish causation, predominantly women and relatively young (mean age 71), COVID-19 history likely self-reported, and the wide confidence interval (1.55\u201312.61) means the size of the COVID association is imprecise."
+    },
+    {
+      "headline": "A One-Page Checklist Transformed How Hospitals Examine Patients After a Fall",
+      "journal": "Aging Med (Milton)",
+      "published": "2026 Oct 14",
+      "pmid": "42877601",
+      "doi": "10.1002/agm2.70113",
+      "the_study": "Australian researchers reviewed 167 first falls among hospital inpatients over age 65 between 2022 and 2024, comparing cases where staff used a structured Falls Proforma against those where they did not. Documentation was dramatically more complete with the form across nearly every domain \u2014 cognition was documented in 95% of proforma cases versus 19% without, mobility in 92% versus 7%, and bleeding-risk assessment in 98% versus 17%. Patients with preexisting cognitive impairment were somewhat less likely to have the form used, though the difference was not statistically significant after adjustment.",
+      "why_it_matters": "What gets checked after a fall determines whether a head bleed, fracture, or reversible cause is caught \u2014 and this shows that without a structured form, critical checks like head examination and clotting risk are skipped most of the time.",
+      "story_angle_primary": "If you or a loved one falls in a hospital or rehab facility, ask directly whether a full post-fall assessment was completed \u2014 including head and neck examination, neurological checks, and a review of blood thinners \u2014 and ask for it in writing.",
+      "story_angle_secondary": "For senior living and hospital leaders: embedding a standardized post-fall proforma into routine workflow is a low-cost fix with large documentation gains, but audit whether residents with dementia are being left out \u2014 this study hints they may be.",
+      "caveats": "Retrospective, single-center, observational study of 167 falls; measures documentation completeness, not patient outcomes \u2014 it does not show the form reduced injuries or missed diagnoses; group assignment was not randomized, so staff who used the form may differ systematically."
+    },
+    {
+      "headline": "People Sent to Falls Prevention Programs Are the Ones Already Getting Hurt, Finnish Data Show",
+      "journal": "Eur Geriatr Med",
+      "published": "2026 Nov 5",
+      "pmid": "42986542",
+      "doi": "10.1007/s41999-026-01638-0",
+      "the_study": "Researchers in Finland compared 527 community-dwelling primary care patients who took part in a multifactorial falls prevention program with 1,581 controls matched on age, sex, and place of residence, tracking injury-related specialized health care use from the first program visit onward. Program participants had about 76% more injury-related outpatient visits and 88% more hospitalizations than controls, and 53% incurred injury-related specialist costs versus 32% of controls. However, among those who did use specialist care, annual costs per person were no higher than in controls.",
+      "why_it_matters": "The results are a reminder that people referred to falls programs are already a high-risk group \u2014 a useful corrective for anyone interpreting raw program statistics as evidence that prevention efforts failed.",
+      "story_angle_primary": "If you have been referred to a falls prevention program, that referral reflects risk your clinicians already see, not a verdict on your future \u2014 stay engaged with the exercise, medication review, and vision and home-safety components the program offers.",
+      "story_angle_secondary": "For administrators and program planners: this study illustrates how selection bias makes before-and-after or matched-control comparisons of falls programs misleading, and why outcome claims need randomized or risk-adjusted evidence.",
+      "caveats": "Observational, retrospective, register-based, single-center study; the authors explicitly state the findings are descriptive and not evidence of program effectiveness; participants and controls almost certainly differed in baseline fall risk, which was not adjusted for; Finnish health system may not generalize elsewhere."
+    },
+    {
+      "headline": "When Bone Loss and Muscle Loss Travel Together, Fall and Fracture Risk Climbs Sharply",
+      "journal": "Curr Osteoporos Rep",
+      "published": "2026 Nov 3",
+      "pmid": "42975735",
+      "doi": "10.1007/s11914-026-00991-0",
+      "the_study": "This review synthesizes evidence on osteosarcopenia \u2014 osteoporosis and sarcopenia (age-related muscle loss) occurring together \u2014 which affects an estimated 18.5% of older adults, with estimates ranging from 5% to 37%. Pooled data link the combined condition to roughly double the fracture risk (HR 2.13), a 54% higher fall risk (HR 1.54), and 75% higher mortality (HR 1.75). The authors argue bone and muscle function as a single integrated unit connected by mechanical loading and shared signaling molecules, and that the two tissues decline together rather than independently.",
+      "why_it_matters": "Bone density and muscle strength are usually assessed by different specialists in different visits, yet the combination is far more dangerous than either alone \u2014 making the case for checking both at once.",
+      "story_angle_primary": "If you've been told you have osteoporosis or low bone density, ask whether your muscle mass, grip strength, and walking speed have also been measured \u2014 and whether resistance training plus adequate protein should be added to whatever bone medication you take.",
+      "story_angle_secondary": "For care teams: the actionable takeaway is dual-tissue screening and combined exercise-plus-nutrition programming, since guideline-based treatment of each condition separately remains the standard while crosstalk-targeted drugs are unproven.",
+      "caveats": "Narrative review, not original research; the authors explicitly state the systems-level framework is a hypothesis, that mechanistic claims rest largely on preclinical animal and cell evidence, and that synergistic treatment effects have not been demonstrated in humans; prevalence estimates vary widely across studies."
+    },
+    {
+      "headline": "A Fall That Lands You in the ER May Be an Early Warning of an Undiagnosed Seizure",
+      "journal": "Neurology",
+      "published": "2026 Nov 10",
+      "pmid": "42848964",
+      "doi": "10.1212/WNL.0000000000218597",
+      "the_study": "Researchers analyzed emergency department and inpatient records from 11 US states between 2016 and 2021, identifying 57,547 adults (18 and older) treated for a first recognized seizure. Using each patient as their own control, they compared how often those patients had visited an ER for a fall in the weeks before the seizure versus the same stretch of time one year earlier. Fall visits were 2.6 times more common in the 7 days just before the first seizure, and the signal was detectable as far back as 22 weeks; for patients whose first seizure was status epilepticus, the odds in the prior week rose to 4.5.",
+      "why_it_matters": "Unexplained falls are often chalked up to clumsiness, weakness, or a slippery floor, but this research suggests that in some people a fall is actually an unwitnessed seizure, and recognizing it earlier could prevent injury and get treatment started sooner.",
+      "story_angle_primary": "If you have an unexplained fall, especially one you can't fully recall or that came with confusion, a blank spell, tongue biting or loss of bladder control, mention those details specifically to the clinician who sees you. Ask whether anything beyond a mechanical trip needs to be ruled out rather than accepting a general \"you lost your balance\" explanation.",
+      "story_angle_secondary": "Caregivers and senior living staff are often the only witnesses to what happened. Documenting exactly what preceded and followed a fall, including any staring, jerking, confusion or unresponsiveness, gives emergency clinicians information the resident cannot supply, and repeated unexplained falls within weeks may warrant a neurological workup.",
+      "caveats": "Retrospective analysis of administrative billing codes, which cannot establish causation and may misclassify diagnoses; mean age of the fall subgroup was 49, so findings are not specific to older adults; many falls in seniors have purely mechanical causes."
+    },
+    {
+      "headline": "Feeling Old and Falling Apart Predicts Fear of Falling, Regardless of How Many Illnesses You Have",
+      "journal": "Aging Ment Health",
+      "published": "2026 Oct 29",
+      "pmid": "42954246",
+      "doi": "10.1080/13607863.2026.2743749",
+      "the_study": "German researchers surveyed 150 community-dwelling adults aged 71 to 93 (mean age 80.5) and used structural equation modeling to test whether how people view their own aging relates to concerns about falling. Older adults who saw aging primarily as a process of physical loss reported significantly greater concerns about falling, even after accounting for actual physical functioning, cognitive performance, past falls, chronic diseases, and demographics. Viewing aging as a time of ongoing personal development showed no comparable protective association, and the number of chronic diseases did not change the pattern.",
+      "why_it_matters": "Fear of falling drives people to restrict activity, which weakens muscles and in turn raises real fall risk, so this suggests beliefs about aging are a target worth addressing alongside balance and strength.",
+      "story_angle_primary": "If you find yourself avoiding stairs, outings or walks because you picture yourself as frail, notice that your mindset may be doing some of that work, not just your body. Raise fear of falling with your doctor or physical therapist, since programs that combine balance training with reframing beliefs about aging exist and anxiety does not have to be accepted as part of getting older.",
+      "story_angle_secondary": "For families and senior living staff, this offers a caution against well-meaning language that frames residents purely in terms of decline and risk. How you talk about aging, independence and capability during daily care may influence a resident's confidence on their feet as much as the grab bars you install.",
+      "caveats": "Cross-sectional design, so the direction of the relationship cannot be established; small sample (N=150) from a single country; outcomes including fall history were self-reported; the sample of German community-dwelling elders may not generalize to other populations or to residents of long-term care."
+    },
+    {
+      "headline": "AI Fall Prediction Is Arriving in Nursing Homes, But Nobody Has Shown It Prevents Falls Yet",
+      "journal": "J Am Med Dir Assoc",
+      "published": "2026 Nov",
+      "pmid": "42696799",
+      "doi": "10.1016/j.jamda.2026.106433",
+      "the_study": "Researchers screened more than 2,000 records published between 2016 and 2026 and found just 11 studies evaluating digital fall-prediction tools in long-term care settings, including machine learning models built on electronic health records and Minimum Data Set entries, wearable and passive sensors, and predictive dashboards. Prediction windows ranged from daily fall probability to six-month risk, and model accuracy varied from proof-of-concept to good. Critically, almost all studies focused on building and validating models, with very little evidence that any of them actually reduced falls.",
+      "why_it_matters": "Long-term care operators are being marketed sensor systems and AI dashboards as fall-prevention solutions, and this review shows the evidence base supports them as decision-support aids at best, not substitutes for staff assessment and hands-on care.",
+      "story_angle_primary": "If you or a relative lives in a facility that advertises sensor-based or AI fall monitoring, it is fair to ask what the system actually does when it flags someone, who reviews the alerts, and whether residents consented to the monitoring. A score on a dashboard is only useful if it triggers a real change in care.",
+      "story_angle_secondary": "For administrators and directors of nursing, the review is a buyer's-guide warning: prioritize vendors who can show prospective validation in settings like yours, plan for workflow integration and alert fatigue, and budget for the staff time that acting on predictions requires, since the technology itself has not been shown to lower fall rates.",
+      "caveats": "Scoping review of only 11 heterogeneous studies, most developmental rather than outcome-focused; English-language publications only; no meta-analysis or formal quality appraisal of included evidence."
+    },
+    {
+      "headline": "Short-Staffing and Rushed Care in Long-Term Care Homes Eased After 2021, But Social Care Is Still What Gets Cut",
+      "journal": "Can J Aging",
+      "published": "2026 Nov 5",
+      "pmid": "42985741",
+      "doi": "10.1017/S0714980826100919",
+      "the_study": "Canadian researchers surveyed care aides in long-term care homes in two waves (2021, n=198; 2024, n=249) and interviewed seven administrators, using multilevel models that accounted for clustering within facilities. Care aides reported better staffing capacity in 2024 than in 2021, and in both years better staffing was strongly associated with lower odds of reporting rushed or unfinished care. When time ran short, aides prioritized critical tasks over social and relational care, which the authors describe as a latent hazard given the established links between unfinished care and falls, infections, and pressure ulcers.",
+      "why_it_matters": "Staffing levels are not an abstract policy issue; they translate directly into whether a resident gets help to the bathroom in time or is left to attempt it alone, which is a classic fall scenario.",
+      "story_angle_primary": "When touring or evaluating a long-term care home, ask directly about staffing ratios on evenings and weekends and about which tasks get deferred on a busy shift. If your call bell routinely goes unanswered for long stretches, that is a safety issue worth raising formally, not a personal imposition.",
+      "story_angle_secondary": "For operators and family councils, the finding that social and relational care is first to be dropped is the actionable one: measuring only critical task completion will make a home look adequately staffed while loneliness, boredom and unsupervised mobility quietly accumulate. Track the low-priority domains, not just the clinical ones.",
+      "caveats": "Modest samples of care aides and only seven administrator interviews; perceptions of staffing and unfinished care were self-reported; cross-sectional waves rather than tracking the same individuals; Canadian provincial context may not generalize; falls were not directly measured in this study."
+    },
+    {
+      "headline": "How You Turn, Not How You Walk Straight, Best Identifies Fall Risk in Parkinson's Disease",
+      "journal": "Parkinsonism Relat Disord",
+      "published": "2026 Nov",
+      "pmid": "42679767",
+      "doi": "10.1016/j.parkreldis.2026.108934",
+      "the_study": "Drawing on the ICICLE-GAIT cohort, researchers assessed 48 people with Parkinson's disease at 54 and 72 months, collecting 299 measures spanning clinical tests, laboratory gait and turning analysis, and week-long real-world mobility monitoring with wearable sensors. Of the participants, 32 (67%) were fallers. Turning measures discriminated fallers from non-fallers better than any other category at both time points (area under the curve 0.86 at 54 months, 1.00 at 72 months), while straight-line gait and standard clinical measures lost discriminative value over time; real-world mobility monitoring also performed well.",
+      "why_it_matters": "Most routine balance assessments focus on walking in a straight line, yet turning is where people with Parkinson's appear most vulnerable, which has implications for how risk is screened and what rehabilitation targets.",
+      "story_angle_primary": "If you have Parkinson's, pay attention to moments when you pivot, such as turning toward the bathroom at night or spinning around in the kitchen, and ask your physical therapist whether your program includes turning practice and cueing strategies, not just straight walking.",
+      "story_angle_secondary": "For caregivers and care home staff, the practical takeaway is environmental: reduce the number of tight turns a resident with Parkinson's must make, keep a clear turning radius around beds, toilets and chairs, and watch for hesitation or shuffling during pivots as an early warning sign.",
+      "caveats": "Small sample (N=48) from a single cohort, cross-sectional and exploratory with retrospective faller classification; optimism-corrected accuracy was substantially lower than the headline figures (0.61 for turning at 54 months); one author is a shareholder in Enoda Health Ltd. and another is employed by Janssen Research & Development; requires external validation."
+    },
+    {
+      "headline": "Shrinking Calves May Signal Rising Fall Risk",
+      "journal": "JAMA Netw Open",
+      "published": "2026 Oct 1;9(10):e2640127",
+      "pmid": "42912393",
+      "doi": "10.1001/jamanetworkopen.2026.40127",
+      "the_study": "Researchers followed 7,068 Chinese adults aged 60 and older (mean age about 80) in a nationally representative cohort, measuring calf circumference in 2018 and again in 2021 and recording falls. Nearly one in four (23.6%) reported a fall during roughly three years of follow-up. Every 1 cm of calf shrinkage was linked to about 3% higher odds of falling, and those who lost 20% or more of their calf circumference had roughly 48% higher odds of falling than people whose calves stayed the same or grew.",
+      "why_it_matters": "Calf circumference is a free, tape-measure-simple proxy for leg muscle mass, meaning fall risk could potentially be tracked at home or in a routine checkup without scans or lab tests.",
+      "story_angle_primary": "If your trousers or socks have gotten looser around the calf, it may be worth mentioning at your next appointment and asking whether a check of leg strength, nutrition, and fall risk is warranted \u2014 tracking the measurement over time appears more informative than any single reading.",
+      "story_angle_secondary": "For senior living and home care staff, a periodic calf measurement is an inexpensive addition to wellness checks that could flag residents whose muscle mass is quietly declining between formal assessments \u2014 but it is a prompt to investigate, not a diagnosis.",
+      "caveats": "Observational cohort \u2014 cannot establish that muscle loss causes falls; falls were self-reported; participants were Chinese community-dwelling older adults and findings may not fully generalize elsewhere; very old average age (about 80) with potential survival bias, which authors attempted to address statistically."
+    },
+    {
+      "headline": "Opioid Prescribing After Hip Fracture Stays Stubbornly High, Even as Sedative Use Falls",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 9 (online ahead of print)",
+      "pmid": "42852585",
+      "doi": "10.1111/jgs.70739",
+      "the_study": "Using linked health administrative data from Ontario, researchers tracked 114,055 adults aged 66 and older admitted for an acute hip fracture between 2008 and 2024, looking at opioid and benzodiazepine prescriptions filled before hospitalization and in the year after discharge. Benzodiazepine dispensing dropped sharply, from 33.7% in 2008 to 13.3% in 2024, and concurrent opioid-plus-benzodiazepine use fell from 3.7% to 1%. Opioid dispensing, however, peaked at 55.8% in 2015 and remained high at 44.6% in 2024, with most long-term users on relatively low daily doses.",
+      "why_it_matters": "Both drug classes raise the risk of further falls, dependence, and death in older adults, so nearly half of hip fracture survivors still filling opioid prescriptions in the year after discharge is a flag for families and clinicians managing recovery.",
+      "story_angle_primary": "If you or someone close to you is recovering from a hip fracture, ask the prescriber at each follow-up how long the opioid is meant to continue, what the taper plan is, and what non-opioid options exist for pain \u2014 and be alert that opioids can themselves increase fall risk.",
+      "story_angle_secondary": "Rehabilitation and senior living staff can treat the post-discharge year as a medication review window: the Ontario data show benzodiazepine deprescribing is achievable at population scale, while opioid continuation after hip fracture remains the unresolved gap, and Canada still lacks standardized prescribing guidelines for this group.",
+      "caveats": "Retrospective administrative data \u2014 dispensing records do not confirm the drug was taken, and no pain or function outcomes were measured; cannot establish causation; single-province Canadian health system may not generalize to other countries; cohort limited to those surviving at least 275 days post-fracture."
+    },
+    {
+      "headline": "Digital Balance Training Beats Doing Nothing \u2014 But Not Ordinary Exercise",
+      "journal": "JMIR Aging",
+      "published": "2026 Oct 28;9:e101231",
+      "pmid": "42954170",
+      "doi": "10.2196/101231",
+      "the_study": "Researchers pooled 60 randomized controlled trials involving 3,469 older adults (mean age 73) to compare five categories of technology-based balance training \u2014 exergaming with balance platforms, exergaming with motion capture, other serious games, wearables, and telerehabilitation \u2014 against conventional exercise and no treatment. Telerehabilitation, balance-platform exergaming, and motion-capture exergaming all improved balance compared with no treatment, as did conventional exercise. Crucially, no technology-based approach outperformed plain conventional exercise in any analysis, and certainty of evidence was rated moderate for only two comparisons out of 39.",
+      "why_it_matters": "With video game-style balance systems and app-based programs increasingly marketed to older adults and senior communities, this analysis suggests the technology's main value is engagement and access, not superiority over a well-run in-person exercise class.",
+      "story_angle_primary": "If a balance video game or remote exercise app is what will actually get you moving regularly, the evidence says it works about as well as a conventional class \u2014 but don't pay a premium expecting better results, and note that none of these trials measured whether participants actually fell less.",
+      "story_angle_secondary": "For senior living activity directors weighing an investment in exergaming equipment or telerehabilitation platforms, the comparative evidence does not justify replacing existing exercise programming; dropout rates were similar across technology and control groups, so adherence advantages were not demonstrated either.",
+      "caveats": "Evidence certainty was low or very low for 37 of 39 comparisons; the top-ranked telerehabilitation estimate rested on just 5 trials (n=198); no included trial reported falls as an outcome, so this is not direct fall-prevention evidence; trials varied widely in comparator intensity and most lacked post-training follow-up."
+    },
+    {
+      "headline": "The Hospital Bed Alarm Problem: Common, Costly, and Not Shown to Prevent Falls",
+      "journal": "Clin Geriatr Med",
+      "published": "2026 Nov;42(4):691-704",
+      "pmid": "42833806",
+      "doi": "10.1016/j.cger.2026.06.002",
+      "the_study": "A team of nursing, geriatrics, and health services researchers reviewed the evidence base for bed and chair fall-prevention alarms in hospitals, alongside other fall-prevention practices. They examined why alarms remain heavily used despite weak supporting evidence, and surveyed strategies being tested to scale back their use, drawing on the science of 'de-implementation' of low-value care.",
+      "why_it_matters": "Alarms are nearly ubiquitous on hospital units caring for older patients and contribute to noise, sleep disruption, and restricted movement \u2014 all of which can work against recovery \u2014 yet the review finds they are not supported as an effective fall-prevention tool.",
+      "story_angle_primary": "If you are hospitalized and a bed alarm is attached to you, you can ask the nurse what it is intended to accomplish, whether it is required, and what alternatives exist \u2014 such as scheduled help to the bathroom or keeping a walker within reach \u2014 since alarms can disturb sleep without clearly reducing falls.",
+      "story_angle_secondary": "For hospital and senior living leadership, this review reframes alarms as a de-implementation target rather than a safety staple, and outlines why habit, liability anxiety, and regulatory signaling keep low-value practices entrenched even when evidence does not support them.",
+      "caveats": "This is a narrative review, not original research or a systematic quantitative synthesis; it addresses hospital settings specifically and conclusions may not transfer directly to nursing homes or private residences; one author is affiliated with a healthcare consultancy (Press Ganey Associates)."
+    },
+    {
+      "headline": "Centenarian Hospital Care in France: Most Arrive Through the Emergency Room, Often for Broken Bones",
+      "journal": "Eur Geriatr Med",
+      "published": "2026 Nov 2 (online ahead of print)",
+      "pmid": "42970244",
+      "doi": "10.1007/s41999-026-01635-3",
+      "the_study": "Researchers analyzed every hospital discharge record for people aged 100 and older in France from 2014 to 2023 \u2014 110,585 acute care stays and 21,012 inpatient rehabilitation stays. Seven in ten acute stays began in the emergency department, a share that rose over the decade, and in-hospital mortality was 14.9% per stay. Musculoskeletal conditions, largely falls and fractures, accounted for 16.9% of acute stays and made up a growing proportion of both hospital and rehabilitation admissions over time.",
+      "why_it_matters": "As the oldest-old population grows, the data show falls and fractures are the single largest and fastest-growing driver of hospital use at age 100 \u2014 and that most of this care is reached through unplanned emergency visits rather than planned pathways.",
+      "story_angle_primary": "If you are in your late 90s or beyond, a fall is the most likely reason you would end up in a hospital \u2014 which makes practical home safety steps, strength and balance work, and a conversation with your doctor about your preferences for emergency care worth having before a crisis forces the decision.",
+      "story_angle_secondary": "For families and senior living operators, the rising emergency-admission share and marked regional variation point to gaps in planned, integrated care pathways for the oldest residents; advance care planning and documented preferences matter when nearly one in ten fatal stays ends in death on the day of admission.",
+      "caveats": "Descriptive, retrospective administrative data with no individual clinical detail, functional status, or outcomes after discharge; cannot establish causation or evaluate what care worked; French health system specific and may not generalize to other countries."
+    },
+    {
+      "headline": "Broken Wrist at 65? Your Hospital Record May Never Mention Osteoporosis",
+      "journal": "Bone",
+      "published": "2026 Nov",
+      "pmid": "42448012",
+      "doi": "10.1016/j.bone.2026.118014",
+      "the_study": "Researchers analyzed nationwide Austrian hospital insurance records covering 1,705,684 hospitalized patients aged 50-79 between 2003 and 2014, mapping which diagnoses cluster around osteoporosis and around major fracture types. Hip fractures were frequently coded alongside osteoporosis, especially in women aged 60 and older, but forearm, wrist, hand and upper arm fractures showed no significant link to an osteoporosis diagnosis in any age group \u2014 despite being classic early warning signs of fragile bones. Women had far broader networks of co-occurring conditions than men (330 linked diagnoses vs. 164 at ages 70-79), and men's fracture patterns at 50-69 clustered with trauma and alcohol-related diagnoses.",
+      "why_it_matters": "A wrist or forearm fracture from a minor fall is often the first signal of bone fragility and a predictor of a future hip fracture, yet this analysis suggests the underlying osteoporosis frequently goes unrecorded and, by implication, unaddressed \u2014 particularly in men and in people in their 50s and 60s.",
+      "story_angle_primary": "If you break a wrist, forearm or upper arm after a minor fall or stumble, it is reasonable to ask your doctor whether you should be evaluated for osteoporosis \u2014 these so-called \"early fragility fractures\" may not automatically trigger a bone-health workup, especially if you are male or under 70.",
+      "story_angle_secondary": "For care teams and senior living staff: a resident's low-impact upper-limb fracture deserves to be logged as a potential bone-health flag and carried forward into the next primary care visit, since hospital discharge coding may not do it for you.",
+      "caveats": "Retrospective analysis of administrative insurance claims data, which reflects coding practice rather than confirmed clinical diagnosis; data are from a single country (Austria) and end in 2014, so current practice may differ; observational design cannot establish causation."
+    },
+    {
+      "headline": "Meals Plus Exercise at Home: What Homebound Older Adults Actually Said About It",
+      "journal": "J Am Geriatr Soc",
+      "published": "2026 Oct 8",
+      "pmid": "42847733",
+      "doi": "10.1111/jgs.70780",
+      "the_study": "This qualitative study analyzed free-text survey comments from 101 homebound older adults (mean age 74) who took part in \"Strength on Wheels,\" a 12-week randomized trial pairing Meals on Wheels deliveries with a home-based exercise program. Participants broadly enjoyed the meals and engaged with the exercise materials, but many described ongoing pain and worry about falling while exercising alone. Reactions to the commercial activity tracker were mixed \u2014 motivating for some, but others struggled to charge it, read its icons, or keep track of it. Participants said they also needed social contact, cognitive activities, physical therapy, transportation and home modifications to stay independent.",
+      "why_it_matters": "It shows that simply delivering food and an exercise handout is not enough for frail, homebound people \u2014 fear of falling and unmanaged pain can quietly block participation in exactly the activity meant to reduce fall risk.",
+      "story_angle_primary": "If fear of falling or pain is keeping you from doing a home exercise program, say so \u2014 these were the most common barriers participants raised, and a physical therapist or your clinician can adapt exercises to be done seated or with support rather than you abandoning them.",
+      "story_angle_secondary": "For program designers and home-care providers: expect to pair any home exercise offering with pain management, fall-safety coaching, and low-tech tracking options, because wearable devices were a frequent source of frustration rather than motivation in this group.",
+      "caveats": "Qualitative analysis of self-reported free-text comments from a single trial; the parent randomized trial found no difference in physical measures (only improved loneliness in the exercise arm); findings describe experiences, not effectiveness, and may not generalize beyond Meals on Wheels clients."
+    },
+    {
+      "headline": "Turn Your Head While Walking: A Simple Challenge That Reveals Hidden Balance Trouble",
+      "journal": "Geroscience",
+      "published": "2026 Oct 19",
+      "pmid": "42895590",
+      "doi": "10.1007/s11357-026-02602-3",
+      "the_study": "Belgian researchers had 61 healthy community-dwelling older adults (average age 76, 40 women), some with a history of falls and some without, walk while an augmented-reality headset cued them to move their head up, down, left and right. They also measured neck sensorimotor control, inner-ear (vestibular) function and visual acuity. People with poorer neck and vestibular function walked more cautiously during head turns \u2014 wider steps, longer step times \u2014 while poorer visual acuity was linked to genuinely less stable walking. The link between sensory function and walking stability was strongest in those who had already fallen.",
+      "why_it_matters": "Everyday moments like turning your head to check traffic or scan a shelf are when balance is most tested, and this study suggests vision, inner-ear and neck function each shape how well you handle them.",
+      "story_angle_primary": "If you feel unsteady when you turn your head \u2014 crossing a street, looking up at a cupboard, glancing over your shoulder \u2014 treat it as worth mentioning: an up-to-date vision check and an assessment of inner-ear and neck function may identify a fixable contributor to your balance.",
+      "story_angle_secondary": "For clinicians and fitness staff in senior living: standard straight-ahead walking tests may miss instability that only appears under head-movement challenge, suggesting value in observing residents during head turns as part of routine balance screening.",
+      "caveats": "Small sample (N=61), single-center, cross-sectional and observational with fall history reported retrospectively, so causation cannot be established; participants were healthy community-dwellers, so results may not generalize to frailer or cognitively impaired older adults."
+    },
+    {
+      "headline": "Newer Diabetes Drugs Did Not Raise Fall or Fracture Risk in People Over 75",
+      "journal": "Diabetes Care",
+      "published": "2026 Oct 27",
+      "pmid": "42937517",
+      "doi": "10.2337/dc26-1316",
+      "the_study": "Using population-wide health databases from British Columbia, researchers compared 4,997 adults aged 75 and older with type 2 diabetes who started an SGLT2 inhibitor against 1,289 who started a DPP-4 inhibitor between 2021 and 2023. SGLT2 inhibitor users had lower rates of acute kidney injury (HR 0.76) and all-cause hospitalization (HR 0.87), with no difference in infections. There were no detectable differences in diabetic ketoacidosis, falls or fractures, though confidence intervals were wide enough to be compatible with modest benefit or harm.",
+      "why_it_matters": "Concerns about dehydration, dizziness and falls have made clinicians cautious about prescribing SGLT2 inhibitors to the oldest patients; this real-world data offers reassurance that the drugs did not show a clear fall or fracture signal in people 75 and older.",
+      "story_angle_primary": "If you are over 75 with type 2 diabetes and have been steered away from an SGLT2 inhibitor because of fall or fracture worries, this study gives you grounds to revisit the conversation with your doctor \u2014 but don't change any medication on your own, and note the findings were not precise enough to rule out small effects.",
+      "story_angle_secondary": "For long-term care prescribers and pharmacists: these data support considering SGLT2 inhibitors in the 75-plus population, while continuing standard monitoring for dehydration and orthostatic symptoms during initiation.",
+      "caveats": "Observational cohort study using administrative claims \u2014 cannot establish causation and residual confounding is possible; comparison groups differed in age and sex (DPP-4i users were older and more often women); estimates for falls, fractures and ketoacidosis were imprecise; short follow-up window (2021-2023); single Canadian province."
+    },
+    {
+      "headline": "Stopping Blood Pressure Pills in Nursing Homes: The Evidence Is Thinner Than You'd Expect",
+      "journal": "Drugs Aging",
+      "published": "2026 Nov",
+      "pmid": "42888381",
+      "doi": "10.1007/s40266-026-01342-5",
+      "the_study": "Researchers systematically searched the literature for randomized trials of planned antihypertensive deprescribing in institutional long-term care and found only three studies involving 1,548 residents. The trials differed so much in strategy, monitoring, restart criteria and follow-up that no results could be pooled. In the DANTON trial, deprescribing cut the number of blood pressure medications by 1.2 and raised systolic pressure by 11.0 mmHg at 16 weeks; mortality estimates varied (HR 1.02 in RETREAT-FRAIL over about 38 months vs. 1.65 in DANTON over 32 weeks), and evidence on falls, hospitalization, cognition, function and quality of life was sparse or at risk of bias.",
+      "why_it_matters": "Reducing blood pressure medication is often proposed in frail nursing home residents partly to prevent dizziness and falls, but this review shows there is still no reliable randomized evidence that it improves falls, hospitalization or survival either way.",
+      "story_angle_primary": "If a clinician suggests reducing your blood pressure medications because of lightheadedness or fall risk, it is fair to ask what the plan is for monitoring your pressure and under what conditions the medication would be restarted \u2014 the trials that worked best were supervised, with clear restart criteria.",
+      "story_angle_secondary": "For long-term care medical directors and nursing staff: this review argues against applying a single generic deprescribing rule, recommending instead protocol-driven, individually monitored tapering with defined restart thresholds, since pooled effect estimates are not currently justified.",
+      "caveats": "Only three randomized trials met criteria, with substantial clinical and methodological heterogeneity preventing meta-analysis; several outcomes were judged at risk of bias; follow-up was short in two trials; generative AI was used for language editing of the manuscript (authors verified content)."
+    }
+  ],
+  "fact_check": [
+    {
+      "number": 1,
+      "pmid": "42986745",
+      "headline": "Grip Strength Keeps Showing Up as a Red Flag for Repeat and Injury-Causing Falls",
+      "verdict": "accurate",
+      "notes": "Study details, numbers, limitations and disclosed conflicts all match the abstract; causal framing is appropriately hedged.",
+      "issues": []
+    },
+    {
+      "number": 2,
+      "pmid": "42987451",
+      "headline": "Hip Fractures in Nursing Homes Fell 18% in Five Years \u2014 But Who Gets Hurt Comes Down to the Resident, Not the Building",
+      "verdict": "minor",
+      "notes": "All figures match; only a mildly causal word choice in the framing.",
+      "issues": [
+        {
+          "label": "Causal verb for observational associations",
+          "severity": "Minor",
+          "as_written": "this very large study suggests individual clinical factors drive hip fracture risk far more than structural features of the building or its location",
+          "abstract_says": "Fracture occurrence was associated primarily with resident-level clinical characteristics rather than broad facility-level structural indicators.",
+          "problem": "\"Drive\" implies causation, while the design is a retrospective cohort that can only show association. The headline (\"comes down to the resident\") pushes in the same direction.",
+          "suggested_fix": "Replace with \"individual clinical factors were far more strongly associated with hip fracture risk than structural features.\""
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "pmid": "42759165",
+      "headline": "Hearing, Vision and Mood \u2014 Not Just the Knee \u2014 Predicted First Falls in People With Knee Arthritis",
+      "verdict": "accurate",
+      "notes": "Sample, model count, AUC, top predictors and external validation all match; appropriate hedging that prediction is not proof.",
+      "issues": []
+    },
+    {
+      "number": 4,
+      "pmid": "42822543",
+      "headline": "Depression That Never Lifts Speeds Up Physical Decline, Four Global Studies Agree",
+      "verdict": "minor",
+      "notes": "Numbers and trajectory names are accurate; the headline verb is causal and the education direction is an inference from an OR range.",
+      "issues": [
+        {
+          "label": "Causal headline for cohort data",
+          "severity": "Minor",
+          "as_written": "Depression That Never Lifts Speeds Up Physical Decline, Four Global Studies Agree",
+          "abstract_says": "Persistent high burden thus represents a reproducible risk marker of accelerated frailty accumulation",
+          "problem": "\"Speeds up\" asserts causation; the authors describe persistent high symptom burden as a risk marker that predicted faster frailty accumulation, and the digest's own caveat says causation cannot be established.",
+          "suggested_fix": "\"Depression That Never Lifts Tracks With Faster Physical Decline, Four Global Studies Find.\""
+        },
+        {
+          "label": "Education direction inferred",
+          "severity": "Minor",
+          "as_written": "while lower education predicted membership in the worse trajectories",
+          "abstract_says": "education was a directionally consistent predictor of phenotype membership across the four cohorts (OR 0.32-0.80)",
+          "problem": "The abstract reports only that education was a directionally consistent predictor with ORs below 1; the specific statement that lower education predicted the worse trajectories is a reasonable but unstated inference.",
+          "suggested_fix": "Say \"education level was consistently associated with which trajectory people fell into (ORs 0.32\u20130.80), with more education linked to better trajectories.\""
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "pmid": "42832847",
+      "headline": "How You Fall May Matter as Much as Whether You Fall: Review Finds Head Impacts Follow Predictable Patterns",
+      "verdict": "accurate",
+      "notes": "Screened/included counts, directional findings, the single RCT and the mixed-evidence caveat all match the abstract.",
+      "issues": []
+    },
+    {
+      "number": 6,
+      "pmid": "42679689",
+      "headline": "Brain Scans Show Why Uneven Ground Trips Up Some Older Adults More Than Others",
+      "verdict": "minor",
+      "notes": "Sample sizes, ages, terrain conditions and group differences are accurate; one finding is slightly imprecise about which walking measure the brain data tracked.",
+      "issues": [
+        {
+          "label": "Which gait measure the brain findings tracked",
+          "severity": "Minor",
+          "as_written": "these brain changes tracked most strongly with unsteady walking in the lower-functioning group",
+          "abstract_says": "A significant group-by-behavior interaction showed that higher FW was more strongly associated with greater baseline gait variability in lower-functioning than higher-functioning older adults, particularly in the body of corpus callosum. Extracellular free water and tissue-specific white matter measures showed distinct associations with baseline versus uneven-terrain walking",
+          "problem": "The interaction reported was specifically for free water and baseline gait variability (notably in the corpus callosum), not for all the brain measures or for walking on uneven terrain; the abstract stresses that baseline and uneven-terrain associations were distinct.",
+          "suggested_fix": "\"Higher extracellular fluid was most strongly linked to irregular step timing at baseline in the lower-functioning group, especially in the corpus callosum.\""
+        },
+        {
+          "label": "Causal framing of cross-sectional imaging",
+          "severity": "Minor",
+          "as_written": "the difficulty is rooted partly in measurable brain changes, not simply carelessness",
+          "abstract_says": "We examined age and physical function group differences in white matter microstructure and tested whether associations between white matter measures and uneven-terrain walking behavior differed between these groups.",
+          "problem": "\"Rooted in\" implies the brain changes cause the walking difficulty; the design is cross-sectional and only shows associations, as the digest's own caveat notes.",
+          "suggested_fix": "\"the difficulty is associated with measurable brain differences, not simply carelessness.\""
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "pmid": "42982004",
+      "headline": "Even 'Robust' Older Adults Fall \u2014 and Prior COVID-19 Was Linked to Four Times the Risk",
+      "verdict": "accurate",
+      "notes": "N, mean age, sex split, 28.7% fall incidence, HR 4.30 and the confidence interval all match; associational language is used throughout.",
+      "issues": []
+    },
+    {
+      "number": 8,
+      "pmid": "42877601",
+      "headline": "A One-Page Checklist Transformed How Hospitals Examine Patients After a Fall",
+      "verdict": "significant",
+      "notes": "Percentages are accurate, but the headline and \"Why it matters\" treat missing documentation as proof that examinations were not performed, and \"transformed\" overstates an observational documentation audit.",
+      "issues": [
+        {
+          "label": "Documentation treated as examination performed",
+          "severity": "Moderate",
+          "as_written": "this shows that without a structured form, critical checks like head examination and clotting risk are skipped most of the time",
+          "abstract_says": "Documentation was significantly higher in the proforma group across examination domains: ... external head (97.6% vs. 35.7%) ... coagulopathy (98.4% vs. 16.7%)",
+          "problem": "The study measured whether assessments were documented, not whether they were performed. Undocumented checks may still have happened; the digest's own caveat says the study measures documentation completeness, so the body text contradicts it.",
+          "suggested_fix": "\"this shows that without a structured form, critical checks like head examination and clotting risk go undocumented most of the time.\""
+        },
+        {
+          "label": "Hype verb in headline",
+          "severity": "Moderate",
+          "as_written": "A One-Page Checklist Transformed How Hospitals Examine Patients After a Fall",
+          "abstract_says": "Use of a structured Falls Proforma was associated with significantly greater completeness of post-fall documentation.",
+          "problem": "\"Transformed\" asserts a causal effect from a non-randomized retrospective comparison, and \"how hospitals examine patients\" misstates the outcome (documentation, in one Australian hospital).",
+          "suggested_fix": "\"A Structured Checklist Was Linked to Far More Complete Post-Fall Documentation at One Hospital.\""
+        },
+        {
+          "label": "'One-page' detail",
+          "severity": "Minor",
+          "as_written": "A One-Page Checklist",
+          "abstract_says": "a structured Falls Proforma ... Documentation across 12 assessment domains was compared",
+          "problem": "The abstract does not describe the proforma's length. Unverifiable from abstract only.",
+          "suggested_fix": "Drop \"one-page\" or describe it as a structured proforma covering 12 assessment domains."
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "pmid": "42986542",
+      "headline": "People Sent to Falls Prevention Programs Are the Ones Already Getting Hurt, Finnish Data Show",
+      "verdict": "minor",
+      "notes": "IRRs, cost percentages and the authors' descriptive-only caveat are reproduced correctly; the headline's \"already\" is a small timing mismatch.",
+      "issues": [
+        {
+          "label": "Timing implied by headline",
+          "severity": "Minor",
+          "as_written": "People Sent to Falls Prevention Programs Are the Ones Already Getting Hurt, Finnish Data Show",
+          "abstract_says": "Patients' injury-related specialized health care utilization was followed from their first MFFP visit until death or the end of December 2019.",
+          "problem": "Utilization was measured after program entry, not before it, so the data show higher injury care during follow-up rather than documented prior injury; higher baseline risk is the authors' inference, not a measured pre-program finding.",
+          "suggested_fix": "\"People Sent to Falls Prevention Programs Use Far More Injury Care Afterward \u2014 a Sign of Who Gets Referred, Finnish Data Show.\""
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "pmid": "42975735",
+      "headline": "When Bone Loss and Muscle Loss Travel Together, Fall and Fracture Risk Climbs Sharply",
+      "verdict": "significant",
+      "notes": "Prevalence and hazard ratios match exactly, but the \"Why it matters\" claims a more-than-additive risk that the authors explicitly say has not been demonstrated.",
+      "issues": [
+        {
+          "label": "Synergistic risk claim contradicts authors",
+          "severity": "Moderate",
+          "as_written": "yet the combination is far more dangerous than either alone",
+          "abstract_says": "We advance this systems-level framing as an integrative hypothesis rather than established fact: more-than-additive risk and synergistic treatment effects are not yet demonstrated in humans.",
+          "problem": "The review explicitly states that more-than-additive risk has not been shown in humans; the digest asserts it as fact. The caveat mentions only that synergistic treatment effects are undemonstrated, so the body text goes beyond the caveat.",
+          "suggested_fix": "\"yet having both conditions carries substantial fracture, fall and mortality risk \u2014 although the authors caution that a more-than-additive effect has not been demonstrated in humans.\""
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "pmid": "42848964",
+      "headline": "A Fall That Lands You in the ER May Be an Early Warning of an Undiagnosed Seizure",
+      "verdict": "accurate",
+      "notes": "Sample size, state count, study years, case-crossover design, odds ratios (2.6 overall, 4.5 for status epilepticus), the 22-week signal and the mean age of 49 in the fall subgroup all match the abstract. Framing is appropriately hedged (\"may be,\" \"suggests\").",
+      "issues": []
+    },
+    {
+      "number": 12,
+      "pmid": "42954246",
+      "headline": "Feeling Old and Falling Apart Predicts Fear of Falling, Regardless of How Many Illnesses You Have",
+      "verdict": "minor",
+      "notes": "Sample (N=150, aged 71-93, mean 80.5), SEM design, covariates and the null interaction with chronic diseases are all correct. Headline verb overstates a cross-sectional association, and one story-angle claim is not checkable against the abstract.",
+      "issues": [
+        {
+          "label": "\"Predicts\" for cross-sectional data",
+          "severity": "Minor",
+          "as_written": "Feeling Old and Falling Apart Predicts Fear of Falling, Regardless of How Many Illnesses You Have",
+          "abstract_says": "This cross-sectional study examined a sample of 150 German community-dwelling older adults aged 71-93... higher loss-related SPA, but not lower gain-related SPA, are associated with greater CaF.",
+          "problem": "\"Predicts\" implies a temporal/forward-looking relationship that a single-time-point survey cannot establish; the abstract uses only \"associated with.\" The body text and caveats are correctly hedged, so only the headline is out of step.",
+          "suggested_fix": "Change to \"Is Linked to\" or \"Goes With Greater Fear of Falling\"."
+        },
+        {
+          "label": "Existence of combined balance/aging-beliefs programs",
+          "severity": "Minor",
+          "as_written": "since programs that combine balance training with reframing beliefs about aging exist and anxiety does not have to be accepted as part of getting older",
+          "abstract_says": "The abstract describes only the cross-sectional association between self-perceptions of aging and concerns about falling; it makes no reference to intervention programs.",
+          "problem": "Unverifiable from abstract only \u2014 readers may take this as a finding of the study rather than outside context.",
+          "suggested_fix": "Attribute the claim to other sources or drop the reference to specific programs."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "pmid": "42696799",
+      "headline": "AI Fall Prediction Is Arriving in Nursing Homes, But Nobody Has Shown It Prevents Falls Yet",
+      "verdict": "minor",
+      "notes": "The count of included studies (11), technology types, prediction windows, performance range and the developmental nature of the evidence all match. Only the screening figure is slightly off.",
+      "issues": [
+        {
+          "label": "Number of records screened",
+          "severity": "Minor",
+          "as_written": "Researchers screened more than 2,000 records published between 2016 and 2026",
+          "abstract_says": "A total of 2030 records were identified from electronic databases, and 15 additional records were identified through manual reference searching and citation tracking. After 845 duplicates were removed, 1185 database records were screened",
+          "problem": "2,030 records were identified; after de-duplication only 1,185 were actually screened. \"Screened more than 2,000\" conflates identification with screening.",
+          "suggested_fix": "\"Researchers identified more than 2,000 records and screened 1,185 after removing duplicates\"."
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "pmid": "42985741",
+      "headline": "Short-Staffing and Rushed Care in Long-Term Care Homes Eased After 2021, But Social Care Is Still What Gets Cut",
+      "verdict": "accurate",
+      "notes": "Wave sample sizes (198 and 249), seven administrator interviews, multilevel clustering, the improvement in perceived staffing in 2024, the staffing-to-unfinished-care association, task prioritization over social care and the \"latent hazard\" framing all match the abstract. Caveats correctly note falls were not measured directly.",
+      "issues": []
+    },
+    {
+      "number": 15,
+      "pmid": "42679767",
+      "headline": "How You Turn, Not How You Walk Straight, Best Identifies Fall Risk in Parkinson's Disease",
+      "verdict": "minor",
+      "notes": "N=48, 32 (67%) fallers, 299 outcomes, AUCs of 0.86 and 1.00 for turning, declining clinical and gait models, the optimism-corrected 0.61 figure and both conflict-of-interest disclosures are all accurate. Two small points: the abstract's own description of faller classification is internally inconsistent, and the \"week-long\" monitoring detail is not in the abstract.",
+      "issues": [
+        {
+          "label": "Retrospective vs prospective faller classification",
+          "severity": "Minor",
+          "as_written": "cross-sectional and exploratory with retrospective faller classification",
+          "abstract_says": "This cross-sectional, discriminative study aimed to evaluate which selection of outcomes best discriminate retrospective fallers from non-fallers... Fallers and non-fallers were stratified based on prospective fall reports.",
+          "problem": "The abstract contradicts itself \u2014 the background says retrospective fallers while the methods say stratification used prospective fall reports. The digest asserts one version without noting the ambiguity.",
+          "suggested_fix": "Note that the abstract describes faller status inconsistently (retrospective in the background, prospective fall reports in the methods)."
+        },
+        {
+          "label": "\"Week-long\" real-world monitoring",
+          "severity": "Minor",
+          "as_written": "week-long real-world mobility monitoring with wearable sensors",
+          "abstract_says": "real-world mobility (n = 131)",
+          "problem": "The abstract does not specify the duration of real-world monitoring. Unverifiable from abstract only.",
+          "suggested_fix": "Drop \"week-long\" or say simply \"continuous real-world mobility monitoring with wearable sensors.\""
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "pmid": "42912393",
+      "headline": "Shrinking Calves May Signal Rising Fall Risk",
+      "verdict": "accurate",
+      "notes": "N=7,068, mean age 79.66, 23.64% incident falls, median ~3.07 years of follow-up, OR 1.03 per 1 cm (3.2%) and OR 1.48 (48.1%) for a \u226520% relative decrease versus no decrease are all reproduced correctly, as is the inverse-probability weighting for survival bias. Language stays associational.",
+      "issues": []
+    },
+    {
+      "number": 17,
+      "pmid": "42852585",
+      "headline": "Opioid Prescribing After Hip Fracture Stays Stubbornly High, Even as Sedative Use Falls",
+      "verdict": "minor",
+      "notes": "Cohort size (114,055), age cutoff (66+), years (2008-2024), all dispensing percentages, the 275-day survival requirement and the note on absent Canadian guidelines match the abstract. One small loss of nuance in the risk statement.",
+      "issues": [
+        {
+          "label": "Dropped \"long-term use\" qualifier on harms",
+          "severity": "Minor",
+          "as_written": "Both drug classes raise the risk of further falls, dependence, and death in older adults",
+          "abstract_says": "Both opioids and BZDs carry risks of persistent dependence, falls, and mortality with long-term use.",
+          "problem": "The abstract attaches these risks specifically to long-term use; the digest states them as blanket properties of the drug classes, which could discourage appropriate short-term pain control.",
+          "suggested_fix": "Add the qualifier: \"Both drug classes carry risks of further falls, dependence and death with long-term use.\""
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "pmid": "42954170",
+      "headline": "Digital Balance Training Beats Doing Nothing \u2014 But Not Ordinary Exercise",
+      "verdict": "accurate",
+      "notes": "60 RCTs, N=3,469, mean age 73.1, the five technology categories, superiority over no treatment but not over conventional exercise, moderate certainty for only 2 of 39 comparisons, the telerehabilitation estimate resting on 5 trials (n=198), the null dropout difference and the absence of falls as an outcome are all accurately reported, including the explicit statement that this is not direct fall-prevention evidence.",
+      "issues": []
+    },
+    {
+      "number": 19,
+      "pmid": "42833806",
+      "headline": "The Hospital Bed Alarm Problem: Common, Costly, and Not Shown to Prevent Falls",
+      "verdict": "minor",
+      "notes": "The abstract is a very brief description of a narrative review; the digest's account of scope (alarm evidence, overuse drivers, de-implementation strategies, low-value care science) matches, but several specific characterizations go beyond what the abstract states.",
+      "issues": [
+        {
+          "label": "Specific harms and cost claims not in the abstract",
+          "severity": "Minor",
+          "as_written": "Alarms are nearly ubiquitous on hospital units caring for older patients and contribute to noise, sleep disruption, and restricted movement \u2014 all of which can work against recovery \u2014 yet the review finds they are not supported as an effective fall-prevention tool.",
+          "abstract_says": "The authors conducted a review of fall prevention alarms in hospital settings. The review covers the evidence for fall prevention alarms and other fall prevention practices, factors that contribute to overuse of fall prevention alarms, and strategies that are being tested to de-implement fall prevention alarms.",
+          "problem": "Ubiquity, cost (\"Costly\" in the headline), noise, sleep disruption and restricted movement, and the explicit conclusion that alarms are ineffective, are all inferences from the review's framing of alarms as overused low-value care rather than statements in the abstract. Unverifiable from abstract only.",
+          "suggested_fix": "Soften to \"the review treats alarms as an overused, low-value practice and examines strategies to scale back their use,\" and drop or source the cost and sleep-disruption claims."
+        },
+        {
+          "label": "\"Bed and chair\" alarms",
+          "severity": "Minor",
+          "as_written": "reviewed the evidence base for bed and chair fall-prevention alarms in hospitals",
+          "abstract_says": "a review of fall prevention alarms in hospital settings",
+          "problem": "The abstract does not specify alarm types; the bed/chair distinction is added detail.",
+          "suggested_fix": "Say \"fall-prevention alarms\" without specifying bed and chair types."
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "pmid": "42970244",
+      "headline": "Centenarian Hospital Care in France: Most Arrive Through the Emergency Room, Often for Broken Bones",
+      "verdict": "significant",
+      "notes": "Stay counts (110,585 acute, 21,012 rehabilitation), the 70.0% emergency share and its rise, 14.9% in-hospital mortality, the 16.9% musculoskeletal share and the 9.4% same-day death figure are all correct. However, the digest twice elevates musculoskeletal conditions to the largest/most likely reason for hospitalization, which the abstract does not support, and omits that overall hospitalization burden fell over the decade.",
+      "issues": [
+        {
+          "label": "Falls described as the largest and fastest-growing driver",
+          "severity": "Moderate",
+          "as_written": "the data show falls and fractures are the single largest and fastest-growing driver of hospital use at age 100",
+          "abstract_says": "Musculoskeletal conditions accounted for 16.9% of acute care stays and represented an increasing proportion over time.",
+          "problem": "The abstract reports only the musculoskeletal share (16.9%) and that it is increasing; it gives no other diagnostic categories, so there is no basis for calling it the largest driver, nor for \"fastest-growing\" relative to other causes. It also does not state that the musculoskeletal share is \"largely falls and fractures.\"",
+          "suggested_fix": "\"Musculoskeletal conditions accounted for about one in six acute stays and made up a growing share over the decade.\""
+        },
+        {
+          "label": "Overstated personal risk statement",
+          "severity": "Moderate",
+          "as_written": "If you are in your late 90s or beyond, a fall is the most likely reason you would end up in a hospital",
+          "abstract_says": "Musculoskeletal conditions accounted for 16.9% of acute care stays",
+          "problem": "A 16.9% share does not establish falls as the most likely reason for admission, and the study covered people aged 100+, not the late 90s. This advises readers on the basis of a claim the data do not support.",
+          "suggested_fix": "\"Among people aged 100 and over, musculoskeletal problems \u2014 including falls and fractures \u2014 accounted for about one in six acute hospital stays.\""
+        },
+        {
+          "label": "Omitted declining hospitalization burden",
+          "severity": "Minor",
+          "as_written": "As the oldest-old population grows, the data show falls and fractures are the single largest and fastest-growing driver of hospital use at age 100",
+          "abstract_says": "Acute care hospitalization burden decreased from 53.2 stays per 100 centenarians in 2014 to 45.4 per 100 in 2023... rehabilitation hospitalization burden decreased from 10.3 to 8.3 stays per 100 centenarians",
+          "problem": "The digest emphasizes growth while omitting that per-capita acute and rehabilitation hospitalization rates actually fell over the study period.",
+          "suggested_fix": "Add that hospitalization rates per 100 centenarians declined over the decade even as the emergency-admission and musculoskeletal shares rose."
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "pmid": "42448012",
+      "headline": "Broken Wrist at 65? Your Hospital Record May Never Mention Osteoporosis",
+      "verdict": "minor",
+      "notes": "Population, sample size, country, date range and the key fracture-coding findings all match. One imprecision: the 330-vs-164 figures describe osteoporosis (M81)-associated comorbidity networks, not general co-occurring conditions.",
+      "issues": [
+        {
+          "label": "Comorbidity network figures lack context",
+          "severity": "Minor",
+          "as_written": "Women had far broader networks of co-occurring conditions than men (330 linked diagnoses vs. 164 at ages 70-79)",
+          "abstract_says": "females exhibited substantially broader M81-associated comorbidity networks than males, with the number of linked diagnoses increasing from 142 to 245 to 330 in females and from 76 to 137 to 164 in males between ages 50-59, 60-69, and 70-79 years",
+          "problem": "The counts refer specifically to diagnoses linked to osteoporosis without pathological fracture (M81), not to all co-occurring conditions generally, so the digest's phrasing is broader than the source.",
+          "suggested_fix": "Say \"women had far broader networks of conditions co-occurring with an osteoporosis diagnosis than men (330 vs. 164 linked diagnoses at ages 70-79)\"."
+        },
+        {
+          "label": "Thoracic fractures omitted",
+          "severity": "Minor",
+          "as_written": "forearm, wrist, hand and upper arm fractures showed no significant link to an osteoporosis diagnosis in any age group",
+          "abstract_says": "Upper limb and thoracic fractures were rarely recorded alongside osteoporosis diagnoses despite being recognized as potential fragility fractures.",
+          "problem": "The conclusion also covers thoracic fractures, which the digest leaves out; not wrong, just incomplete.",
+          "suggested_fix": "Add that thoracic fractures showed the same under-coding pattern."
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "pmid": "42847733",
+      "headline": "Meals Plus Exercise at Home: What Homebound Older Adults Actually Said About It",
+      "verdict": "minor",
+      "notes": "N, mean age, design, trial details and themes match the abstract. Two small interpretive stretches: the abstract does not say fall concerns arose specifically from exercising alone, nor that pain and fear of falling were the most common barriers or that they blocked participation.",
+      "issues": [
+        {
+          "label": "Added detail not in abstract",
+          "severity": "Minor",
+          "as_written": "many described ongoing pain and worry about falling while exercising alone",
+          "abstract_says": "Participants (N = 101, mean age 74 years) reported enjoying meals and engaging with the exercise materials, though many reported ongoing pain and concerns about falls.",
+          "problem": "The abstract reports concerns about falls generally; it does not tie them to exercising alone or unsupervised.",
+          "suggested_fix": "Drop \"while exercising alone\" or mark it as unverifiable from the abstract."
+        },
+        {
+          "label": "Barriers framed as blocking participation",
+          "severity": "Moderate",
+          "as_written": "fear of falling and unmanaged pain can quietly block participation in exactly the activity meant to reduce fall risk",
+          "abstract_says": "Participants ... reported enjoying meals and engaging with the exercise materials, though many reported ongoing pain and concerns about falls.",
+          "problem": "The abstract reports that participants did engage with the exercise materials despite pain and fall concerns; it does not report that these factors reduced or blocked participation.",
+          "suggested_fix": "Reframe as \"pain and worry about falling were common even among participants who engaged with the program, and may need to be addressed directly.\""
+        },
+        {
+          "label": "Unsupported ranking of barriers",
+          "severity": "Minor",
+          "as_written": "these were the most common barriers participants raised",
+          "abstract_says": "many reported ongoing pain and concerns about falls",
+          "problem": "The abstract gives no frequency ranking of themes, only that \"many\" reported these.",
+          "suggested_fix": "Change to \"these were among the concerns participants commonly raised.\""
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "pmid": "42895590",
+      "headline": "Turn Your Head While Walking: A Simple Challenge That Reveals Hidden Balance Trouble",
+      "verdict": "accurate",
+      "notes": "Sample size, mean age, sex split, country, measures and the direction of all three sensory findings match the abstract, including the stronger association in those with a fall history. The \"single-center\" descriptor in Caveats is not stated in the abstract but is consistent with the single-institution author list.",
+      "issues": []
+    },
+    {
+      "number": 24,
+      "pmid": "42937517",
+      "headline": "Newer Diabetes Drugs Did Not Raise Fall or Fracture Risk in People Over 75",
+      "verdict": "accurate",
+      "notes": "Cohort sizes, comparator, dates, province, hazard ratios and the null findings for ketoacidosis, falls and fractures all match, and the digest flags the imprecision the abstract notes. Minor wording point: the cohort was aged 75 and older rather than \"over 75,\" which the body text states correctly.",
+      "issues": []
+    },
+    {
+      "number": 25,
+      "pmid": "42888381",
+      "headline": "Stopping Blood Pressure Pills in Nursing Homes: The Evidence Is Thinner Than You'd Expect",
+      "verdict": "minor",
+      "notes": "Number of trials, 1,548 residents, non-poolability, DANTON blood pressure and drug-count figures, and both mortality hazard ratios match. One story-angle claim implies the review ranked trial strategies by effectiveness, which it did not.",
+      "issues": [
+        {
+          "label": "Implied ranking of deprescribing strategies",
+          "severity": "Minor",
+          "as_written": "the trials that worked best were supervised, with clear restart criteria",
+          "abstract_says": "Within individual trials, supervised deprescribing reduced antihypertensive exposure and raised blood pressure, but the magnitude and clinical consequences varied by strategy and follow-up.",
+          "problem": "The review did not identify any trial as working \"best\"; it reported that supervised deprescribing lowered drug exposure and raised blood pressure, with clinical consequences varying and no pooled comparison.",
+          "suggested_fix": "Reword to \"the trials all used supervised tapering with defined monitoring and restart criteria, so it is fair to ask what yours would be.\""
+        },
+        {
+          "label": "Mortality figures presented without their uncertainty",
+          "severity": "Minor",
+          "as_written": "mortality estimates varied (HR 1.02 in RETREAT-FRAIL over about 38 months vs. 1.65 in DANTON over 32 weeks)",
+          "abstract_says": "RETREAT-FRAIL reported an adjusted hazard ratio (HR) for all-cause mortality of 1.02 (95% confidence interval 0.86-1.21) ... whereas DANTON reported an HR of 1.65 (0.95-2.85) to 32 weeks",
+          "problem": "Both estimates crossed 1, so neither showed a statistically detectable mortality effect; quoting 1.65 without the confidence interval may read as a real excess death signal.",
+          "suggested_fix": "Add the confidence intervals or note that neither estimate was statistically significant."
+        }
+      ]
+    }
+  ]
+}

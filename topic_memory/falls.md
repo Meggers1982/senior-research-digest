@@ -1,24 +1,24 @@
 # Topic Memory: falls
-_Last updated: 2026-10-23_
+_Last updated: 2026-11-06_
 
 ## Established findings
-- Frailty phenotype and brief self-report tools (SARC-F, frailty criteria, worry about falling) predict falls, disability and post-fracture recovery as well as or better than grip strength, calf circumference or muscle mass (PMIDs 42600484, 42696807, 42138269; 2026)
-- Fall risk compounds across domains — mobility plus cognition plus vision/hearing plus mood — and single-domain screening underperforms (PMIDs 42575258, 42759165, 42895590, 42833804, 42822543; 2026)
+- Fall risk compounds across domains — mobility plus cognition plus vision/hearing plus mood — and single-domain screening underperforms; sensory and mood problems often outrank the obvious joint or limb problem (PMIDs 42759165, 42895590, 42575258, 42833804, 42822543; 2026)
 - Persistent, not episodic, depressive symptoms track with accelerated frailty across four international cohorts (PMID 42822543)
-- Bone health and falls run in silos: osteoporosis under-coded after wrist/upper-limb fractures; few fractured nursing home residents receive bone-protective treatment (PMIDs 42448012, 42632250, 42358089)
-- Benzodiazepine use after hip fracture has fallen sharply while opioid use has barely moved; deprescribing alone has not been shown to reduce falls (PMIDs 42852585, 42888381, 42786600)
-- Exercise (strength plus balance) and home hazard modification remain the best-evidenced levers, holding up across high- and low-resource countries (PMIDs 42895234, 42775218, 42716502)
-- Slow gait speed predicts falls from midlife into the 90s using a simple timed walk (PMIDs 42837653, 42734897)
+- Bone health and falls run in silos: osteoporosis under-coded after wrist/forearm/upper-arm fractures, and bone plus muscle loss together carry far higher fracture, fall and mortality risk than either alone (PMIDs 42448012, 42975735, 42632250)
+- Benzodiazepine use after hip fracture has fallen sharply while opioid use has barely moved; antihypertensive deprescribing has still not been shown to reduce falls (PMIDs 42852585, 42888381)
+- Exercise (strength plus balance) and home hazard modification remain the best-evidenced levers, and no technology-based balance program has outperformed a conventional exercise class (PMIDs 42954170, 42895234, 42775218)
+- SGLT2 inhibitors show no clear fall or fracture signal in older adults — now replicated in Taiwan and British Columbia (PMIDs 42896077, 42937517)
+- Cheap, repeatable physical measures (grip strength, calf circumference change, gait speed, frailty criteria) flag risk about as well as equipment-based testing; change over time is more informative than a single reading (PMIDs 42986745, 42912393, 42600484, 42696807)
 
 ## Emerging threads
-- Implementation beats discovery: EHR-embedded fall-prevention prompts cut falls ~9% at scale, but only 22% of eligible patients got an exercise prescription (PMID 42886484); adherence, not efficacy, drove results in an MCI balance trial (PMID 42904808)
-- Non-use of prescribed aids and programs — 42% of regular walking-aid users weren't using the device at fracture; stigma and pain as enrollment barriers (PMIDs 42897253, 42831317, 42847733)
-- Timing as its own variable: risk shifts by hospital days 3 and 7; recovery plateaus ~4 months post-hip-fracture (PMIDs 42842205, 42696807)
-- Biomechanics of the fall itself — head-impact direction, protective arm use, body rotation — as trainable (PMID 42832847)
+- Implementation and uptake, not discovery, is the bottleneck: an EHR prompt cut falls ~9% while only 22% of eligible patients got an exercise prescription; adherence drove the MCI balance trial result (PMIDs 42886484, 42904808)
+- Technology still unproven as a fall reducer across three categories at once — bed/chair alarms, AI prediction dashboards, exergaming/telerehabilitation (PMIDs 42833806, 42696799, 42954170)
+- The destabilizing moment is a turn or head movement, not straight-line walking — in Parkinson's disease and in community dwellers (PMIDs 42679767, 42895590)
+- Biomechanics of the fall itself (head-impact direction, protective arm use, rotation) appear partly trainable (PMID 42832847)
+- "Robust" older adults are not exempt — ~29% fell within a year, with a possible lingering post-COVID effect — in tension with risk-stratification arguments from nursing-home fracture data (PMIDs 42982004, 42987451)
+- Psychological and organizational drivers: viewing aging as physical loss predicts fear of falling independent of health; short-staffing cuts social and supervisory care first (PMIDs 42954246, 42985741)
 - Falls as a presenting symptom of something else: unrecognized seizures, Charles Bonnet Syndrome (PMIDs 42848964, 42833804)
-- Structured post-fall documentation proformas close large recording gaps, but may be used less often in patients with dementia (PMID 42877601)
-- Routine drug choices as falls variables: SGLT2 vs DPP-4 inhibitors, DORA insomnia drugs — both less risky than assumed, both observational or underpowered (PMIDs 42896077, 42799573)
-- Technology still unproven as a fall reducer: bed/chair alarms, AI prediction, wearable/VR screening (PMIDs 42833806, 42696799, 42789327)
+- Methodological caution — people referred to falls programs are already high-risk, so matched-control program comparisons mislead (PMID 42986542)
 
 ## Feature ideas already pitched
 - "Beyond Balance Class: Why Preventing Falls Takes a Village" — community infrastructure (Aug 2026)
@@ -27,3 +27,4 @@ _Last updated: 2026-10-23_
 - "Cutting Sedatives Didn't Lower Falls" — deprescribing versus actual programs (Sep 2026)
 - "After a Broken Wrist, Four Things That Should Happen Next" — post-fracture follow-up gap (Oct 2026)
 - "The Walker in the Hall Closet" — the adherence/uptake gap between prescribed fall prevention and what people actually use (Oct 2026)
+- "Bed Alarms, AI Dashboards and Balance Games" — fall-prevention technology marketed without evidence it prevents falls (Nov 2026)

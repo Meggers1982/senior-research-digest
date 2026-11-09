@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-11-02T22:31:55.382132+00:00",
+  "generated_at": "2026-11-09T23:13:09.487283+00:00",
   "geo": "US",
   "no_signal": [
+    "dementia",
+    "falls",
     "cardiovascular disease",
+    "depression",
+    "nutrition",
+    "sleep",
     "palliative care",
     "osteoporosis",
     "sarcopenia",
     "cognitive decline",
+    "hearing loss",
+    "vision loss",
     "polypharmacy"
   ],
   "rising_queries": [],
-  "rotation": {
-    "dementia": {
-      "change_pct": -11.0,
-      "peak": 15.0,
-      "prior_mean": 12.5,
-      "recent_mean": 11.1
-    },
-    "depression": {
-      "change_pct": -4.6,
-      "peak": 32.0,
-      "prior_mean": 18.9,
-      "recent_mean": 18.0
-    },
-    "falls": {
-      "change_pct": -18.5,
-      "peak": 100.0,
-      "prior_mean": 91.1,
-      "recent_mean": 74.2
-    },
-    "hearing loss": {
-      "change_pct": -7.5,
-      "peak": 100.0,
-      "prior_mean": 55.2,
-      "recent_mean": 51.1
-    },
-    "nutrition": {
-      "change_pct": -19.5,
-      "peak": 76.0,
-      "prior_mean": 41.0,
-      "recent_mean": 33.0
-    },
-    "sleep": {
-      "change_pct": -6.3,
-      "peak": 100.0,
-      "prior_mean": 71.0,
-      "recent_mean": 66.5
-    },
-    "vision loss": {
-      "change_pct": 20.6,
-      "peak": 51.0,
-      "prior_mean": 17.6,
-      "recent_mean": 21.2
-    }
-  },
+  "rotation": {},
   "window": "today 12-m"
 }

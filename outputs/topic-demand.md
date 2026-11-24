@@ -1,6 +1,6 @@
 # Topic demand for the focus rotation
 
-Generated: 2026-11-16T23:07:08.889812+00:00
+Generated: 2026-11-24T01:23:12.913201+00:00
 Google Trends, geo US, window today 12-m. Values are Google's relative 0-100 interest index, not search counts — a large percentage rise from a low base is still a low base. Read **vs last year** first: the 8-week change cannot tell a seasonal dip from a real decline, and Google revises its most recent weeks upward, so short-window comparisons skew negative.
 
 ## Current rotation, by change in search interest
